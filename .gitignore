@@ -1,4 +1,12 @@
+/.idea
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
