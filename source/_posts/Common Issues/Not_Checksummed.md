@@ -1,4 +1,4 @@
-## <p align="center">Error: Not Checksummed</p>
+## Error: Not Checksummed
 ***
 
 Every Ethereum address has two versions to it, one that includes uppercase letters and one that doesn’t. These are called the checksummed and non-checksummed versions, respectively. Take for example, the MEW donation address:

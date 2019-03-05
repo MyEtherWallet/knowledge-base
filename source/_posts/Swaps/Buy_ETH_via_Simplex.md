@@ -1,9 +1,18 @@
-## <p align="center">Buy ETH via Simplex</p>
+---
+title: "Where can I buy / sell / trade / exchange my ETH or Tokens?"
+date: 2019-03-01 00:04:00
+tags:
+- faqs, buy, sell, trade, exchange
+categories:
+- faqs
+---
+
+## Buy ETH via Simplex
 ***
 
 Our partner Simplex allows MEW users to securely buy ETH with a credit card! 
 
-<br>
+
 
 ### Here’s how to find it:
 
@@ -18,7 +27,7 @@ Our partner Simplex allows MEW users to securely buy ETH with a credit card!
 **Step 4.** Follow the prompts to fill in your information.
 * You will be redirected to Simplex. 
 
-<br>
+
 
 ### A couple things to keep in mind during this process: 
 

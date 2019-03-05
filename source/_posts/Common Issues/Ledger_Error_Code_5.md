@@ -1,4 +1,4 @@
-## <p align="center">Ledger: Error Code 5</p>
+## Ledger: Error Code 5
 ***
 
 If you’re getting the error code 5, this means that your Ledger is opened and being used by another application, such as Ledger Live. 

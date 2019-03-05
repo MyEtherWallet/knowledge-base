@@ -1,4 +1,4 @@
-## <p align="center">Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly</p>
+## Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly
 ***
 
 Here at MyEtherWallet (MEW), we’re all about fostering a seamless user experience, built on a foundation of security. This is why we’ve partnered with multiple exchanges, such as Bity, Kyber Network, and Changelly, to bring you competitive price points for your swaps.

@@ -1,20 +1,20 @@
-## <p align="center">What to Do if You Forgot to Reveal Your ENS Bid</p>
+## What to Do if You Forgot to Reveal Your ENS Bid
 ***
 
-### <p align="center">If There Are Other Bidders</p>
+### If There Are Other Bidders
 
 You can get 0.5% back by manually revealing, as written up [here]().
 
 Unfortunately, you must reveal during the reveal period in order to win the name, or get the full amount back.
 
-<br>
 
-### <p align="center">If There Are No Other Bidders</p>
+
+### If There Are No Other Bidders
 As soon as the auction is over, start a new auction for the same name.
 
 Three days later, reveal your original bid and you will get it. During this period, do not tell anyone else about your name (unless you are emailing us for support because we can't help you otherwise).
 
-<br>
+
 
 #### To start an auction via MEW without bidding:
 **Step 1.** [Access your wallet]() and head to the 'Send Transaction' area. 
@@ -27,7 +27,7 @@ Three days later, reveal your original bid and you will get it. During this peri
 
 **Step 5.** Data: [See Below].
 
-<br>
+
 
 #### To get your data string:
 **Step 1.** Head to [Etherscan's ENS Lookup](https://etherscan.io/enslookup?q=yourname.eth) interface. 

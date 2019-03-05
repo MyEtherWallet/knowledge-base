@@ -1,4 +1,4 @@
-## <p align="center">Error: Out of Gas</p>
+## Error: Out of Gas
 ***
 
 Each transaction (including token and contract transactions) require gas and that gas is paid in Ether. You can think of this like a transaction fee. The more computational effort a transaction takes, the more gas you need.
@@ -11,9 +11,9 @@ Any excess gas will be returned to you, so you could even triple or quadruple it
 
 We are always trying to improve how we estimate gas as contracts become more complex. However, sometimes we still get it wrong. Manually increasing gas limits and price can dramatically change how quickly and stable your transactions are verified.
 
-<br>
 
-### <p align="center">More Information About Gas</p>
+
+### More Information About Gas
 * A standard TX will be `21000` gas & a gas price of `0.00000002 ETH` so the total TX fee will be `0.00042 ETH`.
 * With tokens, the amount of gas is typically 50000 gas - 100000 gas, so the total TX fee increases to `0.001 ETH - 0.002 ETH`.
 * The amount of ETH or tokens you are sending does not affect the amount of gas you need.

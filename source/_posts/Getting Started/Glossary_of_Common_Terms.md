@@ -1,21 +1,21 @@
-## <p align="center">A Glossary of Common Terms in the Ethereum / Crypto Community</p>
+## A Glossary of Common Terms in the Ethereum / Crypto Community
 
-#### <p align="center"><i>Here is a list of terms you may encounter while using MyEtherWallet (MEW).</p>
-#### <p align="center">You can also [read in Spanish](https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md), thanks to faraggi.</i></p>
+#### <i>Here is a list of terms you may encounter while using MyEtherWallet (MEW).
+#### You can also [read in Spanish](https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md), thanks to faraggi.</i>
 ***
 
 ### Wallet
 * The interface / client / wrapper / holder that you use to manage your account(s).
 * Example: MyEtherWallet.com, MEWconnect, MetaMask, a hardware wallet (i.e. Ledger, Trezor, BitBox, Secalot, etc..), a Multisig Wallet Contract.
 
-<br>
+
 
 ### Account
 * A public & private keypair that "holds" your funds.
 * Your funds are actually stored on the blockchain, not in the wallet or account.
 * Just like your Reddit account has a username (public) and password (private), so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a username (public) and password (private) and password for that password (private + more secure). Read more about this [here]().
 
-<br>
+
 
 ### (Account / Ethereum / Public) Address
 * You use this to send funds to an account.
@@ -24,7 +24,7 @@
 * In Ethereum, the address begins with 0x.
 * Example: `0x06A85356DCb5b307096726FB86A78c59D38e08ee`
 
-<br>
+
 
 ### Public Key
 * In cryptography, you have a keypair: the public and private key.
@@ -32,7 +32,7 @@
 * (Advanced) In Ethereum, the address "acts" like the public key, but it's not actually the public key.
 * (Advanced) In Ethereum, the public key is derived from the private key and is 128 hex characters. You then take the "SHA3" (Keccak-256) hash of this (64 characters), take the last 40 characters, and prefix with 0x, give you your 42-character address.
 
-<br>
+
 
 ### Private Key
 * You use this to access and send funds from an account.
@@ -44,7 +44,7 @@
 * This is the key you need to keep safe. Without it you cannot access your funds. Although, you don't need to save this raw, unencrypted private key in this format. You can saving the fancy versions of it (i.e. the Keystore File / Mnemonic Phrase).
 * Example: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
 
-<br>
+
 
 ### Keystore File
 * Encrypted version of your private key in JSON format (though it does not have a JSON extension).
@@ -55,9 +55,9 @@
 * Example of file name: 
 `UTC--2017-07-02T20-33-09.177Z--06a85356dcb5b307096726fb86a78c59d38e08ee`
 * Example of Contents: 
-`{"version":3,"id":"aa811d53-fe9a-44a2-bd1c-e737007b5591","address":"06a85356dcb5b307096726fb86a78c59d38e08ee","Crypto":{"ciphertext":"f5a7cc8d4b8cf93510b0d0d057f3a52ac79fd48e619e0638c4ffd978ca180248","cipherparams":{"iv":"975ab00192e2dd74170e91ca59c0b0bd"},"cipher":"aes-128-ctr","kdf":"scrypt","kdfparams":{"dklen":32,"salt":"0210f0d0b99e440dfbceb36373304638bac093a367ee7da6411cd165f7aa907a","n":1024,"r":8,"p":1},"mac":"8197a747a3855a10546a2ff939c36470daed78e393b670efa0c12fe3b23dd7e3"}}`
+`{"version":3,"id":"aa811d53-fe9a-44a2-bd1c-e737007b5591","address":"06a85356dcb5b307096726fb86a78c59d38e08ee","Crypto":{"ciphertext":"f5a7cc8d4b8cf93510b0d0d057f3a52ac79fd48e619e0638c4ffd978ca180248","cipherparams":{"iv":"975ab00192e2dd74170e91ca59c0b0bd"},"cipher":"aes-128-ctr","kdf":"scrypt","kdfparams":{"dklen":32,"salt":"0210f0d0b99e440dfbceb36373304638bac093a367ee7da6411cd165f7aa907a","n":1024,"r":8,"":1},"mac":"8197a747a3855a10546a2ff939c36470daed78e393b670efa0c12fe3b23dd7e3"}}`
 
-<br>
+
 
 ### Mnemonic Phrase (Recovery Phrase)
 * Another fancy version of your private key, that is actually used to derive multiple private keys.
@@ -70,7 +70,7 @@
 * Example 24-words: 
 `card enrich gesture connect kick topple fan body blind engine lemon swarm venue praise addict agent unaware equal bean sing govern income link leg`
 
-<br>
+
 
 ### Hardware Wallet
 * Typically, a single-purpose device that "holds" your private key(s), ensuring these keys are safe.
@@ -79,7 +79,7 @@
 * **Never type the recovery phrase on your computer.** It defeats the purpose of your hardware wallet.
 * See [here]() for more information about Hardware Wallets.
 
-<br>
+
 
 ### Address Identicon / Address Icon
 * The colorful blob of colors that corresponds to your address.
@@ -88,12 +88,12 @@
 * [Example 2](http://i.imgur.com/FvyLewS.jpg)
 * Note: The above addresses are a single character different but have remarkably different icons & colors. Even one difference in character will result in a completely separate wallet.
 
-<br>
+
 
 ### Hexadecimal
 * Used all over Ethereum for a variety of things, a hexadecimal string is comprised of the numbers `0 1 2 3 4 5 6 7 8 9` and `A B C D E F`.
 
-<br>
+
 
 ### Seed
 * The input given to derive a private key. 
@@ -101,7 +101,7 @@
 * This should always be generated in a truly random way, not something you make up with your brain.
 * If you chose the seed, it is known as a brain wallet.
 
-<br>
+
 
 ### Brain Wallet
 * An account generated from a seed / password / passphrase of your choosing.
@@ -109,7 +109,7 @@
 * Brain wallets can generally be brute-forced easily by super fast computers.
 * *Don't use brain wallets.*
 
-<br>
+
 
 ### Entropy
 * Also known as "randomness".
@@ -118,21 +118,21 @@
 * Ethereum private keys are 256-bit keys
 * 24-Word mnemonic phrases are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). `11 * 24 = 264`. The last word is a checksum (read more about checksum [here]()).
 
-<br>
+
 
 ### Derive / Derivation
 * To derive something is to obtain it from an original source.
 * For example, if we were to derive a Keystore from a private key and a password, this means that the Keystore is made from these two sources.
 * The Keystore is a product of the two, thus it is derived from them.
 
-<br>
+
 
 ### Encryption
 * Encryption is the act of taking a string of letters/numbers, like your private key, and turning them into another string of letters/numbers through a method of private translation.
 * There are various different encryption methods.
 * Encryption offers protection against those trying to steal your information!
 
-<br>
+
 
 ### Encrypted vs Unencrypted Keys
 * An unencrypted private key is 64 characters long, and it is used to restore wallets.
@@ -140,25 +140,25 @@
 * Example: If the world ‘Apple’ was your shortened private key, then it was encrypted three letters down the alphabet, your new shortened encrypted key would be ‘Dssoh’. Since you know the way to encrypt this key, you could derive the original private key from it by reversing the method of encryption.
 * Usually, encrypted private keys are kept within the extension or device they are encrypted by, and they remain out of sight from the user. This is meant to add another layer of security to keep a user’s wallet information safe.
 
-<br>
+
 
 ### Decentralize / Decentralization
 * The process of transferring authority from a single entity (ex. Government or large corporation) to multiple smaller entities.
 
-<br>
+
 
 ### Trustless
 * A distributed trustless consensus which the blockchain is responsible for.
 * Since everyone has a copy of the ledger of all transactions ever executed, there is no need for a third-party. You can verify the transactions yourself, however the Ethereum blockchain and Bitcoin blockchain were created to ensure rules and agreements between all parties are executed only when all conditions are met.
 
-<br>
+
 
 ### Smart Contracts
 * A piece of code (or program) that is stored on the blockchain network.
 * Conditions of the contract are predefined by the users, if all conditions are met, certain actions are executed by the contract (program).
 * Read more about smart contracts [here]().
 
-<br>
+
 
 ### Blockchain
 * A decentralized, publicly-owned ledger.
@@ -167,4 +167,4 @@
 
 ***
 
-##### <p align="center">All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome.</p>
+##### All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome.

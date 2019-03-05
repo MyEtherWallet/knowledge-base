@@ -1,4 +1,4 @@
-## <p align="center">ENS: Auctions 101</p>
+## ENS: Auctions 101
 ***
 
 The Ethereum Name Service, also known as ENS, is a domain service that uses a bidding system to assign a specific domain tied to your wallet’s account address. The process involves anonymously bidding on a unique name, waiting three days, then revealing your bid. The highest bidder gains ownership of this ENS domain, to use it however they wish.
@@ -13,9 +13,9 @@ ENS donation address: `mewtopia.eth`
 
 Both of these addresses lead to the same wallet destination, but the ENS domain is much more convenient.
 
-<br>
 
-### <p align="center">How to Reserve an ENS Domain</p>
+
+### How to Reserve an ENS Domain
 
 **Step 1.** Head to MyEtherWallet.com.
 * Always check the URL to make sure you’re on our legit site!

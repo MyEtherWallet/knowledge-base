@@ -1,6 +1,16 @@
-## <p align="center">How to Create a Wallet</p>
+---
+title: "How to Create a Wallet"
+date: 2019-03-01 00:02:00
+tags:
+- faqs, create, wallet
+categories:
+- faqs
+---
 
-##### <p align="center"><i>If you are currently using a Hardware wallet (such as Ledger or Trezor) or another wallet service (such as MetaMask), this article is not for you. This is only for new users, looking to begin from scratch.</i></p>
+
+## How to Create a Wallet
+
+##### If you are currently using a Hardware wallet (such as Ledger or Trezor) or another wallet service (such as MetaMask), this article is not for you. This is only for new users, looking to begin from scratch.
 ***
 MyEtherWallet (MEW) offers three ways to create a new ETH wallet. 
 
@@ -11,19 +21,19 @@ The other two options we offer are by Keystore/JSON file and Mnemonic Phrase.
 
 The following information is for those who wish to proceed, regardless of our warnings. If you’re going to do something, learn to do it safely. We highly suggest you [access MEW offline]() when using these options.
 
-<br>
 
-### <p align="center">Before we continue, a few words of caution:</p>
+
+### Before we continue, a few words of caution:
 
 * Never share this information with anyone. This information gives complete and permanent access to your wallet.
 * Do not keep this information on a device connected to the internet. Hackers can and will find it in your hard drive. 
 * Choose strong passwords and write everything down, in multiple locations.
 * We cannot recover this information for you.
 
-<br>
 
-### <p align="center">Keystore/JSON</p> 
-##### <p align="center">*Read more about what a Keystore/JSON file is [here]().*</p>
+
+### Keystore/JSON 
+##### *Read more about what a Keystore/JSON file is [here]().*
 
 **Step 1.** Head to www.myetherwallet.com. 
 
@@ -41,10 +51,10 @@ The following information is for those who wish to proceed, regardless of our wa
 
 **Step 6.** Now you’re done, and ready to access your wallet!
 
-<br>
 
-### <p align="center">Mnemonic Phrase</p>
-##### <p align="center"><i>Read more about what a Mnemonic Phrase is [here]().</i></p>
+
+### Mnemonic Phrase
+##### Read more about what a Mnemonic Phrase is [here]().
 
 **Step 1.** Head to www.myetherwallet.com.
 
@@ -62,6 +72,6 @@ The following information is for those who wish to proceed, regardless of our wa
 
 **Step 6.** Now pass a quick test, and you’re done! You’re ready to access your wallet.
 
-<br>
 
-<p align="center">For more information on how to access your new wallet, click <a href="">here</a>.<p>
+
+For more information on how to access your new wallet, click <a href="">here</a>.<p>

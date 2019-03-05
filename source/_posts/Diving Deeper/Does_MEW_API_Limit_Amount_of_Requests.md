@@ -1,4 +1,4 @@
-## <p align="center">Does MEW API Have a Limit on the Amount of Requests I Can Make?</p>
+## Does MEW API Have a Limit on the Amount of Requests I Can Make?
 ***
 
 If you are a heavy user of our API or MyEtherWallet (MEW), you may get rate-limited. 
@@ -16,7 +16,7 @@ If you are a heavy user of our API or MyEtherWallet (MEW), you may get rate-limi
         at IncomingMessage.emit (events.js:207:7)
         at endReadableNT (_stream_readable.js:1047:12)
         at _combinedTickCallback (internal/process/next_tick.js:102:11)
-<p align="center">(<a href="https://ethereum.stackexchange.com/questions/24737/myetherwallet-json-rpc-interface-ratelimiting/25113#25113">Source</a>)
+(<a href="https://ethereum.stackexchange.com/questions/24737/myetherwallet-json-rpc-interface-ratelimiting/25113#25113">Source</a>)
 
 MyEtherWallet, at the time of this writing, rate-limits at 400 requests per minute (or about 6 requests per second). This is in order to prevent DDOS's like we have seen before, or people using our nodes to excess and making us pay an even larger bill.
 

@@ -1,4 +1,4 @@
-### <p align="center">Moving from an Exchange <br> (Coinbase/Gemini/Binance/Kraken/etc..) to MEW</p>
+### Moving from an Exchange <br> (Coinbase/Gemini/Binance/Kraken/etc..) to MEW
 ***
 
 First, it’s important to tell [the difference between an exchange and MyEtherWallet (MEW)](). 
@@ -21,4 +21,4 @@ What we DO offer is freedom and a true sense of security. You gain complete cont
 
 Once you’ve made the distinction, you’ll be ready to [create your MEW wallet](). Before you do that, though, we suggest you read through our [‘Getting Started’]() category. It contains all the knowledge you need to begin your crypto journey with confidence. 
 
-### <p align="center">Bon voyage!</p>
+### Bon voyage!

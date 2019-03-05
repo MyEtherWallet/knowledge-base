@@ -1,4 +1,4 @@
-## <p align="center">ETH or ERC20 Tokens Sent To/From an Exchange Haven’t Shown Up</p>
+## ETH or ERC20 Tokens Sent To/From an Exchange Haven’t Shown Up
 ***
 
 If you’re missing funds, you should first confirm that the transaction was broadcast successfully. If you have your transaction hash, plug it into the search bar at [Etherscan.io](https://etherscan.io).

@@ -1,4 +1,4 @@
-## <p align="center">Debugging a 'Bad Instruction' Reveal</p>
+## Debugging a 'Bad Instruction' Reveal
 ***
 
 ### Step 1. Make sure you actually placed a bid.
@@ -13,7 +13,7 @@ Once you find this, copy and paste the value under 'Input Data' into a text docu
 
  `0xce92dced69faf18dd0953d9124d7917234b0efc05c78fd0d9abfc6ffb32d512680fdbb65`
 
-<br>
+
 
 ### Step 2. Check to see if the information you saved matches the information you sent with your bid. 
 * Head to MEW, access your wallet, and go under the 'ENS' section to the left.
@@ -26,7 +26,7 @@ Once you find this, copy and paste the value under 'Input Data' into a text docu
 
 When you do this, the following four fields will populate with long data. You want compare the string you copied earlier,  `0xce92dced69faf18dd0953d9124d7917234b0efc05c78fd0d9abfc6ffb32d512680fdbb65`, to the string shown under 'New Bid Data'.
 
-<br>
+
 
 ### Step 3. Try alternate values.
 * Try entering `0.01`, `0.1`, `1`, and any other amount you may have bid on other auctions, under 'Amount you Bid (ETH)'.
@@ -36,7 +36,7 @@ When you do this, the following four fields will populate with long data. You wa
 * Try changing secrets to other secrets from other auctions. 
     * Did you change the secret instead of using the pre-filled one? Try entering common words and phrases you may have used.
 
-<br>
+
 
 ### Step 4. Once you match the string successfully, you can reveal your bid manually using this exact information.
 
@@ -49,7 +49,7 @@ Enter the following information into the fields:
 * Gas Limit: `200000`
 * Data: From the 'Reveal Data' field in the ENS section.
 
-<br>
+
 
 ### Step 5. Generate and sign your transaction.
 * Click your transaction hash after you send it. Ensure there are no errors (you may have to refresh a few times.)

@@ -1,11 +1,11 @@
-## <p align="center">Adding Your Token as a Default Token</p>
+## Adding Your Token as a Default Token
 ***
 
 If you are someone who is just experimenting with tokens, you can [add a custom token]() to your local version of MyEtherWallet (MEW).
 
 If you have a token that a lot of other people also have, or will have in the coming days, you can add it as a permanent, default token to our site. 
 
-<br>
+
 
 ### You will need to provide:
 
@@ -18,7 +18,7 @@ If you have a token that a lot of other people also have, or will have in the co
     * Due to high numbers of token sale holders NOT providing support to their investors, we will remove your token if you do not help the people who made you millionaires.
 * Optionally, you may also include your blog, social media sites, chat channels, your logo, etc.
 
-<br>
+
 
 ### 1. Submit your tokens as Default Tokens.
 * Go to https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens/eth.
@@ -40,7 +40,7 @@ If you have a token that a lot of other people also have, or will have in the co
 * That's it. You successfully made a new pull request!
 * We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
 
-<br>
+
 
 ### 2. Add your token sale address and manual gas limits to ensure a smooth sale.
 * Go here https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/customGas.js.
@@ -58,7 +58,7 @@ If you have a token that a lot of other people also have, or will have in the co
 * That's it. You successfully made a new pull request!
 * We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
 
-<br>
+
 
 ### 3. Adding your Contract / ABI.
 We now provide users with the ability to enter the address, and MEW will auto-populate with the ABI. If you have a contract that is **NOT** your ERC-20 token contract that users will actually be interacting with:

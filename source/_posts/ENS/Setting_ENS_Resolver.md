@@ -1,7 +1,7 @@
-## <p align="center">Setting the Resolver for an ENS Name</p>
+## Setting the Resolver for an ENS Name
 ***
 
-### <p align="center">Set the Resolver for your Name</p>
+### Set the Resolver for your Name
 
 **Step 1.** On MEW, [access your wallet]() and head to the 'Contracts' tab on the left.
 
@@ -23,9 +23,9 @@
 
 **Step 10.** Your transaction should look like [this](https://etherscan.io/tx/0x60eec50b492375bce25684f806599873b7f682e1ba504c8bed7cc90c33368118).
 
-<br>
 
-### <p align="center">Set the Address That Your Name Will Resolve To</p>
+
+### Set the Address That Your Name Will Resolve To
 
 **Step 1.** On MEW, [access your wallet]() and head to the 'Contracts' tab on the left.
 
