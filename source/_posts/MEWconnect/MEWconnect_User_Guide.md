@@ -1,7 +1,7 @@
-## <p align="center">MEWconnect User Guide</p>
+## MEWconnect User Guide
 ***
 
-<div>
+
 <img src="https://github.com/stephenmew/KBimages/blob/master/CreateMC.jpg?raw=true" align="right" width="30%">
 
 ### 1. Create a Wallet
@@ -19,11 +19,11 @@ to access your wallet, and we’ll get to that soon.
 **Step 5.** Click "Start using MEWconnect".
 
 You’re done! You’ll be taken to a screen that shows your new wallets address backed by a unique color-code. On this screen you’ll find all your ETH and ERC20 tokens. There is also a handy ‘Share’ button next to your address, in case you want to send it to someone. 
-</div>
 
-<br>
 
-<div>
+
+
+
 <img src="https://github.com/stephenmew/KBimages/blob/master/BackupMC.png?raw=true" align="left" width="30%">
 
 ### 2. Back it up
@@ -42,12 +42,12 @@ This is the single most important piece of information about your wallet. These 
 **Step 6.**  Pass the seed word check test.
 
 You're done! All backed up and ready to connect to MEW
-</div>
 
-<br>
-<br>
 
-<div>
+
+
+
+
 <img src="https://github.com/stephenmew/KBimages/blob/master/ScanQRMC.jpg?raw=true" align="right" width="30%">
 
 ### 3. Connect with MEW
@@ -66,12 +66,12 @@ Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   th
 **Step 6.** Now use MEWconnect to scan the QR code.
 
 You’re done! You can now use our interface as usual, with the MEWconnect app as your main method of access. Congratulations!
-</div>
 
-<br>
-<br>
+
+
+
 	
-<div>
+
 <img src="https://github.com/stephenmew/KBimages/blob/master/TransferMC.jpg?raw=true" align="left" width="30%">
 
 ### 4. Send a Transaction
@@ -86,15 +86,15 @@ Fill in the ‘To Address’, ‘Amount to Send’, and ‘Gas Limit’ fields. 
 **Step 4.**  Confirm your transaction on the MEWconnect app.
 
 You’re done! Your transaction is broadcasting to the network, and you’ll be able to check it’s status shortly with a provided transaction ID.
-</div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<div>
+
+
+
+
+
+
+
 <img src="https://github.com/stephenmew/KBimages/blob/master/OverviewMC.jpg?raw=true" align="right" width="30%">
 
 ### 5. Overview of the Wallet
@@ -113,10 +113,10 @@ You can purchase ETH in the MEWconnect app by choosing the top-right button labe
 **Step 4.**  How to share your address.
 
 You can share your address with anyone you’d like by clicking the arrow button to the right of your address. It will give you different options like text, email, twitter, etc..
-</div>
 
-<br>
+
+
 
 ***
 
-#### <p align="center">To download the MEWconnect app, visit [mewconnect.myetherwallet.com](https://mewconnect.myetherwallet.com/#/).</p>
+#### To download the MEWconnect app, visit [mewconnect.myetherwallet.com](https://mewconnect.myetherwallet.com/#/).

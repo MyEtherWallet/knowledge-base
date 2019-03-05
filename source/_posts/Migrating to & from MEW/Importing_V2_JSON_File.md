@@ -1,4 +1,4 @@
-## <p align="center">Importing a V2 JSON File</p>
+## Importing a V2 JSON File
 ***
 
 These random V2 JSON files always make things complex. We apologize in advance.

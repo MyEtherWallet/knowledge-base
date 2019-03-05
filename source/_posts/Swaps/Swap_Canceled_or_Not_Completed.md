@@ -1,4 +1,4 @@
-## <p align="center">Swap Was Canceled or Wasn’t Completed</p>
+## Swap Was Canceled or Wasn’t Completed
 ***
 
 Time-constricted transactions can be tough in times of high volume due to various factors, like the transaction queue, ongoing token sales, the current state of the network, etc.

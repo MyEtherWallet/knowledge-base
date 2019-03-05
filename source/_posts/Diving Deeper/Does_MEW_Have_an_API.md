@@ -1,4 +1,4 @@
-## <p align="center">Does MyEtherWallet have an API?</p>
+## Does MyEtherWallet have an API?
 ***
 
 Here are the API docs for MEW, Etherscan, and Infura (the three main providers of public nodes):

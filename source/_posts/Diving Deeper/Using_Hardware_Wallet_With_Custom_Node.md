@@ -1,4 +1,4 @@
-## <p align="center">Using a Hardware Wallet With a Custom Node</p>
+## Using a Hardware Wallet With a Custom Node
 ***
 
 Benjaminion wrote up an excellent guide on how to achieve this.

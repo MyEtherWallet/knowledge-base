@@ -1,11 +1,11 @@
-## <p align="center">What is Gas?</p>
+## What is Gas?
 ***
 
-<p align="center"><img src="https://github.com/stephenmew/KBimages/blob/master/tx_pool_infographic.png?raw=true" width="80%"></p>
+<img src="https://github.com/stephenmew/KBimages/blob/master/tx_pool_infographic.png?raw=true" width="80%">
 
-<br>
 
-### <p align="center">Introduction</p>
+
+### Introduction
 
 The Ethereum blockchain is a network. Ether (ETH) is the fuel for that network. When you send tokens, interact with a contract, send ETH or ERC20 tokens, or do anything else on the blockchain, you must pay for that computation. That payment is calculated in gas, and gas is always paid in ETH.
 
@@ -13,9 +13,9 @@ You are paying for the computation, regardless of whether your transaction succe
 
 You can see your transaction fee (gas limit * gas price) in ETH & USD when you search for your transaction on Etherscan.io. This is not a fee that MyEtherWallet (MEW), or any other service provider, receives. This fee is paid to the remote miners for mining transactions, putting them into blocks, and securing the blockchain.
 
-<br>
 
-### <p align="center">Overview</p>
+
+### Overview
 When you hear the term 'gas', the person speaking is either talking about:
 
 * Gas Limit
@@ -42,9 +42,9 @@ Sending tokens will typically take a gas limit of `50000 - 100000`, so the total
 
 You can use our tool to calculate GWEI <-> WEI <-> USD [here](), which can be helpful when you want to know your transaction fee in ETH, rather than GWEI.
 
-<br>
 
-### <p align="center">Gas Limit</p>
+
+### Gas Limit
 The gas limit is called the limit because it's the maximum amount of units of gas you are willing to spend on a transaction. This avoids situations where there is an error somewhere in a contract, and you end up spending `1 ETH`, then `10 ETH`, and then `1000 ETH`, going in circles but arriving no where.
 
 However, the units of gas necessary for a transaction are already defined by how much code is executed on the blockchain. If you do not want to spend as much on gas, lowering the gas limit won't help much. You must include enough gas to cover the computational resources you use or your transaction will fail due to an 'Out of Gas' error.
@@ -53,12 +53,12 @@ All unused gas never leaves your wallet. So if you go to MyEtherWallet, send `1 
 
 _*`21000` is the standard gas limit for regular transactions._
 
-<br>
 
-### <p align="center">Gas Price</p>
+
+### Gas Price
 If you want to spend less on a transaction, you can do so by lowering the amount you pay per unit of gas. The price you pay for each unit increases or decreases how quickly your transaction will be mined.
 
-<br>
+
 
 #### During normal times, a gas price of:
 
@@ -66,7 +66,7 @@ If you want to spend less on a transaction, you can do so by lowering the amount
 * `20 GWEI` will usually get you within the next few blocks.
 * `2 GWEI` will usually get you within the next few minutes.
 
-<br>
+
 
 #### During token creation periods, these costs get crazy due to supply / demand:
 
@@ -80,7 +80,7 @@ If you want to spend less on a transaction, you can do so by lowering the amount
 
 You can adjust the gas price on MyEtherWallet in the footer via a slider. 
 
-<br>
+
 
 #### Will increasing the gas price get it mined faster? Does setting a low gas price mean it won't ever be mined?
 The transaction fees go to the miner who mines your block. When miners mine a block, they have to decide which transactions to include. They can choose to include no transactions, or they can choose to randomly select transactions. In order to encourage miners to include transactions in blocks you want to set a 'gas price' that is high enough to make them want to include it (since it is entirely up to them).
@@ -91,21 +91,21 @@ You want to set the gas price high enough so that a miner includes your transact
 
 If you are not in a hurry, you just need to set a number high enough so that someone eventually includes your transaction.
 
-<br>
+
 
 #### Why should I set a low gas price?
 Because it's cheaper, and because with the increasing price of ETH (compared to USD), a transaction that used to cost half a cent, may now cost a few cents. 
 
 More expensive transactions, like bidding on an ENS name, can now cost a dollar or more! As a user, you should try sending non-urgent transactions with a lower gas price as the more transactions that occur at the lower gas price, the more likely miners will lower their minimums.
 
-<br>
+
 
 #### Should I increase the gas limit for token sales?
 You should put whatever the token sale holders tell you to put. If you do not know, then ask before the token sale. This ensures that your transaction won't fail due to an 'Out of Gas' error. Typically, a `200000` gas limit will be enough, but some may require more.
 
 Increasing the amount to `1500000` or more will not increase the likelihood of getting in. All it will do is fill up the blocks faster, and you will lose that transaction fee if it doesn't go through. We have never seen a token sale that requires over a `800000` gas limit.
 
-<br>
+
 
 #### So I should send with a huge gas price for token sales, right?
 Not necessarily. The risk in increasing it is that you could still not get in, and pay the fee anyways.
@@ -122,22 +122,22 @@ Before the BAT token creation period, the average gas price was `20 GWEI` (the d
 * `70 GWEI` * `200000` = `0.014 ETH` (or `$9.80 USD`).
 * `100 GWEI` * `200000` = `0.02 ETH` (or `$14.00 USD`).
 
-<br>
+
 
 #### Example: Absurd gas prices from the BAT token creation period (USD prices at time of transactions)
 * `118 GWEI` * `200000` = `0.0236 ETH` (or `$6.13 USD`).
 * `7590 GWEI` * `200000` = `1.518 ETH` (or `$394.68 USD`).
 * `58000 GWEI` * `200000` = `11.6 ETH` (or `$3,016 USD`).
 
-<br>
 
-<p align="center"><img src="https://github.com/stephenmew/KBimages/blob/master/GasChartCrazy.jpg?raw=true" width="100%"></p>
 
-<br>
+<img src="https://github.com/stephenmew/KBimages/blob/master/GasChartCrazy.jpg?raw=true" width="100%">
+
+
 
 Someone paid `$6000+` to send a failed transaction. That can't feel good.
 
-<br>
+
 
 #### Where can I see what miners are accepting?
 Start here, at [EthGasStation](http://ethgasstation.info/). 

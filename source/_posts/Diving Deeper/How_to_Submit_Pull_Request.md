@@ -1,13 +1,13 @@
-## <p align="center">How to Submit a Pull Request</p>
+## How to Submit a Pull Request
 ***
 
 MyEtherWallet (MEW) is an open-source platform, meaning we believe in transparency and offer our code freely to all who choose to view it, via GitHub. 
 
 This also means that we are always ready and willing to accept community support, through the use of pull requests. To make a pull request for MEW, you need only follow a simple process.
 
-<br>
 
-### <p align="center">Submit a Pull Request</p>
+
+### Submit a Pull Request
 
 **Step 1.** Login or join [GitHub](https://github.com/MyEtherWallet). 
 

@@ -1,4 +1,4 @@
-## <p align="center">Unable to Connect to Custom Node</p>
+## Unable to Connect to Custom Node
 ***
 
 * Verify the URL you entered is correct.

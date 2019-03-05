@@ -1,4 +1,4 @@
-## <p align="center">How to Send a Transaction</p>
+## How to Send a Transaction
 ***
 
 MyEtherWallet (MEW) makes it easy for you to send a transaction. All you need is a wallet, the Ethereum address you’d like to send funds to, and a little ETH for gas. 

@@ -1,7 +1,7 @@
-## <p align="center">Transferring ENS Domains and Ownership</p>
+## Transferring ENS Domains and Ownership
 ***
 
-### <p align="center">Transferring a Domain (Best Practice)</p>
+### Transferring a Domain (Best Practice)
 **Step 1.** Search for your domain on Etherscan.io.
 
 **Step 2.** Copy the 'Label Hash'.
@@ -18,10 +18,10 @@
 
 **Step 8.** Send the transaction.
 
-<br>
 
-### <p align="center">Only Setting Owner</p>
-##### <p align="center">WARNING: If you only change the owner, the deed owner can get the name back.</p>
+
+### Only Setting Owner
+##### WARNING: If you only change the owner, the deed owner can get the name back.
 
 **Step 1.** Search for your domain on Etherscan.io.
 

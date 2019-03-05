@@ -1,4 +1,4 @@
-## <p align="center">My Transaction Failed. <br> Why Was I Charged?</p>
+## My Transaction Failed. <br> Why Was I Charged?
 ***
 
 The Ethereum network requires gas to execute transactions. Ether (ETH) is the fuel used for this purpose. When you send tokens, interact with a contract, send ETH, or do anything else on the blockchain, you must pay for that computation. That payment is calculated in gas, and gas is always paid in ETH.

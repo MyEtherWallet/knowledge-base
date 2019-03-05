@@ -1,7 +1,7 @@
-## <p align="center">Manually Revealing Your ENS Bid</p>
+## Manually Revealing Your ENS Bid
 ***
 
-### <p align="center">Find the Transaction Hash for Your Bid
+### Find the Transaction Hash for Your Bid
 First, look up your address on Etherscan.io in order to find the transaction in which you placed your bid.
 
 #### Look for:
@@ -14,9 +14,9 @@ Once you find this, copy and paste the value in the 'Input Data' into a text doc
  
 `0xce92dced69faf18dd0953d9124d7917234b0efc05c78fd0d9abfc6ffb32d512680fdbb65`
 
-<br>
 
-### <p align="center">Generate the Reveal Information and Ensure it Matches Your Bid Transaction Hash</p>
+
+### Generate the Reveal Information and Ensure it Matches Your Bid Transaction Hash
 
 **Step 1.** Head to MEW, access your wallet, and go under the 'ENS' section to the left.
 
@@ -32,9 +32,9 @@ ENS Name you Bid On (no '.eth' at the end!), or the namehash from your long stri
 
 **Step 5.** Copy the 'Reveal Data' string.
 
-<br>
 
-### <p align="center">Send Transaction to Reveal</p>
+
+### Send Transaction to Reveal
 
 **Step 1.** In a new tab, head to our website and access the wallet for the address that you placed the bid on. This address should also be the same address entered in Step 2 of the previous section.
 

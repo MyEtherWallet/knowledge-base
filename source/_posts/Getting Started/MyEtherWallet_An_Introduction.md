@@ -1,11 +1,20 @@
-## <p align="center">MyEtherWallet: An Introduction</p>
-##### <p align="center"><i>We highly suggest you read through this entire introduction, for the safety of your funds.</i></p>
+---
+title: "MyEtherWallet: An Introduction"
+date: 2019-03-01 00:01:00
+tags:
+- faqs, introduction, intro
+categories:
+- faqs
+---
+
+## MyEtherWallet: An Introduction
+##### We highly suggest you read through this entire introduction, for the safety of your funds.
 ***
 MyEtherWallet (MEW) is an open-source, client-side interface that allows users to interact directly with the Ethereum blockchain, without having to join a centralized exchange.
 
-<br>
 
-### <p align="center">With MEW, users can:</p>
+
+### With MEW, users can:
 
 * [Create]() a new ETH wallet.
 * [Send]() and receive ETH and ERC20 tokens.
@@ -16,28 +25,28 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 * Initialize, bid on, and finalize ENS domain auctions.
 * Access a wealth of educational material from our [Knowledge Base]().
 
-<br>
 
-### <p align="center">What do 'open-source' and 'client-side' mean?</p>
+
+### What do 'open-source' and 'client-side' mean?
 
 * Open-source means anyone can view, copy, or make suggestions to our code on [GitHub](https://github.com/MyEtherWallet "MEW's GitHub").
 * Client-side means we do not have behind-the-scenes servers.
 * Funds and information are not stored on our site.
 * The user is in complete control of their own security and privacy.
 
-<br>
 
-### <p align="center">Where are my funds stored then?</p>
+
+### Where are my funds stored then?
 
 * All ETH and ERC20 tokens are stored on the Ethereum blockchain.
 * When using any site, exchange, hardware wallet, or interface based on the blockchain, all crypto is stored on the blockchain itself. These platforms and hardware wallets just allow us to interact with the blockchain in a simplified way.
 * The Ethereum blockchain is not owned by a centralized entityu, but is verified and maintained by thousands of remote people called 'miners' who use their time and energy to keep it all in check.
 * This is why our site, and sites like [Etherscan](https://etherscan.io/) and [Ethplorer](https://ethplorer.io), are able to pull your wallet information. Not because of behind-the-scenes servers, but because they are pulling information from the blockchain itself. 
 
-<br>
 
-### <p align="center">MEW is NOT a bank or exchange.</p>
-#### <p align="center">What does that mean?</p>
+
+### MEW is NOT a bank or exchange.
+#### What does that mean?
 
 * We cannot cancel, reverse, or refund transactions.
 * We cannot recover phished funds.
@@ -45,14 +54,14 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 * We do not store names, emails, or any information about our users.
 * The only one who has access to your funds is you. 
 
-<br>
 
-##### <p align="center">Let’s just say that one more time: </p>
-#### <p align="center">You’re in charge of your own funds and information.</p>
 
-<br>
+##### Let’s just say that one more time: 
+#### You’re in charge of your own funds and information.
 
-### <p align="center">How do I remain secure?</p>
+
+
+### How do I remain secure?
 
 * The most secure way to access your funds is through a hardware wallet, like a [Ledger Nano S]() or [Trezor](https://shop.trezor.io/?a=myetherwallet.com). If you have over $200 in crypto, there is little excuse not to get one.
 * When using a private key, keystore/JSON file, or mnemonic phrase, make sure to keep them solely on physical paper and offline computers. This information is extremely sensitive. And make backups! If you lose this information, it’s gone forever.
@@ -64,6 +73,6 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 * [Do your research!](http://google.com) If something seems fishy to you, it’s likely been talked about by the community.
 * If you have additional questions or concerns, reach out to us! Our support team is always happy to help. They can be reached at support@myetherwallet.com
 
-<br>
 
-##### <p align="center">Read more about security [here]().</p>
+
+##### Read more about security [here]().

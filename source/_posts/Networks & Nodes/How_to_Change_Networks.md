@@ -1,11 +1,11 @@
-## <p align="center">How to Change Networks <br> (Access Ropsten, ETC, and more!)</p>
+## How to Change Networks  (Access Ropsten, ETC, and more!)
 ***
 
 Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, but want to fool around on the Ropsten test network first? Or maybe you’re just interested in other networks that have forked off of the Ethereum blockchain? If any of the above are true, this is the article for you.
 
-<br>
 
-### <p align="center">Using MEWconnect, MetaMask, or a Keystore File/Mnemonic Phrase/Private Key</p>
+
+### Using MEWconnect, MetaMask, or a Keystore File/Mnemonic Phrase/Private Key
 
 **Step 1.** [Access your wallet]() by choosing the desired method of access.
 
@@ -16,9 +16,9 @@ Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, 
 **Step 3.** Choose the network you would like to interact with from this list. Your address will not change, but your funds will depending on the network chosen. 
 * If you see multiple networks for your choice (i.e. ETC), there is no need to overthink it. Just choose whichever one you’d like, and change it to another if it seems slow or congested! 
 
-<br>
 
-### <p align="center">Using a Hardware Wallet</p>
+
+### Using a Hardware Wallet
 
 **Step 1.** Access your wallet using the ‘Hardware’ option. 
 

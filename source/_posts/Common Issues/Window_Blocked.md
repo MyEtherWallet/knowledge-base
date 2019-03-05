@@ -1,4 +1,4 @@
-## <p align="center">Error: ‘Window Blocked’</p>
+## Error: ‘Window Blocked’
 ***
 
 If you are getting an error message saying ‘Window Blocked’ when using a Trezor, Ledger, or MetaMask to confirm a transaction, this is because you are blocking pop-ups with the browser. 

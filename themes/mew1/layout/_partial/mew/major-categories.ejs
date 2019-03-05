@@ -1,0 +1,13 @@
+<%if (page.base == '') {%>
+  <div class="mew___major-categories">
+    <ul>
+      <li class="active"><span>FAQs</span></li>
+      <li><span>Categories</span></li>
+      <li><span>Videos</span></li>
+    </ul>
+  </div>
+<%}%>
+
+<%site.categories.findOne({name: 'faqs'}).posts.sort('date', 1).each(function(post, index) {%>
+  <%- partial('_partial/mew/posts/cat-faqs', {post: post}) %>
+<% })%>

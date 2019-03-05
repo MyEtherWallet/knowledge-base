@@ -1,4 +1,4 @@
-## <p align="Center">Unable to Connect to Hardware Wallet</p>
+## Unable to Connect to Hardware Wallet
 ***
 
 Most issues with connection can be solved by following these troubleshooting tips:
