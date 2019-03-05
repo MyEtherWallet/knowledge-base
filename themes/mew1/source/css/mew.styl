@@ -2,12 +2,18 @@
 //=========================================================================
 // body
 //=========================================================================
+p, span, h1, h2, h3, h4, h5, h6, div
+  color: mew-color-text-1
+
 body
   font-family: 'Montserrat', sans-serif
   background: white
 
 #wrap
   background: white
+
+#main
+  width: 100%
 
 //=========================================================================
 // MD document content styles
@@ -23,9 +29,12 @@ body
 // .mew___major-categories
 //=========================================================================
 .mew___major-categories
+  user-select: none;
   padding-top: 70px
   height: 80px
-  ul
+
+  ul:nth-child(1)
+    margin-bottom: 50px;
     display: flex
     align-items: center
     li
@@ -44,17 +53,29 @@ body
           border-bottom: 2px solid mew-color-black
           color: mew-color-text-1
 
+  ul:nth-child(2)
+    position: relative
+    li
+      position: absolute
+      opacity: 0
+      pointer-events: none
+      transition: opacity 0.2s ease;
 
+    li.active
+      opacity: 1
+      pointer-events: all
 
 //=========================================================================
 // .mew___posts_cat-faqs
 //=========================================================================
 .mew___posts_cat-faqs
-  border-top: 1px solid mew-color-background-2
+  border-top: 1px solid mew-color-background-1
   padding: 0 10px
 
   .accordion-header
     position: relative
+    user-select: none
+    cursor: pointer
 
     .post-title
       font-size: 18px
@@ -72,16 +93,30 @@ body
         content: ''
         height: 4px
         width: 20px
-        background-color: mew-color-black
+        background-color: mew-color-text-1
 
       &::after
         transform: rotate(90deg)
+        transition: all 0.9s ease
 
   .accordion-content
     overflow: hidden
-    height: 0
+    max-height: 0
+    transition: all 0.3s ease
+
+    h2
+      display: none
 
     .padding-block
       padding-bottom: 30px
 
+
+.mew___posts_cat-faqs.open
+  .accordion-content
+    max-height: 2000px
+
+
+  .accordion-header
+    .post-button::after
+      transform: rotate(720deg)
 
