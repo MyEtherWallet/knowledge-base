@@ -1,13 +1,24 @@
 <%if (page.base == '') {%>
-  <div class="mew___major-categories">
+  <div class="mew___major-categories mew-tabs">
     <ul>
-      <li class="active"><span>FAQs</span></li>
-      <li><span>Categories</span></li>
-      <li><span>Videos</span></li>
+      <li class="active" ref="tab1"><span>FAQs</span></li>
+      <li ref="tab2"><span>Categories</span></li>
+      <li ref="tab3"><span>Videos</span></li>
+    </ul>
+    <ul>
+      <li class="tab1 active">
+        <%site.categories.findOne({name: 'faqs'}).posts.sort('date', 1).each(function(post, index) {%>
+          <%- partial('_partial/mew/posts/cat-faqs', {post: post}) %>
+        <% })%>
+      </li>
+      <li class="tab2">
+        222222
+      </li>
+      <li class="tab3">
+        333333
+      </li>      
     </ul>
   </div>
 <%}%>
 
-<%site.categories.findOne({name: 'faqs'}).posts.sort('date', 1).each(function(post, index) {%>
-  <%- partial('_partial/mew/posts/cat-faqs', {post: post}) %>
-<% })%>
+
