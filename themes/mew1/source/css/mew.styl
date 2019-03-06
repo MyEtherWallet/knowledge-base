@@ -4,6 +4,11 @@
 //=========================================================================
 p, span, h1, h2, h3, h4, h5, h6, div
   color: mew-color-text-1
+  line-height: initial
+
+h3
+  font-size: 22px
+  font-weight: 600
 
 body
   font-family: 'Montserrat', sans-serif
@@ -33,11 +38,11 @@ body
   padding-top: 70px
   height: 80px
 
-  ul:nth-child(1)
-    margin-bottom: 50px;
+  >ul:nth-child(1)
+    //margin-bottom: 50px;
     display: flex
     align-items: center
-    li
+    >li
       font-size: 30px
       font-weight: 400
       padding: 0
@@ -53,70 +58,116 @@ body
           border-bottom: 2px solid mew-color-black
           color: mew-color-text-1
 
-  ul:nth-child(2)
+  >ul:nth-child(2)
     position: relative
-    li
+    >li
+      width: 100%
       position: absolute
       opacity: 0
       pointer-events: none
-      transition: opacity 0.2s ease;
+      transition: all 0.2s ease
+      max-height: 0px
+      overflow: hidden
 
-    li.active
+    >li.active
       opacity: 1
       pointer-events: all
+      max-height: 2000px
+
+
 
 //=========================================================================
-// .mew___posts_cat-faqs
+// .mew___categories_cat-faqs
 //=========================================================================
-.mew___posts_cat-faqs
-  border-top: 1px solid mew-color-background-1
-  padding: 0 10px
+.mew___categories_cat-faqs
+  padding-top: 45px
+  .wrap
+    border-top: 1px solid mew-color-background-1
+    padding: 0 10px
 
-  .accordion-header
-    position: relative
-    user-select: none
-    cursor: pointer
+    .accordion-header
+      position: relative
+      user-select: none
+      cursor: pointer
 
-    .post-title
-      font-size: 18px
-      font-weight: 600
-      padding: 25px 0
+      .post-title
+        font-size: 18px
+        font-weight: 600
+        padding: 25px 0
 
-    .post-button
-      &::before,
-      &::after
-        position: absolute
-        right: 0
-        top: 0
-        bottom: 0
-        margin: auto 0
-        content: ''
-        height: 4px
-        width: 20px
-        background-color: mew-color-text-1
+      .post-button
+        &::before,
+        &::after
+          position: absolute
+          right: 0
+          top: 0
+          bottom: 0
+          margin: auto 0
+          content: ''
+          height: 4px
+          width: 20px
+          background-color: mew-color-text-1
 
-      &::after
-        transform: rotate(90deg)
-        transition: all 0.9s ease
+        &::after
+          transform: rotate(90deg)
+          transition: all 0.9s ease
 
-  .accordion-content
-    overflow: hidden
-    max-height: 0
-    transition: all 0.3s ease
+    .accordion-content
+      overflow: hidden
+      max-height: 0
+      transition: all 0.3s ease
 
-    h2
-      display: none
+      h2
+        display: none
 
-    .padding-block
-      padding-bottom: 30px
+      .padding-block
+        padding-bottom: 30px
+
+  >*.open
+    .accordion-content
+      max-height: 2000px
+
+    .accordion-header
+      .post-button::after
+        transform: rotate(720deg)
 
 
-.mew___posts_cat-faqs.open
-  .accordion-content
-    max-height: 2000px
 
 
-  .accordion-header
-    .post-button::after
-      transform: rotate(720deg)
+//=========================================================================
+// .mew___categories_cat-categories
+//=========================================================================
+.mew___categories_cat-categories
+  padding-top: 70px
+
+  .cat-group
+    margin-bottom: 40px
+
+    ul
+      padding-top: 20px
+      display: grid
+      grid-gap: 20px
+      grid-template-columns: 1fr 1fr 1fr
+      width: 100%
+      li
+        background-color: mew-color-background-2
+        padding: 40px
+
+        p
+          font-size: 20px
+          font-weight: 400
+
+
+
+//=========================================================================
+// .mew___categories_cat-videos
+//=========================================================================
+//.mew___categories_cat-videos
+
+
+
+
+
+
+
 
