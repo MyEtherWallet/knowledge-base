@@ -29,12 +29,18 @@ body
 }
 
 
+//=========================================================================
+// Accordion Menu
+//=========================================================================
+.mew-tabs
+  user-select: none
+
+
 
 //=========================================================================
 // .mew___major-categories
 //=========================================================================
 .mew___major-categories
-  user-select: none;
   padding-top: 70px
   height: 80px
 
@@ -80,7 +86,7 @@ body
 // .mew___categories_cat-faqs
 //=========================================================================
 .mew___categories_cat-faqs
-  padding-top: 45px
+  padding: 70px 0;
   .wrap
     border-top: 1px solid mew-color-background-1
     padding: 0 10px
@@ -115,7 +121,7 @@ body
     .accordion-content
       overflow: hidden
       max-height: 0
-      transition: all 0.3s ease
+      transition: all 0.7s ease
 
       h2
         display: none
@@ -138,36 +144,64 @@ body
 // .mew___categories_cat-categories
 //=========================================================================
 .mew___categories_cat-categories
-  padding-top: 70px
+  padding: 70px 0
 
-  .cat-group
-    margin-bottom: 40px
+  .category-container
+    .cat-group
+      margin-bottom: 60px
 
-    ul
-      padding-top: 20px
-      display: grid
-      grid-gap: 20px
-      grid-template-columns: 1fr 1fr 1fr
-      width: 100%
-      li
-        background-color: mew-color-background-2
-        padding: 40px
+      ul
+        padding-top: 20px
+        display: grid
+        grid-gap: 15px
+        grid-template-columns: 1fr 1fr 1fr
+        width: 100%
+        li
+          user-slect: none
+          cursor: pointer
+          background-color: mew-color-background-2
+          padding: 15px
+          display: flex
+          align-items: center
+
+          p
+            font-size: 20px
+            font-weight: 400
+
+
+//=========================================================================
+// .mew___components_bottom-helpers
+//=========================================================================
+  .mew___components_bottom-helpers
+    margin-top: 100px
+    display: grid
+    grid-template-columns: 1fr 1fr
+    grid-gap: 30px
+
+    .block-item
+      user-select: none
+      padding: 35px 40px
+      border: 1px solid mew-color-light-grey-2
+      border-radius: 4px
+      display: flex
+      align-items: center
+
+      .icon-image
+        margin-right: 30px
+
+      .content
+        .title
+          font-size: 24px
+          font-weight: 600
+          margin-bottom: 10px;
 
         p
-          font-size: 20px
-          font-weight: 400
+          color: mew-color-light-grey-3
+          font-size: 14px
+          min-height: 60px
 
-
-
-//=========================================================================
-// .mew___categories_cat-videos
-//=========================================================================
-//.mew___categories_cat-videos
-
-
-
-
-
+        .email-us
+          color: mew-color-green-1
 
 
 
