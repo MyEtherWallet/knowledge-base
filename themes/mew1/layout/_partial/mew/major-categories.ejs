@@ -6,19 +6,15 @@
       <li ref="tab3"><span>Videos</span></li>
     </ul>
     <ul>
-      <li class="tab1 active">
-        <%site.categories.findOne({name: 'faqs'}).posts.sort('date', 1).each(function(post, index) {%>
-          <%- partial('_partial/mew/posts/cat-faqs', {post: post}) %>
-        <% })%>
+      <li class="tab1">
+        <%- partial('_partial/mew/categories/cat-faqs') %>
       </li>
-      <li class="tab2">
-        222222
+      <li class="tab2 active">
+        <%- partial('_partial/mew/categories/cat-categories') %>
       </li>
       <li class="tab3">
-        333333
+        <%- partial('_partial/mew/categories/cat-videos') %>
       </li>      
     </ul>
   </div>
 <%}%>
-
-
