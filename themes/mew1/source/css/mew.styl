@@ -236,12 +236,57 @@ body
       grid-gap: 60px 30px
       grid-template-columns: 1fr 1fr 1fr
       li
-        cursor: pointer
+        &:hover
+          .video-thumbnail img
+            box-shadow: 0px 0px 50px mew-color-box-shadow-1
+
+        .video-button
+          cursor: pointer
+
         .video-thumbnail
           img
             width: 100%
+
         .video-info
           margin-top: 10px;
 
+  .video-popup
+    .video-iframe
+      opacity: 1
+      z-index: -100
+      user-select: none
+      content: ''
+      position: fixed
+      left: 0
+      top: 0
+      width: 100vw
+      height: 100vh
+      background-color: mew-color-transparent-background-1
+      transition: opacity 0.5s ease
 
+      &::after
+        content: '✗'
+        color: white
+        font-weight: 700
+        font-size: 80px
+        position: fixed
+        top: 10px
+        right: 30px
+
+
+    .video-iframe iframe
+      position: fixed
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+      margin: auto auto
+      box-shadow: 0 10px 40px mew-color-box-shadow-1
+
+  .open .video-popup
+    .video-iframe
+      opacity: 1
+      z-index: 1
+      user-select: all
+  
 
