@@ -12,13 +12,23 @@ h3
 
 body
   font-family: 'Montserrat', sans-serif
-  background: white
 
-#wrap
-  background: white
 
-#main
-  width: 100%
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none
+}
+
+.site-wrap
+  background-color: white
+  min-height: 100vh
+
+.page-container {
+  max-width: 1200px
+  margin: 0 auto
+}
 
 //=========================================================================
 // MD document content styles
@@ -30,22 +40,13 @@ body
 
 
 //=========================================================================
-// Accordion Menu
-//=========================================================================
-.mew-tabs
-  user-select: none
-
-
-
-//=========================================================================
 // .mew___major-categories
 //=========================================================================
 .mew___major-categories
-  padding-top: 70px
-  height: 80px
+  user-select: none
+  height: 90px
 
-  >ul:nth-child(1)
-    //margin-bottom: 50px;
+  >ul
     display: flex
     align-items: center
     >li
@@ -64,29 +65,12 @@ body
           border-bottom: 2px solid mew-color-black
           color: mew-color-text-1
 
-  >ul:nth-child(2)
-    position: relative
-    >li
-      width: 100%
-      position: absolute
-      opacity: 0
-      pointer-events: none
-      transition: all 0.2s ease
-      max-height: 0px
-      overflow: hidden
-
-    >li.active
-      opacity: 1
-      pointer-events: all
-      max-height: 2000px
-
 
 
 //=========================================================================
 // .mew___categories_cat-faqs
 //=========================================================================
 .mew___categories_cat-faqs
-  padding: 70px 0;
   .wrap
     border-top: 1px solid mew-color-background-1
     padding: 0 10px
@@ -144,7 +128,7 @@ body
 // .mew___categories_cat-categories
 //=========================================================================
 .mew___categories_cat-categories
-  padding: 70px 0
+  padding-top: 20px
 
   .category-container
     .cat-group
@@ -170,60 +154,10 @@ body
 
 
 //=========================================================================
-// .mew___components_bottom-helpers
-//=========================================================================
-  .mew___components_bottom-helpers
-    margin-top: 100px
-    display: grid
-    grid-template-columns: 1fr 1fr
-    grid-gap: 30px
-
-    .block-item
-      user-select: none
-      padding: 35px 40px
-      border: 1px solid mew-color-light-grey-2
-      border-radius: 4px
-      display: flex
-      align-items: center
-
-      .icon-image
-        margin-right: 30px
-
-      .content
-        .title
-          font-size: 24px
-          font-weight: 600
-          margin-bottom: 10px;
-
-        p
-          color: mew-color-light-grey-3
-          font-size: 14px
-          min-height: 65px
-
-        .email-us
-          color: mew-color-green-1
-          font-size: 16px
-          font-weight: 500
-          position: relative
-          span
-            position: absolute
-            top: -24px
-            left: 60px
-            color: mew-color-green-1
-            font-size: 50px
-            margin-left: 10px
-
-        .community-links
-          a
-            margin-right: 10px
-
-
-
-//=========================================================================
 // .mew___categories_cat-videos
 //=========================================================================
 .mew___categories_cat-videos
-  padding: 80px 0
+  padding-top: 30px
   .youtube-container
     display: grid
     grid-template-columns: 240px 1fr
@@ -289,4 +223,54 @@ body
       z-index: 1
       user-select: all
   
+
+
+//=========================================================================
+// .mew___components_bottom-helpers
+//=========================================================================
+  .mew___components_bottom-helpers
+    margin-top: 100px
+    display: grid
+    grid-template-columns: 1fr 1fr
+    grid-gap: 30px
+
+    .block-item
+      user-select: none
+      padding: 35px 40px
+      border: 1px solid mew-color-light-grey-2
+      border-radius: 4px
+      display: flex
+      align-items: center
+
+      .icon-image
+        margin-right: 30px
+
+      .content
+        .title
+          font-size: 24px
+          font-weight: 600
+          margin-bottom: 10px;
+
+        p
+          color: mew-color-light-grey-3
+          font-size: 14px
+          min-height: 65px
+
+        .email-us
+          color: mew-color-green-1
+          font-size: 16px
+          font-weight: 500
+          position: relative
+          span
+            position: absolute
+            top: -24px
+            left: 60px
+            color: mew-color-green-1
+            font-size: 50px
+            margin-left: 10px
+
+        .community-links
+          a
+            margin-right: 10px
+
 

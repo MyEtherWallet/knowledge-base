@@ -1,0 +1,12 @@
+
+<% if (path == 'faqs/index.html' || path == 'index.html') { %>
+  <%- partial('mew/categories/category-faqs', null, {cache: !config.relative_link}) %>
+
+<% } else if (path == 'categories/index.html') { %>
+  <%- partial('mew/categories/category-categories', null, {cache: !config.relative_link}) %>
+
+<% } else if (path == 'videos/index.html') { %>
+  <%- partial('mew/categories/category-videos', null, {cache: !config.relative_link}) %>
+  
+<% } %>
+

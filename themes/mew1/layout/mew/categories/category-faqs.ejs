@@ -1,5 +1,7 @@
+<%- partial('_partial/header', null, {cache: !config.relative_link}) %>
+<%- partial('mew/selector-major-categories', {category: 'faqs'}) %>
 
-<div class="mew___categories_cat-faqs">
+<div class="mew___categories_cat-faqs page-container">
   <%site.categories.findOne({name: 'faqs'}).posts.sort('date', 1).each(function(post, index) {%>
     <div class="wrap">
       <div class="accordion-header">
@@ -12,4 +14,3 @@
     </div>
   <% })%>
 </div>
-
