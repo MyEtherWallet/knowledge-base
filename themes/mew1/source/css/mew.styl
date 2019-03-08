@@ -80,7 +80,7 @@ a:active {
 // .mew___categories_cat-faqs
 //=========================================================================
 .mew___categories_cat-faqs
-  .wrap
+  .accordion
     border-top: 1px solid mew-color-background-1
     padding: 0 10px
 
@@ -122,13 +122,13 @@ a:active {
       .padding-block
         padding-bottom: 30px
 
-  >*.open
-    .accordion-content
-      max-height: 2000px
+    &.open
+      .accordion-content
+        max-height: 2000px
 
-    .accordion-header
-      .post-button::after
-        transform: rotate(720deg)
+      .accordion-header
+        .post-button::after
+          transform: rotate(720deg)
 
 
 
