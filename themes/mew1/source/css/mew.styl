@@ -103,12 +103,12 @@ a:active {
 
         &::after
           transform: rotate(90deg)
-          transition: all 0.9s ease
+          transition: all 0.7s ease
 
     .accordion-content
       overflow: hidden
       max-height: 0
-      transition: all 0.7s ease
+      transition: all 0.4s ease
 
       h2
         display: none
@@ -200,7 +200,7 @@ a:active {
 
       &::after
         padding: 20px
-        background-color: mew-color-background-3
+        background-color: mew-color-transparent-background-2
         border-radius: 50px
         content: '✗ Close'
         color: white
@@ -213,6 +213,11 @@ a:active {
 
 
     .video-iframe iframe
+      background-color: mew-color-transparent-background-3
+      background-image: url('images/youtube.svg')
+      background-size: 200px
+      background-position: center
+      background-repeat: no-repeat
       position: fixed
       top: 0
       bottom: 0
