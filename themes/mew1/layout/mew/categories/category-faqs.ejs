@@ -2,15 +2,20 @@
 <%- partial('mew/selector-major-categories', {category: 'faqs'}) %>
 
 <div class="mew___categories_cat-faqs page-container">
-  <%site.categories.findOne({name: 'faqs'}).posts.sort('date', 1).each(function(post, index) {%>
-    <div class="wrap">
-      <div class="accordion-header">
-        <div class="post-title"><%= post.title %></div>
-        <div class="post-button"></div>
+  <div class="wrap">
+    <%site.categories.findOne({name: 'faqs'}).posts.sort('date', 1).each(function(post, index) {%>
+      <div class="wrap">
+        <div class="accordion-header">
+          <div class="post-title"><%= post.title %></div>
+          <div class="post-button"></div>
+        </div>
+        <div class="mew___md___content-style accordion-content">
+          <div class="padding-block"><%- post.content %></div>
+        </div>
       </div>
-      <div class="mew___md___content-style accordion-content">
-        <div class="padding-block"><%- post.content %></div>
-      </div>
-    </div>
-  <% })%>
+    <% })%>
+
+    <%- partial('mew/components/bottom-helpers') %>
+
+  </div>
 </div>

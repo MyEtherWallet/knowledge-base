@@ -28,10 +28,16 @@ a:active {
   background-color: white
   min-height: 100vh
 
+.site-content
+  padding-bottom: 60px
+
+
 .page-container {
   max-width: 1200px
   margin: 0 auto
 }
+
+
 
 //=========================================================================
 // MD document content styles
@@ -200,12 +206,12 @@ a:active {
 
       &::after
         padding: 20px
-        background-color: mew-color-transparent-background-2
-        border-radius: 50px
-        content: '✗ Close'
+        //background-color: mew-color-transparent-background-2
+        //border-radius: 50px
+        content: 'X Close'
         color: white
         font-weight: 700
-        font-size: 20px
+        font-size: 30px
         position: fixed
         top: 30px
         right: 50px
@@ -213,7 +219,7 @@ a:active {
 
 
     .video-iframe iframe
-      background-color: mew-color-transparent-background-3
+      background-color: black
       background-image: url('images/youtube.svg')
       background-size: 200px
       background-position: center
@@ -263,7 +269,7 @@ a:active {
           font-size: 14px
           min-height: 65px
 
-        .email-us
+        .email-us a
           color: mew-color-green-1
           font-size: 16px
           font-weight: 500
@@ -281,3 +287,34 @@ a:active {
             margin-right: 10px
 
 
+
+
+//=========================================================================
+// footer
+//=========================================================================
+footer
+  background-color: mew-color-background-3
+  p, a
+    color: white
+
+  .wrap
+    display: flex
+    align-items: center
+    padding: 25px 0
+
+  .block-left
+    display: flex
+    align-items: center
+    p
+      border-right: 1px solid white
+      padding-right: 20px
+      margin-right: 20px
+      line-height: 15px
+
+    p:last-child
+      border-right: 0
+      padding-right: 0
+      margin-right: 0
+
+  .block-right
+    margin-left: auto

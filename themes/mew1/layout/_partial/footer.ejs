@@ -1,11 +1,14 @@
-<footer id="footer">
-  <% if (theme.sidebar === 'bottom'){ %>
-    <%- partial('_partial/sidebar') %>
-  <% } %>
-  <div class="outer">
-    <div id="footer-info" class="inner">
-      &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
-      <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a>
+<footer>
+  <div class="page-container">
+    <div class="wrap">
+      <div class="block-left">
+        <p>Home</p>
+        <p>Privacy</p>
+        <p>Terms</p>
+      </div>
+      <div class="block-right">
+        <p>© 2018 MyEtherWallet. All rights reserved.</p>
+      </div>
     </div>
   </div>
 </footer>
