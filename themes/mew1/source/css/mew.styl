@@ -6,6 +6,9 @@ p, span, h1, h2, h3, h4, h5, h6, div
   color: mew-color-text-1
   line-height: initial
 
+p
+  font-size: 14px
+
 h3
   font-size: 22px
   font-weight: 600
@@ -186,10 +189,7 @@ a:active {
 
   .video-popup
     .video-iframe
-      opacity: 1
-      z-index: -100
-      user-select: none
-      content: ''
+      display: none;      
       position: fixed
       left: 0
       top: 0
@@ -199,13 +199,17 @@ a:active {
       transition: opacity 0.5s ease
 
       &::after
-        content: '✗'
+        padding: 20px
+        background-color: mew-color-background-3
+        border-radius: 50px
+        content: '✗ Close'
         color: white
         font-weight: 700
-        font-size: 80px
+        font-size: 20px
         position: fixed
-        top: 10px
-        right: 30px
+        top: 30px
+        right: 50px
+        cursor: pointer
 
 
     .video-iframe iframe
@@ -219,9 +223,7 @@ a:active {
 
   .open .video-popup
     .video-iframe
-      opacity: 1
-      z-index: 1
-      user-select: all
+      display: block
   
 
 
