@@ -1,0 +1,25 @@
+<header>
+  <div class="header-wrap page-container">
+    <div class="top-block">
+      <div class="left">
+        <img src="/images/mew-logo-white.png">
+        <p>Help Center</p>
+      </div>
+      <div class="right">
+        <ul>
+          <% for (var i in theme.menu){ %>
+            <li><a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a></li>
+          <% } %>
+        </ul>
+      </div>
+    </div>
+
+    <div class="search-block">
+      <div class="search-title">Get Lost? Let Us Help.</div>
+      <div class="search-form-container">
+        <%- search_form({button: '&#xF002;'}) %>
+      </div>
+      <p class="search-bottom-text">Top Searches: MEWconnect /Swap / Send ETH / Security / Blockchain / Create a Wallet</p>
+    </div>
+  </div>
+</header>
