@@ -10,5 +10,9 @@
 <% } else if (path == 'videos/index.html') { %>
   <%- partial('mew/components/header/header-search', null, {cache: !config.relative_link}) %>
   <%- partial('mew/categories/category-videos', null, {cache: !config.relative_link}) %>
+
+<% } else { %>
+  <%- partial('mew/components/header/header-search', null, {cache: !config.relative_link}) %>
+  <%- body %>
 <% } %>
 
