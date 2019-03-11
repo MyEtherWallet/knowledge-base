@@ -2,9 +2,7 @@
 <body>
   <div class="site-container">
     <div class="site-wrap">
-      <div class="site-content">
-        <%- partial('mew/router', null, {cache: !config.relative_link}) %>
-      </div>
+      <%- partial('mew/router', null, {cache: !config.relative_link}) %>
       <%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
     </div>
     <%- partial('_partial/after-footer') %>
