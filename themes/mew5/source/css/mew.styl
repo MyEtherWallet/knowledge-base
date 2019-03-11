@@ -20,22 +20,24 @@ body
 a:link,
 a:visited,
 a:hover,
-a:active {
+a:active
   text-decoration: none
-}
+
 
 .site-wrap
   background-color: white
   min-height: 100vh
 
-.site-content
-  padding-bottom: 60px
+.content-body
+  padding: 60px 0 60px 0
 
-
-.page-container {
+.page-container
   max-width: 1200px
   margin: 0 auto
-}
+
+
+textarea:focus, input:focus
+  outline: none
 
 
 
@@ -288,6 +290,88 @@ a:active {
 
 
 
+//=========================================================================
+// header
+//=========================================================================
+header
+  background-color: #0b2840
+
+  .header-wrap
+    padding: 25px 0
+
+  .top-block
+    display: flex
+    align-items: center
+    
+    .left
+      display: flex
+      align-items: center
+      img
+        height: 37px
+
+      p
+        border-left: 1px solid mew-color-green-1
+        color: mew-color-green-1
+        font-size: 18px
+        padding-left: 20px
+        margin-left: 20px
+
+    .right
+      margin-left: auto
+      ul
+        display: flex
+        align-items: center
+        li
+          margin-left: 50px
+          a
+            font-size: 14px
+            color: white
+
+
+  .search-block
+    display: inline-block
+    display: block;
+    max-width: 60%;
+    margin: 40px auto 30px;
+
+    .search-title
+      color: white
+      font-size: 42px;
+      font-weight: 600;
+      text-align: center
+      margin-bottom: 30px
+
+    .search-form-container
+      position: relative
+
+      .search-form-input
+        padding: 20px 20px 20px 50px
+        border-radius: 4px
+        border: 0
+        width: 100%
+        margin: 0 auto
+        display: block
+        position: relative
+
+      &::before
+        content: '⚲'
+        position: absolute
+        top: 12px
+        left: 17px
+        transform: rotate(-45deg)
+        color: #000
+        display: inline-block
+        font-size: 25px
+        z-index: 1
+
+
+      button
+        display: none
+
+    .search-bottom-text
+      color: white
+      text-align: center
+      margin-top: 30px
 
 //=========================================================================
 // footer
@@ -318,3 +402,6 @@ footer
 
   .block-right
     margin-left: auto
+
+
+
