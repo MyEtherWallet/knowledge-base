@@ -1,8 +1,8 @@
-<% console.log(page.primary_category) %>
+<% if(false) console.log(page.primary_category) %>
 
 <div class="article-container page-container">
   <div class="wrap-sidebar">
-    <%- partial('mew/components/sidebar/sidebar-category', null, {cache: !config.relative_link}) %>
+    <%- partial('mew/components/sidebar/sidebar-primary-category', null, {cache: !config.relative_link}) %>
   </div>
   <div class="wrap-post-body">
     <article id="<%= post.layout %>-<%= post.slug %>" class="article article-type-<%= post.layout %>" itemscope itemprop="blogPost">

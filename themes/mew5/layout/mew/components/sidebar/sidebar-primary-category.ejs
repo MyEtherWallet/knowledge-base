@@ -1,0 +1,30 @@
+<%
+  if(false) {
+    console.log(site.posts)
+    var primaryCategory = page.primary_category
+    console.log(primaryCategory)
+    console.log(page._id)
+  }  
+%>
+
+<% var primaryCategory = page.primary_category %>
+<% var pageID = page._id %>
+
+<aside>
+  <div class="sidebar-primary-category">
+    <ul>
+      <% site.posts.sort('date', 1).each(function(post){ %>
+        <% if(post.primary_category == primaryCategory){ %>
+          <li>
+            <a href="<%- url_for(post.path) %>">
+              <div class="<%- post._id == pageID ? 'active' : '' %>">
+                <%= post.title || '(no title)' %>
+                <p class="hidden"><%= post._id %></p>
+              </div>
+            </a>
+          </li>
+        <% } %>
+      <% }) %>
+    </ul>
+  </div>
+</aside>
