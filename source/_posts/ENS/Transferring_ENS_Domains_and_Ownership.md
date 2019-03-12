@@ -1,3 +1,16 @@
+---
+title: "Transferring ENS Domains and Ownership"
+date: 2019-03-01 00:07:00
+tags:
+- transferring
+- domains
+- ownership
+- ens
+categories:
+primary_category: "ens"
+primary_category_display_name: "ENS"
+---
+
 ## Transferring ENS Domains and Ownership
 ***
 

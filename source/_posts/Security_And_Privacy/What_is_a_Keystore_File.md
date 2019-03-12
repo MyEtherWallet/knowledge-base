@@ -1,3 +1,16 @@
+---
+title: "What is a Keystore/JSON file?  Can I Change my Password?"
+date: 2019-03-01 00:03:00
+tags:
+- Keystore
+- JSON
+- Change
+- Password
+categories:
+primary_category: "security_and_privacy"
+primary_category_display_name: "Security And Privacy"
+---
+
 ## What is a Keystore/JSON file?  Can I Change my Password?
 
 #### Keystore/JSON files are not a recommended way of accessing MyEtherWallet (MEW).  For more information on other methods of access, check out our article on [how to access a wallet]().

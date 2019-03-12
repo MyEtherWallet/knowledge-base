@@ -1,3 +1,15 @@
+---
+title: "MEWconnect 101: Create a Wallet"
+date: 2019-03-01 00:07:00
+tags:
+- mewconnect
+- create
+- wallet
+categories:
+primary_category: "mewconnect"
+primary_category_display_name: "MEWconnect"
+---
+
 ## MEWconnect 101: Create a Wallet
 ***
 

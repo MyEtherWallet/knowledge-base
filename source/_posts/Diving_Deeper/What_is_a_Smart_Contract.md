@@ -1,3 +1,14 @@
+---
+title: "What is a Smart Contract?"
+date: 2019-01-01 00:01:00
+tags:
+- smart
+- contract
+categories:
+primary_category: "diving_deeper"
+primary_category_display_name: "Diving Deeper"
+---
+
 ## What is a Smart Contract?
 ***
 

@@ -1,3 +1,14 @@
+---
+title: "Offline MEW Looks Weird"
+date: 2019-03-01 00:07:00
+tags:
+- offline
+- mew
+categories:
+primary_category: "offline"
+primary_category_display_name: "Offline"
+---
+
 ## Offline MEW Looks Weird
 ***
 

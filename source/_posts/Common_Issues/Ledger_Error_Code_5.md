@@ -1,3 +1,15 @@
+---
+title: "Ledger: Error Code 5"
+date: 2019-01-01 00:01:00
+tags:
+- ledger
+- error
+- code
+categories:
+primary_category: "common_issues"
+primary_category_display_name: "Common Issues"
+---
+
 ## Ledger: Error Code 5
 ***
 

@@ -1,3 +1,16 @@
+---
+title: "Error: Unable to Locate Corresponding Transfer Event Log"
+date: 2019-01-01 00:01:00
+tags:
+- unable
+- transfer
+- event
+- log
+categories:
+primary_category: "common_issues"
+primary_category_display_name: "Common Issues"
+---
+
 ## Error: Unable to Locate Corresponding Transfer Event Log
 ***
 

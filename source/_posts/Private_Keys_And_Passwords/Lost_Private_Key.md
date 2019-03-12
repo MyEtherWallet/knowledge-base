@@ -1,3 +1,15 @@
+---
+title: "Lost Private Key"
+date: 2019-03-01 00:07:00
+tags:
+- lost
+- private
+- key
+categories:
+primary_category: "private_keys_and_passwords"
+primary_category_display_name: "Private Keys And Passwords"
+---
+
 ## Lost Private Key
 ***
  

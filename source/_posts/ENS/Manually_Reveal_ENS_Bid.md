@@ -1,3 +1,16 @@
+---
+title: "Manually Revealing Your ENS Bid"
+date: 2019-03-01 00:07:00
+tags:
+- ens
+- bid
+- auctions
+- auction
+categories:
+primary_category: "ens"
+primary_category_display_name: "ENS"
+---
+
 ## Manually Revealing Your ENS Bid
 ***
 

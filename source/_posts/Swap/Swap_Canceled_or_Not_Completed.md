@@ -1,3 +1,15 @@
+---
+title: "What to Do if You’ve Had Your Funds Stolen"
+date: 2019-03-01 00:03:00
+tags:
+- funds
+- fund
+- stolen
+categories:
+primary_category: "swap"
+primary_category_display_name: "Swap"
+---
+
 ## Swap Was Canceled or Wasn’t Completed
 ***
 

@@ -1,4 +1,18 @@
-## How to Change Networks  (Access Ropsten, ETC, and more!)
+---
+title: "How to Change Networks (Access Ropsten, ETC, and more!)"
+date: 2019-03-01 00:07:00
+tags:
+- change
+- network
+- networks
+- ropsten
+- etc
+categories:
+primary_category: "networks_and_nodes"
+primary_category_display_name: "Networks And Nodes"
+---
+
+## How to Change Networks (Access Ropsten, ETC, and more!)
 ***
 
 Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, but want to fool around on the Ropsten test network first? Or maybe you’re just interested in other networks that have forked off of the Ethereum blockchain? If any of the above are true, this is the article for you.

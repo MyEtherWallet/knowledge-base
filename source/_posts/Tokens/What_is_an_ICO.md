@@ -2,9 +2,12 @@
 title: "What is an ICO?"
 date: 2019-03-01 00:05:00
 tags:
-- faqs, ico
+- faqs
+- ico
 categories:
 - faqs
+primary_category: "tokens"
+primary_category_display_name: "Tokens"
 ---
 
 ## What is an ICO?
