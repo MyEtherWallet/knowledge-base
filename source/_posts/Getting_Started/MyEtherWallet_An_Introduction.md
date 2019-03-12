@@ -7,8 +7,8 @@ tags:
 - intro
 categories:
 - faqs
-primary_category_display: "Get Started"
 primary_category: "get_started"
+primary_category_display_name: "Get Started"
 ---
 
 ## MyEtherWallet: An Introduction
