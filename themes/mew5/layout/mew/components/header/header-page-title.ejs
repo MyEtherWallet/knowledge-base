@@ -2,7 +2,7 @@
   <div class="header-wrap page-container">
     <div class="top-block">
       <div class="left">
-        <img src="/images/mew-logo-white.png">
+        <a href="/"><img src="/images/mew-logo-white.png"></a>
         <p>Help Center</p>
       </div>
       <div class="right">
@@ -14,12 +14,8 @@
       </div>
     </div>
 
-    <div class="search-block">
-      <div class="search-title">Get Lost? Let Us Help.</div>
-      <div class="search-form-container">
-        <%- search_form({button: '&#xF002;'}) %>
-      </div>
-      <p class="search-bottom-text">Top Searches: MEWconnect /Swap / Send ETH / Security / Blockchain / Create a Wallet</p>
+    <div class="page-title">
+      <div class="title"><%= page.primary_category_display %></div>
     </div>
   </div>
 </header>

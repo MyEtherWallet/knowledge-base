@@ -2,11 +2,14 @@
 title: "How to Create a Wallet"
 date: 2019-03-01 00:02:00
 tags:
-- faqs, create, wallet
+- faqs
+- create
+- wallet
 categories:
 - faqs
+primary_category_display: "Get Started"
+primary_category: "get_started"
 ---
-
 
 ## How to Create a Wallet
 
