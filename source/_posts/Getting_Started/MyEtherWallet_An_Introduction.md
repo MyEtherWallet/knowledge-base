@@ -2,9 +2,13 @@
 title: "MyEtherWallet: An Introduction"
 date: 2019-03-01 00:01:00
 tags:
-- faqs, introduction, intro
+- faqs
+- introduction
+- intro
 categories:
 - faqs
+primary_category_display: "Get Started"
+primary_category: "get_started"
 ---
 
 ## MyEtherWallet: An Introduction

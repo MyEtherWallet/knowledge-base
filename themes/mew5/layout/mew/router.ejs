@@ -1,4 +1,3 @@
-
 <% if (path == 'faqs/index.html' || path == 'index.html') { %>
   <%- partial('mew/components/header/header-search', null, {cache: !config.relative_link}) %>
   <%- partial('mew/categories/category-faqs', null, {cache: !config.relative_link}) %>
@@ -12,7 +11,7 @@
   <%- partial('mew/categories/category-videos', null, {cache: !config.relative_link}) %>
 
 <% } else { %>
-  <%- partial('mew/components/header/header-search', null, {cache: !config.relative_link}) %>
+  <%- partial('mew/components/header/header-page-title', null, {cache: !config.relative_link}) %>
   <%- body %>
 <% } %>
 

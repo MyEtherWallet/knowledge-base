@@ -1,3 +1,14 @@
+---
+title: "How to Access Your Wallet"
+date: 2019-01-01 00:01:00
+tags:
+- access
+- wallet
+categories:
+primary_category_display: "Get Started"
+primary_category: "get_started"
+---
+
 ## How to Access Your Wallet
 
 ##### <i>This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to [this article]().</i>

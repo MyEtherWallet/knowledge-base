@@ -1,10 +1,14 @@
 ---
-title: "How to check Your Balance?"
+title: "Checking Your Balance"
 date: 2019-03-01 00:08:00
 tags:
-- faqs, balance, block
+- faqs
+- balance
+- block
 categories:
 - faqs
+primary_category_display: "Get Started"
+primary_category: "get_started"
 ---
 
 ## Checking Your Balance

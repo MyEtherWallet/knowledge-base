@@ -1,3 +1,18 @@
+---
+title: "Back to the Basics: 10 Tips for Beginners"
+date: 2019-01-01 00:01:00
+tags:
+- basic
+- tip
+- tips
+- biginner
+- biginners
+categories:
+primary_category_display: "Get Started"
+primary_category: "get_started"
+---
+
+
 ## Back to the Basics: 10 Tips for Beginners
 ***
 

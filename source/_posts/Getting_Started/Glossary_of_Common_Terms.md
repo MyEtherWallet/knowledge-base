@@ -1,3 +1,14 @@
+---
+title: "A Glossary of Common Terms in the Ethereum / Crypto Community"
+date: 2019-01-01 00:01:00
+tags:
+- glossary
+- terms
+categories:
+primary_category_display: "Get Started"
+primary_category: "get_started"
+---
+
 ## A Glossary of Common Terms in the Ethereum / Crypto Community
 
 #### <i>Here is a list of terms you may encounter while using MyEtherWallet (MEW).
