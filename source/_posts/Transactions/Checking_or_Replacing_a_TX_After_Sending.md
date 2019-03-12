@@ -1,3 +1,17 @@
+---
+title: "Checking or Replacing a Transaction After it's Been Sent"
+date: 2019-03-01 00:04:00
+tags:
+- checking
+- replacing
+- transaction
+- tokens
+- sent
+categories:
+primary_category: "transactions"
+primary_category_display_name: "Transactions"
+---
+
 ## Checking or Replacing a Transaction After it's Been Sent
 ***
 

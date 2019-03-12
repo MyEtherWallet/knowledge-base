@@ -1,3 +1,15 @@
+---
+title: "Adding Your Token as a Default Token"
+date: 2019-03-01 00:04:00
+tags:
+- token
+- add
+- adding
+categories:
+primary_category: "tokens"
+primary_category_display_name: "Tokens"
+---
+
 ## Adding Your Token as a Default Token
 ***
 

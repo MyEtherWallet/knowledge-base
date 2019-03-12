@@ -1,3 +1,14 @@
+---
+title: "Error: Token Already Exists!"
+date: 2019-01-01 00:01:00
+tags:
+- error
+- token
+categories:
+primary_category: "common_issues"
+primary_category_display_name: "Common Issues"
+---
+
 ## Error: Token Already Exists!
 ***
 

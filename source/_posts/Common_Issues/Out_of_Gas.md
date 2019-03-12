@@ -1,3 +1,15 @@
+---
+title: "Error: Out of Gas"
+date: 2019-01-01 00:01:00
+tags:
+- error
+- gas
+- out
+categories:
+primary_category: "common_issues"
+primary_category_display_name: "Common Issues"
+---
+
 ## Error: Out of Gas
 ***
 

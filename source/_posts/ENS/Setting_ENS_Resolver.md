@@ -1,3 +1,16 @@
+---
+title: "Setting the Resolver for an ENS Name"
+date: 2019-03-01 00:07:00
+tags:
+- setting
+- resolver
+- ens
+- name
+categories:
+primary_category: "ens"
+primary_category_display_name: "ENS"
+---
+
 ## Setting the Resolver for an ENS Name
 ***
 

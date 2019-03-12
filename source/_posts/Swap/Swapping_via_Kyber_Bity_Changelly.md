@@ -1,3 +1,19 @@
+---
+title: "Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly"
+date: 2019-03-01 00:03:00
+tags:
+- swap
+- eth
+- erc20
+- tokens
+- kyber
+- bity
+- changelly
+categories:
+primary_category: "swap"
+primary_category_display_name: "Swap"
+---
+
 ## Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly
 ***
 

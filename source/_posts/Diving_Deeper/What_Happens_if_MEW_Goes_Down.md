@@ -2,9 +2,14 @@
 title: "What Happens if MEW Goes Down?"
 date: 2019-03-01 00:06:00
 tags:
-- faqs, service, stop, down
+- faqs
+- service
+- stop
+- down
 categories:
 - faqs
+primary_category: "diving_deeper"
+primary_category_display_name: "Diving Deeper"
 ---
 
 ## What Happens if MEW Goes Down?

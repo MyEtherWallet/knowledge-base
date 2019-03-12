@@ -1,10 +1,18 @@
 ---
-title: "How to Avoid Phishing/Scams"
+title: "Pro-Tips: How to Avoid Phishing/Scams"
 date: 2019-03-01 00:03:00
 tags:
-- faqs, avoid, phishing, scams, scam
+- faqs
+- avoid
+- phishing
+- scams
+- scam
+- tips
+- tip
 categories:
 - faqs
+primary_category: "security_and_privacy"
+primary_category_display_name: "Security And Privacy"
 ---
 
 ## Pro-Tips: How to Avoid Phishing/Scams

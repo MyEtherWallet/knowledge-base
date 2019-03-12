@@ -1,10 +1,16 @@
 ---
-title: "Where can I buy / sell / trade / exchange my ETH or Tokens?"
+title: "Buy ETH via Simplex"
 date: 2019-03-01 00:04:00
 tags:
-- faqs, buy, sell, trade, exchange
+- faqs
+- buy
+- sell
+- trade
+- exchange
 categories:
 - faqs
+primary_category: "swap"
+primary_category_display_name: "Swap"
 ---
 
 ## Buy ETH via Simplex

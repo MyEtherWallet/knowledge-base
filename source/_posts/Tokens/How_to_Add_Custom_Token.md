@@ -1,3 +1,16 @@
+---
+title: "How to Add a Custom Token"
+date: 2019-03-01 00:04:00
+tags:
+- custom
+- token
+- adding
+- add
+categories:
+primary_category: "tokens"
+primary_category_display_name: "Tokens"
+---
+
 ## How to Add a Custom Token
 ***
 

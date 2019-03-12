@@ -1,3 +1,16 @@
+---
+title: "Transactions are 'Not Found' or 'Pending' Forever"
+date: 2019-03-01 00:04:00
+tags:
+- transactions
+- found
+- pending
+- forever
+categories:
+primary_category: "transactions"
+primary_category_display_name: "Transactions"
+---
+
 ## Transactions are 'Not Found' or 'Pending' Forever
 ***
 

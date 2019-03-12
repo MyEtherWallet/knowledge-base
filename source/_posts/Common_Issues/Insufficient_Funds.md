@@ -1,3 +1,15 @@
+---
+title: "Insufficient Funds"
+date: 2019-01-01 00:01:00
+tags:
+- insufficient
+- fund
+- funds
+categories:
+primary_category: "common_issues"
+primary_category_display_name: "Common Issues"
+---
+
 ## Error: Insufficient Funds
 ***
 

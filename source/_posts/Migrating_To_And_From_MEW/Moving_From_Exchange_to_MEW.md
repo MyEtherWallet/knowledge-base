@@ -1,4 +1,21 @@
-### Moving from an Exchange <br> (Coinbase/Gemini/Binance/Kraken/etc..) to MEW
+---
+title: "Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW"
+date: 2019-03-01 00:07:00
+tags:
+- moving
+- move
+- exchange
+- coinbase
+- gemini
+- binance
+- kraken
+- mew
+categories:
+primary_category: "migrating_to_and_from_mew"
+primary_category_display_name: "Migrating To And From MEW"
+---
+
+### Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW
 ***
 
 First, it’s important to tell [the difference between an exchange and MyEtherWallet (MEW)](). 
