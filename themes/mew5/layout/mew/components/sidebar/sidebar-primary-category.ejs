@@ -11,6 +11,9 @@
 <% var pageID = page._id %>
 
 <aside>
+  <div class="search-form-container">
+    <%- search_form({button: '&#xF002;'}) %>
+  </div>
   <div class="sidebar-primary-category">
     <ul>
       <% site.posts.sort('date', 1).each(function(post){ %>
@@ -26,5 +29,8 @@
         <% } %>
       <% }) %>
     </ul>
+  </div>
+  <div class="customer">
+    <%- partial('mew/components/sidebar/sidebar-customer-support-block', null, {cache: !config.relative_link}) %>
   </div>
 </aside>

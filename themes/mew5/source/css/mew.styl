@@ -53,9 +53,9 @@ textarea:focus, input:focus
 
 
 //=========================================================================
-// .mew___major-categories
+// .mew___components_major-categories
 //=========================================================================
-.mew___major-categories
+.mew___components_major-categories
   user-select: none
   height: 90px
 
@@ -421,44 +421,194 @@ footer
 
 
 
+//=========================================================================
+// .breadcrumbs-container
+//=========================================================================
+.breadcrumbs-container
+  padding: 40px 0
+
 
 //=========================================================================
 // .article-container
 //=========================================================================
 .article-container
-  padding: 50px 0
+  padding: 0 0 50px 0
   display: grid
-  grid-template-columns: 250px 1fr
+  grid-template-columns: 300px 1fr
   grid-gap: 50px
 
 
+//=========================================================================
+// .thumbs-and-share-container
+//=========================================================================
+.thumbs-and-share-container
+  margin-top: 20px
+  display: flex
+  align-items: center
+
+  .share
+    margin-left: auto;
 
 
 
 //=========================================================================
-// .sidebar-primary-category
+// aside
 //=========================================================================
-.sidebar-primary-category
-  ul
-    li > a > div
-      margin-bottom: 10px
-      font-size: 14px
-      border: 1px solid mew-color-green-1
+aside
+  .search-form-container
+    margin-bottom: 10px
+    position: relative
+
+    button
+      display: none
+
+    input
+      width: 100%
+      border: 0
+      background-color: mew-color-light-grey-5
+      padding: 20px 20px 20px 40px
       border-radius: 4px
-      padding: 15px
 
-      &:hover
-        background-color: mew-color-light-grey-4
-        color: black
-
-      &.active
-        background-color: mew-color-green-1
-        color: white
-
-
-
-
+    &::before
+      content: '⚲'
+      position: absolute
+      top: 15px
+      left: 17px
+      transform: rotate(-45deg)
+      color: #000
+      display: inline-block
+      font-size: 20px
+      z-index: 1
 
 
+  .sidebar-primary-category
+    ul
+      li
+        margin-bottom: 5px
+      li > a > div
+        font-size: 14px
+        border: 1px solid mew-color-green-1
+        border-radius: 4px
+        padding: 15px
+
+        &:hover
+          background-color: mew-color-light-grey-4
+          color: black
+
+        &.active
+          background-color: mew-color-green-1
+          color: white
+
+
+//=========================================================================
+// .mew___components_sidebar_customer-support-block
+//=========================================================================
+.mew___components_sidebar_customer-support-block
+  margin-top: 10px
+  .wrap
+    border-radius: 4px
+    padding: 30px 20px
+    display: flex
+    align-items: center
+    background-color: mew-color-background-2
+
+    .icon-image
+      margin-right: 15px
+      img
+        width: 40px
+
+    .content
+      .title
+        font-size: 20px
+        font-weight: 600
+        margin-bottom: 10px;
+
+      .email-us a
+        color: mew-color-green-1
+        font-size: 16px
+        font-weight: 500
+        position: relative
+        span
+          position: absolute
+          top: -17px
+          left: 60px
+          color: mew-color-green-1
+          font-size: 40px
+          margin-left: 10px
+
+
+
+//=========================================================================
+// .mew___components_breadcrumbs
+//=========================================================================
+.mew___components_breadcrumbs
+  .wrap
+    display: flex
+    align-items: center
+    div
+      color: mew-color-green-1
+      font-size: 14px
+      font-weight: 500
+      a
+        color: mew-color-green-1
+        font-size: 14px
+        font-weight: 500
+
+        &:hover
+          color: red
+          text-decoration: underline
+
+        span
+          color: mew-color-green-1
+          font-size: 20px
+          line-height: 20px
+          font-weight: 500
+
+    .post-title
+      color: mew-color-text-1
+
+
+
+//=========================================================================
+// .mew___components_thumbs-up-down
+//=========================================================================
+.mew___components_thumbs-up-down
+  .wrap
+    padding: 20px 0
+    display: flex
+    align-items: center
+
+    div
+      margin-right: 15px
+      display: flex
+      align-items: center
+      i
+        font-size: 20px
+        cursor: pointer
+        &:hover
+          color: mew-color-green-1
+
+
+//=========================================================================
+// .mew___components_share
+//=========================================================================
+.mew___components_share
+  .wrap
+    display: flex
+    align-items: center
+
+    .title
+      font-weight: 500
+
+    div
+      margin-left: 20px
+
+      i
+        font-size: 20px
+        color: mew-color-light-grey-2
+        cursor: pointer
+
+        &:hover
+          color: mew-color-green-1
 
 
