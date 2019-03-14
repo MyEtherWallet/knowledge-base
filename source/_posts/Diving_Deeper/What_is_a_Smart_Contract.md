@@ -5,6 +5,7 @@ tags:
 - smart
 - contract
 categories:
+- diving_deeper
 primary_category: "diving_deeper"
 primary_category_display_name: "Diving Deeper"
 ---

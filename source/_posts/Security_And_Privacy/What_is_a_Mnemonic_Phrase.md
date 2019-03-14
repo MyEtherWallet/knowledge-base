@@ -5,6 +5,7 @@ tags:
 - mnemonic
 - phrase
 categories:
+- security_and_privacy
 primary_category: "security_and_privacy"
 primary_category_display_name: "Security And Privacy"
 ---

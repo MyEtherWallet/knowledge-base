@@ -7,6 +7,7 @@ tags:
 - pending
 - forever
 categories:
+- transactions
 primary_category: "transactions"
 primary_category_display_name: "Transactions"
 ---

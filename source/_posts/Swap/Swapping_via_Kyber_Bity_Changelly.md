@@ -10,6 +10,7 @@ tags:
 - bity
 - changelly
 categories:
+- swap
 primary_category: "swap"
 primary_category_display_name: "Swap"
 ---

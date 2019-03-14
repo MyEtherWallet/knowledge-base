@@ -8,6 +8,7 @@ tags:
 - charged
 - charge
 categories:
+- transactions
 primary_category: "transactions"
 primary_category_display_name: "Transactions"
 ---

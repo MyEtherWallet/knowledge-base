@@ -8,6 +8,7 @@ tags:
 - appearing
 - wallet
 categories:
+- tokens
 primary_category: "tokens"
 primary_category_display_name: "Tokens"
 ---

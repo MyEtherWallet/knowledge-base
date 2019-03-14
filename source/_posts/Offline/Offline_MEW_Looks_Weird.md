@@ -5,6 +5,7 @@ tags:
 - offline
 - mew
 categories:
+- offline
 primary_category: "offline"
 primary_category_display_name: "Offline"
 ---
