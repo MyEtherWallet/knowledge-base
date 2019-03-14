@@ -8,9 +8,9 @@ tags:
 - trade
 - exchange
 categories:
-- faqs
-- swap
-primary_category: "swap"
+- [faqs]
+- [swap]
+primary_category: swap
 primary_category_display_name: "Swap"
 ---
 

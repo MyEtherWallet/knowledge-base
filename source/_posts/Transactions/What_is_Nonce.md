@@ -1,11 +1,11 @@
 ---
 title: "What is Nonce?"
-date: 2019-03-01 00:04:00
+date: 2018-06-01 00:08:00
 tags:
 - nonce
 categories:
-- transactions
-primary_category: "transactions"
+- [transactions]
+primary_category: transactions
 primary_category_display_name: "Transactions"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "MEWconnect 101: Connect to MyEtherWallet"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:01:00
 tags:
 - mewconnect
 - connect
 - myetherWallet
 categories:
-- mewconnect
-primary_category: "mewconnect"
+- [mewconnect]
+primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 ---
 

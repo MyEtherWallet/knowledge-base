@@ -1,14 +1,14 @@
 ---
 title: "Importing a V2 JSON File"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:01:00
 tags:
 - importing
 - import
 - v2
 - json
 categories:
-- migration
-primary_category: "migration"
+- [migration]
+primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 ---
 

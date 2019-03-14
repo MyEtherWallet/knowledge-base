@@ -1,6 +1,6 @@
 ---
 title: "Pro-Tips: How to Avoid Phishing/Scams"
-date: 2019-03-01 00:03:00
+date: 2018-06-01 00:03:00
 tags:
 - faqs
 - avoid
@@ -10,9 +10,9 @@ tags:
 - tips
 - tip
 categories:
-- faqs
-- security_and_privacy
-primary_category: "security_and_privacy"
+- [faqs]
+- [security_and_privacy]
+primary_category: security_and_privacy
 primary_category_display_name: "Security And Privacy"
 ---
 

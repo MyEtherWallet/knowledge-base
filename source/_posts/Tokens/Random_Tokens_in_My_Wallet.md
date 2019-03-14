@@ -8,9 +8,9 @@ tags:
 - appearing
 - wallet
 categories:
-- faqs
-- tokens
-primary_category: "tokens"
+- [faqs]
+- [token]
+primary_category: token
 primary_category_display_name: "Tokens"
 ---
 

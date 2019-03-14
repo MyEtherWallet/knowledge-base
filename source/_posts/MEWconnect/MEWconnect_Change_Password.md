@@ -1,12 +1,12 @@
 ---
 title: "How to Change Your Password on MEWconnect"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:06:00
 tags:
 - mewconnect
 - password
 categories:
-- mewconnect
-primary_category: "mewconnect"
+- [mewconnect]
+primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 ---
 

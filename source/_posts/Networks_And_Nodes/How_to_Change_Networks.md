@@ -1,6 +1,6 @@
 ---
 title: "How to Change Networks (Access Ropsten, ETC, and more!)"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:01:00
 tags:
 - change
 - network
@@ -8,8 +8,8 @@ tags:
 - ropsten
 - etc
 categories:
-- networks_and_nodes
-primary_category: "networks_and_nodes"
+- [networks_and_nodes]
+primary_category: networks_and_nodes
 primary_category_display_name: "Networks And Nodes"
 ---
 

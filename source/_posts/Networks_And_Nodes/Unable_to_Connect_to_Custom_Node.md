@@ -1,14 +1,14 @@
 ---
 title: "Unable to Connect to Custom Node"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:02:00
 tags:
 - unable
 - connect
 - custom
 - node
 categories:
-- networks_and_nodes
-primary_category: "networks_and_nodes"
+- [networks_and_nodes]
+primary_category: networks_and_nodes
 primary_category_display_name: "Networks And Nodes"
 ---
 

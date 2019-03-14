@@ -1,12 +1,12 @@
 ---
 title: "MEWconnect User Guide"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:07:00
 tags:
 - mewconnect
 - guide
 categories:
-- mewconnect
-primary_category: "mewconnect"
+- [mewconnect]
+primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 ---
 

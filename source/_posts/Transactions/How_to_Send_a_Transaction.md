@@ -1,12 +1,12 @@
 ---
 title: "How to Send a Transaction"
-date: 2019-03-01 00:04:00
+date: 2018-06-01 00:03:00
 tags:
 - send
 - transaction
 categories:
-- transactions
-primary_category: "transactions"
+- [transactions]
+primary_category: transactions
 primary_category_display_name: "Transactions"
 ---
 

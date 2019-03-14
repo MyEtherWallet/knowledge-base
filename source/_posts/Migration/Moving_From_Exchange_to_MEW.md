@@ -1,6 +1,6 @@
 ---
 title: "Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:02:00
 tags:
 - moving
 - move
@@ -11,8 +11,8 @@ tags:
 - kraken
 - mew
 categories:
-- migration
-primary_category: "migration"
+- [migration]
+primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 ---
 
