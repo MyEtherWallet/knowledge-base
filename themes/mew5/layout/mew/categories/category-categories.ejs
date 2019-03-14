@@ -8,7 +8,10 @@
           <h3>Introduction</h3>
           <ul>
             <li>
-              <a href="/posts/Getting_Started/How_To_Create_A_Wallet/">
+              <% if(false) console.log(Object.keys(site.categories.findOne({name: 'get_started'}).posts.data)) %>
+              <% if(false) console.log(site.categories.findOne({name: 'get_started'}).posts.data[0].path) %>
+
+              <a href="/<%= site.categories.findOne({name: 'get_started'}).posts.data[0].path %>">
                 <div>
                   <img src="/images/mew-icons/get-started.svg">
                   <p>Get Started</p>

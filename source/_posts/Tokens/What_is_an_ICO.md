@@ -6,6 +6,7 @@ tags:
 - ico
 categories:
 - faqs
+- tokens
 primary_category: "tokens"
 primary_category_display_name: "Tokens"
 ---

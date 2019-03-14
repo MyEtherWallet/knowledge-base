@@ -8,6 +8,7 @@ tags:
 - ropsten
 - etc
 categories:
+- networks_and_nodes
 primary_category: "networks_and_nodes"
 primary_category_display_name: "Networks And Nodes"
 ---

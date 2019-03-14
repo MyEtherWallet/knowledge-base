@@ -6,6 +6,7 @@ tags:
 - create
 - wallet
 categories:
+- mewconnect
 primary_category: "mewconnect"
 primary_category_display_name: "MEWconnect"
 ---

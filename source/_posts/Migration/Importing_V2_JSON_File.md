@@ -7,7 +7,8 @@ tags:
 - v2
 - json
 categories:
-primary_category: "migrating_to_and_from_mew"
+- migration
+primary_category: "migration"
 primary_category_display_name: "Migrating To And From MEW"
 ---
 
