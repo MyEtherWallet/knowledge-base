@@ -1,6 +1,6 @@
 ---
 title: "My Transaction Failed. Why Was I Charged?"
-date: 2019-03-01 00:04:00
+date: 2018-06-01 00:06:00
 tags:
 - transactions
 - failed
@@ -8,8 +8,8 @@ tags:
 - charged
 - charge
 categories:
-- transactions
-primary_category: "transactions"
+- [transactions]
+primary_category: transactions
 primary_category_display_name: "Transactions"
 ---
 

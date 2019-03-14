@@ -1,12 +1,12 @@
 ---
 title: "What is a Mnemonic Phrase?"
-date: 2019-03-01 00:03:00
+date: 2018-06-01 00:06:00
 tags:
 - mnemonic
 - phrase
 categories:
-- security_and_privacy
-primary_category: "security_and_privacy"
+- [security_and_privacy]
+primary_category: security_and_privacy
 primary_category_display_name: "Security And Privacy"
 ---
 

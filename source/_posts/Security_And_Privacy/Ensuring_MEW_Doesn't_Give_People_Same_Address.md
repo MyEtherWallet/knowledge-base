@@ -1,13 +1,13 @@
 ---
 title: "Ensuring MEW Doesn’t Give Different People the Same Public Address"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:01:00
 tags:
 - mew
 - public
 - address
 categories:
-- security_and_privacy
-primary_category: "security_and_privacy"
+- [security_and_privacy]
+primary_category: security_and_privacy
 primary_category_display_name: "Security And Privacy"
 ---
 

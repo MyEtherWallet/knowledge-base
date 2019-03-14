@@ -1,6 +1,6 @@
 ---
 title: "Should I Keep My ETH and ERC20 Tokens on Multiple Addresses?"
-date: 2019-03-01 00:03:00
+date: 2018-06-01 00:04:00
 tags:
 - eth
 - erc
@@ -10,8 +10,8 @@ tags:
 - addresses
 - address
 categories:
-- security_and_privacy
-primary_category: "security_and_privacy"
+- [security_and_privacy]
+primary_category: security_and_privacy
 primary_category_display_name: "Security And Privacy"
 ---
 

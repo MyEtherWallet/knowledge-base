@@ -1,12 +1,12 @@
 ---
 title: "Using Jaxx with MEW"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:04:00
 tags:
 - jaxx
 - mew
 categories:
-- migration
-primary_category: "migration"
+- [migration]
+primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 ---
 

@@ -14,7 +14,7 @@
           <li>
             <a href="<%- url_for(post.path) %>">
               <div class="<%- post._id == pageID ? 'active' : '' %>">
-                <div><%= counter %></div>
+                <div class="hidden post-index-number"><%= counter %></div>
                 <%= post.title || '(no title)' %>
                 <p class="hidden"><%= post._id %></p>
               </div>

@@ -1,6 +1,6 @@
 ---
 title: "ETH or ERC20 Tokens Sent To/From an Exchange Haven’t Shown Up"
-date: 2019-03-01 00:04:00
+date: 2018-06-01 00:02:00
 tags:
 - eth
 - erc20
@@ -10,8 +10,8 @@ tags:
 - from
 - exchange
 categories:
-- transactions
-primary_category: "transactions"
+- [transactions]
+primary_category: transactions
 primary_category_display_name: "Transactions"
 ---
 

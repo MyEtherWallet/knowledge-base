@@ -1,13 +1,13 @@
 ---
 title: "What to Do if You’ve Had Your Funds Stolen"
-date: 2019-03-01 00:03:00
+date: 2018-06-01 00:07:00
 tags:
 - funds
 - fund
 - stolen
 categories:
-- security_and_privacy
-primary_category: "security_and_privacy"
+- [security_and_privacy]
+primary_category: security_and_privacy
 primary_category_display_name: "Security And Privacy"
 ---
 

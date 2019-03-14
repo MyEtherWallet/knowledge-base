@@ -1,12 +1,12 @@
 ---
 title: "Offline MEW Looks Weird2222"
-date: 2018-06-01 00:07:00
+date: 2018-06-01 00:01:00
 tags:
 - offline
 - mew
 categories:
-- offline
-primary_category: "offline"
+- [offline]
+primary_category: offline
 primary_category_display_name: "Offline"
 ---
 
