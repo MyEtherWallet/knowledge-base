@@ -8,8 +8,8 @@ tags:
 - biginner
 - biginners
 categories:
-- get_started
-primary_category: "get_started"
+- [get_started]
+primary_category: get_started
 primary_category_display_name: "Get Started"
 ---
 

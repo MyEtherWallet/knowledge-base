@@ -1,13 +1,13 @@
 ---
 title: "ENS: Auctions 101"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:02:00
 tags:
 - ens
 - auction
 - auctions
 categories:
-- ens
-primary_category: "ens"
+- [ens]
+primary_category: ens
 primary_category_display_name: "ENS"
 ---
 

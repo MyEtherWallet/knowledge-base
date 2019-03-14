@@ -6,8 +6,8 @@ tags:
 - checksummed
 - checksum
 categories:
-- common_issues
-primary_category: "common_issues"
+- [common_issues]
+primary_category: common_issues
 primary_category_display_name: "Common Issues"
 ---
 

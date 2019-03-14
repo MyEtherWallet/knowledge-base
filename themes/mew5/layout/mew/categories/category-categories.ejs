@@ -8,9 +8,6 @@
           <h3>Introduction</h3>
           <ul>
             <li>
-              <% if(false) console.log(Object.keys(site.categories.findOne({name: 'get_started'}).posts.data)) %>
-              <% if(false) console.log(site.categories.findOne({name: 'get_started'}).posts.data[0].path) %>
-
               <a href="/<%= site.categories.findOne({name: 'get_started'}).posts.sort('date', 1).data[0].path %>">
                 <div>
                   <img src="/images/mew-icons/get-started.svg">
@@ -98,8 +95,6 @@
           <h3>Functions</h3>
           <ul>
             <li>
-              <% if(false) console.log(Object.keys(site.categories.findOne({name: 'tokens'}).posts.length)) %>
-              <% if(false) console.log(site.categories.findOne({name: 'tokens'}).posts) %>
               <a href="/<%= site.categories.findOne({name: 'tokens'}).posts.sort('date', 1).data[0].path %>">
                 <div>
                   <img src="/images/mew-icons/tokens.svg">

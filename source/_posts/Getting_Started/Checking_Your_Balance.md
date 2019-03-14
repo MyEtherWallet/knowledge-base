@@ -6,9 +6,9 @@ tags:
 - balance
 - block
 categories:
-- faqs
-- get_started
-primary_category: "get_started"
+- [faqs]
+- [get_started]
+primary_category: get_started
 primary_category_display_name: "Get Started"
 ---
 

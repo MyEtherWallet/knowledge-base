@@ -1,11 +1,11 @@
 ---
 title: "Does MyEtherWallet have an API?"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:02:00
 tags:
 - api
 categories:
-- diving_deeper
-primary_category: "diving_deeper"
+- [diving_deeper]
+primary_category: diving_deeper
 primary_category_display_name: "Diving Deeper"
 ---
 

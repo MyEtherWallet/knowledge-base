@@ -1,13 +1,13 @@
 ---
 title: "How to Submit a Pull Request"
-date: 2019-03-01 00:06:00
+date: 2018-06-01 00:04:00
 tags:
 - submit
 - pull
 - request
 categories:
-- diving_deeper
-primary_category: "diving_deeper"
+- [diving_deeper]
+primary_category: diving_deeper
 primary_category_display_name: "Diving Deeper"
 ---
 
