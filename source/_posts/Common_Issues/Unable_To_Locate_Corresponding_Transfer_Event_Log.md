@@ -1,6 +1,6 @@
 ---
 title: "Error: Unable to Locate Corresponding Transfer Event Log"
-date: 2019-01-01 00:01:00
+date: 2018-06-01 00:07:00
 tags:
 - unable
 - transfer

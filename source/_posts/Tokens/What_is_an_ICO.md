@@ -1,6 +1,6 @@
 ---
 title: "What is an ICO?"
-date: 2019-03-01 00:05:00
+date: 2018-06-01 00:04:00
 tags:
 - faqs
 - ico
