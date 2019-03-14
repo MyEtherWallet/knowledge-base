@@ -1,13 +1,13 @@
 ---
 title: "Debugging a 'Bad Instruction' Reveal"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:01:00
 tags:
 - api
 - limit
 - requests
 categories:
-- ens
-primary_category: "ens"
+- [ens]
+primary_category: ens
 primary_category_display_name: "ENS"
 ---
 

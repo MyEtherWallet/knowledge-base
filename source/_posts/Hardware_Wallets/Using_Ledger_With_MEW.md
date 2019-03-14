@@ -1,13 +1,13 @@
 ---
 title: "Using a Ledger Hardware Wallet with MEW"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:02:00
 tags:
 - ledger
 - hardware
 - wallet
 categories:
-- hardware_wallets
-primary_category: "hardware_wallets"
+- [hardware_wallets]
+primary_category: hardware_wallets
 primary_category_display_name: "Hardware Wallets"
 ---
 

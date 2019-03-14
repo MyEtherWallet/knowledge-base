@@ -1,15 +1,15 @@
 ---
 title: "How to Interact with a Multisig Contract?"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:03:00
 tags:
 - faqs
 - service
 - stop
 - down
 categories:
-- faqs
-- diving_deeper
-primary_category: "diving_deeper"
+- [faqs]
+- [diving_deeper]
+primary_category: diving_deeper
 primary_category_display_name: "Diving Deeper"
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Using a Hardware Wallet With a Custom Node"
-date: 2019-03-01 00:06:00
+date: 2018-06-01 00:05:00
 tags:
 - hardware
 - wallet
 - custom
 - node
 categories:
-- diving_deeper
-primary_category: "diving_deeper"
+- [diving_deeper]
+primary_category: diving_deeper
 primary_category_display_name: "Diving Deeper"
 ---
 

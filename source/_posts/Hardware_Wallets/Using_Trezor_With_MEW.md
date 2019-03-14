@@ -1,13 +1,13 @@
 ---
 title: "Using a Trezor Hardware Wallet with MEW"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:01:00
 tags:
 - trezor
 - hardware
 - wallet
 categories:
-- hardware_wallets
-primary_category: "hardware_wallets"
+- [hardware_wallets]
+primary_category: hardware_wallets
 primary_category_display_name: "Hardware Wallets"
 ---
 

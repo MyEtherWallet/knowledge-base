@@ -1,13 +1,13 @@
 ---
 title: "What to Do if You Forgot to Reveal Your ENS Bid"
-date: 2019-03-01 00:07:00
+date: 2018-06-01 00:06:00
 tags:
 - forgot
 - bid
 - ens
 categories:
-- ens
-primary_category: "ens"
+- [ens]
+primary_category: ens
 primary_category_display_name: "ENS"
 ---
 
