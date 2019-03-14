@@ -16,11 +16,14 @@
   </div>
   <div class="sidebar-primary-category">
     <ul>
+      <% var counter = 0 %>
       <% site.posts.sort('date', 1).each(function(post){ %>
         <% if(post.primary_category == primaryCategory){ %>
+          <% counter++ %>
           <li>
             <a href="<%- url_for(post.path) %>">
               <div class="<%- post._id == pageID ? 'active' : '' %>">
+                <div><%= counter %></div>
                 <%= post.title || '(no title)' %>
                 <p class="hidden"><%= post._id %></p>
               </div>

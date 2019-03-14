@@ -1,6 +1,6 @@
 ---
 title: "Buy ETH via Simplex"
-date: 2019-03-01 00:04:00
+date: 2018-06-01 00:01:00
 tags:
 - faqs
 - buy
