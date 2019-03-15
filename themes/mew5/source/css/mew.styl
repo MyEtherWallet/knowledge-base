@@ -2,6 +2,9 @@
 //=========================================================================
 // body
 //=========================================================================
+*
+  box-sizing: border-box
+
 p, span, h1, h2, h3, h4, h5, h6, div
   color: mew-color-text-1
   line-height: initial
@@ -515,11 +518,40 @@ aside
 
         &:hover
           background-color: mew-color-light-grey-4
-          color: black
 
         &.active
           background-color: mew-color-green-1
-          color: white
+          p
+            color: white
+
+
+//=========================================================================
+// .mew___components_sidebar_sidebar-search-form
+//=========================================================================
+.mew___components_sidebar_sidebar-search-form
+  margin-bottom: 10px
+  position: relative
+  width: 100%
+
+  input
+    width: 100%
+    border: 0
+    background-color: mew-color-light-grey-5
+    padding: 20px 20px 20px 40px
+    border-radius: 4px
+
+  &::before
+    content: '⚲'
+    position: absolute
+    top: 15px
+    left: 17px
+    transform: rotate(-45deg)
+    color: #000
+    display: inline-block
+    font-size: 20px
+    z-index: 1
+
+
 
 
 //=========================================================================

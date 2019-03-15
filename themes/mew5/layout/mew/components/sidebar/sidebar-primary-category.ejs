@@ -2,8 +2,11 @@
 <% var pageID = page._id %>
 
 <aside>
-  <div class="search-form-container">
+  <div class="search-form-container hidden">
     <%- search_form({button: '&#xF002;'}) %>
+  </div>
+  <div class="sidebar-search">
+    <%- partial('mew/components/sidebar/sidebar-search-form', null) %>
   </div>
   <div class="sidebar-primary-category">
     <ul>
@@ -11,11 +14,11 @@
       <% site.posts.sort('date', 1).each(function(post){ %>
         <% if(post.primary_category == primaryCategory){ %>
           <% counter++ %>
-          <li>
+          <li class="primary-category-post-title">
             <a href="<%- url_for(post.path) %>">
               <div class="<%- post._id == pageID ? 'active' : '' %>">
                 <div class="hidden post-index-number"><%= counter %></div>
-                <%= post.title || '(no title)' %>
+                <p class="post-title"><%= post.title || '(no title)' %></p>
                 <p class="hidden"><%= post._id %></p>
               </div>
             </a>
