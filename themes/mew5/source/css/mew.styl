@@ -377,32 +377,6 @@ header
       text-align: center
       margin-bottom: 30px
 
-    .search-form-container
-      position: relative
-
-      .search-form-input
-        padding: 20px 20px 20px 50px
-        border-radius: 4px
-        border: 0
-        width: 100%
-        margin: 0 auto
-        display: block
-        position: relative
-
-      &::before
-        content: '⚲'
-        position: absolute
-        top: 12px
-        left: 17px
-        transform: rotate(-45deg)
-        color: #000
-        display: inline-block
-        font-size: 25px
-        z-index: 1
-
-
-      button
-        display: none
 
     .search-bottom-text
       color: white
@@ -413,6 +387,57 @@ header
         color: white
       a:hover
         text-decoration: underline
+
+
+//=========================================================================
+// .mew___components_header_header-search-form
+//=========================================================================
+.mew___components_header_header-search-form
+  position: relative
+
+  .search-form-input
+    padding: 20px 20px 20px 50px
+    border-radius: 4px
+    border: 0
+    width: 100%
+    margin: 0 auto
+    display: block
+    position: relative
+
+  &::before
+    content: '⚲'
+    position: absolute
+    top: 12px
+    left: 17px
+    transform: rotate(-45deg)
+    color: #000
+    display: inline-block
+    font-size: 25px
+    z-index: 1
+
+
+  .search-results
+    width: 100%
+    position: absolute
+    top: 59px
+    background-color: white
+    z-index: 1
+    overflow-y: auto
+    max-height: 500px
+    border-radius: 4px
+    box-shadow: 0 0 20px mew-color-box-shadow-1
+
+    ul
+      padding: 10px
+      li
+        cursor: pointer
+        border-radius: 25px
+        padding: 10px
+        &:hover
+          background-color: mew-color-light-grey-1
+          p
+            color: white
+
 
 //=========================================================================
 // footer
