@@ -1,7 +1,8 @@
 # Header
 menu:
-  Home: /
-  Support: /
+  Categories: /categories
+  Support: mailto:support@myetherwallet.com
+
 rss: /atom.xml
 
 # Content
