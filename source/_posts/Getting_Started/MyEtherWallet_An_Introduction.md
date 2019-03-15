@@ -1,6 +1,6 @@
 ---
 title: "MyEtherWallet: An Introduction"
-date: 2018-06-01 00:08:00
+date: 2018-05-01 00:01:00
 tags:
 - faqs
 - introduction
@@ -14,6 +14,7 @@ primary_category_display_name: "Get Started"
 
 ## MyEtherWallet: An Introduction
 ##### We highly suggest you read through this entire introduction, for the safety of your funds.
+###### ⏰ 3 min read
 ***
 MyEtherWallet (MEW) is an open-source, client-side interface that allows users to interact directly with the Ethereum blockchain, without having to join a centralized exchange.
 
