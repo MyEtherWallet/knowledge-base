@@ -11,12 +11,12 @@ primary_category: common_issues
 primary_category_display_name: "Common Issues"
 ---
 
-## Ledger: Error Code 5
+# __Ledger: Error Code 5__
 ***
 
 If you’re getting the error code 5, this means that your Ledger is opened and being used by another application, such as Ledger Live. 
 
-#### To fix this error, please follow these steps: 
+## __To fix this error, please follow these steps:__
 
 **Step 1.** Plug in your Ledger device. Make sure that any windows that pop up, including Ledger Live, are closed. 
 
@@ -26,7 +26,7 @@ If you’re getting the error code 5, this means that your Ledger is opened and 
 
 **Step 4.** Choose the ‘Ledger’ option next, and connect to your device. 
 
-#### If it’s still not connecting, follow these troubleshooting tips: 
+## __If it’s still not connecting, follow these troubleshooting tips:__
 
 * Restart your computer.
 * Use Google Chrome.
