@@ -12,28 +12,28 @@ primary_category: get_started
 primary_category_display_name: "Get Started"
 ---
 
-## MyEtherWallet: An Introduction
+
+
+
+# __MyEtherWallet: An Introduction__
 ##### We highly suggest you read through this entire introduction, for the safety of your funds.
 ###### ⏰ 3 min read
 ***
+
 MyEtherWallet (MEW) is an open-source, client-side interface that allows users to interact directly with the Ethereum blockchain, without having to join a centralized exchange.
 
+## __With MEW, users can:__
 
-
-### With MEW, users can:
-
-* [Create]() a new ETH wallet.
-* [Send]() and receive ETH and ERC20 tokens.
-* [Access]() a variety of existing wallets including our MEWconnect app, the MetaMask Chrome extension, and partnering hardware wallets.
-* [Swap]() a growing number of cryptocurrencies including ERC20 tokens, ETH, ETC, BTC, and REP.
+* [Create](/posts/Getting_Started/How_To_Create_A_Wallet/) a new ETH wallet.
+* [Send](/posts/Transactions/How_to_Send_a_Transaction/) and receive ETH and ERC20 tokens.
+* [Access](/posts/Getting_Started/How_To_Access_Your_Wallet/) a variety of existing wallets including our MEWconnect app, the MetaMask Chrome extension, and partnering hardware wallets.
+* [Swap](/posts/Swap/Swapping_via_Kyber_Bity_Changelly/) a growing number of cryptocurrencies including ERC20 tokens, ETH, ETC, BTC, and REP.
 * Deploy and interact with smart contracts.
-* [Send offline](), through the use of signatures.
+* Send offline, through the use of signatures.
 * Initialize, bid on, and finalize ENS domain auctions.
 * Access a wealth of educational material from our [Knowledge Base]().
 
-
-
-### What do 'open-source' and 'client-side' mean?
+## __What do 'open-source' and 'client-side' mean?__
 
 * Open-source means anyone can view, copy, or make suggestions to our code on [GitHub](https://github.com/MyEtherWallet "MEW's GitHub").
 * Client-side means we do not have behind-the-scenes servers.
@@ -42,7 +42,7 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 
 
 
-### Where are my funds stored then?
+## __Where are my funds stored then?__
 
 * All ETH and ERC20 tokens are stored on the Ethereum blockchain.
 * When using any site, exchange, hardware wallet, or interface based on the blockchain, all crypto is stored on the blockchain itself. These platforms and hardware wallets just allow us to interact with the blockchain in a simplified way.
@@ -51,8 +51,8 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 
 
 
-### MEW is NOT a bank or exchange.
-#### What does that mean?
+## __MEW is NOT a bank or exchange.__
+#### __What does that mean?__
 
 * We cannot cancel, reverse, or refund transactions.
 * We cannot recover phished funds.
@@ -61,13 +61,13 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 * The only one who has access to your funds is you. 
 
 
+<div class="reminder">
+Let’s just say that one more time: 
+You’re in charge of your own funds and information.
+</div>
 
-##### Let’s just say that one more time: 
-#### You’re in charge of your own funds and information.
 
-
-
-### How do I remain secure?
+## __How do I remain secure?__
 
 * The most secure way to access your funds is through a hardware wallet, like a [Ledger Nano S]() or [Trezor](https://shop.trezor.io/?a=myetherwallet.com). If you have over $200 in crypto, there is little excuse not to get one.
 * When using a private key, keystore/JSON file, or mnemonic phrase, make sure to keep them solely on physical paper and offline computers. This information is extremely sensitive. And make backups! If you lose this information, it’s gone forever.
@@ -81,4 +81,4 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 
 
 
-##### Read more about security [here]().
+##### Read more about security [here](/posts/Security_And_Privacy/Ensuring_MEW_Doesnt_Give_People_Same_Address/).

@@ -10,26 +10,25 @@ primary_category: get_started
 primary_category_display_name: "Get Started"
 ---
 
-## A Glossary of Common Terms in the Ethereum / Crypto Community
-
-#### <i>Here is a list of terms you may encounter while using MyEtherWallet (MEW).
-#### You can also [read in Spanish](https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md), thanks to faraggi.</i>
+# __A Glossary of Common Terms in the Ethereum / Crypto Community__
+##### <i>Here is a list of terms you may encounter while using MyEtherWallet (MEW).<br />You can also [read in Spanish](https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md), thanks to faraggi.</i>
+###### ⏰ 3 min read
 ***
 
-### Wallet
+## __Wallet__
 * The interface / client / wrapper / holder that you use to manage your account(s).
 * Example: MyEtherWallet.com, MEWconnect, MetaMask, a hardware wallet (i.e. Ledger, Trezor, BitBox, Secalot, etc..), a Multisig Wallet Contract.
 
 
 
-### Account
+## __Account__
 * A public & private keypair that "holds" your funds.
 * Your funds are actually stored on the blockchain, not in the wallet or account.
 * Just like your Reddit account has a username (public) and password (private), so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a username (public) and password (private) and password for that password (private + more secure). Read more about this [here]().
 
 
 
-### (Account / Ethereum / Public) Address
+## __(Account / Ethereum / Public) Address__
 * You use this to send funds to an account.
 * Sometimes referred to as the "public key"
 * A string made up of 0x + 40 hexadecimal characters. (42 total characters).
@@ -38,7 +37,7 @@ primary_category_display_name: "Get Started"
 
 
 
-### Public Key
+## __Public Key__
 * In cryptography, you have a keypair: the public and private key.
 * You can derive a public key from a private key, but cannot derive a private key from a public key.
 * (Advanced) In Ethereum, the address "acts" like the public key, but it's not actually the public key.
@@ -46,7 +45,7 @@ primary_category_display_name: "Get Started"
 
 
 
-### Private Key
+## __Private Key__
 * You use this to access and send funds from an account.
 * The secret half of your Address / public key pairing.
 * A string of 64 hexadecimal characters.
@@ -58,7 +57,7 @@ primary_category_display_name: "Get Started"
 
 
 
-### Keystore File
+## __Keystore File__
 * Encrypted version of your private key in JSON format (though it does not have a JSON extension).
 * A fancy version of your private key that is protected by a password of your choosing.
 * Safer than a private key because you need the password.
@@ -71,7 +70,7 @@ primary_category_display_name: "Get Started"
 
 
 
-### Mnemonic Phrase (Recovery Phrase)
+## __Mnemonic Phrase (Recovery Phrase)__
 * Another fancy version of your private key, that is actually used to derive multiple private keys.
 * Usually, a 12 or 24 word phrase that allows you to access an infinite number of accounts.
 * Used by Ledger, Trezor, MEWconnect, MetaMask, Jaxx, and others.
@@ -84,7 +83,7 @@ primary_category_display_name: "Get Started"
 
 
 
-### Hardware Wallet
+## __Hardware Wallet__
 * Typically, a single-purpose device that "holds" your private key(s), ensuring these keys are safe.
 * Generally, they use a 24-word phrase. This phrase you should write down on paper (not on your computer) and store separately from your hardware wallet, in multiple locations.
 * If you lose your hardware wallet, you can still gain access to your accounts & funds via the word-phrase you wrote down.
@@ -93,7 +92,7 @@ primary_category_display_name: "Get Started"
 
 
 
-### Address Identicon / Address Icon
+## __Address Identicon / Address Icon__
 * The colorful blob of colors that corresponds to your address.
 * It is an easy way to see if your address is correct.
 * [Example 1](http://i.imgur.com/lHUrIiZ.jpg)
@@ -102,12 +101,12 @@ primary_category_display_name: "Get Started"
 
 
 
-### Hexadecimal
+## __Hexadecimal__
 * Used all over Ethereum for a variety of things, a hexadecimal string is comprised of the numbers `0 1 2 3 4 5 6 7 8 9` and `A B C D E F`.
 
 
 
-### Seed
+## __Seed__
 * The input given to derive a private key. 
 * Some use this as another way of saying 'Recovery Phrase' or 'Mnemonic Phrase'.
 * This should always be generated in a truly random way, not something you make up with your brain.
@@ -115,7 +114,7 @@ primary_category_display_name: "Get Started"
 
 
 
-### Brain Wallet
+## __Brain Wallet__
 * An account generated from a seed / password / passphrase of your choosing.
 * Humans are not capable of generating enough entropy, so the wallets derived from these phrases are insecure.
 * Brain wallets can generally be brute-forced easily by super fast computers.
@@ -123,7 +122,7 @@ primary_category_display_name: "Get Started"
 
 
 
-### Entropy
+## __Entropy__
 * Also known as "randomness".
 * The more random something is, the more entropy it has, and the more secure it is.
 * Usually defined in "bits of entropy", or the number of years it would take to brute-force a ____ (i.e. private key) derived with that much entropy.
@@ -132,21 +131,21 @@ primary_category_display_name: "Get Started"
 
 
 
-### Derive / Derivation
+## __Derive / Derivation__
 * To derive something is to obtain it from an original source.
 * For example, if we were to derive a Keystore from a private key and a password, this means that the Keystore is made from these two sources.
 * The Keystore is a product of the two, thus it is derived from them.
 
 
 
-### Encryption
+## __Encryption__
 * Encryption is the act of taking a string of letters/numbers, like your private key, and turning them into another string of letters/numbers through a method of private translation.
 * There are various different encryption methods.
 * Encryption offers protection against those trying to steal your information!
 
 
 
-### Encrypted vs Unencrypted Keys
+## __Encrypted vs Unencrypted Keys__
 * An unencrypted private key is 64 characters long, and it is used to restore wallets.
 * An encrypted key is also 64 letters long and is a regular private key that has gone through the process of encryption, as defined above.
 * Example: If the world ‘Apple’ was your shortened private key, then it was encrypted three letters down the alphabet, your new shortened encrypted key would be ‘Dssoh’. Since you know the way to encrypt this key, you could derive the original private key from it by reversing the method of encryption.
@@ -154,29 +153,28 @@ primary_category_display_name: "Get Started"
 
 
 
-### Decentralize / Decentralization
+## __Decentralize / Decentralization__
 * The process of transferring authority from a single entity (ex. Government or large corporation) to multiple smaller entities.
 
 
 
-### Trustless
+## __Trustless__
 * A distributed trustless consensus which the blockchain is responsible for.
 * Since everyone has a copy of the ledger of all transactions ever executed, there is no need for a third-party. You can verify the transactions yourself, however the Ethereum blockchain and Bitcoin blockchain were created to ensure rules and agreements between all parties are executed only when all conditions are met.
 
 
 
-### Smart Contracts
+## __Smart Contracts__
 * A piece of code (or program) that is stored on the blockchain network.
 * Conditions of the contract are predefined by the users, if all conditions are met, certain actions are executed by the contract (program).
 * Read more about smart contracts [here]().
 
 
 
-### Blockchain
+## __Blockchain__
 * A decentralized, publicly-owned ledger.
 * Immutable, unable to be edited, permanent.
 * Maintained by remote miners all over the world.
 
-***
 
 ##### All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome.

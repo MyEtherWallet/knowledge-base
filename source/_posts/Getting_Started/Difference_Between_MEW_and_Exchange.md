@@ -14,7 +14,8 @@ primary_category: get_started
 primary_category_display_name: "Get Started"
 ---
 
-## What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?
+# __What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?__
+###### ⏰ 3 min read
 ***
 
 Your ETH & ERC20 tokens are on the Ethereum blockchain, regardless of what service you use to access them. When you move them, you are sending them from one address on the blockchain to another. These are simply lines of code. Your wallet file, hardware wallet, the interface you interact with, or your private key  do not have funds in them. These are simply ways of access, which gives you the ability to prove ownership over coins that are on the blockchain itself.
@@ -31,7 +32,7 @@ This allows you to have the more traditional username / password account dynamic
 
 **If you choose to move from an exchange to a wallet where you control your keys,** you need to make sure that you have multiple backups, stored in separate locations, of your private key / keystore file / recovery phrase. This will prevent loss in case your computer crashes or your house burns down or anything else.
 
-You also need to ensure you keep these keys secure. This means:
+## __You also need to ensure you keep these keys secure. This means:__
 
 * Don't enter it on random websites.
 * Always ensure you are on the correct site or downloading from the legitimate repo / website.

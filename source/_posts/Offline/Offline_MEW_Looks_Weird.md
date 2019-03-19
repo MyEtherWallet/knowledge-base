@@ -1,5 +1,5 @@
 ---
-title: "Offline MEW Looks Weird2222"
+title: "Offline MEW Looks Weird"
 date: 2018-06-01 00:01:00
 tags:
 - offline

@@ -12,7 +12,8 @@ primary_category: get_started
 primary_category_display_name: "Get Started"
 ---
 
-## Checking Your Balance
+# __Checking Your Balance__
+###### ⏰ 3 min read
 ***
 
 It is not recommended to unlock your wallet every time you’d like to check your balance, for the security of your information. Instead, you can see all balances and transaction history through the use of an Ethereum blockchain explorer, like [Etherscan](https://etherscan.io) or [Ethplorer](https://ethplorer.io). To check your balance, all you need is your public Ethereum address. This is 42 characters long and begins with an ‘0x….’.
@@ -21,7 +22,7 @@ Be aware that when checking ETC balances, you should use an Ethereum Classic blo
 
 
 
-### Etherscan
+## __Etherscan__
 
 **Step 1.** Head to [Etherscan.io](https://etherscan.io). 
 
@@ -35,7 +36,7 @@ Be aware that when checking ETC balances, you should use an Ethereum Classic blo
 
 
 
-### Ethplorer
+## __Ethplorer__
 
 **Step 1.** Head to [Ethplorer.io](https://ethplorer.io).
 
