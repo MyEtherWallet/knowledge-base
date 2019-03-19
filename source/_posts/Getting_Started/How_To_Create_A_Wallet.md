@@ -11,10 +11,11 @@ primary_category: get_started
 primary_category_display_name: "Get Started"
 ---
 
-## How to Create a Wallet
-
+# __How to Create a Wallet__
 ##### If you are currently using a Hardware wallet (such as Ledger or Trezor) or another wallet service (such as MetaMask), this article is not for you. This is only for new users, looking to begin from scratch.
+###### ⏰ 3 min read
 ***
+
 MyEtherWallet (MEW) offers three ways to create a new ETH wallet. 
 
 Out of the three, we highly suggest creating your wallet with our smartphone app, MEWconnect. This is the best option for the security and safekeeping of your information. To learn more about creating your wallet with MEWconnect, click [here]().
@@ -26,7 +27,7 @@ The following information is for those who wish to proceed, regardless of our wa
 
 
 
-### Before we continue, a few words of caution:
+## __Before we continue, a few words of caution:__
 
 * Never share this information with anyone. This information gives complete and permanent access to your wallet.
 * Do not keep this information on a device connected to the internet. Hackers can and will find it in your hard drive. 
@@ -35,8 +36,8 @@ The following information is for those who wish to proceed, regardless of our wa
 
 
 
-### Keystore/JSON 
-##### *Read more about what a Keystore/JSON file is [here]().*
+## __Keystore/JSON__
+#### *Read more about what a Keystore/JSON file is [here]().*
 
 **Step 1.** Head to www.myetherwallet.com. 
 
@@ -56,8 +57,8 @@ The following information is for those who wish to proceed, regardless of our wa
 
 
 
-### Mnemonic Phrase
-##### Read more about what a Mnemonic Phrase is [here]().
+## __Mnemonic Phrase__
+#### *Read more about what a Mnemonic Phrase is [here]().*
 
 **Step 1.** Head to www.myetherwallet.com.
 

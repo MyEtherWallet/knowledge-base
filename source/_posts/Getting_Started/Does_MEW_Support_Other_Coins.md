@@ -11,7 +11,8 @@ primary_category: get_started
 primary_category_display_name: "Get Started"
 ---
 
-## Does MEW Support BTC or other Coins?
+# __Does MEW Support BTC or other Coins?__
+###### ⏰ 3 min read
 ***
 
 MyEtherWallet (MEW) supports ETH and ERC20 tokens on our main ETH networks. 
