@@ -11,14 +11,14 @@ primary_category: common_issues
 primary_category_display_name: "Common Issues"
 ---
 
-## Error: Out of Gas
+# __Error: Out of Gas__
 ***
 
 Each transaction (including token and contract transactions) require gas and that gas is paid in Ether. You can think of this like a transaction fee. The more computational effort a transaction takes, the more gas you need.
 
 MyEtherWallet estimates how much gas you will need - but sometimes it doesn't get it right.
 
-#### Solution: Try manually increasing the "Gas limit" by doubling it.
+## __Solution: Try manually increasing the "Gas limit" by doubling it.__
 
 Any excess gas will be returned to you, so you could even triple or quadruple it.
 
@@ -26,7 +26,7 @@ We are always trying to improve how we estimate gas as contracts become more com
 
 
 
-### More Information About Gas
+## __More Information About Gas__
 * A standard TX will be `21000` gas & a gas price of `0.00000002 ETH` so the total TX fee will be `0.00042 ETH`.
 * With tokens, the amount of gas is typically 50000 gas - 100000 gas, so the total TX fee increases to `0.001 ETH - 0.002 ETH`.
 * The amount of ETH or tokens you are sending does not affect the amount of gas you need.
