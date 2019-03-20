@@ -14,14 +14,14 @@ primary_category: swap
 primary_category_display_name: "Swap"
 ---
 
-## Buy ETH via Simplex
+# __Buy ETH via Simplex__
 ***
 
 Our partner Simplex allows MEW users to securely buy ETH with a credit card! 
 
 
 
-### Here’s how to find it:
+## __Here’s how to find it:__
 
 **Step 1.** [Access your wallet](). 
 
@@ -36,7 +36,7 @@ Our partner Simplex allows MEW users to securely buy ETH with a credit card!
 
 
 
-### A couple things to keep in mind during this process: 
+## __A couple things to keep in mind during this process:__
 
 * There is a `$50` minimum and a `$10k` maximum for first purchases.
 * Simplex has a daily limit of `$20k`, with a monthly limit of `$50k`. 

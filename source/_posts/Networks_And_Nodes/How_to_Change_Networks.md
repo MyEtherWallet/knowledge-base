@@ -13,14 +13,14 @@ primary_category: networks_and_nodes
 primary_category_display_name: "Networks And Nodes"
 ---
 
-## How to Change Networks (Access Ropsten, ETC, and more!)
+# __How to Change Networks (Access Ropsten, ETC, and more!)__
 ***
 
 Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, but want to fool around on the Ropsten test network first? Or maybe you’re just interested in other networks that have forked off of the Ethereum blockchain? If any of the above are true, this is the article for you.
 
 
 
-### Using MEWconnect, MetaMask, or a Keystore File/Mnemonic Phrase/Private Key
+## __Using MEWconnect, MetaMask, or a Keystore File/Mnemonic Phrase/Private Key__
 
 **Step 1.** [Access your wallet]() by choosing the desired method of access.
 
@@ -33,7 +33,7 @@ Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, 
 
 
 
-### Using a Hardware Wallet
+## __Using a Hardware Wallet__
 
 **Step 1.** Access your wallet using the ‘Hardware’ option. 
 

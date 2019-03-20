@@ -10,7 +10,7 @@ primary_category: transactions
 primary_category_display_name: "Transactions"
 ---
 
-## How to Send a Transaction
+# __How to Send a Transaction__
 ***
 
 MyEtherWallet (MEW) makes it easy for you to send a transaction. All you need is a wallet, the Ethereum address you’d like to send funds to, and a little ETH for gas. 

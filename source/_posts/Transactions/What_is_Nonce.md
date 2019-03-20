@@ -9,7 +9,7 @@ primary_category: transactions
 primary_category_display_name: "Transactions"
 ---
 
-## What is Nonce?
+# __What is Nonce?__
 ***
 
 In Ethereum, every transaction has a nonce. The nonce is the number of transactions sent from a given address.
@@ -24,7 +24,7 @@ Each time you send a transaction, the nonce value increases by `1`. There are ru
 
 
 
-### <p style="text-align:center;">Why does it matter?
+## __Why does it matter?__
 
 This value prevents double-spending, as the nonce will always specify the order of transactions. If a double-spend _does_ occur, it's typically due to the following process:
 
@@ -38,6 +38,6 @@ This is why exchanges wait for you to have a certain number of confirmations bef
 
 
 
-#### When using the Ethereum blockchain, the above is not possible.
+## __When using the Ethereum blockchain, the above is not possible.__
 
 In Ethereum, this method of "double-spending" is not possible because each transaction has a nonce included with it. Even if you attempt to do the above, it will not work as the second transaction (nonce of `3`) cannot be mined before the first transaction (nonce of `2`).

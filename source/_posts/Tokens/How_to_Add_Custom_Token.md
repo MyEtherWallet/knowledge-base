@@ -13,14 +13,14 @@ primary_category: token
 primary_category_display_name: "Tokens"
 ---
 
-## How to Add a Custom Token
+# __How to Add a Custom Token__
 ***
 
 Any ERC20 token can be added to your local MEW interface by following these instructions.
 
 
 
-### Make sure it isn’t already a default token
+## __Make sure it isn’t already a default token__
 
 First you’ll want to make sure your token isn’t already listed in our interface.
 
@@ -43,7 +43,7 @@ First you’ll want to make sure your token isn’t already listed in our interf
 
 
 
-### Looking for the token’s information
+## __Looking for the token’s information__
 
 You will need three pieces of information to add a custom token with our interface: the contract address, decimal count, and symbol. All of this information can be found via an Ethereum blockchain explorer, like Etherscan.io or Ethplorer.io. We will show how to find this via Etherscan.io.
 
@@ -96,9 +96,9 @@ You will need three pieces of information to add a custom token with our interfa
 
 
 
-### Common Issues
+## __Common Issues__
 
-#### <i>“Token Already Exists!”</i>
+#### *“Token Already Exists!”*
 
 
 
@@ -118,12 +118,12 @@ If you still get this error after submitting it with the modified symbol, then y
 
 
 
-### My custom tokens are disappearing!
+## __My custom tokens are disappearing!__
 
 If your custom tokens are disappearing every time you access our interface, make sure that you do not have a cache-clearing software installed (i.e. CCleaner). Your custom token information is stored locally in your browser, so this software will clear this information and require you to re-submit the token every time you access your wallet. 
 
 
 
-### I’d like it to be a default token!
+## __I’d like it to be a default token!__
 
 We are always happy to support new tokens in our default list. To achieve this, simply submit a pull request to [our repo on GitHub](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth). For more information on this process, visit our article on [how to add a default token](). 
