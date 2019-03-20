@@ -16,12 +16,12 @@ primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 ---
 
-### Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW
+# __Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW__
 ***
 
 First, it’s important to tell [the difference between an exchange and MyEtherWallet (MEW)](). 
 
-### Let’s review:
+## __Let’s review:__
 
 * MyEtherWallet (MEW) is not an exchange.
 * MEW does not hold your information or funds. 
