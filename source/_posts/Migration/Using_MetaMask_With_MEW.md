@@ -10,16 +10,16 @@ primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 ---
 
-## Using MetaMask with MEW
+# __Using MetaMask with MEW__
 ***
 
 Many users use MetaMask for it’s ease of use and integration with many popular crypto sites, but they still want to have the functionality that MEW offers. For this reason, we offer support for MetaMask wallets right in our interface. Connecting is simple!
 
 
 
-### Initial Set-Up
+## __Initial Set-Up__
 
-##### <i>Only for users who do not already have a MetaMask wallet and would like to create one.</i>
+#### *Only for users who do not already have a MetaMask wallet and would like to create one.*
 
 **Step 1.** Find and install the MetaMask extension in the Google Chrome store. 
 
@@ -43,7 +43,7 @@ Are there a lot of users and positive reviews?
 
 
 
-### Using MetaMask with MEW
+## __Using MetaMask with MEW__
 
 Now that you have your MetaMask wallet, you can access your wallet by following these steps:
 

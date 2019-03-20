@@ -11,14 +11,14 @@ primary_category: security_and_privacy
 primary_category_display_name: "Security And Privacy"
 ---
 
-## What to Do if You’ve Had Your Funds Stolen
+# __What to Do if You’ve Had Your Funds Stolen__
 ***
 
 Phishing and hacking are (unfortunately) very common in the crypto space. Don’t let it discourage you though, as most attacks are completely preventable. We will not be able to recover your funds for you, but we’re here to help however we can. Education is the biggest defense against these attacks. Being able to recognize and prepare yourself for future phishing attempts is very important. 
 
 
 
-### Step 1: Identify the method.
+## __Step 1: Identify the method.__
 The first step is identifying how it happened. Phishers make their living by being sneaky, so being able to figure out their methodology will be tremendously helpful. 
 * Check your history. Have you recently visited any sketchy sites? Did you recently enter your information on a fake MEW after clicking a link? 
     * Look at the URLs. Do you see any tiny dots or accents over (or under) the letters?
@@ -28,7 +28,7 @@ The first step is identifying how it happened. Phishers make their living by bei
 
 
 
-### Step 2: Make a new wallet.
+## __Step 2: Make a new wallet.__
 Since your old wallet was compromised, you will need to discontinue its use and set up a new wallet. There are multiple safer options to choose from besides keystore/JSON files, mnemonic phrases, or private keys. 
 * The best thing you can do for your security is purchase a hardware wallet, such as the [Ledger Nano S]() or [Trezor](). These are generally around ~$100, but can save you thousands in the long run. 
 * [MEWconnect]() is our free smartphone app, which offers hardware wallet security without all the hardware. With MEWconnect, you can view your balance on the go. To send a transaction, simply scan a QR code on MEW to unlock your wallet.
@@ -36,7 +36,7 @@ Since your old wallet was compromised, you will need to discontinue its use and 
 
 
 
-### Step 3: Educate yourself. 
+## __Step 3: Educate yourself.__
 When it comes to crypto, there is no such thing as being too educated. This is a very new field, so even the experts have more to learn. The more you know, the more prepared you’ll be. 
 * A great place to start is with our [Knowledge Base](). MEW maintains a variety of articles that can help. Start with our [Pro-Tips on how to avoid phishers](). 
 * The force is strong with this community. Follow us on Twitter and Reddit for any current MEW-related scams or updates that might be going on.
@@ -44,7 +44,7 @@ When it comes to crypto, there is no such thing as being too educated. This is a
 
 
 
-### Step 4: Let the world know!
+## __Step 4: Let the world know!__
 To avoid these scams, we need to know they’re happening. Take screenshots and write down what happened, while it’s still fresh.
 * Send us the information! We cannot recover stolen funds, but we can help warn others. We’re always available at support@myetherwallet.com. 
     * To make the process easier, make sure to include all relevant addresses, transaction hashes, screenshots, and details about how it happened.

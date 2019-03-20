@@ -11,10 +11,10 @@ primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 ---
 
-## Using Geth / Mist With MEW
+# __Using Geth / Mist With MEW__
 ***
 
-### Geth & Mist
+## __Geth & Mist__
 
 Mist files are typically found in the file locations below, but it's much easier to open Mist, select "Accounts" in the top bar, select "Backup", and select "Accounts". This will open the folder where your files are stored.
 
@@ -23,8 +23,7 @@ Mist files are typically found in the file locations below, but it's much easier
 * Windows: `%APPDATA%/Ethereum/keystore`
 
 
-
-### Presale
+## __Presale__
 
 Wherever you saved it.
 

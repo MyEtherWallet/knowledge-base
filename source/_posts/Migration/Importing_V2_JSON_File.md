@@ -12,7 +12,7 @@ primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 ---
 
-## Importing a V2 JSON File
+# __Importing a V2 JSON File__
 ***
 
 These random V2 JSON files always make things complex. We apologize in advance.
@@ -31,7 +31,7 @@ Now you have to open a command line window and type in the following command:
 
 This will import your file into geth and convert it to the latest (V3) keystore file. 
 
-Now you need to go find it in one of the following locations:
+## __Now you need to go find it in one of the following locations:__
 
 * Mac: `~/Library/Ethereum`
 * Linux: `~/.ethereum`
