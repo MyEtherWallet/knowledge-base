@@ -11,14 +11,14 @@ primary_category: private_keys_and_passwords
 primary_category_display_name: "Private Keys And Passwords"
 ---
 
-## Lost Private Key
+# __Lost Private Key__
 ***
  
 MyEtherWallet does not manage accounts with information such as passwords, private keys, or emails. In order to ensure your security and privacy, no sensitive data is ever saved, stored, or transmitted when you use MyEtherWallet. We only have access to the information that is publicly available on the blockchain. We do not have servers and we do not hold your assets.
  
 Only users themselves can access and control their funds – this is the purpose of decentralized networks. Your funds are stored on the Ethereum blockchain itself, and we are simply an interface that allows you to easily interact with them. Passwords and private keys are in the users’ hands and are the users’ responsibility.
  
-### Unfortunately, this means we cannot:
+## __Unfortunately, this means we cannot:__
 * Recover your private key
 * Access your account
 * Recover or reset your password
@@ -26,7 +26,7 @@ Only users themselves can access and control their funds – this is the purpose
 * Recover your account
 * Send your ETH or Tokens from one address to another
 
-### There may be a chance that you saved your Keystore/JSON file without realizing it. We recommend:
+## __There may be a chance that you saved your Keystore/JSON file without realizing it. We recommend:__
 * Do a full search of your computer for 'UTC--' and see if the file shows up.
 * Do a full search of your computer for your address, without the `0x` at the beginning.
 * If you know when you created it, look through all files during that time period for any documents or screenshots.

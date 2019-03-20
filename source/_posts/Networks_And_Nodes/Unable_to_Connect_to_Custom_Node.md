@@ -12,7 +12,7 @@ primary_category: networks_and_nodes
 primary_category_display_name: "Networks And Nodes"
 ---
 
-## Unable to Connect to Custom Node
+# __Unable to Connect to Custom Node__
 ***
 
 * Verify the URL you entered is correct.

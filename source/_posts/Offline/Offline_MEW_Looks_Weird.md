@@ -10,14 +10,14 @@ primary_category: offline
 primary_category_display_name: "Offline"
 ---
 
-## Offline MEW Looks Weird
+# __Offline MEW Looks Weird__
 ***
 
 Make sure that you unzip all the contents of the `.zip` into a separate, empty folder. Then, open the `index.html` file in your browser. 
 
 
 
-#### The folder structure should look like this:
+## __The folder structure should look like this:__
 
 
 
