@@ -11,6 +11,7 @@ primary_category_display_name: "Offline"
 ---
 
 # __Offline MEW Looks Weird__
+###### ⏰ 3 min read
 ***
 
 Make sure that you unzip all the contents of the `.zip` into a separate, empty folder. Then, open the `index.html` file in your browser. 
@@ -21,7 +22,7 @@ Make sure that you unzip all the contents of the `.zip` into a separate, empty f
 
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Wb08Tm3.jpg?raw=true" width="">
+<img src="/images/posts/offline/Wb08Tm3.jpg" width="">
 
 
 

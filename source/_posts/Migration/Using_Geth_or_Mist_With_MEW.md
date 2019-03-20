@@ -12,6 +12,7 @@ primary_category_display_name: "Migrating To And From MEW"
 ---
 
 # __Using Geth / Mist With MEW__
+###### ⏰ 3 min read
 ***
 
 ## __Geth & Mist__

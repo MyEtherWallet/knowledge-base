@@ -11,10 +11,11 @@ primary_category_display_name: "MEWconnect"
 ---
 
 # __MEWconnect User Guide__
+###### ⏰ 3 min read
 ***
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/CreateMC.jpg?raw=true" align="right" width="30%">
+<img src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%">
 
 ## __1. Create a Wallet__
 **Step 1.** Open your MEWconnect app.
@@ -37,7 +38,7 @@ You’re done! You’ll be taken to a screen that shows your new wallets address
 <br />
 <br />
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/BackupMC.png?raw=true" align="left" width="30%">
+<img src="/images/posts/mewconnect/BackupMC.png" align="left" width="30%">
 
 ## __2. Back it up__
 **Step 1.** Select "Back Up" on your wallets homepage.
@@ -62,7 +63,7 @@ You're done! All backed up and ready to connect to MEW
 <br />
 <br />
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/ScanQRMC.jpg?raw=true" align="right" width="30%">
+<img src="/images/posts/mewconnect/ScanQRMC.jpg" align="right" width="30%">
 
 ## __3. Connect with MEW__
 **Step 1.** Unlock your wallet on MEWconnect.
@@ -88,7 +89,7 @@ You’re done! You can now use our interface as usual, with the MEWconnect app a
 <br />
 <br />
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/TransferMC.jpg?raw=true" align="left" width="30%">
+<img src="/images/posts/mewconnect/TransferMC.jpg" align="left" width="30%">
 
 ## __4. Send a Transaction__
 **Step 1.**  Unlock your wallet on MEWconnect.
@@ -110,7 +111,7 @@ You’re done! Your transaction is broadcasting to the network, and you’ll be 
 <br />
 <br />
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/OverviewMC.jpg?raw=true" align="right" width="30%">
+<img src="/images/posts/mewconnect/OverviewMC.jpg" align="right" width="30%">
 
 ## __5. Overview of the Wallet__
 **Step 1.**  Where to see tokens.

@@ -14,6 +14,7 @@ primary_category_display_name: "Networks And Nodes"
 ---
 
 # __How to Change Networks (Access Ropsten, ETC, and more!)__
+###### ⏰ 3 min read
 ***
 
 Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, but want to fool around on the Ropsten test network first? Or maybe you’re just interested in other networks that have forked off of the Ethereum blockchain? If any of the above are true, this is the article for you.

@@ -15,6 +15,7 @@ primary_category_display_name: "Swap"
 ---
 
 # __Buy ETH via Simplex__
+###### ⏰ 3 min read
 ***
 
 Our partner Simplex allows MEW users to securely buy ETH with a credit card! 

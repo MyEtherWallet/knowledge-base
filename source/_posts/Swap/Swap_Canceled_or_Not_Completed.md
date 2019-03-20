@@ -12,6 +12,7 @@ primary_category_display_name: "Swap"
 ---
 
 # __Swap Was Canceled or Wasn’t Completed__
+###### ⏰ 3 min read
 ***
 
 Time-constricted transactions can be tough in times of high volume due to various factors, like the transaction queue, ongoing token sales, the current state of the network, etc.

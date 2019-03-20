@@ -13,6 +13,7 @@ primary_category_display_name: "ENS"
 ---
 
 # __Manually Revealing Your ENS Bid__
+###### ⏰ 3 min read
 ***
 
 ## __Find the Transaction Hash for Your Bid__

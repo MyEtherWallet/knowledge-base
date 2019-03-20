@@ -13,6 +13,7 @@ primary_category_display_name: "Tokens"
 ---
 
 # __Adding Your Token as a Default Token__
+###### ⏰ 3 min read
 ***
 
 If you are someone who is just experimenting with tokens, you can [add a custom token]() to your local version of MyEtherWallet (MEW).

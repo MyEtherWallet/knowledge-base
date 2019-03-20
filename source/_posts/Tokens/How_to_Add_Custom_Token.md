@@ -14,6 +14,7 @@ primary_category_display_name: "Tokens"
 ---
 
 # __How to Add a Custom Token__
+###### ⏰ 3 min read
 ***
 
 Any ERC20 token can be added to your local MEW interface by following these instructions.
@@ -30,7 +31,7 @@ First you’ll want to make sure your token isn’t already listed in our interf
 
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Custom1.png?raw=true" width="85%">
+<img src="/images/posts/tokens/Custom1.png" width="85%">
 
 
 
@@ -53,7 +54,7 @@ You will need three pieces of information to add a custom token with our interfa
 
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Custom2.png?raw=true" width="85%">
+<img src="/images/posts/tokens/Custom2.png" width="85%">
 
 
 
@@ -64,7 +65,7 @@ You will need three pieces of information to add a custom token with our interfa
 
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Custom3.png?raw=true" width="60%">
+<img src="/images/posts/tokens/Custom3.png" width="60%">
 
 
 
@@ -72,7 +73,7 @@ You will need three pieces of information to add a custom token with our interfa
 
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Custom4.png?raw=true" width="85%">
+<img src="/images/posts/tokens/Custom4.png" width="85%">
 
 
 
@@ -80,7 +81,7 @@ You will need three pieces of information to add a custom token with our interfa
 
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Custom5.png?raw=true" width="70%">
+<img src="/images/posts/tokens/Custom5.png" width="70%">
 
 
 
@@ -88,7 +89,7 @@ You will need three pieces of information to add a custom token with our interfa
 
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Custom6.png?raw=true" width="50%">
+<img src="/images/posts/tokens/Custom6.png" width="50%">
 
 
 
@@ -102,7 +103,7 @@ You will need three pieces of information to add a custom token with our interfa
 
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Custom7.png?raw=true" width="50%">
+<img src="/images/posts/tokens/Custom7.png" width="50%">
 
 
 
@@ -110,7 +111,7 @@ If you see this error, there is a simple fix for it. Re-enter your custom token 
 
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Custom8.png?raw=true" width="50%">
+<img src="/images/posts/tokens/Custom8.png" width="50%">
 
 
 

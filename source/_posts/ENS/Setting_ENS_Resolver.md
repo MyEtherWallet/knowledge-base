@@ -13,6 +13,7 @@ primary_category_display_name: "ENS"
 ---
 
 # __Setting the Resolver for an ENS Name__
+###### ⏰ 3 min read
 ***
 
 ## __Set the Resolver for your Name__

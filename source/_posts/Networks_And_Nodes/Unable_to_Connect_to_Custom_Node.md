@@ -13,6 +13,7 @@ primary_category_display_name: "Networks And Nodes"
 ---
 
 # __Unable to Connect to Custom Node__
+###### ⏰ 3 min read
 ***
 
 * Verify the URL you entered is correct.

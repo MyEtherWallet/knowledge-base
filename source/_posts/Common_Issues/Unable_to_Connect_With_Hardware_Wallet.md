@@ -13,6 +13,7 @@ primary_category_display_name: "Common Issues"
 ---
 
 # __Unable to Connect to Hardware Wallet__
+###### ⏰ 3 min read
 ***
 
 ## __Most issues with connection can be solved by following these troubleshooting tips:__

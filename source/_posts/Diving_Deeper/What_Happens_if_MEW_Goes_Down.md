@@ -14,6 +14,7 @@ primary_category_display_name: "Diving Deeper"
 ---
 
 # __What Happens if MEW Goes Down?__
+###### ⏰ 3 min read
 ***
 
 ## __Short answer:__

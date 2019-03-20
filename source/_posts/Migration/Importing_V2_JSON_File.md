@@ -13,6 +13,7 @@ primary_category_display_name: "Migrating To And From MEW"
 ---
 
 # __Importing a V2 JSON File__
+###### ⏰ 3 min read
 ***
 
 These random V2 JSON files always make things complex. We apologize in advance.

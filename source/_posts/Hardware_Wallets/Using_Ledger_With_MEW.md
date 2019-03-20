@@ -12,6 +12,7 @@ primary_category_display_name: "Hardware Wallets"
 ---
 
 # __Using a Ledger Hardware Wallet with MEW__
+###### ⏰ 3 min read
 ***
 
 Ledger Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. They are available for purchase [here](). 
@@ -29,44 +30,44 @@ Without further ado, let’s begin!
 
 **Step 1.** Unbox your Ledger! You will see some cards and instructions for set-up. Follow these instructions carefully! Plug in the Ledger to your computer and get started. Press both buttons at the top of the Ledger to navigate past the first screen, seen above.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/welcome.jpg?raw=true" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/welcome.jpg" width="50%">
 <br /><br /><br />
 ***
 
 **Step 2.** There are two buttons on the Ledger. Use these to navigate the device. When setting up your new device for the first time, choose the button on the right to select the check mark, indicating ‘yes’.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/configure-as-new-device.jpg?raw=true" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/configure-as-new-device.jpg" width="50%">
 <br /><br /><br />
 ***
 
 **Step 3.** Set up a PIN code to access your Ledger. Make it something that is very easy to remember for you. Write it down in a couple places. Remember it!! This is how you will unlock your Ledger everytime you want to access it. The PIN code must be between 4 and 8 characters, and it can be changed after set-up. However, if you get the PIN code wrong three times in a row, the device will reset. Be careful!
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/choose-pin.jpg?raw=true" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/choose-pin.jpg" width="50%">
 <br /><br /><br />
 ***
 
 **Step 4.** This is one of the most important steps. Do not write this phrase down on your computer, do not take a picture of the phrase. Make sure you write down your 24 seed words in multiple places. DO NOT LOSE THEM. If you lose these words, you’ve lost all your cryptocurrency. Ledger provides cards for you to write them down for remembering, but I suggest writing them down in one extra place as well. Again, do not write this phrase down on your computer. Use pen and paper.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/write-down-recovery.jpg?raw=true" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/write-down-recovery.jpg" width="50%">
 <br /><br /><br />
 ***
 
 **Step 5.** Great, your device is now ready! Now let’s figure out how to use it with MyEtherWallet.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/device-ready.jpg?raw=true" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/device-ready.jpg" width="50%">
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## __Using Ledger with MEW__
 
 **Step 1.** Attach and unlock your Ledger device. You should see a few different sections to choose from, choose the Ethereum section as shown above. Click both buttons to open it.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/ethereum-app.jpg?raw=true" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/ethereum-app.jpg" width="50%">
 <br /><br /><br />
 ***
 
 **Step 2.** Click into this Setting section with both buttons.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/ethereum-settings.jpg?raw=true" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/ethereum-settings.jpg" width="50%">
 <br /><br /><br />
 ***
 
@@ -80,27 +81,27 @@ Without further ado, let’s begin!
 
 **Step 5.** Check the URL for the “MyEtherWallet Inc [US]” SSL certification to make sure you’re on our real, secure site. Are you? Great! Head to ‘Access My Wallet’ and choose the option that says ‘Hardware’. Click the ‘Ledger Wallet’ option, and choose ‘Connect With Your Device’ with your Ledger device still attached, unlocked, and ready.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/MEW1.png?raw=true" width="75%">
+<img src="/images/posts/hardware-wallet/ledger/MEW1.png" width="75%">
 <br /><br /><br />
 ***
 
 **Step 6.** A screen showing different networks and derivation paths should appear. Choose which network you’d like to connect to, and which path you’d like to use. For regular ETH usage, you should be on an ETH network, under the Ethereum derivation path. You can also access other networks, such as Ethereum Classic (ETC), by choosing the related network path. 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/MEW2.png?raw=true" width="70%">
+<img src="/images/posts/hardware-wallet/ledger/MEW2.png" width="70%">
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Ledger1.png?raw=true" width="70%">
+<img src="/images/posts/hardware-wallet/ledger/Ledger1.png" width="70%">
 <br /><br /><br />
 ***
 
 **Step 7.** You will see a list of addresses. These are your new addresses to choose from for your main wallet! Choose one out of the five that you like. (Most people choose the first one, but you don’t have to.)
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Ledger2.png?raw=true" width="41.3%"> <img src="https://github.com/stephenmew/KBimages/blob/master/Ledger3.png?raw=true" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/Ledger2.png" width="41.3%"> <img src="/images/posts/hardware-wallet/ledger/Ledger3.png" width="50%">
 <br /><br /><br />
 ***
 
 **Step 8.** You should now be taken to a screen that looks very similar to your old wallet’s access screen. Great job! You’re officially using your new Ledger hardware wallet! 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/LEdger4.png?raw=true" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/LEdger4.png" width="50%">
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
