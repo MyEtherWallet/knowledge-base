@@ -10,9 +10,10 @@ primary_category_display_name: "Transactions"
 ---
 
 # __What is Gas?__
+###### ⏰ 3 min read
 ***
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/tx_pool_infographic.png?raw=true" width="80%">
+<img src="/images/posts/transactions/tx_pool_infographic.png" width="80%">
 
 
 

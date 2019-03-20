@@ -17,6 +17,7 @@ primary_category_display_name: "Migrating To And From MEW"
 ---
 
 # __Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW__
+###### ⏰ 3 min read
 ***
 
 First, it’s important to tell [the difference between an exchange and MyEtherWallet (MEW)](). 

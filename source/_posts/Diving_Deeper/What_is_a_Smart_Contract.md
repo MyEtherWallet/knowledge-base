@@ -11,6 +11,7 @@ primary_category_display_name: "Diving Deeper"
 ---
 
 # __What is a Smart Contract?__
+###### ⏰ 3 min read
 ***
 
 First, let’s look at what a contract is. A contract generally outlines a relationship between two parties, bound by law. If one party violates that contract, actions can be taken against them for essentially breaking the law. Many beginning users confuse contracts and smart contracts, and while they can hold similar functionality, they are used for different purposes.

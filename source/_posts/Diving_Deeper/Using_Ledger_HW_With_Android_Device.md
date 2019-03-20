@@ -11,6 +11,7 @@ primary_category_display_name: "Diving Deeper"
 
 
 # __Using a Ledger Hardware Wallet With an Android Device__
+###### ⏰ 3 min read
 ***
 
 If you would like to use your Ledger hardware wallet with an android device, there are a couple things you will need to prepare in advance.
@@ -34,7 +35,7 @@ Now you can connect your Ledger hardware wallet and open the Ethereum app. Make 
 
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/ledger-hardware-wallet-using-with-android-01.png?raw=true" width="50%">
+<img src="/images/posts/diving-deeper/ledger-hardware-wallet-using-with-android-01.png" width="50%">
 
 
 

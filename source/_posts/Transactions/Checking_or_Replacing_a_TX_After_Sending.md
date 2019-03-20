@@ -14,6 +14,7 @@ primary_category_display_name: "Transactions"
 ---
 
 # __Checking or Replacing a Transaction After it's Been Sent__
+###### ⏰ 3 min read
 ***
 
 ## __Can I cancel, replace, or do anything once a transaction has been sent?__

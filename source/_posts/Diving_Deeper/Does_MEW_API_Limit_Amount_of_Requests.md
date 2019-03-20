@@ -12,6 +12,7 @@ primary_category_display_name: "Diving Deeper"
 ---
 
 # __Does MEW API Have a Limit on the Amount of Requests I Can Make?__
+###### ⏰ 3 min read
 ***
 
 If you are a heavy user of our API or MyEtherWallet (MEW), you may get rate-limited. 

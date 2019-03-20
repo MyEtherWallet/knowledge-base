@@ -10,6 +10,7 @@ primary_category_display_name: "Transactions"
 ---
 
 # __What is Nonce?__
+###### ⏰ 3 min read
 ***
 
 In Ethereum, every transaction has a nonce. The nonce is the number of transactions sent from a given address.

@@ -12,6 +12,7 @@ primary_category_display_name: "Diving Deeper"
 ---
 
 # __How to Submit a Pull Request__
+###### ⏰ 3 min read
 ***
 
 MyEtherWallet (MEW) is an open-source platform, meaning we believe in transparency and offer our code freely to all who choose to view it, via GitHub. 

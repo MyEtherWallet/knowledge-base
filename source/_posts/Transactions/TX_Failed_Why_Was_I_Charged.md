@@ -14,6 +14,7 @@ primary_category_display_name: "Transactions"
 ---
 
 # __My Transaction Failed. Why Was I Charged?__
+###### ⏰ 3 min read
 ***
 
 The Ethereum network requires gas to execute transactions. Ether (ETH) is the fuel used for this purpose. When you send tokens, interact with a contract, send ETH, or do anything else on the blockchain, you must pay for that computation. That payment is calculated in gas, and gas is always paid in ETH.

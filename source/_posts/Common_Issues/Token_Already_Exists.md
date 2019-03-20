@@ -11,6 +11,7 @@ primary_category_display_name: "Common Issues"
 ---
 
 # __Error: Token Already Exists!__
+###### ⏰ 3 min read
 ***
 
 A 'Token Already Exists' error can occur when an incorrect contract address was added as a custom token. 
@@ -23,22 +24,22 @@ To find the correct contract address, follow these instructions:
 
 **Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Ethplorer1Error.jpg?raw=true" width="60%">
+<img src="/images/posts/common-issues/Ethplorer1Error.jpg" width="60%">
 
 **Step 2.** Use the contract address (not the creator address) for the custom token field in MEW. Be sure to use the correct decimal count as well.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Ethplorer2Error.jpg?raw=true" width="80%">
+<img src="/images/posts/common-issues/Ethplorer2Error.jpg" width="80%">
 
 
 
 ## __Using [Etherscan.io](https://etherscan.io)__
 **Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Etherscan1Error.jpg?raw=true" style="width: 40%;">
+<img src="/images/posts/common-issues/Etherscan1Error.jpg" style="width: 40%;">
 
 **Step 2.** Use the contract address for the custom token and be sure to use the correct decimals as well.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/Etherscan2Error.jpg?raw=true" style="width: 70%;">
+<img src="/images/posts/common-issues/Etherscan2Error.jpg" style="width: 70%;">
 
 
 

@@ -12,6 +12,7 @@ primary_category_display_name: "Private Keys And Passwords"
 ---
 
 # __Lost Private Key__
+###### ⏰ 3 min read
 ***
  
 MyEtherWallet does not manage accounts with information such as passwords, private keys, or emails. In order to ensure your security and privacy, no sensitive data is ever saved, stored, or transmitted when you use MyEtherWallet. We only have access to the information that is publicly available on the blockchain. We do not have servers and we do not hold your assets.

@@ -11,6 +11,7 @@ primary_category_display_name: "MEWconnect"
 ---
 
 # __How to Change Your Password on MEWconnect__
+###### ⏰ 3 min read
 ***
 
 To change your password on MEWconnect, all you need is your phone and your 24-word recovery phrase. 
@@ -26,7 +27,7 @@ If you do not remember your password and do not have your 24-word recovery phras
 **Step 1.** Reset your wallet, either on the login screen or under our ‘Info’ section. 
 * Choose ‘Forgot password?’ on the home screen, or ‘Reset wallet >’ in the Info tab.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/ForgotPassMC.jpg?raw=true" width="35%">
+<img src="/images/posts/mewconnect/ForgotPassMC.jpg" width="35%">
 <br />
 <br />
 <br />
@@ -35,7 +36,7 @@ If you do not remember your password and do not have your 24-word recovery phras
 **Step 2.** Enter your 24-word recovery phrase. Make sure each word is in the correct order and spelled accurately. 
 * Do not include commas between the words, only a single space.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/MainResetMC.jpg?raw=true" width="30%"> <img src="https://github.com/stephenmew/KBimages/blob/master/InfoResetMC.jpg?raw=true" width="30%">
+<img src="/images/posts/mewconnect/MainResetMC.jpg" width="30%"> <img src="/images/posts/mewconnect/InfoResetMC.jpg" width="30%">
 <br />
 <br />
 <br />
@@ -45,7 +46,7 @@ If you do not remember your password and do not have your 24-word recovery phras
 * Be sure to write this password down somewhere, so you don’t forget it! 
 * We cannot recover or change your password for you.
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/RecoverMC.jpg?raw=true" width="30%">
+<img src="/images/posts/mewconnect/RecoverMC.jpg" width="30%">
 <br />
 <br />
 <br />
@@ -53,6 +54,6 @@ If you do not remember your password and do not have your 24-word recovery phras
 
 **Step 4.** Celebrate, you’re done!
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/YoureDoneMC.jpg?raw=true" width="30%">
+<img src="/images/posts/mewconnect/YoureDoneMC.jpg" width="30%">
 
 

@@ -128,7 +128,9 @@ textarea:focus, input:focus
 
     &.open
       .accordion-content
-        max-height: 2000px
+        max-height: 700px
+        overflow-y: auto
+        margin-bottom: 40px
 
       .accordion-header
         .post-button::after
@@ -710,6 +712,11 @@ aside
 .wrap-post-body
   *
     color: mew-color-text-1
+
+  img
+    box-shadow: 0 0 5px mew-color-transparent-background-2
+    vertical-align: top
+    border-radius: 3px
 
   p
     font-size: 14px

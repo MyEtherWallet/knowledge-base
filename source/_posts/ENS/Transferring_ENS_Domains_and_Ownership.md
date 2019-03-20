@@ -13,6 +13,7 @@ primary_category_display_name: "ENS"
 ---
 
 # __Transferring ENS Domains and Ownership__
+###### ⏰ 3 min read
 ***
 
 ## __Transferring a Domain (Best Practice)__

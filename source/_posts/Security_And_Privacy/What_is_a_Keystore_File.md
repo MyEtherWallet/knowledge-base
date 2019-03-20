@@ -14,6 +14,7 @@ primary_category_display_name: "Security And Privacy"
 
 # __What is a Keystore/JSON file?  Can I Change my Password?__
 #### __Keystore/JSON files are not a recommended way of accessing MyEtherWallet (MEW).  For more information on other methods of access, check out our article on [how to access a wallet]().__
+###### ⏰ 3 min read
 ***
  
 Your Keystore/JSON file holds an encrypted version of your private key, which is simply your private key encoded into a cool, secret string of characters. Take, for example, the word 'apple'. If you encrypted this word with a 4-character difference down the alphabet, it would look something like 'dssoh'. At face value, you'd have no idea what 'dssoh' meant. However, if you gave someone this word and told them the way you encrypted it, they could then decode it back to the world 'apple'! This is a **very** simplified version of how encryption works, but it gets the point across.

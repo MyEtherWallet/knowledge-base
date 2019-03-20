@@ -12,6 +12,7 @@ primary_category_display_name: "ENS"
 ---
 
 # __What to Do if You Forgot to Reveal Your ENS Bid__
+###### ⏰ 3 min read
 ***
 
 ## __If There Are Other Bidders__

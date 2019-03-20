@@ -12,6 +12,7 @@ primary_category_display_name: "ENS"
 ---
 
 # __Debugging a 'Bad Instruction' Reveal__
+###### ⏰ 3 min read
 ***
 
 ## __Step 1. Make sure you actually placed a bid.__

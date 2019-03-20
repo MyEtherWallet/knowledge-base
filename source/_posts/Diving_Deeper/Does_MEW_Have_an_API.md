@@ -10,6 +10,7 @@ primary_category_display_name: "Diving Deeper"
 ---
 
 # __Does MyEtherWallet have an API?__
+###### ⏰ 3 min read
 ***
 
 ## __Here are the API docs for MEW, Etherscan, and Infura (the three main providers of public nodes):__

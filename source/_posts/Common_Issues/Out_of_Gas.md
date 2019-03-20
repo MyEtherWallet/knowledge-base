@@ -12,6 +12,7 @@ primary_category_display_name: "Common Issues"
 ---
 
 # __Error: Out of Gas__
+###### ⏰ 3 min read
 ***
 
 Each transaction (including token and contract transactions) require gas and that gas is paid in Ether. You can think of this like a transaction fee. The more computational effort a transaction takes, the more gas you need.

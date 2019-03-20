@@ -12,6 +12,7 @@ primary_category_display_name: "Common Issues"
 ---
 
 # __Ledger: Error Code 5__
+###### ⏰ 3 min read
 ***
 
 If you’re getting the error code 5, this means that your Ledger is opened and being used by another application, such as Ledger Live. 

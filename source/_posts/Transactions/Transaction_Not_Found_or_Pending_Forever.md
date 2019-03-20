@@ -13,6 +13,7 @@ primary_category_display_name: "Transactions"
 ---
 
 # __Transactions are 'Not Found' or 'Pending' Forever__
+###### ⏰ 3 min read
 ***
 
 Often times, a combination of new users, increased interest in Ethereum, games like CryptoKitties, and random ICOs can create quite a mess of the transaction pool, causing a lot of transactions to remain pending longer than usual. This is a network issue that affects all exchanges and ETH users.
@@ -42,4 +43,4 @@ There is simply not enough space in the blocks for the miners to mine all the tr
 
 ## __For Visual Learners__
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/tx_pool_infographic.png?raw=true" width="80%">
+<img src="/images/posts/transactions/tx_pool_infographic.png" width="80%">

@@ -14,6 +14,7 @@ primary_category_display_name: "Diving Deeper"
 ---
 
 # __How to Interact with a Multisig Contract?__
+###### ⏰ 3 min read
 ***
 
 **Step 1.** Access your wallet and head to the ‘Contracts’ section, to the left of your wallet interface.
