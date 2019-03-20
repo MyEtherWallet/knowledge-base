@@ -1,17 +1,20 @@
-<% if (path == 'faqs/index.html' || path == 'index.html') { %>
-  <%- partial('mew/components/header/header-search', null, {cache: !config.relative_link}) %>
-  <%- partial('mew/categories/category-faqs', null, {cache: !config.relative_link}) %>
 
-<% } else if (path == 'categories/index.html') { %>
-  <%- partial('mew/components/header/header-search', null, {cache: !config.relative_link}) %>
-  <%- partial('mew/categories/category-categories', null, {cache: !config.relative_link}) %>
+<h1><%= page.source %></h1>
 
-<% } else if (path == 'videos/index.html') { %>
-  <%- partial('mew/components/header/header-search', null, {cache: !config.relative_link}) %>
-  <%- partial('mew/categories/category-videos', null, {cache: !config.relative_link}) %>
+<% if (page.source == 'faqs/index.md' || !page.source) { %>
+  <%- partial('mew/components/header/header-search', null) %>
+  <%- partial('mew/categories/category-faqs', null) %>
+
+<% } else if (page.source == 'cat/index.md') { %>
+  <%- partial('mew/components/header/header-search', null) %>
+  <%- partial('mew/categories/category-categories', null) %>
+
+<% } else if (page.source == 'videos/index.md') { %>
+  <%- partial('mew/components/header/header-search', null) %>
+  <%- partial('mew/categories/category-videos', null) %>
 
 <% } else { %>
-  <%- partial('mew/components/header/header-page-title', null, {cache: !config.relative_link}) %>
+  <%- partial('mew/components/header/header-page-title', null) %>
   <%- body %>
 <% } %>
 
