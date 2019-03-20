@@ -11,7 +11,7 @@ primary_category: common_issues
 primary_category_display_name: "Common Issues"
 ---
 
-## Error: ‘Window Blocked’
+# __Error: ‘Window Blocked’__
 ***
 
 If you are getting an error message saying ‘Window Blocked’ when using a Trezor, Ledger, or MetaMask to confirm a transaction, this is because you are blocking pop-ups with the browser. 

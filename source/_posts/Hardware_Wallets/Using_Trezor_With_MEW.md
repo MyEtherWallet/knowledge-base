@@ -11,11 +11,11 @@ primary_category: hardware_wallets
 primary_category_display_name: "Hardware Wallets"
 ---
 
-## Using a Trezor Hardware Wallet with MEW
+# __Using a Trezor Hardware Wallet with MEW__
 ***
 
 Trezor Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. They are available for purchase [here](). 
-\*_Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure._\*
+* \*Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.\*
 
 This particular hardware wallet supports a wide range of cryptocurrencies, but this guide is specifically made for accessing Ethereum and ERC-20 tokens while using MyEtherWallet (MEW). 
 

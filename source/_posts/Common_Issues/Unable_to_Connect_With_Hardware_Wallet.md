@@ -12,10 +12,10 @@ primary_category: common_issues
 primary_category_display_name: "Common Issues"
 ---
 
-## Unable to Connect to Hardware Wallet
+# __Unable to Connect to Hardware Wallet__
 ***
 
-Most issues with connection can be solved by following these troubleshooting tips:
+## __Most issues with connection can be solved by following these troubleshooting tips:__
 
 * Restart your computer. (Don’t be lazy, restart it first!)
 * Use Google Chrome and perform a hard refresh (CTRL+F5 or Command+F5).

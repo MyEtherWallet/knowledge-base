@@ -12,7 +12,7 @@ primary_category: diving_deeper
 primary_category_display_name: "Diving Deeper"
 ---
 
-## Using a Hardware Wallet With a Custom Node
+# __Using a Hardware Wallet With a Custom Node__
 ***
 
 Benjaminion wrote up an excellent guide on how to achieve this.

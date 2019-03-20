@@ -9,10 +9,10 @@ primary_category: diving_deeper
 primary_category_display_name: "Diving Deeper"
 ---
 
-## Does MyEtherWallet have an API?
+# __Does MyEtherWallet have an API?__
 ***
 
-Here are the API docs for MEW, Etherscan, and Infura (the three main providers of public nodes):
+## __Here are the API docs for MEW, Etherscan, and Infura (the three main providers of public nodes):__
 
 * [MEW](http://www.myetherapi.com/)
 * [Infura](https://infura.io/#how-to)

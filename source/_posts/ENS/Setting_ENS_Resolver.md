@@ -12,10 +12,10 @@ primary_category: ens
 primary_category_display_name: "ENS"
 ---
 
-## Setting the Resolver for an ENS Name
+# __Setting the Resolver for an ENS Name__
 ***
 
-### Set the Resolver for your Name
+## __Set the Resolver for your Name__
 
 **Step 1.** On MEW, [access your wallet]() and head to the 'Contracts' tab on the left.
 
@@ -39,7 +39,7 @@ primary_category_display_name: "ENS"
 
 
 
-### Set the Address That Your Name Will Resolve To
+## __Set the Address That Your Name Will Resolve To__
 
 **Step 1.** On MEW, [access your wallet]() and head to the 'Contracts' tab on the left.
 

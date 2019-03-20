@@ -12,10 +12,10 @@ primary_category: ens
 primary_category_display_name: "ENS"
 ---
 
-## Transferring ENS Domains and Ownership
+# __Transferring ENS Domains and Ownership__
 ***
 
-### Transferring a Domain (Best Practice)
+## __Transferring a Domain (Best Practice)__
 **Step 1.** Search for your domain on Etherscan.io.
 
 **Step 2.** Copy the 'Label Hash'.
@@ -34,8 +34,8 @@ primary_category_display_name: "ENS"
 
 
 
-### Only Setting Owner
-##### WARNING: If you only change the owner, the deed owner can get the name back.
+## __Only Setting Owner__
+#### __WARNING: If you only change the owner, the deed owner can get the name back.__
 
 **Step 1.** Search for your domain on Etherscan.io.
 
