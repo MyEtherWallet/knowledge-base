@@ -11,7 +11,7 @@ primary_category: diving_deeper
 primary_category_display_name: "Diving Deeper"
 ---
 
-## How to Submit a Pull Request
+# __How to Submit a Pull Request__
 ***
 
 MyEtherWallet (MEW) is an open-source platform, meaning we believe in transparency and offer our code freely to all who choose to view it, via GitHub. 
@@ -20,7 +20,7 @@ This also means that we are always ready and willing to accept community support
 
 
 
-### Submit a Pull Request
+## __Submit a Pull Request__
 
 **Step 1.** Login or join [GitHub](https://github.com/MyEtherWallet). 
 

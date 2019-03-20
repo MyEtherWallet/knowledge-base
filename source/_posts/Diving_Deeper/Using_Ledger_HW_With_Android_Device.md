@@ -10,14 +10,14 @@ primary_category_display_name: "Diving Deeper"
 ---
 
 
-## Using a Ledger Hardware Wallet With an Android Device
+# __Using a Ledger Hardware Wallet With an Android Device__
 ***
 
 If you would like to use your Ledger hardware wallet with an android device, there are a couple things you will need to prepare in advance.
 
 
 
-### Requirements
+## __Requirements__
 
 * Modern android phone or tablet, supporting USB On-The-Go (USB-OTG).
     * If you’re not sure of USB-OTG support, check it yourself using an app like the [USB-OTB Checker](https://play.google.com/store/apps/details?id=com.faitaujapon.otg).
@@ -26,7 +26,7 @@ If you would like to use your Ledger hardware wallet with an android device, the
 
 
 
-### Setting Up Your Device
+## __Setting Up Your Device__
 
 Before connecting to your Ledger, you first have to install a [Ledger application](https://github.com/LedgerHQ/android-u2f-bridge/releases). Click that URL on your Android device, and select the file `android-u2f-bridge-x.x.apk`. Once downloaded, open this file on your device and install it. Click ‘done’ when you are finished.
 

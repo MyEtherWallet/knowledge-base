@@ -11,10 +11,10 @@ primary_category: ens
 primary_category_display_name: "ENS"
 ---
 
-## Debugging a 'Bad Instruction' Reveal
+# __Debugging a 'Bad Instruction' Reveal__
 ***
 
-### Step 1. Make sure you actually placed a bid.
+## __Step 1. Make sure you actually placed a bid.__
 * Look up your address on Etherscan.io in order to find the transaction in which you placed your bid.
 * It will be an outgoing transaction (which show as orange) to [ENS-Registrar](https://etherscan.io/address/0x6090a6e47849629b7245dfa1ca21d94cd15878ef).
 * The transaction should have an ETH value `>= 0.01 ETH` (not one that says `0 ETH`).
@@ -28,7 +28,7 @@ Once you find this, copy and paste the value under 'Input Data' into a text docu
 
 
 
-### Step 2. Check to see if the information you saved matches the information you sent with your bid. 
+## __Step 2. Check to see if the information you saved matches the information you sent with your bid.__
 * Head to MEW, access your wallet, and go under the 'ENS' section to the left.
 
 * Enter the following information here:
@@ -41,7 +41,7 @@ When you do this, the following four fields will populate with long data. You wa
 
 
 
-### Step 3. Try alternate values.
+## __Step 3. Try alternate values.__
 * Try entering `0.01`, `0.1`, `1`, and any other amount you may have bid on other auctions, under 'Amount you Bid (ETH)'.
 * Check the amount that you sent with your bid (the amount shown that you sent in your transaction from Step 1).
 * Look through your transaction history or any information you have saved for other auctions, and try using those values at the amount you bid.
@@ -51,7 +51,7 @@ When you do this, the following four fields will populate with long data. You wa
 
 
 
-### Step 4. Once you match the string successfully, you can reveal your bid manually using this exact information.
+## __Step 4. Once you match the string successfully, you can reveal your bid manually using this exact information.__
 
 Copy the 'Reveal Data' string and head to MEW. Access the wallet for the address that you placed the bid on. This address should also be the same address entered during Step 2.
 
@@ -64,7 +64,7 @@ Enter the following information into the fields:
 
 
 
-### Step 5. Generate and sign your transaction.
+## __Step 5. Generate and sign your transaction.__
 * Click your transaction hash after you send it. Ensure there are no errors (you may have to refresh a few times.)
 
 * Then, in a new tab, head back to [Etherscan's ENS Lookup](https://etherscan.io/enslookup?q=yourname.eth) interface and type in the name you bid on. Ensure that you see a very recent transaction from your address with 'Unseal Bid' next to it.

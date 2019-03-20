@@ -10,7 +10,7 @@ primary_category: diving_deeper
 primary_category_display_name: "Diving Deeper"
 ---
 
-## What is a Smart Contract?
+# __What is a Smart Contract?__
 ***
 
 First, let’s look at what a contract is. A contract generally outlines a relationship between two parties, bound by law. If one party violates that contract, actions can be taken against them for essentially breaking the law. Many beginning users confuse contracts and smart contracts, and while they can hold similar functionality, they are used for different purposes.
@@ -21,7 +21,7 @@ The original creator of smart contract technology was Nick Szabo. In 1993, he ha
 
 The Ethereum blockchain was created specifically to write and execute smart contracts. While Bitcoin technically supported the very basic smart contract of transferring BTC, this is generally regarded as only the tip of the iceberg. With a little innovation and creativity, smart contracts can be built on top of one another to create completely decentralized applications (Dapps) and decentralized autonomous organizations (DAOs). In these cases, each smart contract performs a function, which triggers another function in another contract, which continues to develop until a complicated action is completed without needing any centralized authority to monitor it. 
 
-#### Some generally well-known use cases for smart contracts are:
+## __Some generally well-known use cases for smart contracts are:__
 
 * Multi-signature wallets, which require a majority of the wallet’s owners to agree on spending before the contract executes.
 * Managing relationship agreements between two users, i.e. buying insurance or property ownership.
