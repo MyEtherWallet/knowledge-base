@@ -53,6 +53,7 @@ function searchPosts(_this) {
     searchPosts($('#header-post-search-form'));
   }
 
+  $('#header-post-search-form').focus();
   $('#header-post-search-form').on('keyup', function(){
     searchPosts(this);
   });
