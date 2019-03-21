@@ -1,15 +1,13 @@
 
-<h1><%= page.source %></h1>
-
-<% if (page.source == 'faqs/index.md' || !page.source) { %>
+<% if (page.title == 'faqs' || !page.title) { %>
   <%- partial('mew/components/header/header-search', null) %>
   <%- partial('mew/categories/category-faqs', null) %>
 
-<% } else if (page.source == 'cat/index.md') { %>
+<% } else if (page.title == 'cat') { %>
   <%- partial('mew/components/header/header-search', null) %>
   <%- partial('mew/categories/category-categories', null) %>
 
-<% } else if (page.source == 'videos/index.md') { %>
+<% } else if (page.title == 'videos') { %>
   <%- partial('mew/components/header/header-search', null) %>
   <%- partial('mew/categories/category-videos', null) %>
 
