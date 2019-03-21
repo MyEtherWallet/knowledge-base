@@ -1,5 +1,6 @@
 ---
 title: "Using MetaMask with MEW"
+lang: en
 date: 2018-06-01 00:05:00
 tags:
 - metamask

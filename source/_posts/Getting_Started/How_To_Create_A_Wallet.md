@@ -1,5 +1,6 @@
 ---
 title: "How to Create a Wallet"
+lang: en
 date: 2018-06-01 00:07:00
 tags:
 - faqs

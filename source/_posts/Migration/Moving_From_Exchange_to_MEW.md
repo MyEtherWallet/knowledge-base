@@ -1,5 +1,6 @@
 ---
 title: "Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW"
+lang: en
 date: 2018-06-01 00:02:00
 tags:
 - moving

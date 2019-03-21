@@ -1,5 +1,6 @@
 ---
 title: "Importing a V2 JSON File"
+lang: en
 date: 2018-06-01 00:01:00
 tags:
 - importing

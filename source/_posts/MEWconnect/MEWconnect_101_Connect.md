@@ -1,5 +1,6 @@
 ---
 title: "MEWconnect 101: Connect to MyEtherWallet"
+lang: en
 date: 2018-04-01 00:03:00
 tags:
 - mewconnect

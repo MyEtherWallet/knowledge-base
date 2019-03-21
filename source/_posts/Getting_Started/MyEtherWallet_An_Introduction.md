@@ -1,5 +1,6 @@
 ---
 title: "MyEtherWallet: An Introduction"
+lang: en
 date: 2018-05-01 00:01:00
 tags:
 - faqs

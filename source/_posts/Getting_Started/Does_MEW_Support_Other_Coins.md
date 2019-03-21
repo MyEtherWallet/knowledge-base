@@ -1,5 +1,6 @@
 ---
 title: "Does MEW Support BTC or other Coins?"
+lang: en
 date: 2018-06-01 00:04:00
 tags:
 - btc

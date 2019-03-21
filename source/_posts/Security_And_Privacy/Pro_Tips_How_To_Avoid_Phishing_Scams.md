@@ -1,5 +1,6 @@
 ---
 title: "Pro-Tips: How to Avoid Phishing/Scams"
+lang: en
 date: 2018-06-01 00:03:00
 tags:
 - faqs

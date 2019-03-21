@@ -1,5 +1,6 @@
 ---
 title: "What is a Mnemonic Phrase?"
+lang: en
 date: 2018-06-01 00:06:00
 tags:
 - mnemonic

@@ -1,5 +1,6 @@
 ---
 title: "Transferring ENS Domains and Ownership"
+lang: en
 date: 2018-06-01 00:05:00
 tags:
 - transferring
