@@ -46,14 +46,16 @@ function searchPosts(_this) {
 
 (function($){
 
+  // Focus search input all the time
+  $('#header-post-search-form').focus();
+
   // Check if search input is not empty.
   // If it's not empty, run search.
   // This happens when user clicked back button.
   if($('#header-post-search-form').val()){
     searchPosts($('#header-post-search-form'));
   }
-
-  $('#header-post-search-form').focus();
+  
   $('#header-post-search-form').on('keyup', function(){
     searchPosts(this);
   });
