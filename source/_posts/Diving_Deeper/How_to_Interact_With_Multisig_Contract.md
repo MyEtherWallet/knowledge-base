@@ -1,5 +1,6 @@
 ---
 title: "How to Interact with a Multisig Contract?"
+lang: en
 date: 2018-06-01 00:03:00
 tags:
 - faqs

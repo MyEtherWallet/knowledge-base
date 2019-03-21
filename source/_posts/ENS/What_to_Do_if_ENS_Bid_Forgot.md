@@ -1,5 +1,6 @@
 ---
 title: "What to Do if You Forgot to Reveal Your ENS Bid"
+lang: en
 date: 2018-06-01 00:06:00
 tags:
 - forgot

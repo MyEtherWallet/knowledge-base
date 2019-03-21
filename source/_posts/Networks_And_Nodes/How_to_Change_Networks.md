@@ -1,5 +1,6 @@
 ---
 title: "How to Change Networks (Access Ropsten, ETC, and more!)"
+lang: en
 date: 2018-06-01 00:01:00
 tags:
 - change

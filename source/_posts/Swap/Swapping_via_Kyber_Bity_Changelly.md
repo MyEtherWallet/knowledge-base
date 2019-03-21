@@ -1,5 +1,6 @@
 ---
 title: "Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly"
+lang: en
 date: 2018-06-01 00:03:00
 tags:
 - swap

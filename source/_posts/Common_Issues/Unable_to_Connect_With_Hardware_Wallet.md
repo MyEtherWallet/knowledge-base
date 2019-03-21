@@ -1,5 +1,6 @@
 ---
 title: "Unable to Connect to Hardware Wallet"
+lang: en
 date: 2018-06-01 00:06:00
 tags:
 - error

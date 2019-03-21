@@ -1,5 +1,6 @@
 ---
 title: "Back to the Basics: 10 Tips for Beginners"
+lang: en
 date: 2018-06-01 00:01:00
 tags:
 - basic

@@ -1,5 +1,6 @@
 ---
 title: "What to Do if You’ve Had Your Funds Stolen"
+lang: en
 date: 2018-06-01 00:02:00
 tags:
 - funds

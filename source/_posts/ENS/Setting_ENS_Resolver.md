@@ -1,5 +1,6 @@
 ---
 title: "Setting the Resolver for an ENS Name"
+lang: en
 date: 2018-06-01 00:04:00
 tags:
 - setting

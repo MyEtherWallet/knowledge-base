@@ -1,5 +1,6 @@
 ---
 title: "What is a Keystore/JSON file?  Can I Change my Password?"
+lang: en
 date: 2018-06-01 00:05:00
 tags:
 - Keystore

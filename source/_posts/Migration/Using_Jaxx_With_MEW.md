@@ -1,5 +1,6 @@
 ---
 title: "Using Jaxx with MEW"
+lang: en
 date: 2018-06-01 00:04:00
 tags:
 - jaxx

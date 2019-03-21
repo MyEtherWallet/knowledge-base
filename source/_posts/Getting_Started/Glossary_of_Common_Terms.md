@@ -1,5 +1,6 @@
 ---
 title: "A Glossary of Common Terms in the Ethereum / Crypto Community"
+lang: en
 date: 2018-06-01 00:05:00
 tags:
 - glossary
