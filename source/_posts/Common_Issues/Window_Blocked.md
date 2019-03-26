@@ -10,6 +10,8 @@ categories:
 - [common_issues]
 primary_category: common_issues
 primary_category_display_name: "Common Issues"
+alias:
+- hardware-wallets/trezor-error-window-blocked.html
 ---
 
 # __Error: ‘Window Blocked’__

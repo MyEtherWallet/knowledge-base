@@ -11,6 +11,8 @@ categories:
 - [common_issues]
 primary_category: common_issues
 primary_category_display_name: "Common Issues"
+alias:
+- tokens/errcode-unable-to-locate-corresponding-transfer-event-log.html
 ---
 
 # __Error: Unable to Locate Corresponding Transfer Event Log__

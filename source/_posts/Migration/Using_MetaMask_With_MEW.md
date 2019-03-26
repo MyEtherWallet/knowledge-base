@@ -9,6 +9,8 @@ categories:
 - [migration]
 primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
+alias:
+- migration/moving-from-private-key-to-metamask.html
 ---
 
 # __Using MetaMask with MEW__

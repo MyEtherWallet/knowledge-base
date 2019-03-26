@@ -10,6 +10,8 @@ categories:
 - [common_issues]
 primary_category: common_issues
 primary_category_display_name: "Common Issues"
+alias:
+- addresses/what-does-checksummed-mean.html
 ---
 
 # __Error: Not Checksummed__

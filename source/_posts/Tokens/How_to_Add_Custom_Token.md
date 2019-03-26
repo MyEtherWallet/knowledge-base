@@ -12,6 +12,8 @@ categories:
 - [token]
 primary_category: token
 primary_category_display_name: "Tokens"
+alias:
+- send/adding-new-token-and-sending-custom-tokens.html
 ---
 
 # __How to Add a Custom Token__

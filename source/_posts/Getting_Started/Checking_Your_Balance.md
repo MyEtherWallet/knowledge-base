@@ -11,6 +11,8 @@ categories:
 - [get_started]
 primary_category: get_started
 primary_category_display_name: "Get Started"
+alias:
+- getting-started/checking-balance-of-my-account.html
 ---
 
 # __Checking Your Balance__

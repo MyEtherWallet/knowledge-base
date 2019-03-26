@@ -11,6 +11,8 @@ categories:
 - [ens]
 primary_category: ens
 primary_category_display_name: "ENS"
+alias:
+- ens/setting-the-resolver-for-an-ens-name.html
 ---
 
 # __Setting the Resolver for an ENS Name__

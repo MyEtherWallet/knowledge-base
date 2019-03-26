@@ -11,6 +11,8 @@ categories:
 - [diving_deeper]
 primary_category: diving_deeper
 primary_category_display_name: "Diving Deeper"
+alias:
+- networks/using-ethereum-hardware-wallet-with-custom-node.html
 ---
 
 # __Using a Hardware Wallet With a Custom Node__

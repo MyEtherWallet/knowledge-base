@@ -12,6 +12,8 @@ categories:
 - [networks_and_nodes]
 primary_category: networks_and_nodes
 primary_category_display_name: "Networks And Nodes"
+alias:
+- networks/sent-etc-to-eth-address.html
 ---
 
 # __How to Change Networks (Access Ropsten, ETC, and more!)__

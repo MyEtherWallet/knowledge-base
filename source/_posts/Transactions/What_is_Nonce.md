@@ -8,6 +8,8 @@ categories:
 - [transactions]
 primary_category: transactions
 primary_category_display_name: "Transactions"
+alias:
+- transactions/what-is-nonce.html
 ---
 
 # __What is Nonce?__

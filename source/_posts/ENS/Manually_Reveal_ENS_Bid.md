@@ -11,6 +11,8 @@ categories:
 - [ens]
 primary_category: ens
 primary_category_display_name: "ENS"
+alias:
+- ens/manually-revealing-ens-bid.html
 ---
 
 # __Manually Revealing Your ENS Bid__

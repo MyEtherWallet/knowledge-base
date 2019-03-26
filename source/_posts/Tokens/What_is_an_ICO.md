@@ -10,6 +10,8 @@ categories:
 - [token]
 primary_category: token
 primary_category_display_name: "Tokens"
+alias:
+- faq/what-is-an-ico.html
 ---
 
 # __What is an ICO?__

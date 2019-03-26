@@ -12,6 +12,8 @@ categories:
 - [get_started]
 primary_category: get_started
 primary_category_display_name: "Get Started"
+alias:
+- getting-started/getting-back-to-basics-tips-for-newbies.html
 ---
 
 

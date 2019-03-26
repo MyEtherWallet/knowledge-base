@@ -10,6 +10,8 @@ categories:
 - [migration]
 primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
+alias:
+- migration/location-of-mist-geth-wallet-files.html
 ---
 
 # __Using Geth / Mist With MEW__

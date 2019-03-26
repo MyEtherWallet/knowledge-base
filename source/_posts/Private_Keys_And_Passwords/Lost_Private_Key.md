@@ -10,6 +10,8 @@ categories:
 - [private_keys_and_passwords]
 primary_category: private_keys_and_passwords
 primary_category_display_name: "Private Keys And Passwords"
+alias:
+- private-keys-passwords/lost-eth-private-key.html
 ---
 
 # __Lost Private Key__

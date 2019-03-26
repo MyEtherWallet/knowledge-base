@@ -6,17 +6,30 @@
       <% site.posts.sort('title', 1).each(function(post){ %>
         <li class="header-post-search-item">
           <a href="/<%= post.path %>">
+
             <p class="title"><%= post.title %></p>
-            <div class="occur-count">▶&nbsp;<span></span>&nbsp;metches from this post</div>
+
+            <div class="prim-category">
+              <p class="catogory-title">Category: </p>
+              <p class="category-name"><%= post.primary_category_display_name %></p>
+            </div>
+
+            <div class="tags">
+              <p>Related tags: </p>
+              <div class="tags-name">
+                <% post.tags.each(function(tag){ %>
+                  <p><%= tag.name %></p>
+                <% }) %>
+              </div>
+            </div>
+
+            <div class="occur-count"><span></span>&nbsp;metches from this post</div>
             <div class="post-content hidden">
               <%- post.content %>
             </div>
           </a>
         </li>
       <% }) %>
-        <li>
-          <p></p>
-        </li>
     </ul>
   </div>
 </div>

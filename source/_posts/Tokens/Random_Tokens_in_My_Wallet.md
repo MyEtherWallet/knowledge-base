@@ -13,6 +13,8 @@ categories:
 - [token]
 primary_category: token
 primary_category_display_name: "Tokens"
+alias:
+- tokens/airdropped-tokens.html
 ---
 
 # __Why are Random Tokens Appearing in my Wallet?__

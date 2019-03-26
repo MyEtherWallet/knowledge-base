@@ -12,6 +12,8 @@ categories:
 - [diving_deeper]
 primary_category: diving_deeper
 primary_category_display_name: "Diving Deeper"
+alias:
+- faq/interacting-with-ethereum-multisig-wallet.html
 ---
 
 # __How to Interact with a Multisig Contract?__

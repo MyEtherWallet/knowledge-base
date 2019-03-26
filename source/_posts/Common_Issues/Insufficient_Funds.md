@@ -10,6 +10,8 @@ categories:
 - [common_issues]
 primary_category: common_issues
 primary_category_display_name: "Common Issues"
+alias:
+- gas/error-insufficient-funds-message.html
 ---
 
 # __Error: Insufficient Funds__

@@ -11,6 +11,8 @@ categories:
 - [ens]
 primary_category: ens
 primary_category_display_name: "ENS"
+alias:
+- ens/changing-ens-owner-or-transferring-ens-name.html
 ---
 
 # __Transferring ENS Domains and Ownership__

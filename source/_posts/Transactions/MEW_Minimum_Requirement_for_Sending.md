@@ -12,6 +12,8 @@ categories:
 - [transactions]
 primary_category: transactions
 primary_category_display_name: "Transactions"
+alias:
+- gas/I-cant-withdraw-them-from-your-site-less-than-minimum.html
 ---
 
 # __Does MEW Have a Minimum Requirement for Sending?__

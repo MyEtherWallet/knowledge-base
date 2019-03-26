@@ -1,5 +1,5 @@
 ---
-title: "What to Do if You’ve Had Your Funds Stolen"
+title: "Swap Was Canceled or Wasn’t Completed"
 lang: en
 date: 2018-06-01 00:02:00
 tags:
@@ -10,6 +10,8 @@ categories:
 - [swap]
 primary_category: swap
 primary_category_display_name: "Swap"
+alias:
+- swap/swap-wasnt-completed-or-was-canceled.html
 ---
 
 # __Swap Was Canceled or Wasn’t Completed__
