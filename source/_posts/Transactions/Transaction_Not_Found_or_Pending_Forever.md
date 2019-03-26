@@ -11,6 +11,8 @@ categories:
 - [transactions]
 primary_category: transactions
 primary_category_display_name: "Transactions"
+alias:
+- transactions/transactions-not-showing-or-pending.html
 ---
 
 # __Transactions are 'Not Found' or 'Pending' Forever__

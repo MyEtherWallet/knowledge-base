@@ -9,6 +9,8 @@ categories:
 - [transactions]
 primary_category: transactions
 primary_category_display_name: "Transactions"
+alias:
+- transactions/how-to-send-transaction.html
 ---
 
 # __How to Send a Transaction__

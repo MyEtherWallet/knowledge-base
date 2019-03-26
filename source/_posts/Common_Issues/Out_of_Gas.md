@@ -10,6 +10,8 @@ categories:
 - [common_issues]
 primary_category: common_issues
 primary_category_display_name: "Common Issues"
+alias:
+- transactions/transaction-failed-out-of-gas.html
 ---
 
 # __Error: Out of Gas__

@@ -9,6 +9,8 @@ categories:
 - [mewconnect]
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
+alias:
+- mewconnect/mew-connect-user-guide.html
 ---
 
 # __MEWconnect User Guide__

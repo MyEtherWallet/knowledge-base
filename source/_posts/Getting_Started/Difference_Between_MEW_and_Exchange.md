@@ -13,6 +13,8 @@ categories:
 - [get_started]
 primary_category: get_started
 primary_category_display_name: "Get Started"
+alias:
+- getting-started/whats-the-difference-between-an-exchange-and-myetherwallet.html
 ---
 
 # __What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?__

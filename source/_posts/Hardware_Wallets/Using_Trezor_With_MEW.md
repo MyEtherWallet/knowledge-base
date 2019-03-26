@@ -10,6 +10,8 @@ categories:
 - [hardware_wallets]
 primary_category: hardware_wallets
 primary_category_display_name: "Hardware Wallets"
+alias:
+- migration/moving-from-private-key-to-trezor-hardware-wallet.html
 ---
 
 # __Using a Trezor Hardware Wallet with MEW__

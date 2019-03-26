@@ -433,8 +433,9 @@ header
     box-shadow: 0 0 20px mew-color-box-shadow-1
 
     .occur-count
+      padding-left: 5px
       font-size: 11px
-      color: red
+      //color: red
       display: inline
       font-weight: 500
       display: flex
@@ -447,14 +448,62 @@ header
 
     ul
       padding: 10px
-      li a
-        display: block
-        cursor: pointer
-        border-radius: 5px
-        padding: 10px
-        &:hover
-          background-color: mew-color-light-grey-7
-          
+      li 
+        border-bottom: 1px solid mew-color-light-grey-4
+
+        .title
+          font-size: 16px
+          font-weight: 500
+
+        a
+          display: block
+          cursor: pointer
+          border-radius: 5px
+          padding: 10px
+          &:hover
+            background-color: mew-color-light-grey-7
+
+  .tags
+    padding-left: 5px
+    display: flex
+    align-items: center
+
+    >p
+      font-size: 11px
+      font-weight: 400
+      margin-right: 5px
+      line-height: initial
+
+    .tags-name
+      display: flex
+      align-items: center
+      p
+        font-size: 11px
+        font-weight: 500
+        padding: 1px 4px
+        line-height: 10px
+        margin-right: 2px
+        color: mew-color-light-grey-3
+        background-color: mew-color-light-grey-2
+        color: white
+        border-radius: 1px
+
+  .prim-category
+    padding-left: 5px
+    display: flex
+    align-items: center
+
+
+    .catogory-title
+      font-size: 11px
+      font-weight: 400
+      margin-right: 5px
+
+    .category-name
+      font-size: 11px
+      font-weight: 500
+
+
 
 
 //=========================================================================

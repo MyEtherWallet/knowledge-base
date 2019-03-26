@@ -14,6 +14,8 @@ categories:
 - [transactions]
 primary_category: transactions
 primary_category_display_name: "Transactions"
+alias:
+- faq/eth-or-tokens-not-showing-on-exchange.html
 ---
 
 # __ETH or ERC20 Tokens Sent To/From an Exchange Haven’t Shown Up__

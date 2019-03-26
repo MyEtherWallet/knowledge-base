@@ -11,6 +11,8 @@ categories:
 - [security_and_privacy]
 primary_category: security_and_privacy
 primary_category_display_name: "Security And Privacy"
+alias:
+- security/keystore-file.html
 ---
 
 # __What is a Keystore/JSON file?  Can I Change my Password?__

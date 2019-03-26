@@ -9,6 +9,8 @@ categories:
 - [private_keys_and_passwords]
 primary_category: private_keys_and_passwords
 primary_category_display_name: "Private Keys And Passwords"
+alias:
+- private-keys-passwords/private-key-not-working.html
 ---
 
 # __Private Key Not Working__

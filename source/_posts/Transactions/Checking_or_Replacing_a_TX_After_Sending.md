@@ -12,6 +12,8 @@ categories:
 - [transactions]
 primary_category: transactions
 primary_category_display_name: "Transactions"
+alias:
+- transactions/check-status-of-ethereum-transaction.html
 ---
 
 # __Checking or Replacing a Transaction After it's Been Sent__

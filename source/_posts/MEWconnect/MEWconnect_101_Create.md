@@ -10,9 +10,11 @@ categories:
 - [mewconnect]
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
+alias:
+- mewconnect/mew-connect-101-create.html
 ---
 
-## MEWconnect 101: Create a Wallet
+# __MEWconnect 101: Create a Wallet__
 ###### ⏰ 3 min read
 ***
 

@@ -9,9 +9,11 @@ categories:
 - [mewconnect]
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
+alias:
+- mewconnect/mew-connect-101-tx.html
 ---
 
-## MEWconnect 101: Make a Transaction
+# __MEWconnect 101: Make a Transaction__
 ###### ⏰ 3 min read
 ***
 

@@ -9,6 +9,8 @@ categories:
 - [get_started]
 primary_category: get_started
 primary_category_display_name: "Get Started"
+alias:
+- getting-started/accessing-your-new-eth-wallet.html
 ---
 
 # __How to Access Your Wallet__

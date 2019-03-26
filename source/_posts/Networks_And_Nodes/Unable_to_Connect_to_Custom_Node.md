@@ -11,6 +11,8 @@ categories:
 - [networks_and_nodes]
 primary_category: networks_and_nodes
 primary_category_display_name: "Networks And Nodes"
+alias:
+- networks/cant-connect-to-custom-node-on-myetherwallet.html
 ---
 
 # __Unable to Connect to Custom Node__

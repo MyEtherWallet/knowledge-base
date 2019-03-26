@@ -10,6 +10,8 @@ categories:
 - [ens]
 primary_category: ens
 primary_category_display_name: "ENS"
+alias:
+- ens/ens-what-to-do-if-you-forgot-to-reveal-ens-bid.html
 ---
 
 # __What to Do if You Forgot to Reveal Your ENS Bid__

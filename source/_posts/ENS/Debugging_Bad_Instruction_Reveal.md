@@ -10,6 +10,8 @@ categories:
 - [ens]
 primary_category: ens
 primary_category_display_name: "ENS"
+alias:
+- ens/ens-debugging-a-bad-instruction-reveal.html
 ---
 
 # __Debugging a 'Bad Instruction' Reveal__
