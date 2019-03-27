@@ -2,7 +2,7 @@
   <div class="header-wrap page-container">
     <div class="top-block">
       <div class="left">
-        <a href="/"><%- image_tag('images/mew-logo-white.png') %></a>
+        <a href="<%- url_for('') %>"><%- image_tag('images/mew-logo-white.png') %></a>
         <p>Help Center</p>
       </div>
       <div class="right">
@@ -13,7 +13,7 @@
         </ul>
       </div>
     </div>
-
+header-search
     <div class="search-block header-search-block">
       <div class="search-title">Get Lost? Let Us Help.</div>
       <div class="search-form-container">
@@ -21,12 +21,12 @@
       </div>
       <p class="search-bottom-text">
         Top Searches: 
-        <a href="/posts/MEWconnect/MEWconnect_101_Create/">MEWconnect</a> /
-        <a href="/posts/Swap/Buy_ETH_via_Simplex/">Swap</a> /
-        <a href="/posts/Transactions/How_to_Send_a_Transaction/">Send ETH</a> /
-        <a href="/posts/Security_And_Privacy/Ensuring_MEW_Doesnt_Give_People_Same_Address/">Security</a> /
-        <a href="/posts/Getting_Started/MyEtherWallet_An_Introduction/">Blockchain</a> /
-        <a href="/posts/Getting_Started/How_To_Create_A_Wallet/">Create a Wallet</a>
+        <a href="<%- url_for('posts/MEWconnect/MEWconnect_101_Create/') %>">MEWconnect</a> /
+        <a href="<%- url_for('posts/Swap/Buy_ETH_via_Simplex/') %>">Swap</a> /
+        <a href="<%- url_for('posts/Transactions/How_to_Send_a_Transaction/') %>">Send ETH</a> /
+        <a href="<%- url_for('posts/Security_And_Privacy/Ensuring_MEW_Doesnt_Give_People_Same_Address/') %>">Security</a> /
+        <a href="<%- url_for('posts/Getting_Started/MyEtherWallet_An_Introduction/') %>">Blockchain</a> /
+        <a href="<%- url_for('posts/Getting_Started/How_To_Create_A_Wallet/') %>">Create a Wallet</a>
       </p>
     </div>
   </div>

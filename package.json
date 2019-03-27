@@ -6,8 +6,10 @@
     "version": "3.8.0"
   },
   "scripts": {
+    "clean": "hexo clean",
     "build": "hexo generate",
     "dev": "hexo generate -w",
+    "serve": "hexo server -s",
     "start": "hexo server"
   },
   "dependencies": {
