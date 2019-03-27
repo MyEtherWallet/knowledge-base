@@ -27,6 +27,7 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 
 ## __With MEW, users can:__
 
+
 * [Create][1] a new ETH wallet.
 * [Send][2] and receive ETH and ERC20 tokens.
 * [Access][3] a variety of existing wallets including our MEWconnect app, the MetaMask Chrome extension, and partnering hardware wallets.
@@ -83,10 +84,10 @@ You’re in charge of your own funds and information.
 * If you have additional questions or concerns, reach out to us! Our support team is always happy to help. They can be reached at support@myetherwallet.com
 
 
-
 ##### Read more about security [here][15].
 
-[1]: posts/Getting_Started/How_To_Create_A_Wallet/
+
+[1]: /posts/Getting_Started/How_To_Create_A_Wallet/
 [2]: /posts/Transactions/How_to_Send_a_Transaction/
 [3]: /posts/Getting_Started/How_To_Access_Your_Wallet/
 [4]: /posts/Swap/Swapping_via_Kyber_Bity_Changelly/
@@ -101,3 +102,4 @@ You’re in charge of your own funds and information.
 [13]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
 [14]: http://google.com
 [15]: /posts/Security_And_Privacy/Ensuring_MEW_Doesnt_Give_People_Same_Address/
+[16]: ./posts/Getting_Started/How_To_Create_A_Wallet/

@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 # url: http://localhost.com
 url: https://stevemieskoski.github.io/knowledge-base-v5/
 root: /knowledge-base-v5/
-permalink: posts/:title/
+permalink: /posts/:title/
 permalink_defaults:
 
 # Directory
@@ -37,7 +37,7 @@ external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
-relative_link: false
+relative_link: true
 future: true
 highlight:
   enable: true
