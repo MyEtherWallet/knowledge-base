@@ -14,8 +14,8 @@ timezone: America/Los_Angeles
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # url: http://localhost.com
-url: http://localhost
-root: /
+url: https://stevemieskoski.github.io/knowledge-base-v5/
+root: /knowledge-base-v5/
 permalink: posts/:title/
 permalink_defaults:
 
@@ -80,4 +80,7 @@ theme: mew5
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/SteveMieskoski/knowledge-base-v5.git  #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  # branch: [gh-pages] #published
+  # message: [message]  #leave this blank
