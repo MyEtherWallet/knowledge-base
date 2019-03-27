@@ -1,3 +1,9 @@
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+# url: http://localhost.com
+url: https://stevemieskoski.github.io/knowledge-base-v5/
+root: /knowledge-base-v5/
+
 # Header
 menu:
   Home: /
