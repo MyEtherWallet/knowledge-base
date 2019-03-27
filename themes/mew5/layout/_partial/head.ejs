@@ -22,8 +22,8 @@
   
   <title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <link href="/css/google-fonts.css" rel="stylesheet">
-  <link href="/css/font-awesome.css" rel="stylesheet">
+  <%- css('css/google-fonts.css', 'css/font-awesome.css') %>
+
   
   <% if (theme.favicon){ %>
     <link rel="icon" href="<%- theme.favicon %>">
