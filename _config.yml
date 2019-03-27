@@ -14,8 +14,8 @@ timezone: America/Los_Angeles
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # url: http://localhost.com
-url: https://stevemieskoski.github.io/knowledge-base-v5/
-root: /knowledge-base-v5/
+url: http://kb.mewtest.com/
+root: /
 permalink: /posts/:title/
 permalink_defaults:
 
