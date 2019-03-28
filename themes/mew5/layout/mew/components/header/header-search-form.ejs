@@ -5,7 +5,6 @@
     <ul>
       <% site.posts.sort('title', 1).each(function(post){ %>
         <li class="header-post-search-item">
-          <!--<a href="/<%= post.path %>">-->
               <a href="<%- url_for(post.path)  %>">
             <p class="title"><%= post.title %></p>
 
@@ -23,7 +22,7 @@
               </div>
             </div>
 
-            <div class="occur-count"><span></span>&nbsp;metches from this post</div>
+            <div class="occur-count"><span></span>&nbsp;<%= _p('misc.matches_for') %></div>
             <div class="post-content hidden">
               <%- post.content %>
             </div>
