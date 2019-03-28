@@ -146,7 +146,7 @@ Before the BAT token creation period, the average gas price was `20 GWEI` (the d
 
 
 
-<img src="https://github.com/stephenmew/KBimages/blob/master/GasChartCrazy.jpg?raw=true" width="100%">
+<img src="/images/posts/transactions/GasChartCrazy.jpg?raw=true" width="100%">
 
 
 

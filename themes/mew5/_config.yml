@@ -1,3 +1,9 @@
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+# url: http://localhost.com
+url: http://kb.mewtest.com/
+root: /
+
 # Header
 menu:
   Home: /
@@ -29,8 +35,6 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
-gauges_analytics:
 favicon: /favicon.png
 twitter:
 google_plus:
