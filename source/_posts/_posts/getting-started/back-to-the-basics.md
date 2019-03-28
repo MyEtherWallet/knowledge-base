@@ -88,8 +88,8 @@ alias:
 [PhishFort]: https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc
 [Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
 [checksum]: /
-[sendTx]: /posts/Transactions/How_to_Send_a_Transaction/
-[offline]: /posts/Offline/Offline_MEW_Looks_Weird/
+[sendTx]: /posts/transactions/how-to-send-a-transaction/
+[offline]: /posts/offline/offline-mew-looks-weird/
 [ledger]: /
 [trezor]: https://shop.trezor.io/?a=myetherwallet.com
 [reddit]: /
