@@ -5,11 +5,11 @@
       <%- image_tag('images/mew-icons/customer-support.svg') %>
     </div>
     <div class="content">
-      <div class="title">Customer Support</div>
-      <p>Can't find your answer? Get in touch and we'll get back as soon as we can.</p>
+      <div class="title"><%= _p('help.customer_support') %></div>
+      <p><%= _p('help.cantFind') %></p>
       <div class="email-us">
         <a href="mailto:support@myetherwallet.com" target="_blank">
-          Email us
+          <%= _p('help.email_us') %>
           <span>&#x2192;</span>
         </a>
       </div>
@@ -20,8 +20,8 @@
       <%- image_tag('images/mew-icons/community.svg') %>
     </div>
     <div class="content">
-      <div class="title">Community</div>
-      <p>Join our MEW community, and get more information from us.</p>
+      <div class="title"><%= _p('help.community') %></div>
+      <p><%= _p('help.community_join') %></p>
       <div class="community-links">
         <a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank">
           <%- image_tag('images/mew-icons/reddit.svg') %>

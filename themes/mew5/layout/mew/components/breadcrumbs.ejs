@@ -1,7 +1,7 @@
 <div class="mew___components_breadcrumbs">
   <div class="wrap">
-    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Help Center</a> >&nbsp;</div>
-    <div><a href="<%- url_for('/categories') %>">Categories</a> >&nbsp;</div>
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> <%= _p('help_center') %></a> >&nbsp;</div>
+    <div><a href="<%- url_for('/categories') %>"><%= _p('categories') %></a> >&nbsp;</div>
     <div class="post-title"><span>[<%= page.primary_category_display_name %>]</span> <%= page.title %></div>
   </div>  
 </div>
