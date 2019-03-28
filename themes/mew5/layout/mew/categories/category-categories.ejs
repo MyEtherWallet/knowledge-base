@@ -43,8 +43,7 @@
               <a href="<%- url_for(site.categories.findOne({name: 'mewconnect'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/mewconnect.svg') %>
-                  <p>MEWconnect</p>
-                  <p><%= _p('index.migrating') %></p>
+                  <p><%= _p('index.mewconnect') %></p>
                   <div class="post-counter"><p><%= site.categories.findOne({name: 'mewconnect'}).posts.length %></p></div>
                 </div>
               </a>
