@@ -14,7 +14,7 @@ alias:
 ---
 
 # __A Glossary of Common Terms in the Ethereum / Crypto Community__
-##### <i>Here is a list of terms you may encounter while using MyEtherWallet (MEW).<br />You can also [read in Spanish](https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md), thanks to faraggi.</i>
+##### <i>Here is a list of terms you may encounter while using MyEtherWallet (MEW).<br />You can also [read in Spanish][enEspanol], thanks to faraggi.</i>
 ###### ⏰ 3 min read
 ***
 
@@ -27,7 +27,7 @@ alias:
 ## __Account__
 * A public & private keypair that "holds" your funds.
 * Your funds are actually stored on the blockchain, not in the wallet or account.
-* Just like your Reddit account has a username (public) and password (private), so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a username (public) and password (private) and password for that password (private + more secure). Read more about this [here]().
+* Just like your Reddit account has a username (public) and password (private), so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a username (public) and password (private) and password for that password (private + more secure). Read more about this [here][pubPvtKeys].
 
 
 
@@ -91,7 +91,7 @@ alias:
 * Generally, they use a 24-word phrase. This phrase you should write down on paper (not on your computer) and store separately from your hardware wallet, in multiple locations.
 * If you lose your hardware wallet, you can still gain access to your accounts & funds via the word-phrase you wrote down.
 * **Never type the recovery phrase on your computer.** It defeats the purpose of your hardware wallet.
-* See [here]() for more information about Hardware Wallets.
+* See [here][hwWallets] for more information about Hardware Wallets.
 
 
 
@@ -130,7 +130,7 @@ alias:
 * The more random something is, the more entropy it has, and the more secure it is.
 * Usually defined in "bits of entropy", or the number of years it would take to brute-force a ____ (i.e. private key) derived with that much entropy.
 * Ethereum private keys are 256-bit keys
-* 24-Word mnemonic phrases are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). `11 * 24 = 264`. The last word is a checksum (read more about checksum [here]()).
+* 24-Word mnemonic phrases are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). `11 * 24 = 264`. The last word is a checksum (read more about checksum [here][checkSum]).
 
 
 
@@ -170,7 +170,7 @@ alias:
 ## __Smart Contracts__
 * A piece of code (or program) that is stored on the blockchain network.
 * Conditions of the contract are predefined by the users, if all conditions are met, certain actions are executed by the contract (program).
-* Read more about smart contracts [here]().
+* Read more about smart contracts [here][smartContracts].
 
 
 
@@ -181,3 +181,9 @@ alias:
 
 
 ##### All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome.
+
+[enEspanol]: https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md
+[pubPvtKeys]: /
+[hwWallets]: /posts/Hardware_Wallets/Using_Trezor_With_MEW/
+[smartContracts]: /posts/Diving_Deeper/What_is_a_Smart_Contract/
+[checkSum]: /

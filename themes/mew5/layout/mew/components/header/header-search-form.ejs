@@ -5,8 +5,8 @@
     <ul>
       <% site.posts.sort('title', 1).each(function(post){ %>
         <li class="header-post-search-item">
-          <a href="/<%= post.path %>">
-header-search-form
+          <!--<a href="/<%= post.path %>">-->
+              <a href="<%- url_for(post.path)  %>">
             <p class="title"><%= post.title %></p>
 
             <div class="prim-category">
