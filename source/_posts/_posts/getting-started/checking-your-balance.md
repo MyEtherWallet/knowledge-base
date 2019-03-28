@@ -55,6 +55,6 @@ Be aware that when checking ETC balances, you should use an Ethereum Classic blo
 
 [etherscan]: https://etherscan.io
 [ethplorer]: https://ethplorer.io
-[hwWallets]: /posts/Hardware_Wallets/Using_Trezor_With_MEW/
+[hwWallets]: /posts/hardware-wallets/using-trezor-with-mew/
 [customTokens]: /
 [checksum]: /
