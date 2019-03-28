@@ -47,28 +47,28 @@
   <% if(prePost) { %>
     <a href="<%- url_for(prePost.path)%>">
       <div class="pre-post valid">
-        <div class="button-title">< Previous</div>
+        <div class="button-title">< <%= _p('previous') %></div>
         <p class="post-title"><%= prePost.title %></p>
       </div>
     </a>
   <% } else { %>
     <div class="pre-post">
-      <div class="button-title">< Previous</div>
-      <p class="post-title">None</p>
+      <div class="button-title">< <%= _p('previous') %></div>
+      <p class="post-title"><%= _p('none') %></p>
     </div>
   <% } %>
 
   <% if(nextPost) { %>
     <a href="<%- url_for(nextPost.path)%>">
       <div class="next-post valid">
-        <div class="button-title">Next ></div>
+        <div class="button-title"><%= _p('next') %> ></div>
         <p class="post-title"><%= nextPost.title %></p>
       </div>
     </a>
   <% } else { %>
     <div class="next-post">
-      <div class="button-title">Next ></div>
-      <p class="post-title">None</p>
+      <div class="button-title"><%= _p('next') %> ></div>
+      <p class="post-title"><%= _p('none') %></p>
     </div>
   <% } %>
 
