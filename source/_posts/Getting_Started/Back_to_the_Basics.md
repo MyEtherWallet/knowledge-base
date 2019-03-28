@@ -25,19 +25,19 @@ alias:
 * Keep us bookmarked for future use.
 * Phishers are tricky, so make sure there are no dots or accents on any of the letters.
 * If you find a phishing site, send it to us so we can take it down!
-* Download [EAL](), [PhishFort](), or [Cryptonite]() for up-to-date alerts when visiting known phishing sites.
+* Download [EAL][EAL], [PhishFort][PhishFort], or [Cryptonite][Cryptonite] for up-to-date alerts when visiting known phishing sites.
 
 
 
 ## __2. Use the checksummed version of your address.__
 * This is the version of your address that includes both capital and lowercase letters.
-* For more information on checksummed addresses, click [here]().
+* For more information on checksummed addresses, click [here][checksum].
 
 
 
 ## __3. Send a small amount first, to test the waters.__
 * We cannot reverse, cancel, or refund transactions. Make sure you know the process inside and out!
-* Learn more about sending transactions [here]().
+* Learn more about sending transactions [here][checksum].
 
 
 
@@ -45,7 +45,7 @@ alias:
 * Write down everything in physical backups.
 * Pen and paper is highly underrated. No one can hack your notebook!
 * However, you can lose your notebook – so make extra copies.
-* [Use MEW offline]() for extra security!
+* [Use MEW offline][offline] for extra security!
 
 
 
@@ -74,13 +74,23 @@ alias:
 
 ## __9. Buy a hardware wallet.__
 * Hardware wallets are generally around ~100 USD and offer the best protection for your crypto assets. So mathematically, if you have more than 200 USD in crypto, there is no excuse not to get one!
-* [Ledger]() and [Trezor]() are two great options we highly recommend!
+* [Ledger][ledger] and [Trezor][trezor] are two great options we highly recommend!
 
 
 
 ## __10. Ask for help.__
 * This is still a very new field, but it has a strong community to back it up.
-* Social media platforms like [Reddit]() and [Twitter]() are filled with real people who live and breathe crypto, ourselves included!
+* Social media platforms like [Reddit][reddit] and [Twitter][twitter] are filled with real people who live and breathe crypto, ourselves included!
 * Reach out to our support team directly if you’re ever confused or have concerns. We can be reached at support@myetherwallet.com.
 
 
+[EAL]: https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn
+[PhishFort]: https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc
+[Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
+[checksum]: /
+[sendTx]: /posts/Transactions/How_to_Send_a_Transaction/
+[offline]: /posts/Offline/Offline_MEW_Looks_Weird/
+[ledger]: /
+[trezor]: https://shop.trezor.io/?a=myetherwallet.com
+[reddit]: /
+[twitter]: /
