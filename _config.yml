@@ -14,9 +14,9 @@ timezone: America/Los_Angeles
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # url: http://localhost.com
-url: http://localhost
+url: http://kb.mewtest.com/
 root: /
-permalink: posts/:title/
+permalink: /posts/:title/
 permalink_defaults:
 
 # Directory
@@ -37,7 +37,7 @@ external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
-relative_link: false
+relative_link: true
 future: true
 highlight:
   enable: true
@@ -76,8 +76,12 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 # theme: landscape
 theme: mew5
+theme_config: ./themes/_config.yml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/SteveMieskoski/knowledge-base-v5.git  #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  # branch: [gh-pages] #published
+  # message: [message]  #leave this blank

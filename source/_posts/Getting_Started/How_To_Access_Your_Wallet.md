@@ -14,14 +14,14 @@ alias:
 ---
 
 # __How to Access Your Wallet__
-##### <i>This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to [this article]().</i>
+##### <i>This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to [this article][createWallet].</i>
 ###### ⏰ 3 min read
 ***
 MyEtherWallet (MEW) offers a variety of ways to access one’s Ethereum wallet, by selecting the ‘Access My Wallet’ option on the front page.
 
 They are, from most to least recommended:
 
-* Hardware Wallets ([Ledger Nano S](), [Trezor](), [Digital Bitbox](), [Secalot](), etc.)
+* Hardware Wallets ([Ledger Nano S][ledger], [Trezor][trezor], [Digital Bitbox][bitbox], [Secalot][scalot], etc.)
 * MEWconnect
 * MetaMask
 * Keystore/JSON File + Password
@@ -32,14 +32,14 @@ They are, from most to least recommended:
 
 Hardware wallets use the highest security measures to encrypt a private key within the device itself, keeping phishers and hackers at bay. Users of most hardwares wallets do not receive their private key, but instead receive a 24-word mnemonic phrase for recovery purposes. The devices are also usually accompanied by a pin code or password used to unlock the device, and all information about each wallet is kept on the actual physical device itself. 
 
-To learn more about accessing MEW with hardware wallets, reference our [Migrating to/from MEW]() category.
+To learn more about accessing MEW with hardware wallets, reference our [Migrating to/from MEW][migrating] category.
 
 
 
 ## __MEWconnect__
 This is our free MEW companion app for iOS and Android smartphones. We call it a ‘hardware wallet without all the hardware’. When creating a wallet with MEWconnect, your private key is kept encrypted on a secure, local vault in your phone. For backup, you are given a mnemonic phrase (much like the hardware wallets above). The wallet is also accompanied by a password, which is used to unlock it on your device.
 
-To learn more about accessing MEW with MEWconnect, reference our [MEWconnect User Guide](). 
+To learn more about accessing MEW with MEWconnect, reference our [MEWconnect User Guide][mewConnect]. 
 
 
 
@@ -66,12 +66,12 @@ This is a Chrome Extension that allows the creation of an ethereum-based wallet 
 
 
 ## __Keystore/JSON + Password__
-The Keystore/JSON is a file that holds an encrypted version of one’s private key. This key is encrypted with a chosen password by the user. As such, it is impossible to change the password for these files. The only way to change the password is to make a completely new Keystore file, which can be achieved in our MEW Chrome Extension with one’s private key. Keystore files should not be opened. They are only to be utilized when accessing the Keystore/JSON option on our site and when prompted for one’s ‘JSON file’. You can read more about the functionality of a Keystore/JSON file [here]().
+The Keystore/JSON is a file that holds an encrypted version of one’s private key. This key is encrypted with a chosen password by the user. As such, it is impossible to change the password for these files. The only way to change the password is to make a completely new Keystore file, which can be achieved in our MEW Chrome Extension with one’s private key. Keystore files should not be opened. They are only to be utilized when accessing the Keystore/JSON option on our site and when prompted for one’s ‘JSON file’. You can read more about the functionality of a Keystore/JSON file [here][keystoreJson].
 
 
 
 ## __To connect with Keystore/JSON + Password:__
-#### __This is not a recommended way to connect. We highly suggest [using MEW offline]() for this option.__
+#### __This is not a recommended way to connect. We highly suggest [using MEW offline][usingOffline] for this option.__
 
 **Step 1.** On the MEW front page, select 'Access My Wallet'.
 
@@ -91,7 +91,7 @@ This is a list of 12 to 24 words that are generated and given to users upon cert
 
 
 ## __To connect with Mnemonic Phrase (+ Password):__
-#### __This is not a recommended way to connect. We highly suggest [using MEW offline]() for this option.__
+#### __This is not a recommended way to connect. We highly suggest [using MEW offline][offline] for this option.__
 
 **Step 1.** On the MEW front page, select 'Access My Wallet'.
 
@@ -111,7 +111,7 @@ The private key is a string of 64 characters tied permanently to a public addres
 
 
 ## __To connect with Private Key:__
-#### __This is not a recommended way to connect. We highly suggest [using MEW offline]() for this option.__
+#### __This is not a recommended way to connect. We highly suggest [using MEW offline][offline] for this option.__
 
 **Step 1.** On the MEW front page, select ‘Access My Wallet’.
 
@@ -120,3 +120,14 @@ The private key is a string of 64 characters tied permanently to a public addres
 **Step 3.** Copy and paste your private key into the value field. 
 
 **Step 4.** Click ‘Unlock Wallet’ and you’re done!
+
+
+[createWallet]: /posts/Getting_Started/How_To_Create_A_Wallet/
+[migrating]: /posts/Migration/Moving_From_Exchange_to_MEW/
+[mewConnect]: /posts/MEWconnect/MEWconnect_101_Create/
+[keystoreJson]: /posts/Security_And_Privacy/What_is_a_Keystore_File/
+[ledger]: /
+[trezor]: /
+[bitbox]: /
+[scalot]: /
+[offline]: /posts/Offline/Offline_MEW_Looks_Weird/

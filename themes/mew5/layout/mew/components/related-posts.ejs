@@ -45,7 +45,7 @@
 <div class="related-posts">
 
   <% if(prePost) { %>
-    <a href="/<%= prePost.path %>">
+    <a href="<%- url_for(prePost.path)%>">
       <div class="pre-post valid">
         <div class="button-title">< Previous</div>
         <p class="post-title"><%= prePost.title %></p>
@@ -59,7 +59,7 @@
   <% } %>
 
   <% if(nextPost) { %>
-    <a href="/<%= nextPost.path %>">
+    <a href="<%- url_for(nextPost.path)%>">
       <div class="next-post valid">
         <div class="button-title">Next ></div>
         <p class="post-title"><%= nextPost.title %></p>

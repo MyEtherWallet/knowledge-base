@@ -1,12 +1,12 @@
 module.exports = function(grunt){
   grunt.initConfig({
     gitclone: {
-      fontawesome: {
-        options: {
-          repository: 'https://github.com/FortAwesome/Font-Awesome.git',
-          directory: 'tmp/fontawesome'
-        },
-      },
+      // fontawesome: {
+      //   options: {
+      //     repository: 'https://github.com/FortAwesome/Font-Awesome.git',
+      //     directory: 'tmp/fontawesome'
+      //   },
+      // },
       fancybox: {
         options: {
           repository: 'https://github.com/fancyapps/fancyBox.git',
@@ -15,12 +15,12 @@ module.exports = function(grunt){
       }
     },
     copy: {
-      fontawesome: {
-        expand: true,
-        cwd: 'tmp/fontawesome/fonts/',
-        src: ['**'],
-        dest: 'source/css/fonts/'
-      },
+      // fontawesome: {
+      //   expand: true,
+      //   cwd: 'tmp/fontawesome/fonts/',
+      //   src: ['**'],
+      //   dest: 'source/css/fonts/'
+      // },
       fancybox: {
         expand: true,
         cwd: 'tmp/fancybox/source/',

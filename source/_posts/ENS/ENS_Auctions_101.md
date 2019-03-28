@@ -36,8 +36,8 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 * Always check the URL to make sure you’re on our legit site!
 
 **Step 2.** Access your wallet. 
-* If you don’t already have a wallet, you will need to [create a new wallet](). 
-* You will also need a small amount of ETH for [gas](). We generally recommend `.01 ETH` for 1 - 2 transactions. Starting and finalizing ENS auctions both count as a transactions.
+* If you don’t already have a wallet, you will need to [create a new wallet][createWallet]. 
+* You will also need a small amount of ETH for [gas][gas]. We generally recommend `.01 ETH` for 1 - 2 transactions. Starting and finalizing ENS auctions both count as a transactions.
 
 **Step 3.** Head to the Dapps section, to the left of your wallet's overview page (or by clicking the ‘Change’ function at the top right). 
 * Here you will see the ‘Register ENS’ option. Click there!
@@ -65,7 +65,12 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 **Step 9.** On the last day of the auction, return to the ENS section of our interface and search for your domain to reveal your bid within the time limit. 
 * If you end up losing the auction, 99.5% of your bid will be refunded to you, with the exception of 0.5% which will be burned.
-* If you do not reveal your bid in time, your actual bid amount will be permanently lost. If there were no other bidders, you may be able to [re-open the bid]() with no additional costs.
+* If you do not reveal your bid in time, your actual bid amount will be permanently lost. If there were no other bidders, you may be able to [re-open the bid][reOpenBid] with no additional costs.
 
 **Step 10.** If you won, MEW will give you the option to finalize your domain name. 
-*This will only set your address as the owner of the domain, but you’re not done yet. If you want this domain to point to your address for sending, you still have a bit to do. Check out [this guide]() for more information on how to achieve this final step.
+*This will only set your address as the owner of the domain, but you’re not done yet. If you want this domain to point to your address for sending, you still have a bit to do. Check out [this guide][finalizeEns] for more information on how to achieve this final step.
+
+[createWallet]: /posts/Getting_Started/How_To_Create_A_Wallet/
+[gas]: /
+[reOpenBid]: /
+[finalizeEns]: /

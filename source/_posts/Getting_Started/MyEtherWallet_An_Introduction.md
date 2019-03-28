@@ -27,10 +27,11 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 
 ## __With MEW, users can:__
 
-* [Create](/posts/Getting_Started/How_To_Create_A_Wallet/) a new ETH wallet.
-* [Send](/posts/Transactions/How_to_Send_a_Transaction/) and receive ETH and ERC20 tokens.
-* [Access](/posts/Getting_Started/How_To_Access_Your_Wallet/) a variety of existing wallets including our MEWconnect app, the MetaMask Chrome extension, and partnering hardware wallets.
-* [Swap](/posts/Swap/Swapping_via_Kyber_Bity_Changelly/) a growing number of cryptocurrencies including ERC20 tokens, ETH, ETC, BTC, and REP.
+
+* [Create][1] a new ETH wallet.
+* [Send][2] and receive ETH and ERC20 tokens.
+* [Access][3] a variety of existing wallets including our MEWconnect app, the MetaMask Chrome extension, and partnering hardware wallets.
+* [Swap][4] a growing number of cryptocurrencies including ERC20 tokens, ETH, ETC, BTC, and REP.
 * Deploy and interact with smart contracts.
 * Send offline, through the use of signatures.
 * Initialize, bid on, and finalize ENS domain auctions.
@@ -38,7 +39,7 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 
 ## __What do 'open-source' and 'client-side' mean?__
 
-* Open-source means anyone can view, copy, or make suggestions to our code on [GitHub](https://github.com/MyEtherWallet "MEW's GitHub").
+* Open-source means anyone can view, copy, or make suggestions to our code on [GitHub][5].
 * Client-side means we do not have behind-the-scenes servers.
 * Funds and information are not stored on our site.
 * The user is in complete control of their own security and privacy.
@@ -50,7 +51,7 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 * All ETH and ERC20 tokens are stored on the Ethereum blockchain.
 * When using any site, exchange, hardware wallet, or interface based on the blockchain, all crypto is stored on the blockchain itself. These platforms and hardware wallets just allow us to interact with the blockchain in a simplified way.
 * The Ethereum blockchain is not owned by a centralized entityu, but is verified and maintained by thousands of remote people called 'miners' who use their time and energy to keep it all in check.
-* This is why our site, and sites like [Etherscan](https://etherscan.io/) and [Ethplorer](https://ethplorer.io), are able to pull your wallet information. Not because of behind-the-scenes servers, but because they are pulling information from the blockchain itself. 
+* This is why our site, and sites like [Etherscan][etherscan] and [Ethplorer][ethplorer], are able to pull your wallet information. Not because of behind-the-scenes servers, but because they are pulling information from the blockchain itself. 
 
 
 
@@ -72,16 +73,33 @@ You’re in charge of your own funds and information.
 
 ## __How do I remain secure?__
 
-* The most secure way to access your funds is through a hardware wallet, like a [Ledger Nano S]() or [Trezor](https://shop.trezor.io/?a=myetherwallet.com). If you have over $200 in crypto, there is little excuse not to get one.
+* The most secure way to access your funds is through a hardware wallet, like a [Ledger Nano S][ledger] or [Trezor][trezor]. If you have over $200 in crypto, there is little excuse not to get one.
 * When using a private key, keystore/JSON file, or mnemonic phrase, make sure to keep them solely on physical paper and offline computers. This information is extremely sensitive. And make backups! If you lose this information, it’s gone forever.
 * Always check the URL you are using to make sure it says www.myetherwallet.com. And bookmark us for future use!
-* Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc), or [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) to block malicious websites.
+* Install [EAL][EAL], [PhishFort][PhishFort], or [Cryptonite][Cryptonite] to block malicious websites.
 * Make sure the URL bar says ‘MyEtherWallet Inc [US]’, or ‘Secure’ when using Chrome.
 * Do not trust any messages sent to you randomly from ‘our team’. We do not have your information, and they are likely trying to scam you. We never email our users first. 
-* Install an [AdBlocker](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), and do not click on any ads you see on your search engine.
-* [Do your research!](http://google.com) If something seems fishy to you, it’s likely been talked about by the community.
+* Install an [AdBlocker][13], and do not click on any ads you see on your search engine.
+* [Do your research!][14] If something seems fishy to you, it’s likely been talked about by the community.
 * If you have additional questions or concerns, reach out to us! Our support team is always happy to help. They can be reached at support@myetherwallet.com
 
 
+##### Read more about security [here][15].
 
-##### Read more about security [here](/posts/Security_And_Privacy/Ensuring_MEW_Doesnt_Give_People_Same_Address/).
+
+[1]: /posts/Getting_Started/How_To_Create_A_Wallet/
+[2]: /posts/Transactions/How_to_Send_a_Transaction/
+[3]: /posts/Getting_Started/How_To_Access_Your_Wallet/
+[4]: /posts/Swap/Swapping_via_Kyber_Bity_Changelly/
+[5]: https://github.com/MyEtherWallet "MEW Github"
+[etherscan]: https://etherscan.io/
+[ethplorer]: https://ethplorer.io
+[ledger]: /
+[trezor]: https://shop.trezor.io/?a=myetherwallet.com
+[EAL]: https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn
+[PhishFort]: https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc
+[Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
+[13]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
+[14]: http://google.com
+[15]: /posts/Security_And_Privacy/Ensuring_MEW_Doesnt_Give_People_Same_Address/
+[16]: /posts/Getting_Started/How_To_Create_A_Wallet/

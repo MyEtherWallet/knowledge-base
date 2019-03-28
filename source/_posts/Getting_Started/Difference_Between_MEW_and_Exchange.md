@@ -43,4 +43,8 @@ This allows you to have the more traditional username / password account dynamic
 * Don't save it to cloud storage.
 * Don't have Team Viewer or other remote access software on your computer.
 
-If this seems very overwhelming, we recommend purchasing a [Ledger]() or [Trezor]() hardware wallet. These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.
+If this seems very overwhelming, we recommend purchasing a [Ledger][ledger] or [Trezor][trezor] hardware wallet. These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.
+
+
+[ledger]: /
+[trezor]: /
