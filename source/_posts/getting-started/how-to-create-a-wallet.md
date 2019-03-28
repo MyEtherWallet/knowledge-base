@@ -21,12 +21,12 @@ alias:
 
 MyEtherWallet (MEW) offers three ways to create a new ETH wallet. 
 
-Out of the three, we highly suggest creating your wallet with our smartphone app, MEWconnect. This is the best option for the security and safekeeping of your information. To learn more about creating your wallet with MEWconnect, click [here][1].
+Out of the three, we highly suggest creating your wallet with our smartphone app, MEWconnect. This is the best option for the security and safekeeping of your information. To learn more about creating your wallet with MEWconnect, click [here][mewConnect].
 
 The other two options we offer are by Keystore/JSON file and Mnemonic Phrase. 
 *These are **not** recommended ways to create and access your wallet.*
 
-The following information is for those who wish to proceed, regardless of our warnings. If you’re going to do something, learn to do it safely. We highly suggest you [access MEW offline][2] when using these options.
+The following information is for those who wish to proceed, regardless of our warnings. If you’re going to do something, learn to do it safely. We highly suggest you [access MEW offline][offline] when using these options.
 
 
 
@@ -40,7 +40,7 @@ The following information is for those who wish to proceed, regardless of our wa
 
 
 ## __Keystore/JSON__
-#### *Read more about what a Keystore/JSON file is [here][3].*
+#### *Read more about what a Keystore/JSON file is [here][keystoreJson].*
 
 **Step 1.** Head to www.myetherwallet.com. 
 
@@ -61,7 +61,7 @@ The following information is for those who wish to proceed, regardless of our wa
 
 
 ## __Mnemonic Phrase__
-#### *Read more about what a Mnemonic Phrase is [here][4].*
+#### *Read more about what a Mnemonic Phrase is [here][mnemonic].*
 
 **Step 1.** Head to www.myetherwallet.com.
 
@@ -83,7 +83,7 @@ The following information is for those who wish to proceed, regardless of our wa
 
 For more information on how to access your new wallet, click <a href="">here</a>.<p>
 
-[1]: /posts/MEWconnect/MEWconnect_101_Create/
-[2]: /posts/Offline/Offline_MEW_Looks_Weird/
-[3]: /posts/Security_And_Privacy/What_is_a_Keystore_File/
-[4]: /posts/Security_And_Privacy/What_is_a_Mnemonic_Phrase/
+[mewConnect]: /posts/mewconnect/mewconnect-101-create/
+[offline]: /posts/offline/offline-mew-looks-weird/
+[keystoreJson]: /posts/security-and-privacy/what-is-a-keystore-file/
+[mnemonic]: /posts/security-and-privacy/what-is-a-mnemonic-phrase/

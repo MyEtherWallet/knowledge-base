@@ -87,10 +87,10 @@ You’re in charge of your own funds and information.
 ##### Read more about security [here][15].
 
 
-[1]: /posts/Getting_Started/How_To_Create_A_Wallet/
-[2]: /posts/Transactions/How_to_Send_a_Transaction/
-[3]: /posts/Getting_Started/How_To_Access_Your_Wallet/
-[4]: /posts/Swap/Swapping_via_Kyber_Bity_Changelly/
+[1]: /posts/getting-started/how-to-create-a-wallet/
+[2]: /posts/transactions/how-to-send-a-transaction/
+[3]: /posts/getting-started/how-to-access-your-wallet/
+[4]: /posts/swap/swapping-via-kyber-bity-changelly/
 [5]: https://github.com/MyEtherWallet "MEW Github"
 [etherscan]: https://etherscan.io/
 [ethplorer]: https://ethplorer.io
@@ -101,5 +101,5 @@ You’re in charge of your own funds and information.
 [Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
 [13]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
 [14]: http://google.com
-[15]: /posts/Security_And_Privacy/Ensuring_MEW_Doesnt_Give_People_Same_Address/
-[16]: /posts/Getting_Started/How_To_Create_A_Wallet/
+[15]: /posts/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/
+[16]: /posts/getting-started/how-to-create-a-wallet/

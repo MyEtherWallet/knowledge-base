@@ -122,12 +122,12 @@ The private key is a string of 64 characters tied permanently to a public addres
 **Step 4.** Click ‘Unlock Wallet’ and you’re done!
 
 
-[createWallet]: /posts/Getting_Started/How_To_Create_A_Wallet/
-[migrating]: /posts/Migration/Moving_From_Exchange_to_MEW/
-[mewConnect]: /posts/MEWconnect/MEWconnect_101_Create/
-[keystoreJson]: /posts/Security_And_Privacy/What_is_a_Keystore_File/
+[createWallet]: /posts/getting-started/how-to-create-a-wallet/
+[migrating]: /posts/migration/moving-from-exchange-to-mew/
+[mewConnect]: /posts/mewconnect/mewconnect-101-create/
+[keystoreJson]: /posts/security-and-privacy/what-is-a-keystore-file/
 [ledger]: /
 [trezor]: /
 [bitbox]: /
 [scalot]: /
-[offline]: /posts/Offline/Offline_MEW_Looks_Weird/
+[offline]: /posts/offline/offline-mew-looks-weird/
