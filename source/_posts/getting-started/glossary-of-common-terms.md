@@ -184,6 +184,6 @@ alias:
 
 [enEspanol]: https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md
 [pubPvtKeys]: /
-[hwWallets]: /posts/Hardware_Wallets/Using_Trezor_With_MEW/
-[smartContracts]: /posts/Diving_Deeper/What_is_a_Smart_Contract/
+[hwWallets]: /posts/hardware-wallets/using-trezor-with-mew/
+[smartContracts]: /posts/diving-deeper/what-is-a-smart-contract/
 [checkSum]: /
