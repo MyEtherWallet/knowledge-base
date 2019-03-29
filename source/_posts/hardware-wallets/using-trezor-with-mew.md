@@ -7,8 +7,8 @@ tags:
 - hardware
 - wallet
 categories:
-- [hardware_wallets]
-primary_category: hardware_wallets
+- [hardware-wallets]
+primary_category: hardware-wallets
 primary_category_display_name: "Hardware Wallets"
 alias:
 - migration/moving-from-private-key-to-trezor-hardware-wallet.html

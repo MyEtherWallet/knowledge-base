@@ -8,8 +8,8 @@ tags:
 - hardware
 - wallet
 categories:
-- [common_issues]
-primary_category: common_issues
+- [common-issues]
+primary_category: common-issues
 primary_category_display_name: "Common Issues"
 alias:
 - hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
