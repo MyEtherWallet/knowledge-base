@@ -1,5 +1,5 @@
 ---
-title: "What Happens if MEW Goes Down?"
+title: "Using a Ledger Hardware Wallet With an Android Device"
 lang: en
 date: 2018-06-01 00:06:00
 tags:
