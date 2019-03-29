@@ -6,8 +6,8 @@ tags:
 - access
 - wallet
 categories:
-- [get_started]
-primary_category: get_started
+- [get-started]
+primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
 - getting-started/accessing-your-new-eth-wallet.html
@@ -15,7 +15,7 @@ alias:
 
 # __How to Access Your Wallet__
 ##### <i>This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to [this article][createWallet].</i>
-###### ⏰ 3 min read
+###### ⏰ {% read_time title "How to Access Your Wallet" %} min read
 ***
 MyEtherWallet (MEW) offers a variety of ways to access one’s Ethereum wallet, by selecting the ‘Access My Wallet’ option on the front page.
 

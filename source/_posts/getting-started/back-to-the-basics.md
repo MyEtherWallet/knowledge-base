@@ -9,8 +9,8 @@ tags:
 - biginner
 - biginners
 categories:
-- [get_started]
-primary_category: get_started
+- [get-started]
+primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
 - getting-started/getting-back-to-basics-tips-for-newbies.html
@@ -18,7 +18,7 @@ alias:
 
 
 # __Back to the Basics: 10 Tips for Beginners__
-###### ⏰ 3 min read
+###### ⏰ {% read_time title "Back to the Basics: 10 Tips for Beginners" %} min read
 ***
 
 ## __1. Check the URL to make sure it says ‘MyEtherWallet.com’.__

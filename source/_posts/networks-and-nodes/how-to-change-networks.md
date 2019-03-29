@@ -9,8 +9,8 @@ tags:
 - ropsten
 - etc
 categories:
-- [networks_and_nodes]
-primary_category: networks_and_nodes
+- [networks-and-nodes]
+primary_category: networks-and-nodes
 primary_category_display_name: "Networks And Nodes"
 alias:
 - networks/sent-etc-to-eth-address.html

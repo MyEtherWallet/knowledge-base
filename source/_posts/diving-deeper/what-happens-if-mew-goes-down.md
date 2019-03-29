@@ -9,8 +9,8 @@ tags:
 - down
 categories:
 - [faqs]
-- [diving_deeper]
-primary_category: diving_deeper
+- [diving-deeper]
+primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
 - faq/what-happens-if-myetherwallet-goes-down.html

@@ -10,15 +10,15 @@ tags:
 - gemini
 - binance
 categories:
-- [get_started]
-primary_category: get_started
+- [get-started]
+primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
 - getting-started/whats-the-difference-between-an-exchange-and-myetherwallet.html
 ---
 
 # __What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?__
-###### ⏰ 3 min read
+###### ⏰ {% read_time title "What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?" %} min read
 ***
 
 Your ETH & ERC20 tokens are on the Ethereum blockchain, regardless of what service you use to access them. When you move them, you are sending them from one address on the blockchain to another. These are simply lines of code. Your wallet file, hardware wallet, the interface you interact with, or your private key  do not have funds in them. These are simply ways of access, which gives you the ability to prove ownership over coins that are on the blockchain itself.

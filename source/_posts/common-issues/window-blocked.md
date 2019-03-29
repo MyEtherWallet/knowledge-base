@@ -7,8 +7,8 @@ tags:
 - Window
 - Blocked
 categories:
-- [common_issues]
-primary_category: common_issues
+- [common-issues]
+primary_category: common-issues
 primary_category_display_name: "Common Issues"
 alias:
 - hardware-wallets/trezor-error-window-blocked.html
