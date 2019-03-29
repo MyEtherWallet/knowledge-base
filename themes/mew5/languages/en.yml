@@ -27,6 +27,7 @@ tag_line: Lost? Let Us Help.
 home: Home
 privacy: Privacy
 terms: Terms
+copyright: © 2018 MyEtherWallet. All rights reserved.
 index:
   intro: Introduction
   get_started: Get Started
@@ -46,6 +47,7 @@ index:
   transactions: Transactions
   swap: Swap
   ens: ENS
+  v5: MEW V5
 help:
   cantFind: Can't find your answer? Get in touch and we'll get back as soon as we can.
   community_join: Join the MEW community to get more information.
@@ -59,9 +61,23 @@ misc:
   top_searches: Top Searches
   matches_for: matches from this post
 video_tab:
-  labels: Part %d of MEWconnect 101
-  title_one: Create a wallet
-  title_two: Back up your wallet
-  title_three: Connect to MEW
-  title_four: Make a transaction
-  title_five: Wallet overview
+  label_v5: MEW V5
+  title_one_v5: Create a Wallet (MEWconnect)
+  title_two_v5: Wallet Overview
+  title_three_v5: Use MEW Offline & Send a Transaction
+  labelMC: Part %d of MEWconnect 101
+  title_one_mc: Create a wallet
+  title_two_mc: Back up your wallet
+  title_three_mc: Connect to MEW
+  title_four_mc: Make a transaction
+  title_five_mc: Wallet overview
+links:
+  mytherwallet: "https://myetherwallet.com"
+  privacy_policy: "https://www.myetherwallet.com/privacy-policy"
+  terms_and_conditions: "https://www.myetherwallet.com/terms-and-conditions"
+  reddit: "https://www.reddit.com/r/MyEtherWallet/"
+  github: "https://github.com/MyEtherWallet"
+  facebook: "https://www.facebook.com/MyEtherWallet"
+  twitter: "https://twitter.com/myetherwallet"
+  linkedin: "https://www.linkedin.com/company/myetherwallet"
+  medium: "https://medium.com/@myetherwallet"
