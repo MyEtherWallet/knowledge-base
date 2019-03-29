@@ -5,8 +5,8 @@ date: 2018-06-01 00:06:00
 tags:
 - down
 categories:
-- [diving_deeper]
-primary_category: diving_deeper
+- [diving-deeper]
+primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
 - faq/what-happens-if-myetherwallet-goes-down.html

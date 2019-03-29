@@ -5,8 +5,8 @@ date: 2018-06-01 00:02:00
 tags:
 - api
 categories:
-- [diving_deeper]
-primary_category: diving_deeper
+- [diving-deeper]
+primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
 - diving-deeper/does-myetherwallet-have-an-api.html
