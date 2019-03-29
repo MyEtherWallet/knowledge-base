@@ -8,8 +8,8 @@ tags:
 - intro
 categories:
 - [faqs]
-- [get_started]
-primary_category: get_started
+- [get-started]
+primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
 - getting-started/getting-started-new.html
@@ -20,7 +20,7 @@ alias:
 
 # __MyEtherWallet: An Introduction__
 ##### We highly suggest you read through this entire introduction, for the safety of your funds.
-###### ⏰ 3 min read
+###### ⏰ {% read_time title "MyEtherWallet: An Introduction" %} min read
 ***
 
 MyEtherWallet (MEW) is an open-source, client-side interface that allows users to interact directly with the Ethereum blockchain, without having to join a centralized exchange.
@@ -103,3 +103,4 @@ You’re in charge of your own funds and information.
 [14]: http://google.com
 [15]: /posts/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/
 [16]: /posts/getting-started/how-to-create-a-wallet/
+

@@ -7,8 +7,8 @@ tags:
 - create
 - wallet
 categories:
-- [get_started]
-primary_category: get_started
+- [get-started]
+primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
 - getting-started/creating-a-new-wallet-on-myetherwallet.html
@@ -16,7 +16,7 @@ alias:
 
 # __How to Create a Wallet__
 ##### If you are currently using a Hardware wallet (such as Ledger or Trezor) or another wallet service (such as MetaMask), this article is not for you. This is only for new users, looking to begin from scratch.
-###### ⏰ 3 min read
+###### ⏰ {% read_time title "How to Create a Wallet" %} min read
 ***
 
 MyEtherWallet (MEW) offers three ways to create a new ETH wallet. 

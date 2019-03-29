@@ -7,15 +7,15 @@ tags:
 - coin
 - coins
 categories:
-- [get_started]
-primary_category: get_started
+- [get-started]
+primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
 - faq/sending-bitcoin-btc-ltc-xmr-to-myetherwallet.html
 ---
 
 # __Does MEW Support BTC or other Coins?__
-###### ⏰ 3 min read
+###### ⏰ {% read_time title "Does MEW Support BTC or other Coins?" %} min read
 ***
 
 MyEtherWallet (MEW) supports ETH and ERC20 tokens on our main ETH networks. 

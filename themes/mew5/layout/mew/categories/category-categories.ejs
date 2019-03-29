@@ -8,29 +8,29 @@
           <h3><%= _p('index.intro') %></h3>
           <ul>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'get_started'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for(site.categories.findOne({name: 'get-started'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/get-started.svg') %>
                   <p><%= _p('index.get_started') %></p>
-                  <div class="post-counter"><p><%= site.categories.findOne({name: 'get_started'}).posts.length %></p></div>
+                  <div class="post-counter"><p><%= site.categories.findOne({name: 'get-started'}).posts.length %></p></div>
                 </div>
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'common_issues'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for(site.categories.findOne({name: 'common-issues'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/common-issues.svg') %>
                   <p><%= _p('index.common_issues') %></p>
-                  <div class="post-counter"><p><%= site.categories.findOne({name: 'common_issues'}).posts.length %></p></div>
+                  <div class="post-counter"><p><%= site.categories.findOne({name: 'common-issues'}).posts.length %></p></div>
                 </div>
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'diving_deeper'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for(site.categories.findOne({name: 'diving-deeper'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/diving-deeper.svg') %>
                   <p><%= _p('index.diving_deeper') %></p>
-                  <div class="post-counter"><p><%= site.categories.findOne({name: 'diving_deeper'}).posts.length %></p></div>
+                  <div class="post-counter"><p><%= site.categories.findOne({name: 'diving-deeper'}).posts.length %></p></div>
                 </div>
               </a>
             </li>
@@ -49,11 +49,11 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'hardware_wallets'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for(site.categories.findOne({name: 'hardware-wallets'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/hardware-wallet.svg') %>
                   <p><%= _p('index.hardware_wallet') %></p>
-                  <div class="post-counter"><p><%= site.categories.findOne({name: 'hardware_wallets'}).posts.length %></p></div>
+                  <div class="post-counter"><p><%= site.categories.findOne({name: 'hardware-wallets'}).posts.length %></p></div>
                 </div>
               </a>
             </li>
@@ -72,20 +72,20 @@
           <h3><%= _p('index.security') %></h3>
           <ul>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'security_and_privacy'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for(site.categories.findOne({name: 'security-and-privacy'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/security-and-privacy.svg') %>
                   <p><%= _p('index.security_privacy') %></p>
-                  <div class="post-counter"><p><%= site.categories.findOne({name: 'security_and_privacy'}).posts.length %></p></div>
+                  <div class="post-counter"><p><%= site.categories.findOne({name: 'security-and-privacy'}).posts.length %></p></div>
                 </div>
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'private_keys_and_passwords'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for(site.categories.findOne({name: 'private-keys-and-passwords'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/private-keys-and-password.svg') %>
                   <p><%= _p('index.private_keys_password') %></p>
-                  <div class="post-counter"><p><%= site.categories.findOne({name: 'private_keys_and_passwords'}).posts.length %></p></div>
+                  <div class="post-counter"><p><%= site.categories.findOne({name: 'private-keys-and-passwords'}).posts.length %></p></div>
                 </div>
               </a>
             </li>
@@ -113,11 +113,11 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'networks_and_nodes'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for(site.categories.findOne({name: 'networks-and-nodes'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/network.svg') %>
                   <p><%= _p('index.network_and_nodes') %></p>
-                  <div class="post-counter"><p><%= site.categories.findOne({name: 'networks_and_nodes'}).posts.length %></p></div>
+                  <div class="post-counter"><p><%= site.categories.findOne({name: 'networks-and-nodes'}).posts.length %></p></div>
                 </div>
               </a>
             </li>

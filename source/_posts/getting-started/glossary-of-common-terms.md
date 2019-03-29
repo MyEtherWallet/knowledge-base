@@ -6,8 +6,8 @@ tags:
 - glossary
 - terms
 categories:
-- [get_started]
-primary_category: get_started
+- [get-started]
+primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
 - getting-started/ethereum-glossary.html
@@ -15,7 +15,7 @@ alias:
 
 # __A Glossary of Common Terms in the Ethereum / Crypto Community__
 ##### <i>Here is a list of terms you may encounter while using MyEtherWallet (MEW).<br />You can also [read in Spanish][enEspanol], thanks to faraggi.</i>
-###### ⏰ 3 min read
+###### ⏰ {% read_time title "A Glossary of Common Terms in the Ethereum / Crypto Community" %} min read
 ***
 
 ## __Wallet__

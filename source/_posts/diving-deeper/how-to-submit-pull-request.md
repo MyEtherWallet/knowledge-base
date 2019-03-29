@@ -7,8 +7,8 @@ tags:
 - pull
 - request
 categories:
-- [diving_deeper]
-primary_category: diving_deeper
+- [diving-deeper]
+primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
 - diving-deeper/how-to-submit-pull-request.html

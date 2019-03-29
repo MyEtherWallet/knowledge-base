@@ -7,8 +7,8 @@ tags:
 - gas
 - out
 categories:
-- [common_issues]
-primary_category: common_issues
+- [common-issues]
+primary_category: common-issues
 primary_category_display_name: "Common Issues"
 alias:
 - transactions/transaction-failed-out-of-gas.html
