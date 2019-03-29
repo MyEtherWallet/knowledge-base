@@ -82,7 +82,7 @@ theme_config: ./themes/_config.yml
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/SteveMieskoski/knowledge-base-v5.git  #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: https://github.com/MyEtherWallet/knowledge-base-v5.git  #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   # branch: [gh-pages] #published
   # message: [message]  #leave this blank
 
