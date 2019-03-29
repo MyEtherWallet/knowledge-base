@@ -1,0 +1,27 @@
+
+[
+  {
+    "name": "MEWconnect",
+    "url": "/posts/mewconnect/mewconnect-101-create/"
+  },
+  {
+    "name": "Swap",
+    "url": "/posts/swap/buy-eth-via-simplex/"
+  },
+  {
+    "name": "Send ETH",
+    "url": "/posts/transactions/how-to-send-a-transaction/"
+  },
+  {
+    "name": "Security",
+    "url": "/posts/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/"
+  },
+  {
+    "name": "Blockchain",
+    "/posts/getting-started/myetherwallet-an-introduction/"
+  },
+  {
+    "name": "Create a Wallet",
+    "url": "/posts/getting-started/how-to-create-a-wallet/"
+  }
+]
