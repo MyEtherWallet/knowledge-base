@@ -20,10 +20,10 @@ tag: Tag
 help_center: Help Center
 previous: Previous
 none: None
-faqs: FAQs
+faqs: FAQ
 videos: Videos
 share_to: Share to
-tag_line: Feeling Lost? Let Us Help.
+tag_line: Lost? Let Us Help.
 home: Home
 privacy: Privacy
 terms: Terms
@@ -48,7 +48,7 @@ index:
   ens: ENS
 help:
   cantFind: Can't find your answer? Get in touch and we'll get back as soon as we can.
-  community_join: Join our MEW community, and get more information from us.
+  community_join: Join the MEW community to get more information.
   community: Community
   email_us: Email us
   customer_support: Customer Support
