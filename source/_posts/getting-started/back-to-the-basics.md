@@ -18,7 +18,7 @@ alias:
 
 
 # __Back to the Basics: 10 Tips for Beginners__
-###### ⏰ {% read_time title "Back to the Basics: 10 Tips for Beginners" %} min read
+###### {% read_time title "Back to the Basics: 10 Tips for Beginners" %} min read
 ***
 
 ## __1. Check the URL to make sure it says ‘MyEtherWallet.com’.__
