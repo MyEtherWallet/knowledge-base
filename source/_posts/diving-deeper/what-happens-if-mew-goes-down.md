@@ -17,7 +17,7 @@ alias:
 ---
 
 # __What Happens if MEW Goes Down?__
-###### ⏰ 3 min read
+###### {% read_time title "What Happens if MEW Goes Down?" %} min read
 ***
 
 ## __Short answer:__
@@ -30,4 +30,7 @@ The information used to unlock your MEW wallet is the same information that can 
 
 You can import your unencrypted private key and your Geth/Mist Format (encrypted) files directly into geth / Ethereum Wallet / Mist very easily.
 
-You can also [run MyEtherWallet locally]() and/or [connect it to your own node]().
+You can also [run MyEtherWallet locally][mewLocal] and/or [connect it to your own node][ownNode].
+
+[mewLocal]: 
+[ownNode]: /posts/networks-and-nodes/unable-to-connect-to-custom-node/
