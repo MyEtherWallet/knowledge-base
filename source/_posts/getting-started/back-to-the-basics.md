@@ -37,7 +37,7 @@ alias:
 
 ## __3. Send a small amount first, to test the waters.__
 * We cannot reverse, cancel, or refund transactions. Make sure you know the process inside and out!
-* Learn more about sending transactions [here][checksum].
+* Learn more about sending transactions [here][sendTX].
 
 
 
@@ -87,10 +87,11 @@ alias:
 [EAL]: https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn
 [PhishFort]: https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc
 [Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
-[checksum]: /
+[checksum]: /posts/common-issues/not-checksummed/
 [sendTx]: /posts/transactions/how-to-send-a-transaction/
 [offline]: /posts/offline/offline-mew-looks-weird/
-[ledger]: /
+[ledger]: https://www.ledger.com/?r=fa4b
 [trezor]: https://shop.trezor.io/?a=myetherwallet.com
-[reddit]: /
-[twitter]: /
+[reddit]: https://www.reddit.com/r/MyEtherWallet/
+[twitter]: https://twitter.com/myetherwallet
+[sendTX]: /posts/transactions/how-to-send-a-transaction/

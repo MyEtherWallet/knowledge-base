@@ -13,7 +13,7 @@ primary_category_display_name: "ENS"
 ---
 
 # __ENS: Auctions 101__
-###### ⏰ 3 min read
+###### {% read_time title "ENS: Auctions 101" %} min read
 ***
 
 The Ethereum Name Service, also known as ENS, is a domain service that uses a bidding system to assign a specific domain tied to your wallet’s account address. The process involves anonymously bidding on a unique name, waiting three days, then revealing your bid. The highest bidder gains ownership of this ENS domain, to use it however they wish.
@@ -71,6 +71,6 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 *This will only set your address as the owner of the domain, but you’re not done yet. If you want this domain to point to your address for sending, you still have a bit to do. Check out [this guide][finalizeEns] for more information on how to achieve this final step.
 
 [createWallet]: /posts/Getting_Started/How_To_Create_A_Wallet/
-[gas]: /
-[reOpenBid]: /
-[finalizeEns]: /
+[gas]: /posts/transactions/what-is-gas/
+[reOpenBid]: /posts/ens/what-to-do-if-ens-bid-forgot/
+[finalizeEns]: /posts/ens/setting-ens-resolver/

@@ -15,16 +15,16 @@ alias:
 ---
 
 # __Debugging a 'Bad Instruction' Reveal__
-###### ⏰ 3 min read
+###### {% read_time title "Debugging a 'Bad Instruction' Reveal" %} min read
 ***
 
 ## __Step 1. Make sure you actually placed a bid.__
 * Look up your address on Etherscan.io in order to find the transaction in which you placed your bid.
-* It will be an outgoing transaction (which show as orange) to [ENS-Registrar](https://etherscan.io/address/0x6090a6e47849629b7245dfa1ca21d94cd15878ef).
+* It will be an outgoing transaction (which show as orange) to [ENS-Registrar][ensRegistrar].
 * The transaction should have an ETH value `>= 0.01 ETH` (not one that says `0 ETH`).
 * If you are just now revealing your bid, it will say it was sent 2 - 4 days ago.
 * Under 'Input Data', it should say: Function: newBid(bytes32 sealedBid).
-* If you also started the auction, this transaction should be around the same time, but not before, the time you started the auction. You can find the start auction transaction by typing in your name on [Etherscan's ENS Lookup](https://etherscan.io/enslookup?q=yourname.eth) interface and clicking on the transaction hash furthest to the bottom.
+* If you also started the auction, this transaction should be around the same time, but not before, the time you started the auction. You can find the start auction transaction by typing in your name on [Etherscan's ENS Lookup][ensLookup] interface and clicking on the transaction hash furthest to the bottom.
 
 Once you find this, copy and paste the value under 'Input Data' into a text document and remove the 'MethodId:' and '[0]:' so that it looks like this:
 
@@ -71,6 +71,9 @@ Enter the following information into the fields:
 ## __Step 5. Generate and sign your transaction.__
 * Click your transaction hash after you send it. Ensure there are no errors (you may have to refresh a few times.)
 
-* Then, in a new tab, head back to [Etherscan's ENS Lookup](https://etherscan.io/enslookup?q=yourname.eth) interface and type in the name you bid on. Ensure that you see a very recent transaction from your address with 'Unseal Bid' next to it.
+* Then, in a new tab, head back to [Etherscan's ENS Lookup][ensLookup] interface and type in the name you bid on. Ensure that you see a very recent transaction from your address with 'Unseal Bid' next to it.
 
 * You should probably also save the finalize data. This will allow you to easily finalize the transaction in a few days.
+
+[ensRegistrar]: https://etherscan.io/address/0x6090a6e47849629b7245dfa1ca21d94cd15878ef
+[ensLookup]: https://etherscan.io/enslookup?q=yourname.eth
