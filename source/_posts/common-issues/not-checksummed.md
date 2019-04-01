@@ -15,7 +15,7 @@ alias:
 ---
 
 # __Error: Not Checksummed__
-###### ⏰ 3 min read
+###### {% read_time title "Error: Not Checksummed" %} min read
 ***
 
 Every Ethereum address has two versions to it, one that includes uppercase letters and one that doesn’t. These are called the checksummed and non-checksummed versions, respectively. Take for example, the MEW donation address:

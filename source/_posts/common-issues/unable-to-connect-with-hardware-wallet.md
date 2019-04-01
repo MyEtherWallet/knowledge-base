@@ -16,7 +16,7 @@ alias:
 ---
 
 # __Unable to Connect to Hardware Wallet__
-###### ⏰ 3 min read
+###### {% read_time title "Unable to Connect to Hardware Wallet" %} min read
 ***
 
 ## __Most issues with connection can be solved by following these troubleshooting tips:__

@@ -15,7 +15,7 @@ alias:
 ---
 
 # __Error: Insufficient Funds__
-###### ⏰ 3 min read
+###### {% read_time title "Insufficient Funds" %} min read
 ***
 
 If you are getting the error that looks like this: `Insufficient funds. Account you try to send transaction from does not have enough funds. Required XXXXXXXXXXXXXXXXXXX and got: XXXXXXXXXXXXXXXX`, it means you do not have enough ETH in your account to cover the cost of gas.
