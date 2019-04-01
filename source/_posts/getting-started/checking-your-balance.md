@@ -16,7 +16,7 @@ alias:
 ---
 
 # __Checking Your Balance__
-###### ⏰ {% read_time title "Checking Your Balance" %} min read
+###### {% read_time title "Checking Your Balance" %} min read
 ***
 
 It is not recommended to unlock your wallet every time you’d like to check your balance, for the security of your information. Instead, you can see all balances and transaction history through the use of an Ethereum blockchain explorer, like [Etherscan][etherscan] or [Ethplorer][ethplorer]. To check your balance, all you need is your public Ethereum address. This is 42 characters long and begins with an ‘0x….’.
