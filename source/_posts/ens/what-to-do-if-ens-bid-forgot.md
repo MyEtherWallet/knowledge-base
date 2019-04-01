@@ -15,12 +15,12 @@ alias:
 ---
 
 # __What to Do if You Forgot to Reveal Your ENS Bid__
-###### ⏰ 3 min read
+###### {% read_time title "What to Do if You Forgot to Reveal Your ENS Bid" %} min read
 ***
 
 ## __If There Are Other Bidders__
 
-You can get 0.5% back by manually revealing, as written up [here]().
+You can get 0.5% back by manually revealing, as written up [here][manualReveal].
 
 Unfortunately, you must reveal during the reveal period in order to win the name, or get the full amount back.
 
@@ -34,7 +34,7 @@ Three days later, reveal your original bid and you will get it. During this peri
 
 
 #### __To start an auction via MEW without bidding:__
-**Step 1.** [Access your wallet]() and head to the 'Send Transaction' area. 
+**Step 1.** [Access your wallet][accessWallet] and head to the 'Send Transaction' area. 
 
 **Step 2.** Send to the following address: `0x6090a6e47849629b7245dfa1ca21d94cd15878ef`.
 
@@ -47,7 +47,7 @@ Three days later, reveal your original bid and you will get it. During this peri
 
 
 #### __To get your data string:__
-**Step 1.** Head to [Etherscan's ENS Lookup](https://etherscan.io/enslookup?q=yourname.eth) interface. 
+**Step 1.** Head to [Etherscan's ENS Lookup][ensLookup] interface. 
 
 **Step 2.** Type in your name and press 'lookup'.
 
@@ -58,3 +58,7 @@ Three days later, reveal your original bid and you will get it. During this peri
 **Step 5.** Add `0xede8acdb` to the beginning.
 
 **Step 6.** It should look like this:  `0xede8acdb07aa9c7e03a795d250a2ac48bd73b9c7f8adab69a549cebd97fc157a093a5a4a`.
+
+[manualReveal]: /posts/ens/manually-reveal-ens-bid/
+[accessWallet]: /posts/getting-started/how-to-access-your-wallet/
+[ensLookup]: https://etherscan.io/enslookup?q=yourname.eth

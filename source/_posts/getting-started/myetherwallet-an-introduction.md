@@ -20,7 +20,7 @@ alias:
 
 # __MyEtherWallet: An Introduction__
 ##### We highly suggest you read through this entire introduction, for the safety of your funds.
-###### ⏰ {% read_time title "MyEtherWallet: An Introduction" %} min read
+###### {% read_time title "MyEtherWallet: An Introduction" %} min read
 ***
 
 MyEtherWallet (MEW) is an open-source, client-side interface that allows users to interact directly with the Ethereum blockchain, without having to join a centralized exchange.
@@ -35,7 +35,7 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 * Deploy and interact with smart contracts.
 * Send offline, through the use of signatures.
 * Initialize, bid on, and finalize ENS domain auctions.
-* Access a wealth of educational material from our [Knowledge Base]().
+* Access a wealth of educational material from our [Knowledge Base][kb].
 
 ## __What do 'open-source' and 'client-side' mean?__
 
@@ -91,16 +91,15 @@ You’re in charge of your own funds and information.
 [2]: /posts/transactions/how-to-send-a-transaction/
 [3]: /posts/getting-started/how-to-access-your-wallet/
 [4]: /posts/swap/swapping-via-kyber-bity-changelly/
-[5]: https://github.com/MyEtherWallet "MEW Github"
+[5]: https://github.com/MyEtherWallet
 [etherscan]: https://etherscan.io/
 [ethplorer]: https://ethplorer.io
-[ledger]: /
+[ledger]: https://www.ledger.com/?r=fa4b
 [trezor]: https://shop.trezor.io/?a=myetherwallet.com
 [EAL]: https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn
 [PhishFort]: https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc
 [Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
 [13]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
 [14]: http://google.com
-[15]: /posts/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/
-[16]: /posts/getting-started/how-to-create-a-wallet/
-
+[15]: /posts/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
+[kb]: https://kb.myetherwallet.com/
