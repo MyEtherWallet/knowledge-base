@@ -16,10 +16,10 @@ alias:
 ---
 
 # __Error: Unable to Locate Corresponding Transfer Event Log__
-###### ⏰ 3 min read
+###### {% read_time title "Error: Unable to Locate Corresponding Transfer Event Log" %} min read
 ***
 
-This error appears on [Etherscan](https://etherscan.io) when a sender tries to transfer out more tokens than they have.
+This error appears on [Etherscan][etherscan] when a sender tries to transfer out more tokens than they have.
 ## __This can be due to a few possible events:__
 * When adding a custom token:
     * You specified the incorrect token contract address (resulting in an attempt to send a token that you have none of).
@@ -32,6 +32,9 @@ This error appears on [Etherscan](https://etherscan.io) when a sender tries to t
 ## __How can I stop this from happening?__
 * Remove and re-add the custom token.
     * Be sure to specify the correct decimals and token contract address this time.
-    * Read our article on [adding custom tokens]().
+    * Read our article on [adding custom tokens][addCustom].
 
 * Make sure that you are attempting to send either the same amount of tokens that you have, or less.
+
+[etherscan]: https//www.etherscan.io/
+[addCustom]: /posts/tokens/how-to-add-custom-token/
