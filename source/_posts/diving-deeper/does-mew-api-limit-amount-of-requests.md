@@ -15,7 +15,7 @@ alias:
 ---
 
 # __Does MEW API Have a Limit on the Amount of Requests I Can Make?__
-###### ⏰ 3 min read
+###### {% read_time title "Does MEW API Have a Limit on the Amount of Requests I Can Make?" %} min read
 ***
 
 If you are a heavy user of our API or MyEtherWallet (MEW), you may get rate-limited. 
@@ -44,8 +44,12 @@ Our goal is to allow individuals to interact with Ethereum, not provide uber-rob
 
 If you are going to be using it more than 400 req per minute on average, or just want to ensure uptime, we strongly recommend you get your own node.
 
-Our backend infrastructure is on AWS and is open-source via Docker + CloudFormation walkthrough. You can actually do it yourself and run your own public or private node via [these instructions](https://github.com/MyEtherWallet/docker-geth-lb). 
+Our backend infrastructure is on AWS and is open-source via Docker + CloudFormation walkthrough. You can actually do it yourself and run your own public or private node via [these instructions][instructions]. 
 
-Or you could pay a small fee and use [QuikNode](https://quiknode.io/), which makes it even easier.
+Or you could pay a small fee and use [QuikNode][quiknode], which makes it even easier.
 
-For both of these options, you could connect to your new node via the 'Add Custom Node' option in the network selector in the top-right corner. Further details on how to connect to your own node can be found [here](), or you could connect directly via API.
+For both of these options, you could connect to your new node via the 'Add Custom Node' option in the network selector in the top-right corner. Further details on how to connect to your own node can be found [here][ownNode], or you could connect directly via API.
+
+[instructions]: https://github.com/MyEtherWallet/docker-geth-lb
+[quiknode]: https//quicknode.io/
+[ownNode]: /posts/networks-and-nodes/unable-to-connect-to-custom-node/
