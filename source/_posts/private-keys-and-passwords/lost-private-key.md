@@ -15,7 +15,7 @@ alias:
 ---
 
 # __Lost Private Key__
-###### ⏰ 3 min read
+###### {% read_time title "Lost Private Key" %} min read
 ***
  
 MyEtherWallet does not manage accounts with information such as passwords, private keys, or emails. In order to ensure your security and privacy, no sensitive data is ever saved, stored, or transmitted when you use MyEtherWallet. We only have access to the information that is publicly available on the blockchain. We do not have servers and we do not hold your assets.
@@ -36,6 +36,11 @@ Only users themselves can access and control their funds – this is the purpose
 * If you know when you created it, look through all files during that time period for any documents or screenshots.
 * Generate a new wallet via our interface and take a look at the different options you may have downloaded or saved. Sometimes backtracking can help jog your memory.
 
-In the future, we strongly recommend you use our companion app [MEWconnect](), or purchase [a hardware wallet]() for higher security. If you must use a private key, print out a paper version of your wallet, keep it in multiple physical locations, and only use it with an [offline version of MEW](). 
+In the future, we strongly recommend you use our companion app [MEWconnect][MEWconnect], or purchase [a hardware wallet][hardwareLedger] for higher security. If you must use a private key, print out a paper version of your wallet, keep it in multiple physical locations, and only use it with an [offline version of MEW][offlineMEW]. 
  
-You can read more about how to safely back up your wallet [here]().
+You can read more about how to safely back up your wallet [here][backitup].
+
+[MEWconnect]: /posts/mewconnect/mewconnect-user-guide/
+[hardwareLedger]: /posts/hardware-wallets/using-ledger-with-mew/
+[offlineMEW]: /posts/offline/offline-mew-looks-weird/
+[backitup]: /posts/mewconnect/mewconnect-101-recover/

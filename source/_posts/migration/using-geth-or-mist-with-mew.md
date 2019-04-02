@@ -15,7 +15,7 @@ alias:
 ---
 
 # __Using Geth / Mist With MEW__
-###### ⏰ 3 min read
+###### {% read_time title "Using Geth / Mist With MEW" %} min read
 ***
 
 ## __Geth & Mist__

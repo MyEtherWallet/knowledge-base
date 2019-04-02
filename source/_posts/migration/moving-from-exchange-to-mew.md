@@ -20,10 +20,10 @@ alias:
 ---
 
 # __Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW__
-###### ⏰ 3 min read
+###### {% read_time title "Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW" %} min read
 ***
 
-First, it’s important to tell [the difference between an exchange and MyEtherWallet (MEW)](). 
+First, it’s important to tell [the difference between an exchange and MyEtherWallet (MEW)][MEWdifferent]. 
 
 ## __Let’s review:__
 
@@ -41,6 +41,10 @@ We are decentralized, meaning there are no central servers or powers to control 
 
 What we DO offer is freedom and a true sense of security. You gain complete control over your finances and information. You have the security of knowing that even if MEW shut down, you could still access your funds with a number of other decentralized ETH wallet platforms, or even directly on the blockchain itself. You are the only one with your information, and if MEW gets hacked, it won’t affect you. Because your funds and usage are not stored in MEW. They are on the blockchain, and you access them anonymously. 
 
-Once you’ve made the distinction, you’ll be ready to [create your MEW wallet](). Before you do that, though, we suggest you read through our [‘Getting Started’]() category. It contains all the knowledge you need to begin your crypto journey with confidence. 
+Once you’ve made the distinction, you’ll be ready to [create your MEW wallet][create]. Before you do that, though, we suggest you read through our [‘Getting Started’][getstart] category. It contains all the knowledge you need to begin your crypto journey with confidence. 
 
 ### Bon voyage!
+
+[MEWdifferent]: /posts/getting-started/difference-between-mew-and-exchange/
+[create]: /posts/getting-started/how-to-create-a-wallet/
+[getstart]: /posts/getting-started/

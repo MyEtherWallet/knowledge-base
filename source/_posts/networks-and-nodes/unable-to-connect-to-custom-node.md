@@ -16,7 +16,7 @@ alias:
 ---
 
 # __Unable to Connect to Custom Node__
-###### ⏰ 3 min read
+###### {% read_time title "Unable to Connect to Custom Node" %} min read
 ***
 
 * Verify the URL you entered is correct.
