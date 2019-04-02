@@ -15,7 +15,7 @@ alias:
 ---
 
 # __MEWconnect 101: Wallet Overview__
-###### ⏰ 3 min read
+###### {% read_time title "MEWconnect 101: Wallet Overview" %} min read
 ***
 
 <iframe width="627" height="400" src="https://www.youtube.com/embed/RjgxxNgTBGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -12,12 +12,12 @@ primary_category_display_name: "MEWconnect"
 ---
 
 # __How to Change Your Password on MEWconnect__
-###### ⏰ 3 min read
+###### {% read_time title "How to Change Your Password on MEWconnect" %} min read
 ***
 
 To change your password on MEWconnect, all you need is your phone and your 24-word recovery phrase. 
 
-If you still remember your password and do not have your 24-word recovery phrase, please read this article on [how to backup your wallet]() (found in section 2). Resetting your wallet without knowing your recovery phrase will result in the permanent loss of your wallet.
+If you still remember your password and do not have your 24-word recovery phrase, please read this article on [how to backup your wallet][backitup] (found in section 2). Resetting your wallet without knowing your recovery phrase will result in the permanent loss of your wallet.
 
 If you do not remember your password and do not have your 24-word recovery phrase, there is nothing we can do. Retrace your steps and try to remember your password, or your wallet will be lost forever. 
 
@@ -58,3 +58,4 @@ If you do not remember your password and do not have your 24-word recovery phras
 <img src="/images/posts/mewconnect/YoureDoneMC.jpg" width="30%">
 
 
+[backitup]: /posts/mewconnect/mewconnect-user-guide/
