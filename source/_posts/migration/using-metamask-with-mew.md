@@ -14,7 +14,7 @@ alias:
 ---
 
 # __Using MetaMask with MEW__
-###### ⏰ 3 min read
+###### {% read_time title "Using MetaMask with MEW" %} min read
 ***
 
 Many users use MetaMask for it’s ease of use and integration with many popular crypto sites, but they still want to have the functionality that MEW offers. For this reason, we offer support for MetaMask wallets right in our interface. Connecting is simple!

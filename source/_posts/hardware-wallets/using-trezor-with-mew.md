@@ -15,10 +15,10 @@ alias:
 ---
 
 # __Using a Trezor Hardware Wallet with MEW__
-###### ⏰ 3 min read
+###### {% read_time title "Using a Trezor Hardware Wallet with MEW" %} min read
 ***
 
-Trezor Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. They are available for purchase [here](). 
+Trezor Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. They are available for purchase [here][buyTrezor]. 
 * \*Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.\*
 
 This particular hardware wallet supports a wide range of cryptocurrencies, but this guide is specifically made for accessing Ethereum and ERC-20 tokens while using MyEtherWallet (MEW). 
@@ -30,7 +30,7 @@ Without further ado, let’s begin!
 
 ## __The Initial Set-Up__
 
-**Step 1.** Unbox your Trezor! You will see some cards and instructions for set-up. Follow these instructions carefully! Plug in the Trezor to your computer and get started. Visit [trezor.io/start](https://trezor.io/start) to begin the process. 
+**Step 1.** Unbox your Trezor! You will see some cards and instructions for set-up. Follow these instructions carefully! Plug in the Trezor to your computer and get started. Visit [trezor.io/start][trezorStart] to begin the process. 
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor1.jpg" width="35%">
 <br /><br /><br /><br />
@@ -127,7 +127,7 @@ Please be advised ETH will be required for gas to move any tokens held in your o
 
 ## __How Do I Restore My Trezor to a New Device?__
 
-Trezor made a clear and easy to follow guide on how to restore your Trezor device [here](https://wiki.trezor.io/User_manual:Recovery).
+Trezor made a clear and easy to follow guide on how to restore your Trezor device [here][trezorSupport].
 
 
 
@@ -135,4 +135,10 @@ Trezor made a clear and easy to follow guide on how to restore your Trezor devic
 
 Most issues with the Trezor can be fixed by performing a hard refresh (using CTRL+F5), making sure all the firmware is updated to its latest release, and trying a new connecting cable. 
  
-If these troubleshooting options did not fix your issue, MEW has an extensive knowledge base that you can find [here](). There is a big chance that it's already listed under ‘Common Issues’. If not, feel free to contact us at support@myetherwallet.com. We are always happy to help!
+If these troubleshooting options did not fix your issue, MEW has an extensive knowledge base that you can find [here][mewkb]. There is a big chance that it's already listed under ‘Common Issues’. If not, feel free to contact us at support@myetherwallet.com. We are always happy to help!
+
+
+[buyTrezor]: https://shop.trezor.io/?a=myetherwallet.com
+[trezorSupport]: https://wiki.trezor.io/User_manual:Recovery
+[mewkb]: https://kb.myetherwallet.com
+[trezorStart]: https://trezor.io/start

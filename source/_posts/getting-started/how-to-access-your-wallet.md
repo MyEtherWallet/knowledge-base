@@ -15,13 +15,13 @@ alias:
 
 # __How to Access Your Wallet__
 ##### <i>This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to [this article][createWallet].</i>
-###### ⏰ {% read_time title "How to Access Your Wallet" %} min read
+###### {% read_time title "How to Access Your Wallet" %} min read
 ***
 MyEtherWallet (MEW) offers a variety of ways to access one’s Ethereum wallet, by selecting the ‘Access My Wallet’ option on the front page.
 
 They are, from most to least recommended:
 
-* Hardware Wallets ([Ledger Nano S][ledger], [Trezor][trezor], [Digital Bitbox][bitbox], [Secalot][scalot], etc.)
+* Hardware Wallets ([Ledger Nano S][ledger], [Trezor][trezor], [Digital Bitbox][bitbox], [Finney][finney], etc.)
 * MEWconnect
 * MetaMask
 * Keystore/JSON File + Password
@@ -71,7 +71,7 @@ The Keystore/JSON is a file that holds an encrypted version of one’s private k
 
 
 ## __To connect with Keystore/JSON + Password:__
-#### __This is not a recommended way to connect. We highly suggest [using MEW offline][usingOffline] for this option.__
+#### __This is not a recommended way to connect. We highly suggest [using MEW offline][offline] for this option.__
 
 **Step 1.** On the MEW front page, select 'Access My Wallet'.
 
@@ -123,11 +123,11 @@ The private key is a string of 64 characters tied permanently to a public addres
 
 
 [createWallet]: /posts/getting-started/how-to-create-a-wallet/
-[migrating]: /posts/migration/moving-from-exchange-to-mew/
-[mewConnect]: /posts/mewconnect/mewconnect-101-create/
+[migrating]: /posts/migration/
+[mewConnect]: /posts/mewconnect/mewconnect-user-guide/
 [keystoreJson]: /posts/security-and-privacy/what-is-a-keystore-file/
-[ledger]: /
-[trezor]: /
-[bitbox]: /
-[scalot]: /
+[ledger]: https://www.ledger.com/?r=fa4b
+[trezor]: https://shop.trezor.io/?a=myetherwallet.com
+[bitbox]: https://shiftcrypto.ch/?ref=mew
+[finney]: http://shop.sirinlabs.com/?rfsn=2397639.54fdf&utm_source=refersion&utm_medium=affiliate&utm_campaign=2397639.54fdf
 [offline]: /posts/offline/offline-mew-looks-weird/

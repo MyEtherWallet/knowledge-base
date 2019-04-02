@@ -15,20 +15,20 @@ alias:
 ---
 
 # __Swap Was Canceled or Wasn’t Completed__
-###### ⏰ 3 min read
+###### {% read_time title "Swap Was Canceled or Wasn't Completed" %} min read
 ***
 
 Time-constricted transactions can be tough in times of high volume due to various factors, like the transaction queue, ongoing token sales, the current state of the network, etc.
 
 If you sent coins or tokens to the specified swap address, but have not received your funds in return, please reach out to both support@myetherwallet.com and whichever exchange you completed the swap through. Their support emails are:
 
-* Bity - mew@bity.com
+* Bity - Their help center is integrated into their site
 
 * Kyber Network - support@kyber.network 
 
-* Changelly - 
+* Changelly - support@changelly.com
 
-We recommend going back to our swap section and clicking the ‘Issue with your Swap? Contact support.’ link at the bottom of the page. Or, click [here]().
+We recommend going back to our swap section and clicking the ‘Issue with your Swap? Contact support.’ link at the bottom of the page. 
 
 This will autofill all the information we need to resolve your claim, including:
 

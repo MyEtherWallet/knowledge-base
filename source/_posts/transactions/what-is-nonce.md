@@ -13,7 +13,7 @@ alias:
 ---
 
 # __What is Nonce?__
-###### ⏰ 3 min read
+###### {% read_time title "What is Nonce?" %} min read
 ***
 
 In Ethereum, every transaction has a nonce. The nonce is the number of transactions sent from a given address.

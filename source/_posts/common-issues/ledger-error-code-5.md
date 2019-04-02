@@ -15,7 +15,7 @@ alias:
 ---
 
 # __Ledger: Error Code 5__
-###### ⏰ 3 min read
+###### {% read_time title "Ledger: Error Code 5" %} min read
 ***
 
 If you’re getting the error code 5, this means that your Ledger is opened and being used by another application, such as Ledger Live. 

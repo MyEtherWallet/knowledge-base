@@ -15,7 +15,7 @@ alias:
 
 # __A Glossary of Common Terms in the Ethereum / Crypto Community__
 ##### <i>Here is a list of terms you may encounter while using MyEtherWallet (MEW).<br />You can also [read in Spanish][enEspanol], thanks to faraggi.</i>
-###### ⏰ {% read_time title "A Glossary of Common Terms in the Ethereum / Crypto Community" %} min read
+###### {% read_time title "A Glossary of Common Terms in the Ethereum / Crypto Community" %} min read
 ***
 
 ## __Wallet__
@@ -98,8 +98,8 @@ alias:
 ## __Address Identicon / Address Icon__
 * The colorful blob of colors that corresponds to your address.
 * It is an easy way to see if your address is correct.
-* [Example 1](http://i.imgur.com/lHUrIiZ.jpg)
-* [Example 2](http://i.imgur.com/FvyLewS.jpg)
+* [Example 1][example1]
+* [Example 2][example2]
 * Note: The above addresses are a single character different but have remarkably different icons & colors. Even one difference in character will result in a completely separate wallet.
 
 
@@ -130,7 +130,7 @@ alias:
 * The more random something is, the more entropy it has, and the more secure it is.
 * Usually defined in "bits of entropy", or the number of years it would take to brute-force a ____ (i.e. private key) derived with that much entropy.
 * Ethereum private keys are 256-bit keys
-* 24-Word mnemonic phrases are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). `11 * 24 = 264`. The last word is a checksum (read more about checksum [here][checkSum]).
+* 24-Word mnemonic phrases are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). `11 * 24 = 264`. The last word is a checksum (read more about checksum [here][checkSum].
 
 
 
@@ -183,7 +183,9 @@ alias:
 ##### All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome.
 
 [enEspanol]: https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md
-[pubPvtKeys]: /
-[hwWallets]: /posts/hardware-wallets/using-trezor-with-mew/
+[pubPvtKeys]: /posts/security-and-privacy/what-is-a-keystore-file/
+[hwWallets]: /posts/hardware-wallets/using-ledger-with-mew/
 [smartContracts]: /posts/diving-deeper/what-is-a-smart-contract/
-[checkSum]: /
+[checkSum]: /posts/common-issues/not-checksummed/
+[example1]: http://i.imgur.com/lHUrIiZ.jpg
+[example2]: http://i.imgur.com/FvyLewS.jpg

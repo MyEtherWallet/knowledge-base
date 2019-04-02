@@ -16,14 +16,14 @@ alias:
 ---
 
 # __Manually Revealing Your ENS Bid__
-###### ⏰ 3 min read
+###### {% read_time title "Manually Revealing Your ENS Bid" %} min read
 ***
 
 ## __Find the Transaction Hash for Your Bid__
 First, look up your address on Etherscan.io in order to find the transaction in which you placed your bid.
 
 #### __Look for:__
-* An outgoing transaction (which shows as orange) to [ENS-Registrar](https://etherscan.io/address/0x6090a6e47849629b7245dfa1ca21d94cd15878ef).
+* An outgoing transaction (which shows as orange) to [ENS-Registrar][ensRegistrar].
 * It should have an ETH value `>= 0.01 ETH` (not one that says `0 ETH`).
 * If you are just now revealing your bid, it will be a transaction sent 2 - 4 days ago.
 * When you click on the transaction hash, it should show 'Function: newBid(bytes32 sealedBid)' under 'Input Data'.
@@ -66,4 +66,7 @@ ENS Name you Bid On (no '.eth' at the end!), or the namehash from your long stri
 
 **Step 4.** Click your transaction hash after you send it. Ensure there are no errors (you may have to refresh after a minute or two.)
 
-**Step 5.** In a new tab, head to [Etherscan's ENS Lookup](https://etherscan.io/enslookup?q=yourname.eth) interface and type in the name you bid on. Make sure that you see a very recent transaction from your address with 'Unseal Bid' next to it.
+**Step 5.** In a new tab, head to [Etherscan's ENS Lookup][ensLookup] interface and type in the name you bid on. Make sure that you see a very recent transaction from your address with 'Unseal Bid' next to it.
+
+[ensRegistrar]: https://etherscan.io/address/0x6090a6e47849629b7245dfa1ca21d94cd15878ef
+[ensLookup]: https://etherscan.io/enslookup?q=yourname.eth

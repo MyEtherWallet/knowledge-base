@@ -16,9 +16,11 @@ alias:
 ---
 
 # __Using a Hardware Wallet With a Custom Node__
-###### ⏰ 3 min read
+###### {% read_time title "Using a Hardware Wallet With a Custom Node" %} min read
 ***
 
 Benjaminion wrote up an excellent guide on how to achieve this.
 
-You can read it [here](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet).
+You can read it [here][excellentGuide].
+
+[excellentGuide]: https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet

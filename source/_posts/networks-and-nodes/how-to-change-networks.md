@@ -17,7 +17,7 @@ alias:
 ---
 
 # __How to Change Networks (Access Ropsten, ETC, and more!)__
-###### ⏰ 3 min read
+###### {% read_time title "How to Change Networks (Access Ropsten, ETC, and more!)" %} min read
 ***
 
 Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, but want to fool around on the Ropsten test network first? Or maybe you’re just interested in other networks that have forked off of the Ethereum blockchain? If any of the above are true, this is the article for you.
@@ -26,9 +26,9 @@ Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, 
 
 ## __Using MEWconnect, MetaMask, or a Keystore File/Mnemonic Phrase/Private Key__
 
-**Step 1.** [Access your wallet]() by choosing the desired method of access.
+**Step 1.** [Access your wallet][accessMEW] by choosing the desired method of access.
 
-* We do not recommend using a Keystore File/Mnemonic Phrase/Private Key to access your funds. If you use one of these methods, we highly suggest [using MEW offline](), or [creating a new wallet with MEWconnect]() and transferring your funds. 
+* We do not recommend using a Keystore File/Mnemonic Phrase/Private Key to access your funds. If you use one of these methods, we highly suggest [using MEW offline][offlineMEW], or [creating a new wallet with MEWconnect][createMEWconnect] and transferring your funds. 
 
 **Step 2.** On your wallet’s overview page, you will see a ‘Network’ section in the upper right hand corner. Click the icon that says ‘Open networks’ when hovered over.
 
@@ -46,3 +46,7 @@ Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, 
 * You will notice there are separate derivation paths for ETC and ETH. You do not have to change to the ETC path in order to access your ETC. Changing the derivation path will produce a different list of Ethereum addresses than you may be used to seeing. Simply change the network to ETC, and feel free to access your familiar ETH address through the ETH derivation path. 
 
 **Step 3.** Connect with your device, and you’re done! You will be directed to your wallet’s overview page on the desired network.
+
+[accessMEW]: /posts/getting-started/how-to-access-your-wallet/
+[offlineMEW]: /posts/offline/offline-mew-looks-weird/
+[createMEWconnect]: /posts/mewconnect-101-create/
