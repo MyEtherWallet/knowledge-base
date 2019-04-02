@@ -16,10 +16,10 @@ alias:
 ---
 
 # __Adding Your Token as a Default Token__
-###### ⏰ 3 min read
+###### {% read_time title "Adding Your Token as a Default Token" %} min read
 ***
 
-If you are someone who is just experimenting with tokens, you can [add a custom token]() to your local version of MyEtherWallet (MEW).
+If you are someone who is just experimenting with tokens, you can [add a custom token][addCustom] to your local version of MyEtherWallet (MEW).
 
 If you have a token that a lot of other people also have, or will have in the coming days, you can add it as a permanent, default token to our site. 
 
@@ -40,7 +40,7 @@ If you have a token that a lot of other people also have, or will have in the co
 
 ### 1. Submit your tokens as Default Tokens.
 * Go to https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens/eth.
-    * If your token exists on a different network, you can [add them here](https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens).
+    * If your token exists on a different network, you can [add them here][addhere].
 * Login or join GitHub.
 * Click the pencil icon in upper right.
 * Scroll to the letter of your token (they are in alphabetical order).
@@ -91,3 +91,6 @@ We now provide users with the ability to enter the address, and MEW will auto-po
 * Click the "Create Pull Request" button, twice.
 * That's it. You successfully made a new pull request! 
 * We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
+
+[addCustom]: /posts/tokens/how-to-add-custom-token/
+[addhere]: https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens

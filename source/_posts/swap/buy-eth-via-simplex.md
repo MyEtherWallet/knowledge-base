@@ -16,7 +16,7 @@ primary_category_display_name: "Swap"
 ---
 
 # __Buy ETH via Simplex__
-###### ⏰ 3 min read
+###### {% read_time title "Buy ETH via Simplex" %} min read
 ***
 
 Our partner Simplex allows MEW users to securely buy ETH with a credit card! 
@@ -25,7 +25,7 @@ Our partner Simplex allows MEW users to securely buy ETH with a credit card!
 
 ## __Here’s how to find it:__
 
-**Step 1.** [Access your wallet](). 
+**Step 1.** [Access your wallet][accessMEW]. 
 
 **Step 2.** Navigate to the swap section of your wallet. 
 * This area is located to the left of your open wallets overview page. 
@@ -44,3 +44,5 @@ Our partner Simplex allows MEW users to securely buy ETH with a credit card!
 * Simplex has a daily limit of `$20k`, with a monthly limit of `$50k`. 
 
 If you are having issues with your purchase, Simplex can be reached at support@simplex.com. 
+
+[accessMEW]: /posts/getting-started/how-to-access-your-wallet/

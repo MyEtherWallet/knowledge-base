@@ -13,7 +13,7 @@ alias:
 ---
 
 # __What is Gas?__
-###### ⏰ 3 min read
+###### {% read_time title "What is Gas?" %} min read
 ***
 
 <img src="/images/posts/transactions/tx_pool_infographic.png" width="80%">
@@ -55,7 +55,7 @@ Therefore, the total transaction fee in this scenario would be `0.00042 ETH`.
 
 Sending tokens will typically take a gas limit of `50000 - 100000`, so the total transaction fee increases to `0.001 ETH - 0.002 ETH`.
 
-You can use our tool to calculate GWEI <-> WEI <-> USD [here](), which can be helpful when you want to know your transaction fee in ETH, rather than GWEI.
+You can use our tool to calculate GWEI <-> WEI <-> USD [here][MEWhelp], which can be helpful when you want to know your transaction fee in ETH, rather than GWEI.
 
 
 
@@ -155,10 +155,14 @@ Someone paid `$6000+` to send a failed transaction. That can't feel good.
 
 
 ## __Where can I see what miners are accepting?__
-Start here, at [EthGasStation](http://ethgasstation.info/). 
+Start here, at [EthGasStation][gasstation]. 
 
 (At the time of this writing) Below `20 GWEI` the blocks are almost all full, which means if you set lower than that you'll have to wait in line with everyone else.
 
 A very awesome miner, miningpoolhub, accepts a `2 GWEI` price, but their blocks are always full and they only account for `9%` of mining, which means about `1` in every `10` blocks (`~150 seconds`) will accept transactions with a `2 GWEI` gas price. And when it does, it is full, so you may have to wait for a few of those.
 
-[EthGasStation's Calculator](https://ethgasstation.info/calculatorTxV.php) will let you estimate how long it will be before your transaction is accepted at a specific gas price.
+[EthGasStation's Calculator][gascalc] will let you estimate how long it will be before your transaction is accepted at a specific gas price.
+
+[MEWhelp]: https://www.myetherwallet.com/convert-units
+[gasstation]: http://ethgasstation.info/
+[gascalc]: https://ethgasstation.info/calculatorTxV.php

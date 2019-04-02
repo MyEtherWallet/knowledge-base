@@ -17,12 +17,12 @@ primary_category_display_name: "Swap"
 ---
 
 # __Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly__
-###### ⏰ 3 min read
+###### {% read_time title "Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly" %} min read
 ***
 
 Here at MyEtherWallet (MEW), we’re all about fostering a seamless user experience, built on a foundation of security. This is why we’ve partnered with multiple exchanges, such as Bity, Kyber Network, and Changelly, to bring you competitive price points for your swaps.
 
-To utilize our swap feature, first you must [access your wallet](). 
+To utilize our swap feature, first you must [access your wallet][accessMEW]. 
 
 In the wallet overview area of your account, you’ll see a ‘Swap’ option to the left. Click there to be redirected to our exchanging interface. 
 
@@ -40,15 +40,32 @@ If you have issues with your swap, please reach out to the relevant exchange’s
 
 In case you don’t see your tokens or coins available for swapping on MEW, we have made a short list of reputable exchanges we are familiar with. They all offer services to buy, sell, and swap various cryptocurrencies. 
 
-* Bitfinex: [Website](https://www.bitfinex.com/) · [Support](https://www.bitfinex.com/support)
-* Bittrex: [Website](https://bittrex.com/Home/Markets) · [Support](https://bittrex.com/Home/Contact)
-* Bity: [Website](https://bity.com/af/jshkb37v)
-* Changelly: [Website](https://changelly.com/about)
-* Coinbase: [Support](https://support.coinbase.com/)
-* Gemini: [Support](https://gemini24.zendesk.com/hc/en-us/requests/new) · [FAQ](https://gemini24.zendesk.com/hc/en-us)
-* Kraken: [Support](https://support.kraken.com/hc/en-us)
-* Liqui: [Support](https://liqui.freshdesk.com/support/home)
-* Poloniex: [Support](https://poloniex.com/support/)
-* Shapeshift: [Slack](https://shapeshiftcommunity.herokuapp.com/) · [Reddit](https://www.reddit.com/r/shapeshiftio) · [Support](https://shapeshift.zendesk.com/hc/en-us/requests/new)
+* Bitfinex: [Website][bitWebsite] · [Support][bitSupport]
+* Bittrex: [Website][biWebsite] · [Support][biSupport]
+* Bity: [Website][bWebsite]
+* Changelly: [Website][chWebsite]
+* Coinbase: [Support][cSupport]
+* Gemini: [Support][gSupport] · [FAQ][gFAQ]
+* Kraken: [Support][kSupport]
+* Liqui: [Support][lSupport]
+* Poloniex: [Support][pSupport]
+* Shapeshift: [Slack][sSlack] · [Reddit][sReddit] · [Support][sSupport]
 
 Not all exchanges support all coins and fiat types, so take a look around to find one that fits your location and circumstances. Always google ‘scam + exchange name’ and read about people’s experiences before choosing to send to a random service or website.
+
+[accessMEW]: /posts/getting-started/how-to-access-your-wallet
+[bitWebsite]: https://www.bitfinex.com/
+[bitSupport]: https://www.bitfinex.com/support
+[biWebsite]: https://bittrex.com/Home/Markets 
+[biSupport]: https://bittrex.com/Home/Contact
+[bWebsite]: https://bity.com/af/jshkb37v
+[chWebsite]: https://changelly.com/about
+[cSupport]: https://support.coinbase.com/
+[gSupport]: https://gemini24.zendesk.com/hc/en-us/requests/new
+[gFAQ]: https://gemini24.zendesk.com/hc/en-us
+[kSupport]: https://support.kraken.com/hc/en-us
+[lSupport]: https://liqui.freshdesk.com/support/home
+[pSupport]: https://poloniex.com/support/
+[sSlack]: https://shapeshiftcommunity.herokuapp.com/
+[sReddit]: https://www.reddit.com/r/shapeshiftio
+[sSupport]: https://shapeshift.zendesk.com/hc/en-us/requests/new
