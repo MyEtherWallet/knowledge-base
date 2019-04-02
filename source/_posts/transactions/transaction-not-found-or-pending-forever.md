@@ -16,7 +16,7 @@ alias:
 ---
 
 # __Transactions are 'Not Found' or 'Pending' Forever__
-###### ⏰ 3 min read
+###### {% read_time title "Transactions are 'Not Found' or 'Pending' Forever" %} min read
 ***
 
 Often times, a combination of new users, increased interest in Ethereum, games like CryptoKitties, and random ICOs can create quite a mess of the transaction pool, causing a lot of transactions to remain pending longer than usual. This is a network issue that affects all exchanges and ETH users.
@@ -26,11 +26,10 @@ There is simply not enough space in the blocks for the miners to mine all the tr
 
 
 ## __Helpful Tools and Resources to Get Your Transaction to Send__
-* See all the transactions that are pending [here]().
-* [Learn about transaction fees (gas)](), and how to get your transaction to go through.
+* [Learn about transaction fees (gas)][whatsgas], and how to get your transaction to go through.
 * Replace a pending transaction that you sent with too low gas.
-* See what the optimal gas price currently is [here]().
-* [Learn about Nonce](), and how it controls which transactions are mined (or not).
+* See what the optimal gas price currently is [here][optimalGas].
+* [Learn about Nonce][whatsnonce], and how it controls which transactions are mined (or not).
 
 
 
@@ -47,3 +46,7 @@ There is simply not enough space in the blocks for the miners to mine all the tr
 ## __For Visual Learners__
 
 <img src="/images/posts/transactions/tx_pool_infographic.png" width="80%">
+
+[whatsgas]: /posts/transactions/what-is-gas/
+[optimalGas]: https://ethgasstation.info/
+[whatsnonce]: /posts/transactions/what-is-nonce/

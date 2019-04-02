@@ -13,7 +13,7 @@ primary_category_display_name: "Security And Privacy"
 
 # __What is a Mnemonic Phrase?__
 #### __Mnemonic phrases are not a recommended way of accessing MyEtherWallet (MEW).  For more information on other methods of access, check out our article on [how to access a wallet]().__
-###### ⏰ 3 min read
+###### {% read_time title "What is a Mnemonic Phrase?" %} min read
 ***
  
 Mnemonic phrases, also known as ‘seed words’ or 'recovery phrases', are ordered lists of 12 - 24 words which bring you to specific wallet addresses. These are typically used for recovery, and they are not meant to be used as the main method of access for anyone’s wallet. They can sometimes be paired with a password as well, for added encryption and security. 

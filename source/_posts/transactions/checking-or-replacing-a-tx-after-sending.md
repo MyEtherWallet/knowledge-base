@@ -17,7 +17,7 @@ alias:
 ---
 
 # __Checking or Replacing a Transaction After it's Been Sent__
-###### ⏰ 3 min read
+###### {% read_time title "Checking or Replacing a Transaction After it's Been Sent" %} min read
 ***
 
 ## __Can I cancel, replace, or do anything once a transaction has been sent?__

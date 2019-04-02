@@ -17,7 +17,7 @@ alias:
 ---
 
 # __How to Add a Custom Token__
-###### ⏰ 3 min read
+###### {% read_time title "How to Add a Custom Token" %} min read
 ***
 
 Any ERC20 token can be added to your local MEW interface by following these instructions.
@@ -30,7 +30,7 @@ First you’ll want to make sure your token isn’t already listed in our interf
 
 
 
-**Step 1.** [Access your wallet](). 
+**Step 1.** [Access your wallet][accessMEW]. 
 
 
 
@@ -53,7 +53,7 @@ You will need three pieces of information to add a custom token with our interfa
 
 
 
-**Step 1.** Head to [Etherscan](https://etherscan.io). 
+**Step 1.** Head to [Etherscan][etherscan]. 
 
 
 
@@ -130,4 +130,9 @@ If your custom tokens are disappearing every time you access our interface, make
 
 ## __I’d like it to be a default token!__
 
-We are always happy to support new tokens in our default list. To achieve this, simply submit a pull request to [our repo on GitHub](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth). For more information on this process, visit our article on [how to add a default token](). 
+We are always happy to support new tokens in our default list. To achieve this, simply submit a pull request to [our repo on GitHub][githubMEW]. For more information on this process, visit our article on [how to add a default token][addDefault]. 
+
+[accessMEW]: /posts/getting-started/how-to-access-your-wallet/
+[etherscan]: https://etherscan.io
+[addDefault]: /posts/tokens/adding-token-as-a-default/
+[githubMEW]: https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth
