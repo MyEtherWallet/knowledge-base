@@ -14,7 +14,7 @@ alias:
 ---
 
 # __MEWconnect User Guide__
-###### ⏰ 3 min read
+###### {% read_time title "MEWconnect User Guide" %} min read
 ***
 
 
@@ -71,7 +71,7 @@ You're done! All backed up and ready to connect to MEW
 ## __3. Connect with MEW__
 **Step 1.** Unlock your wallet on MEWconnect.
 
-**Step 2.** Find a desktop computer. Head to the [MEWconnect](https://mewconnect.myetherwallet.com/#/) site.
+**Step 2.** Find a desktop computer. Head to the [MEWconnect][mewconnect] site.
 
 Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   the URL. We recommend the Google Chrome browser.
 
@@ -97,11 +97,11 @@ You’re done! You can now use our interface as usual, with the MEWconnect app a
 ## __4. Send a Transaction__
 **Step 1.**  Unlock your wallet on MEWconnect.
 
-**Step 2.**  Connect to the [MEWconnect](https://mewconnect.myetherwallet.com/#/) site, as shown above.
+**Step 2.**  Connect to the [MEWconnect][mewconnect] site, as shown above.
 
 **Step 3.**  Follow the process of a regular transaction.
 
-Fill in the ‘To Address’, ‘Amount to Send’, and ‘Gas Limit’ fields. If you have any questions, refer to our article on [How to Send a Transaction]().
+Fill in the ‘To Address’, ‘Amount to Send’, and ‘Gas Limit’ fields. If you have any questions, refer to our article on [How to Send a Transaction][sendaTX].
 
 **Step 4.**  Confirm your transaction on the MEWconnect app.
 
@@ -139,4 +139,7 @@ You can share your address with anyone you’d like by clicking the arrow button
 
 ***
 
-#### To download the MEWconnect app, visit [mewconnect.myetherwallet.com](https://mewconnect.myetherwallet.com/#/).
+#### To download the MEWconnect app, visit [mewconnect.myetherwallet.com][mewconnect].
+
+[mewconnect]: https://mewconnect.myetherwallet.com/#/
+[sendaTX]: /posts/transactions/how-to-send-a-transaction/
