@@ -15,7 +15,7 @@ alias:
 ---
 
 # __Ensuring MEW Doesn’t Give Different People the Same Public Address__
-###### ⏰ 3 min read
+###### {% read_time title "Ensuring MEW Doesn't Give Different People the Same Public Address" %} min read
 ***
 
 The first thing to understand is that MyEtherWallet (MEW) does not ‘create’ any private keys or public addresses. MEW (and other ETH wallet services) randomly generate private key/public address pairings for a user when ‘creating a new wallet’. 

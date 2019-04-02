@@ -18,7 +18,7 @@ alias:
 ---
 
 # __What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?__
-###### ⏰ {% read_time title "What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?" %} min read
+###### {% read_time title "What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?" %} min read
 ***
 
 Your ETH & ERC20 tokens are on the Ethereum blockchain, regardless of what service you use to access them. When you move them, you are sending them from one address on the blockchain to another. These are simply lines of code. Your wallet file, hardware wallet, the interface you interact with, or your private key  do not have funds in them. These are simply ways of access, which gives you the ability to prove ownership over coins that are on the blockchain itself.
@@ -46,5 +46,5 @@ This allows you to have the more traditional username / password account dynamic
 If this seems very overwhelming, we recommend purchasing a [Ledger][ledger] or [Trezor][trezor] hardware wallet. These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.
 
 
-[ledger]: /
-[trezor]: /
+[ledger]: https://www.ledger.com/?r=fa4b
+[trezor]: https://shop.trezor.io/?a=myetherwallet.com

@@ -21,10 +21,10 @@ alias:
 
 # __Pro-Tips: How to Avoid Phishing/Scams__
 #### __We’ve compiled a list of tips and tricks to avoid common phishing/scam techniques.__
-###### ⏰ 3 min read
+###### {% read_time title "Pro-Tips: How to Avoid Phishing/Scams" %} min read
 ***
 
-**1. Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc), or [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige).** These Chrome Extensions warn you when visiting malicious sites.
+**1. Install [EAL][EAL], [PhishFort][PhishFort], or [Cryptonite][Cryptonite].** These Chrome Extensions warn you when visiting malicious sites.
 <br /><br /><br />
 
 **2. Never click a link sent to you, even if it looks like it was sent by a legitimate crypto company.** Search for the service on Google, and find the information there. (Make sure it’s not an ad!)
@@ -66,3 +66,6 @@ alias:
 **10. Last, but not least, don't be afraid to ask for help!** We can always be reached at support@myetherwallet.com. Our support team is happy to help with any issue, big or small.
 <br /><br /><br />
 
+[EAL]: https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn
+[PhishFort]: https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc
+[Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige

@@ -16,18 +16,18 @@ alias:
 ---
 
 # __Importing a V2 JSON File__
-###### ⏰ 3 min read
+###### {% read_time title "Importing a V2 JSON File" %} min read
 ***
 
 These random V2 JSON files always make things complex. We apologize in advance.
 
 You need to convert it to the standard V3 ('Keystore / UTC') file. The easiest way is using geth.
 
-Download [the appropriate version of the geth](https://github.com/ethereum/go-ethereum/releases) based on your operating system.
+Download [the appropriate version of the geth][gethVersion] based on your operating system.
 
 Once you download it, extract the zip. Also copy your V2 JSON file into the same folder.
 
-There are really explicit instructions for PC and Mac users [here](https://ethereum.stackexchange.com/questions/465/How To-import-a-plain-private-key-into-geth-or-mist).
+There are really explicit instructions for PC and Mac users [here][explicitInstruction].
 
 Now you have to open a command line window and type in the following command:
 
@@ -41,7 +41,11 @@ This will import your file into geth and convert it to the latest (V3) keystore 
 * Linux: `~/.ethereum`
 * Windows: `%APPDATA%\Ethereum`
 
-Copy that file, and select it on [MEW](https://www.myetherwallet.com), and you're good to go!
+Copy that file, and select it on [MEW][MEW], and you're good to go!
 
 Moving foward, use this file. Keep a backup of it (and the old file, just in case).
+
+[gethVersion]: https://github.com/ethereum/go-ethereum/releases
+[explicitInstruction]: https://ethereum.stackexchange.com/questions/465/How-to-import-a-plain-private-key-into-geth-or-mist
+[MEW]: https://www.myetherwallet.com
 

@@ -14,7 +14,7 @@ alias:
 ---
 
 # __Offline MEW Looks Weird__
-###### ⏰ 3 min read
+###### {% read_time title "Offline MEW Looks Weird" %} min read
 ***
 
 Make sure that you unzip all the contents of the `.zip` into a separate, empty folder. Then, open the `index.html` file in your browser. 

@@ -12,7 +12,7 @@ primary_category_display_name: "Common Issues"
 ---
 
 # __Error: Token Already Exists!__
-###### ⏰ 3 min read
+###### {% read_time title "Error: Token Already Exists!" %} min read
 ***
 
 A 'Token Already Exists' error can occur when an incorrect contract address was added as a custom token. 
@@ -21,7 +21,7 @@ To find the correct contract address, follow these instructions:
 
 
 
-## __Using [Ethplorer.io](https://ethplorer.io)__
+## __Using [Ethplorer.io][ethplorer]__
 
 **Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
 <br />
@@ -34,7 +34,7 @@ To find the correct contract address, follow these instructions:
 <br /><br /><br /><br />
 
 
-## __Using [Etherscan.io](https://etherscan.io)__
+## __Using [Etherscan.io][etherscan]__
 **Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
 <br />
 <img src="/images/posts/common-issues/Etherscan1Error.jpg" style="width: 40%;">
@@ -53,3 +53,6 @@ This error can also occur if the symbol of your token is the same as a symbol al
 Using our above example, instead of 'SNT', you would add the token as 'SNT2'.
 
 This has no actual effect on the token itself, but is just a placeholder to make organizing your tokens easier.
+
+[ethplorer]: https://www.ethplorer.io/
+[etherscan]: https://www.etherscan.io/

@@ -16,7 +16,7 @@ alias:
 
 # __How to Create a Wallet__
 ##### If you are currently using a Hardware wallet (such as Ledger or Trezor) or another wallet service (such as MetaMask), this article is not for you. This is only for new users, looking to begin from scratch.
-###### ⏰ {% read_time title "How to Create a Wallet" %} min read
+###### {% read_time title "How to Create a Wallet" %} min read
 ***
 
 MyEtherWallet (MEW) offers three ways to create a new ETH wallet. 
@@ -81,9 +81,10 @@ The following information is for those who wish to proceed, regardless of our wa
 
 
 
-For more information on how to access your new wallet, click <a href="">here</a>.<p>
+For more information on how to access your new wallet, click [here][accessWallet].
 
 [mewConnect]: /posts/mewconnect/mewconnect-101-create/
 [offline]: /posts/offline/offline-mew-looks-weird/
 [keystoreJson]: /posts/security-and-privacy/what-is-a-keystore-file/
 [mnemonic]: /posts/security-and-privacy/what-is-a-mnemonic-phrase/
+[accessWallet]: /posts/getting-started/how-to-access-your-wallet/

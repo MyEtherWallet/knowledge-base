@@ -41,7 +41,7 @@ Be aware that when checking ETC balances, you should use an Ethereum Classic blo
 
 ## __Ethplorer__
 
-**Step 1.** Head to [Ethplorer.io](https://ethplorer.io).
+**Step 1.** Head to [Ethplorer.io][ethplorer].
 
 **Step 2.** In the search bar, enter your Ethereum public address, (0x…..).
 
@@ -55,6 +55,5 @@ Be aware that when checking ETC balances, you should use an Ethereum Classic blo
 
 [etherscan]: https://etherscan.io
 [ethplorer]: https://ethplorer.io
-[hwWallets]: /posts/hardware-wallets/using-trezor-with-mew/
-[customTokens]: /
-[checksum]: /
+[customTokens]: /posts/tokens/how-to-add-custom-token/
+[checkSum]: /posts/common-issues/not-checksummed/
