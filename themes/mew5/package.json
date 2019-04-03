@@ -1,7 +1,8 @@
 {
-  "name": "hexo-theme-landscape",
-  "version": "0.0.2",
-  "private": true,
+  "name": "hexo-theme-mew",
+  "version": "0.0.1",
+  "author": "MyEtherWallet",
+  "description": "Theme for MyEtherWallet version 5 knowledge base",
   "devDependencies": {
     "grunt": "~0.4.2",
     "load-grunt-tasks": "~0.2.0",
