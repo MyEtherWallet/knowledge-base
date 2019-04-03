@@ -1,7 +1,8 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
-  "private": true,
+  "name": "myetherwallet-kb-v5",
+  "version": "0.0.1",
+  "author": "MyEtherWallet",
+  "description": "Knowledge base for MyEtherWallet version 5",
   "hexo": {
     "version": "3.8.0"
   },
