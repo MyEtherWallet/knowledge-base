@@ -12,7 +12,7 @@ primary_category_display_name: "Security And Privacy"
 ---
 
 # __What is a Mnemonic Phrase?__
-#### __Mnemonic phrases are not a recommended way of accessing MyEtherWallet (MEW).  For more information on other methods of access, check out our article on [how to access a wallet]().__
+#### __Mnemonic phrases are not a recommended way of accessing MyEtherWallet (MEW).  For more information on other methods of access, check out our article on [how to access a wallet][accessMEW].__
 ###### {% read_time title "What is a Mnemonic Phrase?" %} min read
 ***
  
@@ -36,3 +36,6 @@ Mnemonic phrases are just as sensitive as your private key, in terms of privacy.
 * Make sure your spelling is 100% correct. Always double-check your work.
 * Order is important – the phrase will not work in the wrong sequence.
 * Avoid hand-typing your phrase into computers that are connected to the internet.
+
+
+[accessMEW]: /posts/getting-started/how-to-access-your-wallet/
