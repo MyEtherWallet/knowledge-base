@@ -18,7 +18,7 @@ alias:
 
 ## __Here are the API docs for MEW, Etherscan, and Infura (the three main providers of public nodes):__
 
-* [MEW][mewapi]
+* MEW
 * [Infura][infurahowto]
 * [Etherscan][etherscanapi]
 
