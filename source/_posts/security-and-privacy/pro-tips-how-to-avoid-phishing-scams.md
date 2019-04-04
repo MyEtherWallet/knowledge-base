@@ -32,7 +32,7 @@ alias:
 <img src="/images/posts/security/ProTip1.jpg" width=" 65%">
 <br /><br /><br />
 
-**3. You will never have to enter your private key for any service, airdrop, or KYC verification.** Do not give your private key to anyone!
+**3. You will never have to enter your private key for any service, airdrop, or KYC verification.** Do not give your private key, [mnemonic phrase][phrase], or [keystore file][keystore] to anyone! These are best used with [MEW offline][MEWoffline].
 <br /><br /><br />
 
 **4. Check the URL very closely, to make sure it’s the one you are expecting.** Phishers are very clever with their tiny dots and accents. Bookmark all the sites you frequent most!
@@ -69,3 +69,6 @@ alias:
 [EAL]: https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn
 [PhishFort]: https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc
 [Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
+[phrase]: /posts/security-and-privacy/what-is-a-mnemonic-phrase/
+[keystore]: /posts/security-and-privacy/what-is-a-keystore-file/
+[MEWoffline]: /posts/offline/offline-mew-looks-weird/
