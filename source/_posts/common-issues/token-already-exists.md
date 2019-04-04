@@ -24,26 +24,26 @@ To find the correct contract address, follow these instructions:
 ## __Using [Ethplorer.io][ethplorer]__
 
 **Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
-<br />
+
 <img src="/images/posts/common-issues/Ethplorer1Error.jpg" width="60%">
-<br /><br /><br /><br />
+
 
 **Step 2.** Use the contract address (not the creator address) for the custom token field in MEW. Be sure to use the correct decimal count as well.
-<br />
+
 <img src="/images/posts/common-issues/Ethplorer2Error.jpg" width="80%">
-<br /><br /><br /><br />
+
 
 
 ## __Using [Etherscan.io][etherscan]__
 **Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
-<br />
+
 <img src="/images/posts/common-issues/Etherscan1Error.jpg" style="width: 40%;">
-<br /><br /><br /><br />
+
 
 **Step 2.** Use the contract address for the custom token and be sure to use the correct decimals as well.
-<br />
+
 <img src="/images/posts/common-issues/Etherscan2Error.jpg" style="width: 70%;">
-<br /><br /><br /><br />
+
 
 
 ## __Other causes:__
