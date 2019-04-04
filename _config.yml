@@ -88,66 +88,66 @@ deploy:
 
 
 alias:
-  /offline/is-the-send-page-offline.html:/
-  /offline/ethereum-cold-storage-with-myetherwallet.html:/
-  /diving-deeper/readme.html:/
-  /diving-deeper/getting-thru-the-shit-times.html:/
-  /ens/importing-ens-bid-created-on-myetherwallet-metamask.html:/
-  /ens/manually-revealing-ens-bids-hard.html:/
-  /ens/starting-an-ens-auction-without-bidding.html:/
-  /ens/ens-what-to-do-if-you-forgot-your-bid.html:/
-  /ens/ens-brute-forcing-secret-word-phrases.html:/
-  /ens/why-the-ens-bid-process-is-so-complicated.html:/
-  /faq/check-the-current-eth-block-number.html:/
-  /faq/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html:/
-  /faq/unlocking-keystore-file-freezes-browser.html:/
-  /faq/buying-selling-exchanging-eth-tokens-fiat.html:/
-  /faq/how-to-buy-ethereum-with-usd.html:/
-  /gas/how-to-set-gas-price-above-limits.html:/
-  /hardware-wallets/trezor-sending-to-trezor-device.html:/
-  /hardware-wallets/accidentally-connecting-to-hardware-wallet-on-phishing-site.html:/
-  /hardware-wallets/multiple-addresses-on-hardware-wallet.html:/
-  /hardware-wallets/hardware-wallet-recommendations.html:/
-  /networks/access-your-expanse-on-myetherwallet.html:/
-  /networks/access-your-etc-on-myetherwallet.html:/
-  /faq/ethereum-balance-not-loading-or-showing.html:/
-  /faq/why-dont-you-make-me-move-my-mouse-to-generate-seed.html:/
-  /faq/withdrawing-dao-tokens.html:/
-  /hardware-wallets/ledger-hardware-wallet-missing-characters-from-address.html:/
-  /security/turning-of-2fa-on-myetherwallet.html:/
-  /hardware-wallets/using-myetherwallet-with-ledger-nano-s.html:/
-  /hardware-wallets/backing-up-trezor-myetherwallet.html:/
-  /security/restoring-access-to-your-accounts-if-lose-device-with-2fa.html:/
-  /security/call-to-action-help-us-with-phishers-please.html:/
-  /security/advanced-secure-wallets-by-tomshwom.html:/
-  /security/how-to-securely-store-and-guard-your-private-key.html:/
-  /hardware-wallets/trezor-hardware-wallet-sending-from-trezor.html:/
-  /diving-deeper/announcement-history.html:/
-  /diving-deeper/links-you-should-read-next.html:/
-  /diving-deeper/ethereum-list-of-support-and-communities.html:/
-  /diving-deeper/developing-myetherwallet.html:/
-  /addresses/ethereum-account-not-showing-on-blockchain.html:/
-  /getting-started/myetherwallet-help-and-quicktips.html:/
-  /getting-started/protecting-yourself-and-your-funds.html:/
-  /getting-started/myetherwallet-tutorials-for-beginners.html:/
-  /security/how-can-we-trust-myetherwallet.html:/
-  /security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html:/
-  /security/i-cannot-see-the-extended-validation-certificate.html:/
-  /tokens/showing-and-loading-tokens.html:/
-  /tokens/receiving-tokens.html:/
-  /tokens/adding-custom-ethereum-tokens.html:/
-  /networks/access-your-musicoin-on-myetherwallet.html:/
-  /migration/moving-from-myetherwallet-to-parity.html:/
-  /tokens/tokens-ppt.html:/
-  /tokens/qtum-are-my-qtum-tokens-safe-in-myetherwallet.html:/
-  /send/what-to-do-if-you-sent-to-wrong-address.html:/
-  /transactions/error-bad-jump-destination-or-out-of-gas-error.html:/
-  /swap/trading-eth-btc-rep-bity-swap.html:/
-  /send/creating-wallet-address-to-send-and-receive-eth.html:/
-  /send/sending-and-adding-tokens.html:/
-  /private-keys-passwords/difference-beween-private-key-and-keystore-file.html:/
-  /private-keys-passwords/lost-ethereum-wallet-password.html:/
-  /private-keys-passwords/how-to-change-ethereum-account-password-unencrypted-encrypted.html:/
-  /private-keys-passwords/parity-phrases-are-no-longer-supported.html:/
-  /private-keys-passwords/lost-password-ethereum-presale-wallet-file.html:/
-  /offline/sending-offline-with-myetherwallet.html:/
+  /offline/is-the-send-page-offline.html: /
+  /offline/ethereum-cold-storage-with-myetherwallet.html: /
+  /diving-deeper/readme.html: /
+  /diving-deeper/getting-thru-the-shit-times.html: /
+  /ens/importing-ens-bid-created-on-myetherwallet-metamask.html: /
+  /ens/manually-revealing-ens-bids-hard.html: /
+  /ens/starting-an-ens-auction-without-bidding.html: /
+  /ens/ens-what-to-do-if-you-forgot-your-bid.html: /
+  /ens/ens-brute-forcing-secret-word-phrases.html: /
+  /ens/why-the-ens-bid-process-is-so-complicated.html: /
+  /faq/check-the-current-eth-block-number.html: /
+  /faq/couldnt-everybody-put-in-a-random-key-and-send-to-own-address.html: /
+  /faq/unlocking-keystore-file-freezes-browser.html: /
+  /faq/buying-selling-exchanging-eth-tokens-fiat.html: /
+  /faq/how-to-buy-ethereum-with-usd.html: /
+  /gas/how-to-set-gas-price-above-limits.html: /
+  /hardware-wallets/trezor-sending-to-trezor-device.html: /
+  /hardware-wallets/accidentally-connecting-to-hardware-wallet-on-phishing-site.html: /
+  /hardware-wallets/multiple-addresses-on-hardware-wallet.html: /
+  /hardware-wallets/hardware-wallet-recommendations.html: /
+  /networks/access-your-expanse-on-myetherwallet.html: /
+  /networks/access-your-etc-on-myetherwallet.html: /
+  /faq/ethereum-balance-not-loading-or-showing.html: /
+  /faq/why-dont-you-make-me-move-my-mouse-to-generate-seed.html: /
+  /faq/withdrawing-dao-tokens.html: /
+  /hardware-wallets/ledger-hardware-wallet-missing-characters-from-address.html: /
+  /security/turning-of-2fa-on-myetherwallet.html: /
+  /hardware-wallets/using-myetherwallet-with-ledger-nano-s.html: /
+  /hardware-wallets/backing-up-trezor-myetherwallet.html: /
+  /security/restoring-access-to-your-accounts-if-lose-device-with-2fa.html: /
+  /security/call-to-action-help-us-with-phishers-please.html: /
+  /security/advanced-secure-wallets-by-tomshwom.html: /
+  /security/how-to-securely-store-and-guard-your-private-key.html: /
+  /hardware-wallets/trezor-hardware-wallet-sending-from-trezor.html: /
+  /diving-deeper/announcement-history.html: /
+  /diving-deeper/links-you-should-read-next.html: /
+  /diving-deeper/ethereum-list-of-support-and-communities.html: /
+  /diving-deeper/developing-myetherwallet.html: /
+  /addresses/ethereum-account-not-showing-on-blockchain.html: /
+  /getting-started/myetherwallet-help-and-quicktips.html: /
+  /getting-started/protecting-yourself-and-your-funds.html: /
+  /getting-started/myetherwallet-tutorials-for-beginners.html: /
+  /security/how-can-we-trust-myetherwallet.html: /
+  /security/phish-hacks-thefts-and-stolen-funds-due-to-phishing.html: /
+  /security/i-cannot-see-the-extended-validation-certificate.html: /
+  /tokens/showing-and-loading-tokens.html: /
+  /tokens/receiving-tokens.html: /
+  /tokens/adding-custom-ethereum-tokens.html: /
+  /networks/access-your-musicoin-on-myetherwallet.html: /
+  /migration/moving-from-myetherwallet-to-parity.html: /
+  /tokens/tokens-ppt.html: /
+  /tokens/qtum-are-my-qtum-tokens-safe-in-myetherwallet.html: /
+  /send/what-to-do-if-you-sent-to-wrong-address.html: /
+  /transactions/error-bad-jump-destination-or-out-of-gas-error.html: /
+  /swap/trading-eth-btc-rep-bity-swap.html: /
+  /send/creating-wallet-address-to-send-and-receive-eth.html: /
+  /send/sending-and-adding-tokens.html: /
+  /private-keys-passwords/difference-beween-private-key-and-keystore-file.html: /
+  /private-keys-passwords/lost-ethereum-wallet-password.html: /
+  /private-keys-passwords/how-to-change-ethereum-account-password-unencrypted-encrypted.html: /
+  /private-keys-passwords/parity-phrases-are-no-longer-supported.html: /
+  /private-keys-passwords/lost-password-ethereum-presale-wallet-file.html: /
+  /offline/sending-offline-with-myetherwallet.html: /
