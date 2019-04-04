@@ -12,7 +12,7 @@
     "dev": "hexo generate -w",
     "serve": "hexo server -s",
     "start": "hexo server",
-    "deploy": "hexo clean && hexo deploy"
+    "deploy": "hexo generate && hexo clean && hexo deploy"
   },
   "dependencies": {
     "hexo": "^3.8.0",
