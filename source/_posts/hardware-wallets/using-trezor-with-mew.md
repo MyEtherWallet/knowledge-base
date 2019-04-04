@@ -33,13 +33,13 @@ Without further ado, let’s begin!
 **Step 1.** Unbox your Trezor! You will see some cards and instructions for set-up. Follow these instructions carefully! Plug in the Trezor to your computer and get started. Visit [trezor.io/start][trezorStart] to begin the process. 
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor1.jpg" width="35%">
-<br /><br /><br /><br />
+
 ***
 
 **Step 2.** Choose ‘Create new’ on this page, and follow the steps to set up your new device.The first thing you will want to do is ‘Create a backup in 3 minutes.’ 
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor2.png" width="80%">
-<br /><br /><br /><br />
+
 ***
 
 **Step 3.** *This is one of the most important steps.* Do not write this phrase down on your computer, do not take a picture of the phrase. Make sure you write down your 24 seed words in multiple places. DO NOT LOSE THEM. If you lose these words, you’ve lost all your cryptocurrency. Ledger provides cards for you to write them down for remembering, but I suggest writing them down in one extra place as well. Again, do not write this phrase down on your computer. Use pen and paper. When you’re done, you’ll see the screen below.
@@ -47,7 +47,7 @@ Without further ado, let’s begin!
 <img src="/images/posts/hardware-wallet/trezor/Trezor3.png" width="80%">
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor4.png" width="75%">
-<br /><br /><br /><br />
+
 ***
 
 **Step 4.** Now you will be prompted to choose a name for your Trezor. This is the name you will see on your device whenever you plug it in. Choose something familiar and personal!
@@ -55,7 +55,7 @@ Without further ado, let’s begin!
 <img src="/images/posts/hardware-wallet/trezor/Trezor5.png" width="70%">
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor6.png" width="75%">
-<br /><br /><br /><br />
+
 ***
 
 **Step 5.** You will now choose your pin. This pin will be the only way to access your device (besides the recovery phrase you wrote down, multiple times) so it’s very important to choose a secure, but easy to remember pin. Don’t just use `1111` or `1234`, use something a bit more random and secure.
@@ -64,7 +64,7 @@ Without further ado, let’s begin!
 <img src="/images/posts/hardware-wallet/trezor/Trezor7.png" width="75%">
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor8.png" width="70%">
-<br /><br /><br /><br />
+
 ***
 
 
@@ -72,7 +72,7 @@ Without further ado, let’s begin!
 **Step 6.** You’re all done!
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor9.png" width="50%">
-<br /><br /><br /><br /><br /><br />
+
 
 
 ## __Using Trezor with MEW__
@@ -80,13 +80,13 @@ Without further ado, let’s begin!
 **Step 1.** Attach your Trezor device and head to MEW.
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor10.jpg" width="35%">
-<br /><br /><br /><br />
+
 ***
 
 **Step 2.** Check the URL for the “MyEtherWallet Inc [US]” SSL certification to make sure you’re on our real, secure site. Are you? Great! Head to ‘Access My Wallet’ and choose the option that says ‘Hardware’. Click the ‘Trezor’ option, and choose ‘Connect With Your Device’ with your Trezor device still attached.
 
 <img src="/images/posts/hardware-wallet/trezor/MEW1.png" width="75%">
-<br /><br /><br /><br />
+
 ***
 
 **Step 3.** A screen will pop-up asking for you to allow MEW permissions to read the public keys from your Trezor device. Click ‘Allow once for this session’, and feel free to select ‘Don’t ask me again’, so this step is automatic in the future. Select ‘Export’ on the next screen, enter your pin, and you’ll be redirected back to MEW. 
@@ -94,7 +94,7 @@ Without further ado, let’s begin!
 <img src="/images/posts/hardware-wallet/trezor/MEW2.png" width="70%">
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor11.png" width="70%">
-<br /><br /><br /><br />
+
 ***
 
 **Step 4.** MEW will bring you back to a page showing different networks and derivation paths. Choose which network you’d like to connect to, and which path you’d like to use. For regular ETH usage, you should be on an ETH network, under the Ethereum derivation path. You can also access other networks, such as Ethereum Classic (ETC), by choosing the related network path.
@@ -102,19 +102,19 @@ Without further ado, let’s begin!
 <img src="/images/posts/hardware-wallet/trezor/Trezor16.png" width="40%"> <img src="/images/posts/hardware-wallet/trezor/Trezor12.png" width="40%">
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor17.png" width="40%">
-<br /><br /><br /><br />
+
 ***
 
 **Step 5.** You will see a list of addresses. These are your new addresses to choose from for your main wallet! Choose one out of the five that you like. (Most people choose the first one, but you don’t have to.)
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor13.png" width="42.5%"> <img src="/images/posts/hardware-wallet/trezor/Trezor14.png" width="50%">
-<br /><br /><br /><br />
+
 ***
 
 **Step 6.** You should now be taken to a screen that looks very similar to your old wallet’s access screen. Great job! You’re officially using your new Trezor hardware wallet! 
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor15.png" width="50%">
-<br /><br /><br /><br /><br /><br />
+
 
 
 ## __What About My Old Wallet???__
