@@ -43,8 +43,5 @@ Congratulations, you’re running MEW offline! Make sure to repeat this process 
 
 Read this article on [how to create a wallet][create].
 
-Read this article on [how to make an offline transaction][offlinetx]. 
-
 [latestMEW]: https://github.com/MyEtherWallet/MyEtherWallet/releases
 [create]: /posts/getting-started/how-to-create-a-wallet/
-[offlinetx]: 
