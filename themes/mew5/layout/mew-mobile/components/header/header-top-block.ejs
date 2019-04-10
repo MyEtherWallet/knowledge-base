@@ -1,9 +1,9 @@
 <div class="header-top-block">
   <div class="left">
-    <a href="<%- url_for('') %>"><%- image_tag('images/mew-logo-white.png') %></a>
+    <a href="<%- url_for('') %>"><%- image_tag('images/mew-logo-dark.png') %></a>
     <p><%= _p('help_center') %></p>
   </div>
-  <div class="right">
+  <div class="right hidden">
     <ul>
       <% for (var i in theme.menu){ %>
         <li><a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a></li>
