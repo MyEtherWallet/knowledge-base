@@ -1,0 +1,33 @@
+<% var primaryCategory = page.primary_category %>
+<% var pageID = page._id %>
+
+<aside>
+  <div class="search-form-container hidden">
+    <%- search_form({button: '&#xF002;'}) %>
+  </div>
+  <div class="sidebar-search">
+    <%- partial(theme.theme_mobile + '/components/sidebar/sidebar-search-form', null) %>
+  </div>
+  <div class="sidebar-primary-category">
+    <ul>
+      <% var counter = 0 %>
+      <% site.posts.sort('date', 1).each(function(post){ %>
+        <% if(post.primary_category == primaryCategory){ %>
+          <% counter++ %>
+          <li class="primary-category-post-title">
+            <a href="<%- url_for(post.path) %>">
+              <div class="<%- post._id == pageID ? 'active' : '' %>">
+                <div class="hidden post-index-number"><%= counter %></div>
+                <p class="post-title"><%= post.title || '(no title)' %></p>
+                <p class="hidden"><%= post._id %></p>
+              </div>
+            </a>
+          </li>
+        <% } %>
+      <% }) %>
+    </ul>
+  </div>
+  <div class="customer">
+    <%- partial(theme.theme_mobile + '/components/sidebar/sidebar-customer-support-block', null) %>
+  </div>
+</aside>
