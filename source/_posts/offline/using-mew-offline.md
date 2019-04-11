@@ -41,7 +41,9 @@ For increased security, you can run MyEtherWallet (MEW) on your local computer, 
 
 Congratulations, you’re running MEW offline! Make sure to repeat this process periodically, to ensure you’re on the most up-to-date version of our interface.
 
-Read this article on [how to create a wallet][create].
+Read this article for more information on [how to create a wallet][create].
+Read this article if you'd like to know [how to send an offline transaction][sendoffline].
 
 [latestMEW]: https://github.com/MyEtherWallet/MyEtherWallet/releases
 [create]: /posts/getting-started/how-to-create-a-wallet/
+[sendoffline]: /posts/offline/offline_transaction/
