@@ -29,7 +29,8 @@ If you are [using MyEtherWallet (MEW) offline and locally][mewOffline], it is no
 
 **Step 2.** At the bottom, in the footer, choose the 'Send Offline Helper' tool.
 
-**Step 3.** Choose the network you are interacting with. Leave it on 'ETH' if you are using Ether or ERC20 tokens.
+**Step 3.** Choose the network you are interacting with. 
+* Leave it on 'ETH' if you are using Ether or ERC20 tokens.
 
 **Step 4.** Fill in the address you are sending from, and our interface will generate a gas price and nonce for your transaction, along with other details
 
@@ -37,15 +38,19 @@ If you are [using MyEtherWallet (MEW) offline and locally][mewOffline], it is no
 
 ## __Generate Your Offline Transaction__
 
-**Step 1.** Plug in the USB to your offline computer.
+**Step 1.** Plug in the USB to your **offline** computer.
 
-**Step 2.** Access the offline version of MEW on this same offline device. This is done by opening ‘Index’ from the file list with your browser.
+**Step 2.** Access the offline version of MEW on this same offline device. 
+* This is done by opening ‘Index’ from the file list with your browser.
+* If you do not have MEW downloaded for offline use, check out [this article][mewOffline].
 
 **Step 3.** Access your wallet like you would normally, and choose ‘Send Offline’ from the menu to the left.
 
-**Step 4.** Import your JSON file from the connected USB. Alternatively, you can manually fill in your nonce, transaction details, and the address you are sending to, as well as other relevant data.
+**Step 4.** Import your JSON file from the connected USB. 
+* Alternatively, you can manually fill in your nonce, transaction details, and the address you are sending to, as well as other relevant data.
 
-**Step 5.** If you’re sending to a contract, extra data may cause you to need a higher gas limit. Excess gas will be refunded, so don’t be afraid to raise it as high as 100,000.
+**Step 5.** If you’re sending to a contract, extra data may cause you to need a higher gas limit. 
+* Excess gas will be refunded, so don’t be afraid to raise it as high as 100,000.
 
 **Step 6.** Click ‘Generate Transaction’, then copy the long string that says ‘Signed Transaction’ and paste it in a text file, or download a new JSON file holding your signed transaction’s details. Drag this text file or JSON file into your USB for the final step in the process.
 
@@ -58,6 +63,7 @@ If you are [using MyEtherWallet (MEW) offline and locally][mewOffline], it is no
 **Step 3.** Paste in your signed transaction, or import the new JSON file you just received.
 
 **Step 4.** Review the details of your transaction then press 'Send'. 
+<br> 
 
 You’re done! Your transaction will show on an Ethereum blockchain explorer once it’s been verified. It can be searched using the transaction hash shown at the end of the process.
 
