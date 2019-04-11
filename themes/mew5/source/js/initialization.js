@@ -1,19 +1,23 @@
-/*
 
-(function($){
-
+function selectMobileDesktop() {
   var width = $( window ).width();
-  //console.log(width);
   
   if(width < 600) {
     // Mobile
-    $('.desktop-content').addClass('hidden');
+    //$('.desktop-content').addClass('hidden');
+    $('.mobile-content').addClass('block');
+    $('.desktop-content').remove();
   }
   else {
     // Desktop
-    $('.mobile-content').addClass('hidden');
+    $('.desktop-content').addClass('block');
+    $('.mobile-content').remove();
   }
+}
+
+
+(function($){
+  selectMobileDesktop();
 
 })(jQuery);
 
-*/
