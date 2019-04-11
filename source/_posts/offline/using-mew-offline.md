@@ -25,19 +25,19 @@ For increased security, you can run MyEtherWallet (MEW) on your local computer, 
 
 **Step 1.** In order to set up your local MEW, start by downloading the latest release of MEW [here][latestMEW].
 
-<img src="/images/posts/offline/MEWoffline1.png" width="">
+<img src="/images/posts/offline/MEWoffline1.png" width="50%">
 
 **Step 2.** Click on `MyEtherWallet-vX.X.X.X.zip` to download the file. Move this file to a USB stick (or another storage transfer device), and transfer it to your permanently-offline computer.
 
-<img src="/images/posts/offline/MEWoffline2.png" width="">
+<img src="/images/posts/offline/MEWoffline2.png" width="50%">
 
 **Step 3.** Plug the USB into your offline computer and extract all the files into the archive of the computer. Extracting the files is important, otherwise MEW will not open correctly and will look like a bunch of nonsense. You should end up with a folder containing these files: 
 
-<img src="/images/posts/offline/MEWoffline3.png" width="">
+<img src="/images/posts/offline/MEWoffline3.png" width="50%">
 
 **Step 4.** To open MEW, double-click the ‘index.html’ file. This will open MEW in your browser. You will get a warning saying it is unable to connect to the network, which is normal. You’re not connected to the internet. You won’t be able to see your ETH or token balances because of this, but these are viewable in a secure, public way by using an Ethereum blockchain explorer such as etherscan.io or ethplorer.io.
 
-<img src="/images/posts/offline/MEWoffline4.png" width="">
+<img src="/images/posts/offline/MEWoffline4.png" width="50%">
 
 Congratulations, you’re running MEW offline! Make sure to repeat this process periodically, to ensure you’re on the most up-to-date version of our interface.
 
