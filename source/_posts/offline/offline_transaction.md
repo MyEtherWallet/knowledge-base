@@ -22,7 +22,6 @@ alias:
 ***
 
 If you are [using MyEtherWallet (MEW) offline and locally][mewOffline], it is not possible to send transactions directly from the offline computer. To send or broadcast a transaction, an internet connection is required. To do this, you should use a second computer that is connected to the internet. This has the advantage of keeping your private key on a separate offline device that won’t be afflicted by malware or hackers. 
-<br> 
 
 ## __Find the Nonce & Transaction Details__
 
@@ -37,7 +36,7 @@ If you are [using MyEtherWallet (MEW) offline and locally][mewOffline], it is no
 **Step 5.** Make a note of your nonce, export the JSON file, and move this file onto a USB.
 <br> 
 
-##_Generate Your Offline Transaction_
+##__Generate Your Offline Transaction__
 
 **Step 1.** Plug in the USB to your offline computer.
 
@@ -52,7 +51,7 @@ If you are [using MyEtherWallet (MEW) offline and locally][mewOffline], it is no
 **Step 6.** Click ‘Generate Transaction’, then copy the long string that says ‘Signed Transaction’ and paste it in a text file, or download a new JSON file holding your signed transaction’s details. Drag this text file or JSON file into your USB for the final step in the process.
 <br>
 
-##_Sign and Send Your Transaction_
+##__Sign and Send Your Transaction__
 
 **Step 1.** Head to MyEtherWallet.com once more on your **online** computer.
 
@@ -64,5 +63,7 @@ If you are [using MyEtherWallet (MEW) offline and locally][mewOffline], it is no
 <br> 
 
 You’re done! Your transaction will show on an Ethereum blockchain explorer once it’s been verified. It can be searched using the transaction hash shown at the end of the process.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9_6EU1QPU0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [mewOffline]: /posts/offline/using-mew-offline/
