@@ -34,7 +34,6 @@ If you are [using MyEtherWallet (MEW) offline and locally][mewOffline], it is no
 **Step 4.** Fill in the address you are sending from, and our interface will generate a gas price and nonce for your transaction, along with other details
 
 **Step 5.** Make a note of your nonce, export the JSON file, and move this file onto a USB.
-<br> 
 
 ## __Generate Your Offline Transaction__
 
@@ -49,7 +48,6 @@ If you are [using MyEtherWallet (MEW) offline and locally][mewOffline], it is no
 **Step 5.** If you’re sending to a contract, extra data may cause you to need a higher gas limit. Excess gas will be refunded, so don’t be afraid to raise it as high as 100,000.
 
 **Step 6.** Click ‘Generate Transaction’, then copy the long string that says ‘Signed Transaction’ and paste it in a text file, or download a new JSON file holding your signed transaction’s details. Drag this text file or JSON file into your USB for the final step in the process.
-<br>
 
 ## __Sign and Send Your Transaction__
 
@@ -60,7 +58,6 @@ If you are [using MyEtherWallet (MEW) offline and locally][mewOffline], it is no
 **Step 3.** Paste in your signed transaction, or import the new JSON file you just received.
 
 **Step 4.** Review the details of your transaction then press 'Send'. 
-<br> 
 
 You’re done! Your transaction will show on an Ethereum blockchain explorer once it’s been verified. It can be searched using the transaction hash shown at the end of the process.
 
