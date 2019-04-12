@@ -5,10 +5,14 @@
   <div class="search-form-container hidden">
     <%- search_form({button: '&#xF002;'}) %>
   </div>
-  <div class="sidebar-search">
+  <div class="sidebar-search hidden">
     <%- partial(theme.theme_mobile + '/components/sidebar/sidebar-search-form', null) %>
   </div>
-  <div class="sidebar-primary-category">
+  <div class="show-list-button">
+    <p>Show all posts</p>
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </div>
+  <div class="sidebar-primary-category mobile-post-list">
     <ul>
       <% var counter = 0 %>
       <% site.posts.sort('date', 1).each(function(post){ %>
@@ -26,8 +30,5 @@
         <% } %>
       <% }) %>
     </ul>
-  </div>
-  <div class="customer">
-    <%- partial(theme.theme_mobile + '/components/sidebar/sidebar-customer-support-block', null) %>
   </div>
 </aside>
