@@ -1,0 +1,74 @@
+<%
+  var primaryCategory = page.primary_category;
+  var PostID = post._id;
+
+  var tempPrePost = null;
+
+  var prePost = null;
+  var currentPost = null;
+  var nextPost = null;
+
+  var postMatches = false;
+
+  site.posts.sort('date', 1).each(function(post) {
+    if(post.primary_category == primaryCategory) {
+
+      // Set next post
+      if(postMatches && nextPost === null) {
+        if(0) console.log("\n===> Next Post Set");
+        if(0) console.log(post.title);
+        nextPost = post;
+      }
+
+      // Check if current post matches with post
+      if(PostID === post._id) {
+        if(0) console.log("\n===> Current Post Found");
+        if(0) console.log(post.title);
+        postMatches = true;
+
+        // Set previous post
+        if(tempPrePost) {
+          if(0) console.log("\n===> Previous Post Found");
+          if(0) console.log(tempPrePost.title);
+          prePost = tempPrePost;
+        }
+      }
+      
+      tempPrePost = post;
+    }
+  })
+%>
+
+
+<div class="related-posts">
+
+  <% if(prePost) { %>
+    <a href="<%- url_for(prePost.path)%>">
+      <div class="pre-post valid">
+        <div class="button-title">< <%= _p('previous') %></div>
+        <p class="post-title"><%= prePost.title %></p>
+      </div>
+    </a>
+  <% } else { %>
+    <div class="pre-post">
+      <div class="button-title">< <%= _p('previous') %></div>
+      <p class="post-title"><%= _p('none') %></p>
+    </div>
+  <% } %>
+
+  <% if(nextPost) { %>
+    <a href="<%- url_for(nextPost.path)%>">
+      <div class="next-post valid">
+        <div class="button-title"><%= _p('next') %> ></div>
+        <p class="post-title"><%= nextPost.title %></p>
+      </div>
+    </a>
+  <% } else { %>
+    <div class="next-post">
+      <div class="button-title"><%= _p('next') %> ></div>
+      <p class="post-title"><%= _p('none') %></p>
+    </div>
+  <% } %>
+
+</div>
+

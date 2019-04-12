@@ -1,11 +1,19 @@
 <%- partial('_partial/head') %>
 <body>
-  <div class="site-container">
+
+  <div class="site-container desktop-content">
     <div class="site-wrap">
-      <%- partial('mew/router', null) %>
-      <%- partial('mew/components/footer/footer', null) %>
+      <%- partial(theme.theme_desktop + '/router', null) %>
+      <%- partial(theme.theme_desktop + '/components/footer/footer', null) %>
     </div>
-    <%- partial('_partial/after-footer') %>
   </div>
+  <div class="site-container mobile-content">
+    <div class="site-wrap">
+      <%- partial(theme.theme_mobile + '/router', null) %>
+      <%- partial(theme.theme_mobile + '/components/footer/footer', null) %>
+    </div>
+  </div>
+
+  <%- partial('_partial/after-footer') %>
 </body>
 </html>
