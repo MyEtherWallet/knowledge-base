@@ -23,7 +23,7 @@
   </div>
 </div>
 <div class="mobile-content">
-  <div class="breadcrumbs-container page-container">
+  <div class="breadcrumbs-container page-container hidden">
     <%- partial(theme.theme_mobile + '/components/breadcrumbs', null) %>
   </div>
   <div class="article-container page-container">
@@ -42,6 +42,9 @@
       <div class="pre-next-posts">
         <%- partial(theme.theme_mobile + '/components/related-posts', null) %>
       </div>
+    </div>
+    <div class="customer">
+      <%- partial(theme.theme_mobile + '/components/sidebar/sidebar-customer-support-block', null) %>
     </div>
   </div>
 </div>
