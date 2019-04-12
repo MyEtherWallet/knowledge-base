@@ -65,6 +65,8 @@ If you are [using MyEtherWallet (MEW) offline and locally][mewOffline], it is no
 
 You’re done! Your transaction will show on an Ethereum blockchain explorer once it’s been verified. It can be searched using the transaction hash shown at the end of the process.
 
+<div class="youtube-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9_6EU1QPU0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 [mewOffline]: /posts/offline/using-mew-offline/
