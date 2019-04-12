@@ -1,0 +1,35 @@
+<div class="mew___components_header_header-search-form">
+  <input class="search-form-input" id="header-post-search-form" type="text">
+
+  <div class="search-results hidden">
+    <ul>
+      <% site.posts.sort('title', 1).each(function(post){ %>
+        <li class="header-post-search-item">
+              <a href="<%- url_for(post.path)  %>">
+            <p class="title"><%= post.title %></p>
+
+            <div class="prim-category">
+              <p class="catogory-title">Category: </p>
+              <p class="category-name"><%= post.primary_category_display_name %></p>
+            </div>
+
+            <div class="tags">
+              <p>Related tags: </p>
+              <div class="tags-name">
+                <% post.tags.each(function(tag){ %>
+                  <p><%= tag.name %></p>
+                <% }) %>
+              </div>
+            </div>
+
+            <div class="occur-count"><span></span>&nbsp;<%= _p('misc.matches_for') %></div>
+            <div class="post-content hidden">
+              <%- post.content %>
+            </div>
+          </a>
+        </li>
+      <% }) %>
+    </ul>
+  </div>
+</div>
+

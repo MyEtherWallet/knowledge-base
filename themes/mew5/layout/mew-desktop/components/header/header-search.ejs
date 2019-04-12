@@ -1,0 +1,22 @@
+<header>
+  <div class="page-container">
+    <div class="header-wrap">
+      <%- partial(theme.theme_desktop + '/components/header/header-top-block', null) %>
+      <div class="search-block header-search-block">
+        <div class="search-title"><%= _p('tag_line') %></div>
+        <div class="search-form-container">
+          <%- partial(theme.theme_desktop + '/components/header/header-search-form', null) %>
+        </div>
+        <p class="search-bottom-text">
+          <%= _p('misc.top_searches') %>
+          <a href="<%- url_for('/posts/mewconnect/mewconnect-101-create/') %>"><%= _p('index.mewconnect') %></a> /
+          <a href="<%- url_for('/posts/swap/buy-eth-via-simplex/') %>"><%= _p('index.swap') %></a> /
+          <a href="<%- url_for('/posts/transactions/how-to-send-a-transaction/') %>"><%= _p('misc.send_eth') %></a> /
+          <a href="<%- url_for('/posts/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/') %>"><%= _p('index.security') %></a> /
+          <a href="<%- url_for('/posts/getting-started/myetherwallet-an-introduction/') %>"><%= _p('misc.blockchain') %></a> /
+          <a href="<%- url_for('/posts/getting-started/how-to-create-a-wallet/') %>"><%= _p('misc.create_wallet') %></a>
+        </p>
+      </div>
+    </div>
+  </div>
+</header>

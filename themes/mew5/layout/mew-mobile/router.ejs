@@ -1,0 +1,19 @@
+
+
+<% if (page.source == 'faqs/index.md' || !page.source) { %>
+  <%- partial(theme.theme_mobile + '/components/header/header-search', null) %>
+  <%- partial(theme.theme_mobile + '/categories/category-faqs', null) %>
+
+<% } else if (page.source == 'categories/index.md') { %>
+  <%- partial(theme.theme_mobile + '/components/header/header-search', null) %>
+  <%- partial(theme.theme_mobile + '/categories/category-categories', null) %>
+
+<% } else if (page.source == 'videos/index.md') { %>
+  <%- partial(theme.theme_mobile + '/components/header/header-search', null) %>
+  <%- partial(theme.theme_mobile + '/categories/category-videos', null) %>
+
+<% } else { %>
+  <%- partial(theme.theme_mobile + '/components/header/header-page-title', null) %>
+  <%- body %>
+<% } %>
+

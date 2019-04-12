@@ -1,9 +1,9 @@
 <div class="content-body">
-  <%- partial('mew/components/selector-major-categories', {category: 'videos'}) %>
+  <%- partial(theme.theme_desktop + '/components/selector-major-categories', {category: 'videos'}) %>
 
   <div class="mew___categories_cat-videos page-container">
     <div class="wrap">
-      <div class="youtube-container" style="padding-bottom: 40px; border-bottom: #536d8b 2px solid; margin-bottom: 20px">
+      <div class="youtube-container">
         <div class="sidebar">
           <%= _p('index.v5') %>
         </div>
@@ -146,6 +146,6 @@
         </ul>
       </div>
     </div>
-    <%- partial('mew/components/bottom-helpers') %>
+    <%- partial(theme.theme_desktop + '/components/bottom-helpers') %>
   </div>
 </div>
