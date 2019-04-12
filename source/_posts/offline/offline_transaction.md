@@ -13,8 +13,6 @@ categories:
 - [offline]
 primary_category: offline
 primary_category_display_name: "Offline"
-alias:
-- offline/local-offline-myetherwallet-does-not-work-properly.html
 ---
 
 # __Making an Offline Transaction__
