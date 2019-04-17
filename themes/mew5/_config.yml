@@ -40,3 +40,7 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+
+# Theme location
+theme_desktop: mew-desktop
+theme_mobile:  mew-mobile

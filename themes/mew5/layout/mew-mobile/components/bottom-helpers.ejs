@@ -1,0 +1,36 @@
+
+<div class="mew___components_bottom-helpers">
+  <div class="block-item">
+    <div class="icon-image">
+      <%- image_tag('images/mew-icons/customer-support.svg') %>
+    </div>
+    <div class="content">
+      <div class="title"><%= _p('help.customer_support') %></div>
+      <p><%= _p('help.cantFind') %></p>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          <%= _p('help.email_us') %>
+          <span>&#x2192;</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="block-item">
+    <div class="icon-image">
+      <%- image_tag('images/mew-icons/community.svg') %>
+    </div>
+    <div class="content">
+      <div class="title"><%= _p('help.community') %></div>
+      <p><%= _p('help.community_join') %></p>
+      <div class="community-links">
+        <a href="<%= _p('links.reddit') %>" target="_blank">
+          <%- image_tag('images/mew-icons/reddit.svg') %></a>
+        <a href="<%= _p('links.github') %>" target="_blank">
+          <%- image_tag('images/mew-icons/github.svg') %></a>
+        <a href="<%= _p('links.medium') %>" target="_blank">
+          <%- image_tag('images/mew-icons/medium.svg') %></a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
