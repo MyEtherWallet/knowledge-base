@@ -1,0 +1,23 @@
+
+<div class="breadcrumbs-container page-container">
+  <%- partial(theme.theme_mobile + '/components/breadcrumbs', null) %>
+</div>
+<div class="article-container page-container">
+  <div class="wrap-sidebar">
+    <%- partial(theme.theme_mobile + '/components/sidebar/sidebar-primary-category', null) %>
+  </div>
+  <div class="wrap-post-body">
+    <article id="<%= post.layout %>-<%= post.slug %>" class="article article-type-<%= post.layout %>" itemscope itemprop="blogPost">
+      <%- post.content %>
+    </article>
+    <div class="thumbs-and-share-container">
+      <div class="share">
+        <%- partial(theme.theme_mobile + '/components/share', null) %>
+      </div>
+    </div>
+    <div class="pre-next-posts">
+      <%- partial(theme.theme_mobile + '/components/related-posts', null) %>
+    </div>
+  </div>
+</div>
+

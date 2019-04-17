@@ -1,0 +1,1053 @@
+@media screen and (max-width: 599px)
+
+  .desktop-content
+    display: none
+
+  //=========================================================================
+  // body
+  //=========================================================================
+  *
+    box-sizing: border-box
+
+  p, span, h1, h2, h3, h4, h5, h6, div
+    color: mew-color-text-1
+    line-height: initial
+
+  p
+    font-size: 14px
+
+  h3
+    font-size: 22px
+    font-weight: 600
+
+  body
+    font-family: 'Montserrat', sans-serif
+
+
+  a:link,
+  a:visited,
+  a:hover,
+  a:active
+    text-decoration: none
+
+
+  .site-wrap
+    background-color: white
+    min-height: 100vh
+
+  .content-body
+    padding: 60px 0 25px 0
+
+  .page-container
+    max-width: 1200px
+    margin: 0 auto
+    padding: 0 15px
+
+
+  textarea:focus, input:focus
+    outline: none
+
+  .hidden
+    display: none
+
+  .block
+    display: block
+
+
+  //=========================================================================
+  // MD document content styles
+  // .mew___md___content-style
+  //=========================================================================
+  .mew___md___content-style {
+    
+  }
+
+
+  //=========================================================================
+  // .mew___components_major-categories
+  //=========================================================================
+  .mew___components_major-categories
+    user-select: none
+    height: 90px
+    overflow-x: auto
+
+    >ul
+      padding: 0 10px
+      display: flex
+      align-items: center
+      justify-content: space-between
+      min-width: 450px
+      >li
+        font-size: 30px
+        font-weight: 400
+        span
+          cursor: pointer
+          color: mew-color-light-grey-1
+          line-height: initial
+          padding-bottom: 7px
+        &.active
+          font-weight: 600
+          span
+            border-bottom: 2px solid mew-color-black
+            color: mew-color-text-1
+
+
+
+  //=========================================================================
+  // .mew___categories_cat-faqs
+  //=========================================================================
+  .mew___categories_cat-faqs
+    .accordion
+      border-top: 1px solid mew-color-background-1
+      padding: 0 10px
+
+      &:last-child
+        border-bottom: 1px solid mew-color-background-1
+
+      .accordion-header
+        position: relative
+        user-select: none
+        cursor: pointer
+        padding-right: 30px
+
+        .post-title
+          font-size: 18px
+          font-weight: 600
+          padding: 25px 0
+
+        .post-button
+          &::before,
+          &::after
+            position: absolute
+            right: 0
+            top: 0
+            bottom: 0
+            margin: auto 0
+            content: ''
+            height: 4px
+            width: 20px
+            background-color: mew-color-text-1
+
+          &::after
+            transform: rotate(90deg)
+            transition: all 0.7s ease
+
+      .accordion-content
+        overflow: hidden
+        max-height: 0
+        transition: all 0.4s ease
+        background-color: mew-color-light-grey-12
+        border-radius: 5px
+
+        h1, h6, hr
+          display: none
+
+        .padding-block
+          padding: 10px
+
+      &.open
+        .accordion-content
+          max-height: 700px
+          overflow-y: auto
+          margin-bottom: 20px
+
+        .accordion-header
+          .post-button::after
+            transform: rotate(720deg)
+
+
+
+
+  //=========================================================================
+  // .mew___categories_cat-categories
+  //=========================================================================
+  .mew___categories_cat-categories
+    padding-top: 20px
+
+    .category-container
+      .cat-group
+        margin-bottom: 60px
+
+        ul
+          padding-top: 20px
+          display: grid
+          grid-gap: 15px
+          grid-template-columns: 1fr
+          width: 100%
+          li div
+            user-slect: none
+            cursor: pointer
+            background-color: mew-color-background-2
+            padding: 15px
+            display: flex
+            align-items: center
+
+            p
+              font-size: 20px
+              font-weight: 400
+
+            .post-counter
+              display: none
+              //display: flex
+              align-items: center
+              justify-content: center
+              background-color: #f00
+              margin-left: 5px
+              border-radius: 100%
+              height: 15px
+              width: 15px
+              p
+                font-weight: 600
+                font-size: 13px
+                color: #fff
+              
+              
+
+
+  //=========================================================================
+  // .mew___categories_cat-videos
+  //=========================================================================
+  .mew___categories_cat-videos
+    padding-top: 30px
+    .youtube-container
+      margin-bottom: 30px;
+      overflow: auto;
+
+      .sidebar
+        font-size: 22px
+        font-weight: 600
+        margin-bottom: 30px
+
+      ul
+
+        li
+          margin-bottom: 55px
+
+          .video-thumbnail
+            position: relative
+
+            .video-container
+              position: relative
+              width: 100%
+              height: 100%
+              padding-bottom: 56.25%
+              background-color: black
+
+              @keyframes rotate {
+                from {transform: rotate(0deg);}
+                to {transform: rotate(360deg);}
+              }
+
+
+              &::after
+                content: ''
+                background-color: transparent;
+                background-image: url('images/mew.png')
+                background-size: 10vw
+                background-position: center
+                background-repeat: no-repeat
+                height: 100%
+                width: 100%
+                position: absolute
+                top: 0
+                left: 0
+                z-index: 0
+                animation: rotate 0.5s infinite linear
+
+
+              .video                
+                z-index: 999
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+
+              img
+                display: none
+                z-index: 0
+                position: absolute
+                left: 0
+                top: 0
+                width: 100%
+
+
+          .video-info
+            margin-top: 10px;
+            p
+              line-height: 20px
+
+
+  //=========================================================================
+  // .mew___components_bottom-helpers
+  //=========================================================================
+  .mew___components_bottom-helpers
+    margin-top: 25px
+
+    .block-item
+      margin-bottom: 10px
+      user-select: none
+      padding: 25px 25px
+      border: 1px solid mew-color-light-grey-2
+      border-radius: 4px
+      display: flex
+      align-items: center
+
+      .icon-image
+        margin-right: 30px
+
+      .content
+        .title
+          font-size: 24px
+          font-weight: 600
+          margin-bottom: 10px;
+
+        p
+          color: mew-color-light-grey-3
+          font-size: 14px
+          min-height: 65px
+
+        .email-us a
+          color: mew-color-green-1
+          font-size: 16px
+          font-weight: 500
+          position: relative
+          span
+            position: absolute
+            top: -8px
+            left: 70px
+            color: mew-color-green-1
+            font-size: 30px
+            margin-left: 10px
+
+        .community-links
+          display: flex
+          align-items: center
+          a
+            margin-right: 20px
+
+
+
+  //=========================================================================
+  // header
+  //=========================================================================
+  header
+    background-color: #0b2840
+    background-image: url("images/space-background.jpg")
+    background-size: 80%
+    background-repeat: no-repeat
+    background-position-x: center
+    background-position-y: -250px
+
+    .header-wrap
+      padding: 0;
+
+    .page-title
+      display: block
+      padding: 30px 20px
+
+      .title
+        color: white
+        font-size: 28px;
+        font-weight: 500;
+        text-align: center
+    
+
+    .search-block
+      display: inline-block
+      display: block;
+      padding: 60px 20px
+
+      .search-title
+        color: white
+        font-size: 7vw;
+        font-weight: 600;
+        text-align: center
+        margin-bottom: 30px
+
+
+      .search-bottom-text
+        color: white
+        text-align: center
+        margin-top: 30px
+        line-height: 25px;
+
+        a
+          color: white
+          text-decoration: underline
+        a:hover
+          text-decoration: underline
+
+  .header-top-block
+    display: flex
+    align-items: center
+    background-color: white
+    padding: 20px 20px
+    
+    .left
+      display: flex
+      align-items: center
+      img
+        height: 37px
+
+      p
+        border-left: 1px solid mew-color-green-1
+        color: mew-color-green-1
+        font-size: 18px
+        padding-left: 20px
+        margin-left: 20px
+
+    .right
+      margin-left: auto
+      ul
+        display: flex
+        align-items: center
+        li
+          margin-left: 50px
+          a
+            font-size: 14px
+            color: white
+
+
+
+
+  //=========================================================================
+  // .mew___components_header_header-search-form
+  //=========================================================================
+  .mew___components_header_header-search-form
+    position: relative
+
+    .search-form-input
+      padding: 20px 20px 20px 50px
+      border-radius: 4px
+      border: 0
+      width: 100%
+      margin: 0 auto
+      display: block
+      position: relative
+
+    &::before
+      content: '';
+      position: absolute;
+      top: 18px;
+      left: 17px;
+      transform: rotate(-5deg);
+      color: #000;
+      display: inline-block;
+      font-size: 25px;
+      z-index: 1;
+      background-image: url(images/magnifier.png);
+      height: 18px;
+      width: 18px;
+      background-size: 18px;
+      background-repeat: no-repeat;
+
+
+    .search-results
+      width: 100%
+      position: absolute
+      top: 59px
+      background-color: white
+      z-index: 1
+      overflow-y: auto
+      max-height: 500px
+      border-radius: 4px
+      box-shadow: 0 0 20px mew-color-box-shadow-1
+
+      .occur-count
+        padding-left: 5px
+        font-size: 12px
+        //color: red
+        display: inline
+        font-weight: 500
+        display: flex
+        align-items: center
+
+        span
+          color: red
+          font-size: 15px
+          font-weight: 600
+
+      ul
+        padding: 10px
+        li 
+          border-bottom: 1px solid mew-color-light-grey-4
+
+          .title
+            font-size: 16px
+            font-weight: 500
+
+          a
+            display: block
+            cursor: pointer
+            border-radius: 5px
+            padding: 10px
+            &:hover
+              background-color: mew-color-light-grey-7
+
+    .tags
+      padding-left: 5px
+      display: flex
+      align-items: center
+
+      >p
+        font-size: 12px
+        font-weight: 400
+        margin-right: 5px
+        line-height: initial
+
+      .tags-name
+        display: flex
+        align-items: center
+        flex-wrap: wrap
+        p
+          margin: 1px 0;
+          font-size: 12px;
+          font-weight: 400;
+          padding: 2px 4px;
+          line-height: 10px;
+          margin-right: 2px;
+          background-color: #0c2840;
+          color: #ffffff;
+          border-radius: 4px;
+
+    .prim-category
+      padding-left: 5px
+      display: flex
+      align-items: center
+
+
+      .catogory-title
+        font-size: 12px
+        font-weight: 400
+        margin-right: 5px
+
+      .category-name
+        font-size: 12px
+        font-weight: 500
+
+
+
+
+  //=========================================================================
+  // footer
+  //=========================================================================
+  footer
+    background-color: mew-color-background-3
+    p, a
+      color: white
+
+    .wrap
+      //display: flex
+      //align-items: center
+      text-align: center
+      padding: 45px 0
+
+    .block-left
+      margin-bottom: 20px
+      justify-content: center
+      display: flex
+      align-items: center
+      p
+        border-right: 1px solid white
+        padding-right: 20px
+        margin-right: 20px
+        line-height: 15px
+
+      p:last-child
+        border-right: 0
+        padding-right: 0
+        margin-right: 0
+
+    .block-right
+      margin-left: auto
+
+
+
+  //=========================================================================
+  // .breadcrumbs-container
+  //=========================================================================
+  .breadcrumbs-container
+    padding: 40px 0
+
+
+  //=========================================================================
+  // .article-container
+  //=========================================================================
+  .article-container
+    padding: 0 0 10px 0
+    position: relative
+
+    .padded-wrap
+      padding: 0 10px
+
+    .wrap-sidebar
+      background-color: mew-color-background-2
+      position: absolute
+      top: 0
+      left: 0
+
+  //=========================================================================
+  // .thumbs-and-share-container
+  //=========================================================================
+  .thumbs-and-share-container
+    margin-top: 100px
+    //display: flex
+    display: none
+    align-items: center
+
+
+
+    .share
+      //margin-left: auto;
+
+
+
+  //=========================================================================
+  // aside
+  //=========================================================================
+  aside
+    border-bottom: 1px solid mew-color-light-grey-2
+    padding: 0 10px
+    position: relative
+
+    .sidebar-close-button
+      //text-transform: uppercase
+      font-size: 12px
+      font-weight: 600
+      color: white
+      padding: 10px
+      position: absolute
+      bottom: -19px
+      left: 0
+      right: 0
+      border: 1px solid mew-color-light-grey-2
+      border-radius: 20px
+      width: 90px
+      text-align: center
+      margin: 0 auto
+      background-color: mew-color-text-1
+      user-select: none
+      opacity: 0
+      pointer-events: none
+      transition: all 0.4s ease
+
+      &.expended
+        opacity: 1
+        pointer-events: all
+
+    .show-list-button
+      padding: 25px 15px
+      display: flex
+      align-items: center
+      p
+        font-size: 15px
+        font-weight: 500
+
+      i
+        margin-left: auto
+        font-size: 12px
+        transition: all 0.3s ease
+        transform: rotate(180deg)
+
+      &.expended
+        i
+          transform: rotate(720deg)
+
+    .search-form-container
+      margin-bottom: 10px
+      position: relative
+
+      button
+        display: none
+
+      input
+        width: 100%
+        border: 0
+        background-color: mew-color-light-grey-5
+        padding: 20px 20px 20px 40px
+        border-radius: 4px
+
+      &::before
+        content: '⚲'
+        position: absolute
+        top: 15px
+        left: 17px
+        transform: rotate(-45deg)
+        color: #000
+        display: inline-block
+        font-size: 20px
+        z-index: 1
+
+
+    .sidebar-primary-category
+      border-top: 1px solid mew-color-light-grey-2
+      overflow: hidden
+      max-height: 0px;
+      transition: all 0.5s ease
+      opacity: 0
+      position: relative
+      
+      &.expended
+        max-height: 900px
+        opacity: 1
+
+      ul
+        padding: 15px 0
+        li
+          margin-bottom: 5px
+        li > a > div
+          padding: 15px 15px
+
+          p
+            font-size: 15px
+            font-weight: 500
+
+          &:hover
+            //background-color: mew-color-light-grey-4
+
+          &.active
+            //background-color: mew-color-green-1
+            p
+              //color: white
+
+
+  //=========================================================================
+  // .mew___components_sidebar_sidebar-search-form
+  //=========================================================================
+  .mew___components_sidebar_sidebar-search-form
+    margin-bottom: 10px
+    position: relative
+    width: 100%
+
+    input
+      width: 100%
+      border: 0
+      background-color: mew-color-light-grey-5
+      padding: 20px 20px 20px 40px
+      border-radius: 4px
+
+    &::before
+      content: '⚲'
+      position: absolute
+      top: 15px
+      left: 17px
+      transform: rotate(-45deg)
+      color: #000
+      display: inline-block
+      font-size: 20px
+      z-index: 1
+
+
+
+
+  //=========================================================================
+  // .mew___components_sidebar_customer-support-block
+  //=========================================================================
+  .mew___components_sidebar_customer-support-block
+    margin-top: 10px
+    .wrap
+      border-radius: 4px
+      padding: 30px 20px
+      display: flex
+      align-items: center
+      background-color: mew-color-background-2
+
+      .icon-image
+        margin-right: 15px
+        img
+          width: 40px
+
+      .content
+        .title
+          font-size: 20px
+          font-weight: 600
+          margin-bottom: 10px;
+
+        .email-us a
+          color: mew-color-green-1
+          font-size: 16px
+          font-weight: 500
+          position: relative
+          span
+            position: absolute
+            top: -8px
+            left: 65px
+            color: mew-color-green-1
+            font-size: 30px
+            margin-left: 10px
+
+
+
+  //=========================================================================
+  // .mew___components_breadcrumbs
+  //=========================================================================
+  .mew___components_breadcrumbs
+    .wrap
+      display: flex
+      align-items: center
+      div
+        color: mew-color-green-1
+        font-size: 14px
+        font-weight: 400
+        a
+          color: mew-color-green-1
+          font-size: 14px
+          font-weight: 400
+
+          &:hover
+            color: red
+            text-decoration: underline
+
+          span
+            color: mew-color-green-1
+            font-size: 20px
+            line-height: 20px
+            font-weight: 400
+
+      .post-title
+        color: mew-color-text-1
+        span
+          font-weight: 400
+
+
+
+  //=========================================================================
+  // .mew___components_thumbs-up-down
+  //=========================================================================
+  .mew___components_thumbs-up-down
+    .wrap
+      padding: 20px 0
+      display: flex
+      align-items: center
+
+      div
+        margin-right: 15px
+        display: flex
+        align-items: center
+        i
+          font-size: 20px
+          cursor: pointer
+          &:hover
+            color: mew-color-green-1
+
+
+  //=========================================================================
+  // .mew___components_share
+  //=========================================================================
+  .mew___components_share
+    .wrap
+      display: flex
+      align-items: center
+
+      .title
+        font-weight: 500
+
+      div
+        margin-right: 20px
+
+        i
+          font-size: 20px
+          color: mew-color-light-grey-2
+          cursor: pointer
+
+          &:hover
+            color: mew-color-green-1
+
+
+
+
+  //=========================================================================
+  // .wrap-post-body
+  // Post content styles
+  //=========================================================================
+  .wrap-post-body
+    padding: 90px 10px 0px 10px;
+
+    *
+      color: mew-color-text-1
+
+    img
+      box-shadow: 0 0 5px mew-color-transparent-background-2
+      vertical-align: top
+      border-radius: 3px
+      margin: 50px auto
+      display: block
+
+      &.image-right
+        border-radius: 15px;
+        margin: 0
+        margin-left: 20px
+      &.image-left
+        border-radius: 15px;
+        margin: 0
+        margin-right: 20px
+
+    p
+      font-size: 14px
+      font-weight: 400
+      margin-bottom: 10px
+
+      em
+        font-weight: 500
+        //color: red
+
+      strong
+        //color: red
+        font-weight: 600
+
+
+    h1
+      font-size: 24px
+      font-weight: 400
+      strong
+        font-weight: 600
+
+
+    h2
+      margin-top: 50px
+      margin-bottom: 10px
+      font-size: 18px
+      font-weight: 400
+      strong
+        font-weight: 600
+
+    h3
+      font-size: 20px
+      font-weight: 400
+      strong
+        font-weight: 600
+
+
+    h4
+      font-size: 13px
+      font-weight: 400
+      //margin-top: -5px
+      margin-bottom: 10px
+      em,
+      strong
+        font-weight: 600
+
+
+    h5
+      font-size: 13px
+      font-weight: 400
+      strong
+        font-weight: 600
+
+    h6
+      font-size: 14px
+      color: mew-color-light-grey-6
+      margin-top: 10px
+      font-weight: 400
+      strong
+        font-weight: 600
+
+    hr
+      margin-bottom: 30px
+
+    ul
+      margin-bottom: 20px
+      margin-top: 5px
+      li
+        //list-style-type: none
+        list-style-type: disc
+        font-size: 14px
+        margin-bottom: 15px
+        margin-left: 25px
+        padding: 5px 0px 5px 0px
+
+        //border-left: 3px solid mew-color-light-grey-4
+
+    .reminder
+      padding: 33px
+      background-color: mew-color-light-grey-10
+      font-size: 24px
+      margin: 70px 0px
+      line-height: 42px
+      font-weight: 200
+      border: 1px solid mew-color-light-grey-11
+
+      br:first-child
+        display: none
+
+    a
+      text-decoration: underline
+      color: mew-color-green-1
+
+
+    code
+      word-break: break-all
+      overflow-wrap: break-word
+
+    .scrollbox
+      overflow-x: auto
+      overflow-y: auto
+      max-width: 700px
+      height: 200px
+      display: block
+      unicode-bidi: embed
+      font-family: monospace
+      white-space: pre
+      border-radius: 5px 5px 0 0
+      background-color: mew-color-light-grey-9
+      margin: 20px 0
+      padding: 0 20px
+      border: 1px solid mew-color-grey-1
+      *
+        display: block
+
+    .pre-next-posts
+      margin-top: 60px
+
+    .youtube-video
+      position: relative
+      width: 100%
+      height: 100%
+      padding-bottom: 56.25%
+      background-color: #000
+
+      iframe
+        z-index: 999
+        position: absolute
+        top: 0
+        left: 0
+        width: 100%
+        height: 100%
+
+
+  //=========================================================================
+  // .related-posts
+  //=========================================================================
+  .related-posts
+    display: grid
+    grid-template-columns: 1fr 1fr
+    grid-gap: 10px
+
+    .next-post
+      text-align: right
+
+    .pre-post, .next-post
+      height: 100%
+      padding: 20px
+      border-radius: 4px
+      background-color: mew-color-light-grey-11
+
+      .button-title
+        color: mew-color-light-grey-1
+        font-size: 20px
+        font-weight: 600
+      .post-title
+        color: mew-color-light-grey-1
+        margin-bottom: 0
+        margin-top: 5px
+
+    .valid
+      background-color: mew-color-green-1
+
+      .button-title
+        color: white 
+      .post-title
+        color: white
+
+
