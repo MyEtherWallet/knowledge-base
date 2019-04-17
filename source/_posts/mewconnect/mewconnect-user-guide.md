@@ -27,7 +27,7 @@ alias:
 
 **Step 3.** Pick a strong password.
 
-This step is very important. Make sure you pick a password that is not easy to guess, but also write it down with pen and paper. If you forget it, we cannot recover it for you. There is only one other way 
+This step is very important. Make sure you pick a password that is not easy to guess, but also write it down with pen and paper. There is only one other way 
 to access your wallet, and we’ll get to that soon.
 
 **Step 4.** Type it again.
@@ -51,7 +51,7 @@ You’re done! You’ll be taken to a screen that shows your new wallets address
 
 **Step 5.** WRITE DOWN YOUR SEED WORDS.
 
-This is the single most important piece of information about your wallet. These 24 words will decide the future of your funds. Do not lose them, and do not screenshot them.
+This is the single most important piece of information about your wallet. These 24 words will decide the future of your funds. Do not lose them, write them down!
 
 **Step 6.**  Pass the seed word check test.
 
