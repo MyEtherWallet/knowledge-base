@@ -17,7 +17,7 @@ primary_category_display_name: "Hardware Wallets"
 ***
 
 Digital BitBox Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here][buyBitBox]. 
-* \*Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.
+*Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
 
 Hardware wallets often support multiple cryptocurrencies, but this guide is specifically made for accessing Ethereum and ERC-20 tokens while using MyEtherWallet (MEW). 
 
@@ -25,53 +25,38 @@ Hardware wallets often support multiple cryptocurrencies, but this guide is spec
 
 Without further ado, let’s begin!
 
-
+***
 
 ## __The Initial Set-Up__
 
 **Step 1.** Unbox your Digital BitBox! Plug it into your computer and download the [Digital BitBox Desktop App application][BitBoxdl]. 
 * You may want to pin it to your taskbar.
 
-***
-
 **Step 2.** In the Digital BitBox Desktop App interface, select 'Create a new wallet'. 
 
-***
-
 **Step 3.** Set up a password to access your Digital BitBox. Make it something that is very easy to remember for you. Write it down in a couple places. Remember it!! This is how you will unlock your wallet everytime you want to access it.  
-
-***
 
 **Step 4.** This is one of the most important steps. To recover your device in the future, you will need both the SD card AND your choice of recovery password. Do not write this recovery password down on your computer, do not take a picture of the password. Make sure you write down your recovery password in multiple places. DO NOT LOSE IT. If you lose this password and the SD card it's attached to, you’ve lost all your cryptocurrency. We suggest using multiple pieces of paper to write this down. Again, do not write this password down on your computer. Use pen and paper.
 * Make sure you remove and take good care of that SD card! 
 
-***
-
 **Step 5.** Great, your device is now ready! Now let’s figure out how to use it with MyEtherWallet.
 
+***
 
 ## __Using Digital BitBox with MEW__
 
 **Step 1.** Attach your Digital BitBox device and head to MyEtherWallet.com.
 
-***
-
 **Step 2.** On MEW, select 'Access My Wallet' > 'Hardware' > 'Digital BitBox'.
 
-***
-
 **Step 3.** It will ask for a password. Enter your password to connect to your wallet.
-
-***
 
 **Step 4.** You will see a bunch of addresses here. Make sure you're on the Ethereum network, using the standard Ethereum derivation path, and then choose your address.
 * There's no right or wrong choice for choosing an address, it's up to you. But choosing the first one is usually the best practice, for convenience and memory's sake.
 
-***
-
 **Step 5.**  You should now be taken to a screen that looks very similar to your old wallet’s access screen. Great job! You’re officially using your new Digital BitBox hardware wallet! 
 
-
+***
 
 ## __What About My Old Wallet???__
 
@@ -79,13 +64,9 @@ If you are coming from an old wallet and want your ETH and tokens on your new, s
 
 Please be advised ETH will be required for gas to move any tokens held in your old wallet. We recommend holding .01 ETH to cover 2 - 3 transactions.
 
-
-
 ## __How Do I Restore My Digital BitBox to a New Device?__
 
 You will need to use your mini SD card provided **and** the recovery password you chose to recover your wallet. 
-
-
 
 ## __Troubleshooting__
 
