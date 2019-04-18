@@ -31,7 +31,7 @@ Without further ado, let’s begin!
 
 ## __The Initial Set-Up__
 
-**Step 1.** Unbox your Ledger! You will see some cards and instructions for set-up. Follow these instructions carefully! Plug in the Ledger to your computer and get started. Press both buttons at the top of the Ledger to navigate past the first screen, seen above.
+**Step 1.** Unbox your Ledger! You will see some cards and instructions for set-up. Follow these instructions carefully! Plug in the Ledger to your computer and get started. Press both buttons at the top of the Ledger to navigate past the first screen, seen below.
 
 <img src="/images/posts/hardware-wallet/ledger/welcome.jpg" width="50%">
 
