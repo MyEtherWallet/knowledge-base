@@ -24,48 +24,57 @@ alias:
 ###### {% read_time title "Pro-Tips: How to Avoid Phishing/Scams" %} min read
 ***
 
-**1. Secure your access method.** Whether it's by [purchasing a hardware wallet][hwallet], downloading [MEWconnect][mewconnect], or by [using MEW offline][MEWoffline], secure access is the number one defense against phishing.
+**1. Secure your access method.** 
+* Whether it's by [purchasing a hardware wallet][hwallet], downloading [MEWconnect][mewconnect], or by [using MEW offline][MEWoffline], secure access is the number one defense against phishing.
 
-**2. Install [EAL][EAL], [PhishFort][PhishFort], or [Cryptonite][Cryptonite].** These Chrome Extensions warn you when visiting malicious sites.
+**2. Install [EAL][EAL], [PhishFort][PhishFort], or [Cryptonite][Cryptonite].**
+* These Chrome Extensions warn you when visiting malicious sites.
 
 
-**3. Never click a link sent to you, even if it looks like it was sent by a legitimate crypto company.** Search for the service on Google, and find the information there. (Make sure it’s not an ad!)
+**3. Never click a link sent to you, even if it looks like it was sent by a legitimate crypto company.** 
+* Search for the service on Google, and find the information there. (Make sure it’s not an ad!)
 
 <img src="/images/posts/security/ProTip1.jpg" width=" 65%">
 
 
-**4. You will never have to enter your private key for any service, airdrop, or KYC verification.** Do not give your private key, [mnemonic phrase][phrase], or [keystore file][keystore] to anyone! These are best used with [MEW offline][MEWoffline].
+**4. You will never have to enter your private key for any service, airdrop, or KYC verification.** 
+* Do not give your private key, [mnemonic phrase][phrase], or [keystore file][keystore] to anyone! These are best used with [MEW offline][MEWoffline].
 
 
-**5. Check the URL very closely, to make sure it’s the one you are expecting.** Phishers are very clever with their tiny dots and accents. Bookmark all the sites you frequent most!
+**5. Check the URL very closely, to make sure it’s the one you are expecting.** 
+* Phishers are very clever with their tiny dots and accents over and under the letters. 
+* Bookmark all the sites you frequent most!
 
 <img src="/images/posts/security/ProTip2.jpg" width=" 65%">
 
 
-**6. Always Google search any token sales or ICOs you’re interested in.** If it’s a scam, others will likely be posting about it. Check their Twitter, Reddit, etc. (Follow us on Twitter and Reddit while you’re at it!)
+**6. Always Google search any token sales or ICOs you’re interested in.** 
+* If it’s a scam, others will likely be posting about it. 
+* Check their Twitter, Reddit, etc. (Follow us on Twitter and Reddit while you’re at it!)
 
 <img src="/images/posts/security/ProTip3.jpg" width=" 65%">
 
 
-**7. Search smart, and look for common signs of scams – lack of followers in common, angry comments, etc.** Remember, there are many fake bots and accounts out there!
+**7. Search smart and look for common signs of scams – lack of followers in common, angry comments, etc.** 
+* Remember, there are many fake bots and accounts out there!
 
 <img src="/images/posts/security/ProTip4.jpg" width=" 65%">
 
 
-**8. Before sending crypto to any address, search it on Etherscan first.** There is a comment section there that is likely to be full of angry people if the address is known for stealing funds.
+**8. Before sending crypto to any address, search it on Etherscan first.** 
+* There is a comment section there that is likely to be full of angry people if the address is known for stealing funds.
 
 <img src="/images/posts/security/ProTip5.jpg" width=" 65%">
 
 
-**9. Double and triple-check everything!** Make sure every address is 100% correct, as even one wrong character will lead to a completely different wallet. We cannot reverse or refund transactions, so this is very important!
+**9. Double and triple-check everything!** 
+* Make sure every address is 100% correct, as even one wrong character will lead to a completely different wallet. 
+* **We cannot reverse or refund transactions**, so this is very important!
 
 
-
-**10. Make sure the URL at the top of your interface shows that you are on our correct site, MyEtherWallet.com.** Be cautious of any tiny dots or accents over the letters. Seeing these means you're on a fake site.
-
-
-
-**11. Last, but not least, don't be afraid to ask for help!** We can always be reached at support@myetherwallet.com. Our support team is happy to help with any issue, big or small.
+**10. Last, but not least, don't be afraid to ask for help!** 
+* We can always be reached at support@myetherwallet.com. 
+* Our support team is happy to help with any issue, big or small.
 
 [mewconnect]: /posts/mewconnect/mewconnect-user-guide/
 [hwallet]: https://www.myetherwallet.com/hardware-wallet-affiliates
