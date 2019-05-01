@@ -24,7 +24,7 @@ alias:
 ###### {% read_time title "Pro-Tips: How to Avoid Phishing/Scams" %} min read
 ***
 
-**1. Secure your Access Method.** Whether it's by [purchasing a hardware wallet][hwallet], downloading [MEWconnect][mewconnect], or by [using MEW offline][MEWoffline], secure access is the number one defense against phishing.
+**1. Secure your access method.** Whether it's by [purchasing a hardware wallet][hwallet], downloading [MEWconnect][mewconnect], or by [using MEW offline][MEWoffline], secure access is the number one defense against phishing.
 
 **2. Install [EAL][EAL], [PhishFort][PhishFort], or [Cryptonite][Cryptonite].** These Chrome Extensions warn you when visiting malicious sites.
 
