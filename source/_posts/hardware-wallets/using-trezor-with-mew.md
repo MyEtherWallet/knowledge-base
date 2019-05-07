@@ -138,7 +138,7 @@ Most issues with the Trezor can be fixed by performing a hard refresh (using CTR
 If these troubleshooting options did not fix your issue, MEW has an extensive knowledge base that you can find [here][mewkb]. There is a big chance that it's already listed under ‘Common Issues’. If not, feel free to contact us at support@myetherwallet.com. We are always happy to help!
 
 
-[buyTrezor]: https://shop.trezor.io/?a=myetherwallet.com
+[buyTrezor]: https://trezor.io/?offer_id=12&aff_id=2029
 [trezorSupport]: https://wiki.trezor.io/User_manual:Recovery
 [mewkb]: https://kb.myetherwallet.com
 [trezorStart]: https://trezor.io/start

@@ -91,7 +91,7 @@ alias:
 [sendTx]: /posts/transactions/how-to-send-a-transaction/
 [offline]: /posts/offline/offline-mew-looks-weird/
 [ledger]: https://www.ledger.com/?r=fa4b
-[trezor]: https://shop.trezor.io/?a=myetherwallet.com
+[trezor]: https://trezor.io/?offer_id=12&aff_id=2029
 [reddit]: https://www.reddit.com/r/MyEtherWallet/
 [twitter]: https://twitter.com/myetherwallet
 [sendTX]: /posts/transactions/how-to-send-a-transaction/
