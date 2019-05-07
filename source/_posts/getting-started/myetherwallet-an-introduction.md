@@ -95,7 +95,7 @@ You’re in charge of your own funds and information.
 [etherscan]: https://etherscan.io/
 [ethplorer]: https://ethplorer.io
 [ledger]: https://www.ledger.com/?r=fa4b
-[trezor]: https://shop.trezor.io/?a=myetherwallet.com
+[trezor]: https://trezor.io/?offer_id=12&aff_id=2029
 [EAL]: https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn
 [PhishFort]: https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc
 [Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
