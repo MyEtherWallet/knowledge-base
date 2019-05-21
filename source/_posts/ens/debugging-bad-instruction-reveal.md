@@ -18,6 +18,8 @@ alias:
 ###### {% read_time title "Debugging a 'Bad Instruction' Reveal" %} min read
 ***
 
+## __**This article is no longer relevant, as the new ENS has been deployed.**__
+
 ## __Step 1. Make sure you actually placed a bid.__
 * Look up your address on Etherscan.io in order to find the transaction in which you placed your bid.
 * It will be an outgoing transaction (which show as orange) to [ENS-Registrar][ensRegistrar].
