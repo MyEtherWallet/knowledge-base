@@ -19,6 +19,8 @@ alias:
 ###### {% read_time title "Manually Revealing Your ENS Bid" %} min read
 ***
 
+## __**This article is no longer relevant, as the new ENS has been deployed.**__
+
 ## __Find the Transaction Hash for Your Bid__
 First, look up your address on Etherscan.io in order to find the transaction in which you placed your bid.
 

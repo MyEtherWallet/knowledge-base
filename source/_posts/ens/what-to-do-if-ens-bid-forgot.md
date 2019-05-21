@@ -18,6 +18,10 @@ alias:
 ###### {% read_time title "What to Do if You Forgot to Reveal Your ENS Bid" %} min read
 ***
 
+
+## __**This article is no longer relevant, as the new ENS has been deployed.**__
+
+
 ## __If There Are Other Bidders__
 
 You can get 0.5% back by manually revealing, as written up [here][manualReveal].
