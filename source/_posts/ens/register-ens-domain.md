@@ -40,7 +40,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 * You will also need a small amount of ETH for [gas][gas]. We generally recommend `.01 ETH` for 1 - 2 transactions. Starting and finalizing ENS auctions both count as a transactions.
 
 **Step 3.** Head to the Dapps section, to the left of your wallet's overview page (or by clicking the ‘Change’ function at the top right). 
-* Here you will see the ‘Register ENS’ option. Click there!
+* Here you will see the ‘ENS Manager’ option. Click there!
 
 **Step 4.** Enter your desired domain name to see if it is available.
 * ENS domains must be 7 characters or longer.
@@ -56,8 +56,15 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 **Step 7.** Check your transaction on Etherscan.io. It should show your public address under the 'Owner' field.
 
-**This process will only set your address as the owner of the domain, but you’re not done yet. If you want this domain to point to your address for sending, you still have a bit to do. Check out [this guide][finalizeEns] for more information on how to achieve this final step.**
+**This process will only set your address as the owner of the domain, but you’re not done yet. If you want this domain to point to your address for sending, you still have a bit to do.**
+
+## __Finalizing the Process__
+
+**Step 1.** In order to finish setting up your new domain, search it once again on MyEtherWallet in the ENS Manager Dapp.
+
+**Step 2.** Click 'Manage', and enter the address you'd like all funds to be directed to under the 'Update Resolving address' field. If you'd like it to be the same wallet you've registered on, simply copy and paste the same public address.
+
+**Step 3.** Confirm the transaction, and your domain will be ready to receive funds!
 
 [createWallet]: /posts/Getting_Started/How_To_Create_A_Wallet/
 [gas]: /posts/transactions/what-is-gas/
-[finalizeEns]: /posts/ens/setting-ens-resolver/

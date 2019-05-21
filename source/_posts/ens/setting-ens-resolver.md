@@ -19,6 +19,9 @@ alias:
 ###### {% read_time title "Setting the Resolver for an ENS Name" %} min read
 ***
 
+
+## __**This article is no longer relevant, as the new ENS has been deployed.**__
+
 ## __Set the Resolver for your Name__
 
 **Step 1.** On MEW, [access your wallet][accessWallet] and head to the 'Contracts' tab on the left.
