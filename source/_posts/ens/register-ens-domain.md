@@ -66,5 +66,13 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 **Step 3.** Confirm the transaction, and your domain will be ready to receive funds!
 
+## __Transferring Ownership__
+
+**Step 1.** If you want to transfer ownership of your domain, search it once again on MyEtherWallet in the ENS Manager Dapp.
+
+**Step 2.** Click 'Manage', and enter the address you'd like to transfer the ownership to under the 'Transfer ENS domain to:' field. 
+
+**Step 3.** Confirm the transaction, and the ownership of your domain will be transferred.
+
 [createWallet]: /posts/Getting_Started/How_To_Create_A_Wallet/
 [gas]: /posts/transactions/what-is-gas/
