@@ -8,15 +8,19 @@ subtitle:
 description: MyEtherWallet Knowledge Base
 keywords: ethereum
 author: MyEtherWallet.com
-language: en
+language: [en, ru]
 timezone: America/Los_Angeles
+
+i18n:
+  type: [page, post]
+  generator: [index, archive, category, tag]
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # url: http://localhost.com
 url: https://kb.myetherwallet.com/
 root: /
-permalink: /posts/:title/
+permalink: posts/:title/
 permalink_defaults:
 
 # Directory
@@ -74,7 +78,6 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: landscape
 theme: mew5
 theme_config: ./themes/_config.yml
 
@@ -83,8 +86,6 @@ theme_config: ./themes/_config.yml
 deploy:
   type: git
   repo: git@github.com:MyEtherWallet/knowledge-base-v5.git
-  # branch: [gh-pages] #published
-  # message: [message]  #leave this blank
 
 
 alias:
