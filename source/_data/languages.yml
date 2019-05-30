@@ -1,0 +1,2 @@
+ru: Русский
+en: English
