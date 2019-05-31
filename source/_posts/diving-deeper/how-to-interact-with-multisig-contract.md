@@ -22,7 +22,7 @@ alias:
 
 **Step 1.** Access your wallet and head to the ‘Contracts’ section, to the left of your wallet interface.
 
-**Step 2.** There should be a Must Multisig Contract ABI in the dropdown. If not, we have provided the ABI at the bottom of this article, which you can manually input into the interface. 
+**Step 2.** There should be a Mist Multisig Contract ABI in the dropdown. If not, we have provided the ABI at the bottom of this article, which you can manually input into the interface. 
 
 **Step 3.** Enter your contract address in the ‘Contract Address’ field at the top. 
 
