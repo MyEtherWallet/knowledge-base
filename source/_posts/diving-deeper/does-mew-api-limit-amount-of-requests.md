@@ -50,6 +50,8 @@ Or you could pay a small fee and use [QuikNode][quiknode], which makes it even e
 
 For both of these options, you could connect to your new node via the 'Add Custom Node' option in the network selector in the top-right corner. Further details on how to connect to your own node can be found [here][ownNode], or you could connect directly via API.
 
+
+ 
 [instructions]: https://github.com/MyEtherWallet/docker-geth-lb
 [quiknode]: https//quicknode.io/
 [ownNode]: /posts/networks-and-nodes/unable-to-connect-to-custom-node/

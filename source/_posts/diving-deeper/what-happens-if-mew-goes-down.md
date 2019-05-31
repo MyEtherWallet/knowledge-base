@@ -32,5 +32,6 @@ You can import your unencrypted private key and your Geth/Mist Format (encrypted
 
 You can also [run MyEtherWallet locally][mewLocal] and/or [connect it to your own node][ownNode].
 
+ 
 [mewLocal]: 
 [ownNode]: /posts/networks-and-nodes/unable-to-connect-to-custom-node/

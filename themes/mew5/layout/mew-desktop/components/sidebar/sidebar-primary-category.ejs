@@ -15,6 +15,8 @@
         <% if(post.primary_category == primaryCategory){ %>
           <% counter++ %>
           <li class="primary-category-post-title">
+            <%- page.lang %>
+            <a href="<%- url_for_lang(post.path, page.lang)%>"><%-  url_for_lang(post.path) %></a>
             <a href="<%- url_for(post.path) %>">
               <div class="<%- post._id == pageID ? 'active' : '' %>">
                 <div class="hidden post-index-number"><%= counter %></div>

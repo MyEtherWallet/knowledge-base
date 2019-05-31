@@ -8,10 +8,11 @@ subtitle:
 description: MyEtherWallet Knowledge Base
 keywords: ethereum
 author: MyEtherWallet.com
-language: [en, ru]
+#language: [en, ru]
 timezone: America/Los_Angeles
 
 i18n:
+  languages: [en, ru]
   type: [page, post]
   generator: [index, archive, category, tag]
 
@@ -20,8 +21,9 @@ i18n:
 # url: http://localhost.com
 url: https://kb.myetherwallet.com/
 root: /
-permalink: posts/:title/
+permalink: :lang/posts/:title/
 permalink_defaults:
+  lang: ''
 
 # Directory
 source_dir: source
@@ -30,7 +32,7 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-i18n_dir: :lang
+#i18n_dir: :lang
 skip_render:
 
 # Writing
