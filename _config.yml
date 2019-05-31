@@ -21,7 +21,7 @@ i18n:
 # url: http://localhost.com
 url: https://kb.myetherwallet.com/
 root: /
-permalink: :lang/posts/:title/
+permalink: /posts/:title/
 permalink_defaults:
   lang: ''
 

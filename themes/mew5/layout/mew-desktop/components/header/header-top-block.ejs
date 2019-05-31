@@ -1,12 +1,12 @@
 <div class="header-top-block">
     <div class="left">
-        <a href="<%- url_for('') %>"><%- image_tag('images/mew-logo-white.png') %></a>
+        <a href="<%- url_for_lang('') %>"><%- image_tag('images/mew-logo-white.png') %></a>
         <p><%= _p('help_center') %></p>
     </div>
     <div class="right">
         <ul>
             <% for (var i in theme.menu){ %>
-                <li><a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a></li>
+                <li><a class="main-nav-link" href="<%- url_for_lang(theme.menu[i]) %>"><%= i %></a></li>
             <% } %>
             <li>
                 <select id="header-lang-select" class="header-lang-select">
@@ -14,7 +14,8 @@
                         <option disabled selected value class="hidden">Choose a language</option>
                         <% get_langs().forEach(lang => { %>
                             <option value="<%= lang %>"
-                                    data-href="<%= switch_lang(lang) %>"><%= site.data.languages[lang] %></option>
+                                    data-href="<%= switch_lang(lang) %>"><%= site.data.languages[lang] %>
+                            </option>
                         <% }) %>
                     <% } else { %>
                         <% get_langs().forEach(lang => { %>
@@ -28,6 +29,7 @@
                         <% }) %>
                     <% } %>
                 </select>
+                <%- page.lang %>
             </li>
         </ul>
     </div>
