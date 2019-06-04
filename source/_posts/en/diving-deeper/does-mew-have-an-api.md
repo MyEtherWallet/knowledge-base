@@ -1,0 +1,38 @@
+---
+title: "Does MyEtherWallet have an API?"
+lang: en
+date: 2018-06-01 00:02:00
+tags:
+- api
+categories:
+- [diving-deeper]
+primary_category: diving-deeper
+primary_category_display_name: "Diving Deeper"
+alias:
+- diving-deeper/does-myetherwallet-have-an-api.html
+---
+
+# __Does MyEtherWallet have an API?__
+###### {% read_time title "Does MyEtherWallet have an API?" %} min read
+***
+
+## __Here are the API docs for MEW, Etherscan, and Infura (the three main providers of public nodes):__
+
+* MEW
+* [Infura][infurahowto]
+* [Etherscan][etherscanapi]
+
+Our backend infrastructure is on AWS. You can actually do it yourself and run your own public or private node via [these instructions][instructions]. 
+
+Or you could pay a small fee and use [QuikNode][quiknode], which makes it even easier.
+
+For both of these options, you could also connect to your new node via the 'Add Custom Node' option in the network selector in the top-right corner. Further details on how to connect to your own node can be found [here][ownNode].
+
+Or use our API directly to it (see the docs in the above APIs).
+
+[mewapi]: http://www.myetherapi.com/
+[infurahowto]: https://infura.io/#how-to
+[etherscanapi]: https://etherscan.io/apis
+[instructions]: https://github.com/MyEtherWallet/docker-geth-lb
+[quiknode]: https://quiknode.io/
+[ownNode]: /posts/networks-and-nodes/unable-to-connect-to-custom-node/

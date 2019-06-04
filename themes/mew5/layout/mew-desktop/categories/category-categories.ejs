@@ -8,7 +8,7 @@
           <h3><%= _p('index.intro') %></h3>
           <ul>
             <li>
-              <a href="<%- url_for(page.lang + '/' + strip_lang_prefix(site.categories.findOne({name: 'get-started'}).posts.sort('date', 1).data[0].path, get_langs())) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'get-started'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/get-started.svg') %>
                   <p><%= _p('index.get_started') %></p>

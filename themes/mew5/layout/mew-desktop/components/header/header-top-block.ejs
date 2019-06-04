@@ -9,27 +9,13 @@
                 <li><a class="main-nav-link" href="<%- url_for_lang(theme.menu[i]) %>"><%= i %></a></li>
             <% } %>
             <li>
-                <select id="header-lang-select" class="header-lang-select">
-                    <% if (is_home()) { %>
-                        <option disabled selected value class="hidden">Choose a language</option>
-                        <% get_langs().forEach(lang => { %>
-                            <option value="<%= lang %>"
-                                    data-href="<%= switch_lang(lang) %>"><%= site.data.languages[lang] %>
-                            </option>
-                        <% }) %>
-                    <% } else { %>
-                        <% get_langs().forEach(lang => { %>
-                            <option
-                                    value="<%= lang %>"
-                                    <%= lang === page.lang ? 'selected' : '' %>
-                                    data-href="<%= switch_lang(lang) %>"
-                            >
-                                <%= site.data.languages[lang] %>
-                            </option>
-                        <% }) %>
+                <label id="lang-select-label"><i class="fa fa-globe"></i><span><%= lang_name(page.lang) %></span></label>
+                <select id="lang-select" data-canonical="<%= canonical_path_for_nav() %>">
+                    <option >Select Language</option>
+                    <% for (let lang in site.data.languages){ %>
+                    <option value="<%= lang %>"<% if (page.lang === lang){ %> selected<% } %>><%= lang_name(lang) %></option>
                     <% } %>
                 </select>
-                <%- page.lang %>
             </li>
         </ul>
     </div>
