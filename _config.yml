@@ -8,22 +8,23 @@ subtitle:
 description: MyEtherWallet Knowledge Base
 keywords: ethereum
 author: MyEtherWallet.com
-#language: [en, ru]
+language:
+  - en
+  - ru
 timezone: America/Los_Angeles
 
-i18n:
-  languages: [en, ru]
-  type: [page, post]
-  generator: [index, archive, category, tag]
+#i18n:
+#  languages: [en, ru]
+#  type: [page, post]
+#  generator: [index, faqs, category, tag]
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # url: http://localhost.com
 url: https://kb.myetherwallet.com/
 root: /
-permalink: /posts/:title/
+permalink: :title/
 permalink_defaults:
-  lang: ''
 
 # Directory
 source_dir: source
@@ -32,7 +33,7 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-#i18n_dir: :lang
+i18n_dir: :lang
 skip_render:
 
 # Writing
@@ -59,6 +60,7 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
+  single_language_index: false
   
 # Category & Tag
 default_category: uncategorized

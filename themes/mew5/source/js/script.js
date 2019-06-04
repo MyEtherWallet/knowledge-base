@@ -135,19 +135,4 @@
     $container.removeClass('mobile-nav-on');
   });
 
-  var changeLang = function () {
-    var lang = page.lang;
-    var path = page.path;
-    console.log(lang)
-    // var canonical = this.dataset.canonical;
-    console.log(path)
-
-    // if (lang === 'en') lang = '';
-    // if (lang) lang += '/';
-    location.href = '/' + lang + path;
-  };
-
-  $('#header-lang-select').change(changeLang);
-  $('#mobile-lang-select').change(changeLang);
-
 })(jQuery);

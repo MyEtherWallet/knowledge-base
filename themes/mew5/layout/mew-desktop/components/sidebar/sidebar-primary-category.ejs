@@ -12,12 +12,11 @@
     <ul>
       <% var counter = 0 %>
       <% site.posts.sort('date', 1).each(function(post){ %>
-        <% if(post.primary_category == primaryCategory){ %>
+        <% if(post.primary_category == primaryCategory && post.lang === page.lang){ %>
           <% counter++ %>
           <li class="primary-category-post-title">
             <%- page.lang %>
-            <a href="<%- url_for_lang(post.path, page.lang)%>"><%-   %></a>
-            <a href="<%- url_for(page.lang + '/' + strip_lang_prefix(url_for(post.path))) %>">
+            <a href="<%- url_for_lang(post.path) %>">
               <div class="<%- post._id == pageID ? 'active' : '' %>">
                 <div class="hidden post-index-number"><%= counter %></div>
                 <p class="post-title"><%= post.title || '(no title)' %></p>
