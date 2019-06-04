@@ -54,4 +54,4 @@ For both of these options, you could connect to your new node via the 'Add Custo
  
 [instructions]: https://github.com/MyEtherWallet/docker-geth-lb
 [quiknode]: https//quicknode.io/
-[ownNode]: /posts/networks-and-nodes/unable-to-connect-to-custom-node/
+[ownNode]: /ru/networks-and-nodes/unable-to-connect-to-custom-node/

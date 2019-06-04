@@ -35,4 +35,4 @@ Or use our API directly to it (see the docs in the above APIs).
 [etherscanapi]: https://etherscan.io/apis
 [instructions]: https://github.com/MyEtherWallet/docker-geth-lb
 [quiknode]: https://quiknode.io/
-[ownNode]: /posts/networks-and-nodes/unable-to-connect-to-custom-node/
+[ownNode]: /en/networks-and-nodes/unable-to-connect-to-custom-node/

@@ -37,4 +37,4 @@ This error appears on [Etherscan][etherscan] when a sender tries to transfer out
 * Make sure that you are attempting to send either the same amount of tokens that you have, or less.
 
 [etherscan]: https//www.etherscan.io/
-[addCustom]: /posts/tokens/how-to-add-custom-token/
+[addCustom]: /en/tokens/how-to-add-custom-token/

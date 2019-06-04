@@ -39,7 +39,7 @@ In the future, we strongly recommend you use our companion app [MEWconnect][MEWc
  
 You can read more about how to safely back up your wallet [here][backitup].
 
-[MEWconnect]: /posts/mewconnect/mewconnect-user-guide/
-[hardwareLedger]: /posts/hardware-wallets/using-ledger-with-mew/
-[offlineMEW]: /posts/offline/offline-mew-looks-weird/
-[backitup]: /posts/mewconnect/mewconnect-101-recover/
+[MEWconnect]: /ru/mewconnect/mewconnect-user-guide/
+[hardwareLedger]: /ru/hardware-wallets/using-ledger-with-mew/
+[offlineMEW]: /ru/offline/offline-mew-looks-weird/
+[backitup]: /ru/mewconnect/mewconnect-101-recover/

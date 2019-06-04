@@ -51,13 +51,17 @@ hexo.extend.helper.register('canonical_url', function(lang) {
 });
 
 hexo.extend.helper.register('url_for_lang', function(path) {
+  if(startsWith(path, 'mailto')) return path;
   var lang = this.page.lang;
   if(path.slice(0, 2) === lang){
+    // console.log('second exit'); // todo remove dev item
     if(path[0] !== '/'){
       path = '/' + path;
     }
     return path;
   }
+  // console.log('third exit'); // todo remove dev item
+
   var url = this.url_for(path);
   const langs = Object.keys(this.site.data.languages);
   url = '/' + url.replace(/\.\.\//,'').replace(/\.\.\//,'');

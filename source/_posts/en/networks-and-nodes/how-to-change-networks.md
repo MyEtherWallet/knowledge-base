@@ -47,6 +47,6 @@ Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, 
 
 **Step 3.** Connect with your device, and you’re done! You will be directed to your wallet’s overview page on the desired network.
 
-[accessMEW]: /posts/getting-started/how-to-access-your-wallet/
-[offlineMEW]: /posts/offline/offline-mew-looks-weird/
-[createMEWconnect]: /posts/mewconnect-101-create/
+[accessMEW]: /en/getting-started/how-to-access-your-wallet/
+[offlineMEW]: /en/offline/offline-mew-looks-weird/
+[createMEWconnect]: /en/mewconnect-101-create/

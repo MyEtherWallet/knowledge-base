@@ -58,8 +58,8 @@ We know these attacks can be very demoralizing, but let it be an opportunity for
 
 [buyLedger]: https://www.ledger.com/?r=fa4b
 [buyTrezor]: https://shop.trezor.io/?a=myetherwallet.com
-[mewconnect]: /posts/mewconnect/mewconnect-user-guide/
+[mewconnect]: /ru/mewconnect/mewconnect-user-guide/
 [metamask]: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 [kbmew]: https://kb.myetherwallet.com
 [etherscan]: https://etherscan.io
-[protips]: /posts/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
+[protips]: /ru/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/

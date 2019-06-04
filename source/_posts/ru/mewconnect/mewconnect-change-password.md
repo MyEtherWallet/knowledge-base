@@ -52,4 +52,4 @@ If you do not remember your password and do not have your 24-word recovery phras
 <img src="/images/posts/mewconnect/YoureDoneMC.jpg" width="30%">
 
 
-[backitup]: /posts/mewconnect/mewconnect-user-guide/
+[backitup]: /ru/mewconnect/mewconnect-user-guide/

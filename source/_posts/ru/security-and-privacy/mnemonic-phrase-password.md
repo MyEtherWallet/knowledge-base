@@ -37,4 +37,4 @@ Most apps or extensions that use Mnemonic phrases, such as MEWconnect, MetaMask,
 
 If you made your wallet directly on MyEtherWallet.com, you may need to use the password you chose during creation to restore your wallet. However, all other wallets will **not** require the password. Simply toggle this option to the ‘off’ position and proceed with your recovery process.
 
-[offline]: /posts/offline/using-mew-offline
+[offline]: /ru/offline/using-mew-offline

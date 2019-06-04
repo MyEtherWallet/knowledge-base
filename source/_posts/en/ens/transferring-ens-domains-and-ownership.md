@@ -55,4 +55,4 @@ alias:
 
 **Step 7.** Send the transaction.
 
-[accessWallet]: /posts/getting-started/how-to-access-your-wallet/
+[accessWallet]: /en/getting-started/how-to-access-your-wallet/

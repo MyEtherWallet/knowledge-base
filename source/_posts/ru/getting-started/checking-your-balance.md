@@ -55,5 +55,5 @@ Tenga en cuenta que, al verificar los saldos de ETC, debe utilizar un explorador
 
 [etherscan]: https://etherscan.io
 [ethplorer]: https://ethplorer.io
-[customTokens]: /posts/tokens/how-to-add-custom-token/
-[checkSum]: /posts/common-issues/not-checksummed/
+[customTokens]: /ru/tokens/how-to-add-custom-token/
+[checkSum]: /ru/common-issues/not-checksummed/

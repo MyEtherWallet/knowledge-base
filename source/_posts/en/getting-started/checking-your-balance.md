@@ -55,5 +55,5 @@ Be aware that when checking ETC balances, you should use an Ethereum Classic blo
 
 [etherscan]: https://etherscan.io
 [ethplorer]: https://ethplorer.io
-[customTokens]: /posts/tokens/how-to-add-custom-token/
-[checkSum]: /posts/common-issues/not-checksummed/
+[customTokens]: /en/tokens/how-to-add-custom-token/
+[checkSum]: /en/common-issues/not-checksummed/

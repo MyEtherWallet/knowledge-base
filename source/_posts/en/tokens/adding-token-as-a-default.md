@@ -92,5 +92,5 @@ We now provide users with the ability to enter the address, and MEW will auto-po
 * That's it. You successfully made a new pull request! 
 * We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
 
-[addCustom]: /posts/tokens/how-to-add-custom-token/
+[addCustom]: /en/tokens/how-to-add-custom-token/
 [addhere]: https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens

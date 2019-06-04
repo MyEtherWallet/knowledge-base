@@ -65,6 +65,6 @@ alias:
 
 **Step 10.** Your transaction should look like [this][exampleTX].
 
-[accessWallet]: /posts/getting-started/how-to-access-your-wallet/
+[accessWallet]: /en/getting-started/how-to-access-your-wallet/
 [exampleTX1]: https://etherscan.io/tx/0x60eec50b492375bce25684f806599873b7f682e1ba504c8bed7cc90c33368118
 [exampleTX]: https://etherscan.io/tx/0xe4b8cbbb9c30a9066e4d430e347e07442ccc99b927ed73280792aee718ecbd30

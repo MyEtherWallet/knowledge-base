@@ -181,9 +181,9 @@ alias:
 ##### All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome.
 
 [enEspanol]: https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md
-[pubPvtKeys]: /posts/security-and-privacy/what-is-a-keystore-file/
-[hwWallets]: /posts/hardware-wallets/using-ledger-with-mew/
-[smartContracts]: /posts/diving-deeper/what-is-a-smart-contract/
-[checkSum]: /posts/common-issues/not-checksummed/
+[pubPvtKeys]: /ru/security-and-privacy/what-is-a-keystore-file/
+[hwWallets]: /ru/hardware-wallets/using-ledger-with-mew/
+[smartContracts]: /ru/diving-deeper/what-is-a-smart-contract/
+[checkSum]: /ru/common-issues/not-checksummed/
 [example1]: http://i.imgur.com/lHUrIiZ.jpg
 [example2]: http://i.imgur.com/FvyLewS.jpg

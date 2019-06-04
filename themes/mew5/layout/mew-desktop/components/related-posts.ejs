@@ -10,7 +10,7 @@
 
   var postMatches = false;
 
-  site.posts.sort('date', 1).each(function(post) {
+  site.posts.filter(function(post){return post.lang == page.lang;}).sort('date', 1).each(function(post) {
     if(post.primary_category == primaryCategory) {
 
       // Set next post
@@ -43,7 +43,7 @@
 <div class="related-posts">
 
   <% if(prePost) { %>
-    <a href="<%- url_for(prePost.path)%>">
+    <a href="<%- url_for_lang(prePost.path)%>">
       <div class="pre-post valid">
         <div class="button-title">< <%= _p('previous') %></div>
         <p class="post-title"><%= prePost.title %></p>
@@ -57,7 +57,7 @@
   <% } %>
 
   <% if(nextPost) { %>
-    <a href="<%- url_for(nextPost.path)%>">
+    <a href="<%- url_for_lang(nextPost.path)%>">
       <div class="next-post valid">
         <div class="button-title"><%= _p('next') %> ></div>
         <p class="post-title"><%= nextPost.title %></p>

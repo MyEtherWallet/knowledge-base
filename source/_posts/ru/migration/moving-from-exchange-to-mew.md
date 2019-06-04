@@ -44,6 +44,6 @@ Once you’ve made the distinction, you’ll be ready to [create your MEW wallet
 
 ### Bon voyage!
 
-[MEWdifferent]: /posts/getting-started/difference-between-mew-and-exchange/
-[create]: /posts/getting-started/how-to-create-a-wallet/
-[getstart]: /posts/getting-started/
+[MEWdifferent]: /ru/getting-started/difference-between-mew-and-exchange/
+[create]: /ru/getting-started/how-to-create-a-wallet/
+[getstart]: /ru/getting-started/
