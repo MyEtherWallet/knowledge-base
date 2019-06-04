@@ -3,11 +3,6 @@
 'use strict';
 
 var pathFn = require('path');
-// var _ = require('lodash');
-// var cheerio = require('cheerio');
-// var lunr = require('lunr');
-
-var localizedPath = ['docs', 'api'];
 
 function startsWith(str, start) {
   return str.substring(0, start.length) === start;
@@ -53,24 +48,27 @@ hexo.extend.helper.register('canonical_url', function(lang) {
 hexo.extend.helper.register('url_for_lang', function(path) {
   if(startsWith(path, 'mailto')) return path;
   var lang = this.page.lang;
-  if(path.slice(0, 2) === lang){
-    // console.log('second exit'); // todo remove dev item
+  if(startsWith(path, lang)){
     if(path[0] !== '/'){
       path = '/' + path;
     }
     return path;
   }
-  // console.log('third exit'); // todo remove dev item
 
   var url = this.url_for(path);
   const langs = Object.keys(this.site.data.languages);
-  url = '/' + url.replace(/\.\.\//,'').replace(/\.\.\//,'');
+  if(url[0] === '/'){
+    url = url.replace(/\.\.\//,'').replace(/\.\.\//,'');
+  } else {
+    url = '/' + url.replace(/\.\.\//,'').replace(/\.\.\//,'');
+  }
+
 
   for(let ln of langs){
     const replaceStr = '/' + ln + '/';
     url = url.replace(replaceStr, '/');
   }
-  if (lang /*&& url[0] === '/'*/) url = '/' + lang + url;
+  if (lang) url = '/' + lang + url;
   return url;
 });
 
@@ -80,19 +78,7 @@ hexo.extend.helper.register('raw_link', function(path) {
 
 
 hexo.extend.helper.register('canonical_path_for_nav', function() {
-  var path = this.page.canonical_path;
-
-  // if (startsWith(path, 'docs/') || startsWith(path, 'api/')) {
-  //   return path;
-  // }
-  return path;
-
-});
-
-hexo.extend.helper.register('has_lang', function(lang) {
-  // var data = this.site.posts.filter(lang);
-  // return data.name || data;
-  return hexo.route.list();
+  return this.page.canonical_path;
 });
 
 hexo.extend.helper.register('lang_name', function(lang) {
