@@ -8,11 +8,11 @@
           <h3><%= _p('index.intro') %></h3>
           <ul>
             <li>
-              <a href="<%- url_for_lang(site.categories.findOne({name: 'get-started'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'get-started'}).pages.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/get-started.svg') %>
                   <p><%= _p('index.get_started') %></p>
-                  <div class="post-counter"><p><%= site.categories.findOne({name: 'get-started'}).posts.length %></p></div>
+                  <div class="post-counter"><p><%= site.categories.findOne({name: 'get-started'}).pages.length %></p></div>
                 </div>
               </a>
             </li>
