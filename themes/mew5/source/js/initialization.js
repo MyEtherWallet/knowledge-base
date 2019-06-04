@@ -23,7 +23,7 @@ function selectMobileDesktop () {
 (function ($) {
   function changeLang () {
     console.log(this); // todo remove dev item
-    var noRoute = ['categories', 'faqs'];
+
     var lang = this.value;
     var canonical = this.dataset.canonical;
     var modifiedCanonical = canonical.replace(/^\w\w\//, '');
