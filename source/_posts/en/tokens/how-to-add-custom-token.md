@@ -132,7 +132,7 @@ If your custom tokens are disappearing every time you access our interface, make
 
 We are always happy to support new tokens in our default list. To achieve this, simply submit a pull request to [our repo on GitHub][githubMEW]. For more information on this process, visit our article on [how to add a default token][addDefault]. 
 
-[accessMEW]: /posts/getting-started/how-to-access-your-wallet/
+[accessMEW]: /en/getting-started/how-to-access-your-wallet/
 [etherscan]: https://etherscan.io
-[addDefault]: /posts/tokens/adding-token-as-a-default/
+[addDefault]: /en/tokens/adding-token-as-a-default/
 [githubMEW]: https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth

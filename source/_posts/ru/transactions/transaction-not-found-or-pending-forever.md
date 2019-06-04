@@ -46,6 +46,6 @@ There is simply not enough space in the blocks for the miners to mine all the tr
 
 <img src="/images/posts/transactions/tx_pool_infographic.png" width="80%">
 
-[whatsgas]: /posts/transactions/what-is-gas/
+[whatsgas]: /ru/transactions/what-is-gas/
 [optimalGas]: https://ethgasstation.info/
-[whatsnonce]: /posts/transactions/what-is-nonce/
+[whatsnonce]: /ru/transactions/what-is-nonce/

@@ -43,5 +43,5 @@ Read this article for more information on [how to create a wallet][create].
 Read this article if you'd like to know [how to send an offline transaction][sendoffline].
 
 [latestMEW]: https://github.com/MyEtherWallet/MyEtherWallet/releases
-[create]: /posts/getting-started/how-to-create-a-wallet/
-[sendoffline]: /posts/offline/offline_transaction/
+[create]: /ru/getting-started/how-to-create-a-wallet/
+[sendoffline]: /ru/offline/offline_transaction/

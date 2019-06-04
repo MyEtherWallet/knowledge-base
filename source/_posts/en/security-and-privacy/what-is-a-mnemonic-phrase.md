@@ -42,5 +42,5 @@ Mnemonic phrases are just as sensitive as your private key, in terms of privacy.
 * If neither of these options worked, double-check the order and spelling of all words.
 * If you're still stuck, reach out to our support team. We're always happy to help.
 
-[accessMEW]: /posts/getting-started/how-to-access-your-wallet/
-[mewoffline]: /posts/offline/using-mew-offline/
+[accessMEW]: /en/getting-started/how-to-access-your-wallet/
+[mewoffline]: /en/offline/using-mew-offline/

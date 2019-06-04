@@ -53,7 +53,7 @@ In case you don’t see your tokens or coins available for swapping on MEW, we h
 
 Not all exchanges support all coins and fiat types, so take a look around to find one that fits your location and circumstances. Always google ‘scam + exchange name’ and read about people’s experiences before choosing to send to a random service or website.
 
-[accessMEW]: /posts/getting-started/how-to-access-your-wallet
+[accessMEW]: /en/getting-started/how-to-access-your-wallet
 [bitWebsite]: https://www.bitfinex.com/
 [bitSupport]: https://www.bitfinex.com/support
 [biWebsite]: https://bittrex.com/Home/Markets 

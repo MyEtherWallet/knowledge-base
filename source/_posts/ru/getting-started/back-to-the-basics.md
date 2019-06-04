@@ -87,11 +87,11 @@ alias:
 [EAL]: https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn
 [PhishFort]: https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc
 [Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
-[checksum]: /posts/common-issues/not-checksummed/
-[sendTx]: /posts/transactions/how-to-send-a-transaction/
-[offline]: /posts/offline/offline-mew-looks-weird/
+[checksum]: /ru/common-issues/not-checksummed/
+[sendTx]: /ru/transactions/how-to-send-a-transaction/
+[offline]: /ru/offline/offline-mew-looks-weird/
 [ledger]: https://www.ledger.com/?r=fa4b
 [trezor]: https://trezor.io/?offer_id=12&aff_id=2029
 [reddit]: https://www.reddit.com/r/MyEtherWallet/
 [twitter]: https://twitter.com/myetherwallet
-[sendTX]: /posts/transactions/how-to-send-a-transaction/
+[sendTX]: /ru/transactions/how-to-send-a-transaction/

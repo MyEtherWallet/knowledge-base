@@ -48,6 +48,6 @@ As mentioned above, you cannot change your password without generating a complet
 
 After downloading the new Keystore/JSON file, you can choose to continue using our Chrome Extension, or go back to using regular MEW. However, since you’re using a Keystore/JSON file, we highly suggest learning [how to use MEW offline][offlineMEW], for the security of your information.
 
-[accessMEW]: /posts/getting-started/how-to-access-your-wallet/
-[offlineMEW]: /posts/offline/offline-mew-looks-weird/
+[accessMEW]: /ru/getting-started/how-to-access-your-wallet/
+[offlineMEW]: /ru/offline/offline-mew-looks-weird/
 [MEWCX]: https://chrome.google.com/webstore/detail/myetherwallet/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en

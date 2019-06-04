@@ -123,4 +123,4 @@ You can share your address with anyone you’d like by clicking the arrow button
 #### To download the MEWconnect app, visit [mewconnect.myetherwallet.com][mewconnect].
 
 [mewconnect]: https://mewconnect.myetherwallet.com/#/
-[sendaTX]: /posts/transactions/how-to-send-a-transaction/
+[sendaTX]: /ru/transactions/how-to-send-a-transaction/

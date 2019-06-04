@@ -76,11 +76,11 @@ alias:
 * We can always be reached at support@myetherwallet.com. 
 * Our support team is happy to help with any issue, big or small.
 
-[mewconnect]: /posts/mewconnect/mewconnect-user-guide/
+[mewconnect]: /ru/mewconnect/mewconnect-user-guide/
 [hwallet]: https://www.myetherwallet.com/hardware-wallet-affiliates
 [EAL]: https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn
 [PhishFort]: https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc
 [Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
-[phrase]: /posts/security-and-privacy/what-is-a-mnemonic-phrase/
-[keystore]: /posts/security-and-privacy/what-is-a-keystore-file/
-[MEWoffline]: /posts/offline/offline-mew-looks-weird/
+[phrase]: /ru/security-and-privacy/what-is-a-mnemonic-phrase/
+[keystore]: /ru/security-and-privacy/what-is-a-keystore-file/
+[MEWoffline]: /ru/offline/offline-mew-looks-weird/
