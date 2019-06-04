@@ -52,15 +52,20 @@ hexo.extend.helper.register('canonical_url', function(lang) {
 
 hexo.extend.helper.register('url_for_lang', function(path) {
   var lang = this.page.lang;
-  console.log(path); // todo remove dev item
+  if(path.slice(0, 2) === lang){
+    if(path[0] !== '/'){
+      path = '/' + path;
+    }
+    return path;
+  }
   var url = this.url_for(path);
   const langs = Object.keys(this.site.data.languages);
   url = '/' + url.replace(/\.\.\//,'').replace(/\.\.\//,'');
+
   for(let ln of langs){
     const replaceStr = '/' + ln + '/';
     url = url.replace(replaceStr, '/');
   }
-  // console.log(url); // todo remove dev item
   if (lang /*&& url[0] === '/'*/) url = '/' + lang + url;
   return url;
 });
