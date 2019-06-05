@@ -1,6 +1,6 @@
 ---
 title: "How to Change Your Password on MEWconnect"
-lang: en
+
 date: 2018-06-01 00:06:00
 tags:
 - mewconnect
@@ -52,4 +52,4 @@ If you do not remember your password and do not have your 24-word recovery phras
 <img src="/images/posts/mewconnect/YoureDoneMC.jpg" width="30%">
 
 
-[backitup]: /en/mewconnect/mewconnect-user-guide/
+[backitup]: /@@@@@@/mewconnect/mewconnect-user-guide/

@@ -1,6 +1,6 @@
 ---
 title: "Error: Window Blocked"
-lang: en
+
 date: 2018-06-01 00:08:00
 tags:
 - error

@@ -1,6 +1,6 @@
 ---
 title: "Transactions are 'Not Found' or 'Pending' Forever"
-lang: ru
+
 date: 2018-06-01 00:05:00
 tags:
 - transactions
@@ -46,6 +46,6 @@ There is simply not enough space in the blocks for the miners to mine all the tr
 
 <img src="/images/posts/transactions/tx_pool_infographic.png" width="80%">
 
-[whatsgas]: /ru/transactions/what-is-gas/
+[whatsgas]: /@@@@@@/transactions/what-is-gas/
 [optimalGas]: https://ethgasstation.info/
-[whatsnonce]: /ru/transactions/what-is-nonce/
+[whatsnonce]: /@@@@@@/transactions/what-is-nonce/

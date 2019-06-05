@@ -1,6 +1,6 @@
 ---
 title: "Using MEW Offline (Cold Storage)"
-lang: en
+
 date: 2018-06-01 00:01:00
 tags:
 - offline
@@ -43,5 +43,5 @@ Read this article for more information on [how to create a wallet][create].
 Read this article if you'd like to know [how to send an offline transaction][sendoffline].
 
 [latestMEW]: https://github.com/MyEtherWallet/MyEtherWallet/releases
-[create]: /en/getting-started/how-to-create-a-wallet/
-[sendoffline]: /en/offline/offline_transaction/
+[create]: /@@@@@@/getting-started/how-to-create-a-wallet/
+[sendoffline]: /@@@@@@/offline/offline_transaction/

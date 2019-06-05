@@ -1,6 +1,6 @@
 ---
 title: "What to Do if You Forgot to Reveal Your ENS Bid"
-lang: en
+
 date: 2018-06-01 00:06:00
 tags:
 - forgot
@@ -59,6 +59,6 @@ Three days later, reveal your original bid and you will get it. During this peri
 
 **Step 6.** It should look like this:  `0xede8acdb07aa9c7e03a795d250a2ac48bd73b9c7f8adab69a549cebd97fc157a093a5a4a`.
 
-[manualReveal]: /en/ens/manually-reveal-ens-bid/
-[accessWallet]: /en/getting-started/how-to-access-your-wallet/
+[manualReveal]: /@@@@@@/ens/manually-reveal-ens-bid/
+[accessWallet]: /@@@@@@/getting-started/how-to-access-your-wallet/
 [ensLookup]: https://etherscan.io/enslookup?q=yourname.eth

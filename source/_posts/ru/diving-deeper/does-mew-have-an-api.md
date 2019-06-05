@@ -1,6 +1,6 @@
 ---
 title: "Does MyEtherWallet have an API?"
-lang: ru
+
 date: 2018-06-01 00:02:00
 tags:
 - api
@@ -35,4 +35,4 @@ Or use our API directly to it (see the docs in the above APIs).
 [etherscanapi]: https://etherscan.io/apis
 [instructions]: https://github.com/MyEtherWallet/docker-geth-lb
 [quiknode]: https://quiknode.io/
-[ownNode]: /ru/networks-and-nodes/unable-to-connect-to-custom-node/
+[ownNode]: /@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/

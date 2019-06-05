@@ -1,6 +1,6 @@
 ---
 title: "MEW says 'Not Recommended' when I Access my Wallet"
-lang: ru
+
 date: 2018-06-01 00:02:00
 tags:
 - mew

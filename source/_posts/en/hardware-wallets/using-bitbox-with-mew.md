@@ -1,6 +1,6 @@
 ---
 title: "Using a Digital BitBox Hardware Wallet with MEW"
-lang: en
+
 date: 2018-06-01 00:02:00
 tags:
 - Digital BitBox

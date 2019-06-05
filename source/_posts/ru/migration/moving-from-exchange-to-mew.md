@@ -1,6 +1,6 @@
 ---
 title: "Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW"
-lang: ru
+
 date: 2018-06-01 00:02:00
 tags:
 - moving
@@ -44,6 +44,6 @@ Once you’ve made the distinction, you’ll be ready to [create your MEW wallet
 
 ### Bon voyage!
 
-[MEWdifferent]: /ru/getting-started/difference-between-mew-and-exchange/
-[create]: /ru/getting-started/how-to-create-a-wallet/
-[getstart]: /ru/getting-started/
+[MEWdifferent]: /@@@@@@/getting-started/difference-between-mew-and-exchange/
+[create]: /@@@@@@/getting-started/how-to-create-a-wallet/
+[getstart]: /@@@@@@/getting-started/

@@ -1,6 +1,6 @@
 ---
 title: "MEWconnect 101: Backup Your Wallet"
-lang: en
+
 date: 2018-04-01 00:02:00
 tags:
 - mewconnect

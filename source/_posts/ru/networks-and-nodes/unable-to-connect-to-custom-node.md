@@ -1,6 +1,6 @@
 ---
 title: "Unable to Connect to Custom Node"
-lang: ru
+
 date: 2018-06-01 00:02:00
 tags:
 - unable

@@ -1,6 +1,6 @@
 ---
 title: "MyEtherWallet: An Introduction"
-lang: en
+
 date: 2018-05-01 00:01:00
 tags:
 - faqs
@@ -87,10 +87,10 @@ You’re in charge of your own funds and information.
 ##### Read more about security [here][15].
 
 
-[1]: /en/getting-started/how-to-create-a-wallet/
-[2]: /en/transactions/how-to-send-a-transaction/
-[3]: /en/getting-started/how-to-access-your-wallet/
-[4]: /en/swap/swapping-via-kyber-bity-changelly/
+[1]: /@@@@@@/getting-started/how-to-create-a-wallet/
+[2]: /@@@@@@/transactions/how-to-send-a-transaction/
+[3]: /@@@@@@/getting-started/how-to-access-your-wallet/
+[4]: /@@@@@@/swap/swapping-via-kyber-bity-changelly/
 [5]: https://github.com/MyEtherWallet
 [etherscan]: https://etherscan.io/
 [ethplorer]: https://ethplorer.io
@@ -101,5 +101,5 @@ You’re in charge of your own funds and information.
 [Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
 [13]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
 [14]: http://google.com
-[15]: /en/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
+[15]: /@@@@@@/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
 [kb]: https://kb.myetherwallet.com/

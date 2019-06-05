@@ -1,6 +1,6 @@
 ---
 title: "How to Change Networks (Access Ropsten, ETC, and more!)"
-lang: ru
+
 date: 2018-06-01 00:01:00
 tags:
 - change
@@ -47,6 +47,6 @@ Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, 
 
 **Step 3.** Connect with your device, and you’re done! You will be directed to your wallet’s overview page on the desired network.
 
-[accessMEW]: /ru/getting-started/how-to-access-your-wallet/
-[offlineMEW]: /ru/offline/offline-mew-looks-weird/
-[createMEWconnect]: /ru/mewconnect-101-create/
+[accessMEW]: /@@@@@@/getting-started/how-to-access-your-wallet/
+[offlineMEW]: /@@@@@@/offline/offline-mew-looks-weird/
+[createMEWconnect]: /@@@@@@/mewconnect-101-create/

@@ -1,6 +1,6 @@
 ---
 title: "MEWconnect 101: Wallet Overview"
-lang: en
+
 date: 2018-06-01 00:03:00
 tags:
 - mewconnect

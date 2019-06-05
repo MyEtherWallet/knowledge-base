@@ -1,6 +1,6 @@
 ---
 title: "Using a Hardware Wallet With a Custom Node"
-lang: ru
+
 date: 2018-06-01 00:05:00
 tags:
 - hardware

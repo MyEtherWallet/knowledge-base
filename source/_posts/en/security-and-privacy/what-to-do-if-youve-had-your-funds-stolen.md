@@ -1,6 +1,6 @@
 ---
 title: "What to Do if You’ve Had Your Funds Stolen"
-lang: en
+
 date: 2018-06-01 00:07:00
 tags:
 - funds
@@ -58,8 +58,8 @@ We know these attacks can be very demoralizing, but let it be an opportunity for
 
 [buyLedger]: https://www.ledger.com/?r=fa4b
 [buyTrezor]: https://shop.trezor.io/?a=myetherwallet.com
-[mewconnect]: /en/mewconnect/mewconnect-user-guide/
+[mewconnect]: /@@@@@@/mewconnect/mewconnect-user-guide/
 [metamask]: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 [kbmew]: https://kb.myetherwallet.com
 [etherscan]: https://etherscan.io
-[protips]: /en/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
+[protips]: /@@@@@@/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/

@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Wallet"
-lang: en
+
 date: 2018-06-01 00:07:00
 tags:
 - faqs
@@ -83,8 +83,8 @@ The following information is for those who wish to proceed, regardless of our wa
 
 For more information on how to access your new wallet, click [here][accessWallet].
 
-[mewConnect]: /en/mewconnect/mewconnect-101-create/
-[offline]: /en/offline/offline-mew-looks-weird/
-[keystoreJson]: /en/security-and-privacy/what-is-a-keystore-file/
-[mnemonic]: /en/security-and-privacy/what-is-a-mnemonic-phrase/
-[accessWallet]: /en/getting-started/how-to-access-your-wallet/
+[mewConnect]: /@@@@@@/mewconnect/mewconnect-101-create/
+[offline]: /@@@@@@/offline/offline-mew-looks-weird/
+[keystoreJson]: /@@@@@@/security-and-privacy/what-is-a-keystore-file/
+[mnemonic]: /@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/
+[accessWallet]: /@@@@@@/getting-started/how-to-access-your-wallet/

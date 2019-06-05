@@ -1,6 +1,6 @@
 ---
 title: "How to Send a Transaction"
-lang: en
+
 date: 2018-06-01 00:03:00
 tags:
 - send
@@ -37,6 +37,6 @@ If you plan to move large amounts of ETH or ERC20 tokens, we suggest sending a s
 **Step 5.** Your transaction has been posted! Copy your transaction hash, for your records. 
 * Check your transaction hash on [Etherscan][etherscan] to make sure everything went through properly. 
 
-[accessMEW]: /en/getting-started/how-to-access-your-wallet/
-[addCustom]: /en/tokens/how-to-add-custom-token/
+[accessMEW]: /@@@@@@/getting-started/how-to-access-your-wallet/
+[addCustom]: /@@@@@@/tokens/how-to-add-custom-token/
 [etherscan]: https://etherscan.io

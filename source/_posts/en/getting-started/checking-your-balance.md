@@ -1,6 +1,6 @@
 ---
 title: "Checking Your Balance"
-lang: en
+
 date: 2018-06-01 00:02:00
 tags:
 - faqs
@@ -55,5 +55,5 @@ Be aware that when checking ETC balances, you should use an Ethereum Classic blo
 
 [etherscan]: https://etherscan.io
 [ethplorer]: https://ethplorer.io
-[customTokens]: /en/tokens/how-to-add-custom-token/
-[checkSum]: /en/common-issues/not-checksummed/
+[customTokens]: /@@@@@@/tokens/how-to-add-custom-token/
+[checkSum]: /@@@@@@/common-issues/not-checksummed/

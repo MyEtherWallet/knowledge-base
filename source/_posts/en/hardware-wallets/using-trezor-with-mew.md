@@ -1,6 +1,6 @@
 ---
 title: "Using a Trezor Hardware Wallet with MEW"
-lang: en
+
 date: 2018-06-01 00:01:00
 tags:
 - trezor

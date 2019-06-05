@@ -1,6 +1,6 @@
 ---
 title: "How to Submit a Pull Request"
-lang: en
+
 date: 2018-06-01 00:04:00
 tags:
 - submit

@@ -1,6 +1,6 @@
 ---
 title: "What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?"
-lang: ru
+
 date: 2018-06-01 00:03:00
 tags:
 - difference

@@ -1,6 +1,6 @@
 ---
 title: "Buy ETH via Simplex"
-lang: en
+
 date: 2018-06-01 00:01:00
 tags:
 - faqs
@@ -45,4 +45,4 @@ Our partner Simplex allows MEW users to securely buy ETH with a credit card!
 
 If you are having issues with your purchase, Simplex can be reached at support@simplex.com. 
 
-[accessMEW]: /en/getting-started/how-to-access-your-wallet/
+[accessMEW]: /@@@@@@/getting-started/how-to-access-your-wallet/

@@ -1,6 +1,6 @@
 ---
 title: "What Happens if MEW Goes Down?"
-lang: en
+
 date: 2018-06-01 00:07:00
 tags:
 - faqs
@@ -32,6 +32,6 @@ You can import your unencrypted private key and your Geth/Mist Format (encrypted
 
 You can also [run MyEtherWallet locally][mewLocal] and/or [connect it to your own node][ownNode].
 
- 
+
+[ownNode]: /@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/
 [mewLocal]: 
-[ownNode]: /en/networks-and-nodes/unable-to-connect-to-custom-node/
