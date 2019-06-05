@@ -1,6 +1,6 @@
 
 
-<% if (page.source == page.lang + '/faqs/index.md' || !page.source) { %>
+<% if (page.source == page.lang + '/faqs/index.md' || page.source == page.lang + '/index.md' || !page.source) { %>
   <%- partial(theme.theme_desktop + '/components/header/header-search', null) %>
   <%- partial(theme.theme_desktop + '/categories/category-faqs', null) %>
 
