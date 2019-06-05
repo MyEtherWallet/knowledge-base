@@ -1,6 +1,6 @@
 ---
 title: "Pro-Tips: How to Avoid Phishing/Scams"
-lang: ru
+
 date: 2018-06-01 00:03:00
 tags:
 - faqs
@@ -76,11 +76,11 @@ alias:
 * We can always be reached at support@myetherwallet.com. 
 * Our support team is happy to help with any issue, big or small.
 
-[mewconnect]: /ru/mewconnect/mewconnect-user-guide/
+[mewconnect]: /@@@@@@/mewconnect/mewconnect-user-guide/
 [hwallet]: https://www.myetherwallet.com/hardware-wallet-affiliates
 [EAL]: https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn
 [PhishFort]: https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc
 [Cryptonite]: https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige
-[phrase]: /ru/security-and-privacy/what-is-a-mnemonic-phrase/
-[keystore]: /ru/security-and-privacy/what-is-a-keystore-file/
-[MEWoffline]: /ru/offline/offline-mew-looks-weird/
+[phrase]: /@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/
+[keystore]: /@@@@@@/security-and-privacy/what-is-a-keystore-file/
+[MEWoffline]: /@@@@@@/offline/offline-mew-looks-weird/

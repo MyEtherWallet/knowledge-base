@@ -1,6 +1,6 @@
 ---
 title: "My Transaction Failed. Why Was I Charged?"
-lang: ru
+
 date: 2018-06-01 00:06:00
 tags:
 - transactions

@@ -1,6 +1,6 @@
 ---
 title: "Does MEW API Have a Limit on the Amount of Requests I Can Make?"
-lang: ru
+
 date: 2018-06-01 00:01:00
 tags:
 - api
@@ -54,4 +54,4 @@ For both of these options, you could connect to your new node via the 'Add Custo
  
 [instructions]: https://github.com/MyEtherWallet/docker-geth-lb
 [quiknode]: https//quicknode.io/
-[ownNode]: /ru/networks-and-nodes/unable-to-connect-to-custom-node/
+[ownNode]: /@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/

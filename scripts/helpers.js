@@ -8,6 +8,18 @@ function startsWith(str, start) {
   return str.substring(0, start.length) === start;
 }
 
+hexo.extend.filter.register('after_post_render', function(data){
+  const langs = Object.keys(data.site.data.languages)
+  if(data.slug){
+    const lang = data.slug.slice(0,2);
+    if(langs.includes(lang)){
+      data.content = data.content.replace(/@@@@@@/g, lang);
+    }
+  }
+  return data;
+});
+
+
 hexo.extend.helper.register('page_nav', function() {
   var type = this.page.canonical_path.split('/')[0];
   var sidebar = this.site.data.sidebar[type];

@@ -1,6 +1,6 @@
 ---
 title: "What Happens if MEW Goes Down?"
-lang: ru
+
 date: 2018-06-01 00:07:00
 tags:
 - faqs
@@ -34,4 +34,4 @@ You can also [run MyEtherWallet locally][mewLocal] and/or [connect it to your ow
 
  
 [mewLocal]: 
-[ownNode]: /ru/networks-and-nodes/unable-to-connect-to-custom-node/
+[ownNode]: /@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/

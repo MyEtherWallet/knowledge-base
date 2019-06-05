@@ -1,6 +1,6 @@
 ---
 title: "Checking Your Balance"
-lang: ru
+
 date: 2018-06-01 00:02:00
 tags:
 - faqs
@@ -55,5 +55,5 @@ Tenga en cuenta que, al verificar los saldos de ETC, debe utilizar un explorador
 
 [etherscan]: https://etherscan.io
 [ethplorer]: https://ethplorer.io
-[customTokens]: /ru/tokens/how-to-add-custom-token/
-[checkSum]: /ru/common-issues/not-checksummed/
+[customTokens]: /@@@@@@/tokens/how-to-add-custom-token/
+[checkSum]: /@@@@@@/common-issues/not-checksummed/

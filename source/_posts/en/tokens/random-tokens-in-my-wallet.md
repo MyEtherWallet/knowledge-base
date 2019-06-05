@@ -1,6 +1,6 @@
 ---
 title: "Why are Random Tokens Appearing in my Wallet?"
-lang: en
+
 date: 2018-06-01 00:03:00
 tags:
 - random

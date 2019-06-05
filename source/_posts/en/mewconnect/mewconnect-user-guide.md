@@ -1,6 +1,6 @@
 ---
 title: "MEWconnect User Guide"
-lang: en
+
 date: 2018-03-01 00:01:00
 tags:
 - mewconnect
@@ -123,4 +123,4 @@ You can share your address with anyone you’d like by clicking the arrow button
 #### To download the MEWconnect app, visit [mewconnect.myetherwallet.com][mewconnect].
 
 [mewconnect]: https://mewconnect.myetherwallet.com/#/
-[sendaTX]: /en/transactions/how-to-send-a-transaction/
+[sendaTX]: /@@@@@@/transactions/how-to-send-a-transaction/

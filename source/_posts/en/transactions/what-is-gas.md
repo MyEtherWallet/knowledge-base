@@ -1,6 +1,6 @@
 ---
 title: "What is Gas?"
-lang: en
+
 date: 2018-06-01 00:07:00
 tags:
 - gas

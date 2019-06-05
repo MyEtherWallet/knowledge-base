@@ -1,6 +1,6 @@
 ---
 title: "Private Key Not Working"
-lang: ru
+
 date: 2018-06-01 00:02:00
 tags:
 - Private
@@ -25,4 +25,4 @@ Some wallets, like Exodus, may export a private key that begins with `0x`. If yo
 For reference private key looks like this:
 `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
 
-[accessMEW]: /ru/getting-started/how-to-access-your-wallet/
+[accessMEW]: /@@@@@@/getting-started/how-to-access-your-wallet/

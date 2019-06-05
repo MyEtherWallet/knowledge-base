@@ -1,6 +1,6 @@
 ---
 title: "Making an Offline Transaction"
-lang: ru
+
 date: 2018-06-01 00:01:00
 tags:
 - offline
@@ -69,4 +69,4 @@ You’re done! Your transaction will show on an Ethereum blockchain explorer onc
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9_6EU1QPU0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[mewOffline]: /ru/offline/using-mew-offline/
+[mewOffline]: /@@@@@@/offline/using-mew-offline/

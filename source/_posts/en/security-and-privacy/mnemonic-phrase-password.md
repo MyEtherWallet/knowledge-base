@@ -1,6 +1,6 @@
 ---
 title: "Mnemonic Phrase: Should I Include a Password?"
-lang: en
+
 date: 2018-06-01 00:06:00
 tags:
 - mnemonic
@@ -37,4 +37,4 @@ Most apps or extensions that use Mnemonic phrases, such as MEWconnect, MetaMask,
 
 If you made your wallet directly on MyEtherWallet.com, you may need to use the password you chose during creation to restore your wallet. However, all other wallets will **not** require the password. Simply toggle this option to the ‘off’ position and proceed with your recovery process.
 
-[offline]: /en/offline/using-mew-offline
+[offline]: /@@@@@@/offline/using-mew-offline

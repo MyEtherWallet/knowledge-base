@@ -1,6 +1,6 @@
 ---
 title: "Using Jaxx with MEW"
-lang: ru
+
 date: 2018-06-01 00:04:00
 tags:
 - jaxx
@@ -23,4 +23,4 @@ Instead, use your Jaxx 12-word mnemonic phrase to [access your wallet][accessmew
 
 To access your ETC (or other networks), access your wallet and change your network in the upper-right hand corner of your wallet’s interface. We offer multiple nodes for ETC, so choose whichever is right for you. (Don’t overthink it.)
 
-[accessmew]: /ru/getting-started/how-to-access-your-wallet/
+[accessmew]: /@@@@@@/getting-started/how-to-access-your-wallet/

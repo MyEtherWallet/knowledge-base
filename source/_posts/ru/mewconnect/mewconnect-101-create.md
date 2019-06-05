@@ -1,6 +1,6 @@
 ---
 title: "MEWconnect 101: Create a Wallet"
-lang: ru
+
 date: 2018-04-01 00:01:00
 tags:
 - mewconnect

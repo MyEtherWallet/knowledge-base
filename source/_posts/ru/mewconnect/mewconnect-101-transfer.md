@@ -1,6 +1,6 @@
 ---
 title: "MEWconnect 101: Make a Transaction"
-lang: ru
+
 date: 2018-04-01 00:04:00
 tags:
 - mewconnect

@@ -1,6 +1,6 @@
 ---
 title: "ENS: Auctions 101"
-lang: en
+
 date: 2018-06-01 00:02:00
 tags:
 - ens
@@ -70,7 +70,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 **Step 10.** If you won, MEW will give you the option to finalize your domain name. 
 *This will only set your address as the owner of the domain, but you’re not done yet. If you want this domain to point to your address for sending, you still have a bit to do. Check out [this guide][finalizeEns] for more information on how to achieve this final step.
 
-[createWallet]: /en/Getting_Started/How_To_Create_A_Wallet/
-[gas]: /en/transactions/what-is-gas/
-[reOpenBid]: /en/ens/what-to-do-if-ens-bid-forgot/
-[finalizeEns]: /en/ens/setting-ens-resolver/
+[createWallet]: /@@@@@@/Getting_Started/How_To_Create_A_Wallet/
+[gas]: /@@@@@@/transactions/what-is-gas/
+[reOpenBid]: /@@@@@@/ens/what-to-do-if-ens-bid-forgot/
+[finalizeEns]: /@@@@@@/ens/setting-ens-resolver/

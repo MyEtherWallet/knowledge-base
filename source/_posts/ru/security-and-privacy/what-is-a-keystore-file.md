@@ -1,6 +1,6 @@
 ---
 title: "What is a Keystore/JSON file?  Can I Change my Password?"
-lang: ru
+
 date: 2018-06-01 00:05:00
 tags:
 - Keystore
@@ -48,6 +48,6 @@ As mentioned above, you cannot change your password without generating a complet
 
 After downloading the new Keystore/JSON file, you can choose to continue using our Chrome Extension, or go back to using regular MEW. However, since you’re using a Keystore/JSON file, we highly suggest learning [how to use MEW offline][offlineMEW], for the security of your information.
 
-[accessMEW]: /ru/getting-started/how-to-access-your-wallet/
-[offlineMEW]: /ru/offline/offline-mew-looks-weird/
+[accessMEW]: /@@@@@@/getting-started/how-to-access-your-wallet/
+[offlineMEW]: /@@@@@@/offline/offline-mew-looks-weird/
 [MEWCX]: https://chrome.google.com/webstore/detail/myetherwallet/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en

@@ -1,6 +1,6 @@
 ---
 title: "ETH or ERC20 Tokens Sent To/From an Exchange Haven’t Shown Up"
-lang: ru
+
 date: 2018-06-01 00:02:00
 tags:
 - eth
@@ -36,4 +36,4 @@ For a list of standard errors and their corrections, check out our category on [
 [etherscan]: https://etherscan.io
 [example1]: https://etherscan.io/tx/0xcde5a30a1a1514919e9c357d4e89211701aa22a741936ad9516c2987d8b097c9
 [example2]: https://etherscan.io/tx/0xf9c8514fad47eb54a414930563aabfeceb465c9f308f5f294a37edd0d669243c
-[commonissues]: /ru/common-issues/
+[commonissues]: /@@@@@@/common-issues/

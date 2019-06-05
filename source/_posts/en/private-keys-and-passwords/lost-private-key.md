@@ -1,6 +1,6 @@
 ---
 title: "Lost Private Key"
-lang: en
+
 date: 2018-06-01 00:01:00
 tags:
 - lost
@@ -40,7 +40,7 @@ In the future, we strongly recommend you use our companion app [MEWconnect][MEWc
  
 You can read more about how to safely back up your wallet [here][backitup].
 
-[MEWconnect]: /en/mewconnect/mewconnect-user-guide/
-[hardwareLedger]: /en/hardware-wallets/using-ledger-with-mew/
-[offlineMEW]: /en/offline/offline-mew-looks-weird/
-[backitup]: /en/mewconnect/mewconnect-101-recover/
+[MEWconnect]: /@@@@@@/mewconnect/mewconnect-user-guide/
+[hardwareLedger]: /@@@@@@/hardware-wallets/using-ledger-with-mew/
+[offlineMEW]: /@@@@@@/offline/offline-mew-looks-weird/
+[backitup]: /@@@@@@/mewconnect/mewconnect-101-recover/

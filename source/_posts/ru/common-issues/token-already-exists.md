@@ -1,6 +1,5 @@
 ---
 title: "Error: Token Already Exists!"
-lang: ru
 date: 2018-06-01 00:05:00
 tags:
 - error
