@@ -2,22 +2,25 @@
 title: "Error: Window Blocked"
 date: 2018-06-01 00:08:00
 tags:
-- error
-- Window
-- Blocked
+  - error
+  - Window
+  - Blocked
 categories:
-- [common-issues]
+  - 
+    - common-issues
 primary_category: common-issues
 primary_category_display_name: "Common Issues"
 alias:
-- hardware-wallets/trezor-error-window-blocked.html
+  - hardware-wallets/trezor-error-window-blocked.html
 ---
 
-# __Error: ‘Window Blocked’__
-###### {% read_time title "Error: Window Blocked" %} min read
-***
+# **Error: ‘Window Blocked’**
 
-If you are getting an error message saying ‘Window Blocked’ when using a Trezor, Ledger, or MetaMask to confirm a transaction, this is because you are blocking pop-ups with the browser. 
+###### {% read_time title "Error: Window Blocked" %} min read
+
+* * *
+
+If you are getting an error message saying ‘Window Blocked’ when using a Trezor, Ledger, or MetaMask to confirm a transaction, this is because you are blocking pop-ups with the browser.
 
 To fix this issue, you will need to ‘Allow Pop-Ups’ for MyEtherWallet.com.
 
