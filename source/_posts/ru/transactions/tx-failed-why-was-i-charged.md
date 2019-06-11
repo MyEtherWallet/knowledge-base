@@ -1,24 +1,26 @@
 ---
 title: "My Transaction Failed. Why Was I Charged?"
-
 date: 2018-06-01 00:06:00
 tags:
-- transactions
-- failed
-- fail
-- charged
-- charge
+  - transactions
+  - failed
+  - fail
+  - charged
+  - charge
 categories:
-- [transactions]
+  - 
+    - transactions
 primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
-- transactions/transaction-fee-not-refunded.html
+  - transactions/transaction-fee-not-refunded.html
 ---
 
-# __My Transaction Failed. Why Was I Charged?__
+# **My Transaction Failed. Why Was I Charged?**
+
 ###### {% read_time title "My Transaction Failed. Why Was I Charged?" %} min read
-***
+
+* * *
 
 The Ethereum network requires gas to execute transactions. Ether (ETH) is the fuel used for this purpose. When you send tokens, interact with a contract, send ETH, or do anything else on the blockchain, you must pay for that computation. That payment is calculated in gas, and gas is always paid in ETH.
 
