@@ -1,25 +1,27 @@
 ---
 title: "Does MEW Support BTC or other Coins?"
-
 date: 2018-06-01 00:04:00
 tags:
-- btc
-- coin
-- coins
+  - btc
+  - coin
+  - coins
 categories:
-- [get-started]
+  - 
+    - get-started
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-- faq/sending-bitcoin-btc-ltc-xmr-to-myetherwallet.html
+  - faq/sending-bitcoin-btc-ltc-xmr-to-myetherwallet.html
 ---
 
-# __Does MEW Support BTC or other Coins?__
+# **Does MEW Support BTC or other Coins?**
+
 ###### {% read_time title "Does MEW Support BTC or other Coins?" %} min read
-***
 
-MyEtherWallet (MEW) admite tokens ETH y ERC20 en nuestras principales redes ETH.
+* * *
 
-También ofrecemos soporte para ETC, Testnet ETH, UBQ, EXP, POA, TOMO, ELLA, ETSC, EGEM, CLO, GO, EOSC, AKA, ESN, PIRL, ETHO, ATH, ILT, WEB y MUSICOIN. Se puede acceder fácilmente a estos a través de nuestra lista de redes / nodos, luego de acceder a su billetera.
+MyEtherWallet (MEW) supports ETH and ERC20 tokens on our main ETH networks.
 
-Puede utilizar nuestra función de intercambio para intercambiar entre BTC y ETH, gracias a nuestro socio Bity, pero no ofrecemos soporte para BTC. Solo te ofrecemos la opción de cambiarlo. Esto requiere que tengas una billetera BTC, para recibir los fondos.
+We also offer support for ETC, Testnet ETH, UBQ, EXP, POA, TOMO, ELLA, ETSC, EGEM, CLO, GO, EOSC, AKA, ESN, PIRL, ETHO, ATH, ILT, WEB, and MUSICOIN. These can be easily accessed through our Network/Node list, after accessing your wallet.
+
+You can use our swap function to swap between BTC and ETH, thanks to our partner Bity, but we do not offer support for BTC. We just offer the option to swap it. This requires you have a BTC wallet, to receive the funds.
