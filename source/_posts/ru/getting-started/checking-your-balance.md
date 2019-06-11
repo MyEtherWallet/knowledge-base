@@ -1,59 +1,53 @@
 ---
 title: "Checking Your Balance"
-
 date: 2018-06-01 00:02:00
 tags:
-- faqs
-- balance
-- block
+  - faqs
+  - balance
+  - block
 categories:
-- [faqs]
-- [get-started]
+  - 
+    - faqs
+  - 
+    - get-started
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-- getting-started/checking-balance-of-my-account.html
+  - getting-started/checking-balance-of-my-account.html
 ---
 
-# __Checking Your Balance__
+# **Checking Your Balance**
+
 ###### {% read_time title "Checking Your Balance" %} min read
-***
 
-No se recomienda desbloquear su billetera cada vez que quiera revisar su saldo, para la seguridad de su información. En su lugar, puede ver todos los saldos y el historial de transacciones mediante el uso de un explorador Ethereum blockchain, como [Etherscan] [etherscan] o [Ethplorer] [ethplorer]. Para verificar su saldo, todo lo que necesita es su dirección pública de Ethereum. Tiene una longitud de 42 caracteres y comienza con un '0x ...'.
+* * *
 
-Tenga en cuenta que, al verificar los saldos de ETC, debe utilizar un explorador de cadenas de bloques Ethereum Classic, como Gastracker.io.
+It is not recommended to unlock your wallet every time you’d like to check your balance, for the security of your information. Instead, you can see all balances and transaction history through the use of an Ethereum blockchain explorer, like [Etherscan](https://etherscan.io) or [Ethplorer](https://ethplorer.io). To check your balance, all you need is your public Ethereum address. This is 42 characters long and begins with an ‘0x….’.
 
+Be aware that when checking ETC balances, you should use an Ethereum Classic blockchain explorer instead, such as Gastracker.io.
 
+## **Etherscan**
 
-## __Etherscan__
+**Step 1.** Head to [Etherscan.io](https://etherscan.io).
 
-** Paso 1. ** Dirígete a [Etherscan.io] [etherscan].
+**Step 2.** In the search bar, enter your Ethereum public address, (0x…..).
 
-** Paso 2. ** En la barra de búsqueda, ingrese su dirección pública de Ethereum, (0x ... ..).
+**Step 3.** You will be taken to a wallet overview.
 
-** Paso 3. ** Pasará a una vista general de la cartera.
-* En la parte superior, verá la versión de suma de comprobación de su dirección. Para conocer la diferencia entre las direcciones de suma de comprobación y las que no lo son, haga clic en [aquí] [checkSum].
-* En la sección "Información general", verá su saldo y valor de ETH.
-* En "Misceláneo:", puede encontrar sus saldos de fichas. Al buscar información de token personalizada, aquí es donde puede seleccionar un token específico para encontrar su dirección de contrato, recuento de decimales y símbolo. Para obtener más información sobre cómo agregar tokens personalizados a MEW, haga clic en [aquí] [customTokens].
-* Las pestañas en la parte inferior de la pantalla muestran el historial de ETH, el token ERC20 y las transacciones del token ERC721.
+* At the top, you will see the checksummed version of your address. To learn about the difference between checksummed and non-checksummed addresses, click [here](/@@@@@@/common-issues/not-checksummed/).
+* In the ‘Overview’ section, you will see your ETH balance and value.
+* Under ‘Misc:’, you can find your Token Balances. When looking for custom token information, this is where you can select a specific token to find its contract address, decimal count, and symbol. To learn more about adding custom tokens to MEW, click [here](/@@@@@@/tokens/how-to-add-custom-token/).
+* The tabs at the bottom of the screen show the history of ETH, ERC20 token, and ERC721 token transactions.
 
+## **Ethplorer**
 
+**Step 1.** Head to [Ethplorer.io](https://ethplorer.io).
 
-## __Ethplorer__
+**Step 2.** In the search bar, enter your Ethereum public address, (0x…..).
 
-** Paso 1. ** Dirígete a [Ethplorer.io] [ethplorer].
+**Step 3.** You will be taken to a wallet overview.
 
-** Paso 2. ** En la barra de búsqueda, ingrese su dirección pública de Ethereum, (0x ... ..).
-
-** Paso 3. ** Pasará a una vista general de la cartera.
-
-* A la izquierda, verá la versión de suma de comprobación de su dirección. Para conocer la diferencia entre las direcciones de suma de comprobación y las que no lo son, haga clic en [aquí] [checkSum].
-* También puede encontrar su saldo de ETH a la izquierda, bajo "Información de la dirección".
-* A la derecha, puedes encontrar tus Token Balances. Al buscar información de token personalizada, aquí es donde puede seleccionar un token específico para encontrar su dirección de contrato, recuento de decimales y símbolo. Para obtener más información sobre cómo agregar tokens personalizados a MEW, haga clic en [aquí] [customTokens].
-* La parte inferior de la pantalla muestra el historial de ETH, el token ERC20 y las transacciones del token ERC721. Puede aplicar filtros si desea ver solo ETH o tokens, utilizando marcas de verificación en la parte superior.
-
-
-[etherscan]: https://etherscan.io
-[ethplorer]: https://ethplorer.io
-[customTokens]: /@@@@@@/tokens/how-to-add-custom-token/
-[checkSum]: /@@@@@@/common-issues/not-checksummed/
+* To the left, you will see the checksummed version of your address. To learn about the difference between checksummed and non-checksummed addresses, click [here](/@@@@@@/common-issues/not-checksummed/).
+* You can also find your ETH balance to the left, under ‘Address Information’.
+* To the right, you can find your Token Balances. When looking for custom token information, this is where you can select a specific token to find its contract address, decimal count, and symbol. To learn more about adding custom tokens to MEW, click [here](/@@@@@@/tokens/how-to-add-custom-token/).
+* The bottom of the screen shows the history of ETH, ERC20 token, and ERC721 token transactions. You can apply filters if you want to see just ETH or tokens, using tick marks at the top.
