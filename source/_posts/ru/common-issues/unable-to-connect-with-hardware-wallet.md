@@ -2,23 +2,26 @@
 title: "Unable to Connect to Hardware Wallet"
 date: 2018-06-01 00:06:00
 tags:
-- error
-- connect
-- hardware
-- wallet
+  - error
+  - connect
+  - hardware
+  - wallet
 categories:
-- [common-issues]
+  - 
+    - common-issues
 primary_category: common-issues
 primary_category_display_name: "Common Issues"
 alias:
-- hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
+  - hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
 ---
 
-# __Unable to Connect to Hardware Wallet__
-###### {% read_time title "Unable to Connect to Hardware Wallet" %} min read
-***
+# **Unable to Connect to Hardware Wallet**
 
-## __Most issues with connection can be solved by following these troubleshooting tips:__
+###### {% read_time title "Unable to Connect to Hardware Wallet" %} min read
+
+* * *
+
+## **Most issues with connection can be solved by following these troubleshooting tips:**
 
 * Restart your computer. (Don’t be lazy, restart it first!)
 * Use Google Chrome and perform a hard refresh (CTRL+F5 or Command+F5).
