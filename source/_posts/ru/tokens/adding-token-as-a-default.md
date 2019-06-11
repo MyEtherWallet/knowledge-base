@@ -1,46 +1,46 @@
 ---
 title: "Adding Your Token as a Default Token"
-
 date: 2018-06-01 00:01:00
 tags:
-- token
-- add
-- adding
+  - token
+  - add
+  - adding
 categories:
-- [faqs]
-- [token]
+  - 
+    - faqs
+  - 
+    - token
 primary_category: token
 primary_category_display_name: "Tokens"
 alias:
-- tokens/token-creators-add-your-token-to-myetherwallet.html
+  - tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
-# __Adding Your Token as a Default Token__
+# **Adding Your Token as a Default Token**
+
 ###### {% read_time title "Adding Your Token as a Default Token" %} min read
-***
 
-If you are someone who is just experimenting with tokens, you can [add a custom token][addCustom] to your local version of MyEtherWallet (MEW).
+* * *
 
-If you have a token that a lot of other people also have, or will have in the coming days, you can add it as a permanent, default token to our site. 
+If you are someone who is just experimenting with tokens, you can [add a custom token](/@@@@@@/tokens/how-to-add-custom-token/) to your local version of MyEtherWallet (MEW).
 
+If you have a token that a lot of other people also have, or will have in the coming days, you can add it as a permanent, default token to our site.
 
-
-## __You will need to provide:__
+## **You will need to provide:**
 
 * **Name** of your token.
 * **Symbol** of your token.
 * **Address** of your token.
 * **Decimals** of your token.
 * Your **official Website**.
-* Your direct **customer support email**.
+* Your direct **customer support email**. 
     * Due to high numbers of token sale holders NOT providing support to their investors, we will remove your token if you do not help the people who made you millionaires.
 * Optionally, you may also include your blog, social media sites, chat channels, your logo, etc.
 
-
-
 ### 1. Submit your tokens as Default Tokens.
-* Go to https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens/eth.
-    * If your token exists on a different network, you can [add them here][addhere].
+
+* Go to https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens/eth. 
+    * If your token exists on a different network, you can [add them here](https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens).
 * Login or join GitHub.
 * Click the pencil icon in upper right.
 * Scroll to the letter of your token (they are in alphabetical order).
@@ -58,12 +58,11 @@ If you have a token that a lot of other people also have, or will have in the co
 * That's it. You successfully made a new pull request!
 * We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
 
-
-
 ### 2. Add your token sale address and manual gas limits to ensure a smooth sale.
+
 * Go here https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/customGas.js.
 * Find an existing entry that is over, or use our donation address (the top one).
-* Replace the information with your information:
+* Replace the information with your information: 
     * Address: The address users will be sending to.
     * Gas Limit: The gas limit you are recommending that ensures there will be no `Out of Gas` errors.
     * Data: Optional. If there is a standard data field, add that string.
@@ -76,9 +75,8 @@ If you have a token that a lot of other people also have, or will have in the co
 * That's it. You successfully made a new pull request!
 * We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
 
-
-
 ### 3. Adding your Contract / ABI.
+
 We now provide users with the ability to enter the address, and MEW will auto-populate with the ABI. If you have a contract that is **NOT** your ERC-20 token contract that users will actually be interacting with:
 
 * Go to https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json.
@@ -91,6 +89,3 @@ We now provide users with the ability to enter the address, and MEW will auto-po
 * Click the "Create Pull Request" button, twice.
 * That's it. You successfully made a new pull request! 
 * We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
-
-[addCustom]: /@@@@@@/tokens/how-to-add-custom-token/
-[addhere]: https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens
