@@ -66,6 +66,9 @@ hexo.extend.tag.register('link_lang', (args, content) => {
   // return fs.readFile(path).then(docProcess);
 });
 
+hexo.extend.tag.register('no_translate', (args, content) => {
+  return args.shift();
+});
 
 hexo.extend.tag.register('demo', (args, content) => {
 return '';
