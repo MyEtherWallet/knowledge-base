@@ -2,34 +2,37 @@
 title: "Ledger: Error Code 5"
 date: 2018-06-01 00:02:00
 tags:
-- ledger
-- error
-- code
+  - ledger
+  - error
+  - code
 categories:
-- [common-issues]
+  - 
+    - common-issues
 primary_category: common-issues
 primary_category_display_name: "Common Issues"
 alias:
-- hardware-wallets/error-code-5.html
+  - hardware-wallets/error-code-5.html
 ---
 
-# __Ledger: Error Code 5__
+# **Ledger: Error Code 5**
+
 ###### {% read_time title "Ledger: Error Code 5" %} min read
-***
 
-If you’re getting the error code 5, this means that your Ledger is opened and being used by another application, such as Ledger Live. 
+* * *
 
-## __To fix this error, please follow these steps:__
+If you’re getting the error code 5, this means that your Ledger is opened and being used by another application, such as Ledger Live.
 
-**Step 1.** Plug in your Ledger device. Make sure that any windows that pop up, including Ledger Live, are closed. 
+## **To fix this error, please follow these steps:**
+
+**Step 1.** Plug in your Ledger device. Make sure that any windows that pop up, including Ledger Live, are closed.
 
 **Step 2.** Unlock your Ledger device, and navigate to the Ethereum section.
 
 **Step 3.** On MyEtherWallet.com, choose the ‘Access My Wallet’ option.
 
-**Step 4.** Choose the ‘Ledger’ option next, and connect to your device. 
+**Step 4.** Choose the ‘Ledger’ option next, and connect to your device.
 
-## __If it’s still not connecting, follow these troubleshooting tips:__
+## **If it’s still not connecting, follow these troubleshooting tips:**
 
 * Restart your computer.
 * Use Google Chrome.
