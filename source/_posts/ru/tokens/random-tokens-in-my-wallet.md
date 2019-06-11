@@ -1,25 +1,28 @@
 ---
 title: "Why are Random Tokens Appearing in my Wallet?"
-
 date: 2018-06-01 00:03:00
 tags:
-- random
-- token
-- tokens
-- appearing
-- wallet
+  - random
+  - token
+  - tokens
+  - appearing
+  - wallet
 categories:
-- [faqs]
-- [token]
+  - 
+    - faqs
+  - 
+    - token
 primary_category: token
 primary_category_display_name: "Tokens"
 alias:
-- tokens/airdropped-tokens.html
+  - tokens/airdropped-tokens.html
 ---
 
-# __Why are Random Tokens Appearing in my Wallet?__
+# **Why are Random Tokens Appearing in my Wallet?**
+
 ###### {% read_time title "Why are Random Tokens Appearing in my Wallet?" %} min read
-***
+
+* * *
 
 Lately, a lot of blockchain projects on Ethereum have been 'airdropping' tokens in the wallets of users. This is done to either spread the distribution of tokens, or to advertise the token to users.
 
