@@ -1,20 +1,22 @@
 ---
 title: "What is Nonce?"
-
 date: 2018-06-01 00:08:00
 tags:
-- nonce
+  - nonce
 categories:
-- [transactions]
+  - 
+    - transactions
 primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
-- transactions/what-is-nonce.html
+  - transactions/what-is-nonce.html
 ---
 
-# __What is Nonce?__
+# **What is Nonce?**
+
 ###### {% read_time title "What is Nonce?" %} min read
-***
+
+* * *
 
 In Ethereum, every transaction has a nonce. The nonce is the number of transactions sent from a given address.
 
@@ -26,11 +28,9 @@ Each time you send a transaction, the nonce value increases by `1`. There are ru
 
 * **No skipping!** You cannot have a transaction with a nonce of `2` mined if you have not already sent transactions with a nonce of `1` and `0`.
 
+## **Why does it matter?**
 
-
-## __Why does it matter?__
-
-This value prevents double-spending, as the nonce will always specify the order of transactions. If a double-spend _does_ occur, it's typically due to the following process:
+This value prevents double-spending, as the nonce will always specify the order of transactions. If a double-spend *does* occur, it's typically due to the following process:
 
 * A transaction is sent to one party.
 * They wait for it to register.
@@ -40,8 +40,6 @@ This value prevents double-spending, as the nonce will always specify the order 
 
 This is why exchanges wait for you to have a certain number of confirmations before allowing you to trade freshly-deposited funds.
 
-
-
-## __When using the Ethereum blockchain, the above is not possible.__
+## **When using the Ethereum blockchain, the above is not possible.**
 
 In Ethereum, this method of "double-spending" is not possible because each transaction has a nonce included with it. Even if you attempt to do the above, it will not work as the second transaction (nonce of `3`) cannot be mined before the first transaction (nonce of `2`).
