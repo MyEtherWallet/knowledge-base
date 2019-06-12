@@ -10,7 +10,7 @@
             <% } %>
             <li>
                 <label id="lang-select-label" class="lang-nav-link"><i class="fa fa-globe"></i><span><%= lang_name(page.lang) %></span></label>
-                <select id="lang-select" class="hidden" data-canonical="<%= canonical_path_for_nav() %>">
+                <select id="lang-select" data-canonical="<%= canonical_path_for_nav() %>">
                     <option >Select Language</option>
                     <% for (let lang in site.data.languages){ %>
                     <option value="<%= lang %>"<% if (page.lang === lang){ %> selected<% } %>><%= lang_name(lang) %></option>
