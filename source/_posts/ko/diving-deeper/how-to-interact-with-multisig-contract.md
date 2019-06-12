@@ -31,7 +31,7 @@ alias:
 
 **Step 4.** Select ‘Execute’ from the dropdown menu.
 
-* Enter the address you want to send to in the {% no_translate `_To` %} field.
+* Enter the address you want to send to in the `_To` field.
 * Enter the amount you want to send in the `_Value` field. 
 * Leave the `Data` field empty. 
 * We suggest sending a small amount first, to test the waters.
