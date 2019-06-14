@@ -32,3 +32,36 @@ function selectMobileDesktop () {
   $('#mobile-lang-select').change(changeLang);
 
 })(jQuery);
+
+(function ($) {
+
+  // if($('#lang-select').hasClass('hidden') && !$('#lang-select-label').hasClass('hidden')){
+  //   $('#lang-select').removeClass('hidden');
+  //   $('#lang-select-label').addClass('hidden');
+  // } else {
+  //   $('#lang-select').addClass('hidden');
+  //   $('#lang-select-label').removeClass('hidden');
+  // }
+
+  $('#lang-select-label').click(function(){
+    if($('#lang-select').hasClass('hidden') && !$('#lang-select-label').hasClass('hidden')){
+      $('#lang-select').removeClass('hidden');
+      $('#lang-select-label').addClass('hidden');
+    } else {
+      $('#lang-select').addClass('hidden');
+      $('#lang-select-label').removeClass('hidden');
+    }
+
+
+  });
+  $('#lang-select').change(function(){
+    if(!$('#lang-select').hasClass('hidden') && $('#lang-select-label').hasClass('hidden')){
+      $('#lang-select').addClass('hidden');
+      $('#lang-select-label').removeClass('hidden');
+    } else {
+      $('#lang-select').removeClass('hidden');
+      $('#lang-select-label').addClass('hidden');
+    }
+  });
+
+})(jQuery);
