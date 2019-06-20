@@ -48,6 +48,7 @@ index:
   swap: Swap
   ens: ENS
   v5: MEW V5
+  dapps: Dapps
 help:
   cantFind: Can't find your answer? Get in touch and we'll get back as soon as we can.
   community_join: Join the MEW community to get more information.
