@@ -70,5 +70,11 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/2mback.png" width="100%">
 
+## __Here's a video showing the process:__
+
+<div class="youtube-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xNK_px6vPEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 [create]: /posts/Getting_Started/How_To_Create_A_Wallet/
 [access]: /posts/Getting_Started/how-to-access-your-wallet/
