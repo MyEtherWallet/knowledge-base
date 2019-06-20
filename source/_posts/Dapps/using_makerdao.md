@@ -24,44 +24,44 @@ primary_category_display_name: "Dapps"
 
 **Step 1.** Unlock your wallet on our site by selecting ‘Access My Wallet’, then choosing the method of access you prefer.
 
-<img src="/images/posts/diving-deeper/1maccess.png" width="85%">
+<img src="/images/posts/diving-deeper/1maccess.png" width="100%">
 
 **Step 2.** Head to our Dapps section to the left of your Wallet Overview page, then select ‘MakerDAO’.
 
-<img src="/images/posts/diving-deeper/1mdapps.png" width="85%">
+<img src="/images/posts/diving-deeper/1mdapps.png" width="100%">
 
 **Step 3.** Set the amount of ETH you would like to offer as collateral. Remember to leave some wiggle room to account for the shifting markets.
 * You will need to confirm the transaction on your device, if you're using one.
 
-<img src="/images/posts/diving-deeper/1mbegincdp.png" width="85%">
+<img src="/images/posts/diving-deeper/1mbegincdp.png" width="100%">
 
-<img src="/images/posts/diving-deeper/1mconfirm.png" width="85%">
+<img src="/images/posts/diving-deeper/1mconfirm.png" width="100%">
 
 **Step 4.** The MakerDAO page will shift to show new details about your holdings.
 
-<img src="/images/posts/diving-deeper/1mdcp.png" width="85%">
+<img src="/images/posts/diving-deeper/1mcdp.png" width="100%">
 
 ## __Closing Your CDP__
 
 **Step 1.** When you’re ready, head back to the Dapps section and select ‘MakerDAO’.
 
-<img src="/images/posts/diving-deeper/2mmakerdao.png" width="85%">
+<img src="/images/posts/diving-deeper/2mmakerdao.png" width="100%">
 
 **Step 2.** Click ‘Close CDP’ at the top, and a new page will pop-up.
 
-<img src="/images/posts/diving-deeper/2mapproved.png" width="85%">
+<img src="/images/posts/diving-deeper/2mapproved.png" width="100%">
 
 **Step 3.** Depending on the amount of time you held your CDP open, a respective amount of MKR will have accrued at a 16.499% / year interest rate. 
 * You will have to ‘Approve’ both MKR and DAI amounts in order to close the CDP.
 * MKR can be swapped with ETH through our swap page.
 
-<img src="/images/posts/diving-deeper/2mprocess.png" width="85%">
-<img src="/images/posts/diving-deeper/2msuccess.png" width="85%">
+<img src="/images/posts/diving-deeper/2mprocess.png" width="60%">
+<img src="/images/posts/diving-deeper/2msuccess.png" width="60%">
 
 **Step 4.** Once approved, you can close the CDP. Your page will refresh to show the original MakerDAO interface.
 
-<img src="/images/posts/diving-deeper/2mclose.png" width="85%">
-<img src="/images/posts/diving-deeper/2mback.png" width="85%">
+<img src="/images/posts/diving-deeper/2mclose.png" width="100%">
+<img src="/images/posts/diving-deeper/2mback.png" width="100%">
 
 [create]: /posts/Getting_Started/How_To_Create_A_Wallet/
 [access]: /posts/Getting_Started/how-to-access-your-wallet/
