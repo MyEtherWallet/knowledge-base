@@ -66,7 +66,7 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/2mclose.png" width="100%">
 
-*Your page will refresh to show the original MakerDAO interface.
+* Your page will refresh to show the original MakerDAO interface.
 
 <img src="/images/posts/diving-deeper/2mback.png" width="100%">
 
