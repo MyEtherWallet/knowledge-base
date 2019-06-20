@@ -140,11 +140,11 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for_lang(site.categories.findOne({name: 'ens'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'dapps'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/ens.svg') %>
-                  <p><%= _p('index.ens') %></p>
-                  <div class="post-counter"><p><%= site.categories.findOne({name: 'ens'}).posts.length %></p></div>
+                  <p><%= _p('index.dapps') %></p>
+                  <div class="post-counter"><p><%= site.categories.findOne({name: 'dapps'}).posts.length %></p></div>
                 </div>
               </a>
             </li>
