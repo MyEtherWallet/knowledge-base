@@ -7,9 +7,9 @@ tags:
 - auction
 - auctions
 categories:
-- [ens]
-primary_category: ens
-primary_category_display_name: "ENS"
+- [Dapps]
+primary_category: Dapps
+primary_category_display_name: "Dapps"
 ---
 
 # __ENS: Registering a Domain__
