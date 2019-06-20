@@ -4,11 +4,12 @@ lang: en
 date: 2018-06-01 00:02:00
 tags:
 - ens
+- dapps
 - auction
 - auctions
 categories:
-- [Dapps]
-primary_category: Dapps
+- [dapps]
+primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 

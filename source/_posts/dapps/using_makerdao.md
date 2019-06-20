@@ -8,9 +8,10 @@ tags:
 - cdp
 - dai
 - mkr
+- dapps
 categories:
-- [Dapps]
-primary_category: Dapps
+- [dapps]
+primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
