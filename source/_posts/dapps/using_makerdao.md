@@ -25,7 +25,7 @@ primary_category_display_name: "Dapps"
 
 **Step 1.** Unlock your wallet on our site by selecting ‘Access My Wallet’, then choosing the method of access you prefer.
 
-<img src="/images/posts/diving-deeper/1maccess.png" width="100%">
+<img src="/images/posts/diving-deeper/1maccesscrop.png" width="100%">
 
 **Step 2.** Head to our Dapps section to the left of your Wallet Overview page, then select ‘MakerDAO’.
 
@@ -57,11 +57,17 @@ primary_category_display_name: "Dapps"
 * MKR can be swapped with ETH through our swap page.
 
 <img src="/images/posts/diving-deeper/2mprocess.png" width="60%">
+
+* Please allow for both transactions to post as 'Success' before continuing. 
+
 <img src="/images/posts/diving-deeper/2msuccess.png" width="60%">
 
-**Step 4.** Once approved, you can close the CDP. Your page will refresh to show the original MakerDAO interface.
+**Step 4.** Once approved, you can close the CDP. 
 
 <img src="/images/posts/diving-deeper/2mclose.png" width="100%">
+
+*Your page will refresh to show the original MakerDAO interface.
+
 <img src="/images/posts/diving-deeper/2mback.png" width="100%">
 
 [create]: /posts/Getting_Started/How_To_Create_A_Wallet/
