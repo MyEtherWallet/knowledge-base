@@ -25,7 +25,7 @@ alias:
 
 **Step 1.** Access your wallet and head to the ‘Contracts’ section, to the left of your wallet interface.
 
-**Step 2.** There should be a Must Multisig Contract ABI in the dropdown. If not, we have provided the ABI at the bottom of this article, which you can manually input into the interface.
+**Step 2.** There should be a Mist Multisig Contract ABI in the dropdown. If not, we have provided the ABI at the bottom of this article, which you can manually input into the interface.
 
 **Step 3.** Enter your contract address in the ‘Contract Address’ field at the top.
 
@@ -33,11 +33,11 @@ alias:
 
 * Enter the address you want to send to in the `_To` field.
 * Enter the amount you want to send in the `_Value` field. 
-* Leave the `Data` field empty. 
+* In the `Data` field, type `0x`. This sets it to empty. 
 * We suggest sending a small amount first, to test the waters.
 * Unlock the owner’s address, and click `Write`.
-* A pop-up will appear. Leave the `Amount to Send` as `0`.
-* Click ‘Generate Transaction’, confirm the transaction, and send. 
+* Leave the `Value in ETH` as `0`.
+* Click 'Generate Transaction', confirm the transaction, and send. 
 
 **Step 5.** Click the Transaction ID that outputs with the ‘Success’ message. Copy this ID.
 
