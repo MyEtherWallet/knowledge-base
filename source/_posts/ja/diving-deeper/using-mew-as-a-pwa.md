@@ -1,6 +1,5 @@
 ---
 title: "Using MEW as a Progressive Web App (PWA)"
-lang: en
 date: 2018-06-01 00:06:00
 tags:
   - down
