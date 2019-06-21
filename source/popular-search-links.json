@@ -2,26 +2,26 @@
 [
   {
     "name": "MEWconnect",
-    "url": "/mewconnect/mewconnect-101-create/"
+    "url": "/posts/mewconnect/mewconnect-101-create/"
   },
   {
     "name": "Swap",
-    "url": "/swap/buy-eth-via-simplex/"
+    "url": "/posts/swap/buy-eth-via-simplex/"
   },
   {
     "name": "Send ETH",
-    "url": "/transactions/how-to-send-a-transaction/"
+    "url": "/posts/transactions/how-to-send-a-transaction/"
   },
   {
     "name": "Security",
-    "url": "/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/"
+    "url": "/posts/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/"
   },
   {
     "name": "Blockchain",
-    "url": "/getting-started/myetherwallet-an-introduction/"
+    "url": "/posts/getting-started/myetherwallet-an-introduction/"
   },
   {
     "name": "Create a Wallet",
-    "url": "/getting-started/how-to-create-a-wallet/"
+    "url": "/posts/getting-started/how-to-create-a-wallet/"
   }
 ]
