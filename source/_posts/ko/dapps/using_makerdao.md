@@ -1,6 +1,5 @@
 ---
 title: "Using MakerDAO"
-lang: en
 date: 2018-06-01 00:02:00
 tags:
   - makerdao
@@ -22,7 +21,7 @@ primary_category_display_name: "Dapps"
 
 * * *
 
-###### If you’d like to open a Collateralized Debt Position (CDP) using our MakerDAO Dapp, you will need a wallet you can [access with our interface](/posts/Getting_Started/how-to-access-your-wallet/). If you do not have a wallet, [click here](/posts/Getting_Started/How_To_Create_A_Wallet/) to set one up.
+###### If you’d like to open a Collateralized Debt Position (CDP) using our MakerDAO Dapp, you will need a wallet you can [access with our interface](/@@@@@@/getting-started/how-to-access-your-wallet/). If you do not have a wallet, [click here](/@@@@@@/getting-started/how-to-create-a-wallet/) to set one up.
 
 ## **Opening Your CDP**
 
