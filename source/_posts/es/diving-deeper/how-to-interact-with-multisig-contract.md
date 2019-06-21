@@ -7,9 +7,7 @@ tags:
   - stop
   - down
 categories:
-  - 
     - faqs
-  - 
     - diving-deeper
 primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"

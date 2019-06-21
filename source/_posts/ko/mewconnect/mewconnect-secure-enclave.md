@@ -1,12 +1,10 @@
 ---
 title: "Does MEWconnect Store the Private Key in iPhone's 'Secure Enclave'?"
-lang: en
 date: 2018-03-01 00:01:00
 tags:
   - mewconnect
   - guide
 categories:
-  - 
     - mewconnect
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"

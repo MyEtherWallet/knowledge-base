@@ -1,6 +1,5 @@
 ---
 title: "Using MakerDAO"
-lang: en
 date: 2018-06-01 00:02:00
 tags:
   - makerdao
