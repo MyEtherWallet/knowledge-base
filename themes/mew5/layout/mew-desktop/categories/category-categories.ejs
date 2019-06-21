@@ -8,7 +8,7 @@
           <h3><%= _p('index.intro') %></h3>
           <ul>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'get-started'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'get-started'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/get-started.svg') %>
                   <p><%= _p('index.get_started') %></p>
@@ -17,7 +17,7 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'common-issues'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'common-issues'}).posts.sort('date', 1).data[0].path, page.lang) %>">
                 <div>
                   <%- image_tag('images/mew-icons/common-issues.svg') %>
                   <p><%= _p('index.common_issues') %></p>
@@ -26,7 +26,7 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'diving-deeper'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'diving-deeper'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/diving-deeper.svg') %>
                   <p><%= _p('index.diving_deeper') %></p>
@@ -40,7 +40,7 @@
           <h3><%= _p('index.access_wallet') %></h3>
           <ul>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'mewconnect'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'mewconnect'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/mewconnect.svg') %>
                   <p><%= _p('index.mewconnect') %></p>
@@ -49,7 +49,7 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'hardware-wallets'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'hardware-wallets'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/hardware-wallet.svg') %>
                   <p><%= _p('index.hardware_wallet') %></p>
@@ -58,7 +58,7 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'migration'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'migration'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/migrating.svg') %>
                   <p><%= _p('index.migrating') %></p>
@@ -72,7 +72,7 @@
           <h3><%= _p('index.security') %></h3>
           <ul>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'security-and-privacy'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'security-and-privacy'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/security-and-privacy.svg') %>
                   <p><%= _p('index.security_privacy') %></p>
@@ -81,7 +81,7 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'private-keys-and-passwords'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'private-keys-and-passwords'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/private-keys-and-password.svg') %>
                   <p><%= _p('index.private_keys_password') %></p>
@@ -95,7 +95,7 @@
           <h3><%= _p('index.functions') %></h3>
           <ul>
             <li>
-              <a href=" <%- url_for(site.categories.findOne({name: 'token'}).posts.sort('date', 1).data[0].path) %>">
+              <a href=" <%- url_for_lang(site.categories.findOne({name: 'token'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/tokens.svg') %>
                   <p><%= _p('index.tokens') %></p>
@@ -104,7 +104,7 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'offline'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'offline'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/offline.svg') %>
                   <p><%= _p('index.offline') %></p>
@@ -113,7 +113,7 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'networks-and-nodes'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'networks-and-nodes'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/network.svg') %>
                   <p><%= _p('index.network_and_nodes') %></p>
@@ -122,7 +122,7 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'transactions'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'transactions'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/transactions.svg') %>
                   <p><%= _p('index.transactions') %></p>
@@ -131,7 +131,7 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'swap'}).posts.sort('date', 1).data[0].path) %> ">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'swap'}).posts.sort('date', 1).data[0].path) %> ">
                 <div>
                   <%- image_tag('images/mew-icons/swap.svg') %>
                   <p><%= _p('index.swap') %></p>
@@ -140,7 +140,7 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for(site.categories.findOne({name: 'dapps'}).posts.sort('date', 1).data[0].path) %>">
+              <a href="<%- url_for_lang(site.categories.findOne({name: 'dapps'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/ens.svg') %>
                   <p><%= _p('index.dapps') %></p>
