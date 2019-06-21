@@ -1,22 +1,22 @@
 ---
-categories: Categories
-search: Search
+categories: Categorías
+search: Buscar
 tags: Tags
-tagcloud: Tag Cloud
+tagcloud: Nube de Tags
 tweets: Tweets
-prev: Prev
-next: Next
-comment: Comments
-archive_a: Archives
-archive_b: "Archives: %s"
-page: Page %d
-recent_posts: Recent Posts
-newer: Newer
-older: Older
-share: Share
-powered_by: Powered by
-rss_feed: RSS Feed
-category: Category
+prev: Previo
+next: Siguiente
+comment: Comentarios
+archive_a: Archivos
+archive_b: "Archivos: %s"
+page: Página %d
+recent_posts: Posts recientes
+newer: Nuevo
+older: Viejo
+share: Compartir
+powered_by: Construido por
+rss_feed: RSS
+category: Categoría
 tag: Tag
 help_center: Help Center
 previous: Previous

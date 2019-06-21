@@ -1,23 +1,23 @@
 ---
-categories: Categories
-search: Search
-tags: Tags
-tagcloud: Tag Cloud
-tweets: Tweets
-prev: Prev
-next: Next
-comment: Comments
-archive_a: Archives
-archive_b: "Archives: %s"
-page: Page %d
-recent_posts: Recent Posts
-newer: Newer
-older: Older
-share: Share
-powered_by: Powered by
-rss_feed: RSS Feed
-category: Category
-tag: Tag
+categories: Категории
+search: Поиск
+tags: Метки
+tagcloud: Облако меток
+tweets: Твиты
+prev: Назад
+next: Вперед
+comment: Комментарии
+archive_a: Архив
+archive_b: "Архив: %s"
+page: Страница %d
+recent_posts: Недавние записи
+newer: Следующий
+older: Предыдущий
+share: Поделиться
+powered_by: Создано с помощью
+rss_feed: RSS-каналы
+category: Категория
+tag: Метка
 help_center: Help Center
 previous: Previous
 none: None

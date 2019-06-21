@@ -1,6 +1,5 @@
 ---
 title: "ENS: Registering a Domain"
-lang: en
 date: 2018-06-01 00:02:00
 tags:
 - ens
@@ -75,5 +74,5 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 **Step 3.** Confirm the transaction, and the ownership of your domain will be transferred.
 
-[createWallet]: /posts/Getting_Started/How_To_Create_A_Wallet/
-[gas]: /posts/transactions/what-is-gas/
+[createWallet]: /@@@@@@/Getting_Started/How_To_Create_A_Wallet/
+[gas]: /@@@@@@//transactions/what-is-gas/

@@ -4,8 +4,7 @@ date: 2018-06-01 00:06:00
 tags:
   - down
 categories:
-  - 
-    - diving-deeper
+  - diving-deeper
 primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:

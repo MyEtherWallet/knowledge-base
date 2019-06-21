@@ -1,23 +1,23 @@
 ---
-categories: Categories
-search: Search
-tags: Tags
-tagcloud: Tag Cloud
-tweets: Tweets
-prev: Prev
-next: Next
-comment: Comments
-archive_a: Archives
-archive_b: "Archives: %s"
-page: Page %d
-recent_posts: Recent Posts
-newer: Newer
-older: Older
-share: Share
+categories: カテゴリ
+search: 検索
+tags: タグ
+tagcloud: タグクラウド
+tweets: ツイート
+prev: 戻る
+next: 次へ
+comment: コメント
+archive_a: アーカイブ
+archive_b: "アーカイブ: %s"
+page: ページ %d
+recent_posts: 最近の投稿
+newer: 次の記事
+older: 前の記事
+share: 共有
 powered_by: Powered by
-rss_feed: RSS Feed
-category: Category
-tag: Tag
+rss_feed: RSSフィード
+category: カテゴリ
+tag: タグ
 help_center: Help Center
 previous: Previous
 none: None

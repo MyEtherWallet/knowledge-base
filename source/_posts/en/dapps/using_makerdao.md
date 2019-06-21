@@ -1,6 +1,5 @@
 ---
 title: "Using MakerDAO"
-lang: en
 date: 2018-06-01 00:02:00
 tags:
 - makerdao
@@ -76,5 +75,5 @@ primary_category_display_name: "Dapps"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xNK_px6vPEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[create]: /posts/Getting_Started/How_To_Create_A_Wallet/
-[access]: /posts/Getting_Started/how-to-access-your-wallet/
+[create]: /@@@@@@//Getting_Started/How_To_Create_A_Wallet/
+[access]: /@@@@@@//Getting_Started/how-to-access-your-wallet/
