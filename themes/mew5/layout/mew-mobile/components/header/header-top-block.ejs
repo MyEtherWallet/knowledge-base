@@ -1,22 +1,31 @@
 <div class="header-top-block">
+  <div class="upper-menu">
+    <label id="lang-select-label" for="lang-select" class="lang-nav-link lang-choices lang-flag"><%- image_tag('images/flags/' + page.lang + '.svg', {width: 20, height: 10}) %></label>
+    <select id="lang-select" class="hidden lang-choices" data-canonical="<%= canonical_path_for_nav() %>">
+      <option value="en">Select Language</option>
+      <% for (let lang in site.data.languages){ %>
+        <option value="<%= lang %>"<% if (page.lang === lang){ %> selected<% } %>><%= lang_name(lang) %></option>
+      <% } %>
+    </select>
+  </div>
   <div class="left">
     <a href="<%- url_for_lang('') %>"><%- image_tag('images/mew-logo-dark.png') %></a>
+  </div>
+  <div class="menu">
     <p><%= _p('help_center') %></p>
+
+<!--    <select id="lang-select" class="hidden lang-choices" data-canonical="<%= canonical_path_for_nav() %>">-->
+<!--      <option value="en">Select Language</option>-->
+<!--      <% for (let lang in site.data.languages){ %>-->
+<!--        <option value="<%= lang %>"<% if (page.lang === lang){ %> selected<% } %>><%= lang_name(lang) %></option>-->
+<!--      <% } %>-->
+<!--    </select>-->
   </div>
   <div class="right hidden">
     <ul>
       <% for (var i in theme.menu){ %>
         <li><a class="main-nav-link" href="<%- url_for_lang(theme.menu[i]) %>"><%= i %></a></li>
       <% } %>
-        <li>
-          <label id="lang-select-label" for="lang-select" class="lang-nav-link"><i class="fa fa-globe"></i><span class="lang-nav-link"><%= lang_name(page.lang) %></span></label>
-          <select id="lang-select" class="hidden" data-canonical="<%= canonical_path_for_nav() %>">
-            <option >Select Language</option>
-            <% for (let lang in site.data.languages){ %>
-              <option value="<%= lang %>"<% if (page.lang === lang){ %> selected<% } %>><%= lang_name(lang) %></option>
-            <% } %>
-          </select>
-        </li>
     </ul>
   </div>
 </div>
