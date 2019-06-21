@@ -52,25 +52,6 @@ hexo.extend.tag.register('read_time', (args, content) => {
 }, {async: true});
 
 
-hexo.extend.tag.register('link_lang', (args, content) => {
-  // // var lang = this.page.lang;
-  // // console.log(lang); // todo remove dev item
-  return content + '--------' + args;
-  const Post = hexo.model('Post');
-  // if (!title) return;
-  // //
-  const post = Post.forEach();
-  const value = args.shift();
-  var path = pathFn.join(hexo.source_dir, value);
-  //
-  // return fs.readFile(path).then(docProcess);
-});
-
-hexo.extend.tag.register('no_translate', (args, content) => {
-  return args.shift();
-});
-
 hexo.extend.tag.register('demo', (args, content) => {
 return '';
 });
-

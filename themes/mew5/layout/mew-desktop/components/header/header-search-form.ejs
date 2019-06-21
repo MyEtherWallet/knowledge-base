@@ -3,9 +3,9 @@
 
   <div class="search-results hidden">
     <ul>
-      <% site.posts.filter(function(post){return post.lang == page.lang;}).sort('title', 1).each(function(post){ %>
+      <% site.posts.sort('title', 1).each(function(post){ %>
         <li class="header-post-search-item">
-              <a href="<%- url_for_lang(post.path)  %>">
+              <a href="<%- url_for(post.path)  %>">
             <p class="title"><%= post.title %></p>
 
             <div class="prim-category">

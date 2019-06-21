@@ -13,18 +13,11 @@
   </div>
   <div class="menu">
     <p><%= _p('help_center') %></p>
-
-<!--    <select id="lang-select" class="hidden lang-choices" data-canonical="<%= canonical_path_for_nav() %>">-->
-<!--      <option value="en">Select Language</option>-->
-<!--      <% for (let lang in site.data.languages){ %>-->
-<!--        <option value="<%= lang %>"<% if (page.lang === lang){ %> selected<% } %>><%= lang_name(lang) %></option>-->
-<!--      <% } %>-->
-<!--    </select>-->
   </div>
   <div class="right hidden">
     <ul>
       <% for (var i in theme.menu){ %>
-        <li><a class="main-nav-link" href="<%- url_for_lang(theme.menu[i]) %>"><%= i %></a></li>
+        <li><a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a></li>
       <% } %>
     </ul>
   </div>
