@@ -39,7 +39,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 **Step 2.** Access your wallet.
 
-* If you don’t already have a wallet, you will need to [create a new wallet](/@@@@@@/Getting_Started/How_To_Create_A_Wallet/). 
+* If you don’t already have a wallet, you will need to [create a new wallet](/@@@@@@/getting-started/how-to-create-a-wallet/). 
 * You will also need a small amount of ETH for [gas](/@@@@@@/transactions/what-is-gas/). We generally recommend `.01 ETH` for 1 - 2 transactions. Starting and finalizing ENS auctions both count as a transactions.
 
 **Step 3.** Head to the Dapps section, to the left of your wallet's overview page (or by clicking the ‘Change’ function at the top right).
