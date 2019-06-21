@@ -15,7 +15,7 @@
   <div class="sidebar-primary-category mobile-post-list">
     <ul>
       <% var counter = 0 %>
-      <% site.posts.sort('date', 1).each(function(post){ %>
+      <% site.posts.filter(function(post){return post.lang == page.lang;}).sort('date', 1).each(function(post){ %>
         <% if(post.primary_category == primaryCategory){ %>
           <% counter++ %>
           <li class="primary-category-post-title">
