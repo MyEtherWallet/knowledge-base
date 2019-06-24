@@ -34,4 +34,4 @@ You can also [run MyEtherWallet locally][mewLocal] and/or [connect it to your ow
 
 
 [ownNode]: /@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/
-[mewLocal]: 
+[mewLocal]: /@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/

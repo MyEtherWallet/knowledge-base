@@ -35,13 +35,6 @@ function selectMobileDesktop () {
 
 (function ($) {
 
-  // if($('#lang-select').hasClass('hidden') && !$('#lang-select-label').hasClass('hidden')){
-  //   $('#lang-select').removeClass('hidden');
-  //   $('#lang-select-label').addClass('hidden');
-  // } else {
-  //   $('#lang-select').addClass('hidden');
-  //   $('#lang-select-label').removeClass('hidden');
-  // }
 
   $('#lang-select-label').click(function(){
     if($('#lang-select').hasClass('hidden') && !$('#lang-select-label').hasClass('hidden')){
@@ -51,10 +44,9 @@ function selectMobileDesktop () {
       $('#lang-select').addClass('hidden');
       $('#lang-select-label').removeClass('hidden');
     }
-
-
   });
-  $('#lang-select').change(function(){
+
+  const closeLangSelect = function(){
     if(!$('#lang-select').hasClass('hidden') && $('#lang-select-label').hasClass('hidden')){
       $('#lang-select').addClass('hidden');
       $('#lang-select-label').removeClass('hidden');
@@ -62,6 +54,16 @@ function selectMobileDesktop () {
       $('#lang-select').removeClass('hidden');
       $('#lang-select-label').addClass('hidden');
     }
+  }
+
+let leaveTimer = null;
+  $('#lang-select').change(closeLangSelect);
+  $('#lang-select').mouseleave(function(){
+    leaveTimer = setTimeout(closeLangSelect, 500);
   });
+  $('#lang-select').mouseenter(function(){
+     clearTimeout(leaveTimer);
+  });
+
 
 })(jQuery);
