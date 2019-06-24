@@ -12,7 +12,8 @@
     "dev": "hexo generate -w",
     "serve": "hexo server -s",
     "start": "hexo server",
-    "deploy": "hexo generate && hexo clean && hexo deploy"
+    "hexoDeploy": "NODE_OPTIONS=\"--max_old_space_size=4096\" hexo deploy",
+    "deploy": "npm run build && hexo clean && npm run hexoDeploy"
   },
   "dependencies": {
     "hexo": "^3.8.0",
