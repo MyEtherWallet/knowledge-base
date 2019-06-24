@@ -36,7 +36,7 @@ They are, from most to least recommended:
 
 Hardware wallets use the highest security measures to encrypt a private key within the device itself, keeping phishers and hackers at bay. Users of most hardwares wallets do not receive their private key, but instead receive a 24-word mnemonic phrase for recovery purposes. The devices are also usually accompanied by a pin code or password used to unlock the device, and all information about each wallet is kept on the actual physical device itself.
 
-To learn more about accessing MEW with hardware wallets, reference our [Migrating to/from MEW](/@@@@@@/migration/moving-from-exchange-to-mew/) category.
+To learn more about accessing MEW with hardware wallets, reference our [Migrating to/from MEW](/@@@@@@/migration/) category.
 
 ## **MEWconnect**
 
@@ -109,3 +109,9 @@ The private key is a string of 64 characters tied permanently to a public addres
 #### **This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.**
 
 **Step 1.** On the MEW front page, select ‘Access My Wallet’.
+
+**Step 2.** Choose the ‘Software’ option to connect, then select ‘Private Key’ and click ‘Continue’.
+
+**Step 3.** Copy and paste your private key into the value field.
+
+**Step 4.** Click ‘Unlock Wallet’ and you’re done!
