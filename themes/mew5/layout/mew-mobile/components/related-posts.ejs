@@ -12,7 +12,7 @@
 
   if(0) console.log("==============================================================");
 
-  site.posts.sort('date', 1).each(function(post) {
+  site.posts.filter(function(post){return post.lang == page.lang;}).sort('date', 1).each(function(post) {
     if(post.primary_category == primaryCategory) {
 
       // Set next post
