@@ -8,7 +8,7 @@
   },
   "scripts": {
     "clean": "hexo clean",
-    "build": "hexo generate",
+    "build": "NODE_OPTIONS=\"--max_old_space_size=4096\" hexo generate",
     "dev": "hexo generate -w",
     "serve": "hexo server -s",
     "start": "hexo server",
