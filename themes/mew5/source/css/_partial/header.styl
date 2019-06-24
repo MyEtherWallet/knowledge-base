@@ -2,15 +2,18 @@
   height: banner-height
   position: relative
   border-bottom: 1px solid color-border
+
   &:before, &:after
     content: ""
     position: absolute
     left: 0
     right: 0
     height: 40px
+
   &:before
     top: 0
     background: linear-gradient(rgba(0, 0, 0, 0.2), transparent)
+
   &:after
     bottom: 0
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.2))
@@ -75,6 +78,7 @@ $nav-link
   transition: opacity 0.2s
   display: block
   padding: 20px 15px
+
   &:hover
     opacity: 1
 
@@ -96,8 +100,15 @@ $nav-link
   @media mq-mobile
     display: none
 
+.lang-nav-link
+  @extend $nav-link
+  color: white
+  font-weight: 300
+  letter-spacing: 1px
+
 #main-nav-toggle
   display: none
+
   &:before
     content: "\f0c9"
   @media mq-mobile
@@ -123,6 +134,7 @@ $nav-link
   right: -150px
   opacity: 0
   transition: 0.2s ease-out
+
   &.on
     opacity: 1
     right: 0
@@ -147,6 +159,7 @@ $nav-link
   width: 100%
   font: 13px font-sans
   outline: none
+
   &::-webkit-search-results-decoration
   &::-webkit-search-cancel-button
     -webkit-appearance: none
@@ -161,5 +174,6 @@ $nav-link
   background: none
   color: #bbb
   cursor: pointer
+
   &:hover, &:focus
     color: #777

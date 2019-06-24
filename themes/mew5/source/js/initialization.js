@@ -7,8 +7,7 @@ function selectMobileDesktop() {
     //$('.desktop-content').addClass('hidden');
     $('.mobile-content').addClass('block');
     $('.desktop-content').remove();
-  }
-  else {
+  } else {
     // Desktop
     $('.desktop-content').addClass('block');
     $('.mobile-content').remove();
@@ -16,7 +15,7 @@ function selectMobileDesktop() {
 }
 
 
-(function($){
+(function ($) {
   selectMobileDesktop();
 
 })(jQuery);
