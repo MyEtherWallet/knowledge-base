@@ -160,65 +160,94 @@ alias:
   /private-keys-passwords/parity-phrases-are-no-longer-supported.html: /
   /private-keys-passwords/lost-password-ethereum-presale-wallet-file.html: /
   /offline/sending-offline-with-myetherwallet.html: /
-  /posts/faqs/: /en/faqs/
-  /posts/categories/: /en/categories/
   /posts/videos/: /en/videos/
   /posts/transactions/what-is-gas/: /en/transactions/what-is-gas/
-  /posts/common-issues/unable-to-locate-corresponding-transfer-event-log/: /en/common-issues/unable-to-locate-corresponding-transfer-event-log/
-  /posts/diving-deeper/what-happens-if-mew-goes-down/: /en/diving-deeper/what-happens-if-mew-goes-down/
-  /posts/security-and-privacy/what-is-a-mnemonic-phrase/: /en/security-and-privacy/what-is-a-mnemonic-phrase/
-  /posts/getting-started/how-to-access-your-wallet/: /en/getting-started/how-to-access-your-wallet/
   /posts/transactions/tx-failed-why-was-i-charged/: /en/transactions/tx-failed-why-was-i-charged/
-  /posts/diving-deeper/using-mew-as-a-pwa/: /en/diving-deeper/using-mew-as-a-pwa/
-  /posts/getting-started/glossary-of-common-terms/: /en/getting-started/glossary-of-common-terms/
-  /posts/common-issues/unable-to-connect-with-hardware-wallet/: /en/common-issues/unable-to-connect-with-hardware-wallet/
-  /posts/hardware-wallets/using-hardware-wallet-with-custom-node/: /en/hardware-wallets/using-hardware-wallet-with-custom-node/
   /posts/transactions/transaction-not-found-or-pending-forever/: /en/transactions/transaction-not-found-or-pending-forever/
-  /posts/common-issues/token-already-exists/: /en/common-issues/token-already-exists/
-  /posts/security-and-privacy/what-is-a-keystore-file/: /en/security-and-privacy/what-is-a-keystore-file/
   /posts/transactions/mew-minimum-requirement-for-sending/: /en/transactions/mew-minimum-requirement-for-sending/
-  /posts/migration/using-jaxx-with-mew/: /en/migration/using-jaxx-with-mew/
-  /posts/diving-deeper/how-to-submit-pull-request/: /en/diving-deeper/how-to-submit-pull-request/
-  /posts/getting-started/does-mew-support-other-coins/: /en/getting-started/does-mew-support-other-coins/
-  /posts/security-and-privacy/should-i-keep-eth-on-multiple-addresses/: /en/security-and-privacy/should-i-keep-eth-on-multiple-addresses/
-  /posts/diving-deeper/how-to-interact-with-multisig-contract/: /en/diving-deeper/how-to-interact-with-multisig-contract/
-  /posts/tokens/random-tokens-in-my-wallet/: /en/tokens/random-tokens-in-my-wallet/
-  /posts/migration/using-geth-or-mist-with-mew/: /en/migration/using-geth-or-mist-with-mew/
-  /posts/common-issues/not-checksummed/: /en/common-issues/not-checksummed/
-  /posts/getting-started/difference-between-mew-and-exchange/: /en/getting-started/difference-between-mew-and-exchange/
-  /posts/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/: /en/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
   /posts/transactions/how-to-send-a-transaction/: /en/transactions/how-to-send-a-transaction/
-  /posts/hardware-wallets/using-secalot-with-mew/: /en/hardware-wallets/using-secalot-with-mew/
-  /posts/migration/moving-from-exchange-to-mew/: /en/migration/moving-from-exchange-to-mew/
-  /posts/tokens/how-to-add-custom-token/: /en/tokens/how-to-add-custom-token/
-  /posts/getting-started/checking-your-balance/: /en/getting-started/checking-your-balance/
-  /posts/hardware-wallets/using-bitbox-with-mew/: /en/hardware-wallets/using-bitbox-with-mew/
-  /posts/diving-deeper/does-mew-have-an-api/: /en/diving-deeper/does-mew-have-an-api/
-  /posts/common-issues/out-of-gas/: /en/common-issues/out-of-gas/
-  /posts/hardware-wallets/using-keepkey-with-mew/: /en/hardware-wallets/using-keepkey-with-mew/
   /posts/transactions/eth-tokens-haven't-shown-up-from-exchange/: /en/transactions/eth-tokens-haven't-shown-up-from-exchange/
-  /posts/hardware-wallets/using-ledger-with-mew/: /en/hardware-wallets/using-ledger-with-mew/
-  /posts/common-issues/ledger-error-code-5/: /en/common-issues/ledger-error-code-5/
-  /posts/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/: /en/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/
-  /posts/security-and-privacy/not-recommended/: /en/security-and-privacy/not-recommended/
-  /posts/dapps/using_makerdao/: /en/dapps/using_makerdao/
-  /posts/common-issues/insufficient-funds/: /en/common-issues/insufficient-funds/
-  /posts/security-and-privacy/mnemonic-phrase-password/: /en/security-and-privacy/mnemonic-phrase-password/
-  /posts/swap/buy-eth-via-simplex/: /en/swap/buy-eth-via-simplex/
-  /posts/offline/offline-mew-looks-weird/: /en/offline/offline-mew-looks-weird/
-  /posts/getting-started/back-to-the-basics/: /en/getting-started/back-to-the-basics/
-  /posts/networks-and-nodes/how-to-change-networks/: /en/networks-and-nodes/how-to-change-networks/
-  /posts/tokens/adding-token-as-a-default/: /en/tokens/adding-token-as-a-default/
-  /posts/migration/importing-v2-json-file/: /en/migration/importing-v2-json-file/
-  /posts/diving-deeper/does-mew-api-limit-amount-of-requests/: /en/diving-deeper/does-mew-api-limit-amount-of-requests/
-  /posts/private-keys-and-passwords/lost-private-key/: /en/private-keys-and-passwords/lost-private-key/
-  /posts/hardware-wallets/using-trezor-with-mew/: /en/hardware-wallets/using-trezor-with-mew/
-  /posts/getting-started/myetherwallet-an-introduction/: /en/getting-started/myetherwallet-an-introduction/
   /posts/transactions/checking-or-replacing-a-tx-after-sending/: /en/transactions/checking-or-replacing-a-tx-after-sending/
+  /posts/transactions/what-is-nonce/: /en/transactions/what-is-nonce/
+  /posts/tokens/random-tokens-in-my-wallet/: /en/tokens/random-tokens-in-my-wallet/
+  /posts/tokens/how-to-add-custom-token/: /en/tokens/how-to-add-custom-token/
+  /posts/tokens/adding-token-as-a-default/: /en/tokens/adding-token-as-a-default/
+  /posts/tokens/what-is-an-ico/: /en/tokens/what-is-an-ico/
+  /posts/swap/swap-canceled-or-not-completed/: /en/swap/swap-canceled-or-not-completed/
+  /posts/swap/buy-eth-via-simplex/: /en/swap/buy-eth-via-simplex/
+  /posts/swap/swapping-via-kyber-bity-changelly/: /en/swap/swapping-via-kyber-bity-changelly/
+  /posts/security-and-privacy/what-is-a-mnemonic-phrase/: /en/security-and-privacy/what-is-a-mnemonic-phrase/
+  /posts/security-and-privacy/what-is-a-keystore-file/: /en/security-and-privacy/what-is-a-keystore-file/
+  /posts/security-and-privacy/should-i-keep-eth-on-multiple-addresses/: /en/security-and-privacy/should-i-keep-eth-on-multiple-addresses/
+  /posts/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/: /en/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
+  /posts/security-and-privacy/not-recommended/: /en/security-and-privacy/not-recommended/
+  /posts/security-and-privacy/mnemonic-phrase-password/: /en/security-and-privacy/mnemonic-phrase-password/
+  /posts/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/: /en/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/
+  /posts/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/: /en/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/
+  /posts/private-keys-and-passwords/lost-private-key/: /en/private-keys-and-passwords/lost-private-key/
+  /posts/private-keys-and-passwords/private-key-not-working/: /en/private-keys-and-passwords/private-key-not-working/
+  /posts/offline/offline-mew-looks-weird/: /en/offline/offline-mew-looks-weird/
+  /posts/offline/offline_transaction/: /en/offline/offline_transaction/
+  /posts/offline/using-mew-offline/: /en/offline/using-mew-offline/
+  /posts/networks-and-nodes/how-to-change-networks/: /en/networks-and-nodes/how-to-change-networks/
+  /posts/networks-and-nodes/unable-to-connect-to-custom-node/: /en/networks-and-nodes/unable-to-connect-to-custom-node/
+  /posts/migration/using-jaxx-with-mew/: /en/migration/using-jaxx-with-mew/
+  /posts/migration/using-geth-or-mist-with-mew/: /en/migration/using-geth-or-mist-with-mew/
+  /posts/migration/moving-from-exchange-to-mew/: /en/migration/moving-from-exchange-to-mew/
+  /posts/migration/importing-v2-json-file/: /en/migration/importing-v2-json-file/
+  /posts/migration/using-metamask-with-mew/: /en/migration/using-metamask-with-mew/
+  /posts/mewconnect/mewconnect-user-guide/: /en/mewconnect/mewconnect-user-guide/
+  /posts/mewconnect/mewconnect-secure-enclave/: /en/mewconnect/mewconnect-secure-enclave/
   /posts/mewconnect/mewconnect-101-transfer/: /en/mewconnect/mewconnect-101-transfer/
-  /posts/mewconnect/mewconnect-101-connect/: /en/mewconnect/mewconnect-101-connect/
   /posts/mewconnect/mewconnect-101-recover/: /en/mewconnect/mewconnect-101-recover/
   /posts/mewconnect/mewconnect-101-create/: /en/mewconnect/mewconnect-101-create/
-  /posts/mewconnect/mewconnect-user-guide/: /en/mewconnect/mewconnect-user-guide/
-  /posts/swap/swap-canceled-or-not-completed/: /en/swap/swap-canceled-or-not-completed/
-  /posts/mewconnect/mewconnect-secure-enclave/: /en/mewconnect/mewconnect-secure-enclave/
+  /posts/mewconnect/mewconnect-101-connect/: /en/mewconnect/mewconnect-101-connect/
+  /posts/mewconnect/mewconnect-101-overview/: /en/mewconnect/mewconnect-101-overview/
+  /posts/mewconnect/mewconnect-change-password/: /en/mewconnect/mewconnect-change-password/
+  /posts/hardware-wallets/using-trezor-with-mew/: /en/hardware-wallets/using-trezor-with-mew/
+  /posts/hardware-wallets/using-secalot-with-mew/: /en/hardware-wallets/using-secalot-with-mew/
+  /posts/hardware-wallets/using-ledger-with-mew/: /en/hardware-wallets/using-ledger-with-mew/
+  /posts/hardware-wallets/using-keepkey-with-mew/: /en/hardware-wallets/using-keepkey-with-mew/
+  /posts/hardware-wallets/using-hardware-wallet-with-custom-node/: /en/hardware-wallets/using-hardware-wallet-with-custom-node/
+  /posts/hardware-wallets/using-bitbox-with-mew/: /en/hardware-wallets/using-bitbox-with-mew/
+  /posts/hardware-wallets/using-ledger-hw-with-android-device/: /en/hardware-wallets/using-ledger-hw-with-android-device/
+  /posts/getting-started/myetherwallet-an-introduction/: /en/getting-started/myetherwallet-an-introduction/
+  /posts/getting-started/how-to-access-your-wallet/: /en/getting-started/how-to-access-your-wallet/
+  /posts/getting-started/glossary-of-common-terms/: /en/getting-started/glossary-of-common-terms/
+  /posts/getting-started/does-mew-support-other-coins/: /en/getting-started/does-mew-support-other-coins/
+  /posts/getting-started/difference-between-mew-and-exchange/: /en/getting-started/difference-between-mew-and-exchange/
+  /posts/getting-started/checking-your-balance/: /en/getting-started/checking-your-balance/
+  /posts/getting-started/back-to-the-basics/: /en/getting-started/back-to-the-basics/
+  /posts/getting-started/how-to-create-a-wallet/: /en/getting-started/how-to-create-a-wallet/
+  /posts/faqs/: /en/faqs/
+  /posts/diving-deeper/what-happens-if-mew-goes-down/: /en/diving-deeper/what-happens-if-mew-goes-down/
+  /posts/diving-deeper/using-mew-as-a-pwa/: /en/diving-deeper/using-mew-as-a-pwa/
+  /posts/diving-deeper/how-to-submit-pull-request/: /en/diving-deeper/how-to-submit-pull-request/
+  /posts/diving-deeper/how-to-interact-with-multisig-contract/: /en/diving-deeper/how-to-interact-with-multisig-contract/
+  /posts/diving-deeper/does-mew-have-an-api/: /en/diving-deeper/does-mew-have-an-api/
+  /posts/diving-deeper/does-mew-api-limit-amount-of-requests/: /en/diving-deeper/does-mew-api-limit-amount-of-requests/
+  /posts/diving-deeper/what-is-a-smart-contract/: /en/diving-deeper/what-is-a-smart-contract/
+  /posts/dapps/using_makerdao/: /en/dapps/using_makerdao/
+  /posts/dapps/register-ens-domain/: /en/dapps/register-ens-domain/
+  /posts/common-issues/unable-to-locate-corresponding-transfer-event-log/: /en/common-issues/unable-to-locate-corresponding-transfer-event-log/
+  /posts/common-issues/unable-to-connect-with-hardware-wallet/: /en/common-issues/unable-to-connect-with-hardware-wallet/
+  /posts/common-issues/token-already-exists/: /en/common-issues/token-already-exists/
+  /posts/common-issues/out-of-gas/: /en/common-issues/out-of-gas/
+  /posts/common-issues/not-checksummed/: /en/common-issues/not-checksummed/
+  /posts/common-issues/ledger-error-code-5/: /en/common-issues/ledger-error-code-5/
+  /posts/common-issues/insufficient-funds/: /en/common-issues/insufficient-funds/
+  /posts/common-issues/window-blocked/: /en/common-issues/window-blocked/
+  /posts/categories/: /en/categories/
+  /en/common-issues/: /en/common-issues/unable-to-locate-corresponding-transfer-event-log/
+  /en/diving-deeper/: /en/diving-deeper/what-happens-if-mew-goes-down/
+  /en/getting-started/: /en/getting-started/myetherwallet-an-introduction/
+  /en/hardware-wallets/: /en/hardware-wallets/using-ledger-with-mew/
+  /en/mewconnect/: /en/mewconnect/mewconnect-user-guide/
+  /en/migration/: /en/migration/using-metamask-with-mew/
+  /en/networks-and-nodes/: /en/networks-and-nodes/how-to-change-networks/
+  /en/offline/: /en/offline/using-mew-offline/
+  /en/private-keys-and-passwords/: /en/private-keys-and-passwords/lost-private-key/
+  /en/security-and-privacy/: /en/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
+  /en/swap/: /en/swap/swapping-via-kyber-bity-changelly/
+  /en/tokens/: /en/tokens/how-to-add-custom-token/
+  /en/transactions/: /en/transactions/what-is-gas/
