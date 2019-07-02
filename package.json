@@ -8,11 +8,11 @@
   },
   "scripts": {
     "clean": "hexo clean",
-    "build": "NODE_OPTIONS=\"--max_old_space_size=4096\" hexo generate",
+    "build": "cross-env NODE_OPTIONS=\"--max_old_space_size=4096\" hexo generate",
     "dev": "hexo generate -w",
     "serve": "hexo server -s",
     "start": "hexo server",
-    "hexoDeploy": "NODE_OPTIONS=\"--max_old_space_size=4096\" hexo deploy",
+    "hexoDeploy": "cross-env NODE_OPTIONS=\"--max_old_space_size=4096\" hexo deploy",
     "deploy": "npm run build && hexo clean && npm run hexoDeploy"
   },
   "dependencies": {
@@ -32,5 +32,8 @@
     "hexo-util": "^0.6.3",
     "hexo-wordcount": "^6.0.1",
     "npm": "^6.8.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0"
   }
 }
