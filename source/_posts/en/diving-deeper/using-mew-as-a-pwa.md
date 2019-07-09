@@ -16,7 +16,9 @@ alias:
 ###### {% read_time title "Using MEW as a Progressive Web App (PWA)" %} min read
 ***
 
-You can now use MEW as a Progressive Web App (PWA), allowing access to a faster and more stable version of our site directly from a shortcut on your computer desktop or smartphone. Using a PWA eliminates the risk of accessing a fake website or a compromised DNS, adding to the security of interacting with crypto services online. It also enables the use of MEW's interface as a real app, accessible right from your smartphone's app directory. This allows our interface to send notifications and be used offline, the same as any traditional smartphone app. 
+You can now use MEW as a Progressive Web App (PWA), allowing access to a faster and more stable version of our site directly from a shortcut on your computer desktop or smartphone. Using a PWA on your computer eliminates the risk of accessing a fake website or a compromised DNS, adding to the security of interacting with crypto services online. 
+
+On a smartphone, it enables the use of MEW's interface as a real app accessible right from your phone's app directory. This allows our interface to send notifications and be used offline, the same as any traditional smartphone app. 
 
 To make use of this feature, you first need to be on a supported browser (Chrome and Brave are MEW-recommended browsers).
 
