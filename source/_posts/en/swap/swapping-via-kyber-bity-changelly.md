@@ -34,9 +34,9 @@ A timer of 10 minutes will begin for you to review all your information, confirm
 
 If you have issues with your swap, please reach out to the relevant exchange’s support team. Their emails are as follows:
 
-* Bity - mew@bity.com
+* Bity - Their help center is integrated into their site.
 * Kyber Network - support@kyber.network 
-* Changelly - 
+* Changelly - support@changelly.com
 
 In case you don’t see your tokens or coins available for swapping on MEW, we have made a short list of reputable exchanges we are familiar with. They all offer services to buy, sell, and swap various cryptocurrencies. 
 
