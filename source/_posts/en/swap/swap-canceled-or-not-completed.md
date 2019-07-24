@@ -22,7 +22,7 @@ Time-constricted transactions can be tough in times of high volume due to variou
 
 If you sent coins or tokens to the specified swap address, but have not received your funds in return, please reach out to both support@myetherwallet.com and whichever exchange you completed the swap through. Their support emails are:
 
-* Bity - Their help center is integrated into their site
+* Bity - Their help center is integrated into their site.
 
 * Kyber Network - support@kyber.network 
 
