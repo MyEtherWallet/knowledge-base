@@ -106,11 +106,11 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 <img src="/images/posts/diving-deeper/ens2.png" width="100%">
 
-**Step 5.** Select 'Transfer' and a transaction screen will pop up. Confirm the transaction, and your domain will being transferring.
-
-<img src="/images/posts/diving-deeper/ens4.png" width="100%">
+**Step 5.** Select 'Transfer' and a transaction screen will pop up. Confirm the transaction, and your domain will begin the transfer process.
 
 <img src="/images/posts/diving-deeper/ens5.png" width="100%">
+
+<img src="/images/posts/diving-deeper/ens4.png" width="100%">
 
 **Step 6.** Once the transaction goes through, your domain will show in the new registrar. 
 
