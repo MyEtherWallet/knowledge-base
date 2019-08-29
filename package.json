@@ -4,7 +4,7 @@
   "author": "MyEtherWallet",
   "description": "Knowledge base for MyEtherWallet version 5",
   "hexo": {
-    "version": "3.8.0"
+    "version": "3.9.0"
   },
   "scripts": {
     "clean": "hexo clean",
@@ -16,7 +16,7 @@
     "deploy": "npm run build && hexo clean && npm run hexoDeploy"
   },
   "dependencies": {
-    "hexo": "^3.8.0",
+    "hexo": "^3.9.0",
     "hexo-deployer-git": "^1.0.0",
     "hexo-fs": "^1.0.2",
     "hexo-generator-alias": "^0.1.3",
@@ -31,7 +31,7 @@
     "hexo-server": "^0.3.3",
     "hexo-util": "^0.6.3",
     "hexo-wordcount": "^6.0.1",
-    "npm": "^6.8.0"
+    "npm": "^6.11.2"
   },
   "devDependencies": {
     "cross-env": "^5.2.0"
