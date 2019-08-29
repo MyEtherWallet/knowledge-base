@@ -13,7 +13,8 @@
     "serve": "hexo server -s",
     "start": "hexo server",
     "hexoDeploy": "cross-env NODE_OPTIONS=\"--max_old_space_size=4096\" hexo deploy",
-    "deploy": "npm run build && hexo clean && npm run hexoDeploy"
+    "deploy": "npm run build && hexo clean && npm run hexoDeploy",
+    "update:packages": "node package-test.js"
   },
   "dependencies": {
     "hexo": "^3.9.0",
@@ -26,12 +27,13 @@
     "hexo-generator-index-i18n": "^0.2.1",
     "hexo-generator-tag": "^0.2.0",
     "hexo-renderer-ejs": "^0.3.1",
-    "hexo-renderer-marked": "^1.0.1",
+    "hexo-renderer-marked": "^2.0.0",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3",
     "hexo-util": "^0.6.3",
     "hexo-wordcount": "^6.0.1",
-    "npm": "^6.11.2"
+    "npm": "^6.11.2",
+    "package-json": "^6.5.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0"
