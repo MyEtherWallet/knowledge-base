@@ -22,10 +22,10 @@ alias:
 ###### {% read_time title "Non-Fungible Tokens (NFTs)" %} min read
 ***
 
-## __MEW supports NFTs!__ 
+### __MEW supports NFTs!__ 
 <br>
 
-### __What are NFTs, you ask?__
+## __What are NFTs, you ask?__
 
 NFTs (Non-Fungible Tokens) are tokens that are tied to a singular, unique thing. 
 
@@ -38,7 +38,7 @@ Since they’re built on the blockchain, their code and proof of ownership are i
 You can interact with five games right now using our NFT Manager! 
 <br>
 
-### __So far, MEW supports:__ 
+## __So far, MEW supports:__ 
 
 * CryptoKitties
 * Gods Unchained
@@ -48,21 +48,21 @@ You can interact with five games right now using our NFT Manager!
 
 <br>
 
-## __To use the NFT Manager:__
+### __To use the NFT Manager:__
 
 **Step 1:** [Access Your Wallet][access].
 
-<img src="/images/posts/tokens/NFT0.png" width="90%">
+<img src="/images/posts/tokens/NFT0.png" width="85%">
 
-<img src="/images/posts/tokens/NFT1.png" width="90%">
+<img src="/images/posts/tokens/NFT1.png" width="85%">
 
 **Step 2.** Select the NFT Manager on your Wallet Dashboard. 
 
-<img src="/images/posts/tokens/NFT2.png" width="90%">
+<img src="/images/posts/tokens/NFT2.png" width="100%">
 
 **Step 3.** Choose which NFT you'd like to interact with. 
 * If you're trying to send your NFT to someone else, make sure you have at least 0.01 ETH to pay for gas!
 
-<img src="/images/posts/tokens/NFT4.png" width="90%">
+<img src="/images/posts/tokens/NFT4.png" width="100%">
 
 [access]: /@@@@@@/getting-started/how-to-access-your-wallet/
