@@ -46,7 +46,7 @@ You can interact with five games right now using our NFT Manager!
 * Cryptant Crab
 * CryptoFlowers
 
-<br>
+
 
 ### __To use the NFT Manager:__
 
