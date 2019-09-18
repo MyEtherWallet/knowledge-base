@@ -27,4 +27,4 @@ The amount of airdropped tokens you receive depends (in a lot of airdrops) on ho
 
 That said, your Ethereum address is public on the blockchain, which means that anyone is able to send you ETH and/or tokens. If you want to find more information about airdropped tokens you received in your wallet, you can look them up on the internet for more information.
 
-#### __If an airdrop website is asking for your private key, it's a scam and they are trying to steal your funds._
+#### _If an airdrop website is asking for your private key, it's a scam and they are trying to steal your funds._
