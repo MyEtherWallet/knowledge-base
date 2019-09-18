@@ -23,7 +23,6 @@ alias:
 ***
 
 ### __MEW supports NFTs!__ 
-<br>
 
 ## __What are NFTs, you ask?__
 
@@ -46,7 +45,7 @@ You can interact with five games right now using our NFT Manager!
 * Cryptant Crab
 * CryptoFlowers
 
-
+<br>
 
 ### __To use the NFT Manager:__
 
