@@ -21,17 +21,21 @@ alias:
 
 ## __As of October 20th, 2019 we have discontinued our VintageMEW site.__
 
+<br>
+
 If you are like many of our other users, you may be wondering how this will affect your wallet. 
 
 Fear not! MyEtherWallet (MEW) is still going strong at our current site, [www.myetherwallet.com][mewsite].
 
 Here you are able to access the same wallet you used on the Vintage version of our site, through the same method.
 
-* First, select ‘Access My Wallet’ on the homepage.
+You do not need to create a new wallet to use the new MEW site, you can use the exact same wallet you had on Vintage.-
 
-* Then choose your usual method of access. For example, if you used a Keystore/JSON file on vintage you’d select ‘Software’ and choose the ‘Keystore’ option to connect.
+__First, select ‘Access My Wallet’ on the homepage.__
 
-* After you’ve connected, you’ll be taken to your Wallet Dashboard page. Here you can view your balances, send transactions, interact with Dapps, swap your crypto, and even manage NFTs! 
+__Then choose your usual method of access.__ For example, if you used a Keystore/JSON file on vintage you’d select ‘Software’ and choose the ‘Keystore’ option to connect.
+
+__After you’ve connected, you’ll be taken to your Wallet Dashboard page.__ Here you can view your balances, send transactions, interact with Dapps, swap your crypto, and even manage NFTs! 
 
 We’ve come a long way since our days in Vintage, so it’s a good idea to take a few minutes and explore our new features. 
 
