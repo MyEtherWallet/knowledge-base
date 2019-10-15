@@ -38,18 +38,31 @@ If you have a token that a lot of other people also have, or will have in the co
 
 
 
-### Submit your tokens as Default Tokens.
+## __Submit your tokens as Default Tokens__
+
+
+
 **Step 1.** Go to https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth.
 
  * If your token exists on a different network, you can [add them here][addhere].
 
+
+
 **Step 2.** Login or join GitHub.
+
+
 
 **Step 3.** Click 'Create New File' in the upper right.
 
+
+
 **Step 4.** The file's name must be in the format `<YourTokenAddress>.json`. 
 
+
+
 **Step 5.** Fill in the template pasted below with your information:
+
+
 
     {
     "symbol": "",
@@ -89,19 +102,29 @@ If you have a token that a lot of other people also have, or will have in the co
     }
     }
 
+<br>
+
+
+
 **Step 6.** Once you're finished, click 'Propose New File'.
+
+
 
 * Feel free to add any additional information you'd like to let us know about.
 
+
+
 **Step 7.** Review what you've just made, then press 'Create Pull Request' twice.
+
+
 
 **Step 8.** That's it. You successfully made a new pull request!
 
 * We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
 
+<br>
 
-
-### Add your token sale address and manual gas limits to ensure a smooth sale.
+## __Add your token sale address and manual gas limits to ensure a smooth sale__
 * Go here https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/customGas.js.
 * Find an existing entry that is over, or use our donation address (the top one).
 * Replace the information with your information:
@@ -117,9 +140,9 @@ If you have a token that a lot of other people also have, or will have in the co
 * That's it. You successfully made a new pull request!
 * We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
 
+<br>
 
-
-### Adding your Contract / ABI.
+## __Adding your Contract / ABI__
 We now provide users with the ability to enter the address, and MEW will auto-populate with the ABI. If you have a contract that is **NOT** your ERC-20 token contract that users will actually be interacting with:
 
 * Go to https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json.

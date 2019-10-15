@@ -124,3 +124,4 @@ You can share your address with anyone you’d like by clicking the arrow button
 
 [mew]: https://www.myetherwallet.com
 [sendaTX]: /@@@@@@/transactions/how-to-send-a-transaction/
+[mewconnect]: https://mewconnect.myetherwallet.com/
