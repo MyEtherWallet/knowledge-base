@@ -64,13 +64,13 @@ You're done! All backed up and ready to connect to MEW
 ## __3. Connect with MEW__
 **Step 1.** Unlock your wallet on MEWconnect.
 
-**Step 2.** Find a desktop computer. Head to the [MEWconnect][mewconnect] site.
+**Step 2.** Find a desktop computer. Head to the [MEW][mew] site.
 
 Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   the URL. We recommend the Google Chrome browser.
 
 **Step 3.** Choose the ‘Send Ether & Tokens’ tab.
 
-**Step 4.** Click ‘MEW Connect’ as the method of access.
+**Step 4.** Click ‘MEWconnect’ as the method of access.
 
 **Step 5.** On the app, click ‘Scan to Connect’.
 
@@ -85,7 +85,7 @@ You’re done! You can now use our interface as usual, with the MEWconnect app a
 ## __4. Send a Transaction__
 **Step 1.**  Unlock your wallet on MEWconnect.
 
-**Step 2.**  Connect to the [MEWconnect][mewconnect] site, as shown above.
+**Step 2.**  Connect to the [MEW][mew] site, as shown above.
 
 **Step 3.**  Follow the process of a regular transaction.
 
@@ -122,5 +122,5 @@ You can share your address with anyone you’d like by clicking the arrow button
 
 #### To download the MEWconnect app, visit [mewconnect.myetherwallet.com][mewconnect].
 
-[mewconnect]: https://mewconnect.myetherwallet.com/#/
+[mew]: https://www.myetherwallet.com
 [sendaTX]: /@@@@@@/transactions/how-to-send-a-transaction/
