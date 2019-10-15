@@ -101,7 +101,7 @@ If you have a token that a lot of other people also have, or will have in the co
 
 
 
-### 2. Add your token sale address and manual gas limits to ensure a smooth sale.
+### Add your token sale address and manual gas limits to ensure a smooth sale.
 * Go here https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/customGas.js.
 * Find an existing entry that is over, or use our donation address (the top one).
 * Replace the information with your information:
@@ -119,7 +119,7 @@ If you have a token that a lot of other people also have, or will have in the co
 
 
 
-### 3. Adding your Contract / ABI.
+### Adding your Contract / ABI.
 We now provide users with the ability to enter the address, and MEW will auto-populate with the ABI. If you have a contract that is **NOT** your ERC-20 token contract that users will actually be interacting with:
 
 * Go to https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json.
