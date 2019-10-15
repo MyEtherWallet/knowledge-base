@@ -38,24 +38,65 @@ If you have a token that a lot of other people also have, or will have in the co
 
 
 
-### 1. Submit your tokens as Default Tokens.
-* Go to https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens/eth.
-    * If your token exists on a different network, you can [add them here][addhere].
-* Login or join GitHub.
-* Click the pencil icon in upper right.
-* Scroll to the letter of your token (they are in alphabetical order).
-* Copy an existing token starting at the `{` and ending with `},`.
-* Remove any information that you copied that isn't yours.
-* Add your address, decimals, name, and symbol.
-* Add your website.
-* Add your support email.
-* Add any other additional links.
-* At the bottom under "Commit changes" type "Added `YOUR_TOKEN_SYMBOL` Token to Defaults" in the title box.
-* In the bigger box below that, you can add any additional information you'd like to let us know about.
-* Click the green "Propose File change" button.
-* This next page is a review of what you did.
-* Click the "Create Pull Request" button, twice.
-* That's it. You successfully made a new pull request!
+### Submit your tokens as Default Tokens.
+**Step 1.** Go to https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth.
+
+ * If your token exists on a different network, you can [add them here][addhere].
+
+**Step 2.** Login or join GitHub.
+
+**Step 3.** Click 'Create New File' in the upper right.
+
+**Step 4.** The file's name must be in the format `<YourTokenAddress>.json`. 
+
+**Step 5.** Fill in the template pasted below with your information:
+
+    {
+    "symbol": "",
+
+    "name": "",
+
+    "type": "ERC20",
+
+    "address": "",
+    "ens_address": "",
+    "decimals": ,
+    "website": "",
+    "logo": {
+        "src": "",
+        "width": "",
+        "height": "",
+        "ipfs_hash": ""
+    },
+    "support": {
+        "email": "",
+        "url": ""
+    },
+    "social": {
+        "blog": "",
+        "chat": "",
+        "facebook": "",
+        "forum": "",
+        "github": "",
+        "gitter": "",
+        "instagram": "",
+        "linkedin": "",
+        "reddit": "",
+        "slack": "",
+        "telegram": "",
+        "twitter": "",
+        "youtube": ""
+    }
+    }
+
+**Step 6.** Once you're finished, click 'Propose New File'.
+
+* Feel free to add any additional information you'd like to let us know about.
+
+**Step 7.** Review what you've just made, then press 'Create Pull Request' twice.
+
+**Step 8.** That's it. You successfully made a new pull request!
+
 * We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
 
 
@@ -93,4 +134,4 @@ We now provide users with the ability to enter the address, and MEW will auto-po
 * We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
 
 [addCustom]: /@@@@@@/tokens/how-to-add-custom-token/
-[addhere]: https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens
+[addhere]: https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens
