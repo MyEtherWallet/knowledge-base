@@ -2,8 +2,9 @@
   <input class="search-form-input" id="header-post-search-form" type="text">
 
   <div class="search-results hidden">
-    <ul>
+    <ul id="results-list">
       <% site.posts.filter(function(post){return post.lang == page.lang;}).sort('title', 1).each(function(post){ %>
+        post
         <li class="header-post-search-item">
               <a href="<%- url_for_lang(post.path)  %>">
             <p class="title"><%= post.title %></p>
