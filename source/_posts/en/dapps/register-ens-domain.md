@@ -45,7 +45,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 **Step 3.** Head to the Dapps section, to the left of your wallet's overview page (or by clicking the ‘Change’ function at the top right). 
 * Here you will see the ‘ENS Manager’ option. Click there!
 
-<img src="/images/posts/diving-deeper/3ens.png" width="100%">
+<img src="/images/posts/diving-deeper/3ensnew.png" width="100%">
 
 **Step 4.** Enter your desired domain name to see if it is available.
 * ENS domains must be 7 characters or longer.
