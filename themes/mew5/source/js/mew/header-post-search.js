@@ -1,20 +1,22 @@
 function occurrences(string, subString, allowOverlapping) {
-
-    string += "";
-    subString += "";
-    if (subString.length <= 0) return (string.length + 1);
-
+  string += "";
+  subString += "";
+  if (subString.length <= 0) return (string.length + 1);
+  
+    // console.error('string', string, subString, string.length)
     var n = 0,
         pos = 0,
         step = allowOverlapping ? 1 : subString.length;
 
     while (true) {
         pos = string.indexOf(subString, pos);
+        // console.error('pos', pos)
         if (pos >= 0) {
             ++n;
             pos += step;
         } else break;
     }
+    // console.error('n', n)
     return n;
 }
 
@@ -27,9 +29,7 @@ function searchPosts(_this) {
     $('.mew___components_header_header-search-form').find('.search-results').addClass('hidden');
   }
 
-
   $('.header-post-search-item').each(function(){
-      
     var postContent = $(this).find('.post-content').text().toLowerCase();
     if(postContent.includes(searchText)) {
       var occurCount = occurrences(postContent, searchText);
@@ -41,6 +41,12 @@ function searchPosts(_this) {
     }
 
   });
+
+  // apply descending sort
+  $('.header-post-search-item').sort(function(a, b) {
+    return $(b).find('.occur-count span').text() - $(a).find('.occur-count span').text();
+  })
+  .appendTo('.search-results-list')
 }
 
 
