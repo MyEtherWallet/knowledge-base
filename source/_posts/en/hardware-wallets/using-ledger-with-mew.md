@@ -27,37 +27,7 @@ This particular hardware wallet supports a wide range of cryptocurrencies, but t
 
 Without further ado, let’s begin!
 
-
-
-## __The Initial Set-Up__
-
-**Step 1.** Unbox your Ledger! You will see some cards and instructions for set-up. Follow these instructions carefully! Plug in the Ledger to your computer and get started. Press both buttons at the top of the Ledger to navigate past the first screen, seen below.
-
-<img src="/images/posts/hardware-wallet/ledger/welcome.jpg" width="50%">
-
-***
-
-**Step 2.** There are two buttons on the Ledger. Use these to navigate the device. When setting up your new device for the first time, choose the button on the right to select the check mark, indicating ‘yes’.
-
-<img src="/images/posts/hardware-wallet/ledger/configure-as-new-device.jpg" width="50%">
-
-***
-
-**Step 3.** Set up a PIN code to access your Ledger. Make it something that is very easy to remember for you. Write it down in a couple places. Remember it!! This is how you will unlock your Ledger everytime you want to access it. The PIN code must be between 4 and 8 characters, and it can be changed after set-up. However, if you get the PIN code wrong three times in a row, the device will reset. Be careful!
-
-<img src="/images/posts/hardware-wallet/ledger/choose-pin.jpg" width="50%">
-
-***
-
-**Step 4.** This is one of the most important steps. Do not write this phrase down on your computer, do not take a picture of the phrase. Make sure you write down your 24 seed words in multiple places. DO NOT LOSE THEM. If you lose these words, you’ve lost all your cryptocurrency. Ledger provides cards for you to write them down for remembering, but I suggest writing them down in one extra place as well. Again, do not write this phrase down on your computer. Use pen and paper.
-
-<img src="/images/posts/hardware-wallet/ledger/write-down-recovery.jpg" width="50%">
-
-***
-
-**Step 5.** Great, your device is now ready! Now let’s figure out how to use it with MyEtherWallet.
-
-<img src="/images/posts/hardware-wallet/ledger/device-ready.jpg" width="50%">
+If this is your first time using the Ledger, head to [Ledger's initial set-up guide][ledger].
 
 
 ## __Using Ledger with MEW__
@@ -133,3 +103,4 @@ If these troubleshooting options did not fix your issue, MEW has an extensive kn
 [buyLedger]: https://www.ledger.com/?r=fa4b
 [ledgerSupport]: https://support.ledger.com/hc/en-us/articles/360005434914-Restore-from-recovery-phrase
 [mewkb]: https://kb.myetherwallet.com
+[ledger]: https://support.ledger.com/hc/en-us/articles/360000613793-Set-up-as-new-device
