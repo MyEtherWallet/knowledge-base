@@ -22,7 +22,7 @@ They can sometimes be paired with a password as well, for added encryption and s
 
 Mnemonic phrases are just as sensitive as your private key, in terms of privacy. With your phrase, anyone can permanently access your wallet. These phrases cannot be changed, so keeping them safe is crucial. 
 
-## __Popular wallets that offer mnemonic phrases for recovery are: __
+## __Popular wallets that offer mnemonic phrases for recovery are:__
 * MEW! As well as our companion smartphone app, MEWconnect.
 * Hardware wallets, such as Ledger Nano S or Trezor.
 * MetaMask, JAXX, and various other ETH wallets.
