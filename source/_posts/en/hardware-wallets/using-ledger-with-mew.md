@@ -27,8 +27,6 @@ This particular hardware wallet supports a wide range of cryptocurrencies, but t
 
 Without further ado, let’s begin!
 
-If this is your first time using the Ledger, head to [Ledger's initial set-up guide][ledger].
-
 
 ## __Using Ledger with MEW__
 
@@ -103,4 +101,3 @@ If these troubleshooting options did not fix your issue, MEW has an extensive kn
 [buyLedger]: https://www.ledger.com/?r=fa4b
 [ledgerSupport]: https://support.ledger.com/hc/en-us/articles/360005434914-Restore-from-recovery-phrase
 [mewkb]: https://kb.myetherwallet.com
-[ledger]: https://support.ledger.com/hc/en-us/articles/360000613793-Set-up-as-new-device
