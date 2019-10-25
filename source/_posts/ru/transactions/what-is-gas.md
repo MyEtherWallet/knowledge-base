@@ -120,28 +120,28 @@ First, see if the token sale has a max gas price. If they do, use that as the ga
 
 If they let you send with any amount of gas price, you should decide how much you are will to invest, and how much you are willing to spend on that attempt to invest. ***You must assume that you will pay the full fee and get nothing in return during token creation periods.*** Take the gas limit (i.e. `200000`), multiply that by the gas price (i.e. `50 GWEI` or `0.00000005 ETH`), and that is how much you will pay for your attempt to get in.
 
-Before the BAT token creation period, the average gas price was `20 GWEI` (the default) for token creation periods. Now it's all over the place:
+Before the BAT token creation period, the average gas price was `20 GWEI` (the default) for token creation periods. Теперь это повсюду:
 
-* `40 GWEI` * `200000` = `0.008 ETH` (or `$5.60 USD`).
-* `70 GWEI` * `200000` = `0.014 ETH` (or `$9.80 USD`).
-* `100 GWEI` * `200000` = `0.02 ETH` (or `$14.00 USD`).
+* `40 GWEI` * `200000` = `0.008 ETH` (или `$5.60 USD`).
+* `70 GWEI` * `200000` = `0.014 ETH` (или `$9.80 USD`).
+* `100 GWEI` * `200000` = `0.02 ETH` (или `$14.00 USD`).
 
-## **Example: Absurd gas prices from the BAT token creation period (USD prices at time of transactions)**
+## **Пример: смешные цены на газ со времени создания токенов BAT (цены в долларах США на момент транзакций)**
 
-* `118 GWEI` * `200000` = `0.0236 ETH` (or `$6.13 USD`).
-* `7590 GWEI` * `200000` = `1.518 ETH` (or `$394.68 USD`).
-* `58000 GWEI` * `200000` = `11.6 ETH` (or `$3,016 USD`).
+* `118 GWEI` * `200000` = `0.0236 ETH` (или `$6.13 USD`).
+* `7590 GWEI` * `200000` = `1.518 ETH` (или `$394.68 USD`).
+* `58000 GWEI` * `200000` = `11.6 ETH` (или `$3,016 USD`).
 
 <img src="/images/posts/transactions/GasChartCrazy.jpg?raw=true" width="100%" />
 
-Someone paid `$6000+` to send a failed transaction. That can't feel good.
+Кто-то заплатил `$6000+` для отправки неудачно завершенной транзакции. Это неприятно.
 
-## **Where can I see what miners are accepting?**
+## **Где я могу увидеть, что принимают майнеры?**
 
-Start here, at [EthGasStation](http://ethgasstation.info/).
+Начинать здесь, в [EthGasStation](http://ethgasstation.info/).
 
-(At the time of this writing) Below `20 GWEI` the blocks are almost all full, which means if you set lower than that you'll have to wait in line with everyone else.
+(На момент написания этого) Ниже `20 GWEI` почти все блоки заполнены, что означает, что если вы установите значение ниже этого, вам придется ждать в очереди со всеми остальными.
 
-A very awesome miner, miningpoolhub, accepts a `2 GWEI` price, but their blocks are always full and they only account for `9%` of mining, which means about `1` in every `10` blocks (`~150 seconds`) will accept transactions with a `2 GWEI` gas price. And when it does, it is full, so you may have to wait for a few of those.
+Отличный майнер, miningpoolhub, принимает цену `2 GWEI`, но их блоки всегда полные, и на них приходится `9%` майнинга, что означает около `1` в каждых `10` блоках (`~150 секунд`) будут принимать транзакции с ценой на газ `2 GWEI`. И когда это произойдет, он полон, так что вам, возможно, придется подождать нескольких из них.
 
-[EthGasStation's Calculator](https://ethgasstation.info/calculatorTxV.php) will let you estimate how long it will be before your transaction is accepted at a specific gas price.
+[EthGasStation's Calculator](https://ethgasstation.info/calculatorTxV.php) позволит вам оценить, сколько времени пройдет до того, как ваша транзакция будет принята по определенной цене на газ.
