@@ -1,45 +1,45 @@
 ---
-title: "What is Nonce?"
+title: "Что такое Одноразовый номер?"
 date: 2018-06-01 00:08:00
 tags:
-  - nonce
+  - временный номер
 categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Transactions"
+primary_category_display_name: "Транзакции"
 alias:
   - transactions/what-is-nonce.html
 ---
 
-# **What is Nonce?**
+# **Что такое Одноразовый номер?**
 
-###### {% read_time title "What is Nonce?" %} min read
+###### {% read_time title "What is Nonce?" %} минимальное считывание
 
 * * *
 
-In Ethereum, every transaction has a nonce. The nonce is the number of transactions sent from a given address.
+В Ethereum каждая транзакция имеет одноразовый номер. Одноразовый номер - это количество транзакций, отправленных с данного адреса.
 
-In English, a nonce is a number that can only be used once. In cryptography, a nonce is a one-time code selected in a random or pseudo-random manner that is used to securely transmit a main password, preventing replay attacks.
+В английском языке одноразовый номер - это число, которое можно использовать только один раз. В криптографии "nonce" - это одноразовый код, выбранный произвольным или псевдо-произвольным способом, который используется для безопасной передачи главного пароля, предотвращая атаки с использованием перехваченных записей.
 
-Each time you send a transaction, the nonce value increases by `1`. There are rules about what transactions are considered valid transactions, and the nonce is used to enforce some of these rules. Specifically:
+Каждый раз, когда вы отправляете транзакцию, значение одноразового номера увеличивается на `1`. Существуют правила о том, какие транзакции считаются действительными транзакциями, и одноразовый номер используется для обеспечения соблюдения некоторых из этих правил. В частности:
 
-* **Transactions must be in order.** You cannot have a transaction with a nonce of `1` mined before one with a nonce of `0`.
+* **Транзакции должны идти по порядку.** Вы не можете провести транзакцию с одноразовым номером `1`, полученную до транзакции с одноразовым номером `0`.
 
-* **No skipping!** You cannot have a transaction with a nonce of `2` mined if you have not already sent transactions with a nonce of `1` and `0`.
+* **Никаких пропусков!** Вы не можете передать транзакцию с одноразовым номером `2`, если вы еще не отправили транзакции с одноразовым номером `1` и `0`.
 
-## **Why does it matter?**
+## **Почему это имеет значение?**
 
-This value prevents double-spending, as the nonce will always specify the order of transactions. If a double-spend *does* occur, it's typically due to the following process:
+Это значение предотвращает двойные расходы, поскольку одноразовый номер всегда будет указывать порядок транзакций. Если двойная трата все же *произойдет*, это обычно происходит в результате следующего процесса:
 
-* A transaction is sent to one party.
-* They wait for it to register.
-* Something is collected from this first transaction.
-* Another transaction is quickly sent with a high gas price.
-* The second transaction is mined first, therefore invalidating the first transaction.
+* Транзакция отправляется одной стороне.
+* Сторона ждет ее регистрации .
+* Что-то получено от этой первой транзакции.
+* Быстро отправляется другая транзакция с высокой ценой на газ.
+* Вторая транзакция получается первой, таким образом делая недействительной первую транзакцию.
 
-This is why exchanges wait for you to have a certain number of confirmations before allowing you to trade freshly-deposited funds.
+Вот почему биржи ждут, чтобы вы получили определенное количество подтверждений, прежде чем разрешить вам торговать недавно внесенными средствами.
 
-## **When using the Ethereum blockchain, the above is not possible.**
+## **При использовании блокчейна Ethereum вышесказанное невозможно.**
 
-In Ethereum, this method of "double-spending" is not possible because each transaction has a nonce included with it. Even if you attempt to do the above, it will not work as the second transaction (nonce of `3`) cannot be mined before the first transaction (nonce of `2`).
+В Ethereum этот метод "двойных трат" невозможен, поскольку в каждую транзакцию включен одноразовый номер. Даже если вы попытаетесь выполнить вышеизложенное, это не сработает, поскольку вторая транзакция (одноразовый номер `3`) не может быть получена до первой транзакции (одноразовый номер `2`).
