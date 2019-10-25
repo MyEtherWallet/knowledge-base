@@ -10,7 +10,7 @@ categories:
   - 
     - dapps
 primary_category: dapps
-primary_category_display_name: "Dapps"
+primary_category_display_name: "Децентрализованные приложения"
 ---
 
 # **ENS: Registering a Domain**
