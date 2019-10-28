@@ -1,41 +1,41 @@
 ---
-title: "Error: Not Checksummed"
+title: "Ошибка: не проверено суммированием"
 date: 2018-06-01 00:03:00
 tags:
-  - error
-  - checksummed
-  - checksum
+  - ошибка
+  - проверено суммированием
+  - контрольная сумма
 categories:
   - 
     - common-issues
 primary_category: common-issues
-primary_category_display_name: "Common Issues"
+primary_category_display_name: "Распространенные проблемы"
 alias:
   - addresses/what-does-checksummed-mean.html
 ---
 
-# **Error: Not Checksummed**
+# **Ошибка: не проверено суммированием**
 
-###### {% read_time title "Error: Not Checksummed" %} min read
+###### {% read_time title "Error: Not Checksummed" %} минут на чтение
 
 * * *
 
-Every Ethereum address has two versions to it, one that includes uppercase letters and one that doesn’t. These are called the checksummed and non-checksummed versions, respectively. Take for example, the MEW donation address:
+Каждый адрес в Ethereum имеет две версии: одна включает буквы верхнего регистра, другая — нет. Они называются проверенная суммированием версия и не проверенная суммированием версия соответственно. Возьмем для примера адрес MEW для пожертвований:
 
-Non-checksummed version: `0xdecaf9cd2367cdbb726e904cd6397edfcae6068d`
+Не проверенная суммированием версия: `0xdecaf9cd2367cdbb726e904cd6397edfcae6068d`
 
-Checksummed version: `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D`
+Проверенная суммированием версия: `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D`
 
-These two addresses include all the same characters and lead to the same destination, the checksummed one is just a little more useful for determining the accuracy of the address. Both versions of the address are viable and usable, but the checksummed version is the preferred version to use. If even one character of an address is off, any tokens or coins sent to the wrong address will be lost forever. This is not something to be taken lightly.
+Оба адреса включают одинаковые символы и ведут в одно и то же место, просто проверенный суммированием немного более полезен для определения точности адреса. Обе версии адреса возможны и пригодны к использованию, однако проверенная суммированием версия предпочтительна. Если хотя бы один символ адреса неверен, все токены и монеты, отправленные на него, будут потеряны навсегда. К этому нужно относиться серьезно.
 
-Sometimes you will receive an error warning you that your address is not checksummed, preventing or warning you from making a transaction or adding a custom token. This is for your own safety. Do not be alarmed, though!
+Иногда вы будете видеть ошибку с предупреждением о том, что ваш адрес не проверен суммированием, которая не дает вам совершить транзакцию или добавить пользовательский токен либо предостерегает от этого. Это для вашей собственной безопасности. Однако не беспокойтесь!
 
-## **It’s very easy to find the checksummed version of any address:**
+## **Найти проверенную суммированием версию любого адреса очень просто:**
 
-**Step 1.** Head to Etherscan.io.
+**Шаг 1.** Зайдите на Etherscan.io.
 
-**Step 2.** Input the address you’re interested in viewing into the search field.
+**Шаг 2.** Введите адрес, который хотите просмотреть, в поле поиска.
 
-**Step 3.** You will be taken to a page for the address, with balances and a list of transactions
+**Шаг 3.** Вы будете перенаправлены на страницу адреса с балансами и списком транзакций
 
-**Step 4.** At the top of the page, see the checksummed version with capital letters included
+**Шаг 4.** В верхней части страницы вы увидите проверенную суммированием версию с прописными буквами
