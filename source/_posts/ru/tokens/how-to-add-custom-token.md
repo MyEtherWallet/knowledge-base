@@ -2,16 +2,16 @@
 title: "How to Add a Custom Token"
 date: 2018-06-01 00:02:00
 tags:
-  - custom
-  - token
+  - пользовательский
+  - токен
   - adding
   - add
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
-    - token
-primary_category: token
+    - токен
+primary_category: токен
 primary_category_display_name: "Tokens"
 alias:
   - send/adding-new-token-and-sending-custom-tokens.html
@@ -68,7 +68,7 @@ You will need three pieces of information to add a custom token with our interfa
 
 **Step 6.** Paste the contract address into the top field, input the token’s symbol (abbreviation) into the second field, and enter the decimal count last. Then click ‘Save’. You’re done!
 
-## **Common Issues**
+## **Распространенные проблемы**
 
 #### *“Token Already Exists!”*
 
