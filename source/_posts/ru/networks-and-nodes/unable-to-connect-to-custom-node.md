@@ -2,10 +2,10 @@
 title: "Unable to Connect to Custom Node"
 date: 2018-06-01 00:02:00
 tags:
-  - unable
-  - connect
-  - custom
-  - node
+  - не удается
+  - подключиться
+  - пользовательский
+  - узел
 categories:
   - 
     - networks-and-nodes
