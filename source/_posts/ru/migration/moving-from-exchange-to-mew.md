@@ -4,7 +4,7 @@ date: 2018-06-01 00:02:00
 tags:
   - moving
   - move
-  - exchange
+  - биржа
   - coinbase
   - gemini
   - binance
@@ -31,7 +31,7 @@ First, it’s important to tell [the difference between an exchange and MyEtherW
 
 * MyEtherWallet (MEW) is not an exchange.
 * MEW does not hold your information or funds. 
-* The user is in complete control of their security. This means: 
+* The user is in complete control of their security. Это значит: 
     * If you lose your private key, we cannot retrieve it. 
     * If you forget your password, we cannot locate or reset it.
     * We cannot reverse or refund any transactions. 
