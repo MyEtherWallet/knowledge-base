@@ -4,7 +4,7 @@ date: 2018-04-01 00:02:00
 tags:
   - mewconnect
   - backup
-  - wallet
+  - кошелек
 categories:
   - 
     - mewconnect
