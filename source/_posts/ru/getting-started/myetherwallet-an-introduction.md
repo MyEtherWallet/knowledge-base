@@ -1,17 +1,17 @@
 ---
-title: "MyEtherWallet: An Introduction"
+title: "MyEtherWallet: введение"
 date: 2018-05-01 00:01:00
 tags:
-  - faqs
-  - introduction
-  - intro
+  - ЧЗВ
+  - введение
+  - введение
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - get-started
 primary_category: get-started
-primary_category_display_name: "Get Started"
+primary_category_display_name: "Начало работы"
 alias:
   - getting-started/getting-started-new.html
 ---
@@ -19,57 +19,56 @@ alias:
 
 
 
-# **MyEtherWallet: An Introduction**
+# **MyEtherWallet: введение**
 
-##### We highly suggest you read through this entire introduction, for the safety of your funds.
+##### Мы настоятельно рекомендуем вам прочитать это введение до конца ради безопасности ваших средств.
 
-###### {% read_time title "MyEtherWallet: An Introduction" %} min read
+###### {% read_time title "MyEtherWallet: An Introduction" %} минут на чтение
 
 * * *
 
-MyEtherWallet (MEW) is an open-source, client-side interface that allows users to interact directly with the Ethereum blockchain, without having to join a centralized exchange.
+MyEtherWallet (MEW) — это клиентский интерфейс с открытым исходным кодом, который позволяет пользователям взаимодействовать напрямую с блокчейном Ethereum без необходимости присоединяться к централизованной бирже.
 
-## **With MEW, users can:**
+## **С помощью MEW пользователи могут:**
 
-* [Create](/@@@@@@/getting-started/how-to-create-a-wallet/) a new ETH wallet.
-* [Send](/@@@@@@/transactions/how-to-send-a-transaction/) and receive ETH and ERC20 tokens.
-* [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of existing wallets including our MEWconnect app, the MetaMask Chrome extension, and partnering hardware wallets.
-* [Swap](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) a growing number of cryptocurrencies including ERC20 tokens, ETH, ETC, BTC, and REP.
-* Deploy and interact with smart contracts.
-* Send offline, through the use of signatures.
-* Initialize, bid on, and finalize ENS domain auctions.
-* Access a wealth of educational material from our [Knowledge Base](https://kb.myetherwallet.com/).
+* [Создать](/@@@@@@/getting-started/how-to-create-a-wallet/) новый ETH-кошелек.
+* [Отправлять](/@@@@@@/transactions/how-to-send-a-transaction/) и получать токены ETH и ERC20.
+* [Заходить](/@@@@@@/getting-started/how-to-access-your-wallet/) во множество существующих кошельков, включая наше приложение MEWconnect, расширение для Chrome MetaMask и партнерские аппаратные кошельки.
+* [Обменивать](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) пополняющееся количество криптовалют, включая токены ERC20, ETH, ETC, BTC и REP.
+* Применять умные контракты и взаимодействовать с ними.
+* Отправлять средства в автономном режиме с помощью подписей.
+* Инициировать аукционы на ENS-домены, делать на них ставки и завершать их.
+* Пользоваться множеством образовательных материалов из нашей [Базы знаний](https://kb.myetherwallet.com/).
 
-## **What do 'open-source' and 'client-side' mean?**
+## **Что значит "открытый исходный код" и "клиентский"?**
 
-* Open-source means anyone can view, copy, or make suggestions to our code on [GitHub](https://github.com/MyEtherWallet).
-* Client-side means we do not have behind-the-scenes servers.
-* Funds and information are not stored on our site.
-* The user is in complete control of their own security and privacy.
+* "Открытый исходный код" означает, что любой человек может просматривать и копировать наш код и предлагать изменения в нем на [GitHub](https://github.com/MyEtherWallet).
+* "Клиентский" означает, что у нас нет скрытых от глаз серверов.
+* Средства и данные не хранятся на нашем сайте.
+* Пользователь полностью контролирует собственную безопасность и конфиденциальность.
 
-## **Where are my funds stored then?**
+## **Где тогда хранятся мои средства?**
 
-* All ETH and ERC20 tokens are stored on the Ethereum blockchain.
-* When using any site, exchange, hardware wallet, or interface based on the blockchain, all crypto is stored on the blockchain itself. These platforms and hardware wallets just allow us to interact with the blockchain in a simplified way.
-* The Ethereum blockchain is not owned by a centralized entityu, but is verified and maintained by thousands of remote people called 'miners' who use their time and energy to keep it all in check.
-* This is why our site, and sites like [Etherscan](https://etherscan.io/) and [Ethplorer](https://ethplorer.io), are able to pull your wallet information. Not because of behind-the-scenes servers, but because they are pulling information from the blockchain itself. 
+* Все токены ETH и ERC20 хранятся в блокчейне Ethereum.
+* При использовании любого сайта, биржи, аппаратного кошелка и интерфейса на базе блокчейна вся криптовалюта хранится в самом блокчейне. Эти платформы и аппаратные кошельки просто позволяют нам упростить взаимодействие с блокчейном.
+* Блокчейн Ethereum не принадлежит никакому централизованному субъекту. Он проверяется и поддерживается тысячами удаленно взаимодействующих с ним людей, которые называются майнерами и вкладывают свое время и энергию,чтобы держать всё это под контролем.
+* Именно поэтому наш сайт и такие сайты, как [Etherscan](https://etherscan.io/) и [Ethplorer](https://ethplorer.io), могут получать информацию о вашем кошельке. Не потому, что у них есть скрытые серверы, а потому что они получают информацию из самого блокчейна. 
 
-## **MEW is NOT a bank or exchange.**
+## **MEW — это НЕ банк и НЕ биржа.**
 
-#### **What does that mean?**
+#### **Что это значит?**
 
-* We cannot cancel, reverse, or refund transactions.
-* We cannot recover phished funds.
-* We cannot recover lost passwords, nor can we reset passwords.
-* We do not store names, emails, or any information about our users.
-* The only one who has access to your funds is you. 
+* Мы не можем отменять транзакции, давать им обратный ход или возвращать средства.
+* Мы не можем вернуть средства, похищенные с помощью фишинга.
+* Мы не можем ни восстанавливать, ни сбрасывать пароли.
+* Мы не храним имена, адреса электронной почты и прочую информацию о наших пользователях.
+* Доступ к вашим средствам есть только у вас. 
 
 <div class="reminder">
-Let’s just say that one more time: 
-You’re in charge of your own funds and information.
+Давайте повторим это еще раз: вы сами несете ответственность за свои средства и данные.
 </div>
 
-## **How do I remain secure?**
+## **Как обеспечить себе безопасность?**
 
 * The most secure way to access your funds is through a hardware wallet, like a [Ledger Nano S](https://www.ledger.com/?r=fa4b) or [Trezor](https://trezor.io/?offer_id=12&aff_id=2029). If you have over $200 in crypto, there is little excuse not to get one.
 * When using a private key, keystore/JSON file, or mnemonic phrase, make sure to keep them solely on physical paper and offline computers. This information is extremely sensitive. And make backups! If you lose this information, it’s gone forever.
