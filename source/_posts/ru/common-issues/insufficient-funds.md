@@ -1,39 +1,39 @@
 ---
-title: "Insufficient Funds"
+title: "Недостаточно средств"
 date: 2018-06-01 00:01:00
 tags:
-  - insufficient
-  - fund
-  - funds
+  - недостаточно
+  - средства
+  - средства
 categories:
   - 
     - common-issues
 primary_category: common-issues
-primary_category_display_name: "Common Issues"
+primary_category_display_name: "Распространенные проблемы"
 alias:
   - gas/error-insufficient-funds-message.html
 ---
 
-# **Error: Insufficient Funds**
+# **Ошибка: недостаточно средств**
 
-###### {% read_time title "Insufficient Funds" %} min read
+###### {% read_time title "Insufficient Funds" %} минут на чтение
 
 * * *
 
-If you are getting the error that looks like this: `Insufficient funds. Account you try to send transaction from does not have enough funds. Required XXXXXXXXXXXXXXXXXXX and got: XXXXXXXXXXXXXXXX`, it means you do not have enough ETH in your account to cover the cost of gas.
+Если вы видите ошибку, которая выглядит подобным образом: `Недостаточно средств. На аккаунте, с которого вы пытаетесь осуществить отправку, недостаточно средств. Требуется XXXXXXXXXXXXXXXXXXX, а есть: XXXXXXXXXXXXXXXX`, это значит, что на вашем аккаунте недостаточно ETH, чтобы оплатить стоимость газа.
 
-Each transaction (including token and contract transactions) requires gas, and that gas is paid in ETH. You can think of this like a transaction fee.
+Для каждой транзакции (включая транзакции с токенами и контрактами) нужен газ, который покупается за ETH. Вы можете рассматривать это как комиссию за транзакцию.
 
-## **Solution: Send 0.01 ETH to that account in order to be able to make the transaction.**
+## **Решение: отправьте 0,01 ETH на этот аккаунт, чтобы иметь возможность совершить транзакцию.**
 
-A standard transaction will take a gas limit of `21000` and a gas price of `0.00000002 ETH`, which makes the total transaction fee `0.00042 ETH`. With tokens, the amount of gas is typically `50000 gas - 100000 gas`, so the total TX fee increases to `0.001 ETH - 0.002 ETH`.
+В стандартной операции лимит газа составляет `21 000 единиц`, а цена газа — `0,00000002 ETH`, то есть общий операционный сбор будет `0,00042 ETH`. С токенами количество газа обычно `50 000 — 100 000 единиц`, поэтому общий операционный сбор увеличивается до `0,001–0,002 ETH`.
 
-The number displayed in that error message is the amount required to cover the cost of the transaction in Wei. Take that number, divide by `1000000000000000000`. This will give you the amount of Ether you need to send to that account to make the transaction.
+Число, отображенное в данном сообщении об ошибке, — это сумма, нужная для оплаты транзакции в Wei. Возьмите это число и разделите на `1 000 000 000 000 000 000`. Это даст вам сумму эфира, которую вам нужно отправить на данный аккаунт, чтобы совершить транзакцию.
 
-## **More Information About Gas**
+## **Подробнее о газе**
 
-* A standard TX will be `21000` gas & a gas price of `0.00000002 ETH` so the total TX fee will be `0.00042 ETH`.
-* With tokens, the amount of gas is typically 50000 gas - 100000 gas, so the total TX fee increases to `0.001 ETH - 0.002 ETH`.
-* The amount of ETH or tokens you are sending does not affect the amount of gas you need.
-* **Gas *limit*** is the maximum amount of gas you will send with your transaction. This is in units of gas.
-* **Gas *price***, which you will not see except on the Offline page, is how much each unit of gas costs. We set it at `0.00000002 ETH`.
+* Стандартная транзакция будет стоить `21 000` единиц газа, а цена газа — `0,00000002 ETH`, поэтому общий операционный сбор составит `0,00042 ETH`.
+* С токенами количество газа обычно 50 000 — 100 000 единиц, поэтому общий операционный сбор увеличивается до `0,001–0,002 ETH`.
+* Количество ETH или токенов, которые вы отправляете, не влияет на нужное вам количество газа.
+* ***Лимит* газа** — это максимальное количество газа, которое вы отправите во время транзакции. Это в единицах газа.
+* ***Цена* газа**, которую вы не увидите нигде, за исключением офлайн-страницы, — это стоимость каждой единицы газа. Мы установили ее в размере `0,00000002 ETH`.
