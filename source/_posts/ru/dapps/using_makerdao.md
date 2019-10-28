@@ -1,5 +1,5 @@
 ---
-title: "Using MakerDAO"
+title: "Использование MakerDAO"
 date: 2018-06-01 00:02:00
 tags:
   - makerdao
@@ -7,74 +7,74 @@ tags:
   - cdp
   - dai
   - mkr
-  - dapps
+  - децентрализованные приложения
 categories:
   - 
-    - dapps
-primary_category: dapps
+    - децентрализованные приложения
+primary_category: децентрализованные приложения
 primary_category_display_name: "Децентрализованные приложения"
 ---
 
-# **Using MakerDAO**
+# **Использование MakerDAO **
 
-###### {% read_time title "Using MakerDAO" %} min read
+###### {% read_time title "Using MakerDAO" %} минут на чтение
 
 * * *
 
-###### If you’d like to open a Collateralized Debt Position (CDP) using our MakerDAO Dapp, you will need a wallet you can [access with our interface](/@@@@@@/getting-started/how-to-access-your-wallet/). If you do not have a wallet, [click here](/@@@@@@/getting-started/how-to-create-a-wallet/) to set one up.
+###### Если вы хотите открыть обеспеченную долговую позицию (Collateralized Debt Position или CDP), используя наше децентрализованное приложение MakerDAO, вам понадобится кошелек, в который вы сможете [заходить с помощью нашего интерфейса](/@@@@@@/getting-started/how-to-access-your-wallet/). Если у вас нет кошелька, [ нажмите сюда](/@@@@@@/getting-started/how-to-create-a-wallet/), чтобы его создать.
 
-## **Opening Your CDP**
+## **Открытие CDP**
 
-**Step 1.** Unlock your wallet on our site by selecting ‘Access My Wallet’, then choosing the method of access you prefer.
+**Шаг 1.** Разблокируйте свой кошелек на нашем сайте, нажав "Доступ к моему кошельку", а затем выбрав предпочитаемый метод доступа.
 
 <img src="/images/posts/diving-deeper/1maccesscrop.png" width="100%" />
 
-**Step 2.** Head to our Dapps section to the left of your Wallet Overview page, then select ‘MakerDAO’.
+**Шаг 2.** Зайдите в наш раздел "Децентрализованные приложения" слева от страницы обзора вашего кошелька, затем выберите "MakerDAO".
 
 <img src="/images/posts/diving-deeper/1mdapps.png" width="100%" />
 
-**Step 3.** Set the amount of ETH you would like to offer as collateral. Remember to leave some wiggle room to account for the shifting markets.
+**Шаг 3.** Укажите сумму ETH, которую хотите предложить в качестве обеспечения. Не забудьте оставить на аккаунте пространство для маневров, чтобы учитывать изменения на рынках.
 
-* You will need to confirm the transaction on your device, if you're using one.
+* Вам нужно будет подтвердить транзакцию на своем устройстве, если вы его используете.
 
 <img src="/images/posts/diving-deeper/1mbegincdp.png" width="100%" />
 
 <img src="/images/posts/diving-deeper/1mconfirm.png" width="100%" />
 
-**Step 4.** The MakerDAO page will shift to show new details about your holdings.
+**Шаг 4.** Страница MakerDAO изменится и отобразит данные о ваших вкладах.
 
 <img src="/images/posts/diving-deeper/1mcdp.png" width="100%" />
 
-## **Closing Your CDP**
+## **Выбор CDP**
 
-**Step 1.** When you’re ready, head back to the Dapps section and select ‘MakerDAO’.
+**Шаг 1.** Когда будете готовы, вернитесь в раздел "Децентрализованные приложения" и выберите "MakerDAO".
 
 <img src="/images/posts/diving-deeper/2mmakerdao.png" width="100%" />
 
-**Step 2.** Click ‘Close CDP’ at the top, and a new page will pop-up.
+**Шаг 2.** Нажмите "Закрыть CDP" сверху, и появится новая всплывающая страница.
 
 <img src="/images/posts/diving-deeper/2mapproved.png" width="100%" />
 
-**Step 3.** Depending on the amount of time you held your CDP open, a respective amount of MKR will have accrued at a 16.499% / year interest rate.
+**Шаг 3.** В зависимости от периода времени, в течение которого обеспеченная долговая позиция (CDP) была открыта, накопится соответствующее количество MKR по процентной ставке 16,499% в год.
 
-* You will have to ‘Approve’ both MKR and DAI amounts in order to close the CDP.
-* MKR can be swapped with ETH through our swap page.
+* Вам нужно будет одобрить как сумму MKR, так и сумму DAI, чтобы закрыть CDP.
+* MKR можно обменять на ETH на нашей странице обмена.
 
 <img src="/images/posts/diving-deeper/2mprocess.png" width="60%" />
 
-* Please allow for both transactions to post as 'Success' before continuing. 
+* Пожалуйста, дождитесь у обеих транзакций статуса "Успех", прежде чем продолжить. 
 
 <img src="/images/posts/diving-deeper/2msuccess.png" width="60%" />
 
-**Step 4.** Once approved, you can close the CDP.
+**Шаг 4.** После одобрения вы можете закрыть CDP.
 
 <img src="/images/posts/diving-deeper/2mclose.png" width="100%" />
 
-* Your page will refresh to show the original MakerDAO interface.
+* Ваша страница обновится, и отобразится исходный интерфейс MakerDAO.
 
 <img src="/images/posts/diving-deeper/2mback.png" width="100%" />
 
-## **Here's a video showing the process:**
+## **Процесс показан на этом видео:**
 
 <div class="youtube-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xNK_px6vPEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
