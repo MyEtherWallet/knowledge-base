@@ -1,43 +1,43 @@
 ---
-title: "How to Submit a Pull Request"
+title: "Как отправить запрос на включение изменений"
 date: 2018-06-01 00:04:00
 tags:
-  - submit
-  - pull
-  - request
+  - отправить
+  - включение изменений
+  - запрос
 categories:
   - 
     - diving-deeper
 primary_category: diving-deeper
-primary_category_display_name: "Diving Deeper"
+primary_category_display_name: "Более глубокое ознакомление"
 alias:
   - diving-deeper/how-to-submit-pull-request.html
 ---
 
-# **How to Submit a Pull Request**
+# **Как отправить запрос на включение изменений**
 
-###### {% read_time title "How to Submit a Pull Request" %} min read
+###### {% read_time title "How to Submit a Pull Request" %} минут на чтение
 
 * * *
 
-MyEtherWallet (MEW) is an open-source platform, meaning we believe in transparency and offer our code freely to all who choose to view it, via GitHub.
+MyEtherWallet (MEW) — это платформа с открытым исходным кодом. Это значит, что мы верим в прозрачность и предлагаем наш код бесплатно всем, кто хочет его просмотреть, через GitHub.
 
-This also means that we are always ready and willing to accept community support, through the use of pull requests. To make a pull request for MEW, you need only follow a simple process.
+Это также значит, что мы всегда готовы принять поддержку сообщества через запросы на включение изменений. Чтобы сделать запрос на включение изменений в MEW, вам нужно лишь выполнить простые действия.
 
-## **Submit a Pull Request**
+## **Отправка запроса на включение изменений**
 
-**Step 1.** Login or join [GitHub](https://github.com/MyEtherWallet).
+**Шаг 1.** Войдите в [GitHub](https://github.com/MyEtherWallet) или зарегистрируйтесь на нем.
 
-**Step 2.** Navigate to the file you wish to modify.
+**Шаг 2.** Перейдите к файлу, который хотите изменить.
 
-**Step 3.** Click the pencil icon in the upper right corner.
+**Шаг 3.** Нажмите на значок карандаша в правом верхнем углу.
 
-**Step 4.** Make the changes you wish to see reflected on MEW.
+**Шаг 4.** Внесите изменения, которые хотите видеть в MEW.
 
-**Step 5.** At the bottom of the same screen, type a short message explaining what you changed and why in the title box.
+**Шаг 5.** Внизу этого же экрана в небольшое поле введите короткое сообщение, объясняющее, что вы изменили и почему.
 
-**Step 6.** Click the green ‘Propose File Change’ button.
+**Шаг 6.** Нажмите на зеленую кнопку "Предложить изменение файла".
 
-**Step 7.** Click ‘Create Pull Request’, twice.
+**Шаг 7.** Дважды нажмите "Создать запрос на включение изменений".
 
-**Step 8.** Celebrate, you’re done! We will review the changes made and include them with our next release, if everything looks good.
+**Шаг 8.** Ликуйте, всё готово! Мы рассмотрим внесенные изменения и включим их в наш следующий релиз, если всё будет выглядеть хорошо.
