@@ -2,14 +2,14 @@
 title: "Buy ETH via Simplex"
 date: 2018-06-01 00:01:00
 tags:
-  - faqs
+  - ЧЗВ
   - buy
   - sell
   - trade
-  - exchange
+  - биржа
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - swap
 primary_category: swap
