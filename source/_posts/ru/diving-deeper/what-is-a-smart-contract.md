@@ -1,35 +1,35 @@
 ---
-title: "What is a Smart Contract?"
+title: "Что такое умный контракт?"
 date: 2018-06-01 00:08:00
 tags:
-  - smart
-  - contract
+  - умный
+  - контракт
 categories:
   - 
     - diving-deeper
 primary_category: diving-deeper
-primary_category_display_name: "Diving Deeper"
+primary_category_display_name: "Более глубокое ознакомление"
 ---
 
-# **What is a Smart Contract?**
+# **Что такое умный контракт?**
 
-###### {% read_time title "What is a Smart Contract?" %} min read
+###### {% read_time title "What is a Smart Contract?" %} минут на чтение
 
 * * *
 
-First, let’s look at what a contract is. A contract generally outlines a relationship between two parties, bound by law. If one party violates that contract, actions can be taken against them for essentially breaking the law. Many beginning users confuse contracts and smart contracts, and while they can hold similar functionality, they are used for different purposes.
+Сначала давайте разберемся, что такое контракт. Контракт в общих чертах определяет отношения между двумя сторонами, подчиняющиеся закону. Если одна из сторон нарушит договор, в ее отношении могут быть предприняты меры за то, что она по сути нарушила закон. Многие начинающие пользователи путают контракты и умные контракты. И хотя они могут иметь схожие функции, они используются для разных целей.
 
-A smart contract is a self-executing contract, written in code, the primary purpose of which is to achieve a goal without the interference of a middleman. Smart contracts can be used to exchange money, property, shares, data, or anything of real value, while remaining decentralized and transparent. The contract itself regulates what action is taken, based on its code. Smart contracts will always achieve the same end goal, based on what input is being used. While regular contracts are meant to be permanently (or temporarily) binding to the law, smart contracts actually are permanent. They make their own laws with their behavior. Using a smart contract for any other purpose than their primary one is impossible. They are immutable, bound to the Ethereum blockchain and unable to be edited. This may sound a bit complicated or confusing, so let’s view it in a different light.
+Умный контракт — это вступающий немедленно в силу контракт, написанный в виде кода, основным назначением которого является достижение цели без вмешательства посредников. Умные контракты можно использовать для обмена денег, собственности, акций, данных или чего угодно, обладающего реальной ценностью, сохраняя децентрализованность и прозрачность. Сам контракт регулирует, какое действие выполняется, на основе своего кода. Умные контракты всегда достигают одну и ту же конечную цель на основе используемых входных данных. Хотя подразумевается, что обычные контракты являются постоянно (или временно) юридически обязывающими по закону, умные контракты на самом деле постоянны. Они создают собственные законы своим поведением. Использование умного контракта для любой цели, отличающейся от основной, невозможно. Они непреложны, привязаны к блокчейну Ethereum, и их невозможно отредактировать. Это может звучать немного сложно или запутанно, так что давайте рассмотрим это в другом разрезе.
 
-The original creator of smart contract technology was Nick Szabo. In 1993, he hatched the idea for a system similar to a digital vending machine. A user could input a value or data string, and the digital machine would execute itself based on the input to return a finite item. This is how smart contracts were developed. A simple example of this would be a user sending ETH to their friend, but only at a specified time. They could create their own smart contract to send the funds at a later date, deposit their funds, and the smart contract would self-execute to send the funds as specified without any further external input.
+Первоначальным создателем технологии умных контрактов является Ник Сабо. В 1993 году он выдвинул идею о системе, схожей с цифровым торговым автоматом. Пользователь вводил бы значение или строку данных, а цифровая машина бы сама осуществляла исполнение на основе входных данных, чтобы вернуть конечный элемент. Так были разработаны умные контракты. Простым примером этого является пользователь, отправляющий ETH другу, но только в заданное время. Они могли бы создать собственный умный контракт, чтобы отправить средства позже, внести средства, а умный контракт бы сам вступил в силу, чтобы отправить средства, как было указано, без какого-либо дальнейшего внешнего воздействия.
 
-The Ethereum blockchain was created specifically to write and execute smart contracts. While Bitcoin technically supported the very basic smart contract of transferring BTC, this is generally regarded as only the tip of the iceberg. With a little innovation and creativity, smart contracts can be built on top of one another to create completely decentralized applications (Dapps) and decentralized autonomous organizations (DAOs). In these cases, each smart contract performs a function, which triggers another function in another contract, which continues to develop until a complicated action is completed without needing any centralized authority to monitor it.
+Блокчейн Ethereum был создан именно для того, чтобы записывать и исполнять умные контракты. И хотя Bitcoin технически поддерживал самый базовый умный контракт передачи BTC, это обычно рассматривается лишь как верхушка айсберга. С помощью небольших инноваций и креативности умные контракты можно надстраивать друг над другом, чтобы создавать полностью децентрализованные приложения (англ. decentralized application или Dapp) и децентрализованные автономные организации (англ. decentralized autonomous organization или DAO). В этих случаях каждый умный контракт выполняет функцию, которая запускает другую функцию в другом контракте, которая продолжает развиваться, пока сложное действие не будет выполнено без необходимости его отслеживания централизованной властью.
 
-## **Some generally well-known use cases for smart contracts are:**
+## **Вот общеизвестные варианты использования умных контрактов:**
 
-* Multi-signature wallets, which require a majority of the wallet’s owners to agree on spending before the contract executes.
-* Managing relationship agreements between two users, i.e. buying insurance or property ownership.
-* Providing information or utility for other contracts to pull from.
-* Storing information, such as personal information, medical data, membership records, consensus ledgers, etc. 
+* Кошельки с мультиподписью, которые требуют того, чтобы большинство владельцев кошелька согласились на расходы, прежде чем контракт будет исполнен.
+* Управление соглашениями о сотрудничестве между двумя пользователями, такими как покупка страховки или владение недвижимостью.
+* Предоставление информации или полезных свойств другим контрактам.
+* Хранение информации, такой как личные данные, медицинские данные, базы данных зарегистрированных пользователей, консенсусные реестры и т. д. 
 
-The use cases for smart contracts are endless. We are only beginning to scratch the surface of what this technology can offer, and how it will revolutionize the world.
+Вариантов использования умных контрактов бесконечно много. Мы только начинаем понимать, что эта технология может предложить и насколько радикально она изменит мир.
