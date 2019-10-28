@@ -2,7 +2,7 @@
 title: "What is Gas?"
 date: 2018-06-01 00:07:00
 tags:
-  - gas
+  - газ
 categories:
   - 
     - transactions
