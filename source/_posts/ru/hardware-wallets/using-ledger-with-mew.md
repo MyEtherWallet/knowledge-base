@@ -3,13 +3,13 @@ title: "Using a Ledger Hardware Wallet with MEW"
 date: 2018-06-01 00:02:00
 tags:
   - ledger
-  - hardware
-  - wallet
+  - аппаратный
+  - кошелек
 categories:
   - 
     - hardware-wallets
 primary_category: hardware-wallets
-primary_category_display_name: "Hardware Wallets"
+primary_category_display_name: "Аппаратные кошельки"
 alias:
   - migration/moving-from-private-key-to-ledger-hardware-wallet.html
 ---
