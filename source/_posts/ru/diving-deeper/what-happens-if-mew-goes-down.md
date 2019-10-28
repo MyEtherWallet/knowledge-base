@@ -1,40 +1,40 @@
 ---
-title: "What Happens if MEW Goes Down?"
+title: "Что случится, если MEW выйдет из строя?"
 date: 2018-06-01 00:07:00
 tags:
-  - faqs
-  - service
-  - stop
-  - down
+  - ЧЗВ
+  - сервис
+  - остановить
+  - вниз
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - diving-deeper
 primary_category: diving-deeper
-primary_category_display_name: "Diving Deeper"
+primary_category_display_name: "Более глубокое ознакомление"
 alias:
   - faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
-# **What Happens if MEW Goes Down?**
+# **Что случится, если MEW выйдет из строя?**
 
-###### {% read_time title "What Happens if MEW Goes Down?" %} min read
+###### {% read_time title "What Happens if MEW Goes Down?" %} минут на чтение
 
 * * *
 
-## **Short answer:**
+## **Короткий ответ:**
 
-Nothing, besides looking for another wallet.
+Ничего, вам просто нужно будет найти другой кошелек.
 
-## **Longer answer:**
+## **Длинный ответ:**
 
-Your funds and information are not ‘in’ MyEtherWallet (MEW). Your wallet exists on the blockchain itself, and MEW just offers a way for anyone to interact with the blockchain easily. If MEW went down, you would simply have to find another Ethereum blockchain interface that would allow you to access your wallet.
+Ваши средства и данные не находятся "в" MyEtherWallet (MEW). Ваш кошелек существует в самом блокчейне, а MEW просто предлагает способ любому человеку легко взаимодействовать с блокчейном. Если бы MEW вышел из строя, вам нужно было бы лишь найти другой интерфейс блокчейна Ethereum, который дал бы вам доступ к вашему кошельку.
 
-The information used to unlock your MEW wallet is the same information that can be used to unlock your wallet on another platform. We always suggest doing research before entering your information into an unfamiliar site.
+Информация, которая используется для разблокировки вашего кошелька MEW, —это та же информация, которая используется для разблокировки вашего кошелька на другой платформе. Мы всегда советуем провести исследование, прежде чем вводить свои данные на незнакомом сайте.
 
-You can import your unencrypted private key and your Geth/Mist Format (encrypted) files directly into geth / Ethereum Wallet / Mist very easily.
+Вы можете очень легко импортировать свой незашифрованный закрытый ключ и файлы в формате Geth/Mist (зашифрованные) напрямую в кошелек Geth / Ethereum / Mist.
 
-You can also \[run MyEtherWallet locally\]\[mewLocal\] and/or [connect it to your own node](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/).
+Также вы можете \[запустить MyEtherWallet локально\]\[mewLocal\] и/или [подключить его к вашему собственному узлу](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/).
 
 [mewLocal]:
