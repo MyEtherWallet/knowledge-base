@@ -1,26 +1,26 @@
 ---
-title: "Using a Hardware Wallet With a Custom Node"
+title: "Использование аппаратного кошелька с пользовательским узлом"
 date: 2018-06-01 00:05:00
 tags:
-  - hardware
-  - wallet
-  - custom
-  - node
+  - аппаратный
+  - кошелек
+  - пользовательский
+  - узел
 categories:
   - 
     - hardware-wallets
 primary_category: hardware-wallets
-primary_category_display_name: "Hardware Wallets"
+primary_category_display_name: "Аппаратные кошельки"
 alias:
   - networks/using-ethereum-hardware-wallet-with-custom-node.html
 ---
 
-# **Using a Hardware Wallet With a Custom Node**
+# **Использование аппаратного кошелька с пользовательским узлом**
 
-###### {% read_time title "Using a Hardware Wallet With a Custom Node" %} min read
+###### {% read_time title "Using a Hardware Wallet With a Custom Node" %} минут на чтение
 
 * * *
 
-Benjaminion wrote up an excellent guide on how to achieve this.
+Benjaminion написал замечательное руководство о том, как это сделать.
 
-You can read it [here](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet).
+Его можно прочитать [здесь](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet).
