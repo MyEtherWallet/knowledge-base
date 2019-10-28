@@ -44,14 +44,14 @@ Many users use MetaMask for it’s ease of use and integration with many popular
 
 Now that you have your MetaMask wallet, you can access your wallet by following these steps:
 
-**Step 1.** Login to your MetaMask wallet via their Chrome Extension.
+**Шаг 1.** Зайдите в свой кошелек MetaMask через расширение для Chrome.
 
 **Step 2.** On the MEW front page, select ‘Access My Wallet’.
 
 **Step 3.** Select the ‘MetaMask’ option to connect.
 
-**Step 4.** Read and accept the ‘Terms and Conditions’, then select ‘Access My Wallet’.
+**Шаг 4.** Прочитайте и примите "Условия", затем выберите "Доступ к моему кошельку".
 
-**Step 5.** Confirm connection in the MetaMask pop-up window.
+**Шаг 5.** Подтвердите подключение во всплывающем окне MetaMask.
 
 **Step 6.** You’re done!
