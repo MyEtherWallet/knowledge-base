@@ -1,28 +1,28 @@
 ---
-title: "Using MEW as a Progressive Web App (PWA)"
+title: "Использование MEW в качестве прогрессивного веб-приложения (PWA)"
 date: 2018-06-01 00:06:00
 tags:
-  - down
+  - вниз
 categories:
   - 
-    - diving-deeper
-primary_category: diving-deeper
-primary_category_display_name: "Diving Deeper"
+    - более-глубокое-ознакомление
+primary_category: более-глубокое-ознакомление
+primary_category_display_name: "Более глубокое ознакомление"
 alias:
   - faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
 
-# **Using MEW as a Progressive Web App (PWA)**
+# **Использование MEW в качестве прогрессивного веб-приложения (PWA)**
 
-###### {% read_time title "Using MEW as a Progressive Web App (PWA)" %} min read
+###### {% read_time title "Using MEW as a Progressive Web App (PWA)" %} минут на чтение
 
 * * *
 
-You can now use MEW as a Progressive Web App (PWA), allowing access to a faster and more stable version of our site directly from a shortcut on your desktop. Using a PWA eliminates the risk of accessing a fake website or a compromised DNS, adding to the security of interacting with crypto services online.
+Теперь вы можете использовать MEW как прогрессивное веб-приложение (Progressive Web App или PWA), получая доступ к более быстрой и надежной версии нашего сайта напрямую из ярлыка на вашем рабочем столе. Использование PWA исключает риск посещения поддельного сайта или скомпрометированного DNS, что усиливает защищенность при взаимодействии с криптосервисами онлайн.
 
-To make use of this feature, you first need to be on a supported browser (Chrome and Brave are MEW-recommended browsers).
+Для использования этой функции вам требуется поддерживаемый браузер (MEW рекомендует браузеры Chrome и Brave).
 
-Head to our web page and check in your browser settings for the option “Install MyEtherWallet…”
+Зайдите на наш сайт и найдите в настройках вашего браузера опцию "Установить MyEtherWallet…"
 
-This will install the website to your computer as a PWA shortcut, making it available for easy access and providing an improved user experience.
+Это установит сайт на ваш компьютер как ярлык PWA, что упростит доступ к нему и улучшит впечатления от его использования.
