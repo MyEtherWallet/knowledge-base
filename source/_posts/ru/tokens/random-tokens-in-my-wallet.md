@@ -3,16 +3,16 @@ title: "Why are Random Tokens Appearing in my Wallet?"
 date: 2018-06-01 00:03:00
 tags:
   - random
-  - token
+  - токен
   - tokens
   - appearing
-  - wallet
+  - кошелек
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
-    - token
-primary_category: token
+    - токен
+primary_category: токен
 primary_category_display_name: "Tokens"
 alias:
   - tokens/airdropped-tokens.html
