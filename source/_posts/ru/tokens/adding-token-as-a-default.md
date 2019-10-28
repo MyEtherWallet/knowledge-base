@@ -2,15 +2,15 @@
 title: "Adding Your Token as a Default Token"
 date: 2018-06-01 00:01:00
 tags:
-  - token
+  - токен
   - add
   - adding
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
-    - token
-primary_category: token
+    - токен
+primary_category: токен
 primary_category_display_name: "Tokens"
 alias:
   - tokens/token-creators-add-your-token-to-myetherwallet.html
