@@ -2,8 +2,8 @@
 title: "Swap Was Canceled or Wasn’t Completed"
 date: 2018-06-01 00:02:00
 tags:
-  - funds
-  - fund
+  - средства
+  - средства
   - stolen
 categories:
   - 
