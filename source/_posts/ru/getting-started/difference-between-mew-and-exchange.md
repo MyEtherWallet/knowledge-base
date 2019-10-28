@@ -1,9 +1,9 @@
 ---
-title: "What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?"
+title: "В чем разница между биржами (такими как Coinbase, Kraken, Gemini, Binance и т. п.) и MyEtherWallet?"
 date: 2018-06-01 00:03:00
 tags:
-  - difference
-  - exchange
+  - разница
+  - биржа
   - coinbase
   - kraken
   - gemini
@@ -12,37 +12,37 @@ categories:
   - 
     - get-started
 primary_category: get-started
-primary_category_display_name: "Get Started"
+primary_category_display_name: "Начало работы"
 alias:
   - getting-started/whats-the-difference-between-an-exchange-and-myetherwallet.html
 ---
 
-# **What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?**
+# **В чем разница между биржами (такими как Coinbase, Kraken, Gemini, Binance и т. п.) и MyEtherWallet?**
 
-###### {% read_time title "What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?" %} min read
+###### {% read_time title "What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?" %} минут на чтение
 
 * * *
 
-Your ETH & ERC20 tokens are on the Ethereum blockchain, regardless of what service you use to access them. When you move them, you are sending them from one address on the blockchain to another. These are simply lines of code. Your wallet file, hardware wallet, the interface you interact with, or your private key do not have funds in them. These are simply ways of access, which gives you the ability to prove ownership over coins that are on the blockchain itself.
+Ваши токены ETH и ERC20 находятся в блокчейне Ethereum независимо от того, какой сервис вы используете для доступа к ним. Когда вы их перемещаете, вы отправляете их с одного адреса в блокчейне на другой. Это просто строки кода. В файле вашего кошелька, в аппаратном кошельке, в интерфейсе, с которым вы взаимодействуете, и в вашем закрытом ключе средств нет. Это просто способы доступа, что дает вам возможность доказать владение монетами, находящимися в самом блокчейне.
 
-**If you use a client-side tool like MyEtherWallet or Mist, Metamask, Exodus, or Jaxx,** then you have the private key (or a similar method of access), and you control your funds *and* your key. You do not rely on Coinbase or Gemini sending your funds from their account to yours.
+**Если вы используете клиентский инструмент, такой как MyEtherWallet или Mist, Metamask, Exodus или Jaxx,**, у вас есть закрытый ключ (или похожий способ доступа), и вы контролируете свои средства *и* свой ключ. Вы не полагаетесь на Coinbase или Gemini при отправке ваших средств с их аккаунта на ваш.
 
-The upside is that you, and only you, control your keys. An exchange getting hacked won't affect you. The downside is that you, **and only you,** control your keys. No one else has them, nor can they recover them, should they be lost.
+Преимущество в том, что только вы контролируете ваши ключи. Взлом биржи не отразится на вас. Недостаток в том, что **только вы** контролируете ваши ключи. Больше их ни у кого нет, и никто не сможет их восстановить, если они будут утеряны.
 
-If you do lose your private key or wallet file and password, you cannot prove ownership of an account, and you permanently lose access to your funds.
+Если вы потеряете свой закрытый ключ или файл кошелька и пароль, то не сможете доказать владение аккаунтом и навсегда потеряете доступ к средствам.
 
-**If you use an exchange like Coinbase, Gemini, Kraken, Polonix, Bittrex,** then you have an account with that company, and they hold your ETH and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, on their servers, and they keep track of how much ETH they "owe" you.
+**Если вы пользуетесь биржей, например, Coinbase, Gemini, Kraken, Polonix, Bittrex,**, то у вас есть аккаунт в этой компании, а они хранят ваши ETH и ключи за вас. У них есть собственный аккаунт в блокчейне, где хранятся все их средства и средства их клиентов. В этом случае у вас есть имя пользователя и пароль на их серверах, и они следят, сколько ETH они вам "должны".
 
-This allows you to have the more traditional username / password account dynamic and do things like reset your password if you forget it, change your password if your password is compromised, and turn on 2FA. However, it also means that if the exchange loses ETH, it's your ETH that is lost.
+Это позволяет вам иметь более традиционный аккаунт с именем пользователя и паролем, и вы можете, например, восстановить пароль, если забыли его, изменить пароль, если он был скомпрометирован, и включить двухфакторную аутентификацию. Однако это также значит, что если биржа потеряет эфир, потерян будет и ваш эфир.
 
-**If you choose to move from an exchange to a wallet where you control your keys,** you need to make sure that you have multiple backups, stored in separate locations, of your private key / keystore file / recovery phrase. This will prevent loss in case your computer crashes or your house burns down or anything else.
+**Если вы решите перейти с биржи на кошелек, в котором вы контролируете свои ключи,** вам нужно обязательно сделать несколько хранящихся в разных местах резервных копий вашего закрытого ключа, файла хранилища ключей и фразы для восстановления. Это предотвратит потерю при сбое компьютера, пожаре в доме и иных обстоятельствах.
 
-## **You also need to ensure you keep these keys secure. This means:**
+## **Также вам нужно надежно хранить эти ключи. Это значит:**
 
-* Don't enter it on random websites.
-* Always ensure you are on the correct site or downloading from the legitimate repo / website.
-* Don't email your key, send it to anyone, or post it online.
-* Don't save it to cloud storage.
-* Don't have Team Viewer or other remote access software on your computer.
+* Не вводите их на случайные сайты.
+* Всегда удостоверяйтесь, что вы на верном сайте и скачиваете с настоящего репозитория/сайта.
+* Не посылайте ключ по почте, никому не отправляйте и не публикуйте его в сети.
+* Не сохраняйте его в облачное хранилище.
+* Не устанавливайте Team Viewer или другое программное обеспечение для удаленного доступа на свой компьютер.
 
-If this seems very overwhelming, we recommend purchasing a [Ledger](https://www.ledger.com/?r=fa4b) or [Trezor](https://shop.trezor.io/?a=myetherwallet.com) hardware wallet. These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.
+Если это кажется очень сложным, мы рекомендуем купить аппаратный кошелек [Ledger](https://www.ledger.com/?r=fa4b) или [Trezor](https://shop.trezor.io/?a=myetherwallet.com). Он поможет хранить ваши ключи в безопасности, на не подключенном к сети устройстве, а не на вашем компьютере. В этом случае вам не нужно беспокоиться по поводу файлов или строк символов; вместо это вы будете просто подключать аппаратный кошелек к своему компьютеру.
