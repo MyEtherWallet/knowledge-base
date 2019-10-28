@@ -2,16 +2,16 @@
 title: "Pro-Tips: How to Avoid Phishing/Scams"
 date: 2018-06-01 00:03:00
 tags:
-  - faqs
+  - ЧЗВ
   - avoid
   - phishing
   - scams
   - scam
-  - tips
-  - tip
+  - советы
+  - совет
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - security-and-privacy
 primary_category: security-and-privacy
