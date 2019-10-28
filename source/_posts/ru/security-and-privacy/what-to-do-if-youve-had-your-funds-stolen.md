@@ -2,8 +2,8 @@
 title: "What to Do if You’ve Had Your Funds Stolen"
 date: 2018-06-01 00:07:00
 tags:
-  - funds
-  - fund
+  - средства
+  - средства
   - stolen
 categories:
   - 
