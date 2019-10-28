@@ -1,81 +1,81 @@
 ---
-title: "ENS: Registering a Domain"
+title: "ENS: регистрация домена"
 date: 2018-06-01 00:02:00
 tags:
   - ens
-  - dapps
-  - auction
-  - auctions
+  - децентрализованные приложения
+  - аукцион
+  - аукционы
 categories:
   - 
-    - dapps
-primary_category: dapps
+    - децентрализованные приложения
+primary_category: децентрализованные приложения
 primary_category_display_name: "Децентрализованные приложения"
 ---
 
-# **ENS: Registering a Domain**
+# **ENS: регистрация домена**
 
-###### {% read_time title "ENS: Registering a Domain" %} min read
+###### {% read_time title "ENS: Registering a Domain" %} минут на чтение
 
 * * *
 
-The Ethereum Name Service, also known as ENS, is a domain service that assigns a user-specific domain tied to your wallet’s account address.
+Ethereum Name Service, также известная как ENS, — это доменная служба, присваивающая пользовательский домен, привязанный к адресу аккаунта вашего кошелька.
 
-ENS domains take the format of `YourDomainHere.eth`. The intention behind this is to simplify the normal public address into a form that is easier to use and send to others. There are other use cases as well, but this is the main reason for this service as of right now.
+Домены ENS имеют формат `YourDomainHere.eth`. Смысл этого заключается в упрощении обычного публичного адреса до формы, более удобной в использовании и отправке другим. Есть и другие варианты использования, но это основной смысл этой службы на данный момент.
 
-An easy example of this is our MEW donation address:
+В качестве простого примера можно привести адрес для пожертвований MEW:
 
-Normal donation address: `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D`
+Обычный адрес для пожертвований: `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D`
 
-ENS donation address: `mewtopia.eth`
+ENS-адрес для пожертвований: `mewtopia.eth`
 
-Both of these addresses lead to the same wallet destination, but the ENS domain is much more convenient.
+Оба адреса ведут в один кошелек, однако ENS-домен гораздо удобнее.
 
-## **How to Register an ENS Domain**
+## **Как зарегистрировать ENS-домен**
 
-**Step 1.** Head to MyEtherWallet.com.
+**Шаг 1.** Зайдите на MyEtherWallet.com.
 
-* Always check the URL to make sure you’re on our legit site!
+* Всегда проверяйте ссылку, чтобы убедиться, что вы находитесь на нашем настоящем сайте!
 
-**Step 2.** Access your wallet.
+**Шаг 2.** Зайдите в свой кошелек.
 
-* If you don’t already have a wallet, you will need to [create a new wallet](/@@@@@@/getting-started/how-to-create-a-wallet/). 
-* You will also need a small amount of ETH for [gas](/@@@@@@/transactions/what-is-gas/). We generally recommend `.01 ETH` for 1 - 2 transactions. Starting and finalizing ENS auctions both count as a transactions.
+* Если у вас еще нет кошелька, вам понадобится [создать новый кошелек](/@@@@@@/getting-started/how-to-create-a-wallet/). 
+* Также вам понадобится небольшая сумма ETH на [газ](/@@@@@@/transactions/what-is-gas/). Обычно мы рекомендуем `.01 ETH` на 1-2 транзакции. И начало, и окончание ENS-аукционов засчитываются как транзакции.
 
-**Step 3.** Head to the Dapps section, to the left of your wallet's overview page (or by clicking the ‘Change’ function at the top right).
+**Шаг 3.** Зайдите в раздел "Децентрализованные приложения" слева от страницы обзора вашего кошелька (или нажав на функцию "Изменить" в правой верхней части экрана).
 
-* Here you will see the ‘ENS Manager’ option. Click there!
+* Здесь вы увидите опцию "ENS-менеджер". Нажмите на нее!
 
-**Step 4.** Enter your desired domain name to see if it is available.
+**Шаг 4.** Введите интересующее вас доменное имя, чтобы проверить его доступность.
 
-* ENS domains must be 7 characters or longer.
-* Keep in mind that the final product will look like `YourDomainHere.eth`.
-* You can also search Etherscan.io for available ENS domains.
-* If it says to migrate the ENS domain to the new registrar, that means it is unavailable (unless it's already yours, in which case you should migrate it. All migrations must take place by May 4th, 2020.)
+* ENS-домены должны содержать 7 или более символов.
+* Имейте в виду, что конечный продукт будет выглядеть подобным образом: `YourDomainHere.eth`.
+* Вы можете также найти доступные ENS-домены на Etherscan.io.
+* Если вы получаете сообщение о том, что нужно перенести ENS-домен на новый сервер-регистратор, это значит, что он недоступен (за исключением случая, когда он уже ваш, тогда вы должны его перенести. Все миграции должны быть осуществлены до 4 мая 2020 года.)
 
-**Step 5.** If your domain is available, you can register it. Select the amount of time you wish to own the domain and click `Register`.
+**Шаг 5.** Если домен доступен, вы можете его зарегистрировать. Выберите период времени, в течение которого хотите владеть доменом, и нажмите `Зарегистрировать`.
 
-* All domains cost a $5/year equivalent of ETH to maintain. 
-* They can be owned indefinitely, as long as this annual fee is paid. 
+* Затраты на обслуживание всех доменов в ETH эквивалентны 5 долларам США в год. 
+* Ими можно владеть неограниченное количество времени, пока вносится годовая плата. 
 
-**Step 6.** After confirming the transaction, your domain request will process for a moment. When it's done, select `Register` again and confirm the second transaction.
+**Шаг 6.** После подтверждения транзакции ваш запрос домена будет некоторое время обрабатываться. Когда все будет готово, еще раз выберите `Зарегистрировать` и подтвердите вторую транзакцию.
 
-**Step 7.** Check your transaction on Etherscan.io. It should show your public address under the 'Owner' field.
+**Шаг 7.** Проверьте свою транзакцию на Etherscan.io. В поле "Владелец" должен быть отображен ваш публичный адрес.
 
-**This process will only set your address as the owner of the domain, but you’re not done yet. If you want this domain to point to your address for sending, you still have a bit to do.**
+**Это процесс только сделает ваш адрес владельцем домена, однако осталось еще кое-что. Если вы хотите, чтобы этот домен вел к вашему адресу для отправки, вам нужно выполнить дополнительные действия.**
 
-## **Finalizing the Process**
+## **Завершение процесса**
 
-**Step 1.** In order to finish setting up your new domain, search it once again on MyEtherWallet in the ENS Manager Dapp.
+**Шаг 1.** Для завершения настройки вашего нового домена еще раз найдите его в MyEtherWallet в децентрализованном приложении "ENS-менеджер".
 
-**Step 2.** Click 'Manage', and enter the address you'd like all funds to be directed to under the 'Update Resolving address' field. If you'd like it to be the same wallet you've registered on, simply copy and paste the same public address.
+**Шаг 2.** Нажмите "Управление" и введите желаемый адрес для получения всех средств в поле "Обновить преобразование адреса". Если вы хотите, чтобы это был тот же кошелек, который вы зарегистрировали, просто копируйте и вставьте тот же публичный адрес.
 
-**Step 3.** Confirm the transaction, and your domain will be ready to receive funds!
+**Шаг 3.** Подтвердите операцию, и ваш домен будет готов получать средства!
 
-## **Transferring Ownership**
+## **Передача владения**
 
-**Step 1.** If you want to transfer ownership of your domain, search it once again on MyEtherWallet in the ENS Manager Dapp.
+**Шаг 1.** Если вы хотите передать владение доменом, еще раз найдите его в MyEtherWallet в децентрализованном приложении "ENS-менеджер".
 
-**Step 2.** Click 'Manage', and enter the address you'd like to transfer the ownership to under the 'Transfer ENS domain to:' field.
+**Шаг 2.** Нажмите "Управление" и введите адрес, которому хотите передать владение, в поле "Кому передать ENS-домен:".
 
-**Step 3.** Confirm the transaction, and the ownership of your domain will be transferred.
+**Шаг 3.** Подтвердите транзакцию, и владение доменом будет передано.
