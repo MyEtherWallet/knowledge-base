@@ -1,42 +1,42 @@
 ---
-title: "Ledger: Error Code 5"
+title: "Ledger: код ошибки 5"
 date: 2018-06-01 00:02:00
 tags:
   - ledger
-  - error
-  - code
+  - ошибка
+  - код
 categories:
   - 
     - common-issues
 primary_category: common-issues
-primary_category_display_name: "Common Issues"
+primary_category_display_name: "Распространенные проблемы"
 alias:
   - hardware-wallets/error-code-5.html
 ---
 
-# **Ledger: Error Code 5**
+# **Ledger: код ошибки 5**
 
-###### {% read_time title "Ledger: Error Code 5" %} min read
+###### {% read_time title "Ledger: Error Code 5" %} минут на чтение
 
 * * *
 
-If you’re getting the error code 5, this means that your Ledger is opened and being used by another application, such as Ledger Live.
+Если вы получили ошибку с кодом 5, это значит, что Ledger у вас открыт и используется другим приложением, например, Ledger Live.
 
-## **To fix this error, please follow these steps:**
+## **Для исправления этой ошибки выполните, пожалуйста, следующие действия:**
 
-**Step 1.** Plug in your Ledger device. Make sure that any windows that pop up, including Ledger Live, are closed.
+**Шаг 1.** Подключите ваше устройство Ledger. Убедитесь, что все всплывающие окна, включая Ledger Live, закрыты.
 
-**Step 2.** Unlock your Ledger device, and navigate to the Ethereum section.
+**Шаг 2.** Разблокируйте устройство Ledger и перейдите в раздел Ethereum.
 
-**Step 3.** On MyEtherWallet.com, choose the ‘Access My Wallet’ option.
+**Шаг 3.** На MyEtherWallet.com выберите опцию "Доступ к моему кошельку".
 
-**Step 4.** Choose the ‘Ledger’ option next, and connect to your device.
+**Шаг 4.** Далее выберите опцию "Ledger" и подключитесь к своему устройству.
 
-## **If it’s still not connecting, follow these troubleshooting tips:**
+## **Если оно все еще не подключается, следуйте этим советам по устранению неисправностей:**
 
-* Restart your computer.
-* Use Google Chrome.
-* Make sure Contract Data is turned ‘On’, under Settings in the Ethereum section of the device.
-* Double-check you are confirming any transactions on the device itself.
-* Try a different USB cable.
-* Upgrade your drivers and firmware.
+* Перезагрузите компьютер.
+* Используйте Google Chrome.
+* Убедитесь, что данные контракта включены в Настройках устройства в разделе "Ethereum".
+* Убедитесь, что подтверждаете транзакции на самом устройстве.
+* Попробуйте другой USB-кабель.
+* Обновите драйверы и прошивку.
