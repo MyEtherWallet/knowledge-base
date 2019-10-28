@@ -3,13 +3,13 @@ title: "Using a Trezor Hardware Wallet with MEW"
 date: 2018-06-01 00:01:00
 tags:
   - trezor
-  - hardware
-  - wallet
+  - аппаратный
+  - кошелек
 categories:
   - 
     - hardware-wallets
 primary_category: hardware-wallets
-primary_category_display_name: "Hardware Wallets"
+primary_category_display_name: "Аппаратные кошельки"
 alias:
   - migration/moving-from-private-key-to-trezor-hardware-wallet.html
 ---
