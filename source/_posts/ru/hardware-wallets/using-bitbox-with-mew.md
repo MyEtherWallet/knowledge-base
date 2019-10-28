@@ -3,13 +3,13 @@ title: "Using a Digital BitBox Hardware Wallet with MEW"
 date: 2018-06-01 00:02:00
 tags:
   - Digital BitBox
-  - hardware
-  - wallet
+  - аппаратный
+  - кошелек
 categories:
   - 
     - hardware-wallets
 primary_category: hardware-wallets
-primary_category_display_name: "Hardware Wallets"
+primary_category_display_name: "Аппаратные кошельки"
 ---
 
 # **Using a Digital BitBox Hardware Wallet with MEW**
