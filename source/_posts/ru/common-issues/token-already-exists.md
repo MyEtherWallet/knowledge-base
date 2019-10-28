@@ -1,50 +1,50 @@
 ---
-title: "Error: Token Already Exists!"
+title: "Ошибка: токен уже существует!"
 date: 2018-06-01 00:05:00
 tags:
-  - error
-  - token
+  - ошибка
+  - токен
 categories:
   - 
     - common-issues
 primary_category: common-issues
-primary_category_display_name: "Common Issues"
+primary_category_display_name: "Распространенные проблемы"
 ---
 
-# **Error: Token Already Exists!**
+# **Ошибка: токен уже существует!**
 
-###### {% read_time title "Error: Token Already Exists!" %} min read
+###### {% read_time title "Error: Token Already Exists!" %} минут на чтение
 
 * * *
 
-A 'Token Already Exists' error can occur when an incorrect contract address was added as a custom token.
+Ошибка "Токен уже существует" может произойти, если неверный адрес контракта был добавлен в качестве пользовательского токена.
 
-To find the correct contract address, follow these instructions:
+Чтобы найти верный адрес контракта, выполните следующие действия:
 
-## **Using [Ethplorer.io](https://www.ethplorer.io/)**
+## **Использование [Ethplorer.io](https://www.ethplorer.io/)**
 
-**Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
+**Шаг 1.** Введите название токена, который хотите добавить в интерфейс MyEtherWallet.
 
 <img src="/images/posts/common-issues/Ethplorer1Error.jpg" width="60%" />
 
-**Step 2.** Use the contract address (not the creator address) for the custom token field in MEW. Be sure to use the correct decimal count as well.
+**Шаг 2.** Используйте адрес контракта (не адрес создателя) для поля пользовательского токена в MEW. Также убедитесь, что используете верное количество знаков после запятой.
 
 <img src="/images/posts/common-issues/Ethplorer2Error.jpg" width="80%" />
 
-## **Using [Etherscan.io](https://www.etherscan.io/)**
+## **Использование [Etherscan.io](https://www.etherscan.io/)**
 
-**Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
+**Шаг 1.** Введите название токена, который хотите добавить в интерфейс MyEtherWallet.
 
 <img src="/images/posts/common-issues/Etherscan1Error.jpg" style="width: 40%;" />
 
-**Step 2.** Use the contract address for the custom token and be sure to use the correct decimals as well.
+**Шаг 2.** Используйте адрес контракта для пользовательского токена и убедитесь, что используете верное количество знаков после запятой.
 
 <img src="/images/posts/common-issues/Etherscan2Error.jpg" style="width: 70%;" />
 
-## **Other causes:**
+## **Другие причины:**
 
-This error can also occur if the symbol of your token is the same as a symbol already in our default list. To solve this, try adding the symbol with a '2' after.
+Также данная ошибка может произойти, если символ вашего токена совпадает с символом, уже находящимся в нашем списке по умолчанию. Для решения этой проблемы попробуйте добавить после символа "2".
 
-Using our above example, instead of 'SNT', you would add the token as 'SNT2'.
+Используя наш пример выше, вместо "SNT" вам нужно было бы добавить токен как "SNT2"
 
-This has no actual effect on the token itself, but is just a placeholder to make organizing your tokens easier.
+Это не оказывает никакого влияния на сам токен, это просто заполнитель для упрощения упорядочивания ваших токенов.
