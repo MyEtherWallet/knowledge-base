@@ -1,32 +1,32 @@
 ---
-title: "Unable to Connect to Hardware Wallet"
+title: "Не удается подключиться к аппаратному кошельку"
 date: 2018-06-01 00:06:00
 tags:
-  - error
-  - connect
-  - hardware
-  - wallet
+  - ошибка
+  - подключиться
+  - аппаратный
+  - кошелек
 categories:
   - 
     - common-issues
 primary_category: common-issues
-primary_category_display_name: "Common Issues"
+primary_category_display_name: "Распространенные проблемы"
 alias:
   - hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
 ---
 
-# **Unable to Connect to Hardware Wallet**
+# **Не удается подключиться к аппаратному кошельку**
 
-###### {% read_time title "Unable to Connect to Hardware Wallet" %} min read
+###### {% read_time title "Unable to Connect to Hardware Wallet" %} минут на чтение
 
 * * *
 
-## **Most issues with connection can be solved by following these troubleshooting tips:**
+## **Большинство проблем с подключением можно решить, следуя этим советам по устранению неисправностей:**
 
-* Restart your computer. (Don’t be lazy, restart it first!)
-* Use Google Chrome and perform a hard refresh (CTRL+F5 or Command+F5).
-* Make sure you don’t have any other applications open that may be using your hardware wallet, i.e. Ledger Live for Ledger. (This opens automatically).
-* Try a different USB cable.
-* Make sure all your firmware is updated to its most recent version. 
+* Перезагрузите компьютер. (Не ленитесь, сначала перезагрузите!)
+* Используйте Google Chrome и выполните жесткое обновление (CTRL+F5 или Command+F5).
+* Убедитесь, что у вас не открыты другие приложения, которые могут использовать ваш аппаратный кошелек, такие как Ledger Live для Ledger. (Он открывается автоматически).
+* Попробуйте другой USB-кабель.
+* Убедитесь, что у вас последняя версия прошивки. 
 
-If none of these options work, email us at support@myetherwallet.com. Please include as much information about your process as possible.
+Если ни один из этих способов не работает, напишите нам на support@myetherwallet.com. Пожалуйста, предоставьте максимально подробную информацию о ваших действиях.
