@@ -1,117 +1,117 @@
 ---
-title: "How to Access Your Wallet"
+title: "Как получить доступ к кошельку"
 date: 2018-06-01 00:06:00
 tags:
-  - access
-  - wallet
+  - доступ
+  - кошелек
 categories:
   - 
     - get-started
 primary_category: get-started
-primary_category_display_name: "Get Started"
+primary_category_display_name: "Начало работы"
 alias:
   - getting-started/accessing-your-new-eth-wallet.html
 ---
 
-# **How to Access Your Wallet**
+# **Как получить доступ к кошельку**
 
-##### *This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to [this article](/@@@@@@/getting-started/how-to-create-a-wallet/).*
+##### *Эта статья предназначена для тех, у кого уже есть ETH-кошелек. Если вы хотите создать кошелек с нуля, ознакомьтесь, пожалуйста, с [этой статьей](/@@@@@@/getting-started/how-to-create-a-wallet/).*
 
-###### {% read_time title "How to Access Your Wallet" %} min read
+###### {% read_time title "How to Access Your Wallet" %} минут на чтение
 
 * * *
 
-MyEtherWallet (MEW) offers a variety of ways to access one’s Ethereum wallet, by selecting the ‘Access My Wallet’ option on the front page.
+MyEtherWallet (MEW) предлагает множество способов доступа к Ethereum-кошельку с помощью опции "Доступ к моему кошельку" на главной странице.
 
-They are, from most to least recommended:
+Вот они, от наиболее к наименее рекомендованным:
 
-* Hardware Wallets ([Ledger Nano S](https://www.ledger.com/?r=fa4b), [Trezor](https://trezor.io/?offer_id=12&aff_id=2029), [Digital Bitbox](https://shiftcrypto.ch/?ref=mew), [Finney](http://shop.sirinlabs.com/?rfsn=2397639.54fdf&utm_source=refersion&utm_medium=affiliate&utm_campaign=2397639.54fdf), etc.)
+* Аппаратные кошельки ([Ledger Nano S](https://www.ledger.com/?r=fa4b), [Trezor](https://trezor.io/?offer_id=12&aff_id=2029), [Digital Bitbox](https://shiftcrypto.ch/?ref=mew), [Finney](http://shop.sirinlabs.com/?rfsn=2397639.54fdf&utm_source=refersion&utm_medium=affiliate&utm_campaign=2397639.54fdf) и т. д.)
 * MEWconnect
 * MetaMask
-* Keystore/JSON File + Password
-* Mnemonic Phrase + Password
-* Private Key
+* Файла хранилища ключей / JSON-файл + пароль
+* Мнемоническая фраза + пароль
+* Закрытый ключ
 
-## **Hardware Wallets**
+## **Аппаратные кошельки**
 
-Hardware wallets use the highest security measures to encrypt a private key within the device itself, keeping phishers and hackers at bay. Users of most hardwares wallets do not receive their private key, but instead receive a 24-word mnemonic phrase for recovery purposes. The devices are also usually accompanied by a pin code or password used to unlock the device, and all information about each wallet is kept on the actual physical device itself.
+Аппаратные кошельки используют самые сильные меры безопасности для шифрования закрытого ключа на самом устройстве, защищая вас от фишинга и хакеров. Пользователи большинства аппаратных кошельков получают не сам закрытый ключ, а мнемоническую фразу из 24 слов, нужную для восстановления. Также на устройствах обычно есть пин-код или пароль для разблокировки устройства, а вся информация о каждом кошельке хранится на самом физическом устройстве.
 
-To learn more about accessing MEW with hardware wallets, reference our [Migrating to/from MEW](/@@@@@@/migration/) category.
+Чтобы узнать больше о доступе к MEW с помощью аппаратных кошельков, смотрите нашу категорию [Миграция на/с MEW](/@@@@@@/migration/).
 
 ## **MEWconnect**
 
-This is our free MEW companion app for iOS and Android smartphones. We call it a ‘hardware wallet without all the hardware’. When creating a wallet with MEWconnect, your private key is kept encrypted on a secure, local vault in your phone. For backup, you are given a mnemonic phrase (much like the hardware wallets above). The wallet is also accompanied by a password, which is used to unlock it on your device.
+Это наше бесплатное сопутствующее приложение MEW для смартфонов на базе iOS и Android. Мы называем его аппаратным кошельком без аппаратной части. Когда вы создаете кошелек в MEWconnect, ваш закрытый ключ хранится в зашифрованном виде в защищенном локальном хранилище на вашем телефоне. Для резервного копирования вам дается мнемоническая фраза (как на аппаратных кошельках выше). У кошелька также есть пароль, который используется для его разблокировки на вашем устройстве.
 
-To learn more about accessing MEW with MEWconnect, reference our [MEWconnect User Guide](/@@@@@@/mewconnect/mewconnect-user-guide/).
+Чтобы узнать больше о доступе к MEW с помощью MEWconnect, смотрите [Руководство пользователя MEWconnect](/@@@@@@/mewconnect/mewconnect-user-guide/).
 
 ## **MetaMask**
 
-This is a Chrome Extension that allows the creation of an ethereum-based wallet that keeps one’s private key encrypted within the extension itself. It also generates a 12-word mnemonic phrase for recovery purposes. MetaMask allows users to name their separate wallets, see funds within the extension, and offers the option to import the private key information of a previously created wallet, if desired.
+Это расширение для Chrome, позволяющее создать кошелек на базе ethereum, который хранит ваш закрытый ключ в зашифрованном виде в самом расширении. Оно также создает мнемоническую фразу из 12 слов, нужную для восстановления. MetaMask позволяет пользователям давать разным кошелькам имена, просматривать остаток средств в расширении, а также дает возможность при желании импортировать информацию о закрытом ключе ранее созданного кошелька.
 
-## **To connect MEW with MetaMask:**
+## **Для подключения MEW с помощью MetaMask:**
 
-#### **This assumes you already have a MetaMask wallet.**
+#### **Предполагается, что у вас уже есть кошелек MetaMask.**
 
-**Step 1.** Login to your MetaMask wallet via their Chrome Extension.
+**Шаг 1.** Зайдите в свой кошелек MetaMask через расширение для Chrome.
 
-**Step 2.** On the MEW front page, select 'Access My Wallet'.
+**Шаг 2.** На главной странице MEW выберите "Доступ к моему кошельку".
 
-**Step 3.** Select the 'MetaMask' option to connect.
+**Шаг 3.** Выберите вариант "MetaMask" для подключения.
 
-**Step 4.** Read and accept the ‘Terms and Conditions’, then select ‘Access My Wallet’.
+**Шаг 4.** Прочитайте и примите "Условия", затем выберите "Доступ к моему кошельку".
 
-**Step 5.** Confirm connection in the MetaMask pop-up window.
+**Шаг 5.** Подтвердите подключение во всплывающем окне MetaMask.
 
-**Step 6.** You're done!
+**Шаг 6.** Готово!
 
-## **Keystore/JSON + Password**
+## **Хранилище ключей / JSON + пароль**
 
-The Keystore/JSON is a file that holds an encrypted version of one’s private key. This key is encrypted with a chosen password by the user. As such, it is impossible to change the password for these files. The only way to change the password is to make a completely new Keystore file, which can be achieved in our MEW Chrome Extension with one’s private key. Keystore files should not be opened. They are only to be utilized when accessing the Keystore/JSON option on our site and when prompted for one’s ‘JSON file’. You can read more about the functionality of a Keystore/JSON file [here](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).
+Хранилище ключей / JSON — это файл, который содержит зашифрованную версию закрытого ключа. Этот ключ зашифрован с помощью выбранного пользователем пароля. Фактически изменить пароль этих файлов невозможно. Единственный способ изменить пароль — это создать совершенно новый файл хранилища ключей. Это можно сделать в нашем расширении MEW для Chrome с помощью вашего закрытого ключа. Файлы хранилищ ключей не следует открывать. Их нужно использовать только в опции "Хранилище ключей / JSON" на нашем сайте и тогда, когда запрашивают ваш файл JSON. Прочитать подробнее о функционале файла хранилища ключей / JSON-файла можно [здесь](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).
 
-## **To connect with Keystore/JSON + Password:**
+## **Для подключения с помощью хранилища ключей / JSON и пароля:**
 
-#### **This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.**
+#### **Такой способ подключения не рекомендуется. Мы настоятельно рекомендуем при таком варианте [использовать MEW в автономном режиме](/@@@@@@/offline/offline-mew-looks-weird/).**
 
-**Step 1.** On the MEW front page, select 'Access My Wallet'.
+**Шаг 1.** На главной странице MEW выберите "Доступ к моему кошельку".
 
-**Step 2.** Choose the ‘Software’ option to connect, then select ‘JSON File’ and click ‘Continue’.
+**Шаг 2.** Выберите вариант подключения "Программное", затем выберите "JSON-файл" и нажмите "Продолжить".
 
-**Step 3.** Locate your Keystore/JSON file in the pop-up window. It should begin with ‘UTC--’.
+**Шаг 3.** Укажите местоположение своего файла хранилища ключей / JSON-файла во всплывающем окне. Он должен начинаться с "UTC--".
 
-**Step 4.** Enter your password, and click 'Unlock wallet'.
+**Шаг 4.** Введите пароль и нажмите "Разблокировать кошелек".
 
-**Step 5.** You're done!
+**Шаг 5.** Готово!
 
-## **Mnemonic Phrase (+ Password)**
+## **Мнемоническая фраза (+ пароль)**
 
-This is a list of 12 to 24 words that are generated and given to users upon certain forms of wallet creation (i.e. MEWconnect, MetaMask, Hardware Wallets, JAXX wallets, etc.). Sometimes these phrases have passwords associated with them, and sometimes they do not. The order and spelling of the words in a mnemonic phrase is directly tied to one’s private key, and therefore is not recommended as a regular way to access a wallet. It is best to only use this phrase for recovery purposes.
+Это список, в который входит от 12 до 24 слов, созданный и выданный пользователям при определенных способах создания кошелька (например, MEWconnect, MetaMask, аппаратные кошельки, кошельки JAXX и т. п.). Иногда с этими фразами связаны пароли, иногда — нет. Порядок и написание слов в мнемонической фразе напрямую связаны с закрытым ключом, поэтому такой способ не рекомендуется для регулярного доступа к кошельку. Эту фразу лучше использовать только для восстановления.
 
-## **To connect with Mnemonic Phrase (+ Password):**
+## **Для подключения с помощью мнемонической фразы (и пароля):**
 
-#### **This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.**
+#### **Такой способ подключения не рекомендуется. Мы настоятельно рекомендуем при таком варианте [использовать MEW в автономном режиме](/@@@@@@/offline/offline-mew-looks-weird/).**
 
-**Step 1.** On the MEW front page, select 'Access My Wallet'.
+**Шаг 1.** На главной странице MEW выберите "Доступ к моему кошельку".
 
-**Step 2.** Choose the ‘Software’ option to connect, then select ‘Mnemonic Phrase’ and click ‘Continue’.
+**Шаг 2.** Выберите вариант подключения "Программное", затем выберите "Мнемоническая фраза" и нажмите "Продолжить".
 
-**Step 3.** Choose whether it was a 12 or 24 word phrase, then fill out the form.
+**Шаг 3.** Выберите, сколько слов во фразе, 12 или 24, а затем заполните форму.
 
-**Step 4.** Enter your password (leave this blank if you’re using a MEWconnect phrase), and click ‘Unlock wallet’.
+**Шаг 4.** Введите пароль (оставьте это поле пустым, если используете фразу MEWconnect) и нажмите "Разблокировать кошелек".
 
-**Step 5.** Choose your wallet’s address amongst the list generated, and you’re done!
+**Шаг 5.** Выберите адрес кошелька из созданного списка, и всё готово!
 
-## **Private Key**
+## **Закрытый ключ**
 
-The private key is a string of 64 characters tied permanently to a public address. This is sometimes given to users when wallets are created and sometimes kept encrypted (in the case of MEWconnect, MetaMask, and Hardware Wallets). *Using one’s private key should always be a last-ditch effort of access, only to be utilized when all else fails.* This should not be the main method of entry for anyone to access their wallets. Private keys are the number one most sensitive information anyone can have for a wallet, because private keys allow immediate access and can never be changed. Therefore, it is extremely important to keep this safe, secure, and secret.
+Закрытый ключ — это строка из 64 символов, неразрывно связанная с публичным адресом. Это то, что дается пользователям при создании кошельков и иногда хранится в зашифрованном виде (в случае MEWconnect, MetaMask и аппаратных кошельков). *Использовать закрытый ключ нужно лишь как последний вариант доступа, если все остальные не увенчаются успехом.* Это не должно быть основным способом доступа к кошельку. Закрытые ключи — это самые ценные сведения, относящиеся к кошельку, потому что они дают непосредственный доступ и не могут быть изменены. Поэтому крайне важно хранить их в тайне, в надежном и защищенном месте.
 
-## **To connect with Private Key:**
+## **Для подключения с помощью закрытого ключа:**
 
-#### **This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.**
+#### **Такой способ подключения не рекомендуется. Мы настоятельно рекомендуем при таком варианте [использовать MEW в автономном режиме](/@@@@@@/offline/offline-mew-looks-weird/).**
 
-**Step 1.** On the MEW front page, select ‘Access My Wallet’.
+**Шаг 1.** На главной странице MEW выберите "Доступ к моему кошельку".
 
-**Step 2.** Choose the ‘Software’ option to connect, then select ‘Private Key’ and click ‘Continue’.
+**Шаг 2.** Выберите вариант подключения "Программное", затем выберите "Закрытый ключ" и нажмите "Продолжить".
 
-**Step 3.** Copy and paste your private key into the value field.
+**Шаг 3.** Копируйте и вставьте закрытый ключ в поле "Значение".
 
-**Step 4.** Click ‘Unlock Wallet’ and you’re done!
+**Шаг 4.** Нажмите "Разблокировать кошелек", и всё готово!
