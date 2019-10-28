@@ -3,8 +3,8 @@ title: "MEWconnect 101: Create a Wallet"
 date: 2018-04-01 00:01:00
 tags:
   - mewconnect
-  - create
-  - wallet
+  - создать
+  - кошелек
 categories:
   - 
     - mewconnect
