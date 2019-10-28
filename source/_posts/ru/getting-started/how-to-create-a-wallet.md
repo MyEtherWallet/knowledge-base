@@ -1,80 +1,80 @@
 ---
-title: "How to Create a Wallet"
+title: "Как создать кошелек"
 date: 2018-06-01 00:07:00
 tags:
-  - faqs
-  - create
-  - wallet
+  - ЧЗВ
+  - создать
+  - кошелек
 categories:
   - 
     - get-started
 primary_category: get-started
-primary_category_display_name: "Get Started"
+primary_category_display_name: "Начало работы"
 alias:
   - getting-started/creating-a-new-wallet-on-myetherwallet.html
 ---
 
-# **How to Create a Wallet**
+# **Как создать кошелек**
 
-##### If you are currently using a Hardware wallet (such as Ledger or Trezor) or another wallet service (such as MetaMask), this article is not for you. This is only for new users, looking to begin from scratch.
+##### Если в настоящее время вы используете аппаратный кошелек (например, Ledger или Trezor) или другой кошелек (например, MetaMask), эта статья не для вас. Она только для новых пользователей, которые хотят начать с нуля.
 
-###### {% read_time title "How to Create a Wallet" %} min read
+###### {% read_time title "How to Create a Wallet" %} минут на чтение
 
 * * *
 
-MyEtherWallet (MEW) offers three ways to create a new ETH wallet.
+MyEtherWallet (MEW) предлагает три способа создания нового ETH-кошелька.
 
-Out of the three, we highly suggest creating your wallet with our smartphone app, MEWconnect. This is the best option for the security and safekeeping of your information. To learn more about creating your wallet with MEWconnect, click [here](/@@@@@@/mewconnect/mewconnect-101-create/).
+Из этих трех способов мы настоятельно рекомендуем выбрать создание кошелька с помощью нашего приложения для смартфона MEWconnect. Это лучший вариант для обеспечения защиты и надежного хранения вашей информации. Чтобы узнать больше о создании кошелька с помощью MEWconnect, нажмите [сюда](/@@@@@@/mewconnect/mewconnect-101-create/).
 
-The other two options we offer are by Keystore/JSON file and Mnemonic Phrase. *These are **not** recommended ways to create and access your wallet.*
+Два других предлагаемых нами варианта — файл хранилища ключей / JSON-файл и мнемоническая фраза. *Эти способы создания кошелька и доступа к нему **не** рекомендуются.*
 
-The following information is for those who wish to proceed, regardless of our warnings. If you’re going to do something, learn to do it safely. We highly suggest you [access MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) when using these options.
+Следующая информация предназначена для тех, кто хочет продолжить, несмотря на наши предупреждения. Если вы собираетесь что-то сделать, научитесь делать это безопасно. Мы настоятельно рекомендуем при таких вариантах [использовать MEW в автономном режиме](/@@@@@@/offline/offline-mew-looks-weird/).
 
-## **Before we continue, a few words of caution:**
+## **Несколько предостережений, прежде чем мы продолжим:**
 
-* Never share this information with anyone. This information gives complete and permanent access to your wallet.
-* Do not keep this information on a device connected to the internet. Hackers can and will find it in your hard drive. 
-* Choose strong passwords and write everything down, in multiple locations.
-* We cannot recover this information for you.
+* Никогда ни с кем не делитесь этой информацией. Эта информация дает полный и постоянный доступ к вашему кошельку.
+* Не храните эту информацию на устройстве, подключенном к интернету. Хакеры могут найти эту информацию на вашем жестком диске и сделают это. 
+* Выберите надежные пароли и запишите всё в нескольких местах.
+* Мы не сможем восстановить эту информацию.
 
-## **Keystore/JSON**
+## **Хранилище ключей / JSON**
 
-#### *Read more about what a Keystore/JSON file is [here](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).*
+#### *Прочитать подробнее о том, что такое файл хранилища ключей / JSON-файл, можно [здесь](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).*
 
-**Step 1.** Head to www.myetherwallet.com.
+**Шаг 1.** Зайдите на www.myetherwallet.com.
 
-**Step 2.** Click ‘Create a New Wallet’.
+**Шаг 2.** Нажмите "Создать новый кошелек"
 
-**Step 3.** Choose the ‘By JSON File’ option.
+**Шаг 3.** Выберите вариант "С помощью JSON-файла".
 
-**Step 4.** Enter a ***strong*** password, and write it down on paper.
+**Шаг 4.** Введите ***надежный*** пароль и запишите его на бумагу.
 
-* We cannot recover or reset your password for you. Write it down!
+* Мы не сможем восстановить или сбросить ваш пароль. Запишите его!
 
-**Step 5.** Download your JSON File, preferably to a USB device.
+**Шаг 5.** Скачайте файл JSON, лучше всего на USB-устройство.
 
-* Do not open this file. It is meant to be used by our interface.
+* Не открывайте этот файл. Он предназначен для использования нашим интерфейсом.
 
-**Step 6.** Now you’re done, and ready to access your wallet!
+**Шаг 6.** Теперь всё готово, и вы можете пользоваться кошельком!
 
-## **Mnemonic Phrase**
+## **Мнемоническая фраза**
 
-#### *Read more about what a Mnemonic Phrase is [here](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/).*
+#### *Прочитать подробнее о том, что такое мнемоническая фраза, можно [здесь](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/).*
 
-**Step 1.** Head to www.myetherwallet.com.
+**Шаг 1.** Зайдите на www.myetherwallet.com.
 
-**Step 2.** Click ‘Create a New Wallet’.
+**Шаг 2.** Нажмите "Создать новый кошелек".
 
-**Step 3.** Choose the ‘By Mnemonic Phrase’ option.
+**Шаг 3.** Выберите вариант "С помощью мнемонической фразы".
 
-**Step 4.** Enter a strong password, and write it down on paper.
+**Шаг 4.** Введите надежный пароль и запишите его на бумагу.
 
-* We cannot recover or reset your password for you. Write it down!
+* Мы не можем восстановить или сбросить ваш пароль. Запишите его!
 
-**Step 5.** Choose a 12 or 24 word phrase, and WRITE IT DOWN!
+**Шаг 5.** Выберите фразу из 12 или 24 слов и ЗАПИШИТЕ ЕЕ!
 
-* Do not store this on your computer. It is meant to be written down multiple times.
+* Не храните это на вашем компьютере. Это нужно записать несколько раз.
 
-**Step 6.** Now pass a quick test, and you’re done! You’re ready to access your wallet.
+**Шаг 6.** Теперь пройдите небольшой тест, и готово! Вы можете зайти в свой кошелек.
 
-For more information on how to access your new wallet, click [here](/@@@@@@/getting-started/how-to-access-your-wallet/).
+Для получения более подробной информации о доступе к вашему новому кошельку нажмите [сюда](/@@@@@@/getting-started/how-to-access-your-wallet/).
