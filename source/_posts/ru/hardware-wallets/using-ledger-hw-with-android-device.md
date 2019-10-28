@@ -1,40 +1,40 @@
 ---
-title: "Using a Ledger Hardware Wallet With an Android Device"
+title: "Использование аппаратного кошелька Ledger на Android-устройстве"
 date: 2018-06-01 00:06:00
 tags:
-  - down
+  - вниз
 categories:
   - 
     - hardware-wallets
 primary_category: hardware-wallets
-primary_category_display_name: "Hardware Wallets"
+primary_category_display_name: "Аппаратные кошельки"
 alias:
   - faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
 
-# **Using a Ledger Hardware Wallet With an Android Device**
+# **Использование аппаратного кошелька Ledger на Android-устройстве **
 
-###### {% read_time title "Using a Ledger Hardware Wallet With an Android Device" %} min read
+###### {% read_time title "Using a Ledger Hardware Wallet With an Android Device" %} минут на чтение
 
 * * *
 
-If you would like to use your Ledger hardware wallet with an android device, there are a couple things you will need to prepare in advance.
+Если вы хотите использовать аппаратный кошелек Ledger на android-устройстве, вам нужно заранее подготовить несколько вещей.
 
-## **Requirements**
+## **Требования**
 
-* Modern android phone or tablet, supporting USB On-The-Go (USB-OTG).
+* Современный телефон или планшет на базе android, поддерживающий USB On-The-Go (USB-OTG).
     
-    * If you’re not sure of USB-OTG support, check it yourself using an app like the [USB-OTB Checker](https://play.google.com/store/apps/details?id=com.faitaujapon.otg).
+    * Если вы не уверены насчет поддержки USB-OTG, проверьте ее наличие сами с помощью приложения, например, [USB-OTB Checker](https://play.google.com/store/apps/details?id=com.faitaujapon.otg).
 
-* A USB-OTG adapter (found on [Amazon](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=usb+otg+adapter) for a couple bucks).
+* Адаптер USB-OTG (можно найти на [Amazon](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=usb+otg+adapter) за несколько долларов).
 
-## **Setting Up Your Device**
+## **Настройка вашего устройства**
 
-Before connecting to your Ledger, you first have to install a [Ledger application](https://github.com/LedgerHQ/android-u2f-bridge/releases). Click that URL on your Android device, and select the file `android-u2f-bridge-x.x.apk`. Once downloaded, open this file on your device and install it. Click ‘done’ when you are finished.
+Перед подключением к Ledger вам сначала нужно установить [приложение Ledger](https://github.com/LedgerHQ/android-u2f-bridge/releases). Нажмите на эту ссылку на своем Android-устройстве и выберите файл `android-u2f-bridge-x.x.apk`. После скачивания откройте этот файл на устройстве и установите его. Когда закончите, нажмите "Готово".
 
-Now you can connect your Ledger hardware wallet and open the Ethereum app. Make sure ‘Contract Data’ is turned on. Now open your browser and head to MyEtherWallet.com. Under ‘Access My Wallet’, choose the ‘Hardware’ option and click ‘Ledger Wallet’ to connect to your device.
+Теперь вы можете подключить свой аппаратный кошелек Ledger и открыть приложение Ethereum. Убедитесь, что "Данные о контракте" включены. Теперь откройте браузер и зайдите на MyEtherWallet.com. В разделе "Доступ к моему кошельку" выберите опцию "Аппаратный" и нажмите "Кошелек Ledger", чтобы подключиться к вашему устройству.
 
 <img src="/images/posts/hardware-wallets/ledger-hardware-wallet-using-with-android-01.png" width="50%" />
 
-You should see this pop-up, asking to allow the app Ledger U2F to access the USB device. Select ‘OK’, and you will be connected to your Ledger!
+Вы должны увидеть такое всплывающее окно, запрашивающее доступ приложения Ledger U2F к USB-устройству. Выберите "ОК", и вы будете подключены к кошельку Ledger!
