@@ -1,29 +1,29 @@
 ---
-title: "Does MEW Have a Minimum Requirement for Sending?"
+title: "Есть ли у MEW минимальные требования для отправки?"
 date: 2018-06-01 00:04:00
 tags:
   - mew
-  - minimum
-  - requirement
-  - sending
-  - send
+  - минимальное
+  - требование
+  - отправка
+  - отправить
 categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Transactions"
+primary_category_display_name: "Транзакции"
 alias:
   - gas/I-cant-withdraw-them-from-your-site-less-than-minimum.html
 ---
 
-# **Does MEW Have a Minimum Requirement for Sending?**
+# **Есть ли у MEW минимальные требования для отправки?**
 
-###### {% read_time title "Does MEW Have a Minimum Requirement for Sending?" %} min read
+###### Время прочтения: {% read_time title "Есть ли у MEW минимальные требования для отправки?" %} мин.
 
 * * *
 
-There is no minimum to transfer out of MyEtherWallet (MEW). We are not an exchange and have no way of blocking your withdrawals or deposits.
+Минимальной суммы для перевода из MyEtherWallet (MEW) нет. Мы не являемся биржей и не можем блокировать вывод средств или депозит.
 
-The only 'minimum' requirement is the minimum amount of gas needed to complete the transaction. For a standard transaction, that is `0.000441 ETH`.
+Единственное «минимальное» требование — это минимальное количество газа, необходимое для завершения транзакции. Для стандартной транзакции это `0,000441 ETH`.
 
-If you have `0.000X ETH` in your account and want to empty your account completely, send `0.01 ETH` into the account and use the "Send Entire Balance" button to send the entire balance out. This will leave you with a balance of `0 ETH`.
+Если в вашем аккаунте есть `0,000X ETH` и вы хотите полностью вывести средства с аккаунта, то отправьте `0,01 ETH` на аккаунт и используйте кнопку «Отправить весь баланс», чтобы отправить весь свой баланс. Ваш баланс станет `0 ETH`.
