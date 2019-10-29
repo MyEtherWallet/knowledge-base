@@ -1,91 +1,91 @@
 ---
-title: "Adding Your Token as a Default Token"
+title: "Добавление вашего токена в качестве токена по умолчанию"
 date: 2018-06-01 00:01:00
 tags:
   - токен
-  - add
-  - adding
+  - добавить
+  - добавление
 categories:
   - 
     - ЧЗВ
   - 
     - токен
 primary_category: токен
-primary_category_display_name: "Tokens"
+primary_category_display_name: "Токены"
 alias:
   - tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
-# **Adding Your Token as a Default Token**
+# **Добавление вашего токена в качестве токена по умолчанию**
 
-###### {% read_time title "Adding Your Token as a Default Token" %} min read
+###### Время прочтения: {% read_time title "Добавление вашего токена в качестве токена по умолчанию" %} мин.
 
 * * *
 
-If you are someone who is just experimenting with tokens, you can [add a custom token](/@@@@@@/tokens/how-to-add-custom-token/) to your local version of MyEtherWallet (MEW).
+Если вы просто экспериментируете с токенами, вы можете [добавить свой токен](/@@@@@@/tokens/how-to-add-custom-token/) в локальную версию MyEtherWallet (MEW).
 
-If you have a token that a lot of other people also have, or will have in the coming days, you can add it as a permanent, default token to our site.
+Если у вас есть токен, который есть множества других людей, или же который появится у них в ближайшее время, то вы можете добавить его в качестве постоянного токена по умолчанию на наш сайт.
 
-## **You will need to provide:**
+## **Вам нужно будет предоставить:**
 
-* **Name** of your token.
-* **Symbol** of your token.
-* **Address** of your token.
-* **Decimals** of your token.
-* Your **official Website**.
-* Your direct **customer support email**. 
-    * Due to high numbers of token sale holders NOT providing support to their investors, we will remove your token if you do not help the people who made you millionaires.
-* Optionally, you may also include your blog, social media sites, chat channels, your logo, etc.
+* **Название** вашего токена.
+* **Символ** вашего токена.
+* **Адрес** вашего токена.
+* **Число знаков после запятой (decimals)** вашего токена.
+* Ваш **официальный сайт**.
+* Ваш прямой **адрес эл. почты службы поддержки**. 
+    * Из-за того, что очень многие создатели токенов проводят распродажу и НЕ предоставляют поддержку своим инвесторам, мы удалим ваш токен, если вы не будете помогать людям, которые сделали вас миллионерами.
+* При желании вы также можете указать свой блог, сайты социальных сетей, каналы чата, ваш логотип и т. д.
 
-### 1. Submit your tokens as Default Tokens.
+### 1. Отправьте свои токены в качестве токенов по умолчанию.
 
-* Go to https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens/eth. 
-    * If your token exists on a different network, you can [add them here](https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens).
-* Login or join GitHub.
-* Click the pencil icon in upper right.
-* Scroll to the letter of your token (they are in alphabetical order).
-* Copy an existing token starting at the `{` and ending with `},`.
-* Remove any information that you copied that isn't yours.
-* Add your address, decimals, name, and symbol.
-* Add your website.
-* Add your support email.
-* Add any other additional links.
-* At the bottom under "Commit changes" type "Added `YOUR_TOKEN_SYMBOL` Token to Defaults" in the title box.
-* In the bigger box below that, you can add any additional information you'd like to let us know about.
-* Click the green "Propose File change" button.
-* This next page is a review of what you did.
-* Click the "Create Pull Request" button, twice.
-* That's it. You successfully made a new pull request!
-* We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
+* Зайдите на страницу https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens/eth. 
+    * Если ваш токен есть в другой сети, вы можете [добавить его здесь](https://github.com/MyEtherWallet/ethereum-lists/blob/master/src/tokens).
+* Войдите или зарегистрируйтесь на GitHub.
+* Нажмите на значок карандаша в правом верхнем углу.
+* Перейдите к букве вашего токена (они расположены в алфавитном порядке).
+* Скопируйте существующий токен, начиная с `{` и заканчивая `},`.
+* Удалите любую чужую скопированную информацию.
+* Добавьте свой адрес, число знаков после запятой, название и символ.
+* Добавьте свой сайт.
+* Добавьте адрес эл. почты вашей службы поддержки.
+* Добавьте любые другие дополнительные ссылки.
+* Внизу в разделе «Commit changes» введите в поле заголовка «Added `СИМВОЛ_ВАШЕГО_ТОКЕНА` Token to Defaults».
+* В большем поле ниже вы можете добавить любую дополнительную информацию, которую вы хотите сообщить нам.
+* Нажмите зеленую кнопку «Propose File change».
+* Следующая страница — это обзор того, что вы сделали.
+* Дважды нажмите на кнопку «Create Pull Request».
+* Вот и все. Вы успешно создали новый pull-запрос!
+* Теперь мы рассмотрим его и включим в свой код, и в следующем релизе он будет доступен на нашем сайте. Если что-то будет по какой-то причине непонятно, то мы можем задать вам несколько вопросов.
 
-### 2. Add your token sale address and manual gas limits to ensure a smooth sale.
+### 2. Добавьте свой адрес продажи токена и ограничения по газу, чтобы распродажа прошла гладко.
 
-* Go here https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/customGas.js.
-* Find an existing entry that is over, or use our donation address (the top one).
-* Replace the information with your information: 
-    * Address: The address users will be sending to.
-    * Gas Limit: The gas limit you are recommending that ensures there will be no `Out of Gas` errors.
-    * Data: Optional. If there is a standard data field, add that string.
-    * Message: Optional. If people need to generate data, include a note here to remind them. You can include the block start times or date and what token sale it is for.
-* At the bottom under "Commit changes" type "Manual gas limits for upcoming `YOUR_TOKEN_SYMBOL` token" in the title box.
-* Any other notes you would like us to see can be included below.
-* Click the green "Propose File change" button.
-* This next page is a review of what you did.
-* Click the "Create Pull Request" button, twice.
-* That's it. You successfully made a new pull request!
-* We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
+* Зайдите на эту страницу https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/customGas.js.
+* Найдите уже существующую оконченную запись или же используйте наш адрес для пожертвований (верхний).
+* Замените эту информацию своей: 
+    * Адрес: адрес, на который пользователи будут отправлять средства.
+    * Ограничения по газу: рекомендуемое ограничение по газу, чтобы избежать ошибок `Out of Gas`.
+    * Данные: необязательно. Если у вас есть стандартное поле данных, добавьте эту строку.
+    * Сообщение: необязательно. Если людям нужно генерировать данные, то добавьте сюда примечание, чтобы напомнить им об этом. Вы можете указать время или дату начала блоков и название распродажи токенов.
+* Внизу в разделе «Commit changes» введите в поле заголовка «Manual gas limits for upcoming `СИМВОЛ_ВАШЕГО_ТОКЕНА` token».
+* Ниже вы можете указать любые другие комментарии для нас.
+* Нажмите зеленую кнопку «Propose File change».
+* Следующая страница — это обзор того, что вы сделали.
+* Дважды нажмите на кнопку «Create Pull Request».
+* Вот и все. Вы успешно создали новый pull-запрос!
+* Теперь мы рассмотрим его и включим в свой код, и в следующем релизе он будет доступен на нашем сайте. Если что-то будет по какой-то причине непонятно, то мы можем задать вам несколько вопросов.
 
-### 3. Adding your Contract / ABI.
+### 3. Добавление контракта / ABI.
 
-We now provide users with the ability to enter the address, and MEW will auto-populate with the ABI. If you have a contract that is **NOT** your ERC-20 token contract that users will actually be interacting with:
+Теперь мы предоставляем пользователям возможность указать адрес, после чего MEW автоматически заполнит ABI. Если у вас есть контракт, который **НЕ** является вашим контрактом токена ERC-20 и с которым пользователи будут взаимодействовать:
 
-* Go to https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json.
-* Copy from `{` to `},`.
-* Replace information with your contract name, address, and ABI.
-* At the bottom under "Commit changes" type "Added `YOUR_CONTRACT_NAME` contract ABI" in the title box.
-* Any other notes you would like us to see can be included below.
-* Click the green "Propose File change" button.
-* This next page is a review of what you did.
-* Click the "Create Pull Request" button, twice.
-* That's it. You successfully made a new pull request! 
-* We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
+* Зайдите на страницу https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json.
+* Скопируйте все начиная с `{` до `},`.
+* Укажите вместо этой информации название своего контракта, адрес и ABI.
+* Внизу в разделе «Commit changes» введите в поле заголовка «Added `СИМВОЛ_ВАШЕГО_ТОКЕНА` contract ABI».
+* Ниже вы можете указать любые другие комментарии для нас.
+* Нажмите зеленую кнопку «Propose File change».
+* Следующая страница — это обзор того, что вы сделали.
+* Дважды нажмите на кнопку «Create Pull Request».
+* Вот и все. Вы успешно создали новый pull-запрос! 
+* Теперь мы рассмотрим его и включим в свой код, и в следующем релизе он будет доступен на нашем сайте. Если что-то будет по какой-то причине непонятно, то мы можем задать вам несколько вопросов.
