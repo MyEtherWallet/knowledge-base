@@ -1,43 +1,43 @@
 ---
-title: "How to Send a Transaction"
+title: "Как отправить транзакцию"
 date: 2018-06-01 00:03:00
 tags:
-  - send
-  - transaction
+  - отправить
+  - транзакция
 categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Transactions"
+primary_category_display_name: "транзакции"
 alias:
   - transactions/how-to-send-transaction.html
 ---
 
-# **How to Send a Transaction**
+# **Как отправить транзакцию**
 
-###### {% read_time title "How to Send a Transaction" %} min read
+###### Время прочтения: {% read_time title "Как отправить транзакцию" %} мин.
 
 * * *
 
-MyEtherWallet (MEW) makes it easy for you to send a transaction. All you need is a wallet, the Ethereum address you’d like to send funds to, and a little ETH for gas.
+MyEtherWallet (MEW) позволяет легко отправлять транзакции. Все, что вам нужно, — это кошелек, адрес Ethereum, на который вы хотите отправить средства, и немного ETH для оплаты газа.
 
-If you plan to move large amounts of ETH or ERC20 tokens, we suggest sending a small amount first to make sure everything goes as planned.
+Если вы планируете отправить большое количество токенов ETH или ERC20, мы рекомендуем сначала отправить небольшую сумму, чтобы убедиться, что все работает как надо.
 
-**Step 1.** [Access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).
+**Шаг 1.** [Зайдите в свой кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
-**Step 2.** Your wallet should automatically be opened on the ‘Send Transaction’ screen. If it’s not, you can find this area to the left of your wallet overview page.
+**Шаг 2.** Ваш кошелек должен автоматически открыться на экране отправки транзакции. Если он не открылся на этом экране, вы можете найти эту область слева от страницы обзора своего кошелька.
 
-**Step 3.** Fill in the type of currency you’d like to send, the amount, and the address you’d like to send to.
+**Шаг 3.** Укажите тип валюты, которую вы хотите отправить, сумму и адрес получателя.
 
-* Make sure to double and triple check the address you’re sending to! We cannot recover funds sent to the wrong address.
-* When sending your entire balance of ETH, choose the ‘Send Entire Balance’ option, so your gas is auto-calculated out of the total. 
-* Gas and gas limit will auto-generate based on network congestion.
-* If you don’t see the token you’d like to send, you may need to [add it as a custom token](/@@@@@@/tokens/how-to-add-custom-token/).
+* Обязательно проверьте адрес получателя дважды и даже трижды! Мы не можем вернуть средства, отправленные по неправильному адресу.
+* При отправке всего баланса ETH выберите «Отправить весь баланс», чтобы газ был автоматически рассчитан исходя из общей суммы. 
+* Газ и лимит газа будут автоматически сгенерированы в зависимости от загруженности сети.
+* Если вы не видите токен, который вы хотите отправить, вам, возможно, нужно будет [добавить его](/@@@@@@/tokens/how-to-add-custom-token/).
 
-**Step 4.** Click ‘Send Transaction’ and confirm the transaction on the next screen.
+**Шаг 4.** Нажмите кнопку «Отправить транзакцию» и подтвердите транзакцию на следующем экране.
 
-* If you’re using MEWconnect or a hardware wallet, be sure to confirm the transaction on your device as well.
+* Если вы используете MEWconnect или аппаратный кошелек, обязательно подтвердите транзакцию на своем устройстве.
 
-**Step 5.** Your transaction has been posted! Copy your transaction hash, for your records.
+**Шаг 5.** Ваша транзакция опубликована! Скопируйте хэш транзакции на всякий случай.
 
-* Check your transaction hash on [Etherscan](https://etherscan.io) to make sure everything went through properly.
+* Проверьте хэш транзакции на сайте [Etherscan](https://etherscan.io), чтобы убедиться, что все прошло как надо.
