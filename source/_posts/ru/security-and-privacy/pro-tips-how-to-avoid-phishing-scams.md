@@ -1,83 +1,83 @@
 ---
-title: "Pro-Tips: How to Avoid Phishing/Scams"
+title: "Подсказки: как избежать фишинга / мошенничества"
 date: 2018-06-01 00:03:00
 tags:
-  - ЧЗВ
-  - avoid
-  - phishing
-  - scams
-  - scam
-  - советы
-  - совет
+  - частые вопросы
+  - избежать
+  - фишинга
+  - мошенничества
+  - мошенничество
+  - подсказки
+  - подсказка
 categories:
   - 
     - ЧЗВ
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Security And Privacy"
+primary_category_display_name: "Безопасность и конфиденциальность"
 alias:
   - security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
 ---
 
-# **Pro-Tips: How to Avoid Phishing/Scams**
+# **Подсказки: как избежать фишинга / мошенничества**
 
-#### **We’ve compiled a list of tips and tricks to avoid common phishing/scam techniques.**
+#### **Мы составили список подсказок и приемов, которые помогут избежать распространенных способов фишинга и мошенничества.**
 
-###### {% read_time title "Pro-Tips: How to Avoid Phishing/Scams" %} min read
+###### Время прочтения: {% read_time title "Подсказки: как избежать фишинга / мошенничества" %} мин.
 
 * * *
 
-**1. Secure your access method.**
+**1. Обезопасьте свой способ доступа.**
 
-* Whether it's by [purchasing a hardware wallet](https://www.myetherwallet.com/hardware-wallet-affiliates), downloading [MEWconnect](/@@@@@@/mewconnect/mewconnect-user-guide/), or by [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/), secure access is the number one defense against phishing.
+* Безопасный доступ — это лучшая защита от фишинга, будь то [покупка аппаратного кошелька](https://www.myetherwallet.com/hardware-wallet-affiliates), загрузка [MEWconnect](/@@@@@@/mewconnect/mewconnect-user-guide/) или же [использование MEW в офлайн-режиме](/@@@@@@/offline/offline-mew-looks-weird/).
 
-**2. Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc), or [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige).**
+**2. Установите [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc) или [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige).**
 
-* These Chrome Extensions warn you when visiting malicious sites.
+* Эти расширения для Chrome предупреждают вас при посещении вредоносных сайтов.
 
-**3. Never click a link sent to you, even if it looks like it was sent by a legitimate crypto company.**
+**3. Никогда не нажимайте на отправленную вам ссылку, даже если она выглядит так, как будто она была отправлена ​​настоящей криптовалютной компанией.**
 
-* Search for the service on Google, and find the information there. (Make sure it’s not an ad!)
+* Поищите эту компанию в Google и найдите информацию о ней. (Убедитесь, что это не рекламное объявление!)
 
 <img src="/images/posts/security/ProTip1.jpg" width=" 65%" />
 
-**4. You will never have to enter your private key for any service, airdrop, or KYC verification.**
+**4. Вам никогда не потребуется вводить свой закрытый ключ для получения какой-либо услуги, airdrop-раздачи или проверки KYC.**
 
-* Do not give your private key, [mnemonic phrase](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/), or [keystore file](/@@@@@@/security-and-privacy/what-is-a-keystore-file/) to anyone! These are best used with [MEW offline](/@@@@@@/offline/offline-mew-looks-weird/).
+* Никому не передавайте свой закрытый ключ, [мнемоническую фразу](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/) или [файл хранилища ключей](/@@@@@@/security-and-privacy/what-is-a-keystore-file/)! Их лучше всего использовать с [MEW в офлайн-режиме](/@@@@@@/offline/offline-mew-looks-weird/).
 
-**5. Check the URL very closely, to make sure it’s the one you are expecting.**
+**5. Внимательно проверьте URL, чтобы убедиться, что это именно то, что вы ожидаете.**
 
-* Phishers are very clever with their tiny dots and accents over and under the letters. 
-* Bookmark all the sites you frequent most!
+* Фишеры используют хитрые трюки вроде небольших точек и черточек над буквами и под ними. 
+* Добавьте в закладки все сайты, которые вы часто посещаете!
 
 <img src="/images/posts/security/ProTip2.jpg" width=" 65%" />
 
-**6. Always Google search any token sales or ICOs you’re interested in.**
+**6. Всегда ищите в Google любые продажи токенов или ICO, которые вас интересуют.**
 
-* If it’s a scam, others will likely be posting about it. 
-* Check their Twitter, Reddit, etc. (Follow us on Twitter and Reddit while you’re at it!)
+* Если это мошенничество, то другие люди, возможно, об этом пишут. 
+* Посмотрите их аккаунты в Twitter, Reddit и т. д. (И кстати, раз уж об этом зашла речь — подпишитесь на наш Twitter и Reddit!)
 
 <img src="/images/posts/security/ProTip3.jpg" width=" 65%" />
 
-**7. Search smart and look for common signs of scams – lack of followers in common, angry comments, etc.**
+**7. Ищите с умом и высматривайте частые признаки мошенничества — небольшое число подписчиков, гневные комментарии и т. д.**
 
-* Remember, there are many fake bots and accounts out there!
+* Помните, что в этих соцсетях есть множество поддельных ботов и аккаунтов!
 
 <img src="/images/posts/security/ProTip4.jpg" width=" 65%" />
 
-**8. Before sending crypto to any address, search it on Etherscan first.**
+**8. Перед отправкой криптовалюты на любой адрес найдите его на Etherscan.**
 
-* There is a comment section there that is likely to be full of angry people if the address is known for stealing funds.
+* Там есть раздел комментариев, и если этот адрес крадет криптовалюту, то в комментариях будет много недовольных людей.
 
 <img src="/images/posts/security/ProTip5.jpg" width=" 65%" />
 
-**9. Double and triple-check everything!**
+**9. Всегда проверяйте все дважды и даже трижды!**
 
-* Make sure every address is 100% correct, as even one wrong character will lead to a completely different wallet. 
-* **We cannot reverse or refund transactions**, so this is very important!
+* Убедитесь, что каждый адрес на 100% правильный, так как даже один неправильный символ означает, что средства отправятся на совершенно другой кошелек. 
+* **Мы не можем отменить транзакции или вернуть ваши средства**, поэтому это очень важно!
 
-**10. Last, but not least, don't be afraid to ask for help!**
+**10. И, наконец, не стесняйтесь просить о помощи!**
 
-* We can always be reached at support@myetherwallet.com. 
-* Our support team is happy to help with any issue, big or small.
+* С нами всегда можно связаться по адресу support@myetherwallet.com. 
+* Наша служба поддержки с радостью поможет решить любую проблему, от небольшой до крупной.
