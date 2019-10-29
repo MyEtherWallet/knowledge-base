@@ -1,47 +1,47 @@
 ---
-title: "Transactions are 'Not Found' or 'Pending' Forever"
+title: "Транзакции застряли в статусе «Не найдено» или «В ожидании»"
 date: 2018-06-01 00:05:00
 tags:
-  - transactions
-  - found
-  - pending
-  - forever
+  - транзакции
+  - найдены
+  - в ожидании
+  - навсегда
 categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Transactions"
+primary_category_display_name: "Транзакции"
 alias:
   - transactions/transactions-not-showing-or-pending.html
 ---
 
-# **Transactions are 'Not Found' or 'Pending' Forever**
+# **Транзакции застряли в статусе «Не найдено» или «В ожидании»**
 
-###### {% read_time title "Transactions are 'Not Found' or 'Pending' Forever" %} min read
-
-* * *
-
-Often times, a combination of new users, increased interest in Ethereum, games like CryptoKitties, and random ICOs can create quite a mess of the transaction pool, causing a lot of transactions to remain pending longer than usual. This is a network issue that affects all exchanges and ETH users.
-
-There is simply not enough space in the blocks for the miners to mine all the transactions, and many systems are not currently set up to monitor the massive quantity of transaction requests. This is affecting all people's ability to send transactions.
-
-## **Helpful Tools and Resources to Get Your Transaction to Send**
-
-* [Learn about transaction fees (gas)](/@@@@@@/transactions/what-is-gas/), and how to get your transaction to go through.
-* Replace a pending transaction that you sent with too low gas.
-* See what the optimal gas price currently is [here](https://ethgasstation.info/).
-* [Learn about Nonce](/@@@@@@/transactions/what-is-nonce/), and how it controls which transactions are mined (or not).
-
-## **Other Tips**
-
-* Try switching the network in the top-right to use a different node. There are multiple nodes that allow you to interact with ETH. We default to 'MyEtherWallet.com', but also offer Etherscan.io, Infura.io, and Giveth.io. If one is not working, try another one.
-* If you sent **FROM** an exchange, your best bet is to just be patient. Their support teams are generally flooded with requests (as are ours!), so patience is the best option.
-* There are additional issues created by this increased traffic that can result in unclear error messages on MyEtherWallet. We're sorry for this, and we're working on improving those messages. If you get an error, try pressing the generate button again, or changing the network via the dropdown in the top-right. However, be careful that you don't actually send the same transaction twice. If it says "transaction hash already imported" or "same nonce", you MAY have already sent that transaction, and it's waiting to be mined. If both transactions get mined, you will send twice as much as you mean to.
-
-#### **If you have any other questions, please let us know at support@myetherwallet.com.**
+###### Время прочтения: {% read_time title "Транзакции застряли в статусе «Не найдено» или «В ожидании»" %} мин.
 
 * * *
 
-## **For Visual Learners**
+Часто сочетание новых пользователей, повышенного интереса к Ethereum, играм вроде CryptoKitties и случайным ICO может создать беспорядок в пуле транзакций, в результате чего многие транзакции будут оставаться в статусе «В ожидании» дольше, чем обычно. Это проблема сети, которая затрагивает все биржи и пользователей ETH.
+
+У майнеров просто недостаточно места для добычи всех транзакций, и многие системы в настоящее время не настроены для мониторинга огромного количества запросов на транзакции. Это влияет на возможность всех людей отправлять транзакции.
+
+## **Полезные инструменты и ресурсы для отправки транзакции**
+
+* [Узнайте о плате за транзакцию (газ)](/@@@@@@/transactions/what-is-gas/) и как сделать так, чтобы транзакция «прошла».
+* Замените отправленную транзакцию в статусе «В ожидании» с низким количеством газа.
+* Оптимальную цену на газ можно посмотреть [здесь](https://ethgasstation.info/).
+* [Узнайте о поле «Nonce»](/@@@@@@/transactions/what-is-nonce/) и о том, как оно контролирует майнинг транзакций.
+
+## **Другие советы**
+
+* Попробуйте переключить сеть в правом верхнем углу, чтобы использовать другой узел. Есть несколько узлов, с помощью которых вы можете взаимодействовать с ETH. По умолчанию мы используем «MyEtherWallet.com», но мы также предлагаем Etherscan.io, Infura.io и Giveth.io. Если один из них не работает, то попробуйте другой.
+* Если вы отправили средства **С** биржи, то наберитесь терпения. У служб поддержки бирж, как правило, множество запросами (как и у нашей поддержки!), поэтому лучше всего запастись терпением.
+* Такой повышенный трафик создает дополнительные проблемы, которые могут привести к неясным сообщениям об ошибках на MyEtherWallet. Мы сожалеем об этом и работаем над улучшением этих сообщений. Если вы получили ошибку, попробуйте нажать кнопку «Сгенерировать» снова или же поменять сеть с помощью выпадающего меню в правом верхнем углу. Однако постарайтесь не отправить одну и ту же транзакцию дважды. Если в сообщении сказано «Хэш транзакции уже импортирован» или же «Тот же nonce», то ВОЗМОЖНО, что вы уже отправили эту транзакцию, и она ожидает майнинга. Если обе транзакции будут добыты, вы отправите вдвое больше, чем хотели.
+
+#### **Если у вас есть другие вопросы, пожалуйста, сообщите нам об этом по адресу support@myetherwallet.com.**
+
+* * *
+
+## **Для тех, кто учится визуально**
 
 <img src="/images/posts/transactions/tx_pool_infographic.png" width="80%" />
