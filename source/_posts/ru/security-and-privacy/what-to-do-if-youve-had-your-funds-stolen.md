@@ -1,59 +1,59 @@
 ---
-title: "What to Do if You’ve Had Your Funds Stolen"
+title: "Что делать, если ваши средства украли"
 date: 2018-06-01 00:07:00
 tags:
   - средства
   - средства
-  - stolen
+  - украли
 categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Security And Privacy"
+primary_category_display_name: "Безопасность и конфиденциальность"
 alias:
   - security/what-to-do-if-youve-had-your-funds-stolen.html
 ---
 
-# **What to Do if You’ve Had Your Funds Stolen**
+# **Что делать, если ваши средства украли**
 
-###### {% read_time title "What to Do if You've Had Your Funds Stolen" %} min read
+###### Время прочтения: {% read_time title "Что делать, если ваши средства украли" %} мин.
 
 * * *
 
-Phishing and hacking are (unfortunately) very common in the crypto space. Don’t let it discourage you though, as most attacks are completely preventable. We will not be able to recover your funds for you, but we’re here to help however we can. Education is the biggest defense against these attacks. Being able to recognize and prepare yourself for future phishing attempts is very important.
+Фишинг и хакерство (к сожалению) очень распространены в крипто-пространстве. Но пусть это вас не пугает, ведь большинство атак можно предотвратить. Мы не сможем вернуть вам ваши средства, но мы всегда готовы помочь. Образование — самая лучшая защита от этих атак. Очень важно уметь распознавать и приготовиться к будущим попыткам фишинга.
 
-## **Step 1: Identify the method.**
+## **Шаг 1: определите метод.**
 
-The first step is identifying how it happened. Phishers make their living by being sneaky, so being able to figure out their methodology will be tremendously helpful.
+Первый шаг — определить, как именно это произошло. Фишеры зарабатывают на жизнь хитростью, поэтому выяснить их методологию будет чрезвычайно полезно.
 
-* Check your history. Have you recently visited any sketchy sites? Did you recently enter your information on a fake MEW after clicking a link? 
-    * Look at the URLs. Do you see any tiny dots or accents over (or under) the letters?
-* Scan your computer for malware. It’s possible your files have been compromised.
-* Do you have any remote-access software installed, i.e. Teamviewer? These can be hacked remotely to view the information right from your screen.
-* What method do you use to access your wallet? Private keys, keystore/JSON files, and mnemonic phrases are not generally recommended because they allow easy access to one’s wallet.
+* Проверьте историю своего браузера. Вы недавно посещали какие-нибудь подозрительные сайты? Вы недавно вводили свои данные на фальшивом сайте MEW после нажатия на ссылку? 
+    * Посмотрите на URL. Вы видите крошечные точки или черточки над (или под) буквами?
+* Просканируйте свой компьютер на наличие вредоносных программ. Возможно, злоумышленники получили доступ к вашим файлам.
+* У вас установлено программное обеспечение для удаленного доступа, например, Teamviewer? Его можно взломать удаленно и просматривать информацию прямо с вашего экрана.
+* Какой метод вы используете для доступа к своему кошельку? Мы не рекомендуем использовать закрытые ключи, файлы хранилища ключей / JSON и мнемонические фразы, поскольку они дают легкий доступ к кошельку.
 
-## **Step 2: Make a new wallet.**
+## **Шаг 2: создайте новый кошелек.**
 
-Since your old wallet was compromised, you will need to discontinue its use and set up a new wallet. There are multiple safer options to choose from besides keystore/JSON files, mnemonic phrases, or private keys.
+Так как ваш старый кошелек был взломан, вам нужно прекратить его использовать и создать новый кошелек. Есть несколько более безопасных вариантов кроме файлов хранилища ключей / JSON, мнемонических фраз и закрытых ключей.
 
-* The best thing you can do for your security is purchase a hardware wallet, such as the [Ledger Nano S](https://www.ledger.com/?r=fa4b) or [Trezor](https://shop.trezor.io/?a=myetherwallet.com). These are generally around ~$100, but can save you thousands in the long run. 
-* [MEWconnect](/@@@@@@/mewconnect/mewconnect-user-guide/) is our free smartphone app, which offers hardware wallet security without all the hardware. With MEWconnect, you can view your balance on the go. To send a transaction, simply scan a QR code on MEW to unlock your wallet.
-* [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) is a free Google Chrome Extension that allows you to set up an Ethereum wallet, which can be used with MEW. MetaMask also warns you when visiting known phishing sites.
+* Лучшее, что вы можете сделать для своей безопасности, — это купить аппаратный кошелек, например, [Ledger Nano S](https://www.ledger.com/?r=fa4b) или [Trezor](https://shop.trezor.io/?a=myetherwallet.com). Обычно они стоят около 100 долларов, но в долгосрочной перспективе вы можете сэкономить тысячи. 
+* [MEWconnect](/@@@@@@/mewconnect/mewconnect-user-guide/) — это наше бесплатное приложение для смартфонов, которое предоставляет безопасность на уровне аппаратного кошелька без самого аппаратного кошелька. С MEWconnect вы можете просматривать свой баланс на ходу. Чтобы отправить транзакцию, просто отсканируйте QR-код в MEW для разблокирования своего кошелька.
+* [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) — это бесплатное расширение для Google Chrome, которое позволяет настроить кошелек Ethereum для использования с MEW. MetaMask также предупреждает вас при посещении известных фишинговых сайтов.
 
-## **Step 3: Educate yourself.**
+## **Шаг 3: учитесь.**
 
-When it comes to crypto, there is no such thing as being too educated. This is a very new field, so even the experts have more to learn. The more you know, the more prepared you’ll be.
+Когда дело доходит до криптовалюты, то слишком мало знаний не бывает. Это очень новая область, поэтому даже экспертам есть чему поучиться. Чем больше вы знаете, тем лучше вы подготовитесь.
 
-* A great place to start is with our [Knowledge Base](https://kb.myetherwallet.com). MEW maintains a variety of articles that can help. Start with our [Pro-Tips on how to avoid phishers](/@@@@@@/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/). 
-* The force is strong with this community. Follow us on Twitter and Reddit for any current MEW-related scams or updates that might be going on.
-* Google everything! Before sending money to any service, search it on Google. Read people’s opinions on it, check Twitter and Reddit. Do your research!
+* Лучше всего начать с нашей [базы знаний](https://kb.myetherwallet.com). На MEW есть множество статей, которые могут вам помочь. Начните с наших [подсказок о том, как избежать фишеров](/@@@@@@/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/). 
+* Сила велика в этом сообществе. Следите за нашими аккаунтами в Twitter и Reddit, чтобы узнать о случаях мошенничества и новостях, связанных с MEW.
+* Гуглите все! Прежде чем отправлять деньги в какой-либо сервис, поищите его на Google. Прочитайте, что думают другие, и загляните в Twitter и Reddit. Соберите всю информацию самостоятельно!
 
-## **Step 4: Let the world know!**
+## **Шаг 4: расскажите всему миру!**
 
-To avoid these scams, we need to know they’re happening. Take screenshots and write down what happened, while it’s still fresh.
+Чтобы избежать мошенничества, мы должны о нем знать. Сделайте скриншоты и запишите, что произошло, пока события еще свежи в памяти.
 
-* Send us the information! We cannot recover stolen funds, but we can help warn others. We’re always available at support@myetherwallet.com. 
-    * To make the process easier, make sure to include all relevant addresses, transaction hashes, screenshots, and details about how it happened.
-* Let people know on Twitter, Reddit, [Etherscan](https://etherscan.io), etc. Blow up those comments. Let your voice be heard
+* Отправьте эту информацию нам! Мы не можем вернуть украденные средства, но можем предупредить других. Вы всегда можете связаться с нами по адресу support@myetherwallet.com. 
+    * Чтобы упростить процесс, обязательно укажите все нужные адреса, хэши транзакций, снимки экрана и подробную информацию о том, как это произошло.
+* Напишите об этом в Twitter, Reddit, [Etherscan](https://etherscan.io) и т. д. Пусть комментарии буквально взорвутся. Пусть ваш голос услышат
 
-We know these attacks can be very demoralizing, but let it be an opportunity for learning. If these phishers deter you from using crypto, then they win. Show them that you’re a force to be reckoned with!
+Мы знаем, что эти атаки могут быть деморализующими, но пусть они станут возможностью для обучения. Если из-за этих фишеров вы разочаруетесь в криптовалюте, то это значит, что они выиграли. Покажите им, что вы — сила, с которой нужно считаться!
