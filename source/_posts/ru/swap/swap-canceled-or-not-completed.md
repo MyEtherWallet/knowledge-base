@@ -1,10 +1,10 @@
 ---
-title: "Swap Was Canceled or Wasn’t Completed"
+title: "Обмен был отменен или не был завершен"
 date: 2018-06-01 00:02:00
 tags:
   - средства
   - средства
-  - stolen
+  - украдены
 categories:
   - 
     - swap
@@ -14,34 +14,34 @@ alias:
   - swap/swap-wasnt-completed-or-was-canceled.html
 ---
 
-# **Swap Was Canceled or Wasn’t Completed**
+# **Обмен был отменен или не был завершен**
 
-###### {% read_time title "Swap Was Canceled or Wasn't Completed" %} min read
+###### Время прочтения: {% read_time title "Обмен был отменен или не был завершен" %} мин.
 
 * * *
 
-Time-constricted transactions can be tough in times of high volume due to various factors, like the transaction queue, ongoing token sales, the current state of the network, etc.
+В периоды активных торгов провести ограниченные по времени транзакции может быть непросто из-за различных факторов, например, очереди транзакций, текущих продаж токенов, текущего состояния сети и т. д.
 
-If you sent coins or tokens to the specified swap address, but have not received your funds in return, please reach out to both support@myetherwallet.com and whichever exchange you completed the swap through. Their support emails are:
+Если вы отправили монеты или токены на указанный адрес обмена, но не получили свои средства, пожалуйста, напишите на адрес support@myetherwallet.com и на адрес биржи, где вы завершили обмен. Вот адреса их служб поддержки:
 
-* Bity - Their help center is integrated into their site
+* Bity — их справочный центр интегрирован в их сайт
 
-* Kyber Network - support@kyber.network
+* Kyber Network — support@kyber.network
 
-* Changelly - support@changelly.com
+* Changelly — support@changelly.com
 
-We recommend going back to our swap section and clicking the ‘Issue with your Swap? Contact support.’ link at the bottom of the page.
+Мы рекомендуем вернуться в наш раздел обмена и нажать на ссылку «Проблема с обменом? Обратитесь в службу поддержки» в нижней части страницы.
 
-This will autofill all the information we need to resolve your claim, including:
+При этом будет автоматически заполнена вся информация, необходимая нам для разрешения вашей проблемы, включая:
 
-* REF ID#:
+* Референс-номер:
 
-* Amount to send:
+* Сумма отправки:
 
-* Amount to receive:
+* Сумма получения:
 
-* Payment Address:
+* Платежный адрес:
 
-* Receiving Address:
+* Адрес получателя:
 
-If you do not include this information, we can still help. But having that from the beginning really helps to speed up the process.
+Если вы не укажете эту информацию, мы все равно сможем помочь. Но если она изначально будет указана, то это поможет ускорить процесс.
