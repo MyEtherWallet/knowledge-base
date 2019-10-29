@@ -1,49 +1,49 @@
 ---
-title: "What is a Mnemonic Phrase?"
+title: "Что такое мнемоническая фраза?"
 date: 2018-06-01 00:06:00
 tags:
-  - mnemonic
-  - phrase
+  - мнемоническая
+  - фраза
 categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Security And Privacy"
+primary_category_display_name: "Безопасность и конфиденциальность"
 ---
 
-# **What is a Mnemonic Phrase?**
+# **Что такое мнемоническая фраза?**
 
-#### **Mnemonic phrases are not a recommended way of accessing MyEtherWallet (MEW). For more information on other methods of access, check out our article on [how to access a wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).**
+#### **Мнемонические фразы не рекомендуется использовать для доступа к MyEtherWallet (MEW). Для получения дополнительной информации о других способах доступа ознакомьтесь с нашей статьей о том, [как получить доступ к кошельку](/@@@@@@/getting-started/how-to-access-your-wallet/).**
 
-###### {% read_time title "What is a Mnemonic Phrase?" %} min read
+###### Время прочтения: {% read_time title "Что такое мнемоническая фраза?" %} мин.
 
 * * *
 
-Mnemonic phrases, also known as ‘seed words’ or 'recovery phrases', are ordered lists of 12 - 24 words which bring you to specific wallet addresses. These are typically used for recovery, and they are not meant to be used as the main method of access for anyone’s wallet. These phrases offer direct access to one's wallet, so they should be treated carefully.
+Мнемонические фразы, также известные как «сид-слова» или «фразы восстановления», представляют собой упорядоченные списки из 12–24 слов, которые указывают на определенные адреса в кошельке. Обычно они используются для восстановления и не предназначены для использования в качестве основного метода доступа к кошельку. Эти фразы дают прямой доступ к кошельку, поэтому с ними нужно обращаться осторожно.
 
-They can sometimes be paired with a password as well, for added encryption and security. When wallets offer this service, the password is used as an extra added word to the end of the phrase. For example, 12-word phrases become 13 words, and 24-word phrases become 25 words. MyEtherWallet offers this service, but MEWconnect does not. This means that any mnemonic phrases generated directly on MEW's website will have an extra word at the end. But if you are restoring a MEWconnect recovery phrase on the web interface, you should leave the password field blank.
+Иногда они могут сочетаться с паролем для дополнительного шифрования и безопасности. Когда кошельки предлагают эту услугу, пароль используется в качестве дополнительного слова в конце фразы. Например, фразы из 12 слов становятся фразами из 13 слов, а фразы из 24 слов — фразами из 25 слов. MyEtherWallet предлагает эту функцию, а MEWconnect — нет. Это означает, что любые мнемонические фразы, сгенерированные непосредственно на веб-сайте MEW, будут иметь в конце дополнительное слово. Но если вы используете фразу восстановления MEWconnect в веб-интерфейсе, вам нужно оставить поле пароля пустым.
 
-Mnemonic phrases are just as sensitive as your private key, in terms of privacy. With your phrase, anyone can permanently access your wallet. These phrases cannot be changed, so keeping them safe is crucial.
+С точки зрения конфиденциальности мнемонические фразы нужно хранить так же бережно, как и ваш закрытый ключ. С помощью вашей фразы любой может получить постоянный доступ к вашему кошельку. Эти фразы не могут быть изменены, поэтому крайне важно хранить их в безопасности.
 
-## __Popular wallets that offer mnemonic phrases for recovery are: __
+## __Популярные кошельки, которые предлагают мнемонические фразы для восстановления: __
 
-* MEW! As well as our companion smartphone app, MEWconnect.
-* Hardware wallets, such as Ledger Nano S or Trezor.
-* MetaMask, JAXX, and various other ETH wallets.
+* MEW! А также наше приложение для смартфонов MEWconnect.
+* Аппаратные кошельки, например, Ledger Nano S или Trezor.
+* MetaMask, JAXX и другие ETH-кошельки.
 
-## **Here are some tips for using Mnemonic phrases:**
+## **Вот несколько советов по использованию мнемонических фраз:**
 
-* [Use MEW offline](/@@@@@@/offline/using-mew-offline/)!
-* Don’t keep the words on a computer, write them down on physical paper.
-* Write them down again. And one more time. Keep these lists in easy-to-remember, separate locations.
-* Make sure your spelling is 100% correct. Always double-check your work.
-* Order is important – the phrase will not work in the wrong sequence.
-* Avoid hand-typing your phrase into computers that are connected to the internet.
+* [Используйте MEW в офлайн-режиме](/@@@@@@/offline/using-mew-offline/)!
+* Не храните слова на компьютере — лучше запишите их на бумаге.
+* Запишите их снова. И еще раз. Храните эти списки в легко запоминающихся отдельных местах.
+* Убедитесь, что все слова написаны на 100% верно. Всегда проверяйте свою работу.
+* Порядок важен — фраза не сработает, если слова будут указаны в неправильном порядке.
+* Избегайте ручного ввода фразы на компьютерах, которые подключены к интернету.
 
-## **My phrase brings me to unfamiliar addresses. Why?**
+## **Моя фраза генерирует незнакомые адреса. Почему?**
 
-* Think back to where you first created the wallet. Did the service require a password (13th or 25th word)? 
-    * If it did, try entering your mnemonic phrase with the password you made.
-    * If you already tried that, try entering the phrase leaving the password field blank.
-* If neither of these options worked, double-check the order and spelling of all words.
-* If you're still stuck, reach out to our support team. We're always happy to help.
+* Вспомните, где вы впервые создали кошелек. Требовался ли там пароль (13-е или 25-е слово)? 
+    * Если да, то попробуйте ввести свою мнемоническую фразу со своим паролем.
+    * Если вы уже так делали, попробуйте ввести фразу, оставив поле пароля пустым.
+* Если ни один из этих вариантов не сработал, перепроверьте порядок и написание всех слов.
+* Если ничего не сработало, то обратитесь в нашу службу поддержки. Мы всегда рады помочь.
