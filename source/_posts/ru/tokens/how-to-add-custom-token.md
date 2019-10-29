@@ -1,89 +1,89 @@
 ---
-title: "How to Add a Custom Token"
+title: "Как добавить свой токен"
 date: 2018-06-01 00:02:00
 tags:
-  - пользовательский
+  - свой
   - токен
-  - adding
-  - add
+  - добавление
+  - добавить
 categories:
   - 
     - ЧЗВ
   - 
     - токен
 primary_category: токен
-primary_category_display_name: "Tokens"
+primary_category_display_name: "токены"
 alias:
   - send/adding-new-token-and-sending-custom-tokens.html
 ---
 
-# **How to Add a Custom Token**
+# **Как добавить свой токен**
 
-###### {% read_time title "How to Add a Custom Token" %} min read
+###### Время прочтения: {% read_time title "Как добавить свой токен" %} мин.
 
 * * *
 
-Any ERC20 token can be added to your local MEW interface by following these instructions.
+Любой токен ERC20 можно добавить в локальный интерфейс MEW, следуя этим инструкциям.
 
-## **Make sure it isn’t already a default token**
+## **Убедитесь, что он уже не установлен в качестве токена по умолчанию**
 
-First you’ll want to make sure your token isn’t already listed in our interface.
+Сначала вы должны убедиться, что вашего токена нет в нашем интерфейсе.
 
-**Step 1.** [Access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).
+**Шаг 1.** [Зайдите в свой кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
 <img src="/images/posts/tokens/Custom1.png" width="85%" />
 
-**Step 2.** Search our default token list for the token you are looking for.
+**Шаг 2.** Попробуйте найти свой токен в нашем списке токенов по умолчанию.
 
-* If you see the token, but don’t see a balance, it’s possible our default listing is for a token with the same symbol but a different contract address. In this case, continue with these steps as if you didn’t see it in the list.
+* Если вы видите токен, но не видите баланса, возможно, у нас размещен токен с тем же символом, но с другим адресом контракта. В этом случае продолжайте выполнять эти шаги, как если бы вы не нашли его в списке.
 
-**Step 3.** If you don’t see your token, continue with this article.
+**Шаг 3.** Если вы не нашли свой токен, то продолжайте читать эту статью.
 
-## **Looking for the token’s information**
+## **Поиск информации о токене**
 
-You will need three pieces of information to add a custom token with our interface: the contract address, decimal count, and symbol. All of this information can be found via an Ethereum blockchain explorer, like Etherscan.io or Ethplorer.io. We will show how to find this via Etherscan.io.
+Для добавления токена в наш интерфейс вам понадобятся три параметра: адрес контракта, число знаков после запятой и символ. Всю эту информацию можно найти с помощью проводника блокчейна Ethereum, например Etherscan.io или Ethplorer.io. Мы покажем, как ее найти через Etherscan.io.
 
-**Step 1.** Head to [Etherscan](https://etherscan.io).
+**Шаг 1.** Зайдите на [Etherscan](https://etherscan.io).
 
 <img src="/images/posts/tokens/Custom2.png" width="85%" />
 
-**Step 2.** If you have a balance of the token you are trying to add, search for your public address (0x...) in the search bar.
+**Шаг 2.** Если у вас есть баланс токена, который вы хотите добавить, то найдите свой открытый адрес (0x...) при помощи строки поиска.
 
-* If you do not have a balance and would like to add the token before receiving it, search for the token in the search bar. Make sure you find the correct token, or you will be adding another token to your list.
-* There is no harm in sending your ERC20 token to your address before adding it as a custom token. In fact, this may make it easier to find via etherscan.
+* Если у вас нет баланса и вы хотите добавить токен до его получения, найдите его при помощи строки поиска. Убедитесь, что вы нашли правильный токен — в противном случае вы добавите в свой список другой токен.
+* Вы можете отправить свой токена ERC20 на свой адрес перед тем, как добавить его. На самом деле это может облегчить поиск через etherscan.
 
 <img src="/images/posts/tokens/Custom3.png" width="60%" />
 
-**Step 3.** Find your token in the token balances dropdown. Select the token to be taken to a token information screen.
+**Шаг 3.** Найдите свой токен в раскрывающемся списке. Выберите токен, и вы попадете на экран информации о токене.
 
 <img src="/images/posts/tokens/Custom4.png" width="85%" />
 
-**Step 4.** Here, you will find the token’s contract address and decimal count to the right of the interface. Remember the decimal count, and click on the contract address to be taken to the token’s main screen.
+**Шаг 4.** Справа от интерфейса вы найдете адрес контракта токена и число знаков после запятой. Запомните число знаков после запятой, а затем нажмите на адрес договора, чтобы перейти на главный экран токена.
 
 <img src="/images/posts/tokens/Custom5.png" width="70%" />
 
-**Step 5.** Copy this address to your clipboard, and head back to MEW. At the top of the token list, click ‘+ Custom Tokens’ to bring up the custom token addition screen.
+**Шаг 5.** Скопируйте этот адрес в буфер обмена и вернитесь в MEW. В верхней части списка токенов нажмите «+ свои токены», чтобы открыть экран добавления своих токенов.
 
 <img src="/images/posts/tokens/Custom6.png" width="50%" />
 
-**Step 6.** Paste the contract address into the top field, input the token’s symbol (abbreviation) into the second field, and enter the decimal count last. Then click ‘Save’. You’re done!
+**Шаг 6.** Вставьте адрес контракта в верхнее поле, укажите символ токена (его сокращение) во втором поле и наконец введите число знаков после запятой. Затем нажмите «Сохранить». Все готово!
 
-## **Распространенные проблемы**
+## **Частые проблемы**
 
-#### *“Token Already Exists!”*
+#### *«Токен уже существует!»*
 
 <img src="/images/posts/tokens/Custom7.png" width="50%" />
 
-If you see this error, there is a simple fix for it. Re-enter your custom token information, but put a ‘2’ after the symbol. I.e. If the token’s symbol is ‘XYZ’, enter is as ‘XYZ2’.
+Если вы увидите эту ошибку, то ее можно легко исправить. Введите информацию о своем токене еще раз, но поставьте «2» после символа. Например, если символ токена — «XYZ», то укажите «XYZ2».
 
 <img src="/images/posts/tokens/Custom8.png" width="50%" />
 
-If you still get this error after submitting it with the modified symbol, then your token is likely already a default token. Try searching the token list again for the symbol. If you see it with a balance of 0, but etherscan.io shows a balance, then you’ll likely need to change networks to another ETH node, in the upper right-hand corner.
+Если вы все еще видите эту ошибку после отправки токена с измененным символом, то возможно, что ваш токен уже является токеном по умолчанию. Попробуйте снова поискать его символ в списке токенов. Если он отображается с нулевым балансом, но на etherscan.io есть положительный баланс, то вам, вероятно, придется поменять узел ETH в верхнем правом углу.
 
-## **My custom tokens are disappearing!**
+## **Мои добавленные токены исчезают!**
 
-If your custom tokens are disappearing every time you access our interface, make sure that you do not have a cache-clearing software installed (i.e. CCleaner). Your custom token information is stored locally in your browser, so this software will clear this information and require you to re-submit the token every time you access your wallet.
+Если токены, которые вы добавили, исчезают при каждом доступе к нашему интерфейсу, убедитесь, что у вас не установлено программное обеспечение для очистки кэша (например, CCleaner). Ваша пользовательская информация о токене хранится локально в вашем браузере, поэтому эта программа удалит эту информацию, и вам нужно будет добавлять токен при каждом доступе к кошельку.
 
-## **I’d like it to be a default token!**
+## **Я хочу, чтобы он стал токеном по умолчанию!**
 
-We are always happy to support new tokens in our default list. To achieve this, simply submit a pull request to [our repo on GitHub](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth). For more information on this process, visit our article on [how to add a default token](/@@@@@@/tokens/adding-token-as-a-default/).
+Мы всегда рады добавить в наш список токенов по умолчанию новые токены. Для этого просто отправьте pull-запрос в [наш репозиторий на GitHub](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth). Для получения дополнительной информации об этом процессе прочитайте нашу статью о том, [как добавить токен по умолчанию](/@@@@@@/tokens/adding-token-as-a-default/).
