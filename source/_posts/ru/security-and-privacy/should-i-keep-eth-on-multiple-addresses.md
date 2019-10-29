@@ -1,33 +1,33 @@
 ---
-title: "Should I Keep My ETH and ERC20 Tokens on Multiple Addresses?"
+title: "Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?"
 date: 2018-06-01 00:04:00
 tags:
   - eth
   - erc
   - erc20
-  - Tokens
-  - multiple
-  - addresses
-  - address
+  - Токены
+  - несколько
+  - адресов
+  - адрес
 categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Security And Privacy"
+primary_category_display_name: "Безопасность и конфиденциальность"
 alias:
   - addresses/creating-new-accounts-for-eth-and-tokens.html
 ---
 
-# **Should I Keep My ETH and ERC20 Tokens on Multiple Addresses?**
+# **Нужно л мне хранить свои токены ETH и ERC20 на нескольких адресах?**
 
-###### {% read_time title "Should I Keep My ETH and ERC20 Tokens on Multiple Addresses?" %} min read
+###### Время прочтения: {% read_time title "Нужно л мне хранить свои токены ETH и ERC20 на нескольких адресах?" %} мин.
 
 * * *
 
-MyEtherWallet (MEW) is a front-end interface that enables direct interaction with the Ethereum blockchain. Any Ethereum address (0x….) can hold both ETH and ERC20 tokens. MEW allows users to manage a variety of different funds on a single address.
+MyEtherWallet (MEW) является внешним интерфейсом, который обеспечивает прямое взаимодействие с блокчейном Ethereum. Любой адрес Ethereum (0x….) может содержать как токены ETH, так и ERC20. MEW позволяет пользователям управлять различными средствами на одном адресе.
 
-Many exchanges will give separate addresses for separate tokens, but this is not necessary on MEW. Whether you store all your funds on one address or spread your crypto portfolio across multiple addresses is ultimately up to you.
+Многие биржи дают отдельные адреса для отдельных токенов, но в MEW это не обязательно. В конечном счете вам решать, хранить ли вы все свои средства на одном адресе или же распределить свой портфель криптовалют по нескольким адресам.
 
-Some users prefer to have their funds distributed across multiple addresses for the purposes of security, organization, or personal preference. Others find that keeping track of one wallet is easier. We suggest using whichever method best fits your needs.
+Некоторые пользователи распределяют свои средства по нескольким адресам в целях безопасности, организации или же исходя из личных предпочтений. Другие считают, что следить за одним кошельком проще. Мы предлагаем использовать тот метод, который лучше всего соответствует вашим потребностям.
 
-However, remember that all Ethereum blockchain transactions require gas, which is always paid in ETH. We recommend having at least .01 ETH on all your addresses, for sending transactions when needed. Also, make sure to keep all your information organized. The more addresses you have, the easier it can be to lose track and forget essential details about your wallets.
+Однако следует помнить, что для всех транзакций на блокчейне Ethereum требуется газ, который всегда оплачивается в ETH. Мы рекомендуем иметь как минимум 0,01 ETH на всех адресах для отправки транзакций при необходимости. Кроме того, убедитесь, что вся ваша информация организована. Чем больше у вас адресов, тем сложнее будет за ними следить, и проще забыть важные сведения о ваших кошельках.
