@@ -1,123 +1,123 @@
 ---
-title: "Checking or Replacing a Transaction After it's Been Sent"
+title: "Проверка или замена транзакции после ее отправки"
 date: 2018-06-01 00:01:00
 tags:
-  - checking
-  - replacing
-  - transaction
-  - tokens
-  - sent
+  - проверка
+  - замена
+  - транзакция
+  - токены
+  - отправлено
 categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Transactions"
+primary_category_display_name: "Транзакции"
 alias:
   - transactions/check-status-of-ethereum-transaction.html
 ---
 
-# **Checking or Replacing a Transaction After it's Been Sent**
+# **Проверка или замена транзакции после ее отправки**
 
-###### {% read_time title "Checking or Replacing a Transaction After it's Been Sent" %} min read
-
-* * *
-
-## **Can I cancel, replace, or do anything once a transaction has been sent?**
-
-#### **99.999% of the time the answer is NO.**
-
-Once a transaction has been mined and is included in a block on the blockchain, it cannot be canceled or replaced.
-
-During times of normal volume, transactions are mined within seconds and do not spend any length of time in the transaction pool. There is simply not enough time to cancel or replace or override a transaction once it has been sent.
-
-## **However...**
-
-During times of extremely high volume (like we've seen during the Bancor and Status Token Contribution periods), transactions could be pending for hours, if not days, before being mined.
-
-During these times it is theoretically possible to replace an existing transaction with a new transaction with a higher gas price.
-
-The second transaction, theoretically, will be mined before the first transaction, effectively "canceling" the first transaction.
-
-The easiest way to do this is by sending a `0 ETH` transaction to your own address with the same nonce and higher gas price. This will "cancel" your first transaction.
-
-There is no guarantee this will work, nor that it will work every time. This tool is very, very new. Please use at your own risk.
+###### Время прочтения: {% read_time title "Проверка или замена транзакции после ее отправки" %} мин.
 
 * * *
 
-#### **Do not take this article or features on MyEtherWallet as an indication that you can cancel a transaction you accidentally sent to the wrong address, or get your ETH back once it has been sent.**
+## **Могу ли я отменить, заменить или сделать что-нибудь после отправки транзакции?**
 
-#### **It is only regarding finding, checking, and potentially replacing transactions that have been stuck in the transaction pool for very long period of time.**
+#### **В 99,999% случаев ответ будет «НЕТ».**
+
+Как только майнеры добавили транзакцию в блок, который был включен в блокчейн, то ее нельзя отменить или заменить.
+
+В периоды обычной нагрузки транзакции «майнятся» в течение нескольких секунд и не находятся в пуле транзакций долго. После отправки транзакции времени для ее отмены, замены или перезаписи просто нет.
+
+## **Однако…**
+
+В периоды чрезвычайно высокой нагрузки (например, такой, какая была в периоды создания токенов Bancor и Status) транзакции могут ожидать майнинга часами, если не днями.
+
+В это время теоретически возможно заменить существующую транзакцию новой транзакцией с более высокой ценой газа.
+
+Теоретически вторая транзакция будет добыта перед первой транзакцией, тем самым «отменяя» первую транзакцию.
+
+Самый простой способ сделать это — отправить транзакцию `0 ETH` на свой собственный адрес с тем же значением nonce и более высокой ценой газа. Это «отменит» вашу первую транзакцию.
+
+Нет никаких гарантий, что это сработает, или же что это будет работать каждый раз. Это очень новый инструмент. Пожалуйста, используйте его на свой страх и риск.
 
 * * *
 
-## **How to Check the Status of a Transaction**
+#### **Не воспринимайте эту статью или функции MyEtherWallet как указание того, что вы можете отменить транзакцию, которую вы случайно отправили на неправильный адрес, или же вернуть свои ETH после отправки.**
 
-**Step 1.** Head to an Ethereum blockchain explorer, like Etherscan.io or Ethplorer.io.
+#### **Это касается только поиска, проверки и возможной замены транзакций, которые находятся в пуле транзакций в течение длительного периода времени.**
 
-**Step 2.** Copy and paste the transaction hash into the search field provided.
+* * *
 
-**Step 3.** Details will appear depending on the state of the transaction. It could be...
+## **Как проверить статус транзакции**
 
-* **Success:** Your transaction was successfully mined and is on the blockchain. 
-    * If you see a red ( ! ) symbol, or a "BAD INSTRUCTION" or "OUT OF GAS" error message, it means that the transaction was not successfully sent. You cannot cancel or replace this transaction. Instead, send a new transaction. If you received an "Out of Gas" error, you should double the gas limit you specified originally.
-    * If you do not see any errors, your transaction was successfully sent. Your ETH or Tokens are where you sent them. If this balance has not been credited to your hosted wallet or exchange account 24 hours after sending, please contact that service. Send them the link to your transaction and ask them, nicely, to look into your situation.
-* **Transaction Not Found:** This transaction cannot be found. It's possible that it did not go through, or that it cannot be found in the Ethereum blockchain explorer you are using. Try using the other one (Etherscan.io or Ethplorer.io). If you still can't find it, it never went through.
-* **Pending:** Your transaction was located in the transaction pool of the explorer you are using. It is currently pending (waiting to be mined). There is a chance you can cancel or replace this transaction, but it's a very small chance.
+**Шаг 1.** Зайдите на сайт проводника блокчейна Ethereum, например, на Etherscan.io или Ethplorer.io.
 
-## **"Replacing" vs "Canceling" Transactions**
+**Шаг 2.** Скопируйте и вставьте хэш транзакции в предоставленное поле поиска.
 
-* **Canceling:** Generating a `0 ETH` transaction to your own address with the purpose of preventing a previous transaction from "going through" / "being mined" / being included in the blockchain.
-* **Replacing:** Generating a `XX ETH` transaction to someon else's address with the purpose of doing something (i.e. sending funds, revealing an ENS bid, etc.) while simultaneously not having a previous transaction go through.
+**Шаг 3.** Вы увидите информацию, которая будет зависеть от состояния транзакции. Это может быть…
 
-The reason we recommend 'Canceling' over 'Replacing' is that it is not guaranteed your second transaction will actually replace your first one. Your first transaction could still be mined first, invalidating your second transaction. Choosing to replace a transaction with a new one could lead to more confusion, headaches, and pending ETH, or ETH spent unnecessarily in the form of gas. This is especially true if your first transaction is mined anyways, which is possible.
+* **Успех:** Ваша транзакция была успешно добыта и находится в блокчейне. 
+    * Если вы видите красный символ ( ! ) или же сообщение об ошибке BAD INSTRUCTION или OUT OF GAS, то это означает, что транзакция не была успешно отправлена. Вы не можете отменить или заменить эту транзакцию. Вместо этого отправьте новую транзакцию. Если вы получили ошибку Out of Gas, вам нужно удвоить лимит газа, который вы указали изначально.
+    * Если вы не видите ошибок, то ваша транзакция была успешно отправлена. Ваш ETH или токены находятся там, куда вы их отправили. Если этот баланс не был зачислен на ваш кошелек или же аккаунт биржи спустя 24 часа после отправки, пожалуйста, свяжитесь с этим сервисом. Отправьте им ссылку на свою транзакцию и вежливо попросите их решить эту проблему.
+* **Транзакция не найдена:** эту транзакцию не удалось найти. Возможно, она не была отправлена или же ее нельзя найти в проводнике блокчейна Ethereum, который вы используете. Попробуйте использовать другой сервис (Etherscan.io или Ethplorer.io). Если вы все еще не можете ее найти, то это значит, что она не прошла.
+* **В ожидании:** ваша транзакция была расположена в пуле транзакций используемого вами проводника. В настоящее время она находится в ожидании (ожидает, пока ее добудут майнеры). Есть шанс, что вы можете отменить или заменить эту транзакцию, но он очень мал.
 
-## **Canceling a Transaction**
+## **«Замена» и «Отмена» транзакций**
 
-Canceling means generating a `0 ETH` transaction to your own address with the purpose of preventing a previous transaction from "going through" / "being mined" / "being included in the blockchain" / "being stuck".
+* **Отмена:** создание транзакции на сумму `0 ETH` на ваш собственный адрес с целью предотвращения «прохождения» предыдущей транзакции, ее добычи или же включения в блокчейн.
+* **Замена:** создание транзакции на сумму `XX ETH` на чужой адрес с целью что-то сделать (например, отправить средства, открыть ставку ENS и т. д.) и одновременно предотвратить «прохождение» предыдущей транзакции.
 
-**Step 1.** Head to Etherscan.io or Ethplorer.io.
+Причина, по которой мы рекомендуем «Отмену» вместо «Замены», заключается в том, что никто не может гарантировать, что ваша вторая транзакция фактически заменит первую. Первую транзакцию все еще могут добыть первой, что сделает вашу вторую транзакцию недействительной. Если вы замените транзакцию новой, то это может привести к еще большей путанице, головной боли, «застрявшим» ETH или же излишним тратам ETH на газ. Это особенно справедливо, если ваша первая транзакция все равно будет добыта — а это может случиться.
 
-**Step 2.** Paste your transaction hash.
+## **Отмена транзакции**
 
-* If it says pending, you can still try to cancel it.
-* If it says not found, click the button again, waiting a few minutes between each click. If that doesn't work, it's likely your transaction never went through.
-* If it says success, you cannot try to cancel it.
+Отмена означает создание транзакции на сумму `0 ETH` на ваш собственный адрес с целью предотвращения «прохождения» предыдущей транзакции, ее добычи, включения в ее блокчейн или же «застревания».
 
-**Step 3.** If it says pending, access the wallet you used to send the original transaction on MEW.
+**Шаг 1.** Зайдите на Etherscan.io или Ethplorer.io.
 
-**Step 4.** Send a transaction to yourself with a balance of `0 ETH`.
+**Шаг 2.** Вставьте хэш транзакции.
 
-**Step 5.** Click the 'Send Transaction' button.
+* Если статус транзакции — «В ожидании», то вы можете попробовать ее отменить.
+* Если транзакция не найдена, нажмите кнопку еще раз, подождав несколько минут между каждым нажатием. Если это не сработает, скорее всего, ваша транзакция не была отправлена.
+* Если статус транзакции — «Успешно», то вы не сможете ее отменить.
 
-**Step 6.** A dialog will appear. Click the "Yes, I'm Sure" button to send.
+**Шаг 3.** Если статус транзакции — «В ожидании», то зайдите в кошелек, который вы использовали для отправки исходной транзакции на MEW.
 
-**Step 7.** A new transaction hash will appear. Click the link to view it and see if you were successful. If it doesn't show up immediately, try refreshing in a few minutes.
+**Шаг 4.** Отправьте себе транзакцию на сумму `0 ETH`.
 
-## **Replacing a Transaction  
-(Advanced Users Only)**
+**Шаг 5.** Нажмите кнопку «Отправить транзакцию».
 
-Replacing a transaction means generating a `XX ETH` transaction to someone else's address with the purpose of doing something (i.e. sending a transaction, revealing an ENS bid, etc.) while simultaneously not having a previous transaction go through.
+**Шаг 6.** Появится диалоговое окно. Нажмите кнопку «Да, я уверен», чтобы отправить ее.
 
-**Step 1.** Unlock the wallet you used to send the original transaction.
+**Шаг 7.** Появится хэш новой транзакции. Нажмите на ссылку, чтобы просмотреть ее и узнать, получилось ли у вас. Если она не появится сразу, попробуйте обновить страницу через несколько минут.
 
-**Step 2.** Fill the 'To Address' field with whatever address you wish to send to.
+## **Замена транзакции  
+(только для опытных пользователей)**
 
-**Step 3.** Change the 'Amount' from `0` to the amount of ETH you wish to send.
+Замена транзакции означает создание транзакции на сумму `XX ETH` на чужой адрес с целью что-то сделать (например, отправить средства, открыть ставку ENS и т. д.) и одновременно предотвратить «прохождение» предыдущей транзакции.
 
-**Step 4.** If sending a standard ETH transaction, you can use `21000` for the gas limit. If sending tokens, raise it to around `100000`. Otherwise, just leave as is.
+**Шаг 1.** Разблокируйте кошелек, который вы использовали для отправки исходной транзакции.
 
-**Step 5.** For the 'Gas Price' field, raise this to 10 GWEI higher than your previous transaction. If this is an urgent matter, then you may choose to raise it. Keep in mind, the higher the gas price, the higher the transaction fee (Gas Limit * Gas Price).
+**Шаг 2.** Укажите в поле «Адрес получателя» любой адрес, на который вы хотите отправить средства.
 
-**Step 6.** Check and make sure the 'Nonce' field is the same as your previous transaction. If it is, leave the field as is. If you change this, it will not replace the transaction you are hoping it will replace.
+**Шаг 3.** Измените поле «Сумма» с `0` на сумму ETH, которую вы хотите отправить.
 
-**Step 7.** Click the 'Send Transaction' button.
+**Шаг 4.** При отправке стандартной ETH-транзакции вы можете использовать `21000` в качестве лимита газа. Если вы отправляете токены, увеличьте лимит примерно до `100000`. В противном случае просто оставьте значение по умолчанию.
 
-**Step 8.** A dialog will appear. Carefully review all information displayed. Click the "Yes, I'm Sure" button to send.
+**Шаг 5.** В поле «Цена газа» укажите значение на 10 GWEI выше, чем в предыдущей транзакции. Если это срочная транзакция, вы можете увеличить его. Имейте в виду, что чем выше цена газа, тем выше комиссия за транзакцию (лимит газа * цена газа).
 
-**Step 9.** A new transaction hash will appear. Click the link to view it and see if you were successful. If it doesn't show up immediately, try waiting a few minutes then refreshing.
+**Шаг 6.** Убедитесь, что в поле «Nonce» указано то же значение, что и в предыдущей транзакции. Если это так, то не меняйте значение в поле. Если вы измените его, то эта транзакция не заменит предыдущую.
 
-## **Final Notes**
+**Шаг 7.** Нажмите кнопку «Отправить транзакцию».
 
-* MEW does not receive any transaction fees. They are paid to the miners for including your transaction in a block. We are a free, open-source service.
-* The transaction pool varies from node to node. This means that a transaction may be pending in ETH (Infura.io)'s transaction pool, but not ETH (MyEtherWallet.com)'s transaction pool. For this reason, you should try all the ETH nodes we offer.
-* If possible, use the same computer / browser that you used to send the original transaction. We are working on further mitigating internal differences between our 10 nodes and their 10 transaction pools. For now, using the same computer / browser will increase the likelihood that you connect to the same transaction pool as before, if you are using the ETH (MyEtherWallet.com) node.
+**Шаг 8.** Появится диалоговое окно. Внимательно прочитайте всю показанную информацию. Нажмите кнопку «Да, я уверен», чтобы отправить транзакцию.
+
+**Шаг 9.** Появится хэш новой транзакции. Нажмите на ссылку, чтобы просмотреть ее и узнать, получилось ли у вас. Если она не появится сразу, попробуйте обновить страницу через несколько минут.
+
+## **Заключительные заметки**
+
+* MEW не получает комиссию за транзакции. Она выплачивается майнерам за включение вашей транзакции в блок. Мы — бесплатный сервис с открытым исходным кодом.
+* Пул транзакций меняется от узла к узлу. Это означает, что транзакция может находиться в состоянии ожидания в пуле транзакций узла ETH (Infura.io), но не в пуле транзакций узла ETH (MyEtherWallet.com). По этой причине вам следует попробовать все предлагаемые нами ETH-узлы.
+* По возможности используйте тот же компьютер и браузер, который вы использовали для отправки исходной транзакции. Мы работаем над дальнейшим уменьшением внутренних различий между нашими 10 узлами и их 10 пулами транзакций. А пока использование того же компьютера и браузера увеличит вероятность того, что вы подключитесь к тому же пулу транзакций, что и раньше, если вы используете узел ETH (MyEtherWallet.com).
