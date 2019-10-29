@@ -1,8 +1,8 @@
 ---
-title: "What is an ICO?"
+title: "Что такое ICO?"
 date: 2018-06-01 00:04:00
 tags:
-  - ЧЗВ
+  - частые вопросы
   - ico
 categories:
   - 
@@ -10,29 +10,29 @@ categories:
   - 
     - токен
 primary_category: токен
-primary_category_display_name: "Tokens"
+primary_category_display_name: "токены"
 alias:
   - faq/what-is-an-ico.html
 ---
 
-# **What is an ICO?**
+# **Что такое ICO?**
 
-###### {% read_time title "What is an ICO?" %} min read
+###### Время прочтения: {% read_time title "Что такое ICO?" %} мин.
 
 * * *
 
-ICO stands for 'Initial Coin Offering', also known as a 'token sale' or 'crowdsale'. It is an unregulated fundraising method for startups. Start-up companies use these funds to further develop and complete their blockchain based software projects. It is similar to an IPO (Initial Public Offering), in which investors purchase shares of a company.
+ICO — это сокращение фразы Initial Coin Offering («Первичное предложение монет»), также известное как «распродажа токенов» или «краудсейл». Это нерегулируемый способ сбора средств для стартапов. Стартапы используют эти средства для дальнейшей разработки и завершения своих проектов, основанных на блокчейне. Это похоже на IPO (Initial Public Offering, или же первичное публичное размещение акций), где инвесторы покупают акции компании.
 
-ICOs offer 'tokens' in return for users who support them by sending them ETH. When you give these ICO teams your ETH/BTC or other currencies, it means that you believe the technologies they are creating will bring value to the Ethereum community.
+ICO предлагают «токены» в обмен на то, что пользователи, которые поддерживают ICO, отправляют им ETH. Когда вы отправляете командам, проводящим ICO, свои ETH, BTC или другие валюты, это означает, что вы считаете, что создаваемые ими технологии принесут пользу сообществу Ethereum.
 
-In the beginning of an ICO, the leading team will explain their vision and will normally provide a 'white paper'. This white paper contains a lot of valuable information that you should read, even if you do not understand a lot of the technical terms. As long as you get a basic understanding of what the token is about, it will help in your decision making.
+В начале ICO ведущая команда объясняет свое видение и, как правило, предоставляет «белую книгу». Эта «белая книга» содержит много ценной информации, которую вы должны прочитать, даже если вы не понимаете многие технические термины. Это поможет вам в принятии решения, если вы получите общее представление о том, что этот токен собой представляет.
 
-Take note of the team and web developers behind the ICO. Reputable programmers and business people usually mean that the ICO is legitimate, and that it has a lot of potential. Sometimes, these teams recruit well known Facebook developers or managers/Google employees, this is when you know that the token team is truly creating something valuable.
+Обратите внимание на команду и веб-разработчиков, стоящих за ICO. Если в нем участвуют уважаемые программисты и бизнесмены, то обычно это значит, что ICO вполне легитимный и у него есть большой потенциал. Иногда эти команды нанимают известных разработчиков Facebook или же менеджеров и сотрудников Google — в этих случаях понятно, что команда действительно создает что-то ценное.
 
-It is crucial to do your research on an ICO that you are interested in. ICO hype in the community has caused many people and fake companies to create 'scam' ICOs, simply because it is easy to raise money due to the hype created around the token. Scam ICOs usually execute the 'pump and dump' method for gaining maximum profits. Creating hype around a token is fairly easy to do, and you should try your best not to let FOMO (Fear Of Missing Out) cloud your judgement. Hype can easily be created through posts on Reddit/Facebook/Slack/etc by people who are looking to make a quick buck with the pump and dump method.
+Крайне важно собрать информацию об интересующем вас ICO. Шумиха в сообществе привела к тому, что многие люди и фальшивые компании стали создавать мошеннические ICO просто из-за того, что благодаря шумихе вокруг токенов можно легко собрать деньги. Мошеннические ICO обычно используют метод «накачки и сброса» для получения максимальной прибыли. Создать шумиху вокруг токена довольно просто, и вы должны изо всех сил избегать FOMO (Fear Of Missing Out, или же боязни остаться в стороне), чтобы принимать обдуманные решения. Шумиху можно легко создать с помощью сообщений на Reddit / Facebook / Slack / и в других соцсетях от людей, которые хотят быстро заработать с помощью метода «накачки и сброса».
 
-**Pump and dump:** When a token is full of hype and no backbone or actual real world value, a lot of people will ride the hype wave up. Everyone will see that the token is performing exceptionally well on exchanges and buy in, but there are also people who are ready to dump massive amounts of the token back into the exchanges (hundreds of thousands of dollars worth of the token, sometimes millions of dollars worth). Selling massive amounts of tokens back into the market causes the price to plummet, and then everyone else starts to panic and sell off to cut of loses.
+**Накачка и сброс:** когда вокруг токена поднялся ажиотаж, но сам токен не имеет основы или же ценности в реальном мире, то многие будут покупать его на волне этого ажиотажа. Все увидят, что цена токена на биржах растет, и купят его, но при этой также есть люди, которые готовы выбросить огромное количество токенов обратно на биржи (токенов на сотни тысяч, а иногда и на миллионы долларов). Продажа огромного количества токенов приводит к падению цены, после чего остальные начинают паниковать и продавать токены, чтобы сократить убытки.
 
-The value of tokens/ETH/BTC/etc is all driven by the market. You have the ability to make the price go up or down. It follows the 'supply and demand' economic concept. If there are more people who want a token, but there is a limited supply of the token, the price increases. If no one wants the token, there is a surge of supply avaiable on the market, then the price decreases.
+Стоимость токенов, ETH, BTC и других криптовалют формируется рынком. У вас есть возможность заставить цену идти вверх или вниз. Она ведет себя в соответствии с экономической концепцией «спроса и предложения». Если множество людей хотят купить токены, но их число ограничено, то цена повышается. Если токен никому не нужен, а предложение на рынке увеличилось, то цена снижается.
 
-There are many successful and truly valuable technologies and concepts that have come out of ICOs, and that is a good thing. But you must always remain vigilant and do a lot of research before investing in anything.
+Есть множество успешных и действительно ценных технологий и концепций, которые появились благодаря ICO, и это хорошо. Но вы должны всегда быть начеку и тщательно все изучить, прежде чем инвестировать во что-либо.
