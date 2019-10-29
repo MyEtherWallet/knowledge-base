@@ -1,31 +1,31 @@
 ---
-title: "My Transaction Failed. Why Was I Charged?"
+title: "Моя транзакция не «прошла». Почему с меня списали средства?"
 date: 2018-06-01 00:06:00
 tags:
-  - transactions
-  - failed
-  - fail
-  - charged
-  - charge
+  - транзакции
+  - не прошла
+  - ошибка
+  - списали
+  - списать
 categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Transactions"
+primary_category_display_name: "Транзакции"
 alias:
   - transactions/transaction-fee-not-refunded.html
 ---
 
-# **My Transaction Failed. Why Was I Charged?**
+# **Моя транзакция не «прошла». Почему с меня списали средства?**
 
-###### {% read_time title "My Transaction Failed. Why Was I Charged?" %} min read
+###### Время прочтения: {% read_time title "Моя транзакция не «прошла». Почему с меня списали средства?" %} мин.
 
 * * *
 
-The Ethereum network requires gas to execute transactions. Ether (ETH) is the fuel used for this purpose. When you send tokens, interact with a contract, send ETH, or do anything else on the blockchain, you must pay for that computation. That payment is calculated in gas, and gas is always paid in ETH.
+Сети Ethereum для выполнения транзакций нужен газ. Эфир (ETH) — это топливо, которое используется для этой цели. Когда вы отправляете токены, взаимодействуете с контрактом, отправляете ETH или же совершаете другие действия в блокчейне, то вы должны заплатить за это вычисление. Этот платеж выражается в газе, а газ всегда оплачивается в ETH.
 
-You are paying for the computation, regardless of whether your transaction succeeds or fails. Even if it fails, the miners must validate and execute your transaction, which takes computational power. You must pay for that computation, just like you would pay for a successful transaction.
+Вы платите за вычисления независимо от того, успешно ли была завершена ваша транзакция или нет. Даже если она не «пройдет», майнеры должны проверить и выполнить вашу транзакцию, что требует вычислительной мощности. Вы должны заплатить за эти вычисления — так же, как вы заплатили бы за успешную транзакцию.
 
-You can see your transaction fee (gas limit * gas price) in ETH & USD when you search for your transaction on Etherscan.io.
+Вы можете посмотреть сбор за транзакцию (лимит газа * цена газа) в ETH и USD, когда вы выполните поиск своей транзакции на Etherscan.io.
 
-This is **not** a fee that MyEtherWallet, or any other service provider, receives. This fee is paid to miners for mining transactions, validating them into blocks, and securing the blockchain.
+Это **не** сбор, который получает MyEtherWallet или любой другой поставщик таких услуг. Этот сбор выплачивается майнерам за майнинг транзакций, проверку и добавление их в блоки и защиту блокчейна.
