@@ -22,20 +22,20 @@ primary_category_display_name: "Security And Privacy"
 
 #### **We do not suggest creating a new wallet with the mnemonic phrase option on our website, unless you are planning to [use MEW offline](/@@@@@@/offline/using-mew-offline).**
 
-When you’re creating a new wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include a password. This password is essentially an extra word of your own choosing tacked onto the end of your phrase. For example, if you’re making a 24 word mnemonic phrase, this will act as a **mandatory** 25th word every time you want to use this phrase.
+When you’re creating a new wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include a password. По сути этот пароль является дополнительным словом по вашему выбору, прикрепленным к концу вашей фразы. Например, если вы составляете мнемоническую фразу из 24 слов, он будет действовать как **обязательное** 25-е слово каждый раз, когда вы захотите использовать эту фразу.
 
-**The upside to this is extra security.** If someone got a hold of your 24 word mnemonic phrase, they would still need your password to act as a 25th word in order to access your funds. This greatly increases the security of your phrase.
+**Преимущество этого — дополнительная безопасность.** Если кто-то узнает вашу мнемоническую фразу из 24 слов, то для доступа к вашим средствам ему все равно понадобится ваш пароль, который будет действовать как 25-е слово. Это значительно повышает безопасность вашей фразы.
 
-**The downside to this is integration with other platforms.** Almost every other Ethereum wallet interface requires your mnemonic phrase to be in a 24-word format and does not offer the password option. Therefore, restoring this phrase through other Ethereum wallets can prove difficult. This password becomes necessary to see your wallet, so you will not be able to regain access through non-supporting wallets.
+**Недостаток этого — проблемы интеграции с другими платформами.** Почти любой другой интерфейс кошелька Ethereum требует, чтобы ваша мнемоническая фраза состояла из 24 слов, и не предлагает указать пароль. Поэтому восстановление этой фразы с помощью других кошельков Ethereum может оказаться сложным. Этот пароль необходим для просмотра вашего кошелька, поэтому вы не сможете восстановить доступ через кошельки, которые его не поддерживают.
 
-In the end, the choice is yours.
+В конце концов, выбор за вами.
 
-## **Accessing or Restoring a Wallet**
+## **Доступ к кошельку или его восстановление**
 
-#### **We do not suggest accessing or restoring your wallet with your mnemonic phrase directly on our website, unless you are [using MEW offline](/@@@@@@/offline/using-mew-offline).**
+#### **Мы не рекомендуем обращаться к своему кошельку или восстанавливать его с помощью мнемонической фразы непосредственно на нашем веб-сайте, если только вы не [используете офлайн-версию MEW](/@@@@@@/offline/using-mew-offline).**
 
-When accessing or restoring your wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include a password. Most of the time, the answer is no.
+Когда вы получаете доступ к своему кошельку или восстанавливаете его с помощью опции «Мнемоническая фраза» на MEW, вы можете выбрать, указывать пароль или нет. В большинстве случаев ответ будет «нет».
 
-Most apps or extensions that use Mnemonic phrases, such as MEWconnect, MetaMask, and hardware wallets, do not include a password in their mnemonic phrase. They ask you to input a password for app access, but this is different than requiring a password for recovery purposes.
+Большинство приложений или расширений, в которых используются мнемонические фразы, например, MEWconnect, MetaMask и аппаратные кошельки, не включают пароль в свою мнемоническую фразу. Они просят вас ввести пароль для доступа к приложению, но это отличается от пароля для восстановления.
 
-If you made your wallet directly on MyEtherWallet.com, you may need to use the password you chose during creation to restore your wallet. However, all other wallets will **not** require the password. Simply toggle this option to the ‘off’ position and proceed with your recovery process.
+Если вы создали свой кошелек непосредственно на MyEtherWallet.com, то для восстановления кошелька вам, возможно, нужно будет использовать пароль, который вы выбрали при его создании. Однако для всех остальных кошельков пароль **не** требуется. Просто выключите эту опцию и продолжите процесс восстановления.
