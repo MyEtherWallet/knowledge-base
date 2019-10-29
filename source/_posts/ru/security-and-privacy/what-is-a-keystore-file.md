@@ -1,52 +1,52 @@
 ---
-title: "What is a Keystore/JSON file?  Can I Change my Password?"
+title: "Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?"
 date: 2018-06-01 00:05:00
 tags:
-  - Keystore
+  - Хранилище ключей
   - JSON
-  - Change
-  - Password
+  - Сменить
+  - Пароль
 categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Security And Privacy"
+primary_category_display_name: "Безопасность и конфиденциальность"
 alias:
   - security/keystore-file.html
 ---
 
-# **What is a Keystore/JSON file? Can I Change my Password?**
+# **Что такое файл JSON, или же файл хранилища ключей? Могу ли я сменить свой пароль?**
 
-#### **Keystore/JSON files are not a recommended way of accessing MyEtherWallet (MEW). For more information on other methods of access, check out our article on [how to access a wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).**
+#### **Файлы хранилища ключей, или же JSON-файлы не рекомендуется использовать для получения доступа к MyEtherWallet (MEW). Для получения дополнительной информации о других способах доступа ознакомьтесь с нашей статьей о том,[как получить доступ к кошельку](/@@@@@@/getting-started/how-to-access-your-wallet/).**
 
-###### {% read_time title "What is a Keystore/JSON file? Can I Change my Password?" %} min read
+###### Время прочтения: {% read_time title "Что такое файл JSON, или же файл хранилища ключей? Могу ли я сменить свой пароль?" %} мин.
 
 * * *
 
-Your Keystore/JSON file holds an encrypted version of your private key, which is simply your private key encoded into a cool, secret string of characters. Take, for example, the word 'apple'. If you encrypted this word with a 4-character difference down the alphabet, it would look something like 'dssoh'. At face value, you'd have no idea what 'dssoh' meant. However, if you gave someone this word and told them the way you encrypted it, they could then decode it back to the world 'apple'! This is a **very** simplified version of how encryption works, but it gets the point across.
+Ваш файл хранилища ключей, или же JSON-файл, содержит зашифрованную версию вашего закрытого ключа — это просто ваш закрытый ключ, закодированный в классную секретную строку символов. Взять, к примеру, слово apple. Если зашифровать это слово с разницей в 4 символа по алфавиту, оно будет выглядеть как dssoh. На первый взгляд совершенно непонятно, что означает dssoh. Однако если вы покажете кому-то это слово и расскажите, как вы его зашифровали, то этот человек сможет расшифровать его и получить слово apple! Это **очень** упрощенная версия того, как работает шифрование, но она передает основную суть.
 
-When you enter your password upon generation of your wallet, it takes your password and uses it to encrypt your Private Key into a Keystore/JSON file. The result is a file that looks a lot like gibberish if you open it, (which there is no reason to do, do not open your JSON file!). This file simply holds your encrypted private key within it, which is why you have to use your chosen password to unlock your wallet via this method. You cannot change your password without generating an entirely new Keystore/JSON file.
+Когда вы указываете свой пароль при создании кошелька, то он используется для шифрования вашего закрытого ключа в файл хранилища ключей, или же JSON-файл. Если открыть этот файл, то вы увидите тарабарщину (лучше этого не делать — не открывайте свой JSON-файл!). Этот файл просто содержит ваш зашифрованный закрытый ключ, поэтому чтобы разблокировать свой кошелек с помощью этого метода, вам нужно использовать выбранный пароль. Вы не можете изменить свой пароль, не создав совершенно новый файл хранилища ключей, или же JSON-файл.
 
-It’s important to note that the strength of your password is directly related to the integrity of your Keystore/JSON file. If you choose a weak password, and a hacker gets hold of your encrypted key, they can bruteforce it until they discover what password you used. Pick a strong password for a strong encryption!
+Важно отметить, что надежность вашего пароля напрямую связана с целостностью файла хранилища ключей, или же JSON-файла. Если вы выберете слабый пароль, и хакер завладеет вашим зашифрованным ключом, он сможет подбирать его до тех пор, пока не обнаружит, какой пароль вы использовали. Выберите надежный пароль, чтобы шифрование было надежным!
 
-## **To change your Keystore/JSON file + password:**
+## **Чтобы изменить файл хранилища ключей и пароль:**
 
-As mentioned above, you cannot change your password without generating a completely new JSON file.
+Как указано выше, вы не можете изменить свой пароль, не создав совершенно новый файл JSON.
 
-**Step 1.** Download and install our [MEW Chrome Extension](https://chrome.google.com/webstore/detail/myetherwallet/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en).
+**Шаг 1.** Загрузите и установите наше [расширение MEW для Chrome](https://chrome.google.com/webstore/detail/myetherwallet/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en).
 
-**Step 2.** In the extension, add a ‘new wallet’ by entering your private key.
+**Шаг 2.** В расширении добавьте новый кошелек, указав свой закрытый ключ.
 
-* This does not mean generating an entirely new wallet. It means to add your existing wallet as a ‘new wallet’ into the extension.
+* Это не означает создание совершенно нового кошелька. Это означает, что вы добавите свой существующий кошелек в качестве нового кошелька в расширение.
 
-**Step 3.** Enter a strong password, and save the wallet.
+**Шаг 3.** Введите надежный пароль и сохраните кошелек.
 
-* This will be the new password for your JSON file, so choose wisely.
+* Это будет новый пароль для вашего JSON-файла, поэтому выбирайте его с умом.
 
-**Step 4.** Head to the ‘My Wallets’ area of the extension and click the small icon that looks like an eye. It should say ‘View’ when hovered over.
+**Шаг 4.** Перейдите в раздел «Мои кошельки» и нажмите на маленький значок, похожий на глаз. Если вы остановите на нем курсор, то должна появиться надпись «Посмотреть».
 
-**Step 5.** Enter in the password you just made.
+**Шаг 5.** Введите только что созданный пароль.
 
-**Step 6.** You will be taken to an area that shows your wallet’s information. You can download a new Keystore/JSON file from this area, and use that for future access.
+**Шаг 6.** Вы попадете в раздел, где отображается информация о вашем кошельке. В этом разделе вы можете скачать новый файл хранилища ключей (JSON-файл) и использовать его для доступа в будущем.
 
-After downloading the new Keystore/JSON file, you can choose to continue using our Chrome Extension, or go back to using regular MEW. However, since you’re using a Keystore/JSON file, we highly suggest learning [how to use MEW offline](/@@@@@@/offline/offline-mew-looks-weird/), for the security of your information.
+После загрузки нового файла хранилища ключей (JSON-файла) вы сможете продолжить использовать наше расширение для Chrome или же вернуться к использованию обычного MEW. Однако, поскольку вы используете файл хранилища ключей (JSON-файл), мы настоятельно рекомендуем научиться [использовать MEW в офлайн-режиме](/@@@@@@/offline/offline-mew-looks-weird/) для обеспечения безопасности вашей информации.
