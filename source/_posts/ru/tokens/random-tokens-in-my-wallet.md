@@ -1,11 +1,11 @@
 ---
-title: "Why are Random Tokens Appearing in my Wallet?"
+title: "Почему в моем кошельке появляются случайные токены?"
 date: 2018-06-01 00:03:00
 tags:
-  - random
+  - случайный
   - токен
-  - tokens
-  - appearing
+  - токены
+  - появляются
   - кошелек
 categories:
   - 
@@ -13,21 +13,21 @@ categories:
   - 
     - токен
 primary_category: токен
-primary_category_display_name: "Tokens"
+primary_category_display_name: "токены"
 alias:
   - tokens/airdropped-tokens.html
 ---
 
-# **Why are Random Tokens Appearing in my Wallet?**
+# **Почему в моем кошельке появляются случайные токены?**
 
-###### {% read_time title "Why are Random Tokens Appearing in my Wallet?" %} min read
+###### Время прочтения: {% read_time title "Почему в моем кошельке появляются случайные токены?" %} мин.
 
 * * *
 
-Lately, a lot of blockchain projects on Ethereum have been 'airdropping' tokens in the wallets of users. This is done to either spread the distribution of tokens, or to advertise the token to users.
+В последнее время многие блокчейн-проекты на Ethereum стали добавлять токены в кошельки пользователей при помощи airdrop-раздачи. Это делается для распространения токенов или же для рекламы токена пользователям.
 
-The amount of airdropped tokens you receive depends (in a lot of airdrops) on how much Ethereum you had at a specified block. Some airdrops drop the same amount of tokens to everyone.
+Количество токенов, которые вы получите, зависит (во многих airdrop-раздачах) от того, сколько Ethereum у вас было в конкретном блоке. Некоторые airdrop-раздачи дают всем одинаковое число токенов.
 
-That said, your Ethereum address is public on the blockchain, which means that anyone is able to send you ETH and/or tokens. If you want to find more information about airdropped tokens you received in your wallet, you can look them up on the internet for more information.
+При этом ваш Ethereum-адрес явно виден на блокчейне, а это означает, что любой может отправить вам ETH и/или токены. Если вы хотите найти больше информации о токенах, которые вы получили при помощи airdrop-раздачи, то поищите токен в интернете.
 
-#### __If an airdrop website is asking for your private key, it's a scam and they are trying to steal your funds._
+#### __Если веб-сайт airdrop-раздачи запрашивает ваш закрытый ключ, то это мошенники, которые пытаются украсть ваши средства._
