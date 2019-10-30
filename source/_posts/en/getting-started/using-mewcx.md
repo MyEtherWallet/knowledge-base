@@ -24,9 +24,9 @@ alias:
 ###### {% read_time title "MEW CX User Guide" %} min read
 ***
 
-MEW CX allows users to have the entirety of MEW in a bite-sized Chrome Extension accessible from their toolbar. Create and manage your wallets, interact with DApps, and send transactions quick using our QuickSend feature.
+MEW CX allows users to have the entirety of MEW in a bite-sized Chrome Extension accessible from their toolbar. Create and manage your wallets, interact with Dapps, and send transactions quick using our QuickSend feature.
 
-To learn more about MEW CX and what it has to offer, check out our Medium post. 
+To learn more about MEW CX and what it has to offer, check out our [Medium post][mediummew]. 
 
 ## __Installing MEW CX__
 
@@ -48,3 +48,4 @@ Your wallet will remain saved in the Chrome Extension until you remove the walle
 [mewcx]: https://chrome.google.com/webstore/detail/myetherwallet-extension/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en
 [chromearticle]: https://www.howtogeek.com/291095/why-do-chrome-extensions-need-all-your-data-on-the-websites-you-visit/
 [access]: /@@@@@@/getting-started/how-to-access-your-wallet/
+[mediummew]: https://medium.com/myetherwallet/mew-cx-the-web3-wallet-that-puts-the-user-in-full-control-90452755b4
