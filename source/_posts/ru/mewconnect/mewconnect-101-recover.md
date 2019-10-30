@@ -1,10 +1,10 @@
 ---
-title: "MEWconnect 101: Backup Your Wallet"
+title: "MEWconnect 101: Резервная копия кошелька"
 date: 2018-04-01 00:02:00
 tags:
   - mewconnect
-  - backup
-  - кошелек
+  - резервная копия
+  - кошелька
 categories:
   - 
     - mewconnect
@@ -14,9 +14,9 @@ alias:
   - mewconnect/mew-connect-101-backup.html
 ---
 
-# **MEWconnect 101: Backup Your Wallet**
+# **MEWconnect 101: Резервная копия кошелька**
 
-###### {% read_time title "MEWconnect 101: Backup Your Wallet" %} min read
+###### {% read_time title "MEWconnect 101: Резервная копия кошелька" %} мин. на прочтение
 
 * * *
 
