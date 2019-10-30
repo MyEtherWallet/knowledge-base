@@ -1,9 +1,9 @@
 ---
-title: "MEWconnect 101: Connect to MyEtherWallet"
+title: "MEWconnect 101: Подключиться к MyEtherWallet"
 date: 2018-04-01 00:03:00
 tags:
   - mewconnect
-  - подключиться
+  - connect
   - myetherWallet
 categories:
   - 
@@ -14,9 +14,9 @@ alias:
   - mewconnect/mew-connect-101-connect.html
 ---
 
-# **MEWconnect 101: Connect to MyEtherWallet**
+# **MEWconnect 101: Подключение к MyEtherWallet**
 
-###### {% read_time title "MEWconnect 101: Connect to MyEtherWallet" %} min read
+###### {% read_time title " MEWconnect 101: Подключение к MyEtherWallet" %} мин. на прочтение
 
 * * *
 
