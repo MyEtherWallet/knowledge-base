@@ -1,10 +1,10 @@
 ---
-title: "MEWconnect 101: Wallet Overview"
+title: "MEWconnect 101: Данные кошелька"
 date: 2018-06-01 00:03:00
 tags:
   - mewconnect
-  - overview
-  - кошелек
+  - данные
+  - кошелька
 categories:
   - 
     - mewconnect
@@ -14,9 +14,9 @@ alias:
   - mewconnect/mew-connect-101-overview.html
 ---
 
-# **MEWconnect 101: Wallet Overview**
+# **MEWconnect 101: Данные кошелька**
 
-###### {% read_time title "MEWconnect 101: Wallet Overview" %} min read
+###### {% read_time title "MEWconnect 101: Данные кошелька" %} мин. на прочтение
 
 * * *
 
