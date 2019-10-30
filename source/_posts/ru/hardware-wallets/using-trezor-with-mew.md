@@ -1,5 +1,5 @@
 ---
-title: "Using a Trezor Hardware Wallet with MEW"
+title: "Использование аппаратного кошелька Trezor с MEW"
 date: 2018-06-01 00:01:00
 tags:
   - trezor
@@ -7,42 +7,42 @@ tags:
   - кошелек
 categories:
   - 
-    - hardware-wallets
-primary_category: hardware-wallets
+    - аппаратные-кошельки
+primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
   - migration/moving-from-private-key-to-trezor-hardware-wallet.html
 ---
 
-# **Using a Trezor Hardware Wallet with MEW**
+# **Использование аппаратного кошелька Trezor с MEW**
 
-###### {% read_time title "Using a Trezor Hardware Wallet with MEW" %} min read
+###### {% read_time title "Использование аппаратного кошелька Trezor с MEW" %} мин. на прочтение
 
 * * *
 
-Trezor Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. They are available for purchase [here](https://trezor.io/?offer_id=12&aff_id=2029). *Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
+Аппаратные кошельки Trezor являются одними из самых безопасных и простых в использовании аппаратных кошельков для криптовалют среди доступных. Купить их можно [здесь](https://trezor.io/?offer_id=12&aff_id=2029). *Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.*
 
-This particular hardware wallet supports a wide range of cryptocurrencies, but this guide is specifically made for accessing Ethereum and ERC-20 tokens while using MyEtherWallet (MEW).
+Данный аппаратный кошелек поддерживает широкий спектр криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).
 
-**This part is very important:** Your Trezor device comes as its own SEPARATE wallet. You cannot import your old MEW address into this, or use your old wallet with it. It has its own private key, encrypted into the device itself. You will be choosing a new ethereum address on this device, and using it as your new main wallet.
+**Данный раздел является очень важным:** Ваше устройство Trezor является ОТДЕЛЬНЫМ самодостаточным кошельком. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для устройства и пользоваться им как новым основным кошельком в дальнейшем.
 
-Without further ado, let’s begin!
+Без лишних слов, давайте начнем!
 
-## **The Initial Set-Up**
+## **Начальная настройка**
 
-**Step 1.** Unbox your Trezor! You will see some cards and instructions for set-up. Follow these instructions carefully! Plug in the Trezor to your computer and get started. Visit [trezor.io/start](https://trezor.io/start) to begin the process.
+**Шаг 1.** Распакуйте свой Trezor! Вы увидите несколько карт и инструкций для настройки. Внимательно следуйте этим инструкциям! Подключите Trezor к своему компьютеру и начните работу с ним. Перейдите на [trezor.io/start](https://trezor.io/start), чтобы начать процесс настройки.
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor1.jpg" width="35%" />
 
 * * *
 
-**Step 2.** Choose ‘Create new’ on this page, and follow the steps to set up your new device.The first thing you will want to do is ‘Create a backup in 3 minutes.’
+**Шаг 2.** Выберите ‘Create new’ на этой странице и следуйте инструкциям по настройке нового устройства. Первое, что вам нужно будет сделать, — это ‘Create a backup in 3 minutes’.
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor2.png" width="80%" />
 
 * * *
 
-**Step 3.** *This is one of the most important steps.* Do not write this phrase down on your computer, do not take a picture of the phrase. Make sure you write down your 24 seed words in multiple places. DO NOT LOSE THEM. If you lose these words, you’ve lost all your cryptocurrency. Ledger provides cards for you to write them down for remembering, but I suggest writing them down in one extra place as well. Again, do not write this phrase down on your computer. Use pen and paper. When you’re done, you’ll see the screen below.
+**Шаг 3.** *Это один из самых важных шагов.* Не сохраняйте эту фразу на своем компьютере и не делайте ее фотографий. Запишите свои 24 seed-слова в нескольких местах. НЕ ПОТЕРЯЙТЕ ИХ. Если вы потеряете эти слова, вы потеряете также и доступ ко всей своей криптовалюте. В комплекте с Ledger поставляются карточки для записи, но я предлагаю записать их еще где-нибудь. И еще раз, не сохраняйте эту фразу на своем компьютере. Используйте ручку и бумагу. Когда вы закончите, то увидите экран приведенный ниже.
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor3.png" width="80%" />
 
@@ -50,7 +50,7 @@ Without further ado, let’s begin!
 
 * * *
 
-**Step 4.** Now you will be prompted to choose a name for your Trezor. This is the name you will see on your device whenever you plug it in. Choose something familiar and personal!
+**Шаг 4.** Вам будет предложено выбрать название для Trezor. Его вы будете видеть на своем устройстве при каждом подключении. Выберите что-нибудь знакомое и персонально ваше!
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor5.png" width="70%" />
 
@@ -58,7 +58,7 @@ Without further ado, let’s begin!
 
 * * *
 
-**Step 5.** You will now choose your pin. This pin will be the only way to access your device (besides the recovery phrase you wrote down, multiple times) so it’s very important to choose a secure, but easy to remember pin. Don’t just use `1111` or `1234`, use something a bit more random and secure. *Don’t make this mistake! If it says it could be safer, make it longer!*
+**Шаг 5.** Теперь вам будет предложено выбрать пин-код. Он станет единственным способом получения доступа к вашему устройству (помимо фразы восстановления, которую вы уже записали несколько раз), поэтому очень важно выбрать безопасный, но легко запоминающийся пин-код. Не используйте комбинации `1111` или `1234`, выберите что-то более случайное и безопасное. *Не допускайте эту ошибку! Если вы получите сообщение, что код может быть безопаснее, сделайте его длиннее!*
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor7.png" width="75%" />
 
@@ -66,25 +66,25 @@ Without further ado, let’s begin!
 
 * * *
 
-**Step 6.** You’re all done!
+**Шаг 6.** Вы все сделали!
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor9.png" width="50%" />
 
-## **Using Trezor with MEW**
+## **Использование Trezor с MEW**
 
-**Step 1.** Attach your Trezor device and head to MEW.
+**Шаг 1.** Подключите устройство Trezor и перейдите на MEW.
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor10.jpg" width="35%" />
 
 * * *
 
-**Step 2.** Check the URL for the “MyEtherWallet Inc [US]” SSL certification to make sure you’re on our real, secure site. Are you? Great! Head to ‘Access My Wallet’ and choose the option that says ‘Hardware’. Click the ‘Trezor’ option, and choose ‘Connect With Your Device’ with your Trezor device still attached.
+**Шаг 2.** Проверьте наличие сертификата SSL “MyEtherWallet Inc [US]” в строке адреса браузера, чтобы убедиться, что вы находитесь на настоящем защищенном сайте. Вы уверены? Отлично! Перейдите к пункту ‘Доступ к моему кошельку’ и выберите пункт ‘Аппаратные кошельки’. Выберите ‘Trezor’ и ‘Подключить устройство’, когда Trezor будет подключен.
 
 <img src="/images/posts/hardware-wallet/trezor/MEW1.png" width="75%" />
 
 * * *
 
-**Step 3.** A screen will pop-up asking for you to allow MEW permissions to read the public keys from your Trezor device. Click ‘Allow once for this session’, and feel free to select ‘Don’t ask me again’, so this step is automatic in the future. Select ‘Export’ on the next screen, enter your pin, and you’ll be redirected back to MEW.
+**Шаг 3.** Появится экран с просьбой предоставить MEW разрешение на чтение открытых ключей с вашего устройства Trezor. Нажмите ‘Allow once for this session’ и выберите опцию ‘Don’t ask me again’, чтобы пропускать этот шаг в будущем. Нажмите ‘Export’ на следующем экране и введите свой пин-код, после чего вас перенаправит обратно на MEW.
 
 <img src="/images/posts/hardware-wallet/trezor/MEW2.png" width="70%" />
 
@@ -92,7 +92,7 @@ Without further ado, let’s begin!
 
 * * *
 
-**Step 4.** MEW will bring you back to a page showing different networks and derivation paths. Choose which network you’d like to connect to, and which path you’d like to use. For regular ETH usage, you should be on an ETH network, under the Ethereum derivation path. You can also access other networks, such as Ethereum Classic (ETC), by choosing the related network path.
+**Шаг 4.** MEW вернет вас на страницу с различными сетями и путями деривации (derivation path). Выберите сеть, к которой хотите подключиться, и путь деривации. Для использования обычного ETH вы должны быть в сети ETH с путем деривации Ethereum. Вы также можете получить доступ к другим сетям, таким как Ethereum Classic (ETC), выбрав соответствующую опцию.
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor16.png" width="40%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor12.png" width="40%" />
 
@@ -100,28 +100,28 @@ Without further ado, let’s begin!
 
 * * *
 
-**Step 5.** You will see a list of addresses. These are your new addresses to choose from for your main wallet! Choose one out of the five that you like. (Most people choose the first one, but you don’t have to.)
+**Шаг 5.** Вы увидите список адресов. Это новые адреса, доступные для выбора в качестве вашего основного кошелька! Выберите один из пяти, который вам нравится. (Большинство людей выбирают первый, но это не обязательно.)
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor13.png" width="42.5%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor14.png" width="50%" />
 
 * * *
 
-**Step 6.** You should now be taken to a screen that looks very similar to your old wallet’s access screen. Great job! You’re officially using your new Trezor hardware wallet!
+**Шаг 6.** После этого вы должны попасть на страницу, которая очень похожа на экран доступа к вашему старому кошельку. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Trezor!
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor15.png" width="50%" />
 
-## **What About My Old Wallet???**
+## **А как насчет моего старого кошелька???**
 
-If you are coming from an old wallet and want your ETH and tokens on your new, secure Trezor address, you will need to send your funds to your new address through a regular transaction. This can be achieved by accessing your old wallet through MEWconnect, MetaMask, Keystore file, or private key (however you usually did it before the Trezor). From here, send your ETH and tokens to your new Trezor address, ready to be accessed in a more secure fashion.
+Если вы использовали старый кошелек и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе Trezor, вам нужно будет перевести средства на новый адрес посредством обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEWconnect, MetaMask, хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Trezor). Переведите свои ETH и токены на новый адрес Trezor с более безопасным доступом.
 
-Please be advised ETH will be required for gas to move any tokens held in your old wallet. We recommend holding .01 ETH to cover 2 - 3 transactions.
+Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии в ETH. Мы рекомендуем оставить 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 
-## **How Do I Restore My Trezor to a New Device?**
+## **Как мне восстановить доступ к Trezor на новом устройстве?**
 
-Trezor made a clear and easy to follow guide on how to restore your Trezor device [here](https://wiki.trezor.io/User_manual:Recovery).
+Простое и понятное официальное руководство по восстановлению Trezor на новом устройстве можно найти [здесь](https://wiki.trezor.io/User_manual:Recovery).
 
-## **Troubleshooting**
+## **Решение проблем**
 
-Most issues with the Trezor can be fixed by performing a hard refresh (using CTRL+F5), making sure all the firmware is updated to its latest release, and trying a new connecting cable.
+Большинство проблем с Trezor можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также нового кабеля для подключения.
 
-If these troubleshooting options did not fix your issue, MEW has an extensive knowledge base that you can find [here](https://kb.myetherwallet.com). There is a big chance that it's already listed under ‘Common Issues’. If not, feel free to contact us at support@myetherwallet.com. We are always happy to help!
+Если предложенные варианты устранения неполадок не помогли исправить проблему, вы можете обратиться к обширной базе знаний MEW, которая находится [здесь](https://kb.myetherwallet.com). Существует большая вероятность того, что проблема уже описана в разделе 'Распространенные проблемы'. Если же ее там нет, напишите нам на support@myetherwallet.com. Мы всегда рады помочь!
