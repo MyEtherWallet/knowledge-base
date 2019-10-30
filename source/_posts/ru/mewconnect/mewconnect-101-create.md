@@ -1,10 +1,10 @@
 ---
-title: "MEWconnect 101: Create a Wallet"
+title: "MEWconnect 101: Создание кошелька кошелек"
 date: 2018-04-01 00:01:00
 tags:
   - mewconnect
-  - создать
-  - кошелек
+  - создание
+  - кошелька
 categories:
   - 
     - mewconnect
@@ -14,9 +14,9 @@ alias:
   - mewconnect/mew-connect-101-create.html
 ---
 
-# **MEWconnect 101: Create a Wallet**
+# **MEWconnect 101: Создание кошелька**
 
-###### {% read_time title "MEWconnect 101: Create a Wallet" %} min read
+###### {% read_time title "MEWconnect 101: Создание кошелька" %} мин. на прочтение
 
 * * *
 
