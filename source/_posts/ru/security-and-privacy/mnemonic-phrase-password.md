@@ -1,28 +1,28 @@
 ---
-title: "Mnemonic Phrase: Should I Include a Password?"
+title: "Мнемоническая фраза: Стоит ли мне включить пароль?"
 date: 2018-06-01 00:06:00
 tags:
-  - mnemonic
-  - phrase
-  - password
+  - мнемоническая
+  - фраза
+  - пароль
 categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Security And Privacy"
+primary_category_display_name: "Безопасность и конфиденциальность"
 ---
 
-# **Mnemonic Phrase: Should I Include a Password?**
+# **Мнемоническая фраза: Стоит ли мне включить пароль?**
 
-###### {% read_time title "Mnemonic Phrase: Should I Include a Password?" %} min read
+###### {% read_time title "Мнемоническая фраза: Стоит ли мне включить пароль??" %} мин. на прочтение
 
 * * *
 
-## **Creating a New Wallet**
+## **Создание нового кошелька**
 
-#### **We do not suggest creating a new wallet with the mnemonic phrase option on our website, unless you are planning to [use MEW offline](/@@@@@@/offline/using-mew-offline).**
+#### **Мы не рекомендуем создавать новый кошелек с использованием мнемонической фразы через наш сайт, если вы не планируете использовать [MEW в автономном режиме](/@@@@@@/offline/using-mew-offline).**
 
-When you’re creating a new wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include a password. По сути этот пароль является дополнительным словом по вашему выбору, прикрепленным к концу вашей фразы. Например, если вы составляете мнемоническую фразу из 24 слов, он будет действовать как **обязательное** 25-е слово каждый раз, когда вы захотите использовать эту фразу.
+Когда вы создаете новый кошелек с включенной опцией ‘Мнемоническая фраза’ в MEW, вам будет предоставлен выбор, включать или не включать пароль. По сути этот пароль является дополнительным словом по вашему выбору, прикрепленным к концу вашей фразы. Например, если вы составляете мнемоническую фразу из 24 слов, он будет действовать как **обязательное** 25-е слово каждый раз, когда вы захотите использовать эту фразу.
 
 **Преимущество этого — дополнительная безопасность.** Если кто-то узнает вашу мнемоническую фразу из 24 слов, то для доступа к вашим средствам ему все равно понадобится ваш пароль, который будет действовать как 25-е слово. Это значительно повышает безопасность вашей фразы.
 
