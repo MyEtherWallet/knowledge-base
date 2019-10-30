@@ -1,26 +1,26 @@
 ---
-title: "Using Jaxx with MEW"
+title: "Использование Jaxx с MEW"
 date: 2018-06-01 00:04:00
 tags:
-  - jaxx
+  - Jaxx
   - mew
 categories:
   - 
     - migration
 primary_category: migration
-primary_category_display_name: "Migrating To And From MEW"
+primary_category_display_name: "Переход с и на MEW"
 alias:
   - migration/moving-from-jaxx-to-myetherwallet.html
 ---
 
-# **Using Jaxx with MEW**
+# **Использование Jaxx с MEW**
 
-###### {% read_time title "Using Jaxx with MEW" %} min read
+###### {% read_time title "Использование Jaxx с MEW" %} мин. на прочтение
 
 * * *
 
-You can use both MyEtherWallet (MEW) and Jaxx at the same time, as both are client-side wallets that allow access to the Ethereum blockchain. There is no need to ‘import’ or ‘sweep’ your ETH from your Jaxx wallet to a new wallet with MEW.
+Вы можете использовать MyEtherWallet (MEW) и Jaxx одновременно, поскольку оба являются клиентскими кошельками и обеспечивают доступ к блокчейну Ethereum. Нет необходимости 'импортировать' или 'свиповать' ваш ETH из кошелька Jaxx в новый кошелек MEW.
 
-Instead, use your Jaxx 12-word mnemonic phrase to [access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/). You will derive multiple addresses, choose the one you are familiar with. Both ETH and ETC can be accessed via this address, as well as various other networks we support.
+Вместо этого используйте свою мнемоническую фразу из 12 слов Jaxx, чтобы [получить доступ к кошельку](/@@@@@@/getting-started/how-to-access-your-wallet/). Вы получите несколько адресов, выберите тот, который вам знаком. Вы сможете получить доступ как к ETH, так и к ETC, а также к другим поддерживаемым нами сетям.
 
-To access your ETC (or other networks), access your wallet and change your network in the upper-right hand corner of your wallet’s interface. We offer multiple nodes for ETC, so choose whichever is right for you. (Don’t overthink it.)
+Чтобы получить доступ к вашим ETC (или другим сетям), войдите в свой кошелек и измените сеть в верхнем правом углу интерфейса вашего кошелька. Мы предлагаем несколько узлов для доступа к ETC, выберите тот, который подходит именно вам. (Не задумывайтесь над этим вопросом).
