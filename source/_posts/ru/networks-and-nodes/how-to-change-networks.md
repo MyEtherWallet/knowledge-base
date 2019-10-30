@@ -1,47 +1,47 @@
 ---
-title: "How to Change Networks (Access Ropsten, ETC, and more!)"
+title: "Как изменить сеть (получение доступа к Ropsten, ETC и многим другим сетям)."
 date: 2018-06-01 00:01:00
 tags:
-  - change
-  - network
-  - networks
+  - изменение
+  - сеть
+  - сети
   - ropsten
-  - etc
+  - пр.
 categories:
   - 
     - networks-and-nodes
 primary_category: networks-and-nodes
-primary_category_display_name: "Networks And Nodes"
+primary_category_display_name: "Сети и узлы"
 alias:
   - networks/sent-etc-to-eth-address.html
 ---
 
-# **How to Change Networks (Access Ropsten, ETC, and more!)**
+# **Как изменить сеть (получение доступа к Ropsten, ETC и другим сетям).**
 
-###### {% read_time title "How to Change Networks (Access Ropsten, ETC, and more!)" %} min read
+###### {% read_time title "Как изменить сеть (получение доступа к Ropsten, ETC и другим сетям)." %} мин. на прочтение
 
 * * *
 
-Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, but want to fool around on the Ropsten test network first? Or maybe you’re just interested in other networks that have forked off of the Ethereum blockchain? If any of the above are true, this is the article for you.
+Вы случайно отправили ETC на свой адрес ETH? Вам интересно попробовать ETH, но вы хотите сначала поработать в тестовой сети Ropsten? Или, может быть, вы заинтересованы в других сетях, которые являются форками блокчейна Ethereum? Если что-либо из прочитанного справедливо, эта статья для вас
 
-## **Using MEWconnect, MetaMask, or a Keystore File/Mnemonic Phrase/Private Key**
+## **Использование MEWconnect, MetaMask или хранилища ключей/мнемонической фразы/закрытого ключа**
 
-**Step 1.** [Access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/) by choosing the desired method of access.
+**Шаг 1.** [Получите доступ к своему кошельку](/@@@@@@/getting-started/how-to-access-your-wallet/), выбрав нужный способ доступа.
 
-* We do not recommend using a Keystore File/Mnemonic Phrase/Private Key to access your funds. If you use one of these methods, we highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/), or [creating a new wallet with MEWconnect](/@@@@@@/mewconnect-101-create/) and transferring your funds. 
+* Мы не рекомендуем использовать файл хранилища ключей/мнемоническую фразу/закрытый ключ для доступа к вашим средствам. Если вы используете один из указанных методов доступа, мы настоятельно рекомендуем использование [MEW в автономном режиме](/@@@@@@/offline/offline-mew-looks-weird/) или [создание нового кошелька с помощью MEWconnect](/@@@@@@/mewconnect-101-create/) и последующего перевода ваших средств. 
 
-**Step 2.** On your wallet’s overview page, you will see a ‘Network’ section in the upper right hand corner. Click the icon that says ‘Open networks’ when hovered over.
+**Шаг 2.** На странице данных о кошельке вы увидите раздел ‘Сеть’ в правом верхнем углу. Нажмите на иконку с надписью ‘открытые сети’.
 
-**Step 3.** Choose the network you would like to interact with from this list. Your address will not change, but your funds will depending on the network chosen.
+**Шаг 3.** Выберите сеть, с которой вы хотите работать, из предложенного списка. Ваш адрес не изменится, но ваши средства будут зависеть от выбранной сети.
 
-* If you see multiple networks for your choice (i.e. ETC), there is no need to overthink it. Just choose whichever one you’d like, and change it to another if it seems slow or congested! 
+* Если вы видите несколько сетей, соответствующих вашему выбору (например, ETC), нет необходимости думать над выбором слишком долго. Просто выберите сеть, которая вам нравится, и замените ту, которая вам кажется медленной или перегруженной! 
 
-## **Using a Hardware Wallet**
+## **Использование аппаратного кошелька**
 
-**Step 1.** Access your wallet using the ‘Hardware’ option.
+**Шаг 1.** Получите доступ к своему кошельку, используя опцию ‘Аппаратные кошельки’.
 
-**Step 2.** Choose the network you would like to connect to, followed by the derivation path desired.
+**Шаг 2.** Выберите сеть, к которой вы хотите подключиться, а затем укажите желаемый путь деривации (derivation path).
 
-* You will notice there are separate derivation paths for ETC and ETH. You do not have to change to the ETC path in order to access your ETC. Changing the derivation path will produce a different list of Ethereum addresses than you may be used to seeing. Simply change the network to ETC, and feel free to access your familiar ETH address through the ETH derivation path. 
+* Вы увидите, что существуют отдельные пути деривации для ETC и ETH. Вам не нужно переходить на путь ETC для получения доступа к вашему кошельку ETC. Изменение пути деривации приведет к тому, что список адресов Ethereum будет отличаться от того, что вы привыкли видеть. Просто измените сеть на ETC и получайте доступ к вашему знакомому адресу ETH через путь деривации ETH. 
 
-**Step 3.** Connect with your device, and you’re done! You will be directed to your wallet’s overview page on the desired network.
+**Шаг 3.** Подключитесь к своему устройству, и все будет готово к работе! Вы будете перенаправлены на страницу данных о вашем кошельке в нужной сети.
