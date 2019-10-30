@@ -1,43 +1,43 @@
 ---
-title: "Ensuring MEW Doesn’t Give Different People the Same Public Address"
+title: "Обеспечение невозможности выделения одинаковых публичных адресов разным людям со стороны MEW"
 date: 2018-06-01 00:02:00
 tags:
   - mew
-  - public
-  - address
+  - публичный
+  - адрес
 categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Security And Privacy"
+primary_category_display_name: "Безопасность и конфиденциальность"
 alias:
   - security/ethereum-two-people-same-private-key.html
 ---
 
-# **Ensuring MEW Doesn’t Give Different People the Same Public Address**
+# **Обеспечение невозможности выделения одинаковых публичных адресов разным людям со стороны MEW**
 
-###### {% read_time title "Ensuring MEW Doesn't Give Different People the Same Public Address" %} min read
+###### {% read_time title "Обеспечение невозможности выделения одинаковых публичных адресов разным людям со стороны MEW" %} мин. на прочтение
 
 * * *
 
-The first thing to understand is that MyEtherWallet (MEW) does not ‘create’ any private keys or public addresses. MEW (and other ETH wallet services) randomly generate private key/public address pairings for a user when ‘creating a new wallet’.
+Первое, что нужно понять, — это то, что MyEtherWallet (MEW) не ‘создает’ никаких закрытых ключей или открытых адресов. MEW (и другие кошельки ETH) случайным образом генерирует пары закрытый ключ/открытый адрес для пользователя при ‘создании нового кошелька’.
 
-Every ETH address begins with ‘0x’ and is followed by 40 hexadecimal characters, for a total of 42 characters. Hexadecimal characters can be any character between the ranges of ‘a - f’ and ‘0 - 9’. This means there are `16^40` possible ETH addresses, which is the same as `2^160` possible addresses.
+Каждый адрес ETH начинается с ‘0x’ и сопровождается 40 шестнадцатеричными символами и состоит из 42 символов в общей сложности. Шестнадцатеричные символы могут быть любыми символами из диапазонов ‘a - f’ и ‘0 - 9’. Это означает, что существует `16^40` возможных адресов ETH, что эквивалентно `2^160` возможным адресам.
 
-That means there are `1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976` possible addresses to choose from.
+Это означает, что всего существует `1 461 501 637 330 902 918 203 684 832 716 283 019 655 932 542 976` адресов.
 
-Keys are not ‘picked’, though. The reason randomizing this process is so crucial is because our brains are flawed. We are not capable of achieving true randomization with our choices. If you choose your own private key, you will have access to a wallet of your choice. However, if someone else also picks that private key, all of your information and funds will be at their mercy. So we let technology generate these addresses for us, for true entropic generation.
+Ключи не просто ‘выбираются’. Причина, по которой случайный выбор так важен, заключается в том, что наш мозг имеет недостатки. Мы не способны достичь истинной случайности с помощью осознанного выбора. Если вы выберете свой собственный закрытый ключ, у вас будет доступ к выбранному кошельку. Однако, если кто-то еще выберет этот же закрытый ключ, все ваши данные и средства будут в его власти. Поэтому мы полагаемся на технологии для случайного создания этих адресов для нас, чтобы обеспечить истинную случайность.
 
-To put all of this in perspective, there are approximately `7.5 x 10^18` grains of sand on Earth. That’s
+Чтобы представить все это, приведем следующий пример: на Земле есть приблизительно `7,5 × 10^18` песчинок. Это
 
-`7,500,000,000,000,000,000` grains of sand
+`7 500 000 000 000 000 000` песчинок
 
-compared to
+по сравнению с
 
-`1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976` addresses
+`1 461 501 637 330 902 918 203 684 832 716 283 019 655 932 942 976` адресов
 
-That’s quite a difference. In fact, this number is so mind-blowingly big that, at one address per second, it would still take longer than the galaxy has existed (~13.21 billion years) to even make a tiny dent – and you would still be unlikely to run across an address with any activity on it! Not only that, but it would take more energy than the Sun can offer to even try and brute-force any specific address.
+Большая разница. Это число настолько ошеломляюще велико, что при одном запросе в секунду на выработку незначительной части диапазона потребуется больше времени, чем существует сама галактика (~13,21 миллиарда лет), и вы все равно вряд ли сможете найти адрес кошелька с историей! На взлом одного адреса подбором потребуется больше энергии, чем может выработать само Солнце.
 
-The estimated age of the Universe itself is `~4.32 x 10^17` seconds old. In order to use up even half of the possible addresses in that amount of time, you would need to generate around `1.6 x 10^31` addresses every second. That’s 16 nonillion addresses every second, since the dawn of the Universe. And that’s just to use up half of them!
+Предполагаемый возраст Вселенной составляет `~4,32 х 10^17` секунд. Чтобы использовать хотя бы половину возможных адресов за это время, вам потребуется генерировать около `1,6 x 10^31` адресов каждую секунду. Это 16 нониллионов адресов каждую секунду, начиная с момента рождения Вселенной. Чтобы израсходовать всего половину из них!
 
-Even if the blockchain is vigorously active for the next ten thousand years, the chances of receiving a duplicate address are basically zero.
+Даже если блокчейн активно проработает в течение следующих десяти тысяч лет, шансы получить неуникальный адрес практически равны нулю.
