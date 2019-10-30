@@ -8,8 +8,8 @@ tags:
   - узел
 categories:
   - 
-    - hardware-wallets
-primary_category: hardware-wallets
+    - аппаратные-кошельки
+primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
   - networks/using-ethereum-hardware-wallet-with-custom-node.html
@@ -17,10 +17,10 @@ alias:
 
 # **Использование аппаратного кошелька с пользовательским узлом**
 
-###### {% read_time title "Using a Hardware Wallet With a Custom Node" %} минут на чтение
+###### {% read_time title "Использование аппаратного кошелька с пользовательским узлом" %} мин. на прочтение
 
 * * *
 
-Benjaminion написал замечательное руководство о том, как это сделать.
+Benjaminion составил превосходное руководство о том, как этого добиться.
 
-Его можно прочитать [здесь](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet).
+Вы можете прочитать его [здесь](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet).
