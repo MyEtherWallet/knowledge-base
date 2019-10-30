@@ -1,5 +1,5 @@
 ---
-title: "Using a Secalot Hardware Wallet with MEW"
+title: "Использование аппаратного кошелька Secalot с MEW"
 date: 2018-06-01 00:02:00
 tags:
   - Secalot
@@ -7,73 +7,73 @@ tags:
   - кошелек
 categories:
   - 
-    - hardware-wallets
-primary_category: hardware-wallets
+    - аппаратные-кошельки
+primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 ---
 
-# **Using a Secalot Hardware Wallet with MEW**
+# **Использование аппаратного кошелька Secalot с MEW**
 
-###### {% read_time title "Using a Secalot Hardware Wallet with MEW" %} min read
-
-* * *
-
-Secalot Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here](https://www.secalot.com/product/secalot-dongle/). *Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
-
-Hardware wallets often support multiple cryptocurrencies, but this guide is specifically made for accessing Ethereum and ERC-20 tokens while using MyEtherWallet (MEW).
-
-**This part is very important.** Your Secalot device comes as its own SEPARATE wallet. You cannot import your old MEW address into this, or use your old wallet with it. It has its own private key, encrypted into the device itself. You will be choosing a new ethereum address on this device, and using it as your new main wallet.
-
-Without further ado, let’s begin!
+###### {% read_time title " Использование аппаратного кошелька Secalot с MEW" %} мин. на прочтение
 
 * * *
 
-## **The Initial Set-Up**
+Аппаратные кошельки Secalot являются ведущими решениями по соответствию стандартам безопасности и удобству использования. Купить их можно [здесь](https://www.secalot.com/product/secalot-dongle/). *Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.*
 
-**Step 1.** Unbox your Secalot! Plug it into your computer and download the [Secalot Control Panel application](https://www.secalot.com/downloads/).
+Аппаратные кошельки часто поддерживают несколько криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).
 
-* You may want to pin it to your taskbar.
+**Данный раздел является очень важным.** Ваше устройство Secalot является ОТДЕЛЬНЫМ самодостаточным кошельком. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для устройства и пользоваться им как новым основным кошельком в дальнейшем.
 
-**Step 2.** In the Secalot Control Panel interface, select 'Create wallet' under the Ethereum section.
-
-**Step 3.** Set up a PIN code to access your Secalot. Make it something that is very easy to remember for you. Write it down in a couple places. Remember it!! This is how you will unlock your wallet everytime you want to access it. The PIN code must be between 4 and 8 characters.
-
-**Step 4.** This is one of the most important steps. Do not write this phrase down on your computer, do not take a picture of the phrase. Make sure you write down your 12 seed words in multiple places. DO NOT LOSE THEM. If you lose these words, you’ve lost all your cryptocurrency. We suggest using multiple pieces of paper to write this down. Again, do not write this phrase down on your computer. Use pen and paper.
-
-* Keep them in the correct order, too!
-
-**Step 5.** Great, your device is now ready! Now let’s figure out how to use it with MyEtherWallet.
+Без лишних слов, давайте начнем!
 
 * * *
 
-## **Using Secalot with MEW**
+## **Начальная настройка**
 
-**Step 1.** Attach your Secalot device and head to MyEtherWallet.com.
+**Шаг 1.** Распакуйте свой Secalot! Подключите его к компьютеру и загрузите [приложение Secalot Control Panel](https://www.secalot.com/downloads/).
 
-**Step 2.** On MEW, select 'Access My Wallet' > 'Hardware' > 'Secalot'.
+* Возможно, вы захотите закрепить его на панели задач.
 
-**Step 3.** It will ask for a password. Enter your pin to connect to your wallet.
+**Шаг 2.** В интерфейсе Secalot Control Panel выберите 'Create wallet' в разделе Ethereum.
 
-**Step 4.** You will see a bunch of addresses here. Make sure you're on the Ethereum network, using the standard Ethereum derivation path, and then choose your address.
+**Шаг 3.** Установите PIN-код для доступа к вашему кошельку Secalot. Выберите такой, который сможете легко запомнить. Запишите его в нескольких местах. Не забудьте его!! Это позволит вам разблокировать свой кошелек каждый раз, когда захотите получить к нему доступ. PIN-код должен содержать от 4 до 8 символов.
 
-* There's no right or wrong choice for choosing an address, it's up to you. But choosing the first one is usually the best practice, for convenience and memory's sake.
+**Шаг 4.** Это один из самых важных шагов. Не сохраняйте эту фразу на своем компьютере и не делайте ее фотографий. Запишите свои 12 seed-слов в нескольких местах. НЕ ПОТЕРЯЙТЕ ИХ. Если вы потеряете эти слова, вы потеряете также и доступ ко всей своей криптовалюте. Мы предлагаем хранить их на нескольких листках бумаги. И еще раз, не сохраняйте эту фразу на своем компьютере. Используйте ручку и бумагу.
 
-**Step 5.** You should now be taken to a screen that looks very similar to your old wallet’s access screen. Great job! You’re officially using your new Secalot hardware wallet!
+* Вводите их в правильном порядке!
+
+**Шаг 5.** Отлично, ваше устройство готово к работе! Теперь давайте разберемся, как использовать его с MyEtherWallet.
 
 * * *
 
-## **What About My Old Wallet???**
+## **Использование Secalot с MEW**
 
-If you are coming from an old wallet and want your ETH and tokens on your new, secure Secalot address, you will need to send your funds to your new address through a regular transaction. This can be achieved by accessing your old wallet through MEWconnect, MetaMask, Keystore file, or private key (however you usually did it before the Secalot). From here, send your ETH and tokens to your new Secalot address, ready to be accessed in a more secure fashion.
+**Шаг 1.** Подключите ваше устройство Secalot и перейдите на MyEtherWallet.com.
 
-Please be advised ETH will be required for gas to move any tokens held in your old wallet. We recommend holding .01 ETH to cover 2 - 3 transactions.
+**Шаг 2.** В MEW выберите 'Доступ к моему кошельку' > 'Аппаратные кошельки' > 'Secalot'.
 
-## **How Do I Restore My Secalot to a New Device?**
+**Шаг 3.** Вам будет предложено ввести пароль Введите pin-код для подключения к вашему кошельку.
 
-You can use your recovery phrase to restore your wallet to as many devices as you'd like, as long as they accept the 12-word mnemonic phrase for recovery.
+**Шаг 4.** Здесь вы увидите несколько адресов. Убедитесь, что вы работаете с сетью Ethereum, используете стандартный путь деривации Ethereum (derivation path), а затем выберите свой адрес.
 
-## **Troubleshooting**
+* Правильного или неправильного выбора адреса не бывает, все зависит от ваших предпочтений. Но выбор первого — это, как правило, лучший вариант для удобства и запоминания.
 
-Most issues with the Secalot can be fixed by performing a hard refresh (using CTRL+F5), confirming that all the firmware is updated to its latest release, and trying a new connecting cable.
+**Шаг 5.** После этого вы должны попасть на страницу, которая очень похожа на экран доступа к вашему старому кошельку. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Secalot!
 
-If these troubleshooting options did not fix your issue, MEW has an extensive knowledge base that you can find [here](https://kb.myetherwallet.com). There is a big chance that it's already listed under ‘Common Issues’. If not, feel free to contact us at support@myetherwallet.com. We are always happy to help!
+* * *
+
+## **А как насчет моего старого кошелька???**
+
+Если вы использовали старый кошелек и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе Secalot, вам нужно будет перевести средства на новый адрес посредством обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEWconnect, MetaMask, хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Secalot). Переведите свои ETH и токены на новый адрес Secalot с более безопасным доступом.
+
+Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии в ETH. Мы рекомендуем оставить 0.01 ETH, которых хватит для совершения 2—3 транзакций.
+
+## **Как мне восстановить доступ к Secalot на новом устройстве?**
+
+Вы можете использовать фразу для восстановления, чтобы получить доступ к своему кошельку на неограниченном количестве устройств, принимающих мнемоническую фразу из 12 слов.
+
+## **Решение проблем**
+
+Большинство проблем с Secalot можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также нового кабеля для подключения.
+
+Если предложенные варианты устранения неполадок не помогли исправить проблему, вы можете обратиться к обширной базе знаний MEW, которая находится [здесь](https://kb.myetherwallet.com). Существует большая вероятность того, что проблема уже описана в разделе 'Распространенные проблемы'. Если же ее там нет, напишите нам на support@myetherwallet.com. Мы всегда рады помочь!
