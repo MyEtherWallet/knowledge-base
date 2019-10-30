@@ -1,9 +1,9 @@
 ---
-title: "MEWconnect 101: Make a Transaction"
+title: "MEWconnect 101: Совершение транзакций"
 date: 2018-04-01 00:04:00
 tags:
   - mewconnect
-  - transaction
+  - транзакция
 categories:
   - 
     - mewconnect
@@ -13,9 +13,9 @@ alias:
   - mewconnect/mew-connect-101-tx.html
 ---
 
-# **MEWconnect 101: Make a Transaction**
+# **MEWconnect 101: Совершение транзакций**
 
-###### {% read_time title "MEWconnect 101: Make a Transaction" %} min read
+###### {% read_time title "MEWconnect 101: Совершение транзакций" %} мин. на прочтение
 
 * * *
 
