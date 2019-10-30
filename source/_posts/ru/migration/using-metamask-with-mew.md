@@ -1,5 +1,5 @@
 ---
-title: "Using MetaMask with MEW"
+title: "Использование MetaMask с MEW"
 date: 2018-06-01 00:05:00
 tags:
   - metamask
@@ -8,50 +8,50 @@ categories:
   - 
     - migration
 primary_category: migration
-primary_category_display_name: "Migrating To And From MEW"
+primary_category_display_name: "Переход с и на MEW"
 alias:
   - migration/moving-from-private-key-to-metamask.html
 ---
 
-# **Using MetaMask with MEW**
+# **Использование MetaMask с MEW**
 
-###### {% read_time title "Using MetaMask with MEW" %} min read
+###### {% read_time title "Использование MetaMask с MEW" %} мин. на прочтение
 
 * * *
 
-Many users use MetaMask for it’s ease of use and integration with many popular crypto sites, but they still want to have the functionality that MEW offers. For this reason, we offer support for MetaMask wallets right in our interface. Connecting is simple!
+Многие пользователи используют MetaMask из-за простоты интеграции с другими популярными криптовалютными сайтами, но они по-прежнему хотят иметь функциональность, которую предлагает MEW. Именно поэтому мы предлагаем интеграцию MetaMask прямо в нашем интерфейсе. Подключиться очень просто!
 
-## **Initial Set-Up**
+## **Первоначальная настройка**
 
-#### *Only for users who do not already have a MetaMask wallet and would like to create one.*
+#### *Только для пользователей, которые еще не имеют кошелька MetaMask, но хотели бы его создать.*
 
-**Step 1.** Find and install the MetaMask extension in the Google Chrome store.
+**Шаг 1.** Найдите и установите расширение MetaMask в магазине Google Chrome.
 
-* Make sure it’s the legitimate extension. Are there a lot of users and positive reviews? 
-* Is it offered by MetaMask.io? 
-* If all of the above is true, you’re likely on the correct one.
+* Убедитесь, что это оригинальное расширение. Много ли у него пользователей и положительных отзывов? 
+* Предоставляется ли оно MetaMask.io? 
+* Если все вышесказанное верно, вы, вероятно, выбрали правильное расширение.
 
-**Step 2.** Create your wallet.
+**Шаг 2.** Создание кошелька
 
-* Make sure to choose a difficult password and record it on physical paper, just in case.
-* Follow the steps carefully, and make sure you write down the 12-word recovery phrase offered by the extension. This will be the only form of recovery for your wallet. Keep it safe.
+* Убедитесь, что вы выбрали сложный пароль, а также записали его на бумаге, на всякий случай.
+* Внимательно следуйте инструкциям и убедитесь, что вы записали фразу для восстановления из 12 слов, предложенную расширением. Она будет единственным способом восстановления вашего кошелька. Держите ее в безопасности.
 
-**Step 3.** Log into MetaMask and familiarize yourself with your new wallet.
+**Шаг 3.** Войдите в MetaMask и познакомьтесь с вашим новым кошельком.
 
-* Take special note of your public address (0x..).
+* Обратите особое внимание на ваш публичный адрес (0x ..).
 
-## **Using MetaMask with MEW**
+## **Использование MetaMask с MEW**
 
-Now that you have your MetaMask wallet, you can access your wallet by following these steps:
+Теперь, когда у вас есть кошелек MetaMask, вы сможете получить к нему доступ, выполнив следующие действия:
 
-**Шаг 1.** Зайдите в свой кошелек MetaMask через расширение для Chrome.
+**Шаг 1.** Войдите в свой кошелек MetaMask через расширение Chrome.
 
-**Step 2.** On the MEW front page, select ‘Access My Wallet’.
+**Шаг 2.** На главной странице MEW выберите ‘Доступ к моему кошельку’.
 
-**Step 3.** Select the ‘MetaMask’ option to connect.
+**Шаг 3.** Выберите ‘MetaMask’ для подключения.
 
-**Шаг 4.** Прочитайте и примите "Условия", затем выберите "Доступ к моему кошельку".
+**Шаг 4.** Прочитайте и примите ‘Условия использования’, а затем нажмите ‘Доступ к моему кошельку’.
 
 **Шаг 5.** Подтвердите подключение во всплывающем окне MetaMask.
 
-**Step 6.** You’re done!
+**Шаг 6.** Все готово!
