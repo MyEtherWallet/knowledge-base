@@ -1,44 +1,44 @@
 ---
-title: "Unable to Connect to Custom Node"
+title: "Невозможно подключиться к пользовательскому узлу"
 date: 2018-06-01 00:02:00
 tags:
-  - не удается
-  - подключиться
-  - пользовательский
-  - узел
+  - невозможно
+  - подключится
+  - пользовательскому
+  - узлу
 categories:
   - 
     - networks-and-nodes
 primary_category: networks-and-nodes
-primary_category_display_name: "Networks And Nodes"
+primary_category_display_name: "Сети и узлы"
 alias:
   - networks/cant-connect-to-custom-node-on-myetherwallet.html
 ---
 
-# **Unable to Connect to Custom Node**
+# **Невозможно подключиться к пользовательскому узлу**
 
-###### {% read_time title "Unable to Connect to Custom Node" %} min read
+###### {% read_time title "Невозможно подключиться к пользовательскому узлу" %} мин. на прочтение
 
 * * *
 
-* Verify the URL you entered is correct.
+* Убедитесь, что введенный вами URL-адрес корректен.
 
-* Verify the port you entered is correct.
+* Убедитесь, что введенный вами номер порта корректен.
 
-* Verify that if you are connecting to an http:// node you are running MyEtherWallet locally (NOT over https://).
+* Убедитесь, что при подключении к узлу http:// вы работаете с MyEtherWallet локально (НЕ через https://).
 
-* Verify you are running with:
+* Убедитесь, что используются следующие аргументы:
     
     * `geth --rpc --rpccorsdomain "null" --keystore "dont_put_secret_files_here_ever"`
     
     * `parity --rpccorsdomain "*" --keys-path "dont_put_secret_files_here_ever"`
 
-* Verify your node is actually up and running.
+* Убедитесь, что узел работает.
 
-* Try removing the node and adding it again.
+* Попробуйте удалить узел и добавить его снова.
 
-* Try changing the node in the top-right corner to ETH (Etherscan.io) or ETH (Infurio.io).
+* Попробуйте изменить узел в верхнем правом углу на ETH (Etherscan.io) или ETH (Infurio.io).
 
-* Try using Google Chrome, or a different browser.
+* Попробуйте использовать Google Chrome или другой браузер.
 
-* Ensure you do not have a firewall or something else that may be blocking the connection.
+* Убедитесь, что у вас нет брандмауэра или других приложений, способных блокировать соединение.
