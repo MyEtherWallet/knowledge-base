@@ -1,28 +1,28 @@
 ---
-title: "Private Key Not Working"
+title: "Закрытый ключ не работает"
 date: 2018-06-01 00:02:00
 tags:
-  - Private
-  - Key
+  - Закрытый
+  - Ключ
 categories:
   - 
     - private-keys-and-passwords
 primary_category: private-keys-and-passwords
-primary_category_display_name: "Private Keys And Passwords"
+primary_category_display_name: "Закрытые ключи и пароли"
 alias:
   - private-keys-passwords/private-key-not-working.html
 ---
 
-# **Private Key Not Working**
+# **Закрытый ключ не работает**
 
-###### {% read_time title "Private Key Not Working" %} min read
+###### {% read_time title "Закрытый ключ не работает" %} мин. на прочтение
 
 * * *
 
-Be sure there is not a space at the beginning or end of your private key. We validate based on the number of characters. A private key has 64 characters, count to make sure you have all 64. If you saved another version (i.e. the UTC / Keystore file) it may also be worth trying that file as well. For more information about how to use a Keystore file, learn how to [access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).
+Убедитесь, что в начале или конце вашего закрытого ключа нет пробела. Мы проверяем правильность, основываясь на количестве символов. Закрытый ключ содержит 64 символа, посчитайте и убедитесь, что у вас есть все 64. Если вы сохранили другую версию (например UTC / хранилище ключей), возможно, стоит попробовать и ее. Для получения дополнительной информации о том, как использовать хранилище ключей, ознакомьтесь со способами [получения доступа к вашему кошельку](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
-Please be sure that you are **carefully and accurately** typing your private key. A single wrong character will open a different wallet than is yours.
+Пожалуйста, убедитесь, что вы **тщательно и точно ввели** свой закрытый ключ. Один неправильный символ приведет к открытию неправильного кошелька.
 
-Some wallets, like Exodus, may export a private key that begins with `0x`. If you remove these two characters from the beginning, you may be able to access your account.
+Некоторые кошельки, такие как Exodus, могут экспортировать закрытый ключ, который начинается с `0x`. Если вы удалите эти два символа в начале, вы сможете получить доступ к своей учетной записи.
 
-For reference private key looks like this: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
+Закрытый ключ должен выглядеть так: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
