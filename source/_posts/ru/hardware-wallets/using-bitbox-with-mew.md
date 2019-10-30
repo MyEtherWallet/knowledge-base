@@ -1,5 +1,5 @@
 ---
-title: "Using a Digital BitBox Hardware Wallet with MEW"
+title: "Использование аппаратного кошелька Digital BitBox с MEW"
 date: 2018-06-01 00:02:00
 tags:
   - Digital BitBox
@@ -7,73 +7,73 @@ tags:
   - кошелек
 categories:
   - 
-    - hardware-wallets
-primary_category: hardware-wallets
+    - аппаратные-кошельки
+primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 ---
 
-# **Using a Digital BitBox Hardware Wallet with MEW**
+# **Использование аппаратного кошелька Digital BitBox с MEW**
 
-###### {% read_time title "Using a Digital BitBox Hardware Wallet with MEW" %} min read
-
-* * *
-
-Digital BitBox Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here](https://shiftcrypto.ch/?ref=mew). *Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
-
-Hardware wallets often support multiple cryptocurrencies, but this guide is specifically made for accessing Ethereum and ERC-20 tokens while using MyEtherWallet (MEW).
-
-**This part is very important.** Your Digital BitBox device comes as its own SEPARATE wallet. You cannot import your old MEW address into this, or use your old wallet with it. It has its own private key, encrypted into the device itself. You will be choosing a new ethereum address on this device, and using it as your new main wallet.
-
-Without further ado, let’s begin!
+###### {% read_time title "Использование аппаратного кошелька Digital BitBox с MEW" %} мин. на прочтение
 
 * * *
 
-## **The Initial Set-Up**
+Аппаратные кошельки Digital BitBox являются ведущими решениями по соответствию стандартам безопасности и удобству использования. Купить их можно [здесь](https://shiftcrypto.ch/?ref=mew). *Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.*
 
-**Step 1.** Unbox your Digital BitBox! Plug it into your computer and download the [Digital BitBox Desktop App application](https://shiftcrypto.ch/start).
+Аппаратные кошельки часто поддерживают несколько криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).
 
-* You may want to pin it to your taskbar.
+**Данный раздел является очень важным.** Ваше устройство Digital BitBox является ОТДЕЛЬНЫМ самодостаточным кошельком. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.
 
-**Step 2.** In the Digital BitBox Desktop App interface, select 'Create a new wallet'.
-
-**Step 3.** Set up a password to access your Digital BitBox. Make it something that is very easy to remember for you. Write it down in a couple places. Remember it!! This is how you will unlock your wallet everytime you want to access it.
-
-**Step 4.** This is one of the most important steps. To recover your device in the future, you will need both the SD card AND your choice of recovery password. Do not write this recovery password down on your computer, do not take a picture of the password. Make sure you write down your recovery password in multiple places. DO NOT LOSE IT. If you lose this password and the SD card it's attached to, you’ve lost all your cryptocurrency. We suggest using multiple pieces of paper to write this down. Again, do not write this password down on your computer. Use pen and paper.
-
-* Make sure you remove and take good care of that SD card! 
-
-**Step 5.** Great, your device is now ready! Now let’s figure out how to use it with MyEtherWallet.
+Без лишних слов, давайте начнем!
 
 * * *
 
-## **Using Digital BitBox with MEW**
+## **Начальная настройка**
 
-**Step 1.** Attach your Digital BitBox device and head to MyEtherWallet.com.
+**Шаг 1.** Распакуйте свой Digital BitBox! Подключите его к компьютеру и загрузите приложение [Digital BitBox Desktop App](https://shiftcrypto.ch/start).
 
-**Step 2.** On MEW, select 'Access My Wallet' > 'Hardware' > 'Digital BitBox'.
+* Возможно, вы захотите закрепить его на панели задач.
 
-**Step 3.** It will ask for a password. Enter your password to connect to your wallet.
+**Шаг 2.** В интерфейсе Digital BitBox Desktop App выберите 'Создать новый кошелек'.
 
-**Step 4.** You will see a bunch of addresses here. Make sure you're on the Ethereum network, using the standard Ethereum derivation path, and then choose your address.
+**Шаг 3.** Установите пароль для доступа к вашему Digital BitBox. Выберите такой, который сможете легко запомнить. Запишите его в нескольких местах. Не забудьте его!! Это позволит вам разблокировать свой кошелек каждый раз, когда захотите получить к нему доступ.
 
-* There's no right or wrong choice for choosing an address, it's up to you. But choosing the first one is usually the best practice, for convenience and memory's sake.
+**Шаг 4.** Это один из самых важных шагов. Чтобы восстановить доступ к вашему устройству в будущем, вам понадобится SD-карта и выбранный пароль для восстановления. Не сохраняйте пароль для восстановления на компьютере и не фотографируйте его. Убедитесь, что записали свой пароль для восстановления в нескольких местах. НЕ ПОТЕРЯЙТЕ ЕГО. Если вы потеряете этот пароль и SD-карту с ним, вы потеряете всю свою криптовалюту. Мы предлагаем хранить его на нескольких листках бумаги. И еще раз, не сохраняйте этот пароль на своем компьютере. Используйте ручку и бумагу.
 
-**Step 5.** You should now be taken to a screen that looks very similar to your old wallet’s access screen. Great job! You’re officially using your new Digital BitBox hardware wallet!
+* Убедитесь, что вы извлекли эту SD-карту и спрятали ее! 
+
+**Шаг 5** Отлично, ваше устройство готово к работе! Теперь давайте разберемся, как использовать его с MyEtherWallet.
 
 * * *
 
-## **What About My Old Wallet???**
+## **Использование Digital BitBox с MEW**
 
-If you are coming from an old wallet and want your ETH and tokens on your new, secure Digital BitBox address, you will need to send your funds to your new address through a regular transaction. This can be achieved by accessing your old wallet through MEWconnect, MetaMask, Keystore file, or private key (however you usually did it before the Digital BitBox). From here, send your ETH and tokens to your new Digital BitBox address, ready to be accessed in a more secure fashion.
+**Шаг 1.** Подключите ваше устройство Digital BitBox и перейдите на MyEtherWallet.com.
 
-Please be advised ETH will be required for gas to move any tokens held in your old wallet. We recommend holding .01 ETH to cover 2 - 3 transactions.
+**Шаг 2.** В MEW выберите 'Доступ к моему кошельку' > 'Аппаратные кошельки' > 'Digital BitBox'.
 
-## **How Do I Restore My Digital BitBox to a New Device?**
+**Шаг 3.** Вам будет предложено ввести пароль. Введите пароль для подключения вашего кошелька.
 
-You will need to use your mini SD card provided **and** the recovery password you chose to recover your wallet.
+**Шаг 4.** Здесь вы увидите несколько адресов. Убедитесь, что вы работаете с сетью Ethereum, используете стандартный путь деривации Ethereum (derivation path), а затем выберите свой адрес.
 
-## **Troubleshooting**
+* Правильного или неправильного выбора адреса не бывает, все зависит от ваших предпочтений. Но выбор первого — это, как правило, лучший вариант для удобства и запоминания.
 
-Most issues with the Digital BitBox can be fixed by performing a hard refresh (using CTRL+F5), confirming that all the firmware is updated to its latest release, and trying a new connecting cable.
+**Шаг 5.** После этого вы должны попасть на страницу, которая очень похожа на экран доступа к вашему старому кошельку. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Digital BitBox!
 
-If these troubleshooting options did not fix your issue, MEW has an extensive knowledge base that you can find [here](https://kb.myetherwallet.com). There is a big chance that it's already listed under ‘Common Issues’. If not, feel free to contact us at support@myetherwallet.com. We are always happy to help!
+* * *
+
+## **А как насчет моего старого кошелька???**
+
+Если вы использовали старый кошелек и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе Digital BitBox, вам нужно будет перевести средства на новый адрес посредством обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEWconnect, MetaMask, хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Digital BitBox). Переведите свои ETH и токены на новый адрес Digital BitBox с более безопасным доступом.
+
+Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии в ETH. Мы рекомендуем оставить 0.01 ETH, которых хватит для совершения 2—3 транзакций.
+
+## **Как мне восстановить доступ к Digital BitBox на новом устройстве?**
+
+Вы должны будете использовать предоставленную SD-карту **и** выбранный пароль для восстановления.
+
+## **Решение проблем**
+
+Большинство проблем с Digital BitBox можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также нового кабеля для подключения.
+
+Если предложенные варианты устранения неполадок не помогли исправить проблему, вы можете обратиться к обширной базе знаний MEW, которая находится [здесь](https://kb.myetherwallet.com). Существует большая вероятность того, что проблема уже описана в разделе 'Распространенные проблемы'. Если же ее там нет, напишите нам на support@myetherwallet.com. Мы всегда рады помочь!
