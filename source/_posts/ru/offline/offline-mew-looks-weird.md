@@ -1,28 +1,28 @@
 ---
-title: "Offline MEW Looks Weird"
+title: "MEW выглядит странно при автономной работе"
 date: 2018-06-01 00:01:00
 tags:
-  - offline
+  - автономная работа
   - mew
 categories:
   - 
-    - offline
-primary_category: offline
-primary_category_display_name: "Offline"
+    - автономная работа
+primary_category: автономная работа
+primary_category_display_name: "Автономная работа"
 alias:
   - offline/local-offline-myetherwallet-does-not-work-properly.html
 ---
 
-# **Offline MEW Looks Weird**
+# **MEW выглядит странно при автономной работе**
 
-###### {% read_time title "Offline MEW Looks Weird" %} min read
+###### {% read_time title "MEW выглядит странно при автономной работе" %} мин. на прочтение
 
 * * *
 
-Make sure that you unzip all the contents of the `.zip` into a separate, empty folder. Then, open the `index.html` file in your browser.
+Убедитесь, что вы распаковали содержимое `.zip` в отдельную пустую папку. Откройте файл `index.html` в своем браузере.
 
-## **The folder structure should look like this:**
+## **Структура директории должна выглядеть так:**
 
 <img src="/images/posts/offline/Wb08Tm3.jpg" width="" />
 
-If you don't unzip the folder, or only unzip the `index.html` file, the page won't be loaded correctly. Be sure to use a modern browser like Chrome or Firefox as well.
+Если вы разархивируете не всю папку или только `index.html`, страница будет загружена неправильно. Используйте современный браузер, такой как Chrome или Firefox.
