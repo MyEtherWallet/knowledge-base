@@ -1,48 +1,48 @@
 ---
-title: "Importing a V2 JSON File"
+title: "Импорт файла V2 JSON"
 date: 2018-06-01 00:01:00
 tags:
-  - importing
-  - import
+  - импорт
+  - импорт
   - v2
   - json
 categories:
   - 
     - migration
 primary_category: migration
-primary_category_display_name: "Migrating To And From MEW"
+primary_category_display_name: "Переход с и на MEW"
 alias:
   - migration/importing-v2-json-wallet-file-myetherwallet.html
 ---
 
-# **Importing a V2 JSON File**
+# **Импорт файла V2 JSON**
 
-###### {% read_time title "Importing a V2 JSON File" %} min read
+###### {% read_time title "Импорт файла V2 JSON" %} мин. на прочтение
 
 * * *
 
-These random V2 JSON files always make things complex. We apologize in advance.
+С файлами V2 JSON постоянно возникают проблемы. Мы заранее извиняемся за них.
 
-You need to convert it to the standard V3 ('Keystore / UTC') file. The easiest way is using geth.
+Вам придется конвертировать его в стандартный файл V3 ('Хранилище ключей / UTC'). Geth является самым простым способом сделать это.
 
-Download [the appropriate version of the geth](https://github.com/ethereum/go-ethereum/releases) based on your operating system.
+Загрузите соответствующую вашей операционной системе [версию geth](https://github.com/ethereum/go-ethereum/releases).
 
-Once you download it, extract the zip. Also copy your V2 JSON file into the same folder.
+Распакуйте zip-архив, когда загрузка будет завершена. Скопируйте файл V2 JSON в ту же папку.
 
-There are really explicit instructions for PC and Mac users [here](https://ethereum.stackexchange.com/questions/465/How-to-import-a-plain-private-key-into-geth-or-mist).
+Точные инструкции для пользователей ПК и Mac можно найти [здесь](https://ethereum.stackexchange.com/questions/465/How-to-import-a-plain-private-key-into-geth-or-mist).
 
-Now you have to open a command line window and type in the following command:
+Теперь вам нужно открыть командную строку и ввести следующую команду:
 
 `geth account import nameofyourwalletfile`
 
-This will import your file into geth and convert it to the latest (V3) keystore file.
+Она позволит импортировать ваш файл в geth и преобразовать его в хранилище ключей последней версии (V3).
 
-## **Now you need to go find it in one of the following locations:**
+## **Теперь вам нужно перейти в одну из следующих директорий:**
 
 * Mac: `~/Library/Ethereum`
 * Linux: `~/.ethereum`
 * Windows: `%APPDATA%\Ethereum`
 
-Copy that file, and select it on [MEW](https://www.myetherwallet.com), and you're good to go!
+Скопируйте путь к файлу, который найдете там, а затем выберите его в [MEW](https://www.myetherwallet.com), вот и все!
 
-Moving foward, use this file. Keep a backup of it (and the old file, just in case).
+В дальнейшей работе используйте этот файл. Сохраните его резервную копию (и старый файл тоже, на всякий случай).
