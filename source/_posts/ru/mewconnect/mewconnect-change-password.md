@@ -1,9 +1,9 @@
 ---
-title: "How to Change Your Password on MEWconnect"
+title: "Как изменить пароль на MEWconnect"
 date: 2018-06-01 00:06:00
 tags:
   - mewconnect
-  - password
+  - пароль
 categories:
   - 
     - mewconnect
@@ -11,45 +11,45 @@ primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 ---
 
-# **How to Change Your Password on MEWconnect**
+# **Как изменить пароль на MEWconnect**
 
-###### {% read_time title "How to Change Your Password on MEWconnect" %} min read
+###### {% read_time title "Как изменить пароль на MEWconnect" %} мин. на прочтение
 
 * * *
 
-To change your password on MEWconnect, all you need is your phone and your 24-word recovery phrase.
+Чтобы изменить свой пароль в MEWconnect, вам потребуется телефон и фраза для восстановления из 24 слов.
 
-If you still remember your password and do not have your 24-word recovery phrase, please read this article on [how to backup your wallet](/@@@@@@/mewconnect/mewconnect-user-guide/) (found in section 2). Resetting your wallet without knowing your recovery phrase will result in the permanent loss of your wallet.
+Если вы все еще помните свой пароль, но у вас нет фразы для восстановления из 24 слов, прочтите статью о том, [как сделать резервную копию вашего кошелька](/@@@@@@/mewconnect/mewconnect-user-guide/) (см. раздел 2). Сброс кошелька без знания фразы восстановления приведет к его полной потере.
 
-If you do not remember your password and do not have your 24-word recovery phrase, there is nothing we can do. Retrace your steps and try to remember your password, or your wallet will be lost forever.
+Если вы не помните пароль и фразу для восстановления из 24 слов, мы ничего не сможем сделать. Восстановите в памяти свои действия и попытайтесь вспомнить пароль, иначе ваш кошелек будет потерян навсегда.
 
-## **Change Your Password**
+## **Смена пароля**
 
-**Step 1.** Reset your wallet, either on the login screen or under our ‘Info’ section.
+**Шаг 1.** Сбросьте свой кошелек на экране входа в систему или в разделе ‘Информация’.
 
-* Choose ‘Forgot password?’ on the home screen, or ‘Reset wallet >’ in the Info tab.
+* Нажмите ‘Забыли пароль?’ на главном экране или ‘Сброс кошелька >’ на вкладке ‘Информация’.
 
 <img src="/images/posts/mewconnect/ForgotPassMC.jpg" width="35%" />
 
 * * *
 
-**Step 2.** Enter your 24-word recovery phrase. Make sure each word is in the correct order and spelled accurately.
+**Шаг 2.** Введите фразу для восстановления из 24 слов. Убедитесь, что все слова расположены в правильном порядке и написаны правильно.
 
-* Do not include commas between the words, only a single space.
+* Не вводите запятые между словами, используйте только один пробел.
 
 <img src="/images/posts/mewconnect/MainResetMC.jpg" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" width="30%" />
 
 * * *
 
-**Step 3.** Enter a new password. Please choose a difficult one, for increased security.
+**Шаг 3.** Введите новый пароль. Выберите сложный для повышения уровня безопасности.
 
-* Be sure to write this password down somewhere, so you don’t forget it! 
-* We cannot recover or change your password for you.
+* Обязательно запишите где-нибудь этот пароль, чтобы не забыть его! 
+* Мы не сможем восстановить или изменить ваш пароль.
 
 <img src="/images/posts/mewconnect/RecoverMC.jpg" width="30%" />
 
 * * *
 
-**Step 4.** Celebrate, you’re done!
+**Шаг 4.** Ура, все готово!
 
 <img src="/images/posts/mewconnect/YoureDoneMC.jpg" width="30%" />
