@@ -1,9 +1,9 @@
 ---
-title: "Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW"
+title: "Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW"
 date: 2018-06-01 00:02:00
 tags:
-  - moving
-  - move
+  - переход
+  - переход
   - биржа
   - coinbase
   - gemini
@@ -14,35 +14,35 @@ categories:
   - 
     - migration
 primary_category: migration
-primary_category_display_name: "Migrating To And From MEW"
+primary_category_display_name: "Переход с и на MEW"
 alias:
   - migration/moving-from-coinbase-to-myetherwallet.html
 ---
 
-# **Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW**
+# **Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW**
 
-###### {% read_time title "Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW" %} min read
+###### {% read_time title "Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW" %} мин. на прочтение
 
 * * *
 
-First, it’s important to tell [the difference between an exchange and MyEtherWallet (MEW)](/@@@@@@/getting-started/difference-between-mew-and-exchange/).
+Во-первых, [важно перечислить отличия между обменниками и MyEtherWallet (MEW)](/@@@@@@/getting-started/difference-between-mew-and-exchange/).
 
-## **Let’s review:**
+## **Давайте рассмотрим их:**
 
-* MyEtherWallet (MEW) is not an exchange.
-* MEW does not hold your information or funds. 
-* The user is in complete control of their security. Это значит: 
-    * If you lose your private key, we cannot retrieve it. 
-    * If you forget your password, we cannot locate or reset it.
-    * We cannot reverse or refund any transactions. 
-    * If you are phished, the only way for the attacker to get your information is through your own use. We never had it.
-    * We cannot look up your attacker’s IP address or information.
-    * We only have access to the information that is publicly available on the blockchain.
+* MyEtherWallet (MEW) не является обменником.
+* MEW не хранит ваши данные или средства. 
+* Пользователь полностью контролирует их безопасность. Это означает: 
+    * Если вы потеряете свой закрытый ключ, мы не сможем его восстановить. 
+    * Если вы забудете свой пароль, мы не сможем восстановить или сбросить его.
+    * Мы не сможем отменить или возместить любые транзакции. 
+    * Если вы подверглись фишингу, злоумышленник может получить данные только от вас. У нас их никогда не было.
+    * Мы не можем узнать IP-адрес или другую информацию о злоумышленнике.
+    * У нас есть только общедоступная информация из блокчейна.
 
-We are decentralized, meaning there are no central servers or powers to control everything. MEW is client-side and acts as a doorway to interact with the Ethereum blockchain. In the same way that a door does not know who’s using it, cannot restore accounts, and cannot hold funds, neither can we.
+Мы децентрализованы, что означает отсутствие центральных серверов и полномочий полного контроля. MEW работает на стороне клиента и действует как шлюз для взаимодействия с блокчейном Ethereum. Точно так же, как дверь не обладает информацией о том, кто ее использует, мы тоже не может восстановить доступ к счетам и не содержим средств.
 
-What we DO offer is freedom and a true sense of security. You gain complete control over your finances and information. You have the security of knowing that even if MEW shut down, you could still access your funds with a number of other decentralized ETH wallet platforms, or even directly on the blockchain itself. You are the only one with your information, and if MEW gets hacked, it won’t affect you. Because your funds and usage are not stored in MEW. They are on the blockchain, and you access them anonymously.
+То, что мы ДЕЛАЕМ, — это и есть свобода и настоящее чувство безопасности. Вы сохраняете полный контроль над своими финансами и данными. Вы можете быть уверены, что даже если MEW закроется, вы все равно сможете получить доступ к своим средствам с помощью ряда других децентрализованных ETH-кошельков или даже непосредственно с помощью самого блокчейна. Только вы владеете своей информацией, если MEW будет взломан, это никак не повлияет на вас. Ваши средства и история не хранятся в MEW. Они находятся в блокчейне, и вы получаете к ним доступ анонимно.
 
-Once you’ve made the distinction, you’ll be ready to [create your MEW wallet](/@@@@@@/getting-started/how-to-create-a-wallet/). Before you do that, though, we suggest you read through our [‘Getting Started’](/@@@@@@/getting-started/) category. It contains all the knowledge you need to begin your crypto journey with confidence.
+Как только вы поймете разницу, вы будете готовы [создать собственный кошелек MEW](/@@@@@@/getting-started/how-to-create-a-wallet/). Прежде чем вы приступите, мы предлагаем вам ознакомиться с разделом [‘Начало работы’](/@@@@@@/getting-started/). В нем содержатся все знания, необходимые для уверенного начала вашего путешествия в мир криптовалют.
 
-### Bon voyage!
+### Счастливого пути!
