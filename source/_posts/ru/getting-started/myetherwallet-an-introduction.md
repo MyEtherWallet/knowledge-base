@@ -70,14 +70,14 @@ MyEtherWallet (MEW) — это клиентский интерфейс с отк
 
 ## **Как обеспечить себе безопасность?**
 
-* The most secure way to access your funds is through a hardware wallet, like a [Ledger Nano S](https://www.ledger.com/?r=fa4b) or [Trezor](https://trezor.io/?offer_id=12&aff_id=2029). If you have over $200 in crypto, there is little excuse not to get one.
-* When using a private key, keystore/JSON file, or mnemonic phrase, make sure to keep them solely on physical paper and offline computers. This information is extremely sensitive. And make backups! If you lose this information, it’s gone forever.
-* Always check the URL you are using to make sure it says www.myetherwallet.com. And bookmark us for future use!
-* Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc), or [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) to block malicious websites.
-* Make sure the URL bar says ‘MyEtherWallet Inc [US]’, or ‘Secure’ when using Chrome.
-* Do not trust any messages sent to you randomly from ‘our team’. We do not have your information, and they are likely trying to scam you. We never email our users first. 
-* Install an [AdBlocker](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), and do not click on any ads you see on your search engine.
-* [Do your research!](http://google.com) If something seems fishy to you, it’s likely been talked about by the community.
-* If you have additional questions or concerns, reach out to us! Our support team is always happy to help. They can be reached at support@myetherwallet.com
+* Самый безопасный способ получения доступа к вашим средствам — это использование аппаратных кошельков, таких как [Ledger Nano S](https://www.ledger.com/?r=fa4b) или [Trezor](https://trezor.io/?offer_id=12&aff_id=2029). Если вы располагаете криптовалютами на более чем $200 в эквиваленте, то у вас мало причин не приобрести аппаратный кошелек.
+* Используя закрытый ключ, хранилище ключей/JSON-файл или мнемоническую фразу, хранить их следует только в физической форме на бумаге или же на автономных компьютерах. Эта информация чрезвычайно важна. И не забывайте делать резервные копии! Если вы потеряете эту информацию, она будет утрачена навсегда.
+* Переходя по URL-адресу, убедитесь, что он ведет на www.myetherwallet.com. Добавьте нас в закладки для использования в будущем!
+* Установите [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc) или [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) для блокировки вредоносных веб-сайтов.
+* Убедитесь, что в строке URL-адреса указано ‘MyEtherWallet Inc [US]‘ или ‘Безопасное подключение’ при использовании Chrome.
+* Не доверяйте случайным сообщениям от ‘нашей команды’. У нас нет ваших данных, и, вероятно, вас пытаются обмануть. Мы никогда не отправляем писем нашим пользователям первыми. 
+* Установите [AdBlocker](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) и не нажимайте на рекламу в своей поисковой системе.
+* [Проведите свое исследование!](http://google.com) Если что-то показалось вам подозрительным, об этом, вероятно, уже говорили в сообществе.
+* Если у вас появились дополнительные вопросы или проблемы, обратитесь к нам! Наша служба поддержки всегда рада помочь. С нами можно связаться по адресу support@myetherwallet.com
 
-##### Read more about security [here](/@@@@@@/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/).
+##### Узнать больше о безопасности можно [здесь](/@@@@@@/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/).
