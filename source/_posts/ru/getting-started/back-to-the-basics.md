@@ -26,7 +26,7 @@ alias:
 ## **1. Проверьте ссылку, чтобы убедиться, что это MyEtherWallet.com.**
 
 * Сохраните нас в закладках для использования в будущем.
-* Фишинговые мошенники хитры, поэтому проверьте, чтобы ни над одной из букв не было точек и ударений.
+* Фишинговые мошенники хитры, поэтому проверьте, чтобы ни над одной из букв не было точек или ударений.
 * Если обнаружите фишинговый сайт, отправьте его нам, чтобы мы могли с ним разобраться!
 * Скачайте [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc) или [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige), чтобы получать своевременные уведомления при посещении известных фишинговых сайтов.
 
