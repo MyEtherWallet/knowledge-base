@@ -9,7 +9,7 @@ categories:
   - 
     - get-started
 primary_category: get-started
-primary_category_display_name: "Начало работы"
+primary_category_display_name: "С чего начать"
 alias:
   - faq/sending-bitcoin-btc-ltc-xmr-to-myetherwallet.html
 ---
