@@ -78,7 +78,7 @@ alias:
 * Usually, a 12 or 24 word phrase that allows you to access an infinite number of accounts.
 * Used by Ledger, Trezor, MEWconnect, MetaMask, Jaxx, and others.
 * Originates from BIP 39 Spec.
-* The accounts you can access with this phrase are determined by the "path".
+* The accounts you can access with this phrase are determined by the ["derivation path"][path].
 * Example 12-words: 
 `brain surround have swap horror body response double fire dumb bring hazard`
 * Example 24-words: 
@@ -189,3 +189,4 @@ alias:
 [checkSum]: /@@@@@@/common-issues/not-checksummed/
 [example1]: http://i.imgur.com/lHUrIiZ.jpg
 [example2]: http://i.imgur.com/FvyLewS.jpg
+[path]: https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2
