@@ -35,7 +35,7 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 * [Swap](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) a growing number of cryptocurrencies including ERC20 tokens, ETH, ETC, BTC, and REP.
 * Deploy and interact with smart contracts.
 * Send offline, through the use of signatures.
-* Initialize, bid on, and finalize ENS domain auctions.
+* Register and manage ENS domains and subdomains.
 * Access a wealth of educational material from our [Knowledge Base](https://kb.myetherwallet.com/).
 
 ## __What do 'open-source' and 'client-side' mean?__
