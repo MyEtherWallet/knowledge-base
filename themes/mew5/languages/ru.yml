@@ -18,61 +18,61 @@ powered_by: Создано с помощью
 rss_feed: RSS-каналы
 category: Категория
 tag: Метка
-help_center: Help Center
-previous: Previous
-none: None
-faqs: FAQ
-videos: Videos
-share_to: Share to
-tag_line: Lost? Let Us Help.
-home: Home
-privacy: Privacy
-terms: Terms
-copyright: '© 2018 MyEtherWallet Inc. All rights reserved.'
+help_center: Центр поддержки
+previous: Предыдущий
+none: Нет
+faqs: Часто задаваемые вопросы
+videos: Видео
+share_to: Поделиться с
+tag_line: Потерялись? Позвольте нам помочь.
+home: Домашняя страница
+privacy: Конфиденциальность
+terms: Условия
+copyright: '© 2018 MyEtherWallet Inc. Все права защищены.'
 index:
-  intro: Introduction
-  get_started: Get Started
-  common_issues: Common Issues
-  diving_deeper: Diving Deeper
-  access_wallet: Access Wallet
+  intro: Введение
+  get_started: С чего начать
+  common_issues: Распространенные проблемы
+  diving_deeper: Более глубокое ознакомление
+  access_wallet: Получить доступ к кошельку
   mewconnect: MEWconnect
-  private_keys_password: Private Keys & Password
-  hardware_wallet: Hardware Wallet
-  migrating: Migrating
-  security_privacy: Security & Privacy
-  security: Security
-  functions: Functions
-  tokens: Tokens
-  offline: Offline
-  network_and_nodes: Network & Nodes
-  transactions: Transactions
+  private_keys_password: Частные ключи и пароль
+  hardware_wallet: Аппаратный кошелек (hardware wallet)
+  migrating: Миграция
+  security_privacy: Безопасность и конфиденциальность
+  security: Безопасность
+  functions: Функции
+  tokens: Токены
+  offline: Автономная работа
+  network_and_nodes: Сеть и узлы
+  transactions: Транзакции
   swap: Swap
   ens: ENS
   v5: MEW V5
-  dapps: Dapps
+  dapps: Децентрализованные приложения
 help:
-  cantFind: Can't find your answer? Get in touch and we'll get back as soon as we can.
-  community_join: Join the MEW community to get more information.
-  community: Community
-  email_us: Email us
-  customer_support: Customer Support
+  cantFind: Не можете найти свой ответ? Обращайтесь и мы с вами свяжемся, как только сможем.
+  community_join: Присоединяйтесь к НОВОМ сообществу, чтобы получить больше информации.
+  community: Сообщество
+  email_us: Отправьте нам электронное сообщение
+  customer_support: Поддержка клиентов
 misc:
-  send_eth: Send ETH
-  blockchain: Blockchain
-  create_wallet: Create a Wallet
-  top_searches: Top Searches
-  matches_for: matches from this post
+  send_eth: Отправить ETH
+  blockchain: Блокчейн
+  create_wallet: Создание кошелька
+  top_searches: Самые популярные поисковые запросы
+  matches_for: совпадения из этой публикации
 video_tab:
   label_v5: MEW V5
-  title_one_v5: Create a Wallet (MEWconnect)
-  title_two_v5: Wallet Overview
-  title_three_v5: Use MEW Offline & Send a Transaction
-  labelMC: Part %d of MEWconnect 101
-  title_one_mc: Create a wallet
-  title_two_mc: Back up your wallet
-  title_three_mc: Connect to MEW
-  title_four_mc: Make a transaction
-  title_five_mc: Wallet overview
+  title_one_v5: Создать кошелек (MEWconnect)
+  title_two_v5: Обзор кошельков
+  title_three_v5: Использовать MEW в автономном режиме и отправить транзакцию
+  labelMC: "\nЧасть% MEWconnect 101"
+  title_one_mc: Создать кошелек
+  title_two_mc: Сделайте резервную копию вашего кошелька
+  title_three_mc: Подключиться к MEW
+  title_four_mc: Совершить транзакцию
+  title_five_mc: Обзор кошельков
 links:
   mytherwallet: "https://myetherwallet.com"
   privacy_policy: "https://www.myetherwallet.com/privacy-policy"
