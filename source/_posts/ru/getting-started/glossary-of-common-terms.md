@@ -14,7 +14,7 @@ alias:
 ---
 
 # __Словарь общепринятых терминов в сообществе Ethereum/криптовалют__
-##### <i>Here is a list of terms you may encounter while using MyEtherWallet (MEW).<br />You can also [read in Spanish][enEspanol], thanks to faraggi.</i>
+##### <i>Вот список терминов, с которыми вы можете столкнуться, используя MyEtherWallet (MEW).<br />Вы также можете [читать по-испански][enEspanol], благодаря faraggi.</i>
 ###### {% read_time title "A Glossary of Common Terms in the Ethereum / Crypto Community" %} минут на чтение
 ***
 
@@ -75,7 +75,7 @@ alias:
 * Обычно это фраза из 12 или 24 слов, которая дает вам доступ к бесконечному количеству аккаунтов.
 * Используется кошельками Ledger, Trezor, MEWconnect, MetaMask, Jaxx и другими.
 * Берет начало из спецификации BIP 39.
-* The accounts you can access with this phrase are determined by the ["derivation path"](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2).
+* Аккаунты к которым вы можете получить доступ посредством мнемонической фразы определяются ["деривационным путем"](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2).
 * Пример из 12 слов: `brain surround have swap horror body response double fire dumb bring hazard`
 * Пример из 24 слов: `card enrich gesture connect kick topple fan body blind engine lemon swarm venue praise addict agent unaware equal bean sing govern income link leg`
 
