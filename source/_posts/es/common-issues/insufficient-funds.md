@@ -34,4 +34,4 @@ The number displayed in that error message is the amount required to cover the c
 * With tokens, the amount of gas is typically 50000 gas - 100000 gas, so the total TX fee increases to `0.001 ETH - 0.002 ETH`.
 * The amount of ETH or tokens you are sending does not affect the amount of gas you need.
 * **Gas _limit_** is the maximum amount of gas you will send with your transaction. This is in units of gas.
-* **Gas _price_**, which you will not see except on the Offline page, is how much each unit of gas costs. We set it at `0.00000002 ETH`.
+* **Gas _price_** is how much each unit of gas costs. It can be adjusted via the Settings page, or by adjusting the 'Transaction Fee' on the 'send transaction' page. 
