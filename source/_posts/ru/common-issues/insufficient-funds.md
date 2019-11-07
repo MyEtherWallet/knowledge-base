@@ -34,4 +34,4 @@ alias:
 * С токенами количество газа обычно 50 000 — 100 000 единиц, поэтому общий операционный сбор увеличивается до `0,001–0,002 ETH`.
 * Количество ETH или токенов, которые вы отправляете, не влияет на нужное вам количество газа.
 * **_Лимит_ газа** — это максимальное количество газа, которое вы отправите во время транзакции. Это в единицах газа.
-* **Gas _price_**, which you will not see except on the Offline page, is how much each unit of gas costs. Мы установили ее в размере `0,00000002 ETH`.
+* **Gas _price_** is how much each unit of gas costs. It can be adjusted via the Settings page, or by adjusting the 'Transaction Fee' on the 'send transaction' page. 
