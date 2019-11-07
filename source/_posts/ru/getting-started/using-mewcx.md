@@ -1,5 +1,5 @@
 ---
-title: "MEW CX User Guide"
+title: "Руководство пользования MEW CX"
 date: 2018-05-01 00:01:00
 tags:
   - mewcx
@@ -21,8 +21,8 @@ alias:
 ---
 
 
-# __MEW CX User Guide__
-###### {% read_time title "MEW CX User Guide" %} min read
+# __Руководство пользования MEW CX__
+###### {% read_time title "MEW CX User Guide" %} минут на чтение
 ***
 
 MEW CX allows users to have the entirety of MEW in a bite-sized Chrome Extension accessible from their toolbar. Create and manage your wallets, interact with Dapps, and send transactions quick using our QuickSend feature.
