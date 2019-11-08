@@ -43,19 +43,45 @@ To learn more about accessing MEW with hardware wallets, reference our [Migratin
 
 
 
+
+## __MEW CX__
+MEW CX is MyEtherWallet's offical Web3 Chrome Extension wallet. It offers all the functionality of the web-version of MEW in the convenience of an toolbar extension. It also hosts the ability to interact with web-based Dapps, such as CryptoKitties.
+
+
+
+
+## __To connect MEW with MEW CX__
+
+**Step 1.** Install the MEW CX wallet via our Chrome Extension.
+
+**Step 2.** Open the extension and select 'Add Wallet' to create a new wallet or add an existing one.
+
+**Step 2.** Once you've saved a wallet, head to the MEW website. On the front page, select 'Access My Wallet'.
+
+**Step 3.** Select the 'Web3' option to connect.
+
+**Step 4.** Read and accept the ‘Terms and Conditions’, then select ‘Access My Wallet’.
+
+**Step 5.** Confirm which wallet you'd like to connect with in the MEW CX pop-up window, or select 'Burner Account' for a temporary wallet.
+
+**Step 6.** You're done!
+
+
+
+
 ## __MetaMask__
-Это расширение для Chrome, позволяющее создать кошелек на базе ethereum, который хранит ваш закрытый ключ в зашифрованном виде в самом расширении. Оно также создает мнемоническую фразу из 12 слов, нужную для восстановления. MetaMask позволяет пользователям давать разным кошелькам имена, просматривать остаток средств в расширении, а также дает возможность при желании импортировать информацию о закрытом ключе ранее созданного кошелька.
+This is a Chrome Extension that allows the creation of an ethereum-based wallet that keeps one’s private key encrypted within the extension itself. It also generates a 12-word mnemonic phrase for recovery purposes. MetaMask allows users to name their separate wallets, see funds within the extension, and offers the option to import the private key information of a previously created wallet, if desired.
 
 
 
-## __Для подключения MEW с помощью MetaMask:__
+## __To connect MEW with MetaMask:__
 #### __Предполагается, что у вас уже есть кошелек MetaMask.__
 
 **Step 1.** Login to your MetaMask wallet via their Chrome Extension.
 
 **Step 2.** On the MEW front page, select 'Access My Wallet'.
 
-**Step 3.** Select the 'MetaMask' option to connect.
+**Step 3.** Select the 'Web3' option to connect.
 
 **Step 4.** Read and accept the ‘Terms and Conditions’, then select ‘Access My Wallet’.
 
@@ -65,19 +91,19 @@ To learn more about accessing MEW with hardware wallets, reference our [Migratin
 
 
 
-## __Хранилище ключей / JSON + пароль__
-Хранилище ключей / JSON — это файл, который содержит зашифрованную версию закрытого ключа. Этот ключ зашифрован с помощью выбранного пользователем пароля. Фактически изменить пароль этих файлов невозможно. Единственный способ изменить пароль — это создать совершенно новый файл хранилища ключей. Это можно сделать в нашем расширении MEW для Chrome с помощью вашего закрытого ключа. Файлы хранилищ ключей не следует открывать. Их нужно использовать только в опции "Хранилище ключей / JSON" на нашем сайте и тогда, когда запрашивают ваш файл JSON. Прочитать подробнее о функционале файла хранилища ключей / JSON-файла можно [здесь](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).
+## __Keystore/JSON + Password__
+The Keystore/JSON is a file that holds an encrypted version of one’s private key. This key is encrypted with a chosen password by the user. As such, it is impossible to change the password for these files. The only way to change the password is to make a completely new Keystore file, which can be achieved in our MEW Chrome Extension with one’s private key. Keystore files should not be opened. They are only to be utilized when accessing the Keystore/JSON option on our site and when prompted for one’s ‘JSON file’. You can read more about the functionality of a Keystore/JSON file [here](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).
 
 
 
-## __Для подключения с помощью хранилища ключей / JSON и пароля:__
+## __To connect with Keystore/JSON + Password:__
 #### __Такой способ подключения не рекомендуется. Мы настоятельно рекомендуем при таком варианте [использовать MEW в автономном режиме](/@@@@@@/offline/offline-mew-looks-weird/).__
 
 **Step 1.** On the MEW front page, select 'Access My Wallet'.
 
 **Step 2.** Choose the ‘Software’ option to connect, then select ‘JSON File’ and click ‘Continue’.
 
-**Step 3.** Locate your Keystore/JSON file in the pop-up window. Он должен начинаться с "UTC--".
+**Step 3.** Locate your Keystore/JSON file in the pop-up window. It should begin with ‘UTC--’.
 
 **Step 4.** Enter your password, and click 'Unlock wallet'.
 
@@ -85,12 +111,12 @@ To learn more about accessing MEW with hardware wallets, reference our [Migratin
 
 
 
-## __Мнемоническая фраза (+ пароль)__
-Это список, в который входит от 12 до 24 слов, созданный и выданный пользователям при определенных способах создания кошелька (например, MEWconnect, MetaMask, аппаратные кошельки, кошельки JAXX и т. п.). Иногда с этими фразами связаны пароли, иногда — нет. Порядок и написание слов в мнемонической фразе напрямую связаны с закрытым ключом, поэтому такой способ не рекомендуется для регулярного доступа к кошельку. Эту фразу лучше использовать только для восстановления.
+## __Mnemonic Phrase (+ Password)__
+This is a list of 12 to 24 words that are generated and given to users upon certain forms of wallet creation (i.e. MEWconnect, MetaMask, Hardware Wallets, JAXX wallets, etc.). Sometimes these phrases have passwords associated with them, and sometimes they do not. The order and spelling of the words in a mnemonic phrase is directly tied to one’s private key, and therefore is not recommended as a regular way to access a wallet. It is best to only use this phrase for recovery purposes.
 
 
 
-## __Для подключения с помощью мнемонической фразы (и пароля):__
+## __To connect with Mnemonic Phrase (+ Password):__
 #### __Такой способ подключения не рекомендуется. Мы настоятельно рекомендуем при таком варианте [использовать MEW в автономном режиме](/@@@@@@/offline/offline-mew-looks-weird/).__
 
 **Step 1.** On the MEW front page, select 'Access My Wallet'.
@@ -106,11 +132,11 @@ To learn more about accessing MEW with hardware wallets, reference our [Migratin
 
 
 ## __Закрытый ключ__
-Закрытый ключ — это строка из 64 символов, неразрывно связанная с публичным адресом. Это то, что дается пользователям при создании кошельков и иногда хранится в зашифрованном виде (в случае MEWconnect, MetaMask и аппаратных кошельков). *Using one’s private key should always be a last-ditch effort of access, only to be utilized when all else fails.* This should not be the main method of entry for anyone to access their wallets. Закрытые ключи — это самые ценные сведения, относящиеся к кошельку, потому что они дают непосредственный доступ и не могут быть изменены. Поэтому крайне важно хранить их в тайне, в надежном и защищенном месте.
+The private key is a string of 64 characters tied permanently to a public address. This is sometimes given to users when wallets are created and sometimes kept encrypted (in the case of MEWconnect, MetaMask, and Hardware Wallets). *Using one’s private key should always be a last-ditch effort of access, only to be utilized when all else fails.* This should not be the main method of entry for anyone to access their wallets. Private keys are the number one most sensitive information anyone can have for a wallet, because private keys allow immediate access and can never be changed. Therefore, it is extremely important to keep this safe, secure, and secret.
 
 
 
-## __Для подключения с помощью закрытого ключа:__
+## __To connect with Private Key:__
 #### __Такой способ подключения не рекомендуется. Мы настоятельно рекомендуем при таком варианте [использовать MEW в автономном режиме](/@@@@@@/offline/offline-mew-looks-weird/).__
 
 **Step 1.** On the MEW front page, select ‘Access My Wallet’.
