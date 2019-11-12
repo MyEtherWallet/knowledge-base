@@ -1,5 +1,5 @@
 ---
-title: "Using AmbrPay"
+title: "Using Ambrpay"
 date: 2018-06-01 00:02:00
 tags:
 - ambrpay
@@ -14,15 +14,15 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# __Using AmbrPay__
-###### {% read_time title "Using AmbrPay" %} min read
+# __Using Ambrpay__
+###### {% read_time title "Using Ambrpay" %} min read
 ***
 
-AmbrPay has integrated with MEW to set up and manage recurring payments. This can be utilized in a variety of ways, like setting up subscriptions for services or managing frequent payments to friends, etc. 
+Ambrpay has integrated with MEW to set up and manage recurring payments. This can be utilized in a variety of ways, like setting up subscriptions for services or managing frequent payments to friends, etc. 
 
-###### If you’d like to set up a payment system with AmbrPay, you will need a wallet you can [access with our interface][access]. If you do not have a wallet, [click here][create] to set one up. 
+###### If you’d like to set up a payment system with Ambrpay, you will need a wallet you can [access with our interface][access]. If you do not have a wallet, [click here][create] to set one up. 
 
-## __Using AmbrPay with MEW__
+## __Using Ambrpay with MEW__
 
 **Step 1.** Access your wallet. 
 * Choose your preferred method of access. 
@@ -30,18 +30,18 @@ AmbrPay has integrated with MEW to set up and manage recurring payments. This ca
 <img src="/images/posts/diving-deeper/AmbrPay1.png" width="100%">
 
 **Step 2.** Head to the Dapps section to the left of your wallet’s dashboard. 
-* Select AmbrPay from our list of Dapps.
+* Select Ambrpay from our list of Dapps.
 
 <img src="/images/posts/diving-deeper/AmbrPay2.png" width="100%">
 
-**Step 3**. Add funds to your balance.
-* AmbrPay pulls your subscription payments from a pool of funds you deposit into the contract. Select how much you’d like to send to this pool. 
-* AmbryPay takes a 1% fee for this service.
+**Step 3**. Add funds to your balance by selecting 'Add Funds'.
+* Ambrpay pulls your subscription payments from a pool of funds you deposit into the contract. Select how much you’d like to send to this pool. 
+* Ambrpay takes a 1% fee for this service.
 
 <img src="/images/posts/diving-deeper/AmbrPay3.png" width="100%">
 
 **Step 4.** Set up the subscription.
-* Determine how much you’d like to pay and how often you’d like this payment to occur (in days). 
+* Fill in the details of your subscription. Determine how much you’d like to pay and how often you’d like this payment to occur (in days). 
 
 <img src="/images/posts/diving-deeper/AmbrPay4.png" width="100%">
 
