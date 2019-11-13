@@ -9,7 +9,7 @@ categories:
   - 
     - аппаратные-кошельки
 primary_category: аппаратные-кошельки
-primary_category_display_name: "Аппаратные кошельки"
+primary_category_display_name: "Аппаратные кошельки (Hardware wallets)"
 alias:
   - migration/moving-from-private-key-to-ledger-hardware-wallet.html
 ---
