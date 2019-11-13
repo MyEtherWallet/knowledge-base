@@ -9,7 +9,7 @@ categories:
   - 
     - аппаратные-кошельки
 primary_category: аппаратные-кошельки
-primary_category_display_name: "Аппаратные кошельки"
+primary_category_display_name: "Аппаратные кошельки (Hardware wallets)"
 ---
 
 # __Использование аппаратного кошелька Digital BitBox с MEW__
