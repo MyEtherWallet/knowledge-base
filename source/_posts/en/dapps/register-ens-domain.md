@@ -48,7 +48,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 <img src="/images/posts/diving-deeper/3ensnew.png" width="100%">
 
 **Step 4.** Enter your desired domain name to see if it is available.
-* ENS domains must be 7 characters or longer.
+* ENS domains must be 3 characters or longer.
 * Keep in mind that the final product will look like `YourDomainHere.eth`.
 * You can also search Etherscan.io for available ENS domains.
 * If it says to migrate the ENS domain to the new registrar, that means it is unavailable (unless it's already yours, in which case you should migrate it. All migrations must take place by May 4th, 2020.)
