@@ -76,8 +76,8 @@ You’re in charge of your own funds and information.
 * The most secure way to access your funds is through a hardware wallet, like a [Ledger Nano S][ledger] or [Trezor][trezor]. If you have over $200 in crypto, there is little excuse not to get one.
 * When using a private key, keystore/JSON file, or mnemonic phrase, make sure to keep them solely on physical paper and offline computers. This information is extremely sensitive. And make backups! If you lose this information, it’s gone forever.
 * Always check the URL you are using to make sure it says www.myetherwallet.com. And bookmark us for future use!
+* Make sure the URL bar shows a secure padlock on the left. If you click it, you should see "Certificate (Valid) Issued to: MyEtherWallet Inc [US]".
 * Install [EAL][EAL], [PhishFort][PhishFort], or [Cryptonite][Cryptonite] to block malicious websites.
-* Make sure the URL bar says ‘MyEtherWallet Inc [US]’, or ‘Secure’ when using Chrome.
 * Do not trust any messages sent to you randomly from ‘our team’. We do not have your information, and they are likely trying to scam you. We never email our users first. 
 * Install an [AdBlocker][13], and do not click on any ads you see on your search engine.
 * [Do your research!][14] If something seems fishy to you, it’s likely been talked about by the community.
