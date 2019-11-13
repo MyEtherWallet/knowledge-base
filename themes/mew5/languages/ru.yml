@@ -23,7 +23,7 @@ previous: Предыдущий
 none: Нет
 faqs: Часто задаваемые вопросы
 videos: Видео
-share_to: Поделиться с
+share_to: Поделиться
 tag_line: Потерялись? Позвольте нам помочь.
 home: Домашняя страница
 privacy: Конфиденциальность
@@ -36,7 +36,7 @@ index:
   diving_deeper: Более глубокое ознакомление
   access_wallet: Получить доступ к кошельку
   mewconnect: MEWconnect
-  private_keys_password: Частные ключи и пароль
+  private_keys_password: Закрытые ключи и пароль
   hardware_wallet: Аппаратный кошелек (hardware wallet)
   migrating: Миграция
   security_privacy: Безопасность и конфиденциальность
@@ -52,15 +52,15 @@ index:
   dapps: Децентрализованные приложения
 help:
   cantFind: Не можете найти ответ? Обращайтесь и мы с вами свяжемся, как только сможем.
-  community_join: Присоединяйтесь к НОВОМ сообществу, чтобы получить больше информации.
+  community_join: Присоединяйтесь к сообществу MEW, чтобы получить больше информации.
   community: Сообщество
   email_us: Отправьте нам электронное сообщение
-  customer_support: Поддержка клиентов
+  customer_support: Служба поддержки
 misc:
   send_eth: Отправить ETH
   blockchain: Блокчейн
-  create_wallet: Создание кошелька
-  top_searches: Самые популярные поисковые запросы
+  create_wallet: Создать кошелек
+  top_searches: Популярные поисковые запросы
   matches_for: совпадения из этой публикации
 video_tab:
   label_v5: MEW V5
