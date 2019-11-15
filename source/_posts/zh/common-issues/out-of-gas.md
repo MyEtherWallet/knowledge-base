@@ -20,7 +20,7 @@ alias:
 
 Each transaction (including token and contract transactions) require gas and that gas is paid in Ether. You can think of this like a transaction fee. The more computational effort a transaction takes, the more gas you need.
 
-MyEtherWallet estimates how much gas you will need - but sometimes it doesn't get it right.
+MyEtherWallet estimates how much gas you will need - but you can always set it manually as well .
 
 ## __Solution: Try manually increasing the "Gas limit" by doubling it.__
 
