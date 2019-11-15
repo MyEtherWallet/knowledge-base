@@ -22,11 +22,11 @@ alias:
 
 ## __Для исправления этой ошибки выполните, пожалуйста, следующие действия:__
 
-**Step 1.** Plug in your Ledger device. Убедитесь, что все всплывающие окна, включая Ledger Live, закрыты.
+**Шаг 1.** Подключите ваше устройство Ledger. Убедитесь, что все всплывающие окна, включая Ledger Live, закрыты.
 
-**Step 2.** Unlock your Ledger device, and navigate to the Ethereum section.
+**Шаг 2.** Разблокируйте устройство Ledger и перейдите в раздел Ethereum.
 
-**Step 3.** On MyEtherWallet.com, choose the ‘Access My Wallet’ option.
+**Шаг 3.** На MyEtherWallet.com выберите опцию "Доступ к кошельку".
 
 **Step 4.** Choose the ‘Ledger’ option next, and connect to your device.
 
