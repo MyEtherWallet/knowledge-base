@@ -13,7 +13,7 @@ categories:
   - 
     - swap
 primary_category: swap
-primary_category_display_name: "Swap"
+primary_category_display_name: "Обмен"
 ---
 
 # __Обмен ETH и токенов ERC20 через Kyber Network / Bity / Changelly__
@@ -34,7 +34,7 @@ primary_category_display_name: "Swap"
 
 Если у вас возникли проблемы с обменом, обратитесь в службу поддержки соответствующей биржи. Вот их адреса эл. почты:
 
-* Bity - Their help center is integrated into their site.
+* Bity — Их справочный центр интегрирован в их сайт.
 * Kyber Network — support@kyber.network
 * Changelly — support@changelly.com
 
