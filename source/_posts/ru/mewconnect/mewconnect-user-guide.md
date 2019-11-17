@@ -21,17 +21,17 @@ alias:
 <img class="image-right" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%" />
 
 ## __1. Создание кошелька__
-**Step 1.** Open your MEWconnect app.
+**Шаг 1.** Откройте ваше приложение MEWconnect.
 
-**Step 2.** Click "Create New Wallet".
+**Шаг 2.**Нажмите "Создать новый кошелек".
 
-**Step 3.** Pick a strong password.
+**Шаг 3.** Выберите надежный пароль.
 
 Этот шаг очень важен. Убедитесь, что вы выбрали пароль, который сложно подобрать, а затем запишите его ручкой на бумаге. Есть только один другой способ получения доступа к вашему кошельку, к которому мы скоро обратимся.
 
-**Step 4.** Type it again.
+**Шаг 4.** Введите его еще раз.
 
-**Step 5.** Click "Start using MEWconnect".
+**Шаг 5.** Нажмите "Начать пользоваться MEWconnect".
 
 Все готово! Вы попадете на экран, на котором будет указан адрес вашего нового кошелька, подсвеченный уникальным цветовым кодом. На этом экране вы найдете все свои токены ETH и ERC20. Рядом с вашим адресом есть удобная кнопка ‘Поделиться’, если вы хотите отправить его кому-либо.
 <br />
@@ -40,19 +40,19 @@ alias:
 <img class="image-left" src="/images/posts/mewconnect/BackupMC.png" align="left" width="30%" />
 
 ## __2. Создание резервной копии__
-**Step 1.** Select "Back Up" on your wallets homepage.
+**Шаг 1.** Выберите "Резервное копирование" на главной странице вашего кошелька.
 
-**Step 2.** Click "Back Up Now".
+**Шаг 2.** Нажмите "Выполнить резервное копирование сейчас".
 
-**Step 3.** Get a pen and paper ready. Нажмите ‘Начать’.
+**Шаг 3.** Приготовьте ручку и бумагу. Нажмите ‘Начать’.
 
-**Step 4.** Enter in your password to verify you’re you.
+**Шаг 4.** Введите ваш пароль, чтобы подтвердить, что это вы.
 
-**Step 5.** WRITE DOWN YOUR SEED WORDS.
+**Шаг 5.** ЗАПИШИТЕ ВАШИ SEED-СЛОВА.
 
 Это самая важная информация о вашем кошельке. Данные 24 слова определят будущее ваших средств. Не потеряйте их, запишите!
 
-**Step 6.**  Pass the seed word check test.
+**Шаг 6.** Пройдите тест на проверку seed-слов.
 
 Все готово! Резервные копии сделаны, вы можете подключиться к MEW
 <br />
@@ -61,19 +61,19 @@ alias:
 <img class="image-right" src="/images/posts/mewconnect/ScanQRMC.jpg" align="right" width="30%" />
 
 ## __3. Подключение к MEW__
-**Step 1.** Unlock your wallet on MEWconnect.
+**Шаг 1.** Откройте ваш кошелек в MEWconnect.
 
-**Step 2.** Find a desktop computer. Head to the [MEW](https://www.myetherwallet.com) site.
+**Шаг 2.** Найдите настольный компьютер. Направляйтесь на сайт [MEW](https://www.myetherwallet.com).
 
 Проверьте наличие сертификат SSL с указанием ‘MyEtherWallet Inc [US]’ в строке адреса. Мы рекомендуем использовать браузер Google Chrome.
 
-**Step 3.** Choose the ‘Send Ether & Tokens’ tab.
+**Шаг 3.** Выберите вкладку "Отправить Ether и токены".
 
-**Step 4.** Click ‘MEWconnect’ as the method of access.
+**Шаг 4.** Выберите MEWconnect в качестве способа входа.
 
-**Step 5.** On the app, click ‘Scan to Connect’.
+**Шаг 5.** В приложении нажмите "Сканировать для подключения".
 
-**Step 6.** Now use MEWconnect to scan the QR code.
+**Шаг 6.** Теперь используйте MEWconnect, чтобы отсканировать QR-код.
 
 Все готово! Теперь вы сможете использовать наш интерфейс как обычно, получая доступ к нему с помощью приложения MEWconnect. Поздравляем!
 <br />
@@ -82,15 +82,15 @@ alias:
 <img class="image-left" src="/images/posts/mewconnect/TransferMC.jpg" align="left" width="30%" />
 
 ## __4. Совершение транзакции__
-**Step 1.**  Unlock your wallet on MEWconnect.
+**Шаг 1.**  Откройте ваш кошелек в MEWconnect.
 
-**Step 2.**  Connect to the [MEW](https://www.myetherwallet.com) site, as shown above.
+**Шаг 2.** Выполните подключение к сайту [MEW](https://www.myetherwallet.com), как показано выше.
 
-**Step 3.**  Follow the process of a regular transaction.
+**Шаг 3.** Пройдите все этапы обычной транзакции.
 
 Заполните поля ‘Адрес для отправки’, ‘Сумма’ и ‘Лимит комиссии’. Если у вас возникли какие-либо вопросы, обратитесь к нашей статье [Как совершить транзакцию](/@@@@@@/transactions/how-to-send-a-transaction/).
 
-**Step 4.**  Confirm your transaction on the MEWconnect app.
+**Шаг 4.** Подтвердите вашу транзакцию в приложении MEWconnect.
 
 Все готово! Ваша транзакция отправлена в сеть, скоро вы сможете проверить ее статус с помощью предоставленного идентификатора транзакции.
 <br />
@@ -99,19 +99,19 @@ alias:
 <img class="image-right" src="/images/posts/mewconnect/OverviewMC.jpg" align="right" width="30%" />
 
 ## __5. Данные о кошельке__
-**Step 1.**  Where to see tokens.
+**Шаг 1.** Где посмотреть токены.
 
 Их можно найти внизу экрана кошелька. MEWconnect поддерживает только стандартный список токенов, представленный на MyEtherWallet.
 
-**Step 2.**  Where to contact us.
+**Шаг 2.** Как связаться с нами.
 
 В левом верхнем углу находится информационная кнопка, предоставляющая доступ к контактным данным и другие интересные ссылки.
 
-**Step 3.**  Where to buy ETH.
+**Шаг 3.** Как купить ETH.
 
 Вы можете приобрести ETH в приложении MEWconnect, нажав на верхнюю правую кнопку ‘Купить Ether’.
 
-**Step 4.**  How to share your address.
+**Шаг 4.** Как поделиться своим адресом.
 
 Вы можете поделиться своим адресом с кем угодно, нажав кнопку со стрелкой справа от вашего адреса. Вам будут предложены различные варианты, такие как текстовое сообщение, электронное письмо, twitter и т.д.
 <br />
@@ -119,4 +119,4 @@ alias:
 
 ***
 
-#### To download the MEWconnect app, visit [mewconnect.myetherwallet.com](https://mewconnect.myetherwallet.com/).
+#### Чтобы скачать приложение MEWconnect, перейдите на [mewconnect.myetherwallet.com](https://mewconnect.myetherwallet.com/).
