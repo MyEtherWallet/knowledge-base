@@ -23,44 +23,44 @@ primary_category_display_name: "Автономная работа"
 
 ## __Поиск номера транзакции и ее данных__
 
-**Step 1.** Head to MyEtherWallet.com on your **online** computer.
+**Шаг 1.** Направляйтесь на MyEtherWallet.com на компьютере, **подключенном к сети**.
 
-**Step 2.** At the bottom, in the footer, choose the 'Send Offline Helper' tool.
+**Шаг 2.** В нижней части страницы, в футере, выберите инструмент "Помощник с офлайн-отправкой".
 
-**Step 3.** Choose the network you are interacting with.
+**Шаг 3.** Выберите сеть, с которой вы взаимодействуете.
 * Оставьте ее на 'ETH', если вы будете использовать токены Ether или ERC20.
 
-**Step 4.** Fill in the address you are sending from, and our interface will generate a gas price and nonce for your transaction, along with other details
+**Шаг 4.** Укажите адрес, с которого вы осуществляете отправку, и наш интерфейс сгенерирует цену на топливо и нонс для вашей транзакции, помимо других данных.
 
-**Step 5.** Make a note of your nonce, export the JSON file, and move this file onto a USB.
+**Шаг 5.** Запишите ваш нонс, выполните экспорт файла JSON и перенесите этот файл на USB-носитель.
 
 ## __Генерирование автономной транзакции__
 
-**Step 1.** Plug in the USB to your **offline** computer.
+**Шаг 1.** Подключите USB-носитель к вашему компьютеру, **не подключенному к сети**.
 
-**Step 2.** Access the offline version of MEW on this same offline device.
+**Шаг 2.** Откройте офлайн-версию MEW на этом же устройстве, без подключения к сети.
 * Это можно сделать, открыв файл ‘Index’ в браузере.
 * Если вы еще не загрузили MEW для автономного использования, ознакомьтесь с [этой статьей](/@@@@@@/offline/using-mew-offline/).
 
-**Step 3.** Access your wallet like you would normally, and choose ‘Send Offline’ from the menu to the left.
+**Шаг 3.** Откройте ваш кошелек, как обычно, и выберите в меню с левой стороны пункт "Отправить офлайн".
 
-**Step 4.** Import your JSON file from the connected USB.
+**Шаг 4.** Импортируйте файл JSON с подключенного USB-носителя.
 * Вы можете вручную ввести свой номер транзакции, реквизиты и адрес, на который вы переводите средства, а также другие данные.
 
-**Step 5.** If you’re sending to a contract, extra data may cause you to need a higher gas limit.
+**Шаг 5.** Если вы осуществляете отправку на контракт, из-за дополнительных данных вам может понадобиться увеличенный лимит топлива.
 * Излишек комиссии за транзакцию будет возвращен, так что вы можете поднять ее до 100 000.
 
-**Step 6.** Click ‘Generate Transaction’, then copy the long string that says ‘Signed Transaction’ and paste it in a text file, or download a new JSON file holding your signed transaction’s details. Перетащите этот текстовый файл или файл JSON на USB-накопитель, чтобы выполнить последний шаг.
+**Шаг 6.** Нажмите "Сгенерировать транзакцию", скопируйте длинную строку с надписью "Подписанная транзакция" и вставьте ее в текстовый файл или скачайте новый файл в формате JSON с информацией о вашей подписанной транзакции. Перетащите этот текстовый файл или файл JSON на USB-накопитель, чтобы выполнить последний шаг.
 
 ## __Подпишите и разместите транзакцию__
 
-**Step 1.** Head to MyEtherWallet.com once more on your **online** computer.
+**Шаг 1.** Снова направляйтесь на MyEtherWallet.com на компьютере, **подключенном к сети**.
 
-**Step 2.** At the bottom, in the footer, choose again the ‘Send Offline Helper’ tool.
+**Шаг 2.** В нижней части страницы, в футере, снова выберите инструмент "Помощник с офлайн-отправкой".
 
-**Step 3.** Paste in your signed transaction, or import the new JSON file you just received.
+**Шаг 3.** Вставьте подписанную транзакцию или импортируйте только что полученный новый файл JSON.
 
-**Step 4.** Review the details of your transaction then press 'Send'. <br>
+**Шаг 4.** Проверьте данные вашей транзакции и нажмите "Отправить". <br>
 
 Все готово! Ваша транзакция будет отображаться в блокчейне Ethereum, как только она будет проверена. Ее можно найти, используя хэш транзакции, показанный в конце процесса.
 
