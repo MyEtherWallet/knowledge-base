@@ -25,21 +25,21 @@ primary_category_display_name: "MEWconnect"
 
 ## __Смена пароля__
 
-**Step 1.** Reset your wallet, either on the login screen or under our ‘Info’ section.
+**Шаг 1.** Сбросьте ваш кошелек на странице входа или в нашем разделе "Информация".
 * Нажмите ‘Забыли пароль?’ на главном экране или ‘Сброс кошелька >’ на вкладке ‘Информация’.
 
 <img src="/images/posts/mewconnect/ForgotPassMC.jpg" width="35%" />
 
 ***
 
-**Step 2.** Enter your 24-word recovery phrase. Убедитесь, что все слова расположены в правильном порядке и написаны правильно.
+**Шаг 2.** Введите вашу фразу восстановления из 24 слов. Убедитесь, что все слова расположены в правильном порядке и написаны правильно.
 * Не вводите запятые между словами, используйте только один пробел.
 
 <img src="/images/posts/mewconnect/MainResetMC.jpg" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" width="30%" />
 
 ***
 
-**Step 3.** Enter a new password. Выберите сложный для повышения уровня безопасности.
+**Шаг 3.** Введите новый пароль. Выберите сложный для повышения уровня безопасности.
 * Обязательно запишите где-нибудь этот пароль, чтобы не забыть его!
 * Мы не сможем восстановить или изменить ваш пароль.
 
@@ -47,6 +47,6 @@ primary_category_display_name: "MEWconnect"
 
 ***
 
-**Step 4.** Celebrate, you’re done!
+**Шаг 4.** Готово, можно праздновать!
 
 <img src="/images/posts/mewconnect/YoureDoneMC.jpg" width="30%" />
