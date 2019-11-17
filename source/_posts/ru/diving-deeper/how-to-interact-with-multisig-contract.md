@@ -21,13 +21,13 @@ alias:
 ###### {% read_time title "How to Interact with a Multisig Contract?" %} минут на чтение
 ***
 
-**Step 1.** Access your wallet and head to the ‘Contracts’ section, to the left of your wallet interface.
+**Шаг 1.** Войдите в кошелек и направляйтесь в раздел "Контракты" в левой части интерфейса вашего кошелька.
 
-**Step 2.** There should be a Mist Multisig Contract ABI in the dropdown. Если его нет, мы предоставили ABI внизу этой статьи, вы можете вставить его в интерфейс вручную.
+**Шаг 2.** В выпадающем списке должен быть ABI контракта с мультиподписью от Mist. Если его нет, мы предоставили ABI внизу этой статьи, вы можете вставить его в интерфейс вручную.
 
-**Step 3.** Enter your contract address in the ‘Contract Address’ field at the top.
+**Шаг 3.** Введите адрес контракта в поле "Адрес контракта", расположенное вверху.
 
-**Step 4.** Select ‘Execute’ from the dropdown menu.
+**Шаг 4.** Выберите "Выполнить" в выпадающем меню.
 * Введите адрес, на который хотите отправить средства, в поле `_To`.
 * Введите сумму, которую хотите отправить, в поле `_Value`.
 * В поле `Данные` введите `0x`. Это делает его пустым.
@@ -36,9 +36,9 @@ alias:
 * Оставьте `значение в ETH` равным `0`.
 * Нажмите "Создать транзакцию", подтвердите транзакцию и осуществите отправку.
 
-**Step 5.** Click the Transaction ID that outputs with the ‘Success’ message. Копируйте этот идентификатор.
+**Шаг 5.** Нажмите на ID транзакции с сообщением "Успех". Копируйте этот идентификатор.
 
-**Step 6.** If it’s a multisig contract with two owners, you will need to refresh this page and choose ‘Confirm’.
+**Шаг 6.** Если это контракт с мультиподписью и двумя владельцами, вам необходимо будет обновить эту страницу и выбрать"Подтвердить".
 * В шаге 5 вы открыли идентификатор транзакции из вызова "Исполнить". У вас должна открыться страница, подобная [этой](https://etherscan.io/tx/0x0c643a1ae66637217f24791df05071c7849941a1231cf9fa2a0daf145da833e3).
 * Нажмите на вкладку "Журналы событий".
 * Для справки по [этой](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog) ссылке (учтите, что это НЕ ВАША ссылка, а пример) значение `_h` было бы `9228aeaf3ed560274899483646ea4ce9b322bccffac60cac2d035d08752617f4`.
@@ -47,13 +47,13 @@ alias:
 * Еще раз нажмите "Записать" и разблокируйте аккаунт второго владельца.
 * Создайте и отправьте транзакцию.
 
-**Step 7.** Double-check to confirm everything went as intended.
+**Шаг 7.** Тщательно проверьте данные, чтобы подтвердить, что все прошло так, как было задумано.
 
-**Step 8.** If your multisig is a 3 of 5 multisig, you will repeat the confirm process outlined in Step 6 until it reaches the necessary approvals. К счастью, значение `_h` будет одинаковым для всех.
+**Шаг 8.** Если ваш контракт — это контракт с мультиподписью "3 из 5", вам нужно будет повторить подтверждение, описанное в шаге 6, несколько раз, пока не будет получено необходимое количество подписей. К счастью, значение `_h` будет одинаковым для всех.
 
-**Step 9.** You can view another approval for our previous example [here](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog).
+**Шаг 9.** Вы можете посмотреть еще одно подтверждение нашего предыдущего примера [здесь](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog).
 
-**Step 10.** Feel free to repeat this process whenever you want to send ETH.
+**Шаг 10.** Вы можете повторять этот процесс каждый раз, когда хотите отправить ETH.
 
 
 
