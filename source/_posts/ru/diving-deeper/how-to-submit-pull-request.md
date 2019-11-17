@@ -26,18 +26,18 @@ MyEtherWallet (MEW) — это платформа с открытым исход
 
 ## __Отправка запроса на включение изменений__
 
-**Step 1.** Login or join [GitHub](https://github.com/MyEtherWallet).
+**Шаг 1.** Войдите или зарегистрируйтесь на [GitHub](https://github.com/MyEtherWallet).
 
-**Step 2.** Navigate to the file you wish to modify.
+**Шаг 2.** Перейдите к файлу, который вы хотите изменить.
 
-**Step 3.** Click the pencil icon in the upper right corner.
+**Шаг 3.** Нажмите на значок карандаша в правом верхнем углу.
 
-**Step 4.** Make the changes you wish to see reflected on MEW.
+**Шаг 4.** Внесите изменения, которые вы хотите отобразить на MEW.
 
-**Step 5.** At the bottom of the same screen, type a short message explaining what you changed and why in the title box.
+**Шаг 5.** Внизу этого же окна оставьте короткое сообщение, объясняющее, что и почему вы изменили в поле заголовка.
 
-**Step 6.** Click the green ‘Propose File Change’ button.
+**Шаг 6.** Нажмите зеленую кнопку "Предложить изменение файла".
 
-**Step 7.** Click ‘Create Pull Request’, twice.
+**Шаг 7.** Дважды нажмите "Создать запрос на включение".
 
-**Step 8.** Celebrate, you’re done! Мы рассмотрим внесенные изменения и включим их в наш следующий релиз, если всё будет выглядеть хорошо.
+**Шаг 8.** Готово, можно праздновать! Мы рассмотрим внесенные изменения и включим их в наш следующий релиз, если всё будет выглядеть хорошо.
