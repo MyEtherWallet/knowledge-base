@@ -9,7 +9,7 @@ categories:
   - 
     - swap
 primary_category: swap
-primary_category_display_name: "Swap"
+primary_category_display_name: "Обмен"
 alias:
   - swap/swap-wasnt-completed-or-was-canceled.html
 ---
@@ -22,7 +22,7 @@ alias:
 
 Если вы отправили монеты или токены на указанный адрес обмена, но не получили свои средства, пожалуйста, напишите на адрес support@myetherwallet.com и на адрес биржи, где вы завершили обмен. Вот адреса их служб поддержки:
 
-* Bity - Their help center is integrated into their site.
+* Bity — Их справочный центр интегрирован в их сайт.
 
 * Kyber Network — support@kyber.network
 
