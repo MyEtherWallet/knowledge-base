@@ -23,24 +23,24 @@ primary_category_display_name: "Распространенные проблем�
 
 ## __Использование [Ethplorer.io](https://www.ethplorer.io/)__
 
-**Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
+**Шаг 1.** Введите название токена, который вы хотите добавить в ваш интерфейс MyEtherWallet.
 
 <img src="/images/posts/common-issues/Ethplorer1Error.jpg" width="60%" />
 
 
-**Step 2.** Use the contract address (not the creator address) for the custom token field in MEW. Также убедитесь, что используете верное количество знаков после запятой.
+**Шаг 2.** Используйте адрес контракта (не адрес создателя), чтобы заполнить поле кастомного токена в MEW. Также убедитесь, что используете верное количество знаков после запятой.
 
 <img src="/images/posts/common-issues/Ethplorer2Error.jpg" width="80%" />
 
 
 
 ## __Использование [Etherscan.io](https://www.etherscan.io/)__
-**Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
+**Шаг 1.** Введите название токена, который вы хотите добавить в ваш интерфейс MyEtherWallet.
 
 <img src="/images/posts/common-issues/Etherscan1Error.jpg" style="width: 40%;" />
 
 
-**Step 2.** Use the contract address for the custom token and be sure to use the correct decimals as well.
+**Шаг 2.** Используйте адрес контракта для заполнения поля кастомного токена, а также убедитесь, что вы используете правильное количество десятичных знаков после запятой.
 
 <img src="/images/posts/common-issues/Etherscan2Error.jpg" style="width: 70%;" />
 
