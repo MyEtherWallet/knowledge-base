@@ -1,12 +1,12 @@
 ---
-title: "Using a Hardware Wallet With a Custom Derivation Path"
+title: "Использование аппаратного кошелька с кастомным путем деривации"
 date: 2018-06-01 00:05:00
 tags:
   - аппаратный
   - кошелек
   - пользовательский
-  - derivation
-  - path
+  - деривация
+  - путь
 categories:
   - 
     - аппаратные-кошельки
@@ -16,24 +16,24 @@ alias:
   - networks/using-ethereum-hardware-wallet-with-path.html
 ---
 
-# __Using a Hardware Wallet With a Custom Derivation Path__
-###### {% read_time title "Using a Hardware Wallet With a Custom Derivation Path" %} min read
+# __Использование аппаратного кошелька с кастомным путем деривации__
+###### {% read_time title "Использование аппаратного кошелька с кастомным путем деривации" %} мин. чтения
 ***
 
-When accessing a hardware wallet, you're given the choice of which derivation path to use. Most of the time it's best to use the default path for familiarity, since each path leads to a different set of addresses. However, there are occassions where a different path is necessary. We've included the ability to add custom derivation paths so you can connect to whichever path you'd like. To read more about Derivation Paths, check out our article [here](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2).
+При выполнении входа в аппаратный кошелек вам предоставляется выбор, какой путь деривации использовать. В большинстве случаев предпочтительно для удобства использовать путь по умолчанию, поскольку каждый путь  ведет к разному набору адресов. Однако бывают случаи, когда необходим другой путь. Мы предоставили возможность добавлять кастомные пути деривации, чтобы вы могли выполнить подключение с помощью любого пути. Чтобы узнать больше о путях деривации, ознакомьтесь с нашей статьей [здесь](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2).
 
-**Step 1.** Head to the MEW homepage and select 'Access My Wallet', then choose 'Hardware Wallet'.
+**Шаг 1.** Направляйтесь на главную страницу MEW и нажмите "Перейти к моему кошельку", затем выберите "Аппаратный кошелек".
 
-* This can also be done via Mnemonic Phrase access.
+* Это также можно сделать с помощью доступа по мнемонической фразе.
 
-**Step 2.** After selecting your Hardware Wallet, a screen like the one below should appear. Click the small arrow to expand a larger list of Derivation Path options.
+**Шаг 2.** После выбора вашего аппаратного кошелька должно появиться окно, как показано ниже. Нажмите на маленькую стрелку, чтобы развернуть большой список путей деривации.
 
 <img src="/images/posts/hardware-wallet/custompath0.jpg" width="80%" />
 
-**Step 3.** Choose 'Custom Path' on the bottom-right and enter the details of the custom path you'd like to connect through.
+**Шаг 3.** Выберите "Кастомный путь" внизу правого столбца и введите данные кастомного пути, который вы хотите использовать.
 
 <img src="/images/posts/hardware-wallet/custompath1.jpg" width="70%" />
 
 <img src="/images/posts/hardware-wallet/custompath2.jpg" width="70%" />
 
-**You're all set!** After you've added your custom path, you should see a different list of addresses to connect to.
+**Готово!** После добавления вашего кастомного пути вы должны увидеть другой список адресов, к которым можно подключиться.
