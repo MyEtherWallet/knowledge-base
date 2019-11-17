@@ -28,40 +28,40 @@ alias:
 
 ## __Вам нужно будет предоставить:__
 
-* **Name** of your token.
-* **Symbol** of your token.
-* **Address** of your token.
-* **Decimals** of your token.
-* Your **official Website**.
-* Your direct **customer support email**.
+* **Название** вашего токена.
+* **Символ** вашего токена.
+* **Адрес** вашего токена.
+* **Количество десятичных знаков после запятой** вашего токена.
+* Ваш **официальный сайт**.
+* Прямой **адрес электронной почты вашей службы поддержки**.
     * Из-за того, что очень многие создатели токенов проводят распродажу и НЕ предоставляют поддержку своим инвесторам, мы удалим ваш токен, если вы не будете помогать людям, которые сделали вас миллионерами.
 * При желании вы также можете указать свой блог, сайты социальных сетей, каналы чата, ваш логотип и т. д.
 
 
 
-## __Submit your tokens as Default Tokens__
+## __Внесение своих токенов в качестве токенов по умолчанию__
 
 
 
-**Step 1.** Go to https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth.
+**Шаг 1.** Перейдите на https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth.
 
- * If your token exists on a different network, you can [add them here](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens).
-
-
-
-**Step 2.** Login or join GitHub.
+ * Если ваш токен есть в другой сети, вы можете [добавить его здесь](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens).
 
 
 
-**Step 3.** Click 'Create New File' in the upper right.
+**Шаг 2.** Войдите или зарегистрируйтесь на GitHub.
 
 
 
-**Step 4.** The file's name must be in the format `<YourTokenAddress>.json`.
+**Шаг 3.** Нажмите "Создать новый файл" в правом верхнем углу.
 
 
 
-**Step 5.** Fill in the template pasted below with your information:
+**Шаг 4.** Имя файла должно быть в формате `<АдресВашегоТокена>.json`.
+
+
+
+**Шаг 5.** Заполните шаблон ниже вашими данными:
 
     {
     "symbol": "",
@@ -105,25 +105,25 @@ alias:
 
 
 
-**Step 6.** Once you're finished, click 'Propose New File'.
+**Шаг 6.** Закончив, нажмите "Предложить новый файл".
 
 
 
-* Feel free to add any additional information you'd like to let us know about.
+* Вы можете добавить любую дополнительную информацию, которую вы хотите нам сообщить.
 
 
 
-**Step 7.** Review what you've just made, then press 'Create Pull Request' twice.
+**Шаг 7.** Проверьте только что заполненные данные и дважды нажмите "Создать запрос на включение".
 
 
 
-**Step 8.** That's it. Вы успешно создали новый pull-запрос!
+**Шаг 8.** Вот и все. Вы успешно создали новый pull-запрос!
 
 * Теперь мы рассмотрим его и включим в свой код, и в следующем релизе он будет доступен на нашем сайте. Если что-то будет по какой-то причине непонятно, то мы можем задать вам несколько вопросов.
 
 <br>
 
-## __Add your token sale address and manual gas limits to ensure a smooth sale__
+## __Добавьте ваш адрес продажи токена и вручную установленный лимит топлива для обеспечения плавного процесса продажи.__
 * Зайдите на эту страницу https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/customGas.js.
 * Найдите уже существующую оконченную запись или же используйте наш адрес для пожертвований (верхний).
 * Замените эту информацию своей:
@@ -141,8 +141,8 @@ alias:
 
 <br>
 
-## __Adding your Contract / ABI__
-Теперь мы предоставляем пользователям возможность указать адрес, после чего MEW автоматически заполнит ABI. If you have a contract that is **NOT** your ERC-20 token contract that users will actually be interacting with:
+## __Добавление контракта / ABI__
+Теперь мы предоставляем пользователям возможность указать адрес, после чего MEW автоматически заполнит ABI. Если у вас есть контракт, **НЕ** являющийся контрактом вашего токена ERC-20, с которым пользователи будут фактически взаимодействовать:
 
 * Зайдите на страницу https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json.
 * Скопируйте все начиная с `{` до `},`.
