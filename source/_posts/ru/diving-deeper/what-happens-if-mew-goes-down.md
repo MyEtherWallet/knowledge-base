@@ -31,4 +31,4 @@ alias:
 
 Вы можете очень легко импортировать свой незашифрованный закрытый ключ и файлы в формате Geth/Mist (зашифрованные) напрямую в кошелек Geth / Ethereum / Mist.
 
-You can also [run MyEtherWallet locally](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/) and/or [connect it to your own node](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/).
+Вы также можете [запустить MyEtherWallet на вашем компьютере](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/) и/или [подключить его к вашей ноде](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/).
