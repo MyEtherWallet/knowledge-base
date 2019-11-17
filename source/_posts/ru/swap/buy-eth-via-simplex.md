@@ -13,7 +13,7 @@ categories:
   - 
     - swap
 primary_category: swap
-primary_category_display_name: "Swap"
+primary_category_display_name: "Обмен"
 ---
 
 # __Покупка ETH через Simplex__
@@ -26,15 +26,15 @@ primary_category_display_name: "Swap"
 
 ## __Вот как его найти:__
 
-**Step 1.** [Access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).
+**Шаг 1.** [Откройте ваш кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
-**Step 2.** Navigate to the swap section of your wallet.
+**Шаг 2.** Перейдите в раздела обмена в вашем кошельке.
 * Эта область находится слева от вашей страницы обзора открытых кошельков.
 * Если у вас маленький экран, то ее можно найти, нажав на кнопку «Изменить» в правом верхнем углу.
 
-**Step 3.** Click the button in the corner that says ‘Buy ETH with MasterCard/Visa’.
+**Шаг 3.** Нажмите на кнопку в углу с надписью "Купить ETH с MasterCard/Visa".
 
-**Step 4.** Follow the prompts to fill in your information.
+**Шаг 4.** Следуйте инструкциям, чтобы заполнить ваши данные.
 * Вы будете перенаправлены в Simplex.
 
 
