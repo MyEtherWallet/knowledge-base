@@ -1,11 +1,11 @@
 ---
-title: "Using Ambrpay"
+title: "Использование Ambrpay"
 date: 2018-06-01 00:02:00
 tags:
   - ambrpay
   - defi
-  - subscription
-  - payments
+  - подписка
+  - платежи
   - ethereum
   - децентрализованные приложения
 categories:
@@ -15,37 +15,37 @@ primary_category: децентрализованные приложения
 primary_category_display_name: "Децентрализованные приложения"
 ---
 
-# __Using Ambrpay__
-###### {% read_time title "Using Ambrpay" %} min read
+# __Использование Ambrpay__
+###### {% read_time title "Использование Ambrpay" %} мин. чтения
 ***
 
-Ambrpay has integrated with MEW to set up and manage recurring payments. This can be utilized in a variety of ways, like setting up subscriptions for services or managing frequent payments to friends, etc.
+Ambrpay интегрирована с MEW для возможности настройки и управления регулярными платежами. Этой функцией можно пользоваться в различных целях, например, для оформления подписки на сервисы или управления регулярными платежами друзьям и т. д.
 
-###### If you’d like to set up a payment system with Ambrpay, you will need a wallet you can [access with our interface](/@@@@@@/getting-started/how-to-access-your-wallet/). Если у вас нет кошелька, [ нажмите сюда](/@@@@@@/getting-started/how-to-create-a-wallet/), чтобы его создать.
+###### Если вы хотите настроить систему платежей с помощью Ambrpay, вам понадобится кошелек, в который вы можете [войти с помощью нашего интерфейса](/@@@@@@/getting-started/how-to-access-your-wallet/). Если у вас нет кошелька, [ нажмите сюда](/@@@@@@/getting-started/how-to-create-a-wallet/), чтобы его создать.
 
-## __Using Ambrpay with MEW__
+## __Использование Ambrpay в MEW__
 
-**Step 1.** Access your wallet.
-* Choose your preferred method of access.
+**Шаг 1.** Войдите в ваш кошелек.
+* Выберите предпочтительный способ входа.
 
 <img src="/images/posts/diving-deeper/AmbrPay1.png" width="100%" />
 
-**Step 2.** Head to the Dapps section to the left of your wallet’s dashboard.
-* Select Ambrpay from our list of Dapps.
+**Шаг 2.** Направляйтесь в раздел Dapps в левой части панели инструментов вашего кошелька.
+* Выберите Ambrpay из списка Dapp-приложений.
 
 <img src="/images/posts/diving-deeper/AmbrPay2.png" width="100%" />
 
-**Step 3**. Add funds to your balance by selecting 'Add Funds'.
-* Ambrpay pulls your subscription payments from a pool of funds you deposit into the contract. Select how much you’d like to send to this pool.
-* Ambrpay takes a 1% fee for this service.
+**Шаг 3**. Пополните ваш баланс, нажав "Пополнить".
+* Ambrpay списывает платежи по подпискам из пула средств, которые вы вносите на баланс контракта. Выберите, сколько средств вы хотите отправить в этот пул.
+* Ambrpay берет за данную услугу комиссию в размере 1%.
 
 <img src="/images/posts/diving-deeper/AmbrPay3.png" width="100%" />
 
-**Step 4.** Set up the subscription.
-* Fill in the details of your subscription. Determine how much you’d like to pay and how often you’d like this payment to occur (in days).
+**Шаг 4.** Оформите подписку.
+* Заполните данные о вашей подписке. Определите, сколько вы хотите платить и как часто вы хотите совершать этот платеж (в днях).
 
 <img src="/images/posts/diving-deeper/AmbrPay4.png" width="100%" />
 
-###### After your subscription is set up, you can cancel it at any time through the ‘My Subscriptions’ section.
+###### После оформления подписки вы можете отменить ее в любое время в разделе "Мои подписки".
 
-###### You can also ‘Withdraw Funds’ from the contract, found in the same area as ‘Add Funds’.
+###### Вы также можете "Вывести средства" из контракта в той же части, где можно "Пополнить" баланс.
