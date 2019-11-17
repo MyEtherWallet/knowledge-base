@@ -23,36 +23,36 @@ primary_category_display_name: "Децентрализованные прило�
 
 ## __Открытие CDP__
 
-**Step 1.** Unlock your wallet on our site by selecting ‘Access My Wallet’, then choosing the method of access you prefer.
+**Шаг 1.** Откройте ваш кошелек на нашем сайте, выбрав "Перейти к моему кошельку", а затем способ входа.
 
 <img src="/images/posts/diving-deeper/1maccesscrop.png" width="100%" />
 
-**Step 2.** Head to our Dapps section to the left of your Wallet Overview page, then select ‘MakerDAO’.
+**Шаг 2.** Направляйтесь в наш раздел Dapps в левой части страницы "Обзор кошелька", а затем выберите MakerDAO.
 
 <img src="/images/posts/diving-deeper/1mdapps.png" width="100%" />
 
-**Step 3.** Set the amount of ETH you would like to offer as collateral. Не забудьте оставить на аккаунте пространство для маневров, чтобы учитывать изменения на рынках.
+**Шаг 3.** Укажите сумму ETH, которую вы хотите предложить в качестве гарантии. Не забудьте оставить на аккаунте пространство для маневров, чтобы учитывать изменения на рынках.
 * Вам нужно будет подтвердить транзакцию на своем устройстве, если вы его используете.
 
 <img src="/images/posts/diving-deeper/1mbegincdp.png" width="100%" />
 
 <img src="/images/posts/diving-deeper/1mconfirm.png" width="100%" />
 
-**Step 4.** The MakerDAO page will shift to show new details about your holdings.
+**Шаг 4.** На странице MakerDAO появится новая информация о ваших активах.
 
 <img src="/images/posts/diving-deeper/1mcdp.png" width="100%" />
 
 ## __Выбор CDP__
 
-**Step 1.** When you’re ready, head back to the Dapps section and select ‘MakerDAO’.
+**Шаг 1.** Когда вы будете готовы, вернитесь в раздел Dapps и выберите MakerDAO.
 
 <img src="/images/posts/diving-deeper/2mmakerdao.png" width="100%" />
 
-**Step 2.** Click ‘Close CDP’ at the top, and a new page will pop-up.
+**Шаг 2.** Нажмите "Закрыть CDP" в верхней части окна, и появится новая страница.
 
 <img src="/images/posts/diving-deeper/2mapproved.png" width="100%" />
 
-**Step 3.** Depending on the amount of time you held your CDP open, a respective amount of MKR will have accrued at a 16.499% / year interest rate.
+**Шаг 3.** В зависимости от того, как долго была открыта ваша CDP, вы увидите соответствующую начисленную сумму MKR по процентной ставке 16,499% в год.
 * Вам нужно будет одобрить как сумму MKR, так и сумму DAI, чтобы закрыть CDP.
 * MKR можно обменять на ETH на нашей странице обмена.
 
@@ -62,7 +62,7 @@ primary_category_display_name: "Децентрализованные прило�
 
 <img src="/images/posts/diving-deeper/2msuccess.png" width="60%" />
 
-**Step 4.** Once approved, you can close the CDP.
+**Шаг 4.** После утверждения вы можете закрыть CDP.
 
 <img src="/images/posts/diving-deeper/2mclose.png" width="100%" />
 
