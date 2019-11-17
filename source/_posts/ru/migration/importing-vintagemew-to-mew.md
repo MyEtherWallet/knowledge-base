@@ -1,5 +1,5 @@
 ---
-title: "Migrating from Vintage MEW to MEW"
+title: "Миграция с Vintage MEW на MEW"
 date: 2018-06-01 00:01:00
 tags:
   - mew v5
@@ -15,28 +15,28 @@ alias:
   - migration/importing-vintagemew-to-mew.html
 ---
 
-# __Migrating from Vintage MEW -> MEW__
-###### {% read_time title "Migrating from Vintage MEW to MEW" %} min read
+# __Миграция с Vintage MEW -> MEW__
+###### {% read_time title "Миграция с Vintage MEW на MEW" %} мин. чтения
 ***
 
-## __As of October 20th, 2019 we have discontinued our VintageMEW site.__
+## __С 20 октября 2019 года мы прекратили работу нашего сайта VintageMEW.__
 
 <br>
 
-If you are like many of our other users, you may be wondering how this will affect your wallet.
+Возможно, вам, как и многим нашим пользователям, интересно, как это повлияет на ваш кошелек.
 
-Fear not! MyEtherWallet (MEW) is still going strong at our current site, [www.myetherwallet.com](www.myetherwallet.com).
+Не беспокойтесь! MyEtherWallet (MEW) по-прежнему работает в полную силу на нашем текущем сайте [www.myetherwallet.com](www.myetherwallet.com).
 
-Here you are able to access the same wallet you used on the Vintage version of our site, through the same method.
+Здесь вы можете войти в тот же кошелек, который вы использовали в Vintage-версии нашего сайта, используя тот же способ входа.
 
-You do not need to create a new wallet to use the new MEW site, you can use the exact same wallet you had on Vintage.-
+Вам не нужно создавать новый кошелек, чтобы пользоваться новым сайтом MEW, вы можете использовать тот же кошелек, который был у вас на Vintage.
 
-__First, select ‘Access My Wallet’ on the homepage.__
+__Сначала выберите "Перейти к моему кошельку" на главной странице.__
 
-__Then choose your usual method of access.__ For example, if you used a Keystore/JSON file on vintage you’d select ‘Software’ and choose the ‘Keystore’ option to connect.
+__Затем выберите способ доступа, который вы обычно используете.__ Например, если вы использовали файл Keystore/JSON на Vintage, выберите "ПО" и вариант подключения "Keystore".
 
-__After you’ve connected, you’ll be taken to your Wallet Dashboard page.__ Here you can view your balances, send transactions, interact with Dapps, swap your crypto, and even manage NFTs!
+__После подключения вы окажетесь на странице панели управления вашего кошелька.__ Здесь вы можете видеть ваш баланс, отправлять транзакции, взаимодействовать с Dapp-приложениями, менять криптовалюту и даже управлять NFT-токенами!
 
-We’ve come a long way since our days in Vintage, so it’s a good idea to take a few minutes and explore our new features.
+Мы преодолели долгий путь со времен Vintage, поэтому вы не пожалеете, если потратите пару минут на ознакомление с нашими новыми функциями.
 
-For more information, check out our guide on [how to access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/)!
+Чтобы узнать больше, ознакомьтесь с нашим руководством о том, [как выполнить вход в кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/)!
