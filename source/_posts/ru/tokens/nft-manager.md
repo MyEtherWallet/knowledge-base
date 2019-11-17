@@ -1,12 +1,12 @@
 ---
-title: "Non-Fungible Tokens (NFTs)"
+title: "Невзаимозаменяемые токены (NFTs)"
 date: 2018-06-01 00:01:00
 tags:
   - токен
   - nft
   - nfts
-  - non
-  - fungible
+  - не-
+  - взаимозаменяемые
   - токены
 categories:
   - 
@@ -19,26 +19,26 @@ alias:
   - tokens/nft-manager.html
 ---
 
-# __Non-Fungible Tokens (NFTs)__
-###### {% read_time title "Non-Fungible Tokens (NFTs)" %} min read
+# __Невзаимозаменяемые токены (NFTs)__
+###### {% read_time title "Невзаимозаменяемые токены (NFTs)" %} мин. чтения
 ***
 
-### __MEW supports NFTs!__
+### __MEW поддерживает токены NFT!__
 
-## __What are NFTs, you ask?__
+## __Что такое токены NFT, спросите вы?__
 
-NFTs (Non-Fungible Tokens) are tokens that are tied to a singular, unique thing.
+NFTs (невзаимозаменяемые токены) — это токены, связанные с одной уникальной вещью.
 
-For instance, take a CryptoKitty. Each CryptoKitty is their own, separate NFT. No two NFTs are the same, even though they can represent similar things.
+Например, кошки CryptoKitty. Каждая CryptoKitty — это отдельный NFT. Нет двух одинаковых токенов NFT, хотя они могут представлять похожие вещи.
 
-NFTs are very useful because they simulate real products and values that can be produced and transferred to prove ownership. They’re heavily used in blockchain gaming, where having unique items are treasured.
+Токены NFT очень полезны, потому что они имитируют настоящие товары и ценности, которые могут быть произведены и переданы для доказательства права собственности. Они широко используются в блокчейн-играх, где ценится обладание уникальными предметами.
 
-Since they’re built on the blockchain, their code and proof of ownership are immutable. You have full control over your NFTs, and no one can take that away from you.
+Поскольку они разработаны на блокчейне, их код и доказательство права собственности невозможно изменить. У вас есть полный контроль над вашими NFT-токенами, и никто не может отобрать его у вас.
 
-You can interact with five games right now using our NFT Manager!
+Прямо сейчас вы может взаимодействовать с пятью играми с помощью нашего NFT-менеджера!
 <br>
 
-## __So far, MEW supports:__
+## __На данный момент MEW поддерживает:__
 
 * CryptoKitties
 * Gods Unchained
@@ -48,19 +48,19 @@ You can interact with five games right now using our NFT Manager!
 
 <br>
 
-### __To use the NFT Manager:__
+### __Чтобы воспользоваться NFT-менеджером:__
 
-**Step 1:** [Access Your Wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).
+**Шаг 1.** [Откройте ваш кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
 <img src="/images/posts/tokens/NFT0.png" width="85%" />
 
 <img src="/images/posts/tokens/NFT1.png" width="85%" />
 
-**Step 2.** Select the NFT Manager on your Wallet Dashboard.
+**Шаг 2.** Выберите NFT-менеджер на панели инструментов вашего кошелька.
 
 <img src="/images/posts/tokens/NFT2.png" width="100%" />
 
-**Step 3.** Choose which NFT you'd like to interact with.
-* If you're trying to send your NFT to someone else, make sure you have at least 0.01 ETH to pay for gas!
+**Шаг 3.** Выберите, какой NFT вы хотите использовать.
+* Если вы пытаетесь отправить ваш NFT кому-то, убедитесь, что у вас есть не менее 0.01 ETH для оплаты топлива!
 
 <img src="/images/posts/tokens/NFT4.png" width="100%" />
