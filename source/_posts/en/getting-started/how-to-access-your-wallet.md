@@ -23,7 +23,7 @@ They are, from most to least recommended:
 
 * Hardware Wallets ([Ledger Nano S][ledger], [Trezor][trezor], [Digital Bitbox][bitbox], [Finney][finney], etc.)
 * MEWconnect
-* MetaMask
+* Web3 (MEW CX, MetaMask, etc.)
 * Keystore/JSON File + Password
 * Mnemonic Phrase + Password
 * Private Key
@@ -44,13 +44,16 @@ To learn more about accessing MEW with MEWconnect, reference our [MEWconnect Use
 
 
 
-## __MEW CX__
+## __Web3__
+#### __[What is Web3?][web3]__
+
+### __MEW CX__
 MEW CX is MyEtherWallet's offical Web3 Chrome Extension wallet. It offers all the functionality of the web-version of MEW in the convenience of an toolbar extension. It also hosts the ability to interact with web-based Dapps, such as CryptoKitties.
 
 
 
 
-## __To connect MEW with MEW CX__
+### __To connect MEW with MEW CX__
 
 **Step 1.** Install the MEW CX wallet via our Chrome Extension.
 
@@ -69,12 +72,12 @@ MEW CX is MyEtherWallet's offical Web3 Chrome Extension wallet. It offers all th
 
 
 
-## __MetaMask__
+### __MetaMask__
 This is a Chrome Extension that allows the creation of an ethereum-based wallet that keeps one’s private key encrypted within the extension itself. It also generates a 12-word mnemonic phrase for recovery purposes. MetaMask allows users to name their separate wallets, see funds within the extension, and offers the option to import the private key information of a previously created wallet, if desired. 
 
 
 
-## __To connect MEW with MetaMask:__
+### __To connect MEW with MetaMask:__
 #### __This assumes you already have a MetaMask wallet.__
 
 **Step 1.** Login to your MetaMask wallet via their Chrome Extension.
@@ -157,3 +160,4 @@ The private key is a string of 64 characters tied permanently to a public addres
 [bitbox]: https://shiftcrypto.ch/?ref=mew
 [finney]: http://shop.sirinlabs.com/?rfsn=2397639.54fdf&utm_source=refersion&utm_medium=affiliate&utm_campaign=2397639.54fdf
 [offline]: /@@@@@@/offline/offline-mew-looks-weird/
+[web3]: https://www.mewtopia.com/the-essential-wallet-guide-part-4/
