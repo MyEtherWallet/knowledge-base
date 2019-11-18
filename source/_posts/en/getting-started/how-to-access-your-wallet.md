@@ -47,13 +47,15 @@ To learn more about accessing MEW with MEWconnect, reference our [MEWconnect Use
 ## __Web3__
 #### __[What is Web3?][web3]__
 
-### __MEW CX__
+
+
+#### __MEW CX__
 MEW CX is MyEtherWallet's offical Web3 Chrome Extension wallet. It offers all the functionality of the web-version of MEW in the convenience of an toolbar extension. It also hosts the ability to interact with web-based Dapps, such as CryptoKitties.
 
 
 
 
-### __To connect MEW with MEW CX__
+#### __To connect MEW with MEW CX__
 
 **Step 1.** Install the MEW CX wallet via our Chrome Extension.
 
@@ -72,12 +74,12 @@ MEW CX is MyEtherWallet's offical Web3 Chrome Extension wallet. It offers all th
 
 
 
-### __MetaMask__
+#### __MetaMask__
 This is a Chrome Extension that allows the creation of an ethereum-based wallet that keeps one’s private key encrypted within the extension itself. It also generates a 12-word mnemonic phrase for recovery purposes. MetaMask allows users to name their separate wallets, see funds within the extension, and offers the option to import the private key information of a previously created wallet, if desired. 
 
 
 
-### __To connect MEW with MetaMask:__
+#### __To connect MEW with MetaMask:__
 #### __This assumes you already have a MetaMask wallet.__
 
 **Step 1.** Login to your MetaMask wallet via their Chrome Extension.
