@@ -68,13 +68,14 @@ MyEtherWallet (MEW) предлагает три способа создания 
 
 **Шаг 3.** Выберите вариант "С помощью мнемонической фразы".
 
-**Шаг 4.** Введите надежный пароль и запишите его на бумаге.
+**Step 4.** Choose a 12 or 24 word phrase, and WRITE IT DOWN!
 
-* Мы не сможем восстановить или сбросить ваш пароль. Запишите его!
+* Do not store this on your computer. It is meant to be written down multiple times.
 
-**Шаг 5.** Выберите фразу из 12 или 24 слов и ЗАПИШИТЕ ЕЕ!
+**Step 5.** There is an option for an extra word here, for added security. Choosing to include an extra word keeps your phrase more secure, but it limits the accesibility fo your phrase with other wallets. Other wallets may not allow for an extra word, making your phrase incompatible.
 
-* Не храните это на вашем компьютере. Это нужно записать в нескольких местах.
+* We cannot recover or reset your phrase or extra word for you. Запишите его!
+
 
 **Шаг 6.** Теперь пройдите небольшой тест, и все! Вы можете зайти в свой кошелек.
 
