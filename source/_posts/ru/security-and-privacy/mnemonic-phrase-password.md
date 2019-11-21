@@ -1,5 +1,5 @@
 ---
-title: "Мнемоническая фраза: Стоит ли мне включить пароль?"
+title: "Mnemonic Phrase: Should I Include an Extra Word?"
 date: 2018-06-01 00:06:00
 tags:
   - мнемоническая
@@ -12,27 +12,29 @@ primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и конфиденциальность"
 ---
 
-# __Мнемоническая фраза: Стоит ли мне включить пароль?__
-###### {% read_time title "Мнемоническая фраза: Стоит ли мне включить пароль??" %} мин. на прочтение
+# __Mnemonic Phrase: Should I Include an Extra Word?__
+###### {% read_time title "Mnemonic Phrase: Should I Include an Extra Word?" %} min read
 ***
 
 ## __Создание нового кошелька__
 #### __Мы не рекомендуем создавать новый кошелек с использованием мнемонической фразы через наш сайт, если вы не планируете использовать [MEW в автономном режиме](/@@@@@@/offline/using-mew-offline).__
 
-Когда вы создаете новый кошелек с включенной опцией ‘Мнемоническая фраза’ в MEW, вам будет предоставлен выбор, включать или не включать пароль. По сути этот пароль является дополнительным словом по вашему выбору, прикрепленным к концу вашей фразы. Например, если вы создаете мнемоническую фразу из 24 слов, он будет выступать в качестве **обязательного** 25-го слова каждый раз, когда вы захотите использовать эту фразу.
+When you’re creating a new wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include an extra word. This is an extra word of your own choosing tacked onto the end of your phrase. Например, если вы создаете мнемоническую фразу из 24 слов, он будет выступать в качестве **обязательного** 25-го слова каждый раз, когда вы захотите использовать эту фразу.
 
-**Преимуществом использования пароля является повышение безопасности.** Если кому-то в руки попадает ваша мнемоническая фраза из 24 слов, для доступа к вашим средствам им дополнительно понадобится ваш пароль в качестве 25-го слова. Это значительно повышает безопасность вашей фразы.
+Occasionaly, this extra word is also referred to as a 'password', but this is misleading. It's actually a 13th / 25th word to your phrase.
 
-**Недостатком является интеграция с другими платформами.** Почти все остальные интерфейсы кошельков Ethereum требуют, чтобы ваша мнемоническая фраза состояла из 24 слов, и не предлагают опцию пароля. Поэтому восстановление этой фразы с помощью других кошельков Ethereum может оказаться сложным. Этот пароль необходим для просмотра вашего кошелька, поэтому вы не сможете восстановить доступ через кошельки, которые его не поддерживают.
+**The upside to this is extra security.** If someone got a hold of your 24 word mnemonic phrase, they would still need your extra word to act as a 25th word in order to access your funds. This greatly increases the security of your phrase.
 
-В конце концов, выбор за вами.
+**The downside to this is integration with other platforms.** Almost every other Ethereum wallet interface requires your mnemonic phrase to be in a 12 or 24-word format and does not offer the extra word option. Therefore, restoring this phrase through other Ethereum wallets can prove difficult. This extra word becomes necessary to see your wallet, so you will not be able to regain access through non-supporting wallets.
+
+In the end, the choice is yours.
 
 
 ## __Доступ к кошельку или его восстановление__
 #### __Мы не рекомендуем обращаться к своему кошельку или восстанавливать его с помощью мнемонической фразы непосредственно на нашем веб-сайте, если только вы не [используете офлайн-версию MEW](/@@@@@@/offline/using-mew-offline).__
 
-Когда вы получаете доступ к своему кошельку или восстанавливаете его с помощью опции «Мнемоническая фраза» на MEW, вы можете выбрать, указывать пароль или нет. В большинстве случаев ответ будет «нет».
+When accessing or restoring your wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include an extra word. Most of the time, the answer is no.
 
-Большинство приложений или расширений, в которых используются мнемонические фразы, например, MEWconnect, MetaMask и аппаратные кошельки, не включают пароль в свою мнемоническую фразу. Они просят вас ввести пароль для доступа к приложению, но это отличается от пароля для восстановления.
+Most apps or extensions that use Mnemonic phrases, such as MEWconnect, MetaMask, and hardware wallets, do not include an extra word in their mnemonic phrase. They ask you to input a password for app access, but this is different than requiring an extra word for recovery purposes.
 
-Если вы создали свой кошелек непосредственно на MyEtherWallet.com, то для восстановления кошелька вам, возможно, нужно будет использовать пароль, который вы выбрали при его создании. Однако для других кошельков пароль **не** потребуется. Просто выключите эту опцию и продолжите процесс восстановления.
+If you made your wallet directly on MyEtherWallet.com, you may need to use the extra word you chose during creation to restore your wallet. However, all wallets made through other platforms will **not** require the extra word. Simply toggle this option to the ‘off’ position and proceed with your recovery process.
