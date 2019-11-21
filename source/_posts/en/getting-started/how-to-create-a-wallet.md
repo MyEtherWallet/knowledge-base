@@ -69,13 +69,14 @@ The following information is for those who wish to proceed, regardless of our wa
 
 **Step 3.** Choose the ‘By Mnemonic Phrase’ option.
 
-**Step 4.** Enter a strong password, and write it down on paper.
-
-* We cannot recover or reset your password for you. Write it down!
-
-**Step 5.** Choose a 12 or 24 word phrase, and WRITE IT DOWN!
+**Step 4.** Choose a 12 or 24 word phrase, and WRITE IT DOWN!
 
 * Do not store this on your computer. It is meant to be written down multiple times.
+
+**Step 5.** There is an option for an extra word here, for added security. Choosing to include an extra word keeps your phrase more secure, but it limits the accesibility fo your phrase with other wallets. Other wallets may not allow for an extra word, making your phrase incompatible.
+
+* We cannot recover or reset your phrase or extra word for you. Write it down!
+
 
 **Step 6.** Now pass a quick test, and you’re done! You’re ready to access your wallet.
 
