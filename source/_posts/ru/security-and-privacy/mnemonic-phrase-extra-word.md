@@ -1,5 +1,5 @@
 ---
-title: "Mnemonic Phrase: Should I Include an Extra Word?"
+title: "Мнемоническая фраза: Стоит ли мне включить дополнительное слово?"
 date: 2018-06-01 00:06:00
 tags:
   - мнемоническая
@@ -12,14 +12,14 @@ primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и конфиденциальность"
 ---
 
-# __Mnemonic Phrase: Should I Include an Extra Word?__
+# __Мнемоническая фраза: Стоит ли мне включить дополнительное слово?__
 ###### {% read_time title "Mnemonic Phrase: Should I Include an Extra Word?" %} min read
 ***
 
 ## __Создание нового кошелька__
-#### __Мы не рекомендуем создавать новый кошелек с использованием мнемонической фразы через наш сайт, если вы не планируете использовать [MEW в автономном режиме](/@@@@@@/offline/using-mew-offline).__
+#### __Мы не рекомендуем создавать новый кошелек с использованием мнемонической фразы через наш сайт, если вы не планируете использовать [MEW оффлайн](/@@@@@@/offline/using-mew-offline).__
 
-When you’re creating a new wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include an extra word. This is an extra word of your own choosing tacked onto the end of your phrase. Например, если вы создаете мнемоническую фразу из 24 слов, он будет выступать в качестве **обязательного** 25-го слова каждый раз, когда вы захотите использовать эту фразу.
+Когда вы создаете новый кошелек через опцию ‘Мнемоническая фраза’ в MEW, вам будет предоставлен выбор, включать или не включать дополнительное слово. This is an extra word of your own choosing tacked onto the end of your phrase. Например, если вы создаете мнемоническую фразу из 24 слов, он будет выступать в качестве **обязательного** 25-го слова каждый раз, когда вы захотите использовать эту фразу.
 
 Occasionaly, this extra word is also referred to as a 'password', but this is misleading. It's actually a 13th / 25th word to your phrase.
 
