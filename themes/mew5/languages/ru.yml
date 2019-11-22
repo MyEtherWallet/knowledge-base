@@ -5,7 +5,7 @@ tags: Метки
 tagcloud: Облако меток
 tweets: Твиты
 prev: Назад
-next: Вперед
+next: Далее
 comment: Комментарии
 archive_a: Архив
 archive_b: "Архив: %s"
@@ -14,10 +14,10 @@ recent_posts: Недавние записи
 newer: Следующий
 older: Предыдущий
 share: Поделиться
-powered_by: Создано с помощью
+powered_by: При поддержке
 rss_feed: RSS-каналы
 category: Категория
-tag: Метка
+tag: Тег
 help_center: Центр поддержки
 previous: Предыдущий
 none: Нет
@@ -28,7 +28,7 @@ tag_line: Потерялись? Позвольте нам помочь.
 home: Домашняя страница
 privacy: Конфиденциальность
 terms: Условия
-copyright: '© 2018 MyEtherWallet Inc. Все права защищены.'
+copyright: '© 2019 MyEtherWallet Inc. Все права защищены.'
 index:
   intro: Введение
   get_started: С чего начать
@@ -43,13 +43,13 @@ index:
   security: Безопасность
   functions: Функции
   tokens: Токены
-  offline: Автономная работа
+  offline: Оффлайн
   network_and_nodes: Сеть и узлы
   transactions: Транзакции
   swap: Обмен
   ens: ENS
   v5: MEW V5
-  dapps: Децентрализованные приложения
+  dapps: Dapps
 help:
   cantFind: Не можете найти ответ? Обращайтесь и мы с вами свяжемся, как только сможем.
   community_join: Присоединяйтесь к сообществу MEW, чтобы получить больше информации.
@@ -69,7 +69,7 @@ video_tab:
   title_three_v5: Использовать MEW в автономном режиме и отправить транзакцию
   labelMC: "\nЧасть% MEWconnect 101"
   title_one_mc: Создать кошелек
-  title_two_mc: Сделайте резервную копию вашего кошелька
+  title_two_mc: Сделайте резервную копию кошелька
   title_three_mc: Подключиться к MEW
   title_four_mc: Совершить транзакцию
   title_five_mc: Обзор кошельков
