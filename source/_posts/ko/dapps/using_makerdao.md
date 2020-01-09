@@ -42,7 +42,7 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/MKR3.png" width="100%" />
 
-<img src="/images/posts/diving-deeper/MKR4.png" width="100%" />
+<img src="/images/posts/diving-deeper/MKR4.png" width="80%" />
 
 **Step 5.** The MakerDAO page will shift to show new details about your holdings.
 
@@ -56,15 +56,15 @@ primary_category_display_name: "Dapps"
 
 **Step 2.** Choose 'Set' to set allowance for Maker to interact with your DAI.
 
-<img src="/images/posts/diving-deeper/MKR6.png" width="100%" />
+<img src="/images/posts/diving-deeper/MKR6.png" width="80%" />
 
 **Step 3.** Choose how much DAI you'd like to deposit. Interest rates are accrued annually.
 
-<img src="/images/posts/diving-deeper/MKR7.png" width="100%" />
+<img src="/images/posts/diving-deeper/MKR7.png" width="80%" />
 
 **Step 4.** To withdraw, you can follow the same procedure, but select 'Withdraw'.
 
-<img src="/images/posts/diving-deeper/MKR8.png" width="100%" />
+<img src="/images/posts/diving-deeper/MKR8.png" width="80%" />
 
 ## __Closing Your Vault__
 
@@ -74,20 +74,20 @@ primary_category_display_name: "Dapps"
 
 **Step 2.** Click ‘Manage Your Vault’ to see your holdings.
 
-<img src="/images/posts/diving-deeper/MKR9" width="100%" />
+<img src="/images/posts/diving-deeper/MKR9.png" width="100%" />
 
 **Step 3.** You will need to pay your DAI back in order to withdraw your ETH. Under 'DAI Position', select 'Pay back >'.
 * You will have to ‘Approve’ the DAI amount in order to pay it back.
 * This will count as separate transactions.
 * Please wait for each transaction to post as 'Success' before continuing.
 
-<img src="/images/posts/diving-deeper/MKR10.png" width="100%" />
+<img src="/images/posts/diving-deeper/MKR10.png" width="80%" />
 
 <img src="/images/posts/diving-deeper/MKR11.png" width="100%" />
 
 **Step 4.** Once approved, you can withdraw your ETH. Under 'ETH Collateral', select 'Withdraw >'.
 
-<img src="/images/posts/diving-deeper/MKR12.png" width="100%" />
+<img src="/images/posts/diving-deeper/MKR12.png" width="80%" />
 
 <img src="/images/posts/diving-deeper/MKR13.png" width="100%" />
 
