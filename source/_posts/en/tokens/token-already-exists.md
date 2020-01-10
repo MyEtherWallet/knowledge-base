@@ -6,9 +6,9 @@ tags:
 - error
 - token
 categories:
-- [common-issues]
-primary_category: common-issues
-primary_category_display_name: "Common Issues"
+- [token]
+primary_category: token
+primary_category_display_name: "Tokens"
 ---
 
 # __Default or Custom Token Already Exists__
