@@ -17,15 +17,6 @@
               </a>
             </li>
             <li>
-              <a href="<%- url_for_lang(site.categories.findOne({name: 'common-issues'}).posts.sort('date', 1).data[0].path, page.lang) %>">
-                <div>
-                  <%- image_tag('images/mew-icons/common-issues.svg') %>
-                  <p><%= _p('index.common_issues') %></p>
-                  <div class="post-counter"><p><%= site.categories.findOne({name: 'common-issues'}).posts.length %></p></div>
-                </div>
-              </a>
-            </li>
-            <li>
               <a href="<%- url_for_lang(site.categories.findOne({name: 'diving-deeper'}).posts.sort('date', 1).data[0].path) %>">
                 <div>
                   <%- image_tag('images/mew-icons/diving-deeper.svg') %>

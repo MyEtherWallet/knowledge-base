@@ -4,7 +4,7 @@
   "author": "MyEtherWallet",
   "description": "Knowledge base for MyEtherWallet version 5",
   "hexo": {
-    "version": "3.8.0"
+    "version": "3.9.0"
   },
   "scripts": {
     "clean": "hexo clean",
