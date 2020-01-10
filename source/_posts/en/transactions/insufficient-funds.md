@@ -7,9 +7,9 @@ tags:
 - fund
 - funds
 categories:
-- [common-issues]
-primary_category: common-issues
-primary_category_display_name: "Common Issues"
+- [transactions]
+primary_category: transactions
+primary_category_display_name: "Transactions"
 alias:
 - gas/error-insufficient-funds-message.html
 ---

@@ -7,9 +7,9 @@ tags:
 - checksummed
 - checksum
 categories:
-- [common-issues]
-primary_category: common-issues
-primary_category_display_name: "Common Issues"
+- [transactions]
+primary_category: transactions
+primary_category_display_name: "Transactions"
 alias:
 - addresses/what-does-checksummed-mean.html
 ---
