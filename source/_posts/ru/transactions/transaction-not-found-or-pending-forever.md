@@ -2,14 +2,14 @@
 title: "Транзакции застряли в статусе «Не найдено» или «В ожидании»"
 date: 2018-06-01 00:05:00
 tags:
-  - transactions
+  - транзакции
   - найдены
   - в ожидании
   - навсегда
 categories:
   - 
-    - transactions
-primary_category: transactions
+    - транзакции
+primary_category: транзакции
 primary_category_display_name: "Транзакции"
 alias:
   - transactions/transactions-not-showing-or-pending.html
