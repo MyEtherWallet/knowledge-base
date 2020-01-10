@@ -11,7 +11,7 @@ primary_category: common-issues
 primary_category_display_name: "Common Issues"
 ---
 
-# __Error: Token Already Exists!__
+# __Default or Custom Token Already Exists__
 ###### {% read_time title "Error: Token Already Exists!" %} min read
 ***
 
