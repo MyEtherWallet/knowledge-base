@@ -34,8 +34,8 @@ Ethereum Alarm Clock Protocol от ChronoLogic позволяет пользов
 * Выберите тип криптовалюты и сумму, которую вы хотите отправить.
 * Заполните «Адрес» на который вы хотели бы отправить оплату.
 * Установите Дату и Время, когда вы хотите отправить транзакцию и убедитесь, что вы используете правильный часовой пояс.
-* Set a ‘Time Bounty’ as the amount of ETH you’d like to use as gas for your future transaction.
+* Установите «Премию времени» как сумму ETH, которую вы хотели бы использовать в качестве газа для вашей будущей транзакции.
 
-**Step 5.** When you’re done, select ‘Schedule Transaction’ and confirm the transaction on your device, if you’re using one.
+**Шаг 5.** Когда вы закончите, выберите «Запланировать транзакцию» и подтвердите транзакцию на вашем устройстве, если вы используете его.
 
-**Шаг 6.** Готово! Your transaction will post on the scheduled date & time.
+**Шаг 6.** Готово! Ваша транзакция будет отправлена в запланированную дату и время.
