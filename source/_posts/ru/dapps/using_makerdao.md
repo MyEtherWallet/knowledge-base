@@ -19,12 +19,12 @@ primary_category_display_name: "Dapps"
 ###### {% read_time title "Using MakerDAO" %} минут на чтение
 ***
 
-###### If you’d like to open a Vault using our MakerDAO Dapp, you will need a wallet you can [access with our interface](/@@@@@@/getting-started/how-to-access-your-wallet/). Если у вас нет кошелька, [ нажмите сюда](/@@@@@@/getting-started/how-to-create-a-wallet/), чтобы его создать.
+###### Если вы хотите открыть Vault с помощью нашего приложения MakerDAO Dapp, вам понадобится кошелек для [доступа к нашему интерфейсу](/@@@@@@/getting-started/how-to-access-your-wallet/). Если у вас нет кошелька, [ нажмите сюда](/@@@@@@/getting-started/how-to-create-a-wallet/), чтобы его создать.
 
 
-## __Opening Your Vault__
+## __Создание Vault__
 
-**Шаг 1.** Откройте ваш кошелек на нашем сайте, выбрав "Перейти к моему кошельку", а затем способ входа.
+**Шаг 1.** Откройте ваш кошелек на нашем сайте, выбрав "Доступ к кошельку", а затем способ доступа.
 
 <img src="/images/posts/diving-deeper/1maccesscrop.png" width="100%" />
 
@@ -32,7 +32,7 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/MKR1.png" width="100%" />
 
-**Step 3.** Select 'Create a Vault' to get started.
+**Шаг 3.** Для начала выберите «Создать Vault».
 * If you've set up a Collateralized Debt Position (CDP) in the past, you will need to follow the processes outlined under "Upgrade 'old' DAI to 'new' DAI" and "Migrate Single Collateral CDP to Multi Collateral Vault".
 
 <img src="/images/posts/diving-deeper/MKR2.png" width="100%" />
