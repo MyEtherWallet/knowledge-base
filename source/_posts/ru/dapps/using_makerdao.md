@@ -33,24 +33,24 @@ primary_category_display_name: "Dapps"
 <img src="/images/posts/diving-deeper/MKR1.png" width="100%" />
 
 **Шаг 3.** Для начала выберите «Создать Vault».
-* If you've set up a Collateralized Debt Position (CDP) in the past, you will need to follow the processes outlined under "Upgrade 'old' DAI to 'new' DAI" and "Migrate Single Collateral CDP to Multi Collateral Vault".
+* Если вы создавали CDP в прошлом, вам нужно будет выполнить процедуры описанные в разделах "Обновить 'старый' DA на 'новый' DAI" и "Миграция CDP однотипного залога в Vault разнотипного залога".
 
 <img src="/images/posts/diving-deeper/MKR2.png" width="100%" />
 
-**Step 4.** Set the amount of ETH you would like to offer as collateral. Remember to leave some wiggle room to account for the shifting markets. 200% and above is usually a safe bet.
-* You will need to confirm the transaction on your device, if you're using one.
+**Шаг 4.** Укажите сумму ETH, которую вы хотите предложить в качестве залога. Не забудьте оставить небольшой зазор чтобы учитывать изменения на рынках. Как правило, 200% и выше – это безопасный вариант.
+* Вам нужно будет подтвердить транзакцию на своем устройстве, если вы его используете.
 
 <img src="/images/posts/diving-deeper/MKR3.png" width="100%" />
 
 <img src="/images/posts/diving-deeper/MKR4.png" width="80%" />
 
-**Step 5.** The MakerDAO page will shift to show new details about your holdings.
+**Шаг 5.** Страница MakerDAO изменится и отобразит данные о ваших вкладах.
 
 <img src="/images/posts/diving-deeper/MKR5.png" width="100%" />
 
-## __Earning Interest With DAI__
+## __Зарабатывайте проценты с помощью DAI__
 
-**Step 1.** Head to the MakerDAO Dapp page and select 'DAI Savings'.
+**Шаг 1.** Перейдите на страницу MakerDAO Dapp и выберите 'DAI Savings'.
 
 <img src="/images/posts/diving-deeper/MKR2.png" width="100%" />
 
