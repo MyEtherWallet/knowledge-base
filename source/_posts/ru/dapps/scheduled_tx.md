@@ -25,15 +25,15 @@ Ethereum Alarm Clock Protocol от ChronoLogic позволяет пользов
 
 **Шаг 1.** [Откройте ваш кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
-**Step 2.** Head to the Dapps page on your Wallet Dashboard.
+**Шаг 2.** Направляйтесь в раздел Dapps в левой части панели управления вашего кошелька.
 
-**Step 3.** Select “Schedule a Transaction”.
+**Шаг 3.** Выберите «Запланировать транзакцию».
 
-**Step 4.** Fill in your transaction information.
+**Шаг 4.** Заполните информацию о транзакции.
 
-* Select the type of crypto you’re sending and the amount you’d like to send.
-* Fill in the ‘To Address’ with the final address you’d like the payment to be delivered to.
-* Set a Date & Time when you’d like the transaction to post, and make sure you’re using the correct timezone.
+* Выберите тип криптовалюты и сумму, которую вы хотите отправить.
+* Заполните «Адрес» на который вы хотели бы отправить оплату.
+* Установите Дату и Время, когда вы хотите отправить транзакцию и убедитесь, что вы используете правильный часовой пояс.
 * Set a ‘Time Bounty’ as the amount of ETH you’d like to use as gas for your future transaction.
 
 **Step 5.** When you’re done, select ‘Schedule Transaction’ and confirm the transaction on your device, if you’re using one.
