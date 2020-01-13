@@ -10,8 +10,8 @@ tags:
   - ethereum alarm clock protocol
 categories:
   - 
-    - децентрализованные приложения
-primary_category: децентрализованные приложения
+    - dapps
+primary_category: dapps
 primary_category_display_name: "Децентрализованные приложения"
 ---
 
