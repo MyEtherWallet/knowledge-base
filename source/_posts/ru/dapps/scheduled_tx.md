@@ -1,8 +1,8 @@
 ---
-title: "Schedule a Transaction with ChronoLogic"
+title: "Запланировать транзакцию с помощью ChronoLogic"
 date: 2018-06-01 00:02:00
 tags:
-  - scheduled transactions
+  - запланированные транзакции
   - ethereum
   - chronologic
   - mew
@@ -12,16 +12,16 @@ categories:
   - 
     - dapps
 primary_category: dapps
-primary_category_display_name: "Децентрализованные приложения"
+primary_category_display_name: "Dapps"
 ---
 
-# __Schedule a Transaction with ChronoLogic__
-###### {% read_time title "Schedule a Transaction with ChronoLogic" %} min read
+# __Запланировать транзакцию с помощью ChronoLogic__
+###### {% read_time title "Schedule a Transaction with ChronoLogic" %} минут на чтение
 ***
 
-The Ethereum Alarm Clock Protocol hosted by ChronoLogic allows users to schedule their transactions right on MEW’s interface, enabling users to set a later date and time for their transaction.
+Ethereum Alarm Clock Protocol от ChronoLogic позволяет пользователям планировать транзакции наперед прямо в интерфейсе MEW, давая возможность заранее устанавливать дату и время планируемой транзакции.
 
-## __Using the Ethereum Alarm Clock Protocol__
+## __Использование протокола Ethereum Alarm Clock__
 
 **Шаг 1.** [Откройте ваш кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
