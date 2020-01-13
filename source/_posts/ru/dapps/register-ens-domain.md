@@ -3,13 +3,13 @@ title: "ENS: регистрация домена"
 date: 2018-06-01 00:02:00
 tags:
   - ens
-  - децентрализованные приложения
+  - dapps
   - аукцион
   - аукционы
 categories:
   - 
-    - децентрализованные приложения
-primary_category: децентрализованные приложения
+    - dapps
+primary_category: dapps
 primary_category_display_name: "Децентрализованные приложения"
 ---
 
