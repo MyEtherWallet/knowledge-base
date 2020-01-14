@@ -95,4 +95,4 @@ Ledger made a clear and easy to follow guide on how to restore your Ledger devic
 
 Most issues with the Ledger can be fixed by performing a hard refresh (using CTRL+F5), making sure Contract Data is turned to ‘Yes’, confirming that all the firmware is updated to its latest release, and trying a new connecting cable.
 
-If these troubleshooting options did not fix your issue, MEW has an extensive knowledge base that you can find [here](https://kb.myetherwallet.com). There is a big chance that it's already listed under ‘Common Issues’. If not, feel free to contact us at support@myetherwallet.com. We are always happy to help!
+As always, feel free to contact us at support@myetherwallet.com. We are always happy to help!
