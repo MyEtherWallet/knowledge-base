@@ -23,7 +23,7 @@ They are, from most to least recommended:
 
 * Hardware Wallets ([Ledger Nano S][ledger], [Trezor][trezor], [Digital Bitbox][bitbox], [Finney][finney], etc.)
 * MEWconnect
-* Web3 (MEW CX, MetaMask, etc.)
+* Browser Extensions a.k.a. Web3 (MEW CX, MetaMask, etc.)
 * Keystore/JSON File + Password
 * Mnemonic Phrase + Password
 * Private Key
