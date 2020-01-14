@@ -44,13 +44,15 @@ To learn more about accessing MEW with MEWconnect, reference our [MEWconnect Use
 
 
 
-## __Web3__
+## __Browser Extension (Web3) Wallets__
 #### __[What is Web3?][web3]__
 
 
 
 #### __MEW CX__
 MEW CX is MyEtherWallet's offical Web3 Chrome Extension wallet. It offers all the functionality of the web-version of MEW in the convenience of an toolbar extension. It also hosts the ability to interact with web-based Dapps, such as CryptoKitties.
+
+MEW CX will come in conflict with any other Web3 wallets you have, such as MetaMask or Brave Browser's in-house wallet. Make sure all other Web3 wallets are disabled before using MEW CX.
 
 
 
