@@ -7,7 +7,7 @@ categories:
   - 
     - аппаратные-кошельки
 primary_category: аппаратные-кошельки
-primary_category_display_name: "Аппаратные кошельки (Hardware wallets)"
+primary_category_display_name: "Аппаратные кошельки"
 alias:
   - faq/what-happens-if-myetherwallet-goes-down.html
 ---
