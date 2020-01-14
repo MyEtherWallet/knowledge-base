@@ -104,7 +104,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 **Step 3.** Confirm the transaction, and the ownership of your domain will be transferred.
 
 ***
-###### If you've previously placed an auction for your domain and haven't touched it sense , you need to migrate it to the new registrar. 
+###### If you've previously won an auction for your domain and haven't touched it since, you need to migrate it to the new registrar. 
 
 ## __Migrating to the New Registrar__
 
