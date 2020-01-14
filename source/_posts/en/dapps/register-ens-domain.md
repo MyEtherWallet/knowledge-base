@@ -34,18 +34,18 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 **Step 1.** Head to MyEtherWallet.com.
 * Always check the URL to make sure you’re on our legit site!
 
-<img src="/images/posts/diving-deeper/1ens.png" width="100%">
+<img src="/images/posts/diving-deeper/ENS1-1.png" width="100%">
 
 **Step 2.** Access your wallet. 
 * If you don’t already have a wallet, you will need to [create a new wallet][createWallet]. 
 * You will also need a small amount of ETH for [gas][gas]. We generally recommend `.01 ETH` for 1 - 2 transactions. Initializing and finalizing ENS domains both count as a transactions.
 
-<img src="/images/posts/diving-deeper/2ens.png" width="100%">
+<img src="/images/posts/diving-deeper/ENS1-2.png" width="100%">
 
-**Step 3.** Head to the Dapps section, to the left of your wallet's overview page (or by clicking the ‘Change’ function at the top right). 
+**Step 3.** Head to the Dapps section, to the left of your wallet's overview page. It can also be found at the bottom of the page, under the 'Dapps' section. 
 * Here you will see the ‘ENS Manager’ option. Click there!
 
-<img src="/images/posts/diving-deeper/3ensnew.png" width="100%">
+<img src="/images/posts/diving-deeper/ENS1-3.png" width="100%">
 
 **Step 4.** Enter your desired domain name to see if it is available.
 * ENS domains must be 3 characters or longer.
@@ -53,31 +53,47 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 * You can also search Etherscan.io for available ENS domains.
 * If it says to migrate the ENS domain to the new registrar, that means it is unavailable (unless it's already yours, in which case you should migrate it. All migrations must take place by May 4th, 2020.)
 
-<img src="/images/posts/diving-deeper/4ens.png" width="100%">
+<img src="/images/posts/diving-deeper/ENS1-4.png" width="100%">
 
 **Step 5.** If your domain is available, you can register it. Select the amount of time you wish to own the domain and click `Register`.
 * All domains cost the equivalent of $5/year in ETH to maintain. 
 * They can be owned indefinitely, as long as this annual fee is paid. 
 
-<img src="/images/posts/diving-deeper/5ens.png" width="100%">
+<img src="/images/posts/diving-deeper/ENS1-5.png" width="100%">
 
 **Step 6.** After confirming the transaction, your domain request will process for a moment. When it's done, select `Register` again and confirm the second transaction.
 
-<img src="/images/posts/diving-deeper/8ens.png" width="100%">
+<img src="/images/posts/diving-deeper/ENS1-6.png" width="100%">
 
-<img src="/images/posts/diving-deeper/11ens.png" width="100%">
+<img src="/images/posts/diving-deeper/ENS1-7.png" width="100%">
+
+<img src="/images/posts/diving-deeper/ENS1-8.png" width="100%">
 
 **Step 7.** Check your transaction on Etherscan.io. It should show your public address under the 'Owner' field.
 
-**This process will only set your address as the owner of the domain, but you’re not done yet. If you want this domain to point to your address for sending, you still have a bit to do.**
+<img src="/images/posts/diving-deeper/ENS1-9.png" width="100%">
 
-## __Finalizing the Process__
+**This process will set your address as the owner of the domain.**
 
-**Step 1.** In order to finish setting up your new domain, search it once again on MyEtherWallet in the ENS Manager Dapp.
+## __Multi-Coin Domain Support (BTC, LTC, and more!)__
 
-**Step 2.** Click 'Manage', and enter the address you'd like all funds to be directed to under the 'Update Resolving address' field. If you'd like it to be the same wallet you've registered on, simply copy and paste the same public address.
+**Step 1.** In order to set up your new domain for other cryptocurrencies, search it once again on MyEtherWallet in the ENS Manager Dapp.
 
-**Step 3.** Confirm the transaction, and your domain will be ready to receive funds!
+<img src="/images/posts/diving-deeper/ENS2-1.png" width="100%">
+
+**Step 2.** Once you've found your domain, click 'Manage'. 
+
+<img src="/images/posts/diving-deeper/ENS2-2.png" width="100%">
+
+**Step 3.** Select the coin you'd like this domain to interact with from the drop-down menu on the right. Enter the address you'd like all funds to be directed to in the coin's empty address field. 
+
+<img src="/images/posts/diving-deeper/ENS2-3.png" width="100%">
+
+**Step 4.** Confirm three separate transactions, and your domain will be ready to receive funds through a different address!
+
+<img src="/images/posts/diving-deeper/ENS2-4.png" width="100%">
+
+<img src="/images/posts/diving-deeper/ENS2-5.png" width="100%">
 
 ## __Transferring Ownership__
 
