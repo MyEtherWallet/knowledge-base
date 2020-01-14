@@ -55,6 +55,7 @@ primary_category_display_name: "Dapps"
 <img src="/images/posts/diving-deeper/MKR2.png" width="100%" />
 
 **Step 2.** Choose 'Set' to set allowance for Maker to interact with your DAI.
+* You will need to 'Deploy Proxy' if it's your first time. Select 'Setup' in the top area of this section.
 
 <img src="/images/posts/diving-deeper/MKR6.png" width="80%" />
 
