@@ -66,18 +66,18 @@ MyEtherWallet (MEW) предлагает три способа создания 
 
 **Шаг 2.** Нажмите "Создать новый кошелек".
 
-**Шаг 3.** Выберите вариант "С помощью мнемонической фразы".
+**Шаг 3.** Выберите вариант "Мнемоническая фраза".
 
-**Step 4.** Choose a 12 or 24 word phrase, and WRITE IT DOWN!
+**Шаг 4.** Выберите фразу из 12 или 24 слов и ЗАПИШИТЕ ЕЕ!
 
-* Do not store this on your computer. It is meant to be written down multiple times.
+* Не храните это на вашем компьютере. Это нужно записать в нескольких местах.
 
-**Step 5.** There is an option for an extra word here, for added security. Choosing to include an extra word keeps your phrase more secure, but it limits the accesibility fo your phrase with other wallets. Other wallets may not allow for an extra word, making your phrase incompatible.
+**Шаг 5.** Здесь есть опция для дополнительного слова для дополнительной безопасности. Включая дополнительное слово, вы делаете свою фразу более безопасной, но это может ограничить использование вашей фразы с другими кошельками. Другие кошельки могут не использовать дополнительное слово, что делает вашу фразу несовместимой.
 
-* We cannot recover or reset your phrase or extra word for you. Запишите его!
+* Мы не можем восстановить или сбросить вашу фразу или дополнительное слово. Запишите их!
 
 
-**Шаг 6.** Теперь пройдите небольшой тест, и все! Вы можете зайти в свой кошелек.
+**Шаг 6.** Теперь пройдите небольшой тест, и все! Вы готовы получить доступ к своему кошельку.
 
 
 
