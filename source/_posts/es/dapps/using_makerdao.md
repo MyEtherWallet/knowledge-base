@@ -26,7 +26,7 @@ primary_category_display_name: "Dapps"
 
 **Step 1.** Unlock your wallet on our site by selecting ‘Access My Wallet’, then choosing the method of access you prefer.
 
-<img src="/images/posts/diving-deeper/1maccesscrop.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-1.png" width="100%" />
 
 **Step 2.** Head to our Dapps section to the left of your Wallet Overview page, then select ‘MakerDAO’.
 
