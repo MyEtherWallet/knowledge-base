@@ -50,7 +50,7 @@ primary_category_display_name: "Dapps"
 
 ## __Зарабатывайте проценты с помощью DAI__
 
-**Шаг 1.** Перейдите на страницу MakerDAO Dapp и выберите 'DAI Savings'.
+**Шаг 1.** Перейдите на страницу MakerDAO Dapp и выберите 'Сбережения DAI'.
 
 <img src="/images/posts/diving-deeper/MKR2.png" width="100%" />
 
