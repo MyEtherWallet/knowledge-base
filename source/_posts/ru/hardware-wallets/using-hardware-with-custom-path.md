@@ -11,7 +11,7 @@ categories:
   - 
     - аппаратные-кошельки
 primary_category: аппаратные-кошельки
-primary_category_display_name: "Аппаратные кошельки (Hardware wallets)"
+primary_category_display_name: "Аппаратные кошельки"
 alias:
   - networks/using-ethereum-hardware-wallet-with-path.html
 ---
