@@ -76,21 +76,21 @@ ENS-адрес для поддержки: `mewtopia.eth`
 
 **Этот процесс установит ваш адрес в качестве владельца домена.**
 
-## __Поддержка домена с множественными монетами (BTC, LTC и другие!)__
+## __Поддержка домена с разными криптовалютами (BTC, LTC и другие!)__
 
-**Step 1.** In order to set up your new domain for other cryptocurrencies, search it once again on MyEtherWallet in the ENS Manager Dapp.
+**Шаг 1.** Чтобы завершить настройку вашего нового доменного имени для других криптовалют, найдите его еще раз на MyEtherWallet в Dapp-приложении ENS Manager.
 
 <img src="/images/posts/diving-deeper/ENS2-1.png" width="100%" />
 
-**Step 2.** Once you've found your domain, click 'Manage'.
+**Шаг 2.** После того, как вы нашли свой домен, нажмите 'Менеджер'.
 
 <img src="/images/posts/diving-deeper/ENS2-2.png" width="100%" />
 
-**Step 3.** Select the coin you'd like this domain to interact with from the drop-down menu on the right. Enter the address you'd like all funds to be directed to in the coin's empty address field.
+**Шаг 3.** Выберите криптовалюту с которой домен будет взаимодействовать из выпадающего меню справа. Введите адрес для направления средств в пустое поле валюты.
 
 <img src="/images/posts/diving-deeper/ENS2-3.png" width="100%" />
 
-**Step 4.** Confirm three separate transactions, and your domain will be ready to receive funds through a different address!
+**Шаг 4.** Подтвердите три отдельных транзакции, и ваш домен будет готов к получению средств на другой адрес!
 
 <img src="/images/posts/diving-deeper/ENS2-4.png" width="80%" />
 
