@@ -135,7 +135,7 @@ Trezor made a clear and easy to follow guide on how to restore your Trezor devic
 
 Most issues with the Trezor can be fixed by performing a hard refresh (using CTRL+F5), making sure all the firmware is updated to its latest release, and trying a new connecting cable. 
  
-If these troubleshooting options did not fix your issue, MEW has an extensive knowledge base that you can find [here][mewkb]. There is a big chance that it's already listed under ‘Common Issues’. If not, feel free to contact us at support@myetherwallet.com. We are always happy to help!
+As always, feel free to contact us at support@myetherwallet.com. We are always happy to help!
 
 
 [buyTrezor]: https://trezor.io/?offer_id=12&aff_id=2029

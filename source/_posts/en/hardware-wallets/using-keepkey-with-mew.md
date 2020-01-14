@@ -76,7 +76,7 @@ You can use your recovery phrase to restore your wallet to as many devices as yo
 
 Most issues with the KeepKey can be fixed by performing a hard refresh (using CTRL+F5), confirming that all the firmware is updated to its latest release, and trying a new connecting cable. 
  
-If these troubleshooting options did not fix your issue, MEW has an extensive knowledge base that you can find [here][mewkb]. There is a big chance that it's already listed under ‘Common Issues’. If not, feel free to contact us at support@myetherwallet.com. We are always happy to help!
+As always, feel free to contact us at support@myetherwallet.com. We are always happy to help!
 
 [buyKeepKey]: https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet/?source=hasoffers
 [mewkb]: https://kb.myetherwallet.com
