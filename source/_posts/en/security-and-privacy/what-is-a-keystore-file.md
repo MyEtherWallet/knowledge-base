@@ -40,7 +40,7 @@ As mentioned above, you cannot change your password without generating a complet
 **Step 3.** Enter a strong password, and save the wallet. 
 * This will be the new password for your JSON file, so choose wisely.
 
-**Step 4.** Head to the ‘My Wallets’ area of the extension and click the small icon that looks like an eye. It should say ‘View’ when hovered over. 
+**Step 4.** Head to the ‘My Wallets’ area of the extension and click the word 'Details' in the top-right corner of your wallet.
 
 **Step 5.** Enter in the password you just made.
 
