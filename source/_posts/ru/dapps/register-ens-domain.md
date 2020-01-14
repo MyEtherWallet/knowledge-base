@@ -64,7 +64,7 @@ ENS-адрес для поддержки: `mewtopia.eth`
 
 **Шаг 6.** После подтверждения транзакции ваш запрос домена будет обработан в течение пары минут. Когда все будет готово, еще раз выберите `Регистрация` и подтвердите вторую транзакцию.
 
-<img src="/images/posts/diving-deeper/ENS1-6.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-6.png" width="80%" />
 
 <img src="/images/posts/diving-deeper/ENS1-7.png" width="100%" />
 
@@ -92,7 +92,7 @@ ENS-адрес для поддержки: `mewtopia.eth`
 
 **Step 4.** Confirm three separate transactions, and your domain will be ready to receive funds through a different address!
 
-<img src="/images/posts/diving-deeper/ENS2-4.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS2-4.png" width="80%" />
 
 <img src="/images/posts/diving-deeper/ENS2-5.png" width="100%" />
 
