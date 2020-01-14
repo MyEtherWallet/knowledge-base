@@ -64,7 +64,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 **Step 6.** After confirming the transaction, your domain request will process for a moment. When it's done, select `Register` again and confirm the second transaction.
 
-<img src="/images/posts/diving-deeper/ENS1-6.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-6.png" width="80%" />
 
 <img src="/images/posts/diving-deeper/ENS1-7.png" width="100%" />
 
@@ -92,7 +92,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 **Step 4.** Confirm three separate transactions, and your domain will be ready to receive funds through a different address!
 
-<img src="/images/posts/diving-deeper/ENS2-4.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS2-4.png" width="80%" />
 
 <img src="/images/posts/diving-deeper/ENS2-5.png" width="100%" />
 
