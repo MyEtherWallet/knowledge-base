@@ -43,7 +43,7 @@ ENS-адрес для поддержки: `mewtopia.eth`
 
 <img src="/images/posts/diving-deeper/ENS1-2.png" width="100%" />
 
-**Step 3.** Head to the Dapps section, to the left of your wallet's overview page. It can also be found at the bottom of the page, under the 'Dapps' section.
+**Шаг 3.** Направляйтесь в раздел Dapps в левой части панели управления вашего кошелька. Его также можно найти в нижней части страницы, в разделе 'Dapps'.
 * Здесь вы увидите опцию "ENS-менеджер". Нажмите на нее!
 
 <img src="/images/posts/diving-deeper/ENS1-3.png" width="100%" />
@@ -70,13 +70,13 @@ ENS-адрес для поддержки: `mewtopia.eth`
 
 <img src="/images/posts/diving-deeper/ENS1-8.png" width="100%" />
 
-**Step 7.** Check your transaction on Etherscan.io. It should show your public address under the 'Owner' field.
+**Шаг 7.** Проверьте вашу транзакцию на Etherscan.io. В поле "Владелец" должен быть отображен ваш публичный адрес.
 
 <img src="/images/posts/diving-deeper/ENS1-9.png" width="100%" />
 
-**This process will set your address as the owner of the domain.**
+**Этот процесс установит ваш адрес в качестве владельца домена.**
 
-## __Multi-Coin Domain Support (BTC, LTC, and more!)__
+## __Поддержка домена с множественными монетами (BTC, LTC и другие!)__
 
 **Step 1.** In order to set up your new domain for other cryptocurrencies, search it once again on MyEtherWallet in the ENS Manager Dapp.
 
