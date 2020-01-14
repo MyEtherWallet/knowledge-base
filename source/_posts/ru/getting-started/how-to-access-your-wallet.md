@@ -23,7 +23,7 @@ MyEtherWallet (MEW) предлагает множество способов д�
 
 * Аппаратные кошельки ([Ledger Nano S](https://www.ledger.com/?r=fa4b), [Trezor](https://trezor.io/?offer_id=12&aff_id=2029), [Digital Bitbox](https://shiftcrypto.ch/?ref=mew), [Finney](http://shop.sirinlabs.com/?rfsn=2397639.54fdf&utm_source=refersion&utm_medium=affiliate&utm_campaign=2397639.54fdf) и т. д.)
 * MEWconnect
-* Browser Extensions a.k.a. Web3 (MEW CX, MetaMask, etc.)
+* Расширения для браузера с поддержкой Web3 (MEW CX, MetaMask и т.д.)
 * Файл-хранилище ключа / JSON-файл + пароль
 * Мнемоническая фраза + доп. слово
 * Закрытый ключ
@@ -44,7 +44,7 @@ MyEtherWallet (MEW) предлагает множество способов д�
 
 
 
-## __Browser Extension (Web3) Wallets__
+## __Расширение для браузера (Web3)__
 #### __[Что такое Web3?](https://www.mewtopia.com/the-essential-wallet-guide-part-4/)__
 
 
