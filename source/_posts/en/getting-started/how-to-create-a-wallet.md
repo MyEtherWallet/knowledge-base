@@ -73,7 +73,7 @@ The following information is for those who wish to proceed, regardless of our wa
 
 * Do not store this on your computer. It is meant to be written down multiple times.
 
-**Step 5.** There is an option for an extra word here, for added security. Choosing to include an extra word keeps your phrase more secure, but it limits the accesibility fo your phrase with other wallets. Other wallets may not allow for an extra word, making your phrase incompatible.
+**Step 5.** There is an option for an extra word here, for added security. Choosing to include an extra word keeps your phrase more secure, but it limits the accessibility of your phrase with other wallets. Other wallets may not allow for an extra word, making your phrase incompatible.
 
 * We cannot recover or reset your phrase or extra word for you. Write it down!
 
