@@ -31,11 +31,12 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 
 * [Create](/@@@@@@/getting-started/how-to-create-a-wallet/) a new ETH wallet.
 * [Send](/@@@@@@/transactions/how-to-send-a-transaction/) and receive ETH and ERC20 tokens.
-* [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of existing wallets including our MEWconnect app, the MetaMask Chrome extension, and partnering hardware wallets.
+* [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of existing wallets including our MEWconnect app, MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
 * [Swap](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) a growing number of cryptocurrencies including ERC20 tokens, ETH, ETC, BTC, and REP.
 * Deploy and interact with smart contracts.
-* Send offline, through the use of signatures.
+* Send offline, through the use of our Offline Helper.
 * Register and manage ENS domains and subdomains.
+* Open a Vault with MakerDAO to earn interest on DAI.
 * Access a wealth of educational material from our [Knowledge Base](https://kb.myetherwallet.com/).
 
 ## __What do 'open-source' and 'client-side' mean?__
