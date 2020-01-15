@@ -19,7 +19,7 @@ alias:
 ***
 
 ## __Кошелек__
-* Интерфейс / клиент / оболочка / хранитель, который вы используете для управления аккаунтом (аккаунтами).
+* The interface / client that you use to manage your account(s).
 * Например: MyEtherWallet.com, MEWconnect, MetaMask, аппаратный кошелек (такой как Ledger, Trezor, BitBox, Secalot и т. п.), контрактный кошелек с мультиподписью.
 
 
@@ -34,8 +34,8 @@ alias:
 ## __Адрес (аккаунта / Ethereum / публичный)__
 * Вы используете его для отправки средств на аккаунт.
 * Иногда его называют "открытый ключ"
-* Строка, состоящая из 0x + 40 шестнадцатеричных символов.  (всего 42 символа).
-* В Ethereum адрес начинается с 0x.
+* A string made up of 0x + 40 hexadecimal characters (42 total characters).
+* In Ethereum, the address begins with '0x'.
 * Например: `0x06A85356DCb5b307096726FB86A78c59D38e08ee`
 
 
@@ -49,14 +49,13 @@ alias:
 
 
 ## __Закрытый ключ__
-* Вы используете его для доступа к средствам в аккаунте и их отправки.
-* Секретная половина вашего адреса / пара с открытым ключом.
-* Строка из 64 шестнадцатеричных символов.
-* (Почти) каждая строка из 64 шестнадцатеричных символов является закрытым ключом.
-* Если сегодня вы вручную введете закрытый ключ не так, как вчера, вы попадете в другой кошелек.
-* **Никогда не вводите свой закрытый ключ вручную.**
-* Этот ключ вы должны надежно хранить. Без него вы не можете получить доступ к вашим средствам. Однако вам не нужно сохранять этот исходный незашифрованный закрытый ключ в таком формате. Вам можете сохранить его более продвинутые версии (а именно файл хранилища ключей / мнемоническую фразу).
-* Пример: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
+* The secret half of your Address / public key pairing.
+* A string of 64 hexadecimal characters.
+* (Almost) every string of 64 hexadecimal characters is a private key.
+* If you hand-type a private key differently today than yesterday, you will access a different wallet.
+* **Never hand-type your private key.**
+* This is the key you need to keep safe. Without it you cannot access your funds. Although, you don't need to save this raw, unencrypted private key in this format. You can saving the fancy versions of it (i.e. the Keystore File / Mnemonic Phrase).
+* Example: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
 
 
 
@@ -83,9 +82,9 @@ alias:
 
 
 ## __Аппаратный кошелек (hardware wallet)__
-* Как правило, это специализированное устройство, которое "хранит" ваш закрытый ключ (ключи), обеспечивая их безопасность.
-* Обычно они используют фразу из 24 слов. Эту фразу вам нужно записать на бумагу (не на компьютер) и хранить отдельно от аппаратного кошелька в нескольких местах.
-* Если вы потеряете аппаратный кошелек, вы всё равно сможете получить доступ к своим аккаунтам и фондам через фразу, которую вы записали.
+* Typically, a device that "holds" your private key(s), ensuring these keys are safe.
+* They generally use a 24-word phrase. Эту фразу вам нужно записать на бумагу (не на компьютер) и хранить отдельно от аппаратного кошелька в нескольких местах.
+* If you lose your hardware wallet, you can still gain access to your accounts & funds via the mnemonic phrase you wrote down.
 * **Никогда не вводите фразу для восстановления на компьютере.** Это лишает смысла ваш аппаратный кошелек.
 * Более подробную информацию об аппаратных кошельках смотрите [здесь](/@@@@@@/hardware-wallets/using-ledger-with-mew/).
 
@@ -157,23 +156,17 @@ alias:
 
 
 
-## __Не требующий доверия__
-* Распределенный не требующий доверия консенсус, за который ответственен блокчейн.
-* Так как у каждого есть копия реестра всех когда-либо выполненных транзакций, в третьей стороне нет необходимости. Вы можете подтверждать транзакции сами, однако блокчейн Ethereum и блокчейн Bitcoin были созданы, чтобы правила и соглашения между всеми сторонами исполнялись только при выполнении всех условий.
-
-
-
-## __Умные контракты (smart contracts)__
-* Часть кода (или программы), которая хранится в блокчейн-сети.
-* Условия контракта заранее определяются пользователями. Если все условия выполнены, контракт (программа) исполняет определенные действия.
-* Прочитать больше об умных контрактах можно [здесь](/@@@@@@/diving-deeper/what-is-a-smart-contract/).
+## __Smart Contracts__
+* A piece of code (or program) that is stored on the blockchain network.
+* Conditions of the contract are predefined by the users, if all conditions are met, certain actions are executed by the contract (program).
+* Read more about smart contracts [here](/@@@@@@/diving-deeper/what-is-a-smart-contract/).
 
 
 
 ## __Блокчейн__
-* Децентрализованный реестр, находящийся в общественном владении.
-* Неизменяемый, не может быть отредактирован, перманентный.
-* Поддерживается удаленными майнерами со всего мира.
+* A decentralized, publicly-owned ledger.
+* Immutable, unable to be edited, permanent.
+* Maintained by remote miners all over the world.
 
 
 ##### Все отзывы, переработка кода, пояснения, исправления опечаток и запросы на добавление только приветствуются.
