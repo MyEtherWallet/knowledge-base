@@ -33,7 +33,7 @@ alias:
 
 ## __(Account / Ethereum / Public) Address__
 * You use this to send funds to an account.
-* Sometimes referred to as the "public key"
+* Sometimes referred to as the "public key", which is not accurate (as explained below).
 * A string made up of 0x + 40 hexadecimal characters (42 total characters).
 * In Ethereum, the address begins with '0x'.
 * Example: `0x06A85356DCb5b307096726FB86A78c59D38e08ee`
@@ -43,7 +43,7 @@ alias:
 ## __Public Key__
 * In cryptography, you have a keypair: the public and private key.
 * You can derive a public key from a private key, but cannot derive a private key from a public key.
-* (Advanced) In Ethereum, the address "acts" like the public key, but it's not actually the public key.
+* In Ethereum, the address "acts" like the public key, but it's not actually the public key.
 * (Advanced) In Ethereum, the public key is derived from the private key and is 128 hex characters. You then take the "SHA3" (Keccak-256) hash of this (64 characters), take the last 40 characters, and prefix with 0x, give you your 42-character address.
 
 
