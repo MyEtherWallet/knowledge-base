@@ -77,20 +77,20 @@ MEW CX вступает в конфликт с любыми другими ко�
 
 
 #### __MetaMask__
-This is a Chrome Extension that allows the creation of an ethereum-based wallet that keeps one’s private key encrypted within the extension itself. It also generates a 12-word mnemonic phrase for recovery purposes. MetaMask allows users to name their separate wallets, see funds within the extension, and offers the option to import the private key information of a previously created wallet, if desired.
+Это расширение для Chrome позволяет создавать Ethereum-кошельки, которые хранят закрытые ключи в зашифрованном виде в самом расширении. Оно также генерирует мнемоническую фразу из 12 слов для восстановления. MetaMask позволяет пользователям давать разным кошелькам имена, просматривать баланс средств в расширении, и дает возможность при желании импортировать ранее созданный кошелек путем закрытого ключа.
 
 
 
-#### __To connect MEW with MetaMask:__
-#### __This assumes you already have a MetaMask wallet.__
+#### __Подключить MEW к MetaMask:__
+#### __Предполагается, что у вас уже есть кошелек MetaMask.__
 
 **Шаг 1.** Войдите в ваш кошелек MetaMask с помощью их расширения для Chrome.
 
-**Step 2.** On the MEW front page, select 'Access My Wallet'.
+**Шаг 2.** На главной странице MEW выберите "Доступ к кошельку".
 
 **Шаг 3.** Выберите опцию Web3 для подключения.
 
-**Шаг 4.** Прочитайте и примите "Условия использования", а затем выберите "Перейти к моему кошельку".
+**Шаг 4.** Прочитайте и примите "Условия использования", а затем выберите "Доступ к кошельку".
 
 **Шаг 5.** Подтвердите подключение во всплывающем окне MetaMask.
 
@@ -98,23 +98,23 @@ This is a Chrome Extension that allows the creation of an ethereum-based wallet 
 
 
 
-## __Keystore/JSON + Password__
-The Keystore/JSON is a file that holds an encrypted version of one’s private key. This key is encrypted with a chosen password by the user. As such, it is impossible to change the password for these files. The only way to change the password is to make a completely new Keystore file, which can be achieved in our MEW Chrome Extension with one’s private key. Keystore files should not be opened. They are only to be utilized when accessing the Keystore/JSON option on our site and when prompted for one’s ‘JSON file’. You can read more about the functionality of a Keystore/JSON file [here](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).
+## __Файл-хранилище ключа / JSON-файл + пароль__
+Файл Keystore/JSON — это файл, который содержит зашифрованную версию закрытого ключа. Этот ключ зашифрован с помощью выбранного пользователем пароля. Таким образом, невозможно изменить пароль для этих файлов. Единственный способ изменить пароль — это создать абсолютно новый файл Keystore, что можно сделать с помощью закрытого ключа в нашем расширении MEW для Chrome (MEW CX). Файлы Keystore не должны открываться. Их следует использовать только во время выбора доступа с помощью файла хранилища ключа/JSON на нашем сайте и при запросе файла JSON. Прочитать подробнее о функциональности файла хранилища ключей / JSON-файла можно [здесь](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).
 
 
 
-## __To connect with Keystore/JSON + Password:__
-#### __This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.__
+## __Подключение с помощью файла хранилища ключей / JSON и пароля:__
+#### __Это не рекомендуемый способ подключения. Мы настоятельно рекомендуем [использовать MEW оффлайн](/@@@@@@/offline/offline-mew-looks-weird/) для этого варианта.__
 
-**Step 1.** On the MEW front page, select 'Access My Wallet'.
+**Шаг 1.** На главной странице MEW выберите "Доступ к кошельку".
 
-**Step 2.** Choose the ‘Software’ option to connect, then select ‘JSON File’ and click ‘Continue’.
+**Шаг 2.** Выберите вариант "Программный доступ" для подключения, затем выберите "Файл-хранилище ключа" и нажмите "Продолжить".
 
-**Step 3.** Locate your Keystore/JSON file in the pop-up window. It should begin with ‘UTC--’.
+**Шаг 3.** Найдите ваш файл хранилище/JSON во всплывающем окне. Он должен начинаться с "UTC--".
 
-**Step 4.** Enter your password, and click 'Unlock wallet'.
+**Шаг 4.** Введите пароль и нажмите "Доступ к кошельку".
 
-**Step 5.** You're done!
+**Шаг 5.** Готово!
 
 
 
@@ -124,9 +124,9 @@ This is a list of 12 to 24 words that are generated and given to users upon cert
 
 
 ## __To connect with Mnemonic Phrase (+ Password):__
-#### __This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.__
+#### __Это не рекомендуемый способ подключения. Мы настоятельно рекомендуем [использовать MEW оффлайн](/@@@@@@/offline/offline-mew-looks-weird/) для этого варианта.__
 
-**Step 1.** On the MEW front page, select 'Access My Wallet'.
+**Шаг 1.** На главной странице MEW выберите "Доступ к кошельку".
 
 **Step 2.** Choose the ‘Software’ option to connect, then select ‘Mnemonic Phrase’ and click ‘Continue’.
 
