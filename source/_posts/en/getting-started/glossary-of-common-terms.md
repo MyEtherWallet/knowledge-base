@@ -76,6 +76,7 @@ alias:
 ## __Mnemonic Phrase (Recovery Phrase)__
 * Another fancy version of your private key, that is actually used to derive multiple private keys.
 * Usually, a 12 or 24 word phrase that allows you to access an infinite number of accounts.
+* Sometimes includes an extra 13th or 25th word chosen by the user, for added security.
 * Used by Ledger, Trezor, MEWconnect, MetaMask, Jaxx, and others.
 * Originates from BIP 39 Spec.
 * The accounts you can access with this phrase are determined by the ["derivation path"][path].
