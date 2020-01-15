@@ -118,12 +118,12 @@ The Keystore/JSON is a file that holds an encrypted version of one’s private k
 
 
 
-## __Mnemonic Phrase (+ Password)__
+## __Mnemonic Phrase (+ Extra Word)__
 This is a list of 12 to 24 words that are generated and given to users upon certain forms of wallet creation (i.e. MEWconnect, MetaMask, Hardware Wallets, JAXX wallets, etc.). Sometimes these phrases have an extra word associated with them, and sometimes they do not. The order and spelling of the words in a mnemonic phrase is directly tied to one’s private key, and therefore is not recommended as a regular way to access a wallet. It is best to only use this phrase for recovery purposes.
 
 
 
-## __To connect with Mnemonic Phrase (+ Password):__
+## __To connect with Mnemonic Phrase (+ Extra Word):__
 #### __This is not a recommended way to connect. We highly suggest [using MEW offline][offline] for this option.__
 
 **Step 1.** On the MEW front page, select 'Access My Wallet'.
