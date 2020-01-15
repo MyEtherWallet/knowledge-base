@@ -118,7 +118,7 @@ MEW CX вступает в конфликт с любыми другими ко�
 
 
 
-## __Mnemonic Phrase (+ Extra Word)__
+## __Мнемоническая фраза (+ доп. слово)__
 This is a list of 12 to 24 words that are generated and given to users upon certain forms of wallet creation (i.e. MEWconnect, MetaMask, Hardware Wallets, JAXX wallets, etc.). Sometimes these phrases have an extra word associated with them, and sometimes they do not. The order and spelling of the words in a mnemonic phrase is directly tied to one’s private key, and therefore is not recommended as a regular way to access a wallet. It is best to only use this phrase for recovery purposes.
 
 
