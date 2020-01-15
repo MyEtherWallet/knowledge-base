@@ -26,7 +26,7 @@ Our backend infrastructure is on AWS. You can actually do it yourself and run yo
 
 Or you could pay a small fee and use [QuikNode][quiknode], which makes it even easier.
 
-For both of these options, you could also connect to your new node via the 'Add Custom Node' option in the network selector in the top-right corner. Further details on how to connect to your own node can be found [here][ownNode].
+For both of these options, you could also connect to your new node via the 'Add Custom Node' option in the network selector in the top-right corner. Troubleshooting for connection to your own node can be found [here][ownNode].
 
 Or use our API directly to it (see the docs in the above APIs).
 
