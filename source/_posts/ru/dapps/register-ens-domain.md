@@ -116,7 +116,7 @@ ENS-адрес для поддержки: `mewtopia.eth`
 * Если у вас еще нет кошелька, вам понадобится [создать новый кошелек](/@@@@@@/getting-started/how-to-create-a-wallet/).
 * Также вам понадобится небольшая сумма ETH на [газ](/@@@@@@/transactions/what-is-gas/). Обычно мы рекомендуем `.01 ETH` для 1 - 2 транзакций. И начало, и окончание ENS-аукционов засчитываются как транзакции.
 
-**Step 3.** Head to the Dapps section, to the left of your wallet's overview page (or by clicking the ‘Change’ function at the top right).
+**Шаг 3.** Направляйтесь в раздел Dapps в левой части панели управления вашего кошелька. Его также можно найти в нижней части страницы, в разделе 'Dapps'.
 * Здесь вы увидите опцию "ENS-менеджер". Нажмите на нее!
 
 **Step 4.** Check the domain name you've previously registered. If all goes to plan, it should tell you that it's still in the old registrar.
