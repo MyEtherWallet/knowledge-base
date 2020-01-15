@@ -89,7 +89,7 @@ You’re done! You can now use our interface as usual, with the MEWconnect app a
 
 **Step 3.**  Follow the process of a regular transaction.
 
-Fill in the ‘To Address’, ‘Amount to Send’, and ‘Gas Limit’ fields. If you have any questions, refer to our article on [How to Send a Transaction][sendaTX].
+Fill in the ‘Type’ of crypto, the 'Amount' you wish to send, and the 'To Address' of where you're sending it. If you have any questions, refer to our article on [How to Send a Transaction][sendaTX].
 
 **Step 4.**  Confirm your transaction on the MEWconnect app.
 
