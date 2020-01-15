@@ -65,7 +65,7 @@ MEW CX will come in conflict with any other Web3 wallets you have, such as MetaM
 
 **Step 2.** Once you've saved a wallet, head to the MEW website. On the front page, select 'Access My Wallet'.
 
-**Step 3.** Select the 'Web3' option to connect.
+**Step 3.** Select the 'Browser Extension' option to connect.
 
 **Step 4.** Read and accept the ‘Terms and Conditions’, then select ‘Access My Wallet’.
 
@@ -88,7 +88,7 @@ This is a Chrome Extension that allows the creation of an ethereum-based wallet 
 
 **Step 2.** On the MEW front page, select 'Access My Wallet'.
 
-**Step 3.** Select the 'Web3' option to connect.
+**Step 3.** Select the 'Browser Extension' option to connect.
 
 **Step 4.** Read and accept the ‘Terms and Conditions’, then select ‘Access My Wallet’.
 
