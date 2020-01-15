@@ -7,9 +7,9 @@ tags:
 - private
 - key
 categories:
-- [private-keys-and-passwords]
-primary_category: private-keys-and-passwords
-primary_category_display_name: "Private Keys And Passwords"
+- [security-and-privacy]
+primary_category: security-and-privacy
+primary_category_display_name: "Security And Privacy"
 alias:
 - private-keys-passwords/lost-eth-private-key.html
 ---
