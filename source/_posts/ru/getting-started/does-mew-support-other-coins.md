@@ -18,6 +18,6 @@ alias:
 ###### {% read_time title "Does MEW Support BTC or other Coins?" %} минут на чтение
 ***
 
-MyEtherWallet (MEW) supports ETH and ERC20 tokens on our main ETH networks. You can access the full list of supported networks and switch between them through our Network/Node list, which can be found on your Wallet Overview page after accessing your wallet.
+MyEtherWallet (MEW) поддерживает ETH и ERC20 токены в основных ETH сетях. Вы можете получить доступ к полному списку поддерживаемых сетей и переключаться между ними через настройку Сеть/Узлы которую можно найти на странице Обзора кошелька после доступа к вашему кошельку.
 
-You can use our swap function to swap between BTC and ETH, thanks to our partner Bity, but we do not offer support for BTC. We just offer the option to swap it. This requires you have a BTC wallet, to receive the funds. 
+Вы можете пользоваться нашей функцией обмена между BTC и ETH благодаря нашему партнеру Bity, однако мы не предлагаем поддержку BTC. Мы предлагаем только возможность обменять его. Для этого необходимо иметь кошелек BTC для получения средств. 
