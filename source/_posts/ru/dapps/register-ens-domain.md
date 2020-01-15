@@ -105,7 +105,7 @@ ENS-адрес для поддержки: `mewtopia.eth`
 **Шаг 3.** Подтвердите транзакцию, и право собственности будет передано.
 
 ***
-###### If you've previously won an auction for your domain and haven't touched it since, you need to migrate it to the new registrar.
+###### Если вы ранее выиграли аукцион на свой домен и с тех пор не занимались им, то вам нужно перенести его на новый регистратор.
 
 ## __Перенос в новый регистратор__
 
@@ -119,16 +119,16 @@ ENS-адрес для поддержки: `mewtopia.eth`
 **Шаг 3.** Направляйтесь в раздел Dapps в левой части панели управления вашего кошелька. Его также можно найти в нижней части страницы, в разделе 'Dapps'.
 * Здесь вы увидите опцию "ENS-менеджер". Нажмите на нее!
 
-**Step 4.** Check the domain name you've previously registered. If all goes to plan, it should tell you that it's still in the old registrar.
+**Шаг 4.** Проверьте ранее зарегистрированное доменное имя. Если все пойдет по плану, вы увидите сообщение о том, что оно все еще в старом регистраторе.
 
 <img src="/images/posts/diving-deeper/ens2.png" width="100%" />
 
-**Step 5.** Select 'Transfer' and a transaction screen will pop up. Confirm the transaction, and your domain will begin the transfer process.
+**Шаг 5.** Выберите "Перенести", после этого появится окно для подтверждения транзакции. Подтвердите транзакцию, и начнется процесс переноса вашего домена.
 
 <img src="/images/posts/diving-deeper/ens5.png" width="100%" />
 
 <img src="/images/posts/diving-deeper/ens4.png" width="100%" />
 
-**Step 6.** Once the transaction goes through, your domain will show in the new registrar.
+**Шаг 6.** Как только транзакция пройдет, ваше доменное имя окажется в новом регистраторе.
 
 <img src="/images/posts/diving-deeper/ens6.png" width="100%" />
