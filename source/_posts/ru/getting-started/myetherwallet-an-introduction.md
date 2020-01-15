@@ -31,12 +31,13 @@ MyEtherWallet (MEW) — это клиентский интерфейс с отк
 
 * [Создать](/@@@@@@/getting-started/how-to-create-a-wallet/) новый ETH-кошелек.
 * [Отправлять](/@@@@@@/transactions/how-to-send-a-transaction/) и получать токены ETH и ERC20.
-* [Заходить](/@@@@@@/getting-started/how-to-access-your-wallet/) во множество существующих кошельков, включая наше приложение MEWconnect, расширение для Chrome MetaMask и партнерские аппаратные кошельки.
+* [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of existing wallets including our MEWconnect app, MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
 * [Обменивать](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) пополняющееся количество криптовалют, включая токены ERC20, ETH, ETC, BTC и REP.
 * Применять умные контракты и взаимодействовать с ними.
-* Отправлять средства в автономном режиме с помощью подписей.
+* Send offline, through the use of our Offline Helper.
 * Регистрировать и управлять доменами и субдоменами ENS.
-* Пользоваться множеством образовательных материалов из нашей [Базы знаний](https://kb.myetherwallet.com/).
+* Open a Vault with MakerDAO to earn interest on DAI.
+* Access a wealth of educational material from our [Knowledge Base](https://kb.myetherwallet.com/).
 
 ## __Что значит "открытый исходный код" и "клиентский"?__
 
