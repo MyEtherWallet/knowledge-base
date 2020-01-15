@@ -33,7 +33,7 @@ This step is very important. Make sure you pick a password that is not easy to g
 
 **Step 5.** Click "Start using MEWconnect".
 
-You’re done! You’ll be taken to a screen that shows your new wallets address backed by a unique color-code. On this screen you’ll find all your ETH and ERC20 tokens. There is also a handy ‘Share’ button next to your address, in case you want to send it to someone.
+You’re done! You’ll be taken to a screen that shows your new wallets address backed by a unique color-code. On this screen you’ll find all your ETH and ERC20 tokens that we support in our default list. Custom tokens can only be seen using our web interface.
 <br />
 
 
@@ -67,7 +67,7 @@ You're done! All backed up and ready to connect to MEW
 
 Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   the URL. We recommend the Google Chrome browser.
 
-**Step 3.** Choose the ‘Send Ether & Tokens’ tab.
+**Step 3.** Select 'Access My Wallet'.
 
 **Step 4.** Click ‘MEWconnect’ as the method of access.
 
@@ -88,7 +88,7 @@ You’re done! You can now use our interface as usual, with the MEWconnect app a
 
 **Step 3.**  Follow the process of a regular transaction.
 
-Fill in the ‘To Address’, ‘Amount to Send’, and ‘Gas Limit’ fields. If you have any questions, refer to our article on [How to Send a Transaction](/@@@@@@/transactions/how-to-send-a-transaction/).
+Fill in the ‘Type’ of crypto, the 'Amount' you wish to send, and the 'To Address' of where you're sending it. If you have any questions, refer to our article on [How to Send a Transaction](/@@@@@@/transactions/how-to-send-a-transaction/).
 
 **Step 4.**  Confirm your transaction on the MEWconnect app.
 
