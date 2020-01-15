@@ -115,7 +115,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 * If you don’t already have a wallet, you will need to [create a new wallet][createWallet]. 
 * You will also need a small amount of ETH for [gas][gas]. We generally recommend `.01 ETH` for 1 - 2 transactions. Starting and finalizing ENS auctions both count as a transactions.
 
-**Step 3.** Head to the Dapps section, to the left of your wallet's overview page (or by clicking the ‘Change’ function at the top right). 
+**Step 3.** Head to the Dapps section, to the left of your wallet's overview page. It can also be found at the bottom of the page, under the 'Dapps' section. 
 * Here you will see the ‘ENS Manager’ option. Click there!
 
 **Step 4.** Check the domain name you've previously registered. If all goes to plan, it should tell you that it's still in the old registrar.
