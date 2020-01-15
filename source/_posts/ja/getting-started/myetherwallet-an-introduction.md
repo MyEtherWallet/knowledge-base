@@ -36,7 +36,7 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 * Deploy and interact with smart contracts.
 * Send offline, through the use of our Offline Helper.
 * Register and manage ENS domains and subdomains.
-* Open a Vault with MakerDAO to earn interest on DAI.
+* Open a Vault with MakerDAO and earn interest on DAI.
 * Access a wealth of educational material from our [Knowledge Base](https://kb.myetherwallet.com/).
 
 ## __What do 'open-source' and 'client-side' mean?__
@@ -52,7 +52,7 @@ MyEtherWallet (MEW) is an open-source, client-side interface that allows users t
 
 * All ETH and ERC20 tokens are stored on the Ethereum blockchain.
 * When using any site, exchange, hardware wallet, or interface based on the blockchain, all crypto is stored on the blockchain itself. These platforms and hardware wallets just allow us to interact with the blockchain in a simplified way.
-* The Ethereum blockchain is not owned by a centralized entityu, but is verified and maintained by thousands of remote people called 'miners' who use their time and energy to keep it all in check.
+* The Ethereum blockchain is not owned by a centralized entity, but is verified and maintained by thousands of remote people called 'miners' who use their time and energy to keep it all in check.
 * This is why our site, and sites like [Etherscan](https://etherscan.io/) and [Ethplorer](https://ethplorer.io), are able to pull your wallet information. Not because of behind-the-scenes servers, but because they are pulling information from the blockchain itself.
 
 
