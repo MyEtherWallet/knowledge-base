@@ -1,5 +1,5 @@
 ---
-title: "MEWconnect 101: Создание кошелька кошелек"
+title: "MEWconnect 101: Создание кошелька"
 date: 2018-04-01 00:01:00
 tags:
   - mewconnect
@@ -14,7 +14,7 @@ alias:
   - mewconnect/mew-connect-101-create.html
 ---
 
-# __MEWconnect 101: Создание кошелька кошелек__
+# __MEWconnect 101: Создание кошелька__
 ###### {% read_time title "MEWconnect 101: Создание кошелька" %} мин. на прочтение
 ***
 
