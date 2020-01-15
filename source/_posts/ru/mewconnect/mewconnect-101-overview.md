@@ -1,9 +1,9 @@
 ---
-title: "MEWconnect 101: Данные кошелька"
+title: "MEWconnect 101: Обзор кошелька"
 date: 2018-06-01 00:03:00
 tags:
   - mewconnect
-  - данные
+  - обзор
   - кошелек
 categories:
   - 
@@ -14,7 +14,7 @@ alias:
   - mewconnect/mew-connect-101-overview.html
 ---
 
-# __MEWconnect 101: Данные кошелька__
+# __MEWconnect 101: Обзор кошелька__
 ###### {% read_time title "MEWconnect 101: Данные кошелька" %} мин. на прочтение
 ***
 
