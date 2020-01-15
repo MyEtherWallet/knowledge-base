@@ -36,7 +36,7 @@ MyEtherWallet (MEW) — это клиентский интерфейс с отк
 * Применять умные контракты и взаимодействовать с ними.
 * Send offline, through the use of our Offline Helper.
 * Регистрировать и управлять доменами и субдоменами ENS.
-* Open a Vault with MakerDAO to earn interest on DAI.
+* Open a Vault with MakerDAO and earn interest on DAI.
 * Access a wealth of educational material from our [Knowledge Base](https://kb.myetherwallet.com/).
 
 ## __Что значит "открытый исходный код" и "клиентский"?__
@@ -52,7 +52,7 @@ MyEtherWallet (MEW) — это клиентский интерфейс с отк
 
 * Все ETH и токены ERC20 хранятся в блокчейне Ethereum.
 * При использовании любого сайта, биржи, аппаратного кошелка и интерфейса на базе блокчейна вся криптовалюта хранится в самом блокчейне. Эти платформы и аппаратные кошельки просто позволяют нам упростить взаимодействие с блокчейном.
-* Блокчейн Ethereum не принадлежит никакому централизованному субъекту. Он проверяется и поддерживается тысячами удаленно взаимодействующих с ним людей, которые называются майнерами и вкладывают свое время и энергию,чтобы держать всё это под контролем.
+* The Ethereum blockchain is not owned by a centralized entity, but is verified and maintained by thousands of remote people called 'miners' who use their time and energy to keep it all in check.
 * Именно поэтому наш сайт и такие сайты, как [Etherscan](https://etherscan.io/) и [Ethplorer](https://ethplorer.io), могут получать информацию о вашем кошельке. Не потому, что у них есть скрытые серверы, а потому что они получают информацию из самого блокчейна.
 
 
