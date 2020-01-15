@@ -19,7 +19,7 @@ alias:
 ***
 
 ## __Wallet__
-* The interface / client / wrapper / holder that you use to manage your account(s).
+* The interface / client that you use to manage your account(s).
 * Example: MyEtherWallet.com, MEWconnect, MetaMask, a hardware wallet (i.e. Ledger, Trezor, BitBox, Secalot, etc..), a Multisig Wallet Contract.
 
 
@@ -34,8 +34,8 @@ alias:
 ## __(Account / Ethereum / Public) Address__
 * You use this to send funds to an account.
 * Sometimes referred to as the "public key"
-* A string made up of 0x + 40 hexadecimal characters. (42 total characters).
-* In Ethereum, the address begins with 0x.
+* A string made up of 0x + 40 hexadecimal characters (42 total characters).
+* In Ethereum, the address begins with '0x'.
 * Example: `0x06A85356DCb5b307096726FB86A78c59D38e08ee`
 
 
@@ -49,7 +49,6 @@ alias:
 
 
 ## __Private Key__
-* You use this to access and send funds from an account.
 * The secret half of your Address / public key pairing.
 * A string of 64 hexadecimal characters.
 * (Almost) every string of 64 hexadecimal characters is a private key.
@@ -83,9 +82,9 @@ alias:
 
 
 ## __Hardware Wallet__
-* Typically, a single-purpose device that "holds" your private key(s), ensuring these keys are safe.
-* Generally, they use a 24-word phrase. This phrase you should write down on paper (not on your computer) and store separately from your hardware wallet, in multiple locations.
-* If you lose your hardware wallet, you can still gain access to your accounts & funds via the word-phrase you wrote down.
+* Typically, a device that "holds" your private key(s), ensuring these keys are safe.
+* They generally use a 24-word phrase. This phrase you should write down on paper (not on your computer) and store separately from your hardware wallet, in multiple locations.
+* If you lose your hardware wallet, you can still gain access to your accounts & funds via the mnemonic phrase you wrote down.
 * **Never type the recovery phrase on your computer.** It defeats the purpose of your hardware wallet.
 * See [here](/@@@@@@/hardware-wallets/using-ledger-with-mew/) for more information about Hardware Wallets.
 
@@ -154,12 +153,6 @@ alias:
 
 ## __Decentralize / Decentralization__
 * The process of transferring authority from a single entity (ex. Government or large corporation) to multiple smaller entities.
-
-
-
-## __Trustless__
-* A distributed trustless consensus which the blockchain is responsible for.
-* Since everyone has a copy of the ledger of all transactions ever executed, there is no need for a third-party. You can verify the transactions yourself, however the Ethereum blockchain and Bitcoin blockchain were created to ensure rules and agreements between all parties are executed only when all conditions are met.
 
 
 
