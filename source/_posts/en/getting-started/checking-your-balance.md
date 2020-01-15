@@ -21,7 +21,7 @@ alias:
 
 It is not recommended to unlock your wallet every time you’d like to check your balance, for the security of your information. Instead, you can see all balances and transaction history through the use of an Ethereum blockchain explorer, like [Etherscan][etherscan] or [Ethplorer][ethplorer]. To check your balance, all you need is your public Ethereum address. This is 42 characters long and begins with an ‘0x….’.
 
-Be aware that when checking ETC balances, you should use an Ethereum Classic blockchain explorer instead, such as Gastracker.io.
+Be aware that when checking balances from different blockchains, you will need to use a different blockchain explorer.
 
 
 
