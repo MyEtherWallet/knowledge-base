@@ -42,9 +42,11 @@ This allows you to have the more traditional username / password account dynamic
 * Don't email your key, send it to anyone, or post it online.
 * Don't save it to cloud storage.
 * Don't have Team Viewer or other remote access software on your computer.
+* And last but not least, [use MEW offline][mewoffline]!!
 
 If this seems very overwhelming, we recommend purchasing a [Ledger][ledger] or [Trezor][trezor] hardware wallet. These help keep your keys safe and stored in an "offline" device, rather than on your computer. In this case, you don't have to worry about files or strings of characters; instead you just connect your hardware wallet to your computer.
 
 
 [ledger]: https://www.ledger.com/?r=fa4b
 [trezor]: https://shop.trezor.io/?a=myetherwallet.com
+[mewoffline]: /@@@@@@/offline/using-mew-offline/
