@@ -34,7 +34,7 @@ Be aware that when checking balances from different blockchains, you will need t
 **Step 3.** You will be taken to a wallet overview. 
 * At the top, you will see the checksummed version of your address. To learn about the difference between checksummed and non-checksummed addresses, click [here][checkSum].
 * In the ‘Overview’ section, you will see your ETH balance and value.
-* Under ‘Misc:’, you can find your Token Balances. When looking for custom token information, this is where you can select a specific token to find its contract address, decimal count, and symbol. To learn more about adding custom tokens to MEW, click [here][customTokens].
+* Under 'Token', you can find your Token Balances. When looking for custom token information, this is where you can select a specific token to find its contract address, decimal count, and symbol. To learn more about adding custom tokens to MEW, click [here][customTokens].
 * The tabs at the bottom of the screen show the history of ETH, ERC20 token, and ERC721 token transactions.
 
 
