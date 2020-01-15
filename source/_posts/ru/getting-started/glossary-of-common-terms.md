@@ -33,9 +33,9 @@ alias:
 
 ## __Адрес (аккаунта / Ethereum / публичный)__
 * Вы используете его для отправки средств на аккаунт.
-* Иногда его называют "открытый ключ"
-* A string made up of 0x + 40 hexadecimal characters (42 total characters).
-* In Ethereum, the address begins with '0x'.
+* Sometimes referred to as the "public key", which is not accurate (as explained below).
+* Строка, состоящая из 0x + 40 шестнадцатеричных символов (всего 42 символа).
+* В Ethereum адрес начинается с 0x'.
 * Например: `0x06A85356DCb5b307096726FB86A78c59D38e08ee`
 
 
@@ -43,17 +43,17 @@ alias:
 ## __Открытый ключ__
 * В криптографии у вас есть пара ключей: открытый и закрытый.
 * Вы можете получить открытый ключ на основе закрытого, но не можете получить закрытый ключ на основе открытого.
-* (Углубленная информация) В Ethereum адрес "действует" как открытый ключ, но на самом деле им не является.
+* In Ethereum, the address "acts" like the public key, but it's not actually the public key.
 * (Углубленная информация) В Ethereum открытый ключ получается на основе закрытого ключа и состоит из 128 шестнадцатеричных символов. Затем вы берете хэш этого по алгоритму "SHA3" (Keccak-256) (он состоит из 64 символов), берете последние 40 символов и добавляете в начало 0x, что дает вам адрес из 42 символов.
 
 
 
 ## __Закрытый ключ__
-* The secret half of your Address / public key pairing.
-* A string of 64 hexadecimal characters.
-* (Almost) every string of 64 hexadecimal characters is a private key.
-* If you hand-type a private key differently today than yesterday, you will access a different wallet.
-* **Never hand-type your private key.**
+* Тайная часть вашего адреса / пары ключей.
+* Строка из 64 шестнадцатеричных символов.
+* (Почти) каждая строка из 64 шестнадцатеричных символов является закрытым ключом.
+* Если сегодня вы введете закрытый ключ иначе, чем вчера, вы получите доступ к другому кошельку.
+* **Никогда не вводите свой закрытый ключ вручную.**
 * This is the key you need to keep safe. Without it you cannot access your funds. Although, you don't need to save this raw, unencrypted private key in this format. You can saving the fancy versions of it (i.e. the Keystore File / Mnemonic Phrase).
 * Example: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
 
