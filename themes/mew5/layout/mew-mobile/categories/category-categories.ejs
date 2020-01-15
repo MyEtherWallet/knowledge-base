@@ -71,15 +71,6 @@
                 </div>
               </a>
             </li>
-            <li>
-              <a href="<%- url_for_lang(site.categories.findOne({name: 'private-keys-and-passwords'}).posts.sort('date', 1).data[0].path) %>">
-                <div>
-                  <%- image_tag('images/mew-icons/private-keys-and-password.svg') %>
-                  <p><%= _p('index.private_keys_password') %></p>
-                  <div class="post-counter"><p><%= site.categories.findOne({name: 'private-keys-and-passwords'}).posts.length %></p></div>
-                </div>
-              </a>
-            </li>
           </ul>
         </div>
         <div class="cat-group">
