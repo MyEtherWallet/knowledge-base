@@ -19,7 +19,7 @@ alias:
 ***
 
 ## __Кошелек__
-* The interface / client that you use to manage your account(s).
+* Интерфейс / клиент, который вы используете для управления своим(и) аккаунтом (аккаунтами).
 * Например: MyEtherWallet.com, MEWconnect, MetaMask, аппаратный кошелек (такой как Ledger, Trezor, BitBox, Secalot и т. п.), контрактный кошелек с мультиподписью.
 
 
