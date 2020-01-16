@@ -24,7 +24,7 @@ alias:
 
 **Step 2.** There should be a Mist Multisig Contract ABI in the dropdown. If not, we have provided the ABI at the bottom of this article, which you can manually input into the interface. 
 
-**Step 3.** Enter your contract address in the ‘Contract Address’ field at the top. 
+**Step 3.** Enter your contract address in the ‘Contract Address’ field at the top and press 'Continue'. 
 
 **Step 4.** Select ‘Execute’ from the dropdown menu. 
 * Enter the address you want to send to in the `_To` field.
