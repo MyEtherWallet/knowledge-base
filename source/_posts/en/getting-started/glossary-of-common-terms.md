@@ -54,7 +54,7 @@ alias:
 * (Almost) every string of 64 hexadecimal characters is a private key.
 * If you hand-type a private key differently today than yesterday, you will access a different wallet. 
 * **Never hand-type your private key.**
-* This is the key you need to keep safe. Without it you cannot access your funds. Although, you don't need to save this raw, unencrypted private key in this format. You can saving the fancy versions of it (i.e. the Keystore File / Mnemonic Phrase).
+* This is the key you need to keep safe. Without it you cannot access your funds. Although, you don't need to save this raw, unencrypted private key in this format. You can save a more secure version of it (i.e. the Keystore File / Mnemonic Phrase).
 * Example: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
 
 
