@@ -31,13 +31,13 @@ MyEtherWallet (MEW) — это клиентский интерфейс с отк
 
 * [Создать](/@@@@@@/getting-started/how-to-create-a-wallet/) новый ETH-кошелек.
 * [Отправлять](/@@@@@@/transactions/how-to-send-a-transaction/) и получать токены ETH и ERC20.
-* [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of existing wallets including our MEWconnect app, MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
-* [Обменивать](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) пополняющееся количество криптовалют, включая токены ERC20, ETH, ETC, BTC и REP.
-* Применять умные контракты и взаимодействовать с ними.
-* Send offline, through the use of our Offline Helper.
+* [Получать доступ](/@@@@@@/getting-started/how-to-access-your-wallet/) к множеству существующих кошельков, включая наше приложение MEWconnect, расширения для Chrome MEW CX и MetaMask, и партнерские аппаратные кошельки.
+* [Swap](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) a growing number of cryptocurrencies including ERC20 tokens, ETH, ETC, BTC, and more!
+* Применять умные контракты (smart contracts) и взаимодействовать с ними.
+* Отправлять транзакции оффлайн, используя наш Оффлайн Ассистент.
 * Регистрировать и управлять доменами и субдоменами ENS.
-* Open a Vault with MakerDAO and earn interest on DAI.
-* Access a wealth of educational material from our [Knowledge Base](https://kb.myetherwallet.com/).
+* Открывать Vault с MakerDAO и зарабатывать проценты на DAI.
+* Пользоваться множеством образовательных материалов из нашей [Базы знаний](https://kb.myetherwallet.com/).
 
 ## __Что значит "открытый исходный код" и "клиентский"?__
 
@@ -50,9 +50,9 @@ MyEtherWallet (MEW) — это клиентский интерфейс с отк
 
 ## __Где тогда хранятся мои средства?__
 
-* Все ETH и токены ERC20 хранятся в блокчейне Ethereum.
-* При использовании любого сайта, биржи, аппаратного кошелка и интерфейса на базе блокчейна вся криптовалюта хранится в самом блокчейне. Эти платформы и аппаратные кошельки просто позволяют нам упростить взаимодействие с блокчейном.
-* The Ethereum blockchain is not owned by a centralized entity, but is verified and maintained by thousands of remote people called 'miners' who use their time and energy to keep it all in check.
+* Все ETH и токены ERC20 хранятся на блокчейне Ethereum.
+* При использовании любого сайта, биржи, аппаратного кошелька и интерфейса на базе блокчейна, вся криптовалюта хранится на самом блокчейне. Эти платформы и аппаратные кошельки просто позволяют нам упростить взаимодействие с блокчейном.
+* Блокчейн Ethereum не принадлежит никакому централизованному субъекту. Он проверяется и поддерживается тысячами удаленно взаимодействующих с ним людей, которые называются майнерами и вкладывают свое время и энергию, чтобы поддерживать эти процессы.
 * Именно поэтому наш сайт и такие сайты, как [Etherscan](https://etherscan.io/) и [Ethplorer](https://ethplorer.io), могут получать информацию о вашем кошельке. Не потому, что у них есть скрытые серверы, а потому что они получают информацию из самого блокчейна.
 
 
