@@ -1,5 +1,5 @@
 ---
-title: "Что такое умный контракт?"
+title: "Что такое умный контракт (smart contract)?"
 date: 2018-06-01 00:08:00
 tags:
   - умный
@@ -11,7 +11,7 @@ primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 ---
 
-# __Что такое умный контракт?__
+# __Что такое умный контракт (smart contract)?__
 ###### {% read_time title "What is a Smart Contract?" %} минут на чтение
 ***
 
