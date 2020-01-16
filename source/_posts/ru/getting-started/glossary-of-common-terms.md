@@ -152,21 +152,21 @@ alias:
 
 
 ## __Децентрализовывать / децентрализация__
-* Процесс передачи власти от одного субъекта (например, правительства или крупной корпорации) множеству более мелких субъектов.
+* Процесс распределения власти от одного субъекта (например, правительства или крупной корпорации) множеству более мелких субъектов.
 
 
 
-## __Smart Contracts__
-* A piece of code (or program) that is stored on the blockchain network.
-* Conditions of the contract are predefined by the users, if all conditions are met, certain actions are executed by the contract (program).
-* Read more about smart contracts [here](/@@@@@@/diving-deeper/what-is-a-smart-contract/).
+## __Умные контракты (Smart Contracts)__
+* Kод или программa, которая хранится в блокчейн-сети.
+* Условия контракта заранее определяются пользователями. Если все условия выполнены, контракт (программа) исполняет определенные действия.
+* Узнать больше об умных контрактах можно [здесь](/@@@@@@/diving-deeper/what-is-a-smart-contract/).
 
 
 
 ## __Блокчейн__
-* A decentralized, publicly-owned ledger.
-* Immutable, unable to be edited, permanent.
-* Maintained by remote miners all over the world.
+* Децентрализованный реестр, находящийся в общественном владении.
+* Неизменяемый, нередактируемый, перманентный.
+* Поддерживается удаленными майнерами со всего мира.
 
 
 ##### Все отзывы, переработка кода, пояснения, исправления опечаток и запросы на добавление только приветствуются.
