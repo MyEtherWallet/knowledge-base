@@ -33,7 +33,7 @@ alias:
 
 ## __Адрес (аккаунта / Ethereum / публичный)__
 * Вы используете его для отправки средств на аккаунт.
-* Sometimes referred to as the "public key", which is not accurate (as explained below).
+* Иногда называют "открытый ключ", но это не совсем правильно (как описано ниже).
 * Строка, состоящая из 0x + 40 шестнадцатеричных символов (всего 42 символа).
 * В Ethereum адрес начинается с 0x'.
 * Например: `0x06A85356DCb5b307096726FB86A78c59D38e08ee`
@@ -43,7 +43,7 @@ alias:
 ## __Открытый ключ__
 * В криптографии у вас есть пара ключей: открытый и закрытый.
 * Вы можете получить открытый ключ на основе закрытого, но не можете получить закрытый ключ на основе открытого.
-* In Ethereum, the address "acts" like the public key, but it's not actually the public key.
+* В Ethereum адрес "действует" как открытый ключ, но на самом деле им не является.
 * (Углубленная информация) В Ethereum открытый ключ получается на основе закрытого ключа и состоит из 128 шестнадцатеричных символов. Затем вы берете хэш этого по алгоритму "SHA3" (Keccak-256) (он состоит из 64 символов), берете последние 40 символов и добавляете в начало 0x, что дает вам адрес из 42 символов.
 
 
@@ -52,14 +52,14 @@ alias:
 * Тайная часть вашего адреса / пары ключей.
 * Строка из 64 шестнадцатеричных символов.
 * (Почти) каждая строка из 64 шестнадцатеричных символов является закрытым ключом.
-* Если сегодня вы введете закрытый ключ иначе, чем вчера, вы получите доступ к другому кошельку.
+* Если сегодня вы вручную введете закрытый ключ не так, как вчера, вы попадете в другой кошелек.
 * **Никогда не вводите свой закрытый ключ вручную.**
-* This is the key you need to keep safe. Without it you cannot access your funds. Although, you don't need to save this raw, unencrypted private key in this format. You can saving the fancy versions of it (i.e. the Keystore File / Mnemonic Phrase).
-* Example: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
+* Этот ключ вы должны надежно хранить. Без него вы не можете получить доступ к вашим средствам. Однако вам не стоит сохранять этот исходный незашифрованный закрытый ключ в таком формате. You can save a more secure version of it (i.e. the Keystore File / Mnemonic Phrase).
+* Пример: `afdfd9c3d2095ef696594f6cedcae59e72dcd697e2a7521b1578140422a4f890`
 
 
 
-## __Файл хранилища ключей__
+## __Файл-хранилищe ключa__
 * Зашифрованная версия вашего закрытого ключа в формате JSON (хотя у него нет расширения JSON).
 * Продвинутая версия вашего закрытого ключа, защищенная выбранным вами паролем.
 * Это безопаснее, чем закрытый ключ, потому что вам нужен пароль.
@@ -72,19 +72,19 @@ alias:
 ## __Мнемоническая фраза (фраза для восстановления)__
 * Еще одна продвинутая версия вашего закрытого ключа, которая на самом деле используется для получения множества закрытых ключей.
 * Обычно это фраза из 12 или 24 слов, которая дает вам доступ к бесконечному количеству аккаунтов.
-* Sometimes includes an extra 13th or 25th word chosen by the user, for added security.
-* Used by Ledger, Trezor, MEWconnect, MetaMask, Jaxx, and others.
-* Originates from BIP 39 Spec.
-* The accounts you can access with this phrase are determined by the ["derivation path"](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2).
-* Example 12-words: `brain surround have swap horror body response double fire dumb bring hazard`
-* Example 24-words: `card enrich gesture connect kick topple fan body blind engine lemon swarm venue praise addict agent unaware equal bean sing govern income link leg`
+* Иногда включает дополнительное 13ое или 25ое слово, выбранное пользователем, для дополнительной безопасности.
+* Используется кошельками Ledger, Trezor, MEWconnect, MetaMask, Jaxx и другими.
+* Берет начало из спецификации BIP 39.
+* Аккаунты к которым вы можете получить доступ посредством мнемонической фразы определяются ["деривационным путем"](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2).
+* Пример из 12 слов: `brain surround have swap horror body response double fire dumb bring hazard`
+* Пример из 24 слов: `card enrich gesture connect kick topple fan body blind engine lemon swarm venue praise addict agent unaware equal bean sing govern income link leg`
 
 
 
 ## __Аппаратный кошелек (hardware wallet)__
-* Typically, a device that "holds" your private key(s), ensuring these keys are safe.
-* They generally use a 24-word phrase. Эту фразу вам нужно записать на бумагу (не на компьютер) и хранить отдельно от аппаратного кошелька в нескольких местах.
-* If you lose your hardware wallet, you can still gain access to your accounts & funds via the mnemonic phrase you wrote down.
+* Как правило, это специализированное устройство, которое "хранит" ваш закрытый ключ (ключи), обеспечивая их безопасность.
+* Они обычно используют фразу из 24 слов. Эту фразу вам нужно записать на бумагу (не на компьютер) и хранить отдельно от аппаратного кошелька в нескольких местах.
+* Если вы потеряете аппаратный кошелек, вы всё равно сможете получить доступ к своим аккаунтам и фондам через фразу, которую вы записали.
 * **Никогда не вводите фразу для восстановления на компьютере.** Это лишает смысла ваш аппаратный кошелек.
 * Более подробную информацию об аппаратных кошельках смотрите [здесь](/@@@@@@/hardware-wallets/using-ledger-with-mew/).
 
