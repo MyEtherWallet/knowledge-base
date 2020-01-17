@@ -38,9 +38,9 @@ Error: Invalid JSON RPC response: ERROR: The request could not be satisfied. The
 
 (<a href="https://ethereum.stackexchange.com/questions/24737/myetherwallet-json-rpc-interface-ratelimiting/25113#25113">Source</a>)
 
-MyEtherWallet, at the time of this writing, rate-limits at 400 requests per minute (or about 6 requests per second). This is in order to prevent DDOS's like we have seen before, or people using our nodes to excess and making us pay an even larger bill.
+MyEtherWallet, at the time of this writing, rate-limits at 400 requests per minute (or about 6 requests per second). This is in order to prevent DDOS's like we have seen before, or people using our nodes to excess.
 
-Our goal is to allow individuals to interact with Ethereum, not provide uber-robust infrastructure for all your heart's desires. This should be more than enough for a single person's use, but feel free to reach out to us about why you need more, and we can adjust.
+This should be more than enough for a single person's use, but feel free to reach out to us about why you need more, and we can adjust.
 
 If you are going to be using it more than 400 req per minute on average, or just want to ensure uptime, we strongly recommend you get your own node.
 
