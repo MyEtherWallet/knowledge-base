@@ -16,13 +16,13 @@ alias:
 ###### {% read_time title "Does MyEtherWallet have an API?" %} минут на чтение
 ***
 
-## __Here are the API docs for MEW, Etherscan, Infura, Alchemy, and Rivet (the five main providers of public nodes):__
+## __Вот API-документация для MEW, Etherscan, Infura, Alchemy, и Rivet (пяти основных поставщиков публичных узлов):__
 
 * MEW
 * [Infura](https://infura.io/#how-to)
 * [Etherscan](https://etherscan.io/apis)
-* \[Alchemy\]\[\]
-* \[Rivet\]\[\]
+* [Alchemy]
+* [Rivet]
 
 Наша внутренняя инфраструктура работает на AWS. На самом деле вы можете сделать это сами и управлять собственным публичным или закрытым узлом с помощью [этих инструкций](https://github.com/MyEtherWallet/docker-geth-lb).
 
