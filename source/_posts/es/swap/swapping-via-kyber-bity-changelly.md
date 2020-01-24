@@ -37,18 +37,3 @@ If you have issues with your swap, please reach out to the relevant exchange’s
 * Bity - Their help center is integrated into their site.
 * Kyber Network - support@kyber.network
 * Changelly - support@changelly.com
-
-In case you don’t see your tokens or coins available for swapping on MEW, we have made a short list of reputable exchanges we are familiar with. They all offer services to buy, sell, and swap various cryptocurrencies.
-
-* Bitfinex: [Website](https://www.bitfinex.com/) · [Support](https://www.bitfinex.com/support)
-* Bittrex: [Website](https://bittrex.com/Home/Markets) · [Support](https://bittrex.com/Home/Contact)
-* Bity: [Website](https://bity.com/af/jshkb37v)
-* Changelly: [Website](https://changelly.com/about)
-* Coinbase: [Support](https://support.coinbase.com/)
-* Gemini: [Support](https://gemini24.zendesk.com/hc/en-us/requests/new) · [FAQ](https://gemini24.zendesk.com/hc/en-us)
-* Kraken: [Support](https://support.kraken.com/hc/en-us)
-* Liqui: [Support](https://liqui.freshdesk.com/support/home)
-* Poloniex: [Support](https://poloniex.com/support/)
-* Shapeshift: [Slack](https://shapeshiftcommunity.herokuapp.com/) · [Reddit](https://www.reddit.com/r/shapeshiftio) · [Support](https://shapeshift.zendesk.com/hc/en-us/requests/new)
-
-Not all exchanges support all coins and fiat types, so take a look around to find one that fits your location and circumstances. Always google ‘scam + exchange name’ and read about people’s experiences before choosing to send to a random service or website.
