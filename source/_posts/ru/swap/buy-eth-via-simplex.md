@@ -22,13 +22,13 @@ primary_category_display_name: "Обмен"
 
 Наш партнер Simplex дает возможность пользователям MEW безопасно покупать ETH с помощью кредитной карты!
 
-All you have to do is click 'Buy ETH' at the top of our interface.
+Все, что вам нужно сделать, это нажать на кнопку "Купить ETH" в верхней части нашего интерфейса.
 
 
 
-## __A couple things to keep in mind during this process:__
+## __Несколько вещей, о которых следует помнить во время этого процесса:__
 
-* There is a `$50` minimum and a `$10k` maximum for first purchases.
-* Simplex has a daily limit of `$20k`, with a monthly limit of `$50k`.
+* Ограничение на первые покупки — минимум `50 долларов` и максимум `10 000 долларов`.
+* Ежедневный лимит Simplex составляет `20 000 долларов`, а месячный — `50 000 долларов `.
 
-If you are having issues with your purchase, Simplex can be reached at support@simplex.com.
+Если у вас возникли проблемы с покупкой, то вы можете связаться с Simplex по адресу support@simplex.com.
