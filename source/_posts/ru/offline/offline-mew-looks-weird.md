@@ -2,13 +2,13 @@
 title: "MEW выглядит странно при работе оффлайн"
 date: 2018-06-01 00:01:00
 tags:
-  - автономная работа
+  - работа оффлайн
   - mew
 categories:
   - 
-    - автономная работа
-primary_category: автономная работа
-primary_category_display_name: "Автономная работа"
+    - работа оффлайн
+primary_category: работа оффлайн
+primary_category_display_name: "Работа оффлайн"
 alias:
   - offline/local-offline-myetherwallet-does-not-work-properly.html
 ---
