@@ -54,7 +54,7 @@ Now that you have your MetaMask wallet, you can access your wallet by following 
 
 **Step 2.** On the MEW front page, select ‘Access My Wallet’.
 
-**Step 3.** Select the ‘MetaMask’ option to connect.
+**Step 3.** Select the ‘Browser Extension’ option to connect.
 
 **Step 4.** Read and accept the ‘Terms and Conditions’, then select ‘Access My Wallet’.
 
