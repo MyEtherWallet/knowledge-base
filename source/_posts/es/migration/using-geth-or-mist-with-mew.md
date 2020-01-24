@@ -25,14 +25,3 @@ Mist files are typically found in the file locations below, but it's much easier
 * Mac: `~/Library/Ethereum/keystore`
 * Linux: `~/.ethereum/keystore`
 * Windows: `%APPDATA%/Ethereum/keystore`
-
-
-## __Presale__
-
-Wherever you saved it.
-
-It also was emailed to you, so your email inbox and any older email addresses you may have had.
-
-Search for the file called `ethereum_wallet_backup.json`. This wallet file will be encrypted with a password that you created during the purchase of the pre-sale.
-
-Hopefully you find it and can access it.
