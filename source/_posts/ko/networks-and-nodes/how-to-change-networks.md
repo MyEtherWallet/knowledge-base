@@ -32,7 +32,7 @@ Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, 
 
 **Step 2.** On your wallet’s overview page, you will see a ‘Network’ section in the upper right hand corner. Click the 'Change' button.
 
-**Step 3.** Choose the network you would like to interact with from this list. Your address will not change, but your funds will depending on the network chosen.
+**Step 3.** Choose the network you would like to interact with from this list. Your address will not change, but your funds will change to reflect the selected network.
 * If you see multiple networks for your choice (i.e. ETC), there is no need to overthink it. Just choose whichever one you’d like, and change it to another if it seems slow or congested!
 
 
