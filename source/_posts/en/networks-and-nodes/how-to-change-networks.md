@@ -30,7 +30,7 @@ Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, 
 
 * We do not recommend using a Keystore File/Mnemonic Phrase/Private Key to access your funds. If you use one of these methods, we highly suggest [using MEW offline][offlineMEW], or [creating a new wallet with MEWconnect][createMEWconnect] and transferring your funds. 
 
-**Step 2.** On your wallet’s overview page, you will see a ‘Network’ section in the upper right hand corner. Click the icon that says ‘Open networks’ when hovered over.
+**Step 2.** On your wallet’s overview page, you will see a ‘Network’ section in the upper right hand corner. Click the 'Change' button.
 
 **Step 3.** Choose the network you would like to interact with from this list. Your address will not change, but your funds will depending on the network chosen. 
 * If you see multiple networks for your choice (i.e. ETC), there is no need to overthink it. Just choose whichever one you’d like, and change it to another if it seems slow or congested! 
