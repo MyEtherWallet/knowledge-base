@@ -22,20 +22,7 @@ primary_category_display_name: "Swap"
 
 Our partner Simplex allows MEW users to securely buy ETH with a credit card!
 
-
-
-## __Here’s how to find it:__
-
-**Step 1.** [Access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).
-
-**Step 2.** Navigate to the swap section of your wallet.
-* This area is located to the left of your open wallets overview page.
-* If your screen is small, it can be found by clicking the ‘Change’ button in the upper right corner.
-
-**Step 3.** Click the button in the corner that says ‘Buy ETH with MasterCard/Visa’.
-
-**Step 4.** Follow the prompts to fill in your information.
-* You will be redirected to Simplex.
+All you have to do is click 'Buy ETH' at the top of our interface.
 
 
 
