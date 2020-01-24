@@ -37,18 +37,3 @@ primary_category_display_name: "Обмен"
 * Bity — Их справочный центр интегрирован в их сайт.
 * Kyber Network — support@kyber.network
 * Changelly — support@changelly.com
-
-Если ваши токены или монеты не доступны для обмена на MEW, то мы составили короткий список заслуживающих доверия бирж, которые нам известны. Все они предлагают услуги по покупке, продаже и обмену различных криптовалют.
-
-* Bitfinex: [Веб-сайт](https://www.bitfinex.com/) · [Поддержка](https://www.bitfinex.com/support)
-* Bittrex: [Веб-сайт](https://bittrex.com/Home/Markets) · [Поддержка](https://bittrex.com/Home/Contact)
-* Bity: [Веб-сайт](https://bity.com/af/jshkb37v)
-* Changelly: [Веб-сайт](https://changelly.com/about)
-* Coinbase: [Поддержка](https://support.coinbase.com/)
-* Gemini: [Поддержка](https://gemini24.zendesk.com/hc/en-us/requests/new) · [Частые вопросы](https://gemini24.zendesk.com/hc/en-us)
-* Kraken: [Поддержка](https://support.kraken.com/hc/en-us)
-* Liqui: [Поддержка](https://liqui.freshdesk.com/support/home)
-* Poloniex: [Поддержка](https://poloniex.com/support/)
-* Shapeshift: [Slack](https://shapeshiftcommunity.herokuapp.com/) · [Reddit](https://www.reddit.com/r/shapeshiftio) · [Поддержка](https://shapeshift.zendesk.com/hc/en-us/requests/new)
-
-Не все биржи поддерживают все типы монет и фиатных валют, поэтому найдите ту, которая подходит вам с учетом вашего местоположения и обстоятельств. Всегда гуглите «мошенники + название биржи» и читайте отзывы людей, прежде чем отправлять свои средства на какой-либо сервис или веб-сайт.
