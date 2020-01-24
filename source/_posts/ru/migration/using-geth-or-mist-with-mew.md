@@ -15,7 +15,7 @@ alias:
 ---
 
 # __Использование Geth / Mist с MEW__
-###### Geth и Mist
+###### {% read_time title "Использование MetaMask с MEW" %} мин. на прочтение
 ***
 
 ## __Geth и Mist__
