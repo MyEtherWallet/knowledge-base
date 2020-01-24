@@ -58,7 +58,7 @@ If you are [using MyEtherWallet (MEW) offline and locally](/@@@@@@/offline/using
 
 **Step 2.** At the bottom, in the footer, choose again the ‘Send Offline Helper’ tool.
 
-**Step 3.** Paste in your signed transaction, or import the new JSON file you just received.
+**Step 3.** Paste in your signed transaction, or import the new JSON file you just received, then press 'Continue'.
 
 **Step 4.** Review the details of your transaction then press 'Send'. <br>
 
