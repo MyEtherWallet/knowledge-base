@@ -22,26 +22,13 @@ primary_category_display_name: "Обмен"
 
 Наш партнер Simplex дает возможность пользователям MEW безопасно покупать ETH с помощью кредитной карты!
 
-
-
-## __Вот как его найти:__
-
-**Шаг 1.** [Откройте ваш кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/).
-
-**Шаг 2.** Перейдите в раздела обмена в вашем кошельке.
-* Эта область находится слева от вашей страницы обзора открытых кошельков.
-* Если у вас маленький экран, то ее можно найти, нажав на кнопку «Изменить» в правом верхнем углу.
-
-**Шаг 3.** Нажмите на кнопку в углу с надписью "Купить ETH с MasterCard/Visa".
-
-**Шаг 4.** Следуйте инструкциям, чтобы заполнить ваши данные.
-* Вы будете перенаправлены в Simplex.
+All you have to do is click 'Buy ETH' at the top of our interface.
 
 
 
-## __Несколько вещей, о которых следует помнить во время этого процесса:__
+## __A couple things to keep in mind during this process:__
 
-* Ограничение на первые покупки — минимум `50 долларов` и максимум `10 000 долларов`.
-* Ежедневный лимит Simplex составляет `20 000 долларов`, а месячный — `50 000 долларов `.
+* There is a `$50` minimum and a `$10k` maximum for first purchases.
+* Simplex has a daily limit of `$20k`, with a monthly limit of `$50k`.
 
-Если у вас возникли проблемы с покупкой, то вы можете связаться с Simplex по адресу support@simplex.com.
+If you are having issues with your purchase, Simplex can be reached at support@simplex.com.
