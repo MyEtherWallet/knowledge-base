@@ -59,7 +59,7 @@ There are two ways to use MEW offline, through the use of PWA or by downloading 
 
 **Step 8.** Back to your **online** computer, head to the Offline Helper tool again and enter the Signed Transaction section. 
 
-* Upload the JSON file here, or paste the Signed Transaction. Details should generate in the next section.
+* Upload the JSON file here, or paste the Signed Transaction, then press 'Continue'. Details should generate in the next section.
 
 <img src="/images/posts/offline/offline8pwa.png" width="80%">
 
