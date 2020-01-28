@@ -32,10 +32,9 @@ alias:
 * Enter the address you want to send to in the `_To` field.
 * Enter the amount you want to send in the `_Value` field.
 * In the `Data` field, type `0x`. This sets it to empty.
-* We suggest sending a small amount first, to test the waters.
-* Unlock the owner’s address, and click `Write`.
 * Leave the `Value in ETH` as `0`.
-* Click 'Generate Transaction', confirm the transaction, and send.
+* Click `Write`.
+* Click `Generate Transaction`, confirm the transaction, and send.
 
 **Step 5.** Click the Transaction ID that outputs with the ‘Success’ message. Copy this ID.
 
