@@ -25,7 +25,7 @@ If you plan to move large amounts of ETH or ERC20 tokens, we suggest sending a s
 
 **Step 1.** [Access your wallet][accessMEW]. 
 
-**Step 2.** Your wallet should automatically be opened on the ‘Send Transaction’ screen. If it’s not, you can find this area to the left of your wallet overview page.
+**Step 2.** Select the button that says 'Send Transaction', or find this section in the 'Send' category from the left menu.
 
 **Step 3.** Fill in the type of currency you’d like to send, the amount, and the address you’d like to send to. 
 * Make sure to double and triple check the address you’re sending to! We cannot recover funds sent to the wrong address.

@@ -32,9 +32,6 @@ The lack of any red symbols or errors means that your transaction was successful
 
 If you see an error on your transaction, this means it was not successful, and your funds never left their original wallet. You will need to try sending the transaction again, making a few changes to help it broadcast successfully. Depending on the error shown, it’s usually an easy fix. 
 
-For a list of standard errors and their corrections, check out our category on [common issues][commonissues]. 
-
 [etherscan]: https://etherscan.io
 [example1]: https://etherscan.io/tx/0xcde5a30a1a1514919e9c357d4e89211701aa22a741936ad9516c2987d8b097c9
 [example2]: https://etherscan.io/tx/0xf9c8514fad47eb54a414930563aabfeceb465c9f308f5f294a37edd0d669243c
-[commonissues]: /@@@@@@/common-issues/insufficient-funds/
