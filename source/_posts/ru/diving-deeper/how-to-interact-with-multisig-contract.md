@@ -32,10 +32,9 @@ alias:
 * Введите адрес, на который хотите отправить средства, в поле `_To`.
 * Введите сумму, которую хотите отправить, в поле `_Value`.
 * В поле `Data` введите `0x`. Это задает пустое значение.
-* Мы предлагаем в качестве проверки сначала отправить маленькую сумму.
-* Unlock the owner’s address, and click `Write`.
 * Leave the `Value in ETH` as `0`.
-* Click 'Generate Transaction', confirm the transaction, and send.
+* Click `Write`.
+* Click `Generate Transaction`, confirm the transaction, and send.
 
 **Шаг 5.** Нажмите на ID транзакции с сообщением "Успех". Копируйте этот идентификатор.
 
