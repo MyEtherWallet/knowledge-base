@@ -13,7 +13,7 @@ categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Безопасность и конфиденциальность"
+primary_category_display_name: "Безопасность и Приватность"
 alias:
   - addresses/creating-new-accounts-for-eth-and-tokens.html
 ---
