@@ -14,7 +14,7 @@ alias:
 - private-keys-passwords/lost-eth-private-key.html
 ---
 
-# __Lost Private Key__
+# __Lost Private Keys__
 ###### {% read_time title "Lost Private Key" %} min read
 ***
  
