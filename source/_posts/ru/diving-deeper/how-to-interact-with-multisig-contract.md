@@ -39,13 +39,13 @@ alias:
 **Шаг 5.** Нажмите на ID транзакции с сообщением "Успех". Копируйте этот идентификатор.
 
 **Шаг 6.** Если это контракт с мультиподписью и двумя владельцами, вам необходимо будет обновить эту страницу и выбрать"Подтвердить".
-* In Step 5, you opened the Transaction ID from the ‘Execute’ call. You should have a page like [this](https://etherscan.io/tx/0x0c643a1ae66637217f24791df05071c7849941a1231cf9fa2a0daf145da833e3) open.
-* Click the ‘Event Logs’ tab.
-* For reference, at [this](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog) link (note this is not YOUR link, it’s an example), the `_h` value would be `9228aeaf3ed560274899483646ea4ce9b322bccffac60cac2d035d08752617f4`.
-* Check the link above where it says that string, and then compare it to find what YOUR `_h` value is. It will be different than what we provided as an example.
-* Go back to MEW, where you have the ‘Confirm’ page open, and paste your string into the `_h` field.
-* Click ‘Write’ again and unlock the second owner’s account.
-* Generate and send the transaction.
+* В шаге 5 вы открыли идентификатор транзакции из вызова 'Execute' ("Выполнить"). У вас должна открыться страница, подобная [этой](https://etherscan.io/tx/0x0c643a1ae66637217f24791df05071c7849941a1231cf9fa2a0daf145da833e3).
+* Нажмите на вкладку 'Event Logs' ("Журналы событий").
+* Для справки по [этой](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog) ссылке (учтите, что это НЕ ВАША ссылка, а пример) значение `_h` было бы `9228aeaf3ed560274899483646ea4ce9b322bccffac60cac2d035d08752617f4`.
+* Пройдите по ссылке над тем местом где показана эта строка, а затем сравните, чтобы найти, каково ВАШЕ значение `_h`. Оно будет отличаться от того, которое мы предложили в качестве примера.
+* Вернитесь в MEW, где у вас открыта страница "Подтвердить", и вставьте вашу строку в поле `_h`.
+* Click ‘Write’ again.
+* Confirm and send the transaction.
 
 **Шаг 7.** Тщательно проверьте данные, чтобы подтвердить, что все прошло так, как было задумано.
 
