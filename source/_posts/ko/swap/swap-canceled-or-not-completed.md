@@ -27,19 +27,3 @@ If you sent coins or tokens to the specified swap address, but have not received
 * Kyber Network - support@kyber.network
 
 * Changelly - support@changelly.com
-
-We recommend going back to our swap section and clicking the ‘Issue with your Swap? Contact support.’ link at the bottom of the page.
-
-This will autofill all the information we need to resolve your claim, including:
-
-* REF ID#:
-
-* Amount to send:
-
-* Amount to receive:
-
-* Payment Address:
-
-* Receiving Address:
-
-If you do not include this information, we can still help. But having that from the beginning really helps to speed up the process. 
