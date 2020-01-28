@@ -28,12 +28,12 @@ alias:
 * You may need to enter your contract address in the ‘Contract Address’ field at the top. 
 
 **Step 4.** Select ‘Execute’ from the dropdown menu. 
-* Enter the address you want to send to in the '_To' field.
-* Enter the amount you want to send in the '_Value' field. 
-* In the 'Data' field, type '0x`. This sets it to empty. 
-* Leave the 'Value in ETH' as '0'.
-* Click 'Write'.
-* Click 'Generate Transaction', confirm the transaction, and send. 
+* Enter the address you want to send to in the `_To` field.
+* Enter the amount you want to send in the `_Value` field. 
+* In the `Data` field, type `0x`. This sets it to empty. 
+* Leave the `Value in ETH` as `0`.
+* Click `Write`.
+* Click `Generate Transaction`, confirm the transaction, and send. 
 
 **Step 5.** Click the Transaction ID that outputs with the ‘Success’ message. Copy this ID.
 
