@@ -43,6 +43,6 @@ alias:
 #### __Если у вас есть другие вопросы, пожалуйста, сообщите нам об этом по адресу support@myetherwallet.com.__
 ***
 
-## __Для тех, кто учится визуально__
+## __Визуальное представление процесса__
 
 <img src="/images/posts/transactions/tx_pool_infographic.png" width="80%" />
