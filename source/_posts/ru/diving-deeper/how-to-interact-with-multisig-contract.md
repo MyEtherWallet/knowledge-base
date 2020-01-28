@@ -23,16 +23,16 @@ alias:
 
 **Шаг 1.** Войдите в кошелек и направляйтесь в раздел "Контракт" в левой части интерфейса вашего кошелька.
 
-**Step 2.** Locate your preferred Multisig Contract ABI in the dropdown, or manually enter the contract's ABI.
+**Шаг 2.** Найдите предпочитаемый вами контракт с мультиподписью в раскрывающемся списке или вручную введите ABI контракта.
 
-**Step 3.** Check the contract address to make sure it's the one you're looking for, then press 'Continue'.
-* You may need to enter your contract address in the ‘Contract Address’ field at the top.
+**Шаг 3.** Проверьте адрес контракта, чтобы убедиться, что это тот, который вы ищете, а затем нажмите 'Продолжить'.
+* Возможно вам надо будет ввести свой адрес контракта в поле «Адрес контракта» вверху.
 
 **Шаг 4.** Выберите "Выполнить" в выпадающем меню.
-* Enter the address you want to send to in the `_To` field.
-* Enter the amount you want to send in the `_Value` field.
-* In the `Data` field, type `0x`. This sets it to empty.
-* We suggest sending a small amount first, to test the waters.
+* Введите адрес, на который хотите отправить средства, в поле `_To`.
+* Введите сумму, которую хотите отправить, в поле `_Value`.
+* В поле `Data` введите `0x`. Это задает пустое значение.
+* Мы предлагаем в качестве проверки сначала отправить маленькую сумму.
 * Unlock the owner’s address, and click `Write`.
 * Leave the `Value in ETH` as `0`.
 * Click 'Generate Transaction', confirm the transaction, and send.
