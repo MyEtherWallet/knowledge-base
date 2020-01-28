@@ -33,7 +33,7 @@ alias:
 * In the `Data` field, type `0x`. This sets it to empty. 
 * Leave the `Value in ETH` as `0`.
 * Click `Write`.
-* Click `Generate Transaction`, confirm the transaction, and send. 
+* Confirm the transaction and send. 
 
 **Step 5.** Click the Transaction ID that outputs with the ‘Success’ message. Copy this ID.
 
