@@ -85,7 +85,7 @@ If you are not in a hurry, you just need to set a number high enough so that som
 ## __Why should I set a low gas price?__
 Because it's cheaper, and because with the increasing price of ETH (compared to USD), a transaction that used to cost half a cent, may now cost a few cents.
 
-More expensive transactions, like bidding on an ENS name, can now cost a dollar or more! As a user, you should try sending non-urgent transactions with a lower gas price as the more transactions that occur at the lower gas price, the more likely miners will lower their minimums.
+More expensive transactions, like interacting with certain Dapps, can now cost a dollar or more! As a user, you should try sending non-urgent transactions with a lower gas price as the more transactions that occur at the lower gas price, the more likely miners will lower their minimums.
 
 
 ## __Where can I see what miners are accepting?__
