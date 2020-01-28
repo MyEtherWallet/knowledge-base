@@ -54,13 +54,13 @@ alias:
 
 **Шаг 3.** Появится информация в зависимости от статуса транзакции. Это может быть…
 
-* **Успех:** Ваша транзакция успешно замайнена и находится на блокчейне.
+* **Success (Успех):** Ваша транзакция успешно замайнена и находится на блокчейне.
     * Если вы не видите ошибок, то ваша транзакция была успешно отправлена. Ваш ETH или токены находятся там, куда вы их отправили. Если этот баланс не был зачислен на другой кошелек или же аккаунт биржи спустя 24 часа после отправки, пожалуйста, свяжитесь с тем сервисом. Отправьте им ссылку на свою транзакцию и вежливо попросите их решить эту проблему.
-* **Failed:**
-    * Если вы видите красный символ ( ! ) или же сообщение об ошибке BAD INSTRUCTION или OUT OF GAS, то это означает, что транзакция не была успешно отправлена. You cannot cancel or replace this transaction. Instead, send a new transaction. If you received an "Out of Gas" error, you should double the gas limit you specified originally.
-    * If you see 'Reverted', it's a good idea to double-check the actions you're taking. This is an error having to do with a smart contract user-error.
-* **Transaction Not Found:** This transaction cannot be found. It's possible that it did not go through, or that it cannot be found in the Ethereum blockchain explorer you are using. Try using the other one (Etherscan.io or Ethplorer.io). If you still can't find it, it never went through.
-* **Pending:** Your transaction was located in the transaction pool of the explorer you are using. It is currently pending (waiting to be mined). There is a chance you can cancel or replace this transaction, but it's a very small chance.
+* **Failed (Сбой):**
+    * Если вы видите красный символ ( ! ) или же сообщение об ошибке BAD INSTRUCTION или OUT OF GAS, то это означает, что транзакция не была успешно отправлена. Вы не можете отменить или заменить эту транзакцию. Вместо этого отправьте новую транзакцию. Если вы получили ошибку Out of Gas, вам нужно удвоить лимит газа, который вы указали изначально.
+    * Если вы видите 'Reverted' ("Возвращено"), то лучше перепроверить принятые вами действия. Эта ошибка связана с ошибкой смарт-контракта.
+* **Transaction not found (Транзакция не найдена):** Не удалось найти эту транзакцию. Возможно, она не была отправлена или же ее нельзя найти в проводнике блокчейна Ethereum, который вы используете. Попробуйте использовать другой сервис (Etherscan.io или Ethplorer.io). Если вы все еще не можете ее найти, то это значит, что она не прошла.
+* **Pending (В ожидании):** Ваша транзакция обнаружена в пуле транзакций используемого обозревателя. В настоящее время она находится в ожидании (ожидает, пока ее добудут майнеры). Есть шанс, что вы можете отменить или заменить эту транзакцию, но он очень мал.
 
 
 ## __«Замена» и «Отмена» транзакций__
