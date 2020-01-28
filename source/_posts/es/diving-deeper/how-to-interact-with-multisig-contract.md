@@ -44,8 +44,8 @@ alias:
 * For reference, at [this](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog) link (note this is not YOUR link, it’s an example), the `_h` value would be `9228aeaf3ed560274899483646ea4ce9b322bccffac60cac2d035d08752617f4`.
 * Check the link above where it says that string, and then compare it to find what YOUR `_h` value is. It will be different than what we provided as an example.
 * Go back to MEW, where you have the ‘Confirm’ page open, and paste your string into the `_h` field.
-* Click ‘Write’ again and unlock the second owner’s account.
-* Generate and send the transaction.
+* Click ‘Write’ again.
+* Confirm and send the transaction.
 
 **Step 7.** Double-check to confirm everything went as intended.
 
