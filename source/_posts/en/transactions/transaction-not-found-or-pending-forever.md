@@ -34,9 +34,9 @@ There is simply not enough space in the blocks for the miners to mine all the tr
 
 
 ## __Other Tips__
-* Try switching the network in the top-right to use a different node. There are multiple nodes that allow you to interact with ETH. We default to 'MyEtherWallet.com', but also offer Etherscan.io, Infura.io, and Giveth.io. If one is not working, try another one.
+* Try switching the network in the top-right to use a different node. There are multiple nodes that allow you to interact with ETH. We default to 'MyEtherWallet.com'. If one is not working, try another one.
 * If you sent **FROM** an exchange, your best bet is to just be patient. Their support teams are generally flooded with requests (as are ours!), so patience is the best option.
-* There are additional issues created by this increased traffic that can result in unclear error messages on MyEtherWallet. We're sorry for this, and we're working on improving those messages. If you get an error, try pressing the generate button again, or changing the network via the dropdown in the top-right. However, be careful that you don't actually send the same transaction twice. If it says "transaction hash already imported" or "same nonce", you MAY have already sent that transaction, and it's waiting to be mined. If both transactions get mined, you will send twice as much as you mean to.
+* There are additional issues created by this increased traffic that can result in unclear error messages on MyEtherWallet. We're sorry for this, and we're working on improving those messages. If you get an error, try pressing the generate button again, or changing the network via the dropdown in the top-right. However, be careful that you don't actually send the same transaction twice. 
 
 
 
