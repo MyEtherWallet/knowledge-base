@@ -30,7 +30,7 @@ During times of normal volume, transactions are mined within seconds and do not 
 
 ## __However...__
 
-During times of extremely high volume (like we've seen during the Bancor and Status Token Contribution periods), transactions could be pending for hours, if not days, before being mined.
+During times of extremely high volume, transactions could be pending for hours, if not days, before being mined.
 
 During these times it is theoretically possible to replace an existing transaction with a new transaction with a higher gas price.
 
@@ -118,4 +118,3 @@ Replacing a transaction means generating a `XX ETH` transaction to someone else'
 
 * MEW does not receive any transaction fees. They are paid to the miners for including your transaction in a block. We are a free, open-source service.
 * The transaction pool varies from node to node. This means that a transaction may be pending in ETH (Infura.io)'s transaction pool, but not ETH (MyEtherWallet.com)'s transaction pool. For this reason, you should try all the ETH nodes we offer.
-* If possible, use the same computer / browser that you used to send the original transaction. We are working on further mitigating internal differences between our 10 nodes and their 10 transaction pools. For now, using the same computer / browser will increase the likelihood that you connect to the same transaction pool as before, if you are using the ETH (MyEtherWallet.com) node.
