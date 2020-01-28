@@ -9,7 +9,7 @@ categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Безопасность и конфиденциальность"
+primary_category_display_name: "Безопасность и Приватность"
 ---
 
 # __Мнемоническая фраза: Стоит ли мне включить дополнительное слово?__
