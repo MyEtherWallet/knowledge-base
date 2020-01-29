@@ -1,5 +1,5 @@
 ---
-title: "Подсказки: как избежать фишинга / мошенничества"
+title: "Советы: как избежать фишинга / мошенничества"
 date: 2018-06-01 00:03:00
 tags:
   - ЧЗВ
@@ -20,13 +20,13 @@ alias:
   - security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
 ---
 
-# __Подсказки: как избежать фишинга / мошенничества__
-#### __Мы составили список подсказок и приемов, которые помогут избежать распространенных способов фишинга и мошенничества.__
+# __Советы: как избежать фишинга / мошенничества__
+#### __Мы составили список советов и приемов, которые помогут избежать распространенных способов фишинга и мошенничества.__
 ###### Время прочтения: {% read_time title "Подсказки: как избежать фишинга / мошенничества" %} мин.
 ***
 
 **1. Обезопасьте свой способ доступа.**
-* Безопасный доступ — это лучшая защита от фишинга, будь то [покупка аппаратного кошелька](https://www.myetherwallet.com/hardware-wallet-affiliates), загрузка [MEWconnect](/@@@@@@/mewconnect/mewconnect-user-guide/) или же [использование MEW в офлайн-режиме](/@@@@@@/offline/offline-mew-looks-weird/).
+* Безопасный доступ — это лучшая защита от фишинга. [Купите аппаратный кошелек](https://www.myetherwallet.com/hardware-wallet-affiliates), загрузите [MEWconnect](/@@@@@@/mewconnect/mewconnect-user-guide/) или же [используйте MEW в оффлайн-режиме](/@@@@@@/offline/offline-mew-looks-weird/).
 
 **2. Установите [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc) или [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige).**
 * Эти расширения для Chrome предупреждают вас при посещении вредоносных сайтов.
