@@ -70,7 +70,9 @@ alias:
 
 **9. Всегда проверяйте все дважды и даже трижды!**
 * Убедитесь, что каждый адрес на 100% правильный, так как даже один неправильный символ означает, что средства отправятся на совершенно другой кошелек.
-* **Мы не можем отменять транзакции и производить возврат средств**, поэтому это очень важно!
+* While you're at it, register an ENS domain name so your friends can send to "MyName.eth" instead of "0xab3c4edf...".
+    * [Read more about registering a human-readable ENS domain.](/@@@@@@/dapps/register-ens-domain)
+* **We cannot reverse or refund transactions**, so this is very important!
 
 
 **10. И, наконец, не стесняйтесь просить о помощи!**
