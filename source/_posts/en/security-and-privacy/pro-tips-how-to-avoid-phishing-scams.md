@@ -69,6 +69,8 @@ alias:
 
 **9. Double and triple-check everything!** 
 * Make sure every address is 100% correct, as even one wrong character will lead to a completely different wallet. 
+* While you're at it, register an ENS domain name so your friends can send to "MyName.eth" instead of "0xab3c4edf...".
+    * [Read more about registering a human-readable ENS domain.][ens]
 * **We cannot reverse or refund transactions**, so this is very important!
 
 
@@ -84,3 +86,4 @@ alias:
 [phrase]: /@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/
 [keystore]: /@@@@@@/security-and-privacy/what-is-a-keystore-file/
 [MEWoffline]: /@@@@@@/offline/offline-mew-looks-weird/
+[ens]: /@@@@@@/dapps/register-ens-domain
