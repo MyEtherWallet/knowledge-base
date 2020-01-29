@@ -78,7 +78,7 @@ primary_category_display_name: "Dapps"
 <img src="/images/posts/diving-deeper/MKR9.png" width="100%" />
 
 **Шаг 3.** Вам нужно будет вернуть DAI для вывода ETH. В разделе 'Позиция DAI' выберите 'Вернуть >'.
-* You will have to ‘Approve’ the DAI amount in order to pay it back.
+* Вам нужно будет утвердить сумму DAI, чтобы закрыть Vault.
 * This will count as separate transactions.
 * Please wait for each transaction to post as 'Success' before continuing.
 
