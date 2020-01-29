@@ -54,12 +54,12 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/MKR2.png" width="100%" />
 
-**Step 2.** Choose 'Set' to set allowance for Maker to interact with your DAI.
-* You will need to 'Deploy Proxy' if it's your first time. Select 'Setup' in the top area of this section.
+**Шаг 2.** Выберите 'Установить', чтобы установить разрешение Maker для взаимодействия с вашим DAI.
+* Если вы взаимодействуете с Maker в первый раз, вам надо будет применить прокси. Выберете "Установка" в верхней части этого раздела.
 
 <img src="/images/posts/diving-deeper/MKR6.png" width="80%" />
 
-**Step 3.** Choose how much DAI you'd like to deposit. Interest rates are accrued annually.
+**Шаг 3.** Выберите, сколько DAI вы хотели бы внести в депозит. Процентные ставки начисляются ежегодно.
 
 <img src="/images/posts/diving-deeper/MKR7.png" width="80%" />
 
