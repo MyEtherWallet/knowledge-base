@@ -63,21 +63,21 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/MKR7.png" width="80%" />
 
-**Step 4.** To withdraw, you can follow the same procedure, but select 'Withdraw'.
+**Шаг 4.** Для снятия выполните ту же процедуру, но выберите «Вывести».
 
 <img src="/images/posts/diving-deeper/MKR8.png" width="80%" />
 
-## __Closing Your Vault__
+## __Закрытие Vault__
 
-**Step 1.** When you’re ready, head back to the Dapps section and select ‘MakerDAO’.
+**Шаг 1.** Когда вы будете готовы, вернитесь в раздел Dapps и выберите MakerDAO.
 
 <img src="/images/posts/diving-deeper/MKR1.png" width="100%" />
 
-**Step 2.** Click ‘Manage Your Vault’ to see your holdings.
+**Шаг 2.** Нажмите «Управление Vault», чтобы увидеть ваши средства.
 
 <img src="/images/posts/diving-deeper/MKR9.png" width="100%" />
 
-**Step 3.** You will need to pay your DAI back in order to withdraw your ETH. Under 'DAI Position', select 'Pay back >'.
+**Шаг 3.** Вам нужно будет вернуть DAI для вывода ETH. В разделе 'Позиция DAI' выберите 'Вернуть >'.
 * You will have to ‘Approve’ the DAI amount in order to pay it back.
 * This will count as separate transactions.
 * Please wait for each transaction to post as 'Success' before continuing.
