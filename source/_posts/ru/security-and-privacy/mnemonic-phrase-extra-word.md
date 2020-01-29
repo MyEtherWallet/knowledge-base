@@ -21,20 +21,20 @@ primary_category_display_name: "Безопасность и Приватност
 
 Когда вы создаете новый кошелек через опцию ‘Мнемоническая фраза’ в MEW, вам будет предоставлен выбор, включать или не включать дополнительное слово. Это дополнительное слово, которое вы сами выбираете добавить в конце фразы. Например, если вы создаете мнемоническую фразу из 24 слов, он будет выступать в качестве **обязательного** 25-го слова каждый раз, когда вы захотите использовать эту фразу.
 
-Occasionaly, this extra word is also referred to as a 'password', but this is misleading. It's actually a 13th / 25th word to your phrase.
+Иногда это дополнительное слово также называется "пароль", но это вводит в заблуждение. На самом деле, это 13-ое / 25-ое слово к вашей фразе.
 
-**The upside to this is extra security.** If someone got a hold of your 24 word mnemonic phrase, they would still need your extra word to act as a 25th word in order to access your funds. This greatly increases the security of your phrase.
+**Преимущество этого — дополнительная безопасность.** Если кто-то узнает вашу мнемоническую фразу из 24 слов, то для доступа к вашим средствам ему все равно понадобится ваше дополнительное слово, которое будет действовать как 25-е слово фразы. Это значительно повышает безопасность вашей фразы.
 
-**The downside to this is integration with other platforms.** Almost every other Ethereum wallet interface requires your mnemonic phrase to be in a 12 or 24-word format and does not offer the extra word option. Therefore, restoring this phrase through other Ethereum wallets can prove difficult. This extra word becomes necessary to see your wallet, so you will not be able to regain access through non-supporting wallets.
+**Недостатком является интеграция с другими платформами.** Почти все остальные интерфейсы кошельков Ethereum требуют, чтобы ваша мнемоническая фраза состояла из 24 слов, и не предлагают опцию дополнительного слова. Поэтому восстановление этой фразы с помощью других кошельков Ethereum может оказаться сложным. Это слово необходимо для просмотра вашего кошелька, поэтому вы не сможете восстановить доступ через кошельки, которые его не поддерживают.
 
-In the end, the choice is yours.
+В любом случае, выбор за вами.
 
 
 ## __Доступ к кошельку или его восстановление__
-#### __Мы не рекомендуем обращаться к своему кошельку или восстанавливать его с помощью мнемонической фразы непосредственно на нашем веб-сайте, если только вы не [используете офлайн-версию MEW](/@@@@@@/offline/using-mew-offline).__
+#### __Мы не рекомендуем открывать свой кошелек или восстанавливать его с помощью мнемонической фразы непосредственно на нашем веб-сайте, если только вы не [используете MEW оффлайн](/@@@@@@/offline/using-mew-offline).__
 
-When accessing or restoring your wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include an extra word. Most of the time, the answer is no.
+Когда вы получаете доступ к своему кошельку или восстанавливаете его с помощью опции «Мнемоническая фраза» на MEW, вы можете выбрать, включать дополнительное слово или нет. В большинстве случаев ответ будет «нет».
 
-Most apps or extensions that use Mnemonic phrases, such as MEWconnect, MetaMask, and hardware wallets, do not include an extra word in their mnemonic phrase. They ask you to input a password for app access, but this is different than requiring an extra word for recovery purposes.
+Большинство приложений или расширений, в которых используются мнемонические фразы, например, MEWconnect, MetaMask и аппаратные кошельки, не включают дополнительное слово в свою мнемоническую фразу. Они просят вас ввести пароль для доступа к приложению, но это отличается от дополнительного слова для восстановления.
 
-If you made your wallet directly on MyEtherWallet.com, you may need to use the extra word you chose during creation to restore your wallet. However, most wallets made through other platforms will **not** require the extra word. Simply toggle this option to the ‘off’ position and proceed with your recovery process.
+Если вы создали свой кошелек непосредственно на MyEtherWallet.com, то для восстановления кошелька вам, возможно, нужно будет использовать дополнительное слово, которое вы выбрали при его создании. Однако, большинство кошельков, сделанных на других платформах, **не** требуют дополнительного слова. Просто выключите эту опцию и продолжите процесс восстановления.
