@@ -78,15 +78,14 @@ primary_category_display_name: "Dapps"
 <img src="/images/posts/diving-deeper/MKR9.png" width="100%" />
 
 **Step 3.** You will need to pay your DAI back in order to withdraw your ETH. Under 'DAI Position', select 'Pay back >'.
-* You will have to ‘Approve’ the DAI amount in order to pay it back.
-* This will count as separate transactions.
-* Please wait for each transaction to post as 'Success' before continuing.
+* You will have to ‘Approve’ the DAI amount in order to pay it back, which will count as a separate transaction.
+* Please wait for both transactions to post as 'Success' before continuing.
 
 <img src="/images/posts/diving-deeper/MKR10.png" width="80%" />
 
 <img src="/images/posts/diving-deeper/MKR11.png" width="100%" />
 
-**Step 4.** Once approved, you can withdraw your ETH. Under 'ETH Collateral', select 'Withdraw >'.
+**Step 4.** Once approved and paid back, you can withdraw your ETH. Under 'ETH Collateral', select 'Withdraw >'.
 
 <img src="/images/posts/diving-deeper/MKR12.png" width="80%" />
 
