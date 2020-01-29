@@ -78,22 +78,22 @@ primary_category_display_name: "Dapps"
 <img src="/images/posts/diving-deeper/MKR9.png" width="100%" />
 
 **Шаг 3.** Вам нужно будет вернуть DAI для вывода ETH. В разделе 'Позиция DAI' выберите 'Вернуть >'.
-* You will have to ‘Approve’ the DAI amount in order to pay it back, which will count as a separate transaction.
-* Please wait for both transactions to post as 'Success' before continuing.
+* Вам потребуется "Утвердить" количество DAI прежде чем вернуть его. Это будет считаться отдельной транзакцией.
+* Пожалуйста, дождитесь чтобы обе транзакции имели статус "Успех", прежде чем продолжить.
 
 <img src="/images/posts/diving-deeper/MKR10.png" width="80%" />
 
 <img src="/images/posts/diving-deeper/MKR11.png" width="100%" />
 
-**Step 4.** Once approved and paid back, you can withdraw your ETH. Under 'ETH Collateral', select 'Withdraw >'.
+**Шаг 4.** После утверждения и оплаты DAI, вы можете снять ETH. Под «Залог ETH» выберите «Вывести >».
 
 <img src="/images/posts/diving-deeper/MKR12.png" width="80%" />
 
 <img src="/images/posts/diving-deeper/MKR13.png" width="100%" />
 
-**Step 5.** Your vault doesn't actually *close*, but remains empty and ready should you ever need to use it again.
+**Шаг 5.** На самом деле ваш Vault не *закрывается*, а остается пустым и готовым, если вам когда-нибудь нужно использовать его снова.
 
-## __Here's a video showing the process:__
+## __Вот видео, показывающее процесс:__
 
 <div class="youtube-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xNK_px6vPEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
