@@ -23,9 +23,11 @@ There are two ways to use MEW offline, through the use of PWA or by downloading 
 
 ## __Using MEW Offline as a Progressive Web App (PWA)__
 
-**Step 1.** In order to use MEW as a PWA, you'll first need to head to our website on Google Chrome and install MEW, as shown below. 
+**Step 1.** In order to use MEW as a PWA, you'll first need to head to our website on Google Chrome and install MEW. 
 
 <img src="/images/posts/offline/offline1pwa.png" width="80%">
+
+<img src="/images/posts/offline/MEWofflinePWApart1.gif" width="100%">
 
 **Step 2.** On your **online** computer, scroll down to the footer to find our Offline Helper tool.
 
