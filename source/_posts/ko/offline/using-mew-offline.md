@@ -27,8 +27,6 @@ There are two ways to use MEW offline, through the use of PWA or by downloading 
 
 <img src="/images/posts/offline/offline1pwa.png" width="80%" />
 
-<img src="/images/posts/offline/MEWofflinePWApart1.gif" width="100%" />
-
 **Step 2.** On your **online** computer, scroll down to the footer to find our Offline Helper tool.
 
 <img src="/images/posts/offline/offline2pwa.png" width="80%" />
