@@ -21,7 +21,7 @@ primary_category_display_name: "Security And Privacy"
 
 When you’re creating a new wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include an extra word. This is an extra word of your own choosing tacked onto the end of your phrase. For example, if you’re making a 24 word mnemonic phrase, this will act as a **mandatory** 25th word every time you want to use this phrase.
 
-Occasionaly, this extra word is also referred to as a 'password', but this is misleading. It's actually a 13th / 25th word to your phrase.
+Occasionally, this extra word is also referred to as a 'password', but this is misleading. It's actually a 13th / 25th word to your phrase.
 
 **The upside to this is extra security.** If someone got a hold of your 24 word mnemonic phrase, they would still need your extra word to act as a 25th word in order to access your funds. This greatly increases the security of your phrase. 
 
