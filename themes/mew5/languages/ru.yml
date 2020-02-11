@@ -1,6 +1,6 @@
 ---
-Home: Домашняя страница
-Support: Support
+Home: Главная
+Support: Поддержка
 categories: Категории
 search: Поиск
 tags: Метки
@@ -23,14 +23,14 @@ tag: Тег
 help_center: Центр поддержки
 previous: Предыдущий
 none: Нет
-faqs: Часто задаваемые вопросы
+faqs: FAQ
 videos: Видео
 share_to: Поделиться
 tag_line: Потерялись? Позвольте нам помочь.
 home: Домашняя страница
 privacy: Конфиденциальность
 terms: Условия
-copyright: '© 2020 MyEtherWallet Inc. All rights reserved.'
+copyright: '© 2020 MyEtherWallet. Все права защищены.'
 index:
   intro: Введение
   get_started: С чего начать
