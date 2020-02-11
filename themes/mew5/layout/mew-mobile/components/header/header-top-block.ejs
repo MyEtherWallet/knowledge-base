@@ -1,5 +1,5 @@
 <div class="header-top-block">
-<!--  <div class="upper-menu">
+  <div class="upper-menu">
     <label id="lang-select-label" for="lang-select" class="lang-nav-link lang-choices lang-flag"><%- image_tag('images/flags/' + page.lang + '.svg', {width: 20, height: 10}) %></label>
     <select id="lang-select" class="hidden lang-choices" data-canonical="<%= canonical_path_for_nav() %>">
       <option value="en">Select Language</option>
@@ -7,7 +7,7 @@
         <option value="<%= lang %>"<% if (page.lang === lang){ %> selected<% } %>><%= lang_name(lang) %></option>
       <% } %>
     </select>
-  </div>-->
+  </div>
   <div class="left">
     <a href="<%- url_for_lang('') %>"><%- image_tag('images/mew-logo-dark.png') %></a>
   </div>
