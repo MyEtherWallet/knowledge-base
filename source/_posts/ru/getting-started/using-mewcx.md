@@ -11,7 +11,7 @@ tags:
   - cx
 categories:
   - 
-    - ЧЗВ
+    - faq
   - 
     - get-started
 primary_category: get-started

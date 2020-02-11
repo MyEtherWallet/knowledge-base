@@ -1,6 +1,6 @@
 ---
 title: FAQs
-date: 2020-02-11 15:00:57
+date: 2019-03-07 15:01:21
 alias:
 - ru/faq/
 lang: ru

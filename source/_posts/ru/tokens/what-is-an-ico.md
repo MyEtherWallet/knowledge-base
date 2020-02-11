@@ -6,9 +6,9 @@ tags:
   - ico
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
-    - токен
+    - token
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
