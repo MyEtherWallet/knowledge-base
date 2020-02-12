@@ -21,8 +21,8 @@ alias:
 * MEW
 * [Infura][infurahowto]
 * [Etherscan][etherscanapi]
-* [Alchemy][]
-* [Rivet][]
+* [Alchemy][alchapi]
+* [Rivet][rivetapi]
 
 Our backend infrastructure is on AWS. You can actually do it yourself and run your own public or private node via [these instructions][instructions]. 
 
@@ -38,3 +38,5 @@ Or use our API directly to it (see the docs in the above APIs).
 [instructions]: https://github.com/MyEtherWallet/docker-geth-lb
 [quiknode]: https://quiknode.io/
 [ownNode]: /@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/
+[rivetapi]: https://rivet.cloud/
+[alchapi]: https://docs.alchemyapi.io/
