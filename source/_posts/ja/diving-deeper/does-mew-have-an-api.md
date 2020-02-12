@@ -21,8 +21,8 @@ alias:
 * MEW
 * [Infura](https://infura.io/#how-to)
 * [Etherscan](https://etherscan.io/apis)
-* \[Alchemy\]\[\]
-* \[Rivet\]\[\]
+* [Alchemy](https://docs.alchemyapi.io/)
+* [Rivet](https://rivet.cloud/)
 
 Our backend infrastructure is on AWS. You can actually do it yourself and run your own public or private node via [these instructions](https://github.com/MyEtherWallet/docker-geth-lb).
 
