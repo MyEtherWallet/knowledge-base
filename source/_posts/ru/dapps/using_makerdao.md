@@ -38,7 +38,8 @@ primary_category_display_name: "Dapps"
 <img src="/images/posts/diving-deeper/MKR2.png" width="100%" />
 
 **Шаг 4.** Укажите сумму ETH, которую вы хотите предложить в качестве залога. Не забудьте оставить небольшой зазор чтобы учитывать изменения на рынках. Как правило, 200% и выше – это безопасный вариант.
-* Вам нужно будет подтвердить транзакцию на своем устройстве, если вы его используете.
+* Before you generate your vault, you'll need to select 'Create Proxy'.
+* Make sure to confirm the transactions on your device, if you're using one.
 
 <img src="/images/posts/diving-deeper/MKR3.png" width="100%" />
 
