@@ -37,7 +37,8 @@ primary_category_display_name: "Dapps"
 <img src="/images/posts/diving-deeper/MKR2.png" width="100%">
 
 **Step 4.** Set the amount of ETH you would like to offer as collateral. Remember to leave some wiggle room to account for the shifting markets. 200% and above is usually a safe bet.
-* You will need to confirm the transaction on your device, if you're using one.
+* Before you generate your vault, you'll need to select 'Create Proxy'. 
+* Make sure to confirm the transactions on your device, if you're using one.
 
 <img src="/images/posts/diving-deeper/MKR3.png" width="100%">
 
