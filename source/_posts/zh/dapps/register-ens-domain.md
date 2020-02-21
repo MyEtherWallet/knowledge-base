@@ -57,7 +57,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 <img src="/images/posts/diving-deeper/ENS1-4.png" width="100%" />
 
 **Step 5.** If your domain is available, you can register it. Select the amount of time you wish to own the domain and click `Register`.
-* All domains cost the equivalent of $5/year in ETH to maintain.
+* Most longer domains cost the equivalent of $5/year in ETH to maintain, but the shorter the domain, the more expensive it becomes.
 * They can be owned indefinitely, as long as this annual fee is paid.
 
 <img src="/images/posts/diving-deeper/ENS1-5.png" width="100%" />
