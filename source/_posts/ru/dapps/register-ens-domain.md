@@ -57,7 +57,7 @@ ENS-адрес для поддержки: `mewtopia.eth`
 <img src="/images/posts/diving-deeper/ENS1-4.png" width="100%" />
 
 **Шаг 5.** Если выбранный домен доступен, вы можете зарегистрировать его. Выберите период времени, в течение которого хотите владеть доменом, и нажмите `Регистрация`.
-* Most longer domains cost the equivalent of $5/year in ETH to maintain, but the shorter the domain, the more expensive it becomes.
+* Большинство доменов с длинным названием стоят $5 долларов США в год, оплачиваемых в ETH, но чем короче название, тем дороже будет домен.
 * Ими можно владеть неограниченное количество времени, пока вносится годовая плата.
 
 <img src="/images/posts/diving-deeper/ENS1-5.png" width="100%" />
