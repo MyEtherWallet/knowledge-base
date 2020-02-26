@@ -1,5 +1,5 @@
 ---
-title: "Using Aave"
+title: "Руководство по использованию Aave"
 date: 2018-06-01 00:02:00
 tags:
   - aave
@@ -16,17 +16,17 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# __Using Aave__
+# __Руководство по использованию Aave__
 ###### {% read_time title "Using Aave" %} min read
 ***
 
-Aave allows you to deposit and borrow 16 different types of cryptocurrencies while earning on your deposited collateral. Borrowed assets will accrue an annual interest that needs to be paid back when you’re done with the loan, but this accrual can be switched between a variable or stable rate.
+Aave позволяет вам класть на депозит и занимать 16 разных видов криптовалют, зарабатывая проценты на вложенном залоге. По занятым активам будут начисляться годовые проценты, которые должны быть возвращены, когда вы готовы погасить займ, но это начисление может происходить с переменной или стабильной ставкой, на ваш выбор.
 
-###### If you’d like to deposit or borrow assets with Aave, you will need a wallet you can [access with our interface](/@@@@@@/getting-started/how-to-access-your-wallet/). Если у вас нет кошелька, [ нажмите сюда](/@@@@@@/getting-started/how-to-create-a-wallet/), чтобы его создать.
+###### Если вы хотите занимать или класть на депозит с помощью Aave, вам понадобится кошелек, в который вы можете [получить доступ с помощью нашего интерфейса](/@@@@@@/getting-started/how-to-access-your-wallet/). Если у вас нет кошелька, [ нажмите сюда](/@@@@@@/getting-started/how-to-create-a-wallet/), чтобы его создать.
 
-## __Using Aave to earn on deposited assets__
+## __Использование Aave для заработка на вложенных активах__
 
-**Step 1.** Head to MEW and select ‘Access My Wallet’.
+**Шаг 1.** На главной странице MEW выберите "Доступ к кошельку".
 
 <img src="/images/posts/diving-deeper/aave1.png" width="100%" />
 
