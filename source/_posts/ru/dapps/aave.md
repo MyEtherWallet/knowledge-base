@@ -4,9 +4,9 @@ date: 2018-06-01 00:02:00
 tags:
   - aave
   - defi
-  - loan
-  - deposit
-  - earn
+  - займ
+  - депозит
+  - заработать
   - ethereum
   - dapps
 categories:
@@ -17,27 +17,27 @@ primary_category_display_name: "Dapps"
 ---
 
 # __Руководство по использованию Aave__
-###### {% read_time title "Using Aave" %} min read
+###### {% read_time title "Using Aave" %} минут на чтение
 ***
 
 Aave позволяет вам класть на депозит и занимать 16 разных видов криптовалют, зарабатывая проценты на вложенном залоге. По занятым активам будут начисляться годовые проценты, которые должны быть возвращены, когда вы готовы погасить займ, но это начисление может происходить с переменной или стабильной ставкой, на ваш выбор.
 
 ###### Если вы хотите занимать или класть на депозит с помощью Aave, вам понадобится кошелек, в который вы можете [получить доступ с помощью нашего интерфейса](/@@@@@@/getting-started/how-to-access-your-wallet/). Если у вас нет кошелька, [ нажмите сюда](/@@@@@@/getting-started/how-to-create-a-wallet/), чтобы его создать.
 
-## __Использование Aave для заработка на вложенных активах__
+## __Использование Aave для заработка на депозите__
 
 **Шаг 1.** На главной странице MEW выберите "Доступ к кошельку".
 
 <img src="/images/posts/diving-deeper/aave1.png" width="100%" />
 
-**Step 2.** Select ‘Dapps’ from the menu on the left or scroll down to our ‘Dapps’ section, then choose ‘Aave’.
+**Шаг 2.** Выберите «Dapps» из меню слева или прокрутите вниз до нашего раздела «Dapps», затем выберите «Aave».
 
 <img src="/images/posts/diving-deeper/aave2.png" width="100%" />
 
-**Step 3.** Click the green button that says ‘Deposit’ to see the full list of assets you can deposit. The earning rates for each currency are listed under the ‘APY’ section.
-* Different assets have different earning rates and borrowing power. Browse the selection before making your choice.
-* Remember, you can always swap for the asset you want to deposit using our Swap page.
-* Your “Aggregated Balance” shows the Total Balance for your deposits. If you’ve deposited more than one type of asset, you will see the total value covered by all your deposited assets.
+**Шаг 3.** Нажмите на зеленую кнопку, на которой написано "Депозит", чтобы увидеть полный список активов, которые вы можете вложить. Ставки заработка по каждой валюте указаны в разделе "APY".
+* Различные активы имеют разные ставки заработка и возможности займа. Просмотрите варианты прежде чем сделать свой выбор.
+* Помните, что вы всегда можете получить актив для вклада путем обмена на нашей странице Обмен.
+* Ваш "Агрегированный Баланс" показывает общий баланс по вашему депозиту. Если вы вкладывали более одного вида активов, вы увидите общую стоимость всех ваших вложенных активов.
 
 <img src="/images/posts/diving-deeper/aave3.png" width="80%" />
 
