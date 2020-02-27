@@ -44,13 +44,13 @@ Aave позволяет вам класть на депозит и занима�
 <img src="/images/posts/diving-deeper/aave4.png" width="100%" />
 
 **Шаг 4.** После внесения средств на депозит, вы получите токен в виде "а*Token*", который будет привязан 1:1 с вложенным вами активом. Когда вы выведете активы с депозита, на ваш счет будут зачислены дополнительные средства, заработанные с помощью а*Token*.
-* For example, depositing 1 ETH will give you 1 aETH, which will slowly grow in balance as time goes on. When you withdraw, that extra balance will be credited to you.
+* Например, внесение 1 ETH даст вам 1 аETH, который будет постепенно расти в балансе со временем. При снятии средств, этот дополнительный баланс будет зачислен вам.
 
 <img src="/images/posts/diving-deeper/aave5.png" width="100%" />
 
-## __Using Aave to borrow ERC20 tokens and stablecoins__
+## __Использование Aave для займа токенов ERC20 и стабильных токенов__
 
-**Step 1.** You’ll first need to deposit assets to use as collateral, which can be completed in the section above. After you’re done, head to the ‘Borrowings’ tab on the Dapp.
+**Шаг 1.** Для начала, вам надо будет ввести средства которые будут использоваться в качестве залога. Обратитесь к разделу выше для руководства по этому шагу. After you’re done, head to the ‘Borrowings’ tab on the Dapp.
 * The “You Borrowed” section refers to the Total Amount you’ve borrowed, including different types of assets. It will also show you how much you have left to borrow, signified by the “__% Available” phrase.
 * “Your Collateral” shows the total you have deposited for use as collateral. This is similar to the “Aggregated Balance” from your Deposits page.
 * Note the ‘Loan to value’ percentage at the bottom of this page. This is the amount of borrowing power your deposited assets hold displayed in a weighted average. For example, 1 ETH at 80% Loan to value will allow 0.8 ETH’s worth of assets to be borrowed.
