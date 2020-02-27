@@ -43,7 +43,7 @@ Aave позволяет вам класть на депозит и занима�
 
 <img src="/images/posts/diving-deeper/aave4.png" width="100%" />
 
-**Step 4.** After you deposit, you will be sent a token in the form of ‘a*Token*’, which will be pegged 1:1 with the asset you’ve deposited. Once you withdraw your deposited assets, extra funds earned through the ‘a*Token*’ will be credited to your account.
+**Шаг 4.** После внесения средств на депозит, вы получите токен в виде "а*Token*", который будет привязан 1:1 с вложенным вами активом. Когда вы выведете активы с депозита, на ваш счет будут зачислены дополнительные средства, заработанные с помощью а*Token*.
 * For example, depositing 1 ETH will give you 1 aETH, which will slowly grow in balance as time goes on. When you withdraw, that extra balance will be credited to you.
 
 <img src="/images/posts/diving-deeper/aave5.png" width="100%" />
