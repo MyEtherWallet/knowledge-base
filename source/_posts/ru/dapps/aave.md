@@ -69,12 +69,12 @@ Aave позволяет вам класть на депозит и занима�
 
 <img src="/images/posts/diving-deeper/aave9.png" width="80%" />
 
-**Step 4.** You can borrow multiple types of assets, but keep an eye on your Health Factor. This number represents the amount you’ve borrowed in relation to the amount you’ve deposited. If your Health Factor reaches 1 or below, your deposited assets become at risk of being liquidated.
-* To raise your health factor, pay back some of your borrowed assets or deposit more for collateral.
+**Шаг 4.** Вы можете занимать несколько видов активов, но следите за вашим Фактором Здоровья. Это число показывает соотношение между количеством которое вы взяли в долг и суммой которую вы положили на депозит. Если Фактор Здоровья достигнет 1 или ниже, Ваши вложенные активы могут быть ликвидированы.
+* Чтобы поднять ваш Фактор Здоровья, оплатите некоторые из ваших займов или вкладывайте больше для обеспечения залога.
 
 <img src="/images/posts/diving-deeper/aave11.png" width="100%" />
 
-**Step 5.** When you’re paying back your borrowed assets, you’ll need to pay a little extra to cover any interest accrued during the loan period. All of the assets listed can be swapped from our Swap section through one of our providers.
+**Шаг 5.** Когда вы возвращаете заимствованные активы, вам нужно будет заплатить дополнительно за начисленные проценты за период займа. Все перечисленные активы могут быть обменяны на нашей странице Обмен через одного из наших поставщиков.
 
 <img src="/images/posts/diving-deeper/aave12.png" width="100%" />
 
