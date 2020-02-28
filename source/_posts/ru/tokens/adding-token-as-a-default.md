@@ -13,7 +13,7 @@ categories:
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - tokens/token-creators-add-your-token-to-myetherwallet.html
+  - ru/tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
 # __Добавление вашего токена в список токенов по умолчанию__

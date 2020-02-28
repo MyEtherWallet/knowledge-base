@@ -11,7 +11,7 @@ categories:
 primary_category: common-issues
 primary_category_display_name: "Распространенные проблемы"
 alias:
-  - addresses/what-does-checksummed-mean.html
+  - ru/addresses/what-does-checksummed-mean.html
 ---
 
 # __Ошибка: Not checksummed__

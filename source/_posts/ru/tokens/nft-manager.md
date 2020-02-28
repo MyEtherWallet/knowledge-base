@@ -16,7 +16,7 @@ categories:
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - tokens/nft-manager.html
+  - ru/tokens/nft-manager.html
 ---
 
 # __Невзаимозаменяемые токены (NFTs)__

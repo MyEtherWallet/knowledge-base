@@ -12,7 +12,7 @@ categories:
 primary_category: common-issues
 primary_category_display_name: "Распространенные проблемы"
 alias:
-  - tokens/errcode-unable-to-locate-corresponding-transfer-event-log.html
+  - ru/tokens/errcode-unable-to-locate-corresponding-transfer-event-log.html
 ---
 
 # __Ошибка: не удается найти соответствующий журнал событий передачи__

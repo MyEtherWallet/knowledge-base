@@ -12,7 +12,7 @@ categories:
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - faq/what-is-an-ico.html
+  - ru/faq/what-is-an-ico.html
 ---
 
 # __Что такое ICO?__

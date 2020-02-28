@@ -13,7 +13,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - getting-started/getting-started-new.html
+  - ru/getting-started/getting-started-new.html
 ---
 
 

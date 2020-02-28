@@ -14,7 +14,10 @@ language:
 timezone: America/Los_Angeles
 
 i18n:
-  languages: [en, ru]
+  languages:
+    - en
+    - ru
+#  [en, ru]
 #  type: [page, post]
   generator: [index]
 
@@ -60,7 +63,7 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
-  single_language_index: false
+  single_language_index: true
 
 # Extensions
 exclude_generator:
