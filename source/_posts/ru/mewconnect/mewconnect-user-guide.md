@@ -10,7 +10,7 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-  - ru/mewconnect/mew-connect-user-guide.html
+  - mewconnect/mew-connect-user-guide.html
 ---
 
 # __Руководство пользователя MEWconnect__
