@@ -12,7 +12,7 @@ categories:
 primary_category: транзакции
 primary_category_display_name: "Транзакции"
 alias:
-  - ru/transactions/transactions-not-showing-or-pending.html
+  - transactions/transactions-not-showing-or-pending.html
 ---
 
 # __Транзакции застряли в статусе «Не найдено» или «В ожидании»__
