@@ -4,11 +4,14 @@ date: 2018-06-01 00:03:00
 tags:
   - случайный
   - токен
+  - токены
   - появляются
   - кошелек
 categories:
-  - [faqs]
-  - [token]
+  - 
+    - faqs
+  - 
+    - token
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:

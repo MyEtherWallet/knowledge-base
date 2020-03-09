@@ -5,7 +5,7 @@ tags:
   - swap
   - eth
   - erc20
-  - token
+  - токены
   - kyber
   - bity
   - changelly
