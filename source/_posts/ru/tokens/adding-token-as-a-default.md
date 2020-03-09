@@ -2,18 +2,18 @@
 title: "Добавление вашего токена в список токенов по умолчанию"
 date: 2018-06-01 00:01:00
 tags:
-  - токен
+  - token
   - добавить
   - добавление
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
-    - токен
+    - token
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - tokens/token-creators-add-your-token-to-myetherwallet.html
+  - ru/tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
 # __Добавление вашего токена в список токенов по умолчанию__

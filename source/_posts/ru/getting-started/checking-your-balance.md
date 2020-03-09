@@ -2,18 +2,18 @@
 title: "Проверка баланса"
 date: 2018-06-01 00:02:00
 tags:
-  - ЧЗВ
+  - faqs
   - баланс
   - блок
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
     - get-started
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - getting-started/checking-balance-of-my-account.html
+  - ru/getting-started/checking-balance-of-my-account.html
 ---
 
 # __Проверка баланса__

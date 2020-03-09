@@ -10,7 +10,7 @@ tags:
   - myetherwallet
 categories:
   - 
-    - работа оффлайн
+    - offline
 primary_category: работа оффлайн
 primary_category_display_name: "Работа оффлайн"
 ---

@@ -2,7 +2,7 @@
 title: "Как создать кошелек"
 date: 2018-06-01 00:07:00
 tags:
-  - ЧЗВ
+  - faqs
   - создать
   - кошелек
 categories:
@@ -11,7 +11,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - getting-started/creating-a-new-wallet-on-myetherwallet.html
+  - ru/getting-started/creating-a-new-wallet-on-myetherwallet.html
 ---
 
 # __Как создать кошелек__

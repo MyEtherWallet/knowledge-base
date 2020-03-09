@@ -6,11 +6,11 @@ tags:
   - mew
 categories:
   - 
-    - работа оффлайн
+    - offline
 primary_category: работа оффлайн
 primary_category_display_name: "Работа оффлайн"
 alias:
-  - offline/local-offline-myetherwallet-does-not-work-properly.html
+  - ru/offline/local-offline-myetherwallet-does-not-work-properly.html
 ---
 
 # __MEW выглядит странно при работе оффлайн__

@@ -5,7 +5,7 @@ tags:
   - проверка
   - замена
   - транзакция
-  - токены
+ - token
   - отправлено
 categories:
   - 
@@ -13,7 +13,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - transactions/check-status-of-ethereum-transaction.html
+  - ru/transactions/check-status-of-ethereum-transaction.html
 ---
 
 # __Проверка или замена транзакции после ее отправки__
