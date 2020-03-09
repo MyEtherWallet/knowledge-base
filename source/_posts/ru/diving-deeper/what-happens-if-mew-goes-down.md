@@ -2,19 +2,19 @@
 title: "Что случится, если MEW выйдет из строя?"
 date: 2018-06-01 00:07:00
 tags:
-  - ЧЗВ
+  - faqs
   - сервис
   - остановить
   - вниз
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
     - diving-deeper
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - faq/what-happens-if-myetherwallet-goes-down.html
+  - ru/faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
 # __Что случится, если MEW выйдет из строя?__

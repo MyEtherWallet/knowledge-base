@@ -7,11 +7,11 @@ tags:
   - кошелек
 categories:
   - 
-    - аппаратные-кошельки
+    - hardware-wallets
 primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
-  - migration/moving-from-private-key-to-trezor-hardware-wallet.html
+  - ru/migration/moving-from-private-key-to-trezor-hardware-wallet.html
 ---
 
 # __Использование аппаратного кошелька Trezor с MEW__

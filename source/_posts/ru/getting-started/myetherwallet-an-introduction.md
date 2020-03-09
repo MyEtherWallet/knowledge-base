@@ -2,18 +2,18 @@
 title: "MyEtherWallet: введение"
 date: 2018-05-01 00:01:00
 tags:
-  - ЧЗВ
+  - faqs
   - введение
   - введение
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
     - get-started
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - getting-started/getting-started-new.html
+  - ru/getting-started/getting-started-new.html
 ---
 
 

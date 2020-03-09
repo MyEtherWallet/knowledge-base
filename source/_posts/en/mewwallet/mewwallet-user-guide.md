@@ -8,7 +8,7 @@ tags:
 categories:
 - [mewwallet]
 primary_category: mewwallet
-primary_category_display_name: "MEWwallet"
+primary_category_display_name: "MEW wallet"
 ---
 
 # __MEWconnect User Guide__

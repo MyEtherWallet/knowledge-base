@@ -3,7 +3,7 @@ title: "Ошибка: токен уже существует!"
 date: 2018-06-01 00:05:00
 tags:
   - ошибка
-  - токен
+  - token
 categories:
   - 
     - common-issues

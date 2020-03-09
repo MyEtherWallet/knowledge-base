@@ -5,7 +5,7 @@ tags:
   - eth
   - erc20
   - токен
-  - токены
+ - token
   - отправлено
   - с
   - биржа
@@ -15,7 +15,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - faq/eth-or-tokens-not-showing-on-exchange.html
+  - ru/faq/eth-or-tokens-not-showing-on-exchange.html
 ---
 
 # __Не появились ETH или токены ERC20, отправленные на биржу или с нее__

@@ -7,7 +7,7 @@ tags:
   - кошелек
 categories:
   - 
-    - аппаратные-кошельки
+    - hardware-wallets
 primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 ---

@@ -2,17 +2,17 @@
 title: "Что такое ICO?"
 date: 2018-06-01 00:04:00
 tags:
-  - ЧЗВ
+  - faqs
   - ico
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
-    - токен
+    - token
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - faq/what-is-an-ico.html
+  - ru/faq/what-is-an-ico.html
 ---
 
 # __Что такое ICO?__

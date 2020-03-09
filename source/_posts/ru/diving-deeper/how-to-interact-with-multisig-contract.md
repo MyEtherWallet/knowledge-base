@@ -2,19 +2,19 @@
 title: "Как взаимодействовать с контрактом с мультиподписью?"
 date: 2018-06-01 00:03:00
 tags:
-  - ЧЗВ
+  - faqs
   - сервис
   - остановить
   - вниз
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
     - diving-deeper
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - faq/interacting-with-ethereum-multisig-wallet.html
+  - ru/faq/interacting-with-ethereum-multisig-wallet.html
 ---
 
 # __Как взаимодействовать с контрактом с мультиподписью?__

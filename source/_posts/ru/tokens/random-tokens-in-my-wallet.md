@@ -4,18 +4,18 @@ date: 2018-06-01 00:03:00
 tags:
   - случайный
   - токен
-  - токены
+ - token
   - появляются
   - кошелек
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
-    - токен
+    - token
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - tokens/airdropped-tokens.html
+  - ru/tokens/airdropped-tokens.html
 ---
 
 # __Почему в моем кошельке появляются случайные токены?__
