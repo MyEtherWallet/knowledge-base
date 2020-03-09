@@ -5,10 +5,8 @@ tags:
   - faqs
   - ico
 categories:
-  - 
-    - faqs
-  - 
-    - token
+  - [faqs]
+  - [token]
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:

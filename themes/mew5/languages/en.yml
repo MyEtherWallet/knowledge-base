@@ -70,7 +70,7 @@ video_tab:
   title_one_v5: Create a Wallet (MEWconnect)
   title_two_v5: Wallet Overview
   title_three_v5: Use MEW Offline & Send a Transaction
-  labelMC: Part %d of MEWconnect 101
+  labelMC: "Part %d of MEWconnect 101"
   title_one_mc: Create a wallet
   title_two_mc: Back up your wallet
   title_three_mc: Connect to MEW
