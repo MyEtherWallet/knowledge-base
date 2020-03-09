@@ -2,12 +2,14 @@
 title: "Добавление вашего токена в список токенов по умолчанию"
 date: 2018-06-01 00:01:00
 tags:
-  - token
+  - токен
   - добавить
   - добавление
 categories:
-  - [faqs]
-  - [token]
+  - 
+    - faqs
+  - 
+    - token
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:

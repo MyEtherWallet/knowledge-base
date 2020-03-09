@@ -5,7 +5,8 @@ tags:
   - ошибка
   - токен
 categories:
-  - [token]
+  - 
+    - токен
 primary_category: токен
 primary_category_display_name: "Токены"
 ---

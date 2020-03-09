@@ -2,7 +2,7 @@
 title: "MyEtherWallet: введение"
 date: 2018-05-01 00:01:00
 tags:
-  - faqs
+  - ЧЗВ
   - введение
   - введение
 categories:
