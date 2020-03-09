@@ -10,7 +10,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
-  - ru/private-keys-passwords/private-key-not-working.html
+  - private-keys-passwords/private-key-not-working.html
 ---
 
 # __Закрытый ключ не работает__

@@ -13,7 +13,7 @@ categories:
 primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
-  - ru/networks/using-ethereum-hardware-wallet-with-path.html
+  - networks/using-ethereum-hardware-wallet-with-path.html
 ---
 
 # __Использование аппаратного кошелька с кастомным путем деривации__

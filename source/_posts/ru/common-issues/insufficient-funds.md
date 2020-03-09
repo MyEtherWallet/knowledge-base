@@ -11,7 +11,7 @@ categories:
 primary_category: common-issues
 primary_category_display_name: "Распространенные проблемы"
 alias:
-  - ru/gas/error-insufficient-funds-message.html
+  - gas/error-insufficient-funds-message.html
 ---
 
 # __Ошибка: Недостаточно ETH для отправки__

@@ -12,7 +12,7 @@ categories:
 primary_category: common-issues
 primary_category_display_name: "Распространенные проблемы"
 alias:
-  - ru/hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
+  - hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
 ---
 
 # __Не удается подключиться к аппаратному кошельку__

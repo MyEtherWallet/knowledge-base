@@ -10,7 +10,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - ru/getting-started/accessing-your-new-eth-wallet.html
+  - getting-started/accessing-your-new-eth-wallet.html
 ---
 
 # __Как получить доступ к кошельку__

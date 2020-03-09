@@ -11,7 +11,7 @@ categories:
 primary_category: common-issues
 primary_category_display_name: "Распространенные проблемы"
 alias:
-  - ru/hardware-wallets/trezor-error-window-blocked.html
+  - hardware-wallets/trezor-error-window-blocked.html
 ---
 
 # __Ошибка: "Окно заблокировано"__

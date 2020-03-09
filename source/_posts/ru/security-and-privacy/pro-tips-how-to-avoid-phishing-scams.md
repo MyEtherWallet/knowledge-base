@@ -11,13 +11,13 @@ tags:
   - совет
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - security-and-privacy
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
-  - ru/security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
+  - security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
 ---
 
 # __Советы: как избежать фишинга / мошенничества__

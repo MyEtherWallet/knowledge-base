@@ -23,15 +23,15 @@ tag: Тег
 help_center: Центр поддержки
 previous: Предыдущий
 none: Нет
-faqs: Часто задаваемые вопросы
-faqs_mobile: ЧЗВ
+faqs: FAQ
+faqs_mobile: FAQ
 videos: Видео
 share_to: Поделиться
 tag_line: Потерялись? Позвольте нам помочь.
 home: Домашняя страница
 privacy: Конфиденциальность
 terms: Условия
-copyright: '© 2020 MyEtherWallet Inc. Все права защищены.'
+copyright: '© 2020 MyEtherWallet. Все права защищены.'
 index:
   intro: Введение
   get_started: С чего начать
@@ -39,6 +39,7 @@ index:
   diving_deeper: Более глубокое ознакомление
   access_wallet: Доступ к кошельку
   mewconnect: MEWconnect
+  mewwallet: MEWwallet
   private_keys_password: Закрытые ключи и пароль
   hardware_wallet: Аппаратный кошелек (hardware wallet)
   migrating: Миграция
@@ -70,7 +71,7 @@ video_tab:
   title_one_v5: Создать кошелек (MEWconnect)
   title_two_v5: Обзор кошельков
   title_three_v5: Использовать MEW в автономном режиме и отправить транзакцию
-  labelMC: Часть %d MEWconnect 101
+  labelMC: "\nЧасть% MEWconnect 101"
   title_one_mc: Создать кошелек
   title_two_mc: Сделайте резервную копию кошелька
   title_three_mc: Подключиться к MEW

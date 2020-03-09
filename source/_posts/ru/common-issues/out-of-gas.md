@@ -11,7 +11,7 @@ categories:
 primary_category: common-issues
 primary_category_display_name: "Распространенные проблемы"
 alias:
-  - ru/transactions/transaction-failed-out-of-gas.html
+  - transactions/transaction-failed-out-of-gas.html
 ---
 
 # __Ошибка: нет газа__
