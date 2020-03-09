@@ -9,13 +9,13 @@ tags:
   - кошелек
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
-    - token
+    - токен
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - ru/tokens/airdropped-tokens.html
+  - tokens/airdropped-tokens.html
 ---
 
 # __Почему в моем кошельке появляются случайные токены?__
