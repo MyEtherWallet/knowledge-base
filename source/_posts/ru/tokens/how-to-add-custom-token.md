@@ -3,14 +3,12 @@ title: "Как добавить кастомный токен"
 date: 2018-06-01 00:02:00
 tags:
   - кастомный
-  - token
+  - токен
   - добавление
   - добавить
 categories:
-  - 
-    - faqs
-  - 
-    - token
+  - [faqs]
+  - [token]
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
