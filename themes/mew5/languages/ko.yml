@@ -1,0 +1,92 @@
+---
+Home: Home
+Support: Support
+categories: 카테고리
+search: 검색
+tags: 태그
+tagcloud: 태그 클라우드
+tweets: 트윗
+prev: 이전
+next: 다음
+comment: 댓글
+archive_a: 아카이브
+archive_b: "아카이브: %s"
+page: 페이지 %d
+recent_posts: 최근 포스트
+newer: 최신
+older: 이전
+share: 공유
+powered_by: Powered by
+rss_feed: RSS Feed
+category: 카테고리
+tag: 태그
+help_center: Help Center
+previous: Previous
+none: None
+faqs: FAQ
+faqs_mobile: FAQ
+videos: Videos
+share_to: Share to
+tag_line: Lost? Let Us Help.
+home: Home
+privacy: Privacy
+terms: Terms
+copyright: '© 2020 MyEtherWallet Inc. All rights reserved.'
+index:
+  intro: Introduction
+  get_started: Get Started
+  common_issues: Common Issues
+  diving_deeper: Diving Deeper
+  access_wallet: Access Wallet
+  mewconnect: MEWconnect
+  mewwallet: MEW wallet
+  private_keys_password: Private Keys & Password
+  hardware_wallet: Hardware Wallet
+  migrating: Migrating
+  security_privacy: Security & Privacy
+  security: Security
+  functions: Functions
+  tokens: Tokens
+  offline: Offline
+  network_and_nodes: Network & Nodes
+  transactions: Transactions
+  swap: Swap
+  ens: ENS
+  v5: MEW V5
+  dapps: Dapps
+help:
+  cantFind: Can't find your answer? Get in touch and we'll get back as soon as we can.
+  community_join: Join the MEW community to get more information.
+  community: Community
+  email_us: Email us
+  customer_support: Customer Support
+misc:
+  send_eth: Send ETH
+  blockchain: Blockchain
+  create_wallet: Create a Wallet
+  top_searches: Top Searches
+  matches_for: matches from this post
+video_tab:
+  label_v5: MEW V5
+  title_one_v5: Create a Wallet (MEWconnect)
+  title_two_v5: Wallet Overview
+  title_three_v5: Use MEW Offline & Send a Transaction
+  labelMC: "Part %d of MEWconnect 101"
+  title_one_mc: Create a wallet
+  title_two_mc: Back up your wallet
+  title_three_mc: Connect to MEW
+  title_four_mc: Make a transaction
+  title_five_mc: Wallet overview
+links:
+  mytherwallet: "https://myetherwallet.com"
+  privacy_policy: "https://www.myetherwallet.com/privacy-policy"
+  terms_and_conditions: "https://www.myetherwallet.com/terms-and-conditions"
+  reddit: "https://www.reddit.com/r/MyEtherWallet/"
+  github: "https://github.com/MyEtherWallet"
+  facebook: "https://www.facebook.com/MyEtherWallet"
+  twitter: "https://twitter.com/myetherwallet"
+  linkedin: "https://www.linkedin.com/company/myetherwallet"
+  medium: "https://medium.com/@myetherwallet"
+  youtube: "https://www.youtube.com/c/myetherwallet"
+  vkontakte: "https://vk.com/public190491855"
+  mewtopia: "https://www.mewtopia.com/"
