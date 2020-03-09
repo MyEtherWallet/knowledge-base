@@ -7,13 +7,13 @@ tags:
   - введение
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - get-started
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - ru/getting-started/getting-started-new.html
+  - getting-started/getting-started-new.html
 ---
 
 

@@ -6,13 +6,13 @@ tags:
   - ico
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
-    - token
+    - токен
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - ru/faq/what-is-an-ico.html
+  - faq/what-is-an-ico.html
 ---
 
 # __Что такое ICO?__

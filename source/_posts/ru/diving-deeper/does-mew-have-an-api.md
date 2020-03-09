@@ -9,7 +9,7 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - ru/diving-deeper/does-myetherwallet-have-an-api.html
+  - diving-deeper/does-myetherwallet-have-an-api.html
 ---
 
 # __Есть ли у MyEtherWallet API?__
@@ -21,8 +21,8 @@ alias:
 * MEW
 * [Infura](https://infura.io/#how-to)
 * [Etherscan](https://etherscan.io/apis)
-* \[Alchemy\]\[\]
-* \[Rivet\]\[\]
+* [Alchemy](https://docs.alchemyapi.io/)
+* [Rivet](https://rivet.cloud/)
 
 Наша внутренняя инфраструктура работает на AWS. На самом деле вы можете сделать это сами и управлять собственным публичным или закрытым узлом с помощью [этих инструкций](https://github.com/MyEtherWallet/docker-geth-lb).
 

@@ -11,7 +11,7 @@ categories:
 primary_category: common-issues
 primary_category_display_name: "Распространенные проблемы"
 alias:
-  - ru/hardware-wallets/error-code-5.html
+  - hardware-wallets/error-code-5.html
 ---
 
 # __Ledger: код ошибки 5__
