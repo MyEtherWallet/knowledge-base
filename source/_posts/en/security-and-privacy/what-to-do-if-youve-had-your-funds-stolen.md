@@ -35,7 +35,7 @@ The first step is identifying how it happened. Phishers make their living by bei
 ## __Step 2: Make a new wallet.__
 Since your old wallet was compromised, you will need to discontinue its use and set up a new wallet. There are multiple safer options to choose from besides keystore/JSON files, mnemonic phrases, or private keys. 
 * The best thing you can do for your security is purchase a hardware wallet, such as the [Ledger Nano S][buyLedger] or [Trezor][buyTrezor]. These are generally around ~$100, but can save you thousands in the long run. 
-* [MEWconnect][mewconnect] is our free smartphone app, which offers hardware wallet security without all the hardware. With MEWconnect, you can view your balance on the go. To send a transaction, simply scan a QR code on MEW to unlock your wallet.
+* [MEW wallet][mewwallet] is our fully fledged mobile app, which allows users to buy, hold, and send Ether and tokens right from their smartphone. It's simple, fast, and secure.
 * [MetaMask][metamask] is a free Google Chrome Extension that allows you to set up an Ethereum wallet, which can be used with MEW. MetaMask also warns you when visiting known phishing sites.
 
 
@@ -58,7 +58,7 @@ We know these attacks can be very demoralizing, but let it be an opportunity for
 
 [buyLedger]: https://www.ledger.com/?r=fa4b
 [buyTrezor]: https://shop.trezor.io/?a=myetherwallet.com
-[mewconnect]: /@@@@@@/mewconnect/mewconnect-user-guide/
+[mewwallet]: /@@@@@@/mewwallet/mewwallet-user-guide/
 [metamask]: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 [kbmew]: https://kb.myetherwallet.com
 [etherscan]: https://etherscan.io
