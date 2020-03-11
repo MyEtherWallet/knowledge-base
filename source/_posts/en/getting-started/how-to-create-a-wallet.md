@@ -21,7 +21,7 @@ alias:
 
 MyEtherWallet (MEW) offers three ways to create a new ETH wallet. 
 
-Out of the three, we highly suggest creating your wallet with our smartphone app, MEWconnect. This is the best option for the security and safekeeping of your information. To learn more about creating your wallet with MEWconnect, click [here][mewConnect].
+Out of the three, we highly suggest creating your wallet with our smartphone app, MEW wallet. This is the best option for the security and safekeeping of your information. To learn more about creating your wallet with MEW wallet, click [here][mewwallet].
 
 The other two options we offer are by Keystore/JSON file and Mnemonic Phrase. 
 *These are **not** recommended ways to create and access your wallet.*
@@ -77,14 +77,13 @@ The following information is for those who wish to proceed, regardless of our wa
 
 * We cannot recover or reset your phrase or extra word for you. Write it down!
 
-
 **Step 6.** Now pass a quick test, and you’re done! You’re ready to access your wallet.
 
 
 
 For more information on how to access your new wallet, click [here][accessWallet].
 
-[mewConnect]: /@@@@@@/mewconnect/mewconnect-101-create/
+[mewwallet]: /@@@@@@/mewwallet/mewwallet-user-guide/
 [offline]: /@@@@@@/offline/offline-mew-looks-weird/
 [keystoreJson]: /@@@@@@/security-and-privacy/what-is-a-keystore-file/
 [mnemonic]: /@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/
