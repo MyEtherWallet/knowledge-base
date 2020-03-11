@@ -26,7 +26,7 @@ alias:
 ***
 
 **1. Secure your access method.**
-* Whether it's by [purchasing a hardware wallet](https://www.myetherwallet.com/hardware-wallet-affiliates), downloading [MEWconnect](/@@@@@@/mewconnect/mewconnect-user-guide/), or by [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/), secure access is the number one defense against phishing.
+* Whether it's by [purchasing a hardware wallet](https://www.myetherwallet.com/hardware-wallet-affiliates), downloading [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/), or by [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/), secure access is the number one defense against phishing.
 
 **2. Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc), or [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige).**
 * These Chrome Extensions warn you when visiting malicious sites.
