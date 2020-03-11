@@ -44,7 +44,7 @@
                 <div class="cat-group">
                     <h3><%= _p('index.access_wallet') %></h3>
                     <ul>
-<!--                        <li>
+                        <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'mewwallet'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
                                     <%- image_tag('images/mew-icons/mewconnect.svg') %>
@@ -53,7 +53,7 @@
                                         <p><%= site.categories.findOne({name: 'mewwallet'}).posts.length %></p></div>
                                 </div>
                             </a>
-                        </li>-->
+                        </li>
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'hardware-wallets'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
