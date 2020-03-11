@@ -31,7 +31,7 @@ MyEtherWallet (MEW) — это клиентский интерфейс с отк
 
 * [Создать](/@@@@@@/getting-started/how-to-create-a-wallet/) новый ETH-кошелек.
 * [Отправлять](/@@@@@@/transactions/how-to-send-a-transaction/) и получать токены ETH и ERC20.
-* [Получать доступ](/@@@@@@/getting-started/how-to-access-your-wallet/) к множеству существующих кошельков, включая наше приложение MEWconnect, расширения для Chrome MEW CX и MetaMask, и партнерские аппаратные кошельки.
+* [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of existing wallets including our MEW wallet app, MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
 * [Обменивать](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) растущий список криптовалют, включая ERC20 токены, ETH, ETC, BTC и многое другое!
 * Применять умные контракты (smart contracts) и взаимодействовать с ними.
 * Отправлять транзакции оффлайн, используя наш Оффлайн Ассистент.
