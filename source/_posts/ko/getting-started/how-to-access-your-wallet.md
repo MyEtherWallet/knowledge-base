@@ -22,7 +22,7 @@ MyEtherWallet (MEW) offers a variety of ways to access one’s Ethereum wallet, 
 They are, from most to least recommended:
 
 * Hardware Wallets ([Ledger Nano S](https://www.ledger.com/?r=fa4b), [Trezor](https://trezor.io/?offer_id=12&aff_id=2029), [Digital Bitbox](https://shiftcrypto.ch/?ref=mew), [Finney](http://shop.sirinlabs.com/?rfsn=2397639.54fdf&utm_source=refersion&utm_medium=affiliate&utm_campaign=2397639.54fdf), etc.)
-* MEWconnect
+* MEW wallet
 * Browser Extensions a.k.a. Web3 (MEW CX, MetaMask, etc.)
 * Keystore/JSON File + Password
 * Mnemonic Phrase + Password
@@ -36,10 +36,10 @@ To learn more about accessing MEW with hardware wallets, reference our [Migratin
 
 
 
-## __MEWconnect__
-This is our free MEW companion app for iOS and Android smartphones. We call it a ‘hardware wallet without all the hardware’. When creating a wallet with MEWconnect, your private key is kept encrypted on a secure, local vault in your phone. For backup, you are given a mnemonic phrase (much like the hardware wallets above). The wallet is also accompanied by a password, which is used to unlock it on your device.
+## __MEW wallet__
+This is our fully fledged MEW mobile app for iOS and Android smartphones. It's simple, fast, and secure to use. When creating a wallet with MEW wallet, your private key is kept encrypted on a secure, local vault in your phone. For backup, you are given a mnemonic phrase (much like the hardware wallets above). The wallet is also accompanied by a pin or password, which is used to unlock it on your device.
 
-To learn more about accessing MEW with MEWconnect, reference our [MEWconnect User Guide](/@@@@@@/mewconnect/mewconnect-user-guide/).
+To learn more about accessing MEW with MEW wallet, reference our [MEW wallet User Guide](/@@@@@@/mewwallet/mewwallet-user-guide/).
 
 
 
