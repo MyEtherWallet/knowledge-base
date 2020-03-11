@@ -19,7 +19,7 @@ primary_category_display_name: "MEWwallet"
 
 MEW wallet is MEW’s official fully-fledged free mobile app, bringing hardware wallet security to your mobile device. With MEW wallet, users can buy, hold, and send Ether and tokens.
 
-To begin exploring Ethereum on mobile, download MEW wallet on your iOS or Android phone.
+To begin exploring Ethereum on mobile, [download MEW wallet](https://www.mewwallet.com/) on your iOS or Android phone.
 
 ## __Create a new wallet:__
 
