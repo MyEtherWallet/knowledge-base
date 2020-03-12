@@ -17,7 +17,7 @@ primary_category_display_name: "MEWwallet"
  
 <img src="/images/posts/mewconnect/meww1.png" width="70%"> <img src="/images/posts/mewconnect/meww2.png" width="70%"> <img src="/images/posts/mewconnect/meww3.png" width="70%">
  
-MEW wallet is MEW’s official fully-fledged free mobile app, bringing hardware wallet security to your mobile device. With MEW wallet, users can buy, hold, and send Ether and tokens. 
+MEW wallet is MEW’s official fully-fledged mobile app. It's simple, fast, and secure. 
  
 To begin exploring Ethereum on mobile, [download MEW wallet][download] on your iOS or Android phone. 
  
@@ -64,9 +64,6 @@ This step is crucial if you plan on using your wallet in the long term. We canno
  
 <img src="/images/posts/mewconnect/mbackup4.png" width="70%">
  
-**Step 4.** Test it out. 
-* You can [use MEW offline][mewOffline] to test your mnemonic phrase. 
- 
  
 ## __Buy ETH to start exploring:__
 Everything on the Ethereum blockchain requires ETH for gas. You’ll need to acquire ETH to get started.
@@ -76,11 +73,17 @@ Everything on the Ethereum blockchain requires ETH for gas. You’ll need to acq
 <img src="/images/posts/mewconnect/mcreate7.png" width="70%">
  
 **Step 2.** Select the amount you’d like to buy, or enter a custom amount (up to $250 worth).
- 
+* If you're using iOS, Apply Pay makes buying ETH as easy as clicking a button!
+
+<img src="/images/posts/mewconnect/mewwallet1.png" width="70%">
+
+<img src="/images/posts/mewconnect/mewwallet2.png" width="70%"> 
+
 <img src="/images/posts/mewconnect/mbuyeth2.png" width="70%">
  
-**Step 3.** After being redirected to Simplex, enter your details and finish the purchase.
- 
+**Step 3.** After being redirected to Wyre or Simplex, enter your details and finish the purchase.
+
+
 <img src="/images/posts/mewconnect/mbuyeth3.png" width="70%">
  
 **Step 4.** Your new balance will reflect in your account!
