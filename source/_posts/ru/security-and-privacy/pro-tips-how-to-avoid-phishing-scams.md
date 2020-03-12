@@ -11,13 +11,13 @@ tags:
   - совет
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - security-and-privacy
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
-  - ru/security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
+  - security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
 ---
 
 # __Советы: как избежать фишинга / мошенничества__
@@ -26,7 +26,7 @@ alias:
 ***
 
 **1. Обезопасьте свой способ доступа.**
-* Безопасный доступ — это лучшая защита от фишинга. [Купите аппаратный кошелек](https://www.myetherwallet.com/hardware-wallet-affiliates), загрузите [MEWconnect](/@@@@@@/mewconnect/mewconnect-user-guide/) или же [используйте MEW в оффлайн-режиме](/@@@@@@/offline/offline-mew-looks-weird/).
+* Будь то через [покупку аппаратного кошелька](https://www.myetherwallet.com/hardware-wallet-affiliates), скачивание [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/) или [использование MEW офлайн](/@@@@@@/offline/offline-mew-looks-weird/), безопасный доступ — это главная защита от фишинга.
 
 **2. Установите [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc) или [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige).**
 * Эти расширения для Chrome предупреждают вас при посещении вредоносных сайтов.
