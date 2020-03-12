@@ -26,7 +26,7 @@ primary_category_display_name: "MEWconnect"
 ## __Смена пароля__
 
 **Шаг 1.** Сделайте сброс кошелька на странице входа или в разделе "Информация".
-* Нажмите ‘Забыли пароль?’ на главном экране или ‘Сброс кошелька >’ на вкладке ‘Информация’.
+* Choose ‘Forgot password?’ on the home screen, or ‘Reset wallet >’ in the Info tab.
 
 <img src="/images/posts/mewconnect/ForgotPassMC.jpg" width="35%" />
 
