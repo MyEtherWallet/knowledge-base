@@ -15,14 +15,28 @@ primary_category_display_name: "MEW wallet"
 ###### {% read_time title "MEW wallet User Guide" %} min read
 ***
  
-<img src="/images/posts/mewconnect/meww1.jpg" width="25%"> <img src="/images/posts/mewconnect/meww2.jpg" width="25%"> <img src="/images/posts/mewconnect/meww3.jpg" width="25%">
+<img src="/images/posts/mewconnect/meww1.jpg" width="20%"><img src="/images/posts/mewconnect/meww2.jpg" width="30%"><img src="/images/posts/mewconnect/meww3.jpg" width="40%">
  
-MEW wallet is MEW’s official fully-fledged mobile app. It's simple, fast, and secure. 
+<br>
+
+### __MEW wallet is MEW’s official fully-fledged mobile app.__ 
+
+<br>
+
+### __It's simple, fast, and secure.__ 
+
+## __To begin exploring Ethereum on your mobile device, [download MEW wallet][download] on your iOS or Android phone.__
+
+<br>
+
+*************
+
+## __Create a New Wallet__
+
+#### __Receive a unique public address and color combination tied to your new account.__ 
  
-To begin exploring Ethereum on mobile, [download MEW wallet][download] on your iOS or Android phone. 
- 
-## __Create a new wallet:__
- 
+<br>
+
 **Step 1.** Open the MEW wallet app. 
  
 **Step 2.** Select ‘Create a free wallet’.
@@ -38,14 +52,19 @@ To begin exploring Ethereum on mobile, [download MEW wallet][download] on your i
  
 <img src="/images/posts/mewconnect/mcreate4.jpg" width="40%"> <img src="/images/posts/mewconnect/mcreate5.jpg" width="40%">
  
-**Step 5.** Wait for your wallet to generate, then select ‘Start using MEW wallet’.
+**Step 5.** Wait for your account to generate, then select ‘Start using MEW wallet’.
  
 <img src="/images/posts/mewconnect/mcreate6.jpg" width="40%"> <img src="/images/posts/mewconnect/mcreate7.jpg" width="40%">
+
+*************
+
  
+## __Back Up Your Account__
+
+#### __This step is crucial if you plan on using your wallet in the long term. We cannot recover your account for you, so you must keep track of this information yourself.__
  
-## __Back up your account:__
-This step is crucial if you plan on using your wallet in the long term. We cannot recover your account for you, so you must keep track of this information yourself.
- 
+<br>
+
 **Step 1.** After creating your wallet, select 'Backup Now'. Read the warning and continue.
 * You can also head to ‘Settings’, then ‘View my recovery phrase’.
  
@@ -64,16 +83,20 @@ This step is crucial if you plan on using your wallet in the long term. We canno
  
 <img src="/images/posts/mewconnect/mbackup4.jpg" width="40%">
  
+ *****************************
  
-## __Buy ETH to start exploring:__
-Everything on the Ethereum blockchain requires ETH for gas. You’ll need to acquire ETH to get started.
+## __Buy ETH to Start Exploring__
+
+#### __Everything on the Ethereum blockchain requires ETH for gas. You’ll need to buy ETH to get started.__
+
+<br>
  
 **Step 1.** Select ‘Buy Ether’ on the main page of the MEW wallet app. 
  
 <img src="/images/posts/mewconnect/mcreate7.jpg" width="40%">
  
 **Step 2.** Select the amount you’d like to buy, or enter a custom amount (up to $250 worth).
-* If you're using iOS in the US, Apply Pay makes buying ETH as easy as clicking a button!
+* If you're using an iOS device in the US, Apply Pay makes buying ETH as easy as clicking a button!
 
 <img src="/images/posts/mewconnect/mewwallet1.png" width="40%"> <img src="/images/posts/mewconnect/mewwallet2.png" width="40%"> 
 
@@ -83,11 +106,15 @@ Everything on the Ethereum blockchain requires ETH for gas. You’ll need to acq
 
 <img src="/images/posts/mewconnect/mbuyeth3.jpg" width="40%">
  
-**Step 4.** Your new balance will reflect in your account!
+**Step 4.** Your new balance will reflect in your account shortly!
  
- 
-## __Add more accounts:__
-Create as many accounts as you want for savings, privacy, or organized token storage.
+ **************************
+
+## __Add More Accounts__
+
+#### __Create as many accounts as you want for savings, privacy, or organized token storage.__
+
+<br>
  
 **Step 1.** Swipe left on your main account and select ‘Add account’.
  
