@@ -27,9 +27,9 @@ alias:
 
 **Шаг 2.**Нажмите "Создать новый кошелек" (Create New Wallet).
 
-**Step 3.** Pick a strong password.
+**Шаг 3.** Выберите надежный пароль.
 
-This step is very important. Make sure you pick a password that is not easy to guess, but also write it down with pen and paper. There is only one other way to access your wallet, and we’ll get to that soon.
+Этот шаг очень важен. Make sure you pick a password that is not easy to guess, but also write it down with pen and paper. There is only one other way to access your wallet, and we’ll get to that soon.
 
 **Step 4.** Type it again.
 
