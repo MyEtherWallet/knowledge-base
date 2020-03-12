@@ -26,7 +26,7 @@ alias:
 ***
 
 **1. Обезопасьте свой способ доступа.**
-* При [покупке аппаратного кошелька](https://www.myetherwallet.com/hardware-wallet-affiliates), скачивании [Кошелька MEW](/@@@@@@/mewwallet/mewwallet-user-guide/) или [использовании MEW офлайн](/@@@@@@/offline/offline-mew-looks-weird/) безопасный доступ — это главная защита от фишинга.
+* Будь то через [покупку аппаратного кошелька](https://www.myetherwallet.com/hardware-wallet-affiliates), скачивание [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/) или [использование MEW офлайн](/@@@@@@/offline/offline-mew-looks-weird/), безопасный доступ — это главная защита от фишинга.
 
 **2. Установите [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc) или [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige).**
 * Эти расширения для Chrome предупреждают вас при посещении вредоносных сайтов.
