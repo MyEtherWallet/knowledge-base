@@ -35,7 +35,7 @@ alias:
 ## __Шаг 2: Создайте новый кошелек.__
 Так как ваш старый кошелек был взломан, вам нужно прекратить его использовать и создать новый кошелек. Есть несколько более безопасных вариантов кроме файлов хранилища ключей / JSON, мнемонических фраз и закрытых ключей.
 * Лучшее, что вы можете сделать для своей безопасности, — это купить аппаратный кошелек, например, [Ledger Nano S](https://www.ledger.com/?r=fa4b) или [Trezor](https://shop.trezor.io/?a=myetherwallet.com). Обычно они стоят около 100 долларов, но в долгосрочной перспективе вы можете сэкономить тысячи.
-* [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/) is our fully fledged mobile app, which allows users to buy, hold, and send Ether and tokens right from their smartphone. It's simple, fast, and secure.
+* [Кошелек MEW](/@@@@@@/mewwallet/mewwallet-user-guide/) — это наше полноценное мобильное приложение, позволяющее пользователям покупать, хранить и отправлять эфир и токены напрямую со своего смартфона. Он простой, быстрый и безопасный.
 * [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) — это бесплатное расширение для Google Chrome, которое позволяет настроить кошелек Ethereum для использования с MEW. MetaMask также предупреждает вас при посещении известных фишинговых сайтов.
 
 
