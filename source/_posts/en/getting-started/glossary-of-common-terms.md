@@ -174,7 +174,7 @@ alias:
 * Maintained by remote miners all over the world.
 
 
-##### All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome.
+## All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome.
 
 [enEspanol]: https://github.com/faraggi/words-are-hard-es/blob/master/words-are-hard-es.md
 [pubPvtKeys]: /@@@@@@/security-and-privacy/what-is-a-keystore-file/
