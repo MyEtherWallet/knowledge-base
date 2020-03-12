@@ -7,13 +7,13 @@ tags:
   - добавление
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
-    - token
+    - токен
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - ru/tokens/token-creators-add-your-token-to-myetherwallet.html
+  - tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
 # __Добавление вашего токена в список токенов по умолчанию__
