@@ -1,5 +1,5 @@
 ---
-Home: Главная
+Home: Домашняя страница
 Support: Поддержка
 categories: Категории
 search: Поиск
@@ -23,8 +23,8 @@ tag: Тег
 help_center: Центр поддержки
 previous: Предыдущий
 none: Нет
-faqs: ЧЗВ
-faqs_mobile: ЧЗВ
+faqs: FAQ
+faqs_mobile: FAQ
 videos: Видео
 share_to: Поделиться
 tag_line: Потерялись? Позвольте нам помочь.
@@ -47,7 +47,7 @@ index:
   security: Безопасность
   functions: Функции
   tokens: Токены
-  offline: Оффлайн
+  offline: Работа оффлайн
   network_and_nodes: Сеть и узлы
   transactions: Транзакции
   swap: Обмен
@@ -63,7 +63,7 @@ help:
 misc:
   send_eth: Отправить ETH
   blockchain: Блокчейн
-  create_wallet: Создать кошелек
+  create_wallet: Создание кошелька
   top_searches: Популярные поисковые запросы
   matches_for: совпадения из этой публикации
 video_tab:
@@ -71,7 +71,7 @@ video_tab:
   title_one_v5: Создать кошелек (MEWconnect)
   title_two_v5: Обзор кошельков
   title_three_v5: Использовать MEW в автономном режиме и отправить транзакцию
-  labelMC: "%d MEWconnect 101"
+  labelMC: "\nЧасть% MEWconnect 101"
   title_one_mc: Создать кошелек
   title_two_mc: Сделайте резервную копию кошелька
   title_three_mc: Подключиться к MEW
