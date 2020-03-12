@@ -10,12 +10,14 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-  - ru/mewconnect/mew-connect-user-guide.html
+  - mewconnect/mew-connect-user-guide.html
 ---
 
 # __Руководство пользователя MEWconnect__
 ###### {% read_time title "Руководство пользователя MEWconnect" %} мин. на прочтение
 ***
+
+Официальное полнофункциональное мобильное приложение MEW wallet теперь доступно! [Скачайте сейчас](/@@@@@@/mewwallet/mewwallet-user-guide/) для iOS или Android и переместите свой кошелек MEWconnect бесплатно!
 
 
 <img class="image-right" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%" />
@@ -54,7 +56,7 @@ alias:
 
 **Шаг 6.** Пройдите тест на проверку seed-слов.
 
-Все готово! Резервнaя копия сделана, вы можете подключиться к MEW
+Все готово! Резервные копии сделаны, вы можете подключиться к MEW
 <br />
 
 
@@ -109,7 +111,7 @@ alias:
 
 **Шаг 3.** Как купить ETH.
 
-Вы можете приобрести ETH в приложении MEWconnect, нажав на верхнюю правую кнопку ‘Купить Ether’ (Buy Ether).
+Вы можете приобрести ETH в приложении MEWconnect, нажав на верхнюю правую кнопку ‘Купить Ether’.
 
 **Шаг 4.** Как поделиться своим адресом.
 
