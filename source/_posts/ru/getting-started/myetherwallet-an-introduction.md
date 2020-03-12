@@ -7,55 +7,49 @@ tags:
   - введение
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - get-started
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - ru/getting-started/getting-started-new.html
+  - getting-started/getting-started-new.html
 ---
 
-
-
-
 # __MyEtherWallet: введение__
-##### Мы настоятельно рекомендуем вам прочитать это введение до конца ради безопасности ваших средств.
 ###### {% read_time title "MyEtherWallet: An Introduction" %} минут на чтение
 ***
 
-MyEtherWallet (MEW) — это клиентский интерфейс с открытым исходным кодом, который позволяет пользователям взаимодействовать напрямую с блокчейном Ethereum без необходимости присоединяться к централизованной бирже.
+## MyEtherWallet (MEW) — это клиентский интерфейс с открытым исходным кодом, который позволяет пользователям взаимодействовать напрямую с блокчейном Ethereum без необходимости присоединяться к централизованной бирже.
 
-## __С помощью MEW пользователи могут:__
+## __What can I do with MEW?__
 
-
-* [Создать](/@@@@@@/getting-started/how-to-create-a-wallet/) новый ETH-кошелек.
-* [Отправлять](/@@@@@@/transactions/how-to-send-a-transaction/) и получать токены ETH и ERC20.
-* [Получать доступ](/@@@@@@/getting-started/how-to-access-your-wallet/) к множеству существующих кошельков, включая наше приложение MEWconnect, расширения для Chrome MEW CX и MetaMask, и партнерские аппаратные кошельки.
+* [Create](/@@@@@@/getting-started/how-to-create-a-wallet/) your own unique Ethereum wallet.
+* [Send](/@@@@@@/transactions/how-to-send-a-transaction/) and receive ETH and tokens.
+* [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of wallet types, including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
 * [Обменивать](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) растущий список криптовалют, включая ERC20 токены, ETH, ETC, BTC и многое другое!
+* [Explore](/@@@@@@/dapps/using_makerdao/) our DApp store where you can earn on your deposits with Aave, open a vault with MakerDAO, or register and manage your ENS domains.
+* [Send offline](/@@@@@@/offline/using-mew-offline/) through the use of our Offline Helper.
 * Применять умные контракты (smart contracts) и взаимодействовать с ними.
-* Отправлять транзакции оффлайн, используя наш Оффлайн Ассистент.
-* Регистрировать и управлять доменами и субдоменами ENS.
-* Открывать Vault с MakerDAO и зарабатывать проценты на DAI.
-* Пользоваться множеством образовательных материалов из нашей [Базы знаний](https://kb.myetherwallet.com/).
+* Access a wealth of educational material from our Knowledge Base.
 
 ## __Что значит "открытый исходный код" и "клиентский"?__
 
 * "Открытый исходный код" означает, что любой человек может просматривать и копировать наш код и предлагать изменения в нем на [GitHub](https://github.com/MyEtherWallet).
 * "Клиентский" означает, что у нас нет скрытых серверов.
-* Средства и данные не хранятся на нашем сайте.
+* We don't see your funds, we don't know your IP. No information or funds are stored on our site.
 * Пользователь полностью контролирует собственную безопасность и конфиденциальность.
-
-
 
 ## __Где тогда хранятся мои средства?__
 
-* Все ETH и токены ERC20 хранятся на блокчейне Ethereum.
+* All ETH and tokens are stored on the Ethereum blockchain.
 * При использовании любого сайта, биржи, аппаратного кошелька и интерфейса на базе блокчейна, вся криптовалюта хранится на самом блокчейне. Эти платформы и аппаратные кошельки просто позволяют нам упростить взаимодействие с блокчейном.
 * Блокчейн Ethereum не принадлежит никакому централизованному субъекту. Он проверяется и поддерживается тысячами удаленно взаимодействующих с ним людей, которые называются майнерами и вкладывают свое время и энергию, чтобы поддерживать эти процессы.
 * Именно поэтому наш сайт и такие сайты, как [Etherscan](https://etherscan.io/) и [Ethplorer](https://ethplorer.io), могут получать информацию о вашем кошельке. Не потому, что у них есть скрытые серверы, а потому что они получают информацию из самого блокчейна.
 
+<br>
 
+##### __
 
 ## __MEW — это НЕ банк и НЕ биржа.__
 #### __Что это значит?__
@@ -66,13 +60,16 @@ MyEtherWallet (MEW) — это клиентский интерфейс с отк
 * Мы не храним имена, адреса электронной почты и прочую информацию о наших пользователях.
 * Доступ к вашим средствам есть только у вас.
 
-<div class="reminder">
-Давайте повторим это еще раз: вы сами несете ответственность за свои средства и данные.
-</div>
+<br>
+
+##### __
+
 
 ## __Как обеспечить свою безопасность?__
 
 * Самый безопасный способ доступа к вашим средствам — это использование аппаратных кошельков, таких как [Ledger Nano S](https://www.ledger.com/?r=fa4b) или [Trezor](https://trezor.io/?offer_id=12&aff_id=2029). Если вы располагаете криптовалютами на более чем $200 в эквиваленте, то у вас мало причин не приобрести аппаратный кошелек.
+* Download our fully-fledged mobile app [MEW wallet](https://www.mewwallet.com/). Это просто, быстро и безопасно.
+* Follow our educational blog [MEWtopia]9] for the latest on MEW and Ethereum.
 * Используя закрытый ключ, хранилище ключей/JSON-файл или мнемоническую фразу, хранить их следует только в физической форме на бумаге или же на автономных компьютерах. Эта информация чрезвычайно важна. И не забывайте делать резервные копии! Если вы потеряете эту информацию, она будет утрачена навсегда.
 * Переходя по URL-адресу, убедитесь, что он ведет на www.myetherwallet.com. Добавьте нас в закладки для использования в будущем!
 * Убедитесь, что в строке URL отображается защищённый замок слева. Если вы нажмете на него, вы увидите "Сертификат (Valid) выдан: MyEtherWallet Inc [US]".
@@ -82,5 +79,6 @@ MyEtherWallet (MEW) — это клиентский интерфейс с отк
 * [Проведите собственное исследование!](http://google.com) Если что-то показалось вам подозрительным, об этом, вероятно, уже говорили в сообществе.
 * Если у вас появились дополнительные вопросы или проблемы, обратитесь к нам! Наша служба поддержки всегда рада помочь. С нами можно связаться по адресу support@myetherwallet.com
 
+<br>
 
-##### Узнать больше о безопасности можно [здесь](/@@@@@@/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/).
+#### __Узнать больше о безопасности можно [здесь](/@@@@@@/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/).__
