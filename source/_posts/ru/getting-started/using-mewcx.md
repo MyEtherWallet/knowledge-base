@@ -11,13 +11,13 @@ tags:
   - cx
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - get-started
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - ru/getting-started/using-mewcx.html
+  - getting-started/using-mewcx.html
 ---
 
 
