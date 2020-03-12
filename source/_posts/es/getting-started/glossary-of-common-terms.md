@@ -169,4 +169,4 @@ alias:
 * Maintained by remote miners all over the world.
 
 
-##### All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome.
+## All feedback, rewrites, clarification, typo-fixing, and requests for additions are more than welcome.
