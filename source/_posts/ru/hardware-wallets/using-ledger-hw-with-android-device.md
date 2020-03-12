@@ -5,15 +5,15 @@ tags:
   - вниз
 categories:
   - 
-    - hardware-wallets
+    - аппаратные-кошельки
 primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
-  - ru/faq/what-happens-if-myetherwallet-goes-down.html
+  - faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
 
-# __Использование аппаратного кошелька Ledger с устройствами Android__
+# __Использование аппаратного кошелька Ledger на Android-устройстве __
 ###### {% read_time title "Using a Ledger Hardware Wallet With an Android Device" %} минут на чтение
 ***
 
