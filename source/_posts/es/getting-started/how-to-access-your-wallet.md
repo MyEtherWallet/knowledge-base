@@ -17,16 +17,23 @@ alias:
 ##### <i>This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to [this article][createWallet].</i>
 ###### {% read_time title "How to Access Your Wallet" %} min read
 ***
-MyEtherWallet (MEW) offers a variety of ways to access one’s Ethereum wallet, by selecting the ‘Access My Wallet’ option on the front page.
+## MyEtherWallet (MEW) offers a variety of ways to access one’s Ethereum wallet, by selecting the ‘Access My Wallet’ option on the front page.
 
-They are, from most to least recommended:
+## __They are, from most to least recommended:__
+
+<br>
 
 * Hardware Wallets ([Ledger Nano S](https://www.ledger.com/?r=fa4b), [Trezor](https://trezor.io/?offer_id=12&aff_id=2029), [Digital Bitbox](https://shiftcrypto.ch/?ref=mew), [Finney](http://shop.sirinlabs.com/?rfsn=2397639.54fdf&utm_source=refersion&utm_medium=affiliate&utm_campaign=2397639.54fdf), etc.)
-* MEW wallet
+* MEW wallet, MEW's official mobile app for iOS and Android.
 * Browser Extensions a.k.a. Web3 (MEW CX, MetaMask, etc.)
-* Keystore/JSON File + Password
-* Mnemonic Phrase + Password
-* Private Key
+* Software
+    * Keystore/JSON File + password
+    * Mnemonic Phrase + extra word (optional)
+    * Private Key
+
+##### __
+
+## __Most Recommended:__
 
 ## __Hardware Wallets__
 
@@ -34,30 +41,30 @@ Hardware wallets use the highest security measures to encrypt a private key with
 
 To learn more about accessing MEW with hardware wallets, reference our [Migrating to/from MEW](/@@@@@@/migration/moving-from-exchange-to-mew/) category.
 
+##### __
 
+<img src="/images/posts/mewconnect/meww3.jpg" width="300px" />
 
 ## __MEW wallet__
 This is our fully fledged MEW mobile app for iOS and Android smartphones. It's simple, fast, and secure to use. When creating a wallet with MEW wallet, your private key is kept encrypted on a secure, local vault in your phone. For backup, you are given a mnemonic phrase (much like the hardware wallets above). The wallet is also accompanied by a pin or password, which is used to unlock it on your device.
 
 To learn more about accessing MEW with MEW wallet, reference our [MEW wallet User Guide](/@@@@@@/mewwallet/mewwallet-user-guide/).
 
+##### __
+
+
+## __Browser Extension (Web3) Wallets:__
+#### __What is [Web3](https://www.mewtopia.com/the-essential-wallet-guide-part-4/)?__
 
 
 
-## __Browser Extension (Web3) Wallets__
-#### __[What is Web3?](https://www.mewtopia.com/the-essential-wallet-guide-part-4/)__
-
-
-
-#### __MEW CX__
+## __MEW CX__
 MEW CX is MyEtherWallet's offical Web3 Chrome Extension wallet. It offers all the functionality of the web-version of MEW in the convenience of an toolbar extension. It also hosts the ability to interact with web-based Dapps, such as CryptoKitties.
 
 MEW CX will come in conflict with any other Web3 wallets you have, such as MetaMask or Brave Browser's in-house wallet. Make sure all other Web3 wallets are disabled before using MEW CX.
 
 
-
-
-#### __To connect MEW with MEW CX__
+## __To connect MEW with MEW CX__
 
 **Step 1.** Install the MEW CX wallet via our Chrome Extension.
 
@@ -76,12 +83,12 @@ MEW CX will come in conflict with any other Web3 wallets you have, such as MetaM
 
 
 
-#### __MetaMask__
+## __MetaMask__
 This is a Chrome Extension that allows the creation of an ethereum-based wallet that keeps one’s private key encrypted within the extension itself. It also generates a 12-word mnemonic phrase for recovery purposes. MetaMask allows users to name their separate wallets, see funds within the extension, and offers the option to import the private key information of a previously created wallet, if desired.
 
 
 
-#### __To connect MEW with MetaMask:__
+## __To connect MEW with MetaMask:__
 #### __This assumes you already have a MetaMask wallet.__
 
 **Step 1.** Login to your MetaMask wallet via their Chrome Extension.
@@ -96,7 +103,9 @@ This is a Chrome Extension that allows the creation of an ethereum-based wallet 
 
 **Step 6.** You're done!
 
+##### __
 
+## __These methods are not recommended:__
 
 ## __Keystore/JSON + Password__
 The Keystore/JSON is a file that holds an encrypted version of one’s private key. This key is encrypted with a chosen password by the user. As such, it is impossible to change the password for these files. The only way to change the password is to make a completely new Keystore file, which can be achieved in our MEW Chrome Extension with one’s private key. Keystore files should not be opened. They are only to be utilized when accessing the Keystore/JSON option on our site and when prompted for one’s ‘JSON file’. You can read more about the functionality of a Keystore/JSON file [here](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).
