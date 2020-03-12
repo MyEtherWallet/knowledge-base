@@ -17,15 +17,15 @@ alias:
 ###### {% read_time title "Руководство пользователя MEWconnect" %} мин. на прочтение
 ***
 
-MEW's official fully-fledged mobile app MEW wallet is available! [Download it now](/@@@@@@/mewwallet/mewwallet-user-guide/) for iOS or Android and migrate your wallet for free!
+Официальное полнофункциональное мобильное приложение MEW wallet теперь доступно! [Скачайте сейчас](/@@@@@@/mewwallet/mewwallet-user-guide/) для iOS или Android и переместите свой кошелек MEWconnect бесплатно!
 
 
 <img class="image-right" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%" />
 
 ## __1. Создание кошелька__
-**Step 1.** Open your MEWconnect app.
+**Шаг 1.** Откройте ваше приложение MEWconnect.
 
-**Step 2.** Click "Create New Wallet".
+**Шаг 2.**Нажмите "Создать новый кошелек" (Create New Wallet).
 
 **Step 3.** Pick a strong password.
 
