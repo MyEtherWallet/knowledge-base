@@ -17,7 +17,7 @@ primary_category_display_name: "MEWwallet"
 
 <img src="/images/posts/mewconnect/meww1.png" width="70%" /> <img src="/images/posts/mewconnect/meww2.png" width="70%" /> <img src="/images/posts/mewconnect/meww3.png" width="70%" />
 
-MEW wallet is MEW’s official fully-fledged mobile app. It's simple, fast, and secure.
+MEW кошелек - это официальное полнофункциональное мобильное приложение MEW. Оно простое в использовании, быстрое и безопасное.
 
 Чтобы начать исследовать Ethereum со своего мобильного устройства, [скачайте MEW wallet](https://www.mewwallet.com/) на телефон с системой iOS или Android.
 
@@ -66,14 +66,14 @@ MEW wallet is MEW’s official fully-fledged mobile app. It's simple, fast, and 
 
 
 ## __Купите ETH, чтобы начать исследовать Ethereum:__
-Everything on the Ethereum blockchain requires ETH for gas. You’ll need to acquire ETH to get started.
+Любое действие на блокчейне Ethereum требует ETH в качестве топлива (gas). Поэтому для начала, вам потребуется приобрести ETH.
 
-**Step 1.** Select ‘Buy Ether’ on the main page of the MEW wallet app.
+**Шаг 1.** Выберите "Купить эфир" на главной странице приложения MEW wallet.
 
 <img src="/images/posts/mewconnect/mcreate7.png" width="70%" />
 
-**Step 2.** Select the amount you’d like to buy, or enter a custom amount (up to $250 worth).
-* If you're using iOS, Apply Pay makes buying ETH as easy as clicking a button!
+**Шаг 2.** Выберите сумму, которую вы хотите приобрести, или введите свою сумму (до 250 долларов США в эквиваленте).
+* Если вы используете iOS, Apply Pay позволяет покупать ETH одним нажатием кнопки!
 
 <img src="/images/posts/mewconnect/mewwallet1.png" width="70%" />
 
@@ -81,31 +81,31 @@ Everything on the Ethereum blockchain requires ETH for gas. You’ll need to acq
 
 <img src="/images/posts/mewconnect/mbuyeth2.png" width="70%" />
 
-**Step 3.** After being redirected to Wyre or Simplex, enter your details and finish the purchase.
+**Шаг 3.** Оказавшись на странице Wyre или Simplex, введите ваши данные и завершите покупку.
 
 
 <img src="/images/posts/mewconnect/mbuyeth3.png" width="70%" />
 
-**Step 4.** Your new balance will reflect in your account!
+**Шаг 4.** Ваш новый баланс отобразится в аккаунте!
 
 
 ## __Добавьте больше аккаунтов:__
-Create as many accounts as you want for savings, privacy, or organized token storage.
+Создавайте любое количество аккаунтов для сбережений, обеспечения конфиденциальности или организованного хранения токенов.
 
-**Step 1.** Swipe left on your main account and select ‘Add account’.
+**Шаг 1.** Проведите пальцем влево, чтобы перейти к главному аккаунту, и выберите "Добавить аккаунт".
 
 <img src="/images/posts/mewconnect/madd1.png" width="70%" />
 
-**Step 2.** Think of a nickname for this account, then choose ‘Add’.
+**Шаг 2.** Придумайте псевдоним для этого аккаунта и нажмите "Добавить".
 
 <img src="/images/posts/mewconnect/madd2.png" width="70%" />
 
-**Step 3.** Your new account should generate.
+**Шаг 3.** Вы должны увидеть генерирование нового аккаунта.
 * Этот аккаунт также связан с фразой для восстановления из раздела "Резервное копирование вашего аккаунта".
 * При восстановлении вашего главного аккаунта также будут восстановлены все связанные с ним аккаунты.
 
 <img src="/images/posts/mewconnect/madd3.png" width="70%" />
 
-**Step 4.** If you want to view all your accounts or hide any of them, you can do so through ‘Manage accounts’.
+**Шаг 4.** Если вы хотите просмотреть все ваши аккаунты или скрыть какие-то из них, вы можете сделать это в разделе "Управление аккаунтами".
 
 <img src="/images/posts/mewconnect/madd4.png" width="70%" />
