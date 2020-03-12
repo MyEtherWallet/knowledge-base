@@ -29,26 +29,26 @@ alias:
 
 **Шаг 3.** Выберите надежный пароль.
 
-Этот шаг очень важен. Make sure you pick a password that is not easy to guess, but also write it down with pen and paper. There is only one other way to access your wallet, and we’ll get to that soon.
+Этот шаг очень важен. Убедитесь, что вы выбрали пароль, который сложно подобрать, а затем запишите его ручкой на бумаге. Есть только один другой способ получения доступа к вашему кошельку, к которому мы скоро обратимся.
 
-**Step 4.** Type it again.
+**Шаг 4.** Введите пароль еще раз.
 
-**Step 5.** Click "Start using MEWconnect".
+**Шаг 5.** Нажмите "Начать пользоваться MEWconnect" (Start Using MEWconnect).
 
-Все готово! You’ll be taken to a screen that shows your new wallets address backed by a unique color-code. On this screen you’ll find all your ETH and ERC20 tokens that we support in our default list. Custom tokens can only be seen using our web interface.
+Все готово! Вы попадете на экран, на котором будет указан адрес вашего нового кошелька, подсвеченный уникальным цветовым кодом. На этом экране вы найдете все ваши ETH и ERC20 токены, которые мы поддерживаем в нашем списке по умолчанию. Кастомные токены могут быть просмотрены только через наш веб-интерфейс.
 <br />
 
 
 <img class="image-left" src="/images/posts/mewconnect/BackupMC.png" align="left" width="30%" />
 
 ## __2. Создание резервной копии__
-**Step 1.** Select "Back Up" on your wallets homepage.
+**Шаг 1.** Выберите "Резервное копирование" (Back Up) на главной странице вашего кошелька.
 
-**Step 2.** Click "Back Up Now".
+**Шаг 2.** Нажмите "Выполнить резервное копирование сейчас" (Back Up Now).
 
-**Step 3.** Get a pen and paper ready. Then press ‘Start’.
+**Шаг 3.** Приготовьте ручку и бумагу. Нажмите ‘Начать' (Start).
 
-**Step 4.** Enter in your password to verify you’re you.
+**Шаг 4.** Введите ваш пароль, чтобы подтвердить, что это вы.
 
 **Step 5.** WRITE DOWN YOUR SEED WORDS.
 
