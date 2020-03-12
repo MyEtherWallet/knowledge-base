@@ -103,6 +103,6 @@ MEW кошелек - это официальное полнофункциона�
 
 <img src="/images/posts/mewconnect/madd3.png" width="70%" />
 
-**Step 4.** If you want to view all your accounts or hide any of them, you can do so through ‘Manage accounts’.
+**Шаг 4.** Если вы хотите просмотреть все ваши аккаунты или скрыть какие-то из них, вы можете сделать это в разделе "Управление аккаунтами".
 
 <img src="/images/posts/mewconnect/madd4.png" width="70%" />
