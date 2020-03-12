@@ -13,7 +13,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - ru/getting-started/getting-back-to-basics-tips-for-newbies.html
+  - getting-started/getting-back-to-basics-tips-for-newbies.html
 ---
 
 
