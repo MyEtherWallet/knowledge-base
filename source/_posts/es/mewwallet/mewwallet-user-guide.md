@@ -73,16 +73,13 @@ Everything on the Ethereum blockchain requires ETH for gas. You’ll need to acq
 <img src="/images/posts/mewconnect/mcreate7.png" width="70%" />
 
 **Step 2.** Select the amount you’d like to buy, or enter a custom amount (up to $250 worth).
-* If you're using iOS, Apply Pay makes buying ETH as easy as clicking a button!
+* If you're using iOS in the US, Apply Pay makes buying ETH as easy as clicking a button!
 
-<img src="/images/posts/mewconnect/mewwallet1.png" width="70%" />
-
-<img src="/images/posts/mewconnect/mewwallet2.png" width="70%" />
+<img src="/images/posts/mewconnect/mewwallet1.png" width="70%" /> <img src="/images/posts/mewconnect/mewwallet2.png" width="70%" />
 
 <img src="/images/posts/mewconnect/mbuyeth2.png" width="70%" />
 
 **Step 3.** After being redirected to Wyre or Simplex, enter your details and finish the purchase.
-
 
 <img src="/images/posts/mewconnect/mbuyeth3.png" width="70%" />
 
