@@ -19,16 +19,32 @@ alias:
 ###### {% read_time title "How to Create a Wallet" %} min read
 ***
 
-MyEtherWallet (MEW) offers three ways to create a new ETH wallet. 
+## MyEtherWallet (MEW) offers four ways to create a new ETH wallet.
 
-Out of the three, we highly suggest creating your wallet with our smartphone app, MEW wallet. This is the best option for the security and safekeeping of your information. To learn more about creating your wallet with MEW wallet, click [here][mewwallet].
+<br>
 
-The other two options we offer are by Keystore/JSON file and Mnemonic Phrase. 
-*These are **not** recommended ways to create and access your wallet.*
+##### __
 
-The following information is for those who wish to proceed, regardless of our warnings. If you’re going to do something, learn to do it safely. We highly suggest you [access MEW offline][offline] when using these options.
+## __Recommended Methods:__
+
+## __MEW wallet__ - MEW's official mobile app
+#### __This is the best option for the security and safekeeping of your information. Explore Ethereum on your mobile device.__
+To learn more about creating your wallet with MEW wallet, click [here][mewwallet].
 
 
+## __MEW CX__ - MEW's Browser Extension
+#### __The entirety of MEW is available in a bite-size extension. Connect to your favorite DApps and make use of the QuickSend feature.__
+
+To learn more about creating your wallet with MEW CX, click [here][mewcx].
+
+##### __
+
+## __Not Recommended:__
+
+<br>
+
+#### These are **not** recommended ways to create and access your wallet.
+#### We highly suggest you [access MEW offline][offline] when using these options.
 
 ## __Before we continue, a few words of caution:__
 
@@ -36,8 +52,6 @@ The following information is for those who wish to proceed, regardless of our wa
 * Do not keep this information on a device connected to the internet. Hackers can and will find it in your hard drive. 
 * Choose strong passwords and write everything down, in multiple locations.
 * We cannot recover this information for you.
-
-
 
 ## __Keystore/JSON__
 #### *Read more about what a Keystore/JSON file is [here][keystoreJson].*
@@ -58,8 +72,6 @@ The following information is for those who wish to proceed, regardless of our wa
 
 **Step 6.** Now you’re done, and ready to access your wallet!
 
-
-
 ## __Mnemonic Phrase__
 #### *Read more about what a Mnemonic Phrase is [here][mnemonic].*
 
@@ -79,12 +91,15 @@ The following information is for those who wish to proceed, regardless of our wa
 
 **Step 6.** Now pass a quick test, and you’re done! You’re ready to access your wallet.
 
+##### __
+
+## __For more information on how to access your new wallet, click [here][accessWallet].__
 
 
-For more information on how to access your new wallet, click [here][accessWallet].
 
 [mewwallet]: /@@@@@@/mewwallet/mewwallet-user-guide/
 [offline]: /@@@@@@/offline/offline-mew-looks-weird/
 [keystoreJson]: /@@@@@@/security-and-privacy/what-is-a-keystore-file/
 [mnemonic]: /@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/
 [accessWallet]: /@@@@@@/getting-started/how-to-access-your-wallet/
+[mewcx]: /@@@@@@/getting-started/using-mewcx.md/
