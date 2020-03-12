@@ -17,6 +17,8 @@ alias:
 ###### {% read_time title "MEWconnect User Guide" %} min read
 ***
 
+MEW's official fully-fledged mobile app MEW wallet is available! [Download it now](/@@@@@@/mewwallet/mewwallet-user-guide/) for iOS or Android and migrate your wallet for free!
+
 
 <img class="image-right" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%" />
 
