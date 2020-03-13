@@ -17,15 +17,15 @@ primary_category_display_name: "MEWwallet"
 
 <img src="/images/posts/mewconnect/meww1.jpg" width="150px" /><img src="/images/posts/mewconnect/meww2.jpg" width="250px" /><img src="/images/posts/mewconnect/meww3.jpg" width="350px" />
 
-## __MEW wallet__ is MEW’s official fully-fledged mobile app. It's simple, fast, and secure.
+## __MEW кошелек__ - это официальное полнофункциональное мобильное приложение MEW. Оно простое в использовании, быстрое и безопасное.
 
-## To begin exploring Ethereum on your mobile device, [download MEW wallet](https://www.mewwallet.com/) on your iOS or Android phone.
+## Чтобы начать исследовать Ethereum со своего мобильного устройства, [скачайте MEW wallet](https://www.mewwallet.com/) на телефон с системой iOS или Android.
 
 <br>
 
 ##### __
 
-## __Create a New Wallet__
+## __Создать Новый Кошелек__
 
 #### __Receive a unique public address and color combination tied to your new account.__
 
