@@ -31,22 +31,22 @@ primary_category_display_name: "MEWwallet"
 
 <br>
 
-**Step 1.** Open the MEW wallet app.
+**Шаг 1.** Откройте приложение MEW wallet.
 
-**Step 2.** Select ‘Create a free wallet’.
+**Шаг 2.** Выберите "Создать бесплатный кошелек".
 
 <img src="/images/posts/mewconnect/mcreate1.jpg" width="350px" />
 
-**Step 3.** Read the safety tips! Then click ‘Create a wallet’.
+**Шаг 3.** Прочитайте советы о безопасности! Затем нажмите "Создать кошелек".
 
 <img src="/images/posts/mewconnect/mcreate2.jpg" width="350px" /> <img src="/images/posts/mewconnect/mcreate3.jpg" width="350px" />
 
-**Step 4.** Choose a strong pin code.
+**Шаг 4.** Выберите надежный Pin-код.
 * Вы также можете включить биометрический доступ, например, по отпечатку пальца или с помощью распознавания лица.
 
 <img src="/images/posts/mewconnect/mcreate4.jpg" width="350px" /> <img src="/images/posts/mewconnect/mcreate5.jpg" width="350px" />
 
-**Step 5.** Wait for your account to generate, then select ‘Start using MEW wallet’.
+**Шаг 5.** Подождите, пока будет сгенерирован ваш аккаунт, а затем выберите "Начать пользоваться MEW wallet".
 
 <img src="/images/posts/mewconnect/mcreate6.jpg" width="350px" /> <img src="/images/posts/mewconnect/mcreate7.jpg" width="350px" />
 
@@ -55,41 +55,41 @@ primary_category_display_name: "MEWwallet"
 
 ## __Back Up Your Account__
 
-#### __This step is crucial if you plan on using your wallet in the long term. We cannot recover your account for you, so you must keep track of this information yourself.__
+#### __Это шаг очень важен, если вы собираетесь использовать ваш кошелек на протяжении длительного времени. Мы не сможем восстановить ваш аккаунт для вас, поэтому вам необходимо хранить эту информацию.__
 
 <br>
 
-**Step 1.** After creating your wallet, select 'Backup Now'. Read the warning and continue.
+**Шаг 1.** После создания кошелька, выберите "Создать резервную копию сейчас (Back up now)". Прочитайте предупреждение и перейдите к следующему шагу.
 * Вы также можете перейти в "Настройки", а затем выбрать "Посмотреть фразу для восстановления".
 
 <img src="/images/posts/mewconnect/mbackup1.jpg" width="350px" />
 
 <img src="/images/posts/mewconnect/mbackup2.jpg" width="350px" />
 
-**Step 2.** Get a pen and a piece of paper, then write down the 24 words that appear.
+**Шаг 2.** Возьмите ручку и лист бумаги, и запишите появившиеся 24 слова.
 * Сохраняйте порядок слов, которые вы видите, и тщательно проверьте, правильно ли они записаны.
 * Лучше всего записать эту фразу 2-3 раза на разных листах бумаги и хранить их в разных безопасных местах.
 * Мы не сможем восстановить эту фразу для вас, но любой человек, у которого есть доступ к ней, получит постоянный доступ к вашим средствам.
 
 <img src="/images/posts/mewconnect/mbackup3.jpg" width="350px" />
 
-**Step 3.** Pass a quick test on the device, and you're done!
+**Шаг 3.** Пройдите небольшую проверку на устройстве, и готово!
 
 <img src="/images/posts/mewconnect/mbackup4.jpg" width="350px" />
 
 ##### __
 
-## __Buy ETH to Start Exploring__
+## __Купите ETH, чтобы начать исследовать Ethereum__
 
-#### __Everything on the Ethereum blockchain requires ETH for gas. You’ll need to buy ETH to get started.__
+#### __Любое действие на блокчейне Ethereum требует ETH в качестве топлива (gas). Поэтому для начала, вам потребуется купить ETH.__
 
 <br>
 
-**Step 1.** Select ‘Buy Ether’ on the main page of the MEW wallet app.
+**Шаг 1.** Выберите "Купить эфир" на главной странице приложения MEW wallet.
 
 <img src="/images/posts/mewconnect/mcreate7.jpg" width="350px" />
 
-**Step 2.** Select the amount you’d like to buy, or enter a custom amount (up to $250 worth).
+**Шаг 2.** Выберите сумму, которую вы хотите приобрести, или введите свою сумму (до 250 долларов США в эквиваленте).
 * If you're using an iOS device in the US, Apply Pay makes buying ETH as easy as clicking a button!
 
 <img src="/images/posts/mewconnect/mewwallet1.png" width="350px" /> <img src="/images/posts/mewconnect/mewwallet2.png" width="350px" />
