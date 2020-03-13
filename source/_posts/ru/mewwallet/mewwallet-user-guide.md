@@ -96,34 +96,34 @@ primary_category_display_name: "MEWwallet"
 
 <img src="/images/posts/mewconnect/mbuyeth2.jpg" width="350px" />
 
-**Step 3.** After being redirected to Wyre or Simplex, enter your details and finish the purchase.
+**Шаг 3.** Оказавшись на странице Wyre или Simplex, введите ваши данные и завершите покупку.
 
 <img src="/images/posts/mewconnect/mbuyeth3.jpg" width="350px" />
 
-**Step 4.** Your new balance will reflect in your account shortly!
+**Шаг 4.** Ваш новый баланс отобразится в аккаунте в ближайшее время!
 
 ##### __
 
-## __Add More Accounts__
+## __Добавьте Больше Аккаунтов__
 
-#### __Create as many accounts as you want for savings, privacy, or organized token storage.__
+#### __Создавайте любое количество аккаунтов для сбережений, обеспечения конфиденциальности или организованного хранения токенов.__
 
 <br>
 
-**Step 1.** Swipe left on your main account and select ‘Add account’.
+**Шаг 1.** Проведите пальцем влево, чтобы перейти к главному аккаунту, и выберите "Добавить аккаунт".
 
 <img src="/images/posts/mewconnect/madd1.jpg" width="350px" />
 
-**Step 2.** Think of a nickname for this account, then choose ‘Add’.
+**Шаг 2.** Придумайте псевдоним для этого аккаунта и нажмите "Добавить".
 
 <img src="/images/posts/mewconnect/madd2.jpg" width="350px" />
 
-**Step 3.** Your new account should generate.
+**Шаг 3.** Вы должны увидеть генерирование нового аккаунта.
 * Этот аккаунт также связан с фразой для восстановления из раздела "Резервное копирование вашего аккаунта".
 * При восстановлении вашего главного аккаунта также будут восстановлены все связанные с ним аккаунты.
 
 <img src="/images/posts/mewconnect/madd3.jpg" width="350px" />
 
-**Step 4.** If you want to view all your accounts or hide any of them, you can do so through ‘Manage accounts’.
+**Шаг 4.** Если вы хотите просмотреть все ваши аккаунты или скрыть какие-то из них, вы можете сделать это в разделе "Управление аккаунтами".
 
 <img src="/images/posts/mewconnect/madd4.jpg" width="350px" />
