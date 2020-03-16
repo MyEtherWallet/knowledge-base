@@ -10,12 +10,12 @@ categories:
   - 
     - транзакции
 primary_category: транзакции
-primary_category_display_name: "Transactions"
+primary_category_display_name: "Транзакции"
 alias:
   - transactions/transactions-not-showing-or-pending.html
 ---
 
-# __Transactions are 'Not Found' or 'Pending' Forever__
+# __Транзакции застряли в статусе «Не найдено» или «В ожидании»__
 ###### Время прочтения: {% read_time title "Транзакции застряли в статусе «Не найдено» или «В ожидании»" %} мин.
 ***
 
