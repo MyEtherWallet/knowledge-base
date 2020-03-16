@@ -53,7 +53,7 @@ primary_category_display_name: "MEWwallet"
 ##### __
 
 
-## __Back Up Your Account__
+## __Резервное копирование (Back Up) вашего аккаунта__
 
 #### __Это шаг очень важен, если вы собираетесь использовать ваш кошелек на протяжении длительного времени. Мы не сможем восстановить ваш аккаунт для вас, поэтому вам необходимо хранить эту информацию.__
 
@@ -90,7 +90,7 @@ primary_category_display_name: "MEWwallet"
 <img src="/images/posts/mewconnect/mcreate7.jpg" width="350px" />
 
 **Шаг 2.** Выберите сумму, которую вы хотите приобрести, или введите свою сумму (до 250 долларов США в эквиваленте).
-* If you're using an iOS device in the US, Apply Pay makes buying ETH as easy as clicking a button!
+* Если вы используете iOS в США, Apply Pay позволяет покупать ETH одним нажатием кнопки!
 
 <img src="/images/posts/mewconnect/mewwallet1.png" width="350px" /> <img src="/images/posts/mewconnect/mewwallet2.png" width="350px" />
 
