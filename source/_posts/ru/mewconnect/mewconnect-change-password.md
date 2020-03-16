@@ -11,7 +11,7 @@ primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 ---
 
-# __Как изменить пароль на MEWconnect__
+# __How to Change Your Password on MEWconnect__
 ###### {% read_time title "Как изменить пароль на MEWconnect" %} мин. на прочтение
 ***
 
