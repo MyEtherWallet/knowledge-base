@@ -8,10 +8,10 @@ categories:
   - 
     - diving-deeper
 primary_category: diving-deeper
-primary_category_display_name: "Diving Deeper"
+primary_category_display_name: "Более глубокое ознакомление"
 ---
 
-# __What is a Smart Contract?__
+# __Что такое умный контракт (smart contract)?__
 ###### {% read_time title "What is a Smart Contract?" %} минут на чтение
 ***
 
