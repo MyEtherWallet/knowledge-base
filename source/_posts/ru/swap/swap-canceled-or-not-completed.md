@@ -2,9 +2,9 @@
 title: "Обмен был отменен или не был завершен"
 date: 2018-06-01 00:02:00
 tags:
-  - funds
-  - fund
-  - stolen
+  - средства
+  - средства
+  - украли
 categories:
   - 
     - swap
@@ -14,7 +14,7 @@ alias:
   - swap/swap-wasnt-completed-or-was-canceled.html
 ---
 
-# __Swap Was Canceled or Wasn’t Completed__
+# __Обмен был отменен или не был завершен__
 ###### Время прочтения: {% read_time title "Обмен был отменен или не был завершен" %} мин.
 ***
 
