@@ -16,7 +16,7 @@ alias:
   - networks/sent-etc-to-eth-address.html
 ---
 
-# __How to Change Networks (Access Ropsten, ETC, and more!)__
+# __Как изменить сеть (получение доступа к Ropsten, ETC и многим другим сетям).__
 ###### {% read_time title "Как изменить сеть (получение доступа к Ropsten, ETC и другим сетям)." %} мин. на прочтение
 ***
 
