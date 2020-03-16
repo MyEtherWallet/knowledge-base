@@ -4,7 +4,7 @@ date: 2018-04-01 00:02:00
 tags:
   - mewconnect
   - резервная копия
-  - кошелек
+  - wallet
 categories:
   - 
     - mewconnect
@@ -14,7 +14,7 @@ alias:
   - mewconnect/mew-connect-101-backup.html
 ---
 
-# __MEWconnect 101: Резервная копия кошелька__
+# __MEWconnect 101: Backup Your Wallet__
 ###### {% read_time title "MEWconnect 101: Резервная копия кошелька" %} мин. на прочтение
 ***
 
