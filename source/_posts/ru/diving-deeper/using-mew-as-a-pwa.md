@@ -2,18 +2,18 @@
 title: "Использование MEW в качестве прогрессивного веб-приложения (PWA)"
 date: 2018-06-01 00:06:00
 tags:
-  - down
+  - вниз
 categories:
   - 
     - diving-deeper
 primary_category: diving-deeper
-primary_category_display_name: "Diving Deeper"
+primary_category_display_name: "Более глубокое ознакомление"
 alias:
   - faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
 
-# __Using MEW as a Progressive Web App (PWA)__
+# __Использование MEW в качестве прогрессивного веб-приложения (PWA)__
 ###### {% read_time title "Using MEW as a Progressive Web App (PWA)" %} минут на чтение
 ***
 
