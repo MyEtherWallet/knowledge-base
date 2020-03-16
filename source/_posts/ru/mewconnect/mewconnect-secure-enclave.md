@@ -13,7 +13,7 @@ alias:
   - mewconnect/mew-connect-secure-enclave.html
 ---
 
-# __Хранит ли MEWconnect закрытый ключ в безопасном хранилище ('Secure Enclave') на iPhone?__
+# __Does MEWconnect Store the Private Key in iPhone's 'Secure Enclave'?__
 ###### {% read_time title "Хранит ли MEWconnect закрытый ключ в безопасном хранилище ('Secure Enclave') на iPhone?" %} мин. на прочтение
 ***
 
