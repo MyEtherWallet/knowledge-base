@@ -14,7 +14,7 @@ alias:
   - diving-deeper/myetherapi-api-limits.html
 ---
 
-# __Есть ли у API MEW лимит на количество возможных запросов?__
+# __Does MEW API Have a Limit on the Amount of Requests I Can Make?__
 ###### {% read_time title "Does MEW API Have a Limit on the Amount of Requests I Can Make?" %} минут на чтение
 ***
 
