@@ -33,23 +33,23 @@ privacy: Конфиденциальность
 terms: Условия
 copyright: '© 2020 MyEtherWallet. Все права защищены.'
 index:
-  intro: Введение
-  get_started: С чего начать
-  common_issues: Распространенные проблемы
-  diving_deeper: Более глубокое ознакомление
+  intro: Introduction
+  get_started: Get Started
+  common_issues: Common Issues
+  diving_deeper: Diving Deeper
   access_wallet: Доступ к кошельку
   mewconnect: MEWconnect
   mewwallet: MEWwallet
   private_keys_password: Закрытые ключи и пароль
-  hardware_wallet: Аппаратный кошелек (hardware wallet)
+  hardware_wallet: Hardware Wallet
   migrating: Миграция
   security_privacy: Безопасность и конфиденциальность
   security: Безопасность
   functions: Функции
-  tokens: Токены
+  tokens: Tokens
   offline: Оффлайн
   network_and_nodes: Сеть и узлы
-  transactions: Транзакции
+  transactions: Transactions
   swap: Обмен
   ens: ENS
   v5: MEW V5
