@@ -12,7 +12,7 @@ categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Транзакции"
+primary_category_display_name: "Transactions"
 ---
 
 # __Внутренние транзакции: что это такое?__
