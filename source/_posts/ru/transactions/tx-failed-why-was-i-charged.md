@@ -11,12 +11,12 @@ categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Транзакции"
+primary_category_display_name: "Transactions"
 alias:
   - transactions/transaction-fee-not-refunded.html
 ---
 
-# __Моя транзакция не «прошла». Почему с меня списали средства?__
+# __My Transaction Failed. Why Was I Charged?__
 ###### Время прочтения: {% read_time title "Моя транзакция не «прошла». Почему с меня списали средства?" %} мин.
 ***
 
