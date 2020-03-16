@@ -14,14 +14,14 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - ru/getting-started/whats-the-difference-between-an-exchange-and-myetherwallet.html
+  - getting-started/whats-the-difference-between-an-exchange-and-myetherwallet.html
 ---
 
 # __В чем разница между биржами (такими как Coinbase, Kraken, Gemini, Binance и т. п.) и MyEtherWallet?__
 ###### {% read_time title "What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?" %} минут на чтение
 ***
 
-Ваши токены ETH и ERC20 находятся на блокчейне Ethereum независимо от того, какой сервис вы используете для доступа к ним. Когда вы их перемещаете, вы отправляете их с одного адреса на блокчейне на другой. Это просто строки кода. В файле вашего кошелька, в аппаратном кошельке, в интерфейсе, с которым вы взаимодействуете, и в вашем закрытом ключе средств нет. Это просто способы доступа, которые дают вам возможность доказать владение монетами, находящимися на самом блокчейне.
+Your ETH & tokens are on the Ethereum blockchain, regardless of what service you use to access them. Когда вы их перемещаете, вы отправляете их с одного адреса на блокчейне на другой. These are lines of code. Your wallet file, hardware wallet, the interface you interact with, or your private key do not have funds in them. These are ways of access, which give you the ability to prove ownership over digital coins that are on the blockchain itself.
 
 **Если вы используете клиентский инструмент, такой как MyEtherWallet или Mist, Metamask, Exodus или Jaxx,**, у вас есть закрытый ключ (или похожий способ доступа), и вы контролируете свои средства *и* свой ключ. Вы не полагаетесь на Coinbase или Gemini при отправке ваших средств с их аккаунта на ваш.
 

@@ -10,13 +10,13 @@ tags:
   - токены
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
-    - token
+    - токен
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - ru/tokens/nft-manager.html
+  - tokens/nft-manager.html
 ---
 
 # __Невзаимозаменяемые токены (NFTs)__
