@@ -1,30 +1,30 @@
 ---
-title: "Не удается подключиться к аппаратному кошельку"
+title: "Unable to Connect to Hardware Wallet"
 date: 2018-06-01 00:06:00
 tags:
-  - ошибка
-  - подключиться
-  - аппаратный
-  - кошелек
+  - error
+  - connect
+  - hardware
+  - wallet
 categories:
   - 
-    - аппаратные-кошельки
-primary_category: аппаратные-кошельки
-primary_category_display_name: "Аппаратные кошельки"
+    - hardware-wallets
+primary_category: hardware-wallets
+primary_category_display_name: "Hardware Wallets"
 alias:
   - hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
 ---
 
-# __Не удается подключиться к аппаратному кошельку__
-###### {% read_time title "Unable to Connect to Hardware Wallet" %} минут на чтение
+# __Unable to Connect to Hardware Wallet__
+###### {% read_time title "Unable to Connect to Hardware Wallet" %} min read
 ***
 
-## __Большинство проблем с подключением можно решить, следуя этим советам по устранению неисправностей:__
+## __Most issues with connection can be solved by following these troubleshooting tips:__
 
-* Перезагрузите компьютер. (Не ленитесь, сначала перезагрузите!)
-* Используйте Google Chrome и выполните жесткую перезагрузку (CTRL+F5 или Command+F5).
-* Убедитесь, что у вас не открыты другие приложения, которые могут использовать ваш аппаратный кошелек, такие как Ledger Live для Ledger. (Он открывается автоматически).
-* Попробуйте другой USB-кабель.
-* Убедитесь, что у вас последняя версия прошивки.
+* Restart your computer. (Don’t be lazy, restart it first!)
+* Use Google Chrome and perform a hard refresh (CTRL+F5 or Command+F5).
+* Make sure you don’t have any other applications open that may be using your hardware wallet, i.e. Ledger Live for Ledger. (This opens automatically).
+* Try a different USB cable.
+* Make sure all your firmware is updated to its most recent version.
 
-Если ни один из этих способов не работает, напишите нам на support@myetherwallet.com. Пожалуйста, предоставьте максимально подробную информацию о ваших действиях.
+If none of these options work, email us at support@myetherwallet.com. Please include as much information about your process as possible.
