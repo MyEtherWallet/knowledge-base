@@ -2,25 +2,25 @@
 title: "Советы: как избежать фишинга / мошенничества"
 date: 2018-06-01 00:03:00
 tags:
-  - faqs
+  - ЧЗВ
   - избежать
   - фишинга
   - мошенничества
   - мошенничество
-  - tips
-  - tip
+  - советы
+  - совет
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Security And Privacy"
+primary_category_display_name: "Безопасность и Приватность"
 alias:
   - security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
 ---
 
-# __Pro-Tips: How to Avoid Phishing/Scams__
+# __Советы: как избежать фишинга / мошенничества__
 #### __Мы составили список советов и приемов, которые помогут избежать распространенных способов фишинга и мошенничества.__
 ###### Время прочтения: {% read_time title "Подсказки: как избежать фишинга / мошенничества" %} мин.
 ***
