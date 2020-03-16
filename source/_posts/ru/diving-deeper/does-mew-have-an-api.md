@@ -7,12 +7,12 @@ categories:
   - 
     - diving-deeper
 primary_category: diving-deeper
-primary_category_display_name: "Diving Deeper"
+primary_category_display_name: "Более глубокое ознакомление"
 alias:
   - diving-deeper/does-myetherwallet-have-an-api.html
 ---
 
-# __Does MyEtherWallet have an API?__
+# __Есть ли у MyEtherWallet API?__
 ###### {% read_time title "Does MyEtherWallet have an API?" %} минут на чтение
 ***
 
@@ -24,7 +24,7 @@ alias:
 * [Alchemy](https://docs.alchemyapi.io/)
 * [Rivet](https://rivet.cloud/)
 
-Наша внутренняя инфраструктура работает на AWS. You can actually do it yourself and run your own public or private node via [these instructions](https://github.com/MyEtherWallet/docker-geth-lb).
+Наша внутренняя инфраструктура работает на AWS. На самом деле вы можете сделать это сами и управлять собственным публичным или закрытым узлом с помощью [этих инструкций](https://github.com/MyEtherWallet/docker-geth-lb).
 
 Либо вы можете за небольшую плату использовать [QuikNode](https://quiknode.io/), что еще больше упростит процесс.
 
