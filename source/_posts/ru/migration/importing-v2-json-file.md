@@ -15,7 +15,7 @@ alias:
   - migration/importing-v2-json-wallet-file-myetherwallet.html
 ---
 
-# __Импорт файла V2 JSON__
+# __Importing a V2 JSON File__
 ###### {% read_time title "Импорт файла V2 JSON" %} мин. на прочтение
 ***
 
