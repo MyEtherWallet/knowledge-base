@@ -18,12 +18,12 @@ primary_category_display_name: "Security And Privacy"
 
 Mnemonic phrases, also known as ‘seed words’ or 'recovery phrases', are ordered lists of 12 - 24 words which bring you to specific wallet addresses. These are typically used for recovery, and they are not meant to be used as the main method of access for anyone’s wallet. These phrases offer direct access to one's wallet, so they should be treated carefully.
 
-They can sometimes be paired with an extra word as well, for added encryption and security. When wallets offer this service, the extra word is used as an extra added word to the end of the phrase. For example, 12-word phrases become 13 words, and 24-word phrases become 25 words. MyEtherWallet offers this service, but MEWconnect does not. This means that mnemonic phrases generated directly on MEW's website will have the option for an extra word at the end. But if you are restoring a MEWconnect recovery phrase on the web interface, you should leave the extra word field blank.
+They can sometimes be paired with an extra word as well, for added encryption and security. When wallets offer this service, the extra word is used as an extra added word to the end of the phrase. For example, 12-word phrases become 13 words, and 24-word phrases become 25 words. MyEtherWallet offers this service, but MEW wallet does not. This means that mnemonic phrases generated directly on MEW's website will have the option for an extra word at the end. But if you are restoring a MEWconnect recovery phrase on the web interface, you should leave the extra word field blank.
 
 Mnemonic phrases are just as sensitive as your private key, in terms of privacy. With your phrase, anyone can permanently access your wallet. These phrases cannot be changed, so keeping them safe is crucial.
 
 ## __Popular wallets that offer mnemonic phrases for recovery are:__
-* MEW! As well as our companion smartphone app, MEWconnect.
+* MEW! As well as our companion smartphone app, MEW wallet.
 * Hardware wallets, such as Ledger Nano S or Trezor.
 * MetaMask, JAXX, and various other ETH wallets.
 
