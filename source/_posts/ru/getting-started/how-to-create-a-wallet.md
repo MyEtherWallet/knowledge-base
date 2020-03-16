@@ -2,19 +2,19 @@
 title: "Как создать кошелек"
 date: 2018-06-01 00:07:00
 tags:
-  - faqs
+  - ЧЗВ
   - создать
-  - wallet
+  - кошелек
 categories:
   - 
     - get-started
 primary_category: get-started
-primary_category_display_name: "Get Started"
+primary_category_display_name: "С чего начать"
 alias:
   - getting-started/creating-a-new-wallet-on-myetherwallet.html
 ---
 
-# __How to Create a Wallet__
+# __Как создать кошелек__
 ##### Если в настоящее время вы используете аппаратный кошелек (например, Ledger или Trezor) или другой кошелек (например, MetaMask), эта статья не для вас. Она только для новых пользователей, которые хотят начать с нуля.
 ###### {% read_time title "How to Create a Wallet" %} минут на чтение
 ***
