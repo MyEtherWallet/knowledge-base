@@ -9,7 +9,7 @@ categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Безопасность и Приватность"
+primary_category_display_name: "Security And Privacy"
 ---
 
 # __При доступе к кошельку MEW показывает сообщение «Не рекомендуется». Почему?__
