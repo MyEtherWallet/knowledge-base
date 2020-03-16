@@ -24,7 +24,7 @@ alias:
 
 ## __What can I do with MEW?__
 
-* [Create](/@@@@@@/getting-started/how-to-create-a-wallet/) your own unique Ethereum wallet.
+* [Создать](/@@@@@@/getting-started/how-to-create-a-wallet/) свой уникальный Ethereum кошелек.
 * [Send](/@@@@@@/transactions/how-to-send-a-transaction/) and receive ETH and tokens.
 * [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of wallet types, including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
 * [Обменивать](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) растущий список криптовалют, включая ERC20 токены, ETH, ETC, BTC и многое другое!
