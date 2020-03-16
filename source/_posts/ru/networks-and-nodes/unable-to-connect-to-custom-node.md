@@ -3,19 +3,19 @@ title: "Невозможно подключиться к кастомному у
 date: 2018-06-01 00:02:00
 tags:
   - не удается
-  - connect
-  - custom
-  - node
+  - подключиться
+  - кастомный
+  - узел
 categories:
   - 
     - networks-and-nodes
 primary_category: networks-and-nodes
-primary_category_display_name: "Networks And Nodes"
+primary_category_display_name: "Сети и узлы"
 alias:
   - networks/cant-connect-to-custom-node-on-myetherwallet.html
 ---
 
-# __Unable to Connect to Custom Node__
+# __Невозможно подключиться к кастомному узлу__
 ###### {% read_time title "Невозможно подключиться к пользовательскому узлу" %} мин. на прочтение
 ***
 
