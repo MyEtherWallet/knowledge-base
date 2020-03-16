@@ -2,20 +2,20 @@
 title: "Совершение транзакций оффлайн"
 date: 2018-06-01 00:01:00
 tags:
-  - offline
+  - работа оффлайн
   - mew
   - холодное
   - хранилище
-  - transaction
+  - транзакция
   - myetherwallet
 categories:
   - 
-    - offline
-primary_category: offline
-primary_category_display_name: "Offline"
+    - работа оффлайн
+primary_category: работа оффлайн
+primary_category_display_name: "Работа оффлайн"
 ---
 
-# __Making an Offline Transaction__
+# __Совершение транзакций оффлайн__
 ###### {% read_time title "Совершение транзакций оффлайн" %} мин. на прочтение
 ***
 
