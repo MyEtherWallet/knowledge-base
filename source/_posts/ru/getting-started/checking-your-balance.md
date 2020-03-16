@@ -2,7 +2,7 @@
 title: "Проверка баланса"
 date: 2018-06-01 00:02:00
 tags:
-  - ЧЗВ
+  - faqs
   - баланс
   - блок
 categories:
@@ -11,12 +11,12 @@ categories:
   - 
     - get-started
 primary_category: get-started
-primary_category_display_name: "С чего начать"
+primary_category_display_name: "Get Started"
 alias:
   - getting-started/checking-balance-of-my-account.html
 ---
 
-# __Проверка баланса__
+# __Checking Your Balance__
 ###### {% read_time title "Checking Your Balance" %} минут на чтение
 ***
 
@@ -44,11 +44,11 @@ alias:
 
 **Шаг 1.** Зайдите на [Ethplorer.io](https://ethplorer.io).
 
-**Шаг 2.** В строке поиска введите свой публичный Ethereum-адрес, (0x…..).
+**Step 2.** In the search bar, enter your Ethereum public address, (0x…..).
 
-**Шаг 3.** Вы будете перенаправлены к обзору кошелька.
+**Step 3.** You will be taken to a wallet overview.
 
-* Слева вы увидите проверенную суммированием (checksummed) версию вашего адреса. Чтобы понять разницу между checksummed и non-checksummed адресами, нажмите [сюда](/@@@@@@/common-issues/not-checksummed/).
+* Слева вы увидите проверенную суммированием (checksummed) версию вашего адреса. To learn about the difference between checksummed and non-checksummed addresses, click [here](/@@@@@@/common-issues/not-checksummed/).
 * Также вы можете увидеть свой баланс ETH слева, в разделе "Информация об адресе" (Address Information).
-* Справа вы найдете баланс ваших токенов. Если вы ищете информацию о кастомном токене, здесь вы можете выбрать конкретный токен, чтобы найти адрес его контракта, количество знаков после запятой и символ. Чтобы узнать больше о добавлении кастомных токенов в MEW, нажмите [сюда](/@@@@@@/tokens/how-to-add-custom-token/).
+* Справа вы найдете баланс ваших токенов. Если вы ищете информацию о кастомном токене, здесь вы можете выбрать конкретный токен, чтобы найти адрес его контракта, количество знаков после запятой и символ. To learn more about adding custom tokens to MEW, click [here](/@@@@@@/tokens/how-to-add-custom-token/).
 * Внизу экрана отображается история операций с токенами ETH, ERC20 и ERC721. Если вы хотите увидеть только ETH или токены, можете применить фильтры, используя отметки сверху.
