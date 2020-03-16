@@ -2,18 +2,18 @@
 title: "Использование MEW оффлайн (холодное хранилище)"
 date: 2018-06-01 00:01:00
 tags:
-  - offline
+  - работа оффлайн
   - mew
-  - cold
-  - storage
+  - холодное
+  - хранилище
 categories:
   - 
-    - offline
-primary_category: offline
-primary_category_display_name: "Offline"
+    - работа оффлайн
+primary_category: работа оффлайн
+primary_category_display_name: "Работа оффлайн"
 ---
 
-# __Using MEW Offline (Cold Storage)__
+# __Использование MEW оффлайн (холодное хранилище)__
 ###### {% read_time title "Использование MEW оффлайн (холодное хранилище)" %} мин. на прочтение
 ***
 
