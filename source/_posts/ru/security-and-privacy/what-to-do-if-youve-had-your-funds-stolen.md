@@ -2,19 +2,19 @@
 title: "Что делать, если ваши средства украли"
 date: 2018-06-01 00:07:00
 tags:
-  - средства
-  - средства
+  - funds
+  - fund
   - украли
 categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Безопасность и Приватность"
+primary_category_display_name: "Security And Privacy"
 alias:
   - security/what-to-do-if-youve-had-your-funds-stolen.html
 ---
 
-# __Что делать, если ваши средства украли__
+# __What to Do if You’ve Had Your Funds Stolen__
 ###### Время прочтения: {% read_time title "Что делать, если ваши средства украли" %} мин.
 ***
 
