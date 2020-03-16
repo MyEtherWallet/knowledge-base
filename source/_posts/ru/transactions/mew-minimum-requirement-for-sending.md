@@ -5,18 +5,18 @@ tags:
   - mew
   - минимальное
   - требование
-  - sending
-  - send
+  - отправка
+  - отправить
 categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Transactions"
+primary_category_display_name: "Транзакции"
 alias:
   - gas/I-cant-withdraw-them-from-your-site-less-than-minimum.html
 ---
 
-# __Does MEW Have a Minimum Requirement for Sending?__
+# __Есть ли у MEW минимальные требования для отправки?__
 ###### Время прочтения: {% read_time title "Есть ли у MEW минимальные требования для отправки?" %} мин.
 ***
 
