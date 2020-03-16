@@ -13,7 +13,7 @@ alias:
   - mewconnect/mew-connect-101-tx.html
 ---
 
-# __MEWconnect 101: Make a Transaction__
+# __MEWconnect 101: Совершение транзакций__
 ###### {% read_time title "MEWconnect 101: Совершение транзакций" %} мин. на прочтение
 ***
 
