@@ -3,16 +3,16 @@ title: "Использование аппаратного кошелька Digit
 date: 2018-06-01 00:02:00
 tags:
   - Digital BitBox
-  - аппаратный
-  - кошелек
+  - hardware
+  - wallet
 categories:
   - 
     - аппаратные-кошельки
-primary_category: аппаратные-кошельки
+primary_category: hardware-wallets
 primary_category_display_name: "Аппаратные кошельки"
 ---
 
-# __Использование аппаратного кошелька Digital BitBox с MEW__
+# __Using a Digital BitBox Hardware Wallet with MEW__
 ###### {% read_time title "Использование аппаратного кошелька Digital BitBox с MEW" %} мин. на прочтение
 ***
 
