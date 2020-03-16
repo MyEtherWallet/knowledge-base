@@ -15,7 +15,7 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# __Schedule a Transaction with ChronoLogic__
+# __Запланировать транзакцию с помощью ChronoLogic__
 ###### {% read_time title "Schedule a Transaction with ChronoLogic" %} минут на чтение
 ***
 
@@ -23,7 +23,7 @@ Ethereum Alarm Clock Protocol от ChronoLogic позволяет пользов
 
 ## __Использование протокола Ethereum Alarm Clock__
 
-**Step 1.** [Access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).
+**Шаг 1.** [Откройте ваш кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
 **Шаг 2.** Направляйтесь в раздел Dapps в левой части панели управления вашего кошелька.
 
@@ -38,4 +38,4 @@ Ethereum Alarm Clock Protocol от ChronoLogic позволяет пользов
 
 **Шаг 5.** Когда вы закончите, выберите «Запланировать транзакцию» и подтвердите транзакцию на вашем устройстве, если вы используете его.
 
-**Step 6.** You’re done! Ваша транзакция будет отправлена в запланированную дату и время.
+**Шаг 6.** Готово! Ваша транзакция будет отправлена в запланированную дату и время.
