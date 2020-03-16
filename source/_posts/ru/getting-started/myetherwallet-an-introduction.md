@@ -22,11 +22,11 @@ alias:
 
 ## MyEtherWallet (MEW) — это клиентский интерфейс с открытым исходным кодом, который позволяет пользователям взаимодействовать напрямую с блокчейном Ethereum без необходимости присоединяться к централизованной бирже.
 
-## __What can I do with MEW?__
+## __Что я могу делать с MEW?__
 
-* [Создать](/@@@@@@/getting-started/how-to-create-a-wallet/) свой уникальный Ethereum кошелек.
-* [Send](/@@@@@@/transactions/how-to-send-a-transaction/) and receive ETH and tokens.
-* [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of wallet types, including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
+* [Создать](/@@@@@@/getting-started/how-to-create-a-wallet/) свой уникальный кошелек Ethereum.
+* [Отправлять](/@@@@@@/transactions/how-to-send-a-transaction/) и получать ETH и токены.
+* [Получать доступ](/@@@@@@/getting-started/how-to-access-your-wallet/) к Ethereum посредством разных кошельков, включая наше приложение MEW wallet, расширения для браузера MEW CX и MetaMask, и партнерские аппаратные кошельки.
 * [Обменивать](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) растущий список криптовалют, включая ERC20 токены, ETH, ETC, BTC и многое другое!
 * [Explore](/@@@@@@/dapps/using_makerdao/) our DApp store where you can earn on your deposits with Aave, open a vault with MakerDAO, or register and manage your ENS domains.
 * [Send offline](/@@@@@@/offline/using-mew-offline/) through the use of our Offline Helper.
