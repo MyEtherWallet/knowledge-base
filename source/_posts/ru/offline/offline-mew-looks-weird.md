@@ -6,14 +6,14 @@ tags:
   - mew
 categories:
   - 
-    - работа оффлайн
-primary_category: работа оффлайн
+    - offline
+primary_category: offline
 primary_category_display_name: "Работа оффлайн"
 alias:
   - offline/local-offline-myetherwallet-does-not-work-properly.html
 ---
 
-# __MEW выглядит странно при работе оффлайн__
+# __Offline MEW Looks Weird__
 ###### {% read_time title "MEW выглядит странно при автономной работе" %} мин. на прочтение
 ***
 
