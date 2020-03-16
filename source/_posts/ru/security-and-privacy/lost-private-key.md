@@ -1,41 +1,41 @@
 ---
-title: "Lost Private Key"
+title: "Утрата закрытого ключа"
 date: 2018-06-01 00:01:00
 tags:
-  - lost
-  - private
-  - key
+  - утрата
+  - закрытого
+  - ключа
 categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Security And Privacy"
+primary_category_display_name: "Безопасность и Приватность"
 alias:
   - private-keys-passwords/lost-eth-private-key.html
 ---
 
-# __Lost Private Key__
-###### {% read_time title "Lost Private Key" %} min read
+# __Утрата закрытого ключа__
+###### {% read_time title "Утрата закрытого ключа" %} мин. на прочтение
 ***
 
-MyEtherWallet does not manage accounts with information such as passwords, private keys, or emails. In order to ensure your security and privacy, no sensitive data is ever saved, stored, or transmitted when you use MyEtherWallet. We only have access to the information that is publicly available on the blockchain. We do not have servers and we do not hold your assets.
+MyEtherWallet не управляет личными данными учетных записей, включая пароли, закрытые ключи или электронную почту. Для обеспечения вашей безопасности и приватности MyEtherWallet не сохраняет, не передает и не использует никакие конфиденциальные данные. У нас есть только общедоступная информация из блокчейна. У нас нет централизованных серверов и мы не храним ваши активы.
 
-Only users themselves can access and control their funds – this is the purpose of decentralized networks. Your funds are stored on the Ethereum blockchain itself, and we are simply an interface that allows you to easily interact with them. Passwords and private keys are in the users’ hands and are the users’ responsibility.
+Только сами пользователи могут осуществлять доступ и контролировать свои средства – в этом и заключается цель децентрализованных сетей. Ваши средства хранятся на самом блокчейне Ethereum, мы лишь предоставляем интерфейс для легкого взаимодействия с ними. Пароли и закрытые ключи находятся в руках пользователей и в сфере их личной ответственности.
 
-## __Unfortunately, this means we cannot:__
-* Recover your private key
-* Access your account
-* Recover or reset your password
-* Reverse or cancel transactions
-* Recover your account
-* Send your ETH or Tokens from one address to another
+## __К сожалению, это означает, что мы не можем:__
+* Восстановить ваш закрытый ключ
+* Получить доступ к вашей учетной записи
+* Восстановить или сбросить ваш пароль
+* Отменять или возвращать транзакции
+* Восстановить вашу учетную запись
+* Отправлять ваши ETH или токены с одного адреса на другой
 
-## __There may be a chance that you saved your Keystore/JSON file without realizing it. We recommend:__
-* Do a full search of your computer for 'UTC--' and see if the file shows up.
-* Do a full search of your computer for your address, without the `0x` at the beginning.
-* If you know when you created it, look through all files during that time period for any documents or screenshots.
-* Generate a new wallet via our interface and take a look at the different options you may have downloaded or saved. Sometimes backtracking can help jog your memory.
+## __Возможно, вы сохранили файл Keystore/JSON, не осознавая этого. Мы рекомендуем:__
+* Выполнить полный поиск на вашем компьютере по имени 'UTC--' и посмотреть, найдутся ли файлы.
+* Выполнить полный поиск на вашем компьютере файлов, содержащих ваш публичный адрес без `0x` в начале.
+* Если вы знаете, когда создали его, просмотрите все файлы за этот период, обращая внимание на документы и снимки экрана.
+* Создайте новый кошелек через наш интерфейс, обращая внимание на различные опции или возможные загрузки. Иногда повторение пройденных действий может помочь вспомнить.
 
-В будущем мы настоятельно рекомендуем вам использовать наше полнофункциональное мобильное приложение [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/) или приобрести [аппаратный кошелек](/@@@@@@/hardware-wallets/using-ledger-with-mew/) для повышенной безопасности. If you must use a private key, print out a paper version of your wallet, keep it in multiple physical locations, and only use it with an [offline version of MEW](/@@@@@@/offline/offline-mew-looks-weird/).
+В будущем мы настоятельно рекомендуем вам использовать наше полнофункциональное мобильное приложение [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/) или приобрести [аппаратный кошелек](/@@@@@@/hardware-wallets/using-ledger-with-mew/) для повышенной безопасности. Если вам необходимо использовать закрытый ключ, распечатайте бумажный вариант вашего кошелька и храните его в нескольких местах, используя только с [ MEW оффлайн](/@@@@@@/offline/offline-mew-looks-weird/).
 
-You can read more about how to safely back up your wallet [here](/@@@@@@/mewconnect/mewconnect-101-recover/).
+Вы можете прочитать больше о том, как безопасно сделать резервную копию вашего кошелька [здесь](/@@@@@@/mewconnect/mewconnect-101-recover/).
