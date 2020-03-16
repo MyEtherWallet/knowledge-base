@@ -19,27 +19,27 @@ alias:
 ###### {% read_time title "How to Create a Wallet" %} минут на чтение
 ***
 
-## MyEtherWallet (MEW) offers four ways to create a new ETH wallet.
+## MyEtherWallet (MEW) предлагает четыре способа создания нового ETH-кошелька.
 
 <br>
 
 ##### __
 
-## __Recommended Methods:__
+## __Рекомендуемые методы:__
 
-## __MEW wallet__ - MEW's official mobile app
-#### __Это лучший вариант для обеспечения защиты и надежного хранения вашей информации. Explore Ethereum on your mobile device.__
-Чтобы узнать больше о создании кошелька с помощью MEW wallet, нажмите [здесь](/@@@@@@/mewwallet/mewwallet-user-guide/).
+## __MEW wallet__ - Официальное мобильное приложение MEW
+#### __Это лучший вариант для обеспечения защиты и надежного хранения вашей информации. Исследуйте Ethereum со своего мобильного устройства.__
+Чтобы узнать больше о создании кошелька с помощью MEW wallet, перейдите [сюда](/@@@@@@/mewwallet/mewwallet-user-guide/).
 
 
-## __MEW CX__ - MEW's Browser Extension
-#### __The entirety of MEW is available in a bite-size extension. Connect to your favorite DApps and make use of the QuickSend feature.__
+## __MEW CX__ - Расширение MEW для браузера
+#### __Доступ ко всем функциям MEW через расширение. Подключитесь к вашим любимым DApps и воспользуйтесь функцией QuickSend.__
 
-To learn more about creating your wallet with MEW CX, click [here](/@@@@@@/getting-started/using-mewcx.md/).
+Чтобы узнать больше о создании кошелька с помощью MEW CX, перейдите [сюда](/@@@@@@/getting-started/using-mewcx.md/).
 
 ##### __
 
-## __Not Recommended:__
+## __Не рекомендуемые способы:__
 
 <br>
 
