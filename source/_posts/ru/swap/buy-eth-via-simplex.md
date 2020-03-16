@@ -2,11 +2,11 @@
 title: "Покупка ETH через Simplex"
 date: 2018-06-01 00:01:00
 tags:
-  - ЧЗВ
+  - faqs
   - покупка
   - продажа
   - трейдинг
-  - биржа
+  - exchange
 categories:
   - 
     - faqs
@@ -16,7 +16,7 @@ primary_category: swap
 primary_category_display_name: "Обмен"
 ---
 
-# __Покупка ETH через Simplex__
+# __Buy ETH via Simplex__
 ###### Время прочтения: {% read_time title "Покупка ETH через Simplex" %} мин.
 ***
 
