@@ -2,20 +2,20 @@
 title: "Использование аппаратного кошелька с кастомным узлом"
 date: 2018-06-01 00:05:00
 tags:
-  - hardware
-  - wallet
+  - аппаратный
+  - кошелек
   - кастомный
   - узел
 categories:
   - 
-    - hardware-wallets
-primary_category: hardware-wallets
-primary_category_display_name: "Hardware Wallets"
+    - аппаратные-кошельки
+primary_category: аппаратные-кошельки
+primary_category_display_name: "Аппаратные кошельки"
 alias:
   - networks/using-ethereum-hardware-wallet-with-custom-node.html
 ---
 
-# __Using a Hardware Wallet With a Custom Node__
+# __Использование аппаратного кошелька с кастомным узлом__
 ###### {% read_time title "Using a Hardware Wallet With a Custom Node" %} минут на чтение
 ***
 
