@@ -3,22 +3,22 @@ title: "Почему в моем кошельке появляются случ�
 date: 2018-06-01 00:03:00
 tags:
   - случайный
-  - токен
-  - токены
+  - token
+  - tokens
   - появляются
-  - кошелек
+  - wallet
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
-    - токен
-primary_category: токен
-primary_category_display_name: "Токены"
+    - token
+primary_category: token
+primary_category_display_name: "Tokens"
 alias:
   - tokens/airdropped-tokens.html
 ---
 
-# __Почему в моем кошельке появляются случайные токены?__
+# __Why are Random Tokens Appearing in my Wallet?__
 ###### Время прочтения: {% read_time title "Почему в моем кошельке появляются случайные токены?" %} мин.
 ***
 
