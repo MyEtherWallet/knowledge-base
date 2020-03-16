@@ -15,7 +15,7 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# __Using MakerDAO__
+# __Использование MakerDAO__
 ###### {% read_time title "Using MakerDAO" %} минут на чтение
 ***
 
