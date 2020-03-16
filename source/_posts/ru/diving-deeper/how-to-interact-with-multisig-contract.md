@@ -12,12 +12,12 @@ categories:
   - 
     - diving-deeper
 primary_category: diving-deeper
-primary_category_display_name: "Более глубокое ознакомление"
+primary_category_display_name: "Diving Deeper"
 alias:
   - faq/interacting-with-ethereum-multisig-wallet.html
 ---
 
-# __Как взаимодействовать с контрактом с мультиподписью?__
+# __How to Interact with a Multisig Contract?__
 ###### {% read_time title "How to Interact with a Multisig Contract?" %} минут на чтение
 ***
 
