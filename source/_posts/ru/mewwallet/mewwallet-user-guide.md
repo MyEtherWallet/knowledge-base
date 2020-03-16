@@ -1,14 +1,14 @@
 ---
-title: "Руководство пользователя MEW wallet"
+title: "MEW wallet User Guide"
 date: 2018-03-01 00:01:00
 tags:
   - mewwallet
-  - руководство
+  - guide
 categories:
   - 
     - mewwallet
 primary_category: mewwallet
-primary_category_display_name: "MEWwallet"
+primary_category_display_name: "MEW wallet"
 ---
  
 # __Руководство пользователя MEW wallet__
