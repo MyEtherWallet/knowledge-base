@@ -8,13 +8,13 @@ tags:
   - вниз
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - diving-deeper
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - ru/faq/what-happens-if-myetherwallet-goes-down.html
+  - faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
 # __Что случится, если MEW выйдет из строя?__

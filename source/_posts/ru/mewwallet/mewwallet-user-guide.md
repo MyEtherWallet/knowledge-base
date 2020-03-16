@@ -1,5 +1,5 @@
 ---
-title: "MEWwallet User Guide"
+title: "Руководство пользователя MEW wallet"
 date: 2018-03-01 00:01:00
 tags:
   - mewwallet
@@ -10,99 +10,120 @@ categories:
 primary_category: mewwallet
 primary_category_display_name: "MEWwallet"
 ---
-
-# __MEW wallet User Guide__
-###### {% read_time title "MEW wallet User Guide" %} min read
+ 
+# __Руководство пользователя MEW wallet__
+###### {% read_time title "MEW wallet User Guide" %} мин. чтения
 ***
 
-<img src="/images/posts/mewconnect/meww1.png" width="70%" /> <img src="/images/posts/mewconnect/meww2.png" width="70%" /> <img src="/images/posts/mewconnect/meww3.png" width="70%" />
+<img src="/images/posts/mewconnect/meww1.jpg" width="150px" /><img src="/images/posts/mewconnect/meww2.jpg" width="250px" /><img src="/images/posts/mewconnect/meww3.jpg" width="350px" />
 
-MEW wallet is MEW’s official fully-fledged free mobile app, bringing hardware wallet security to your mobile device. With MEW wallet, users can buy, hold, and send Ether and tokens.
+## __MEW кошелек__ - это официальное полнофункциональное мобильное приложение MEW. Оно простое в использовании, быстрое и безопасное.
 
-To begin exploring Ethereum on mobile, download MEW wallet on your iOS or Android phone.
+## Чтобы начать исследовать Ethereum со своего мобильного устройства, [скачайте MEW wallet](https://www.mewwallet.com/) на телефон с системой iOS или Android.
 
-## __Create a new wallet:__
+<br>
 
-**Step 1.** Open the MEW wallet app.
+##### __
 
-**Step 2.** Select ‘Create a free wallet’.
+## __Создать Новый Кошелек__
 
-<img src="/images/posts/mewconnect/mcreate1.png" width="70%" />
+#### __Receive a unique public address and color combination tied to your new account.__
 
-**Step 3.** Read the safety tips! Then click ‘Create a wallet’.
+<br>
 
-<img src="/images/posts/mewconnect/mcreate2.png" width="70%" /> <img src="/images/posts/mewconnect/mcreate3.png" width="70%" />
+**Шаг 1.** Откройте приложение MEW wallet.
 
-**Step 4.** Choose a strong pin code.
-* You can also enable additional biometric access, such as a fingerprint or facial recognition.
+**Шаг 2.** Выберите "Создать бесплатный кошелек".
 
-<img src="/images/posts/mewconnect/mcreate4.png" width="70%" /> <img src="/images/posts/mewconnect/mcreate5.png" width="70%" />
+<img src="/images/posts/mewconnect/mcreate1.jpg" width="350px" />
 
-**Step 5.** Wait for your wallet to generate, then select ‘Start using MEW wallet’.
+**Шаг 3.** Прочитайте советы о безопасности! Затем нажмите "Создать кошелек".
 
-<img src="/images/posts/mewconnect/mcreate6.png" width="70%" /> <img src="/images/posts/mewconnect/mcreate7.png" width="70%" />
+<img src="/images/posts/mewconnect/mcreate2.jpg" width="350px" /> <img src="/images/posts/mewconnect/mcreate3.jpg" width="350px" />
 
+**Шаг 4.** Выберите надежный Pin-код.
+* Вы также можете включить биометрический доступ, например, по отпечатку пальца или с помощью распознавания лица.
 
-## __Back up your account:__
-This step is crucial if you plan on using your wallet in the long term. We cannot recover your account for you, so you must keep track of this information yourself.
+<img src="/images/posts/mewconnect/mcreate4.jpg" width="350px" /> <img src="/images/posts/mewconnect/mcreate5.jpg" width="350px" />
 
-**Step 1.** After creating your wallet, select 'Backup Now'. Read the warning and continue.
-* You can also head to ‘Settings’, then ‘View my recovery phrase’.
+**Шаг 5.** Подождите, пока будет сгенерирован ваш аккаунт, а затем выберите "Начать пользоваться MEW wallet".
 
-<img src="/images/posts/mewconnect/mbackup1.png" width="70%" />
+<img src="/images/posts/mewconnect/mcreate6.jpg" width="350px" /> <img src="/images/posts/mewconnect/mcreate7.jpg" width="350px" />
 
-<img src="/images/posts/mewconnect/mbackup2.png" width="70%" />
-
-**Step 2.** Get a pen and a piece of paper, then write down the 24 words that appear.
-* Keep these words in the same order as they appear, and double-check that it’s all spelled correctly.
-* Ideally, you should write this phrase down 2 - 3 times on separate sheets of paper, stored in multiple secure locations.
-* We cannot recover this phrase for you, and anyone that has access to it will have permanent access to your funds.
-
-<img src="/images/posts/mewconnect/mbackup3.png" width="70%" />
-
-**Step 3.** Pass a quick test on the device, and you're done!
-
-<img src="/images/posts/mewconnect/mbackup4.png" width="70%" />
-
-**Step 4.** Test it out.
-* You can [use MEW offline](/@@@@@@/offline/using-mew-offline/) to test your mnemonic phrase.
+##### __
 
 
-## __Buy ETH to start exploring:__
-Everything on the Ethereum blockchain requires ETH for gas. You’ll need to acquire ETH to get started.
+## __Back Up Your Account__
 
-**Step 1.** Select ‘Buy Ether’ on the main page of the MEW wallet app.
+#### __Это шаг очень важен, если вы собираетесь использовать ваш кошелек на протяжении длительного времени. Мы не сможем восстановить ваш аккаунт для вас, поэтому вам необходимо хранить эту информацию.__
 
-<img src="/images/posts/mewconnect/mcreate7.png" width="70%" />
+<br>
 
-**Step 2.** Select the amount you’d like to buy, or enter a custom amount (up to $250 worth).
+**Шаг 1.** После создания кошелька, выберите "Создать резервную копию сейчас (Back up now)". Прочитайте предупреждение и перейдите к следующему шагу.
+* Вы также можете перейти в "Настройки", а затем выбрать "Посмотреть фразу для восстановления".
 
-<img src="/images/posts/mewconnect/mbuyeth2.png" width="70%" />
+<img src="/images/posts/mewconnect/mbackup1.jpg" width="350px" />
 
-**Step 3.** After being redirected to Simplex, enter your details and finish the purchase.
+<img src="/images/posts/mewconnect/mbackup2.jpg" width="350px" />
 
-<img src="/images/posts/mewconnect/mbuyeth3.png" width="70%" />
+**Шаг 2.** Возьмите ручку и лист бумаги, и запишите появившиеся 24 слова.
+* Сохраняйте порядок слов, которые вы видите, и тщательно проверьте, правильно ли они записаны.
+* Лучше всего записать эту фразу 2-3 раза на разных листах бумаги и хранить их в разных безопасных местах.
+* Мы не сможем восстановить эту фразу для вас, но любой человек, у которого есть доступ к ней, получит постоянный доступ к вашим средствам.
 
-**Step 4.** Your new balance will reflect in your account!
+<img src="/images/posts/mewconnect/mbackup3.jpg" width="350px" />
 
+**Шаг 3.** Пройдите небольшую проверку на устройстве, и готово!
 
-## __Add more accounts:__
-Create as many accounts as you want for savings, privacy, or organized token storage.
+<img src="/images/posts/mewconnect/mbackup4.jpg" width="350px" />
 
-**Step 1.** Swipe left on your main account and select ‘Add account’.
+##### __
 
-<img src="/images/posts/mewconnect/madd1.png" width="70%" />
+## __Купите ETH, чтобы начать исследовать Ethereum__
 
-**Step 2.** Think of a nickname for this account, then choose ‘Add’.
+#### __Любое действие на блокчейне Ethereum требует ETH в качестве топлива (gas). Поэтому для начала, вам потребуется купить ETH.__
 
-<img src="/images/posts/mewconnect/madd2.png" width="70%" />
+<br>
 
-**Step 3.** Your new account should generate.
-* This account is also tied to the recovery phrase from the ‘Back up your account’ section.
-* When you restore your main account, all subsequent accounts will also be restored.
+**Шаг 1.** Выберите "Купить эфир" на главной странице приложения MEW wallet.
 
-<img src="/images/posts/mewconnect/madd3.png" width="70%" />
+<img src="/images/posts/mewconnect/mcreate7.jpg" width="350px" />
 
-**Step 4.** If you want to view all your accounts or hide any of them, you can do so through ‘Manage accounts’.
+**Шаг 2.** Выберите сумму, которую вы хотите приобрести, или введите свою сумму (до 250 долларов США в эквиваленте).
+* If you're using an iOS device in the US, Apply Pay makes buying ETH as easy as clicking a button!
 
-<img src="/images/posts/mewconnect/madd4.png" width="70%" />
+<img src="/images/posts/mewconnect/mewwallet1.png" width="350px" /> <img src="/images/posts/mewconnect/mewwallet2.png" width="350px" />
+
+<img src="/images/posts/mewconnect/mbuyeth2.jpg" width="350px" />
+
+**Шаг 3.** Оказавшись на странице Wyre или Simplex, введите ваши данные и завершите покупку.
+
+<img src="/images/posts/mewconnect/mbuyeth3.jpg" width="350px" />
+
+**Шаг 4.** Ваш новый баланс отобразится в аккаунте в ближайшее время!
+
+##### __
+
+## __Добавьте Больше Аккаунтов__
+
+#### __Создавайте любое количество аккаунтов для сбережений, обеспечения конфиденциальности или организованного хранения токенов.__
+
+<br>
+
+**Шаг 1.** Проведите пальцем влево, чтобы перейти к главному аккаунту, и выберите "Добавить аккаунт".
+
+<img src="/images/posts/mewconnect/madd1.jpg" width="350px" />
+
+**Шаг 2.** Придумайте псевдоним для этого аккаунта и нажмите "Добавить".
+
+<img src="/images/posts/mewconnect/madd2.jpg" width="350px" />
+
+**Шаг 3.** Вы должны увидеть генерирование нового аккаунта.
+* Этот аккаунт также связан с фразой для восстановления из раздела "Резервное копирование вашего аккаунта".
+* При восстановлении вашего главного аккаунта также будут восстановлены все связанные с ним аккаунты.
+
+<img src="/images/posts/mewconnect/madd3.jpg" width="350px" />
+
+**Шаг 4.** Если вы хотите просмотреть все ваши аккаунты или скрыть какие-то из них, вы можете сделать это в разделе "Управление аккаунтами".
+
+<img src="/images/posts/mewconnect/madd4.jpg" width="350px" />

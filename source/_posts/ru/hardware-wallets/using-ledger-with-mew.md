@@ -7,11 +7,11 @@ tags:
   - кошелек
 categories:
   - 
-    - hardware-wallets
+    - аппаратные-кошельки
 primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
-  - ru/migration/moving-from-private-key-to-ledger-hardware-wallet.html
+  - migration/moving-from-private-key-to-ledger-hardware-wallet.html
 ---
 
 # __Использование аппаратного кошелька Ledger с MEW__
