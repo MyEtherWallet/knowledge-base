@@ -4,7 +4,7 @@ date: 2018-06-01 00:03:00
 tags:
   - mewconnect
   - обзор
-  - кошелек
+  - wallet
 categories:
   - 
     - mewconnect
@@ -14,7 +14,7 @@ alias:
   - mewconnect/mew-connect-101-overview.html
 ---
 
-# __MEWconnect 101: Обзор кошелька__
+# __MEWconnect 101: Wallet Overview__
 ###### {% read_time title "MEWconnect 101: Данные кошелька" %} мин. на прочтение
 ***
 
