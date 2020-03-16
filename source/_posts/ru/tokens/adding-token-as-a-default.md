@@ -2,21 +2,21 @@
 title: "Добавление вашего токена в список токенов по умолчанию"
 date: 2018-06-01 00:01:00
 tags:
-  - токен
+  - token
   - добавить
   - добавление
 categories:
   - 
-    - FAQ
+    - faqs
   - 
-    - токен
-primary_category: токен
-primary_category_display_name: "Токены"
+    - token
+primary_category: token
+primary_category_display_name: "Tokens"
 alias:
   - tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
-# __Добавление вашего токена в список токенов по умолчанию__
+# __Adding Your Token as a Default Token__
 ###### Время прочтения: {% read_time title "Добавление вашего токена в качестве токена по умолчанию" %} мин.
 ***
 
@@ -136,8 +136,8 @@ alias:
 * Нажмите зеленую кнопку «Propose File change».
 * Следующая страница — это обзор того, что вы сделали.
 * Дважды нажмите на кнопку «Create Pull Request».
-* Вот и все. Вы успешно создали новый pull-запрос!
-* Теперь мы рассмотрим его и включим в свой код, и в следующем релизе он будет доступен на нашем сайте. Если что-то будет по какой-то причине непонятно, то мы можем задать вам несколько вопросов.
+* Вот и все. You successfully made a new pull request!
+* We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
 
 <br>
 
@@ -148,9 +148,9 @@ alias:
 * Скопируйте все начиная с `{` до `},`.
 * Укажите вместо этой информации название своего контракта, адрес и ABI.
 * Внизу в разделе «Commit changes» введите в поле заголовка «Added `СИМВОЛ_ВАШЕГО_ТОКЕНА` contract ABI».
-* Ниже вы можете указать любые другие комментарии для нас.
-* Нажмите зеленую кнопку «Propose File change».
-* Следующая страница — это обзор того, что вы сделали.
-* Дважды нажмите на кнопку «Create Pull Request».
-* Вот и все. Вы успешно создали новый pull-запрос!
-* Теперь мы рассмотрим его и включим в свой код, и в следующем релизе он будет доступен на нашем сайте. Если что-то будет по какой-то причине непонятно, то мы можем задать вам несколько вопросов.
+* Any other notes you would like us to see can be included below.
+* Click the green "Propose File change" button.
+* This next page is a review of what you did.
+* Click the "Create Pull Request" button, twice.
+* That's it. You successfully made a new pull request!
+* We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
