@@ -2,12 +2,12 @@
 title: "Использование аппаратного кошелька Ledger на Android-устройстве"
 date: 2018-06-01 00:06:00
 tags:
-  - вниз
+  - down
 categories:
   - 
-    - аппаратные-кошельки
-primary_category: аппаратные-кошельки
-primary_category_display_name: "Аппаратные кошельки"
+    - hardware-wallets
+primary_category: hardware-wallets
+primary_category_display_name: "Hardware Wallets"
 alias:
   - faq/what-happens-if-myetherwallet-goes-down.html
 ---
