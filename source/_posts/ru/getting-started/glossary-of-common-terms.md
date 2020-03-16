@@ -8,12 +8,12 @@ categories:
   - 
     - get-started
 primary_category: get-started
-primary_category_display_name: "С чего начать"
+primary_category_display_name: "Get Started"
 alias:
   - getting-started/ethereum-glossary.html
 ---
 
-# __Словарь общепринятых терминов в сообществе Ethereum/криптовалют__
+# __A Glossary of Common Terms in the Ethereum / Crypto Community__
 ##### <i>Вот список терминов, с которыми вы можете столкнуться, используя MyEtherWallet (MEW).<br />Вы также можете [читать по-испански][enEspanol], благодаря faraggi.</i>
 ###### {% read_time title "A Glossary of Common Terms in the Ethereum / Crypto Community" %} минут на чтение
 ***
@@ -163,7 +163,7 @@ alias:
 
 
 
-## __Блокчейн__
+## __Blockchain__
 * Децентрализованный реестр, находящийся в общественном владении.
 * Неизменяемый, нередактируемый, перманентный.
 * Поддерживается удаленными майнерами со всего мира.
