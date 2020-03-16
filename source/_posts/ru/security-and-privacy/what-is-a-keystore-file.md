@@ -10,12 +10,12 @@ categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Безопасность и Приватность"
+primary_category_display_name: "Security And Privacy"
 alias:
   - security/keystore-file.html
 ---
 
-# __Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?__
+# __What is a Keystore/JSON file?  Can I Change my Password?__
 #### __Файлы хранилища ключей, или же JSON-файлы не рекомендуется использовать для получения доступа к MyEtherWallet (MEW).  Для получения дополнительной информации о других способах доступа ознакомьтесь с нашей статьей о том,[как получить доступ к кошельку](/@@@@@@/getting-started/how-to-access-your-wallet/).__
 ###### Время прочтения: {% read_time title "Что такое файл JSON, или же файл хранилища ключей? Могу ли я сменить свой пароль?" %} мин.
 ***
