@@ -9,12 +9,12 @@ categories:
   - 
     - diving-deeper
 primary_category: diving-deeper
-primary_category_display_name: "Diving Deeper"
+primary_category_display_name: "Более глубокое ознакомление"
 alias:
   - diving-deeper/how-to-submit-pull-request.html
 ---
 
-# __How to Submit a Pull Request__
+# __Как отправить запрос на включение изменений__
 ###### {% read_time title "How to Submit a Pull Request" %} минут на чтение
 ***
 
