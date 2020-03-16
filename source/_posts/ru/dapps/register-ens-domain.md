@@ -13,7 +13,7 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# __ENS: Registering a Domain__
+# __ENS: регистрация домена__
 ###### {% read_time title "ENS: Registering a Domain" %} минут на чтение
 ***
 
@@ -109,15 +109,15 @@ ENS-адрес для поддержки: `mewtopia.eth`
 
 ## __Перенос в новый регистратор__
 
-**Step 1.** Head to MyEtherWallet.com.
-* Always check the URL to make sure you’re on our legit site!
+**Шаг 1.** Направляйтесь на сайт MyEtherWallet.com.
+* Всегда проверяйте ссылку, чтобы убедиться, что вы находитесь на нашем настоящем сайте!
 
-**Step 2.** Access your wallet.
-* If you don’t already have a wallet, you will need to [create a new wallet](/@@@@@@/getting-started/how-to-create-a-wallet/).
-* You will also need a small amount of ETH for [gas](/@@@@@@/transactions/what-is-gas/). We generally recommend `.01 ETH` for 1 - 2 transactions. И начало, и окончание ENS-аукционов засчитываются как транзакции.
+**Шаг 1.** Откройте ваш кошелек.
+* Если у вас еще нет кошелька, вам понадобится [создать новый кошелек](/@@@@@@/getting-started/how-to-create-a-wallet/).
+* Также вам понадобится небольшая сумма ETH на [газ](/@@@@@@/transactions/what-is-gas/). Обычно мы рекомендуем `.01 ETH` для 1 - 2 транзакций. И начало, и окончание ENS-аукционов засчитываются как транзакции.
 
-**Step 3.** Head to the Dapps section, to the left of your wallet's overview page. It can also be found at the bottom of the page, under the 'Dapps' section.
-* Here you will see the ‘ENS Manager’ option. Click there!
+**Шаг 3.** Направляйтесь в раздел Dapps в левой части панели управления вашего кошелька. Его также можно найти в нижней части страницы, в разделе 'Dapps'.
+* Здесь вы увидите опцию "ENS-менеджер". Нажмите на нее!
 
 **Шаг 4.** Проверьте ранее зарегистрированное доменное имя. Если все пойдет по плану, вы увидите сообщение о том, что оно все еще в старом регистраторе.
 
