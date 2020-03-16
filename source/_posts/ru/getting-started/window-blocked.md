@@ -1,25 +1,25 @@
 ---
-title: "Ошибка: окно заблокировано"
+title: "Error: Window Blocked"
 date: 2018-06-01 00:08:00
 tags:
-  - ошибка
-  - Окно
-  - Заблокировано
+  - error
+  - Window
+  - Blocked
 categories:
   - 
     - get-started
 primary_category: get-started
-primary_category_display_name: "С чего начать"
+primary_category_display_name: "Get Started"
 alias:
   - hardware-wallets/trezor-error-window-blocked.html
 ---
 
-# __Ошибка: "Окно заблокировано"__
-###### {% read_time title "Error: Window Blocked" %} минут на чтение
+# __Error: ‘Window Blocked’__
+###### {% read_time title "Error: Window Blocked" %} min read
 ***
 
-Если вы получаете сообщение об ошибке с текстом "Окно заблокировано" при использовании Trezor, Ledger или MetaMask для подтверждения операции, это значит, что вы заблокировали всплывающие окна в браузере.
+If you are getting an error message saying ‘Window Blocked’ when using a Trezor, Ledger, or MetaMask to confirm a transaction, this is because you are blocking pop-ups with the browser.
 
-Для решения этой проблемы вам нужно разрешить всплывающие окна для MyEtherWallet.com.
+To fix this issue, you will need to ‘Allow Pop-Ups’ for MyEtherWallet.com.
 
-Это позволит безопасно отправлять информацию на ваше устройство/расширение, так что транзакцию можно будет подписать и безопасно отправить с через нашу систему.
+This allows information to safely be sent to your device/extension so that the transaction can be signed and safely sent via our infrastructure.
