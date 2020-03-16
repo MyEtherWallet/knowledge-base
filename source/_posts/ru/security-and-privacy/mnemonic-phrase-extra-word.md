@@ -4,15 +4,15 @@ date: 2018-06-01 00:06:00
 tags:
   - мнемоническая
   - фраза
-  - password
+  - пароль
 categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Security And Privacy"
+primary_category_display_name: "Безопасность и Приватность"
 ---
 
-# __Mnemonic Phrase: Should I Include an Extra Word?__
+# __Мнемоническая фраза: Стоит ли мне включить дополнительное слово?__
 ###### {% read_time title "Мнемоническая фраза: Стоит ли мне включить пароль??" %} мин. на прочтение
 ***
 
