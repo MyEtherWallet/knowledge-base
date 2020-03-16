@@ -4,7 +4,7 @@ date: 2018-06-01 00:02:00
 tags:
   - переход
   - переход
-  - exchange
+  - биржа
   - coinbase
   - gemini
   - binance
@@ -14,12 +14,12 @@ categories:
   - 
     - migration
 primary_category: migration
-primary_category_display_name: "Migrating To And From MEW"
+primary_category_display_name: "Переход с и на MEW"
 alias:
   - migration/moving-from-coinbase-to-myetherwallet.html
 ---
 
-# __Moving from an Exchange (Coinbase/Gemini/Binance/Kraken/etc..) to MEW__
+# __Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW__
 ###### {% read_time title "Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW" %} мин. на прочтение
 ***
 
@@ -29,7 +29,7 @@ alias:
 
 * MyEtherWallet (MEW) не является биржей.
 * MEW не хранит ваши данные или средства.
-* Пользователь полностью контролирует собственную безопасность. This means:
+* Пользователь полностью контролирует собственную безопасность. Это значит:
     * Если вы потеряете свой закрытый ключ, мы не сможем его восстановить.
     * Если вы забудете свой пароль, мы не сможем восстановить или сбросить его.
     * Мы не сможем отменить или возместить какие либо транзакции.
