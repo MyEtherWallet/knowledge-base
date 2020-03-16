@@ -2,21 +2,21 @@
 title: "MyEtherWallet: введение"
 date: 2018-05-01 00:01:00
 tags:
-  - faqs
+  - ЧЗВ
   - введение
   - введение
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - get-started
 primary_category: get-started
-primary_category_display_name: "Get Started"
+primary_category_display_name: "С чего начать"
 alias:
   - getting-started/getting-started-new.html
 ---
 
-# __MyEtherWallet: An Introduction__
+# __MyEtherWallet: введение__
 ###### {% read_time title "MyEtherWallet: An Introduction" %} минут на чтение
 ***
 
@@ -68,7 +68,7 @@ alias:
 ## __Как обеспечить свою безопасность?__
 
 * Самый безопасный способ доступа к вашим средствам — это использование аппаратных кошельков, таких как [Ledger Nano S](https://www.ledger.com/?r=fa4b) или [Trezor](https://trezor.io/?offer_id=12&aff_id=2029). Если вы располагаете криптовалютами на более чем $200 в эквиваленте, то у вас мало причин не приобрести аппаратный кошелек.
-* Download our fully-fledged mobile app [MEW wallet](https://www.mewwallet.com/). It's simple, fast, and secure.
+* Download our fully-fledged mobile app [MEW wallet](https://www.mewwallet.com/). Это просто, быстро и безопасно.
 * Follow our educational blog [MEWtopia]9] for the latest on MEW and Ethereum.
 * Используя закрытый ключ, хранилище ключей/JSON-файл или мнемоническую фразу, хранить их следует только в физической форме на бумаге или же на автономных компьютерах. Эта информация чрезвычайно важна. И не забывайте делать резервные копии! Если вы потеряете эту информацию, она будет утрачена навсегда.
 * Переходя по URL-адресу, убедитесь, что он ведет на www.myetherwallet.com. Добавьте нас в закладки для использования в будущем!
