@@ -8,12 +8,12 @@ categories:
   - 
     - migration
 primary_category: migration
-primary_category_display_name: "Переход с и на MEW"
+primary_category_display_name: "Migrating To And From MEW"
 alias:
   - migration/moving-from-private-key-to-metamask.html
 ---
 
-# __Использование MetaMask с MEW__
+# __Using MetaMask with MEW__
 ###### {% read_time title "Использование MetaMask с MEW" %} мин. на прочтение
 ***
 
@@ -46,7 +46,7 @@ alias:
 
 
 
-## __Использование MetaMask с MEW__
+## __Using MetaMask with MEW__
 
 Теперь, когда у вас есть кошелек MetaMask, вы сможете получить к нему доступ, выполнив следующие действия:
 
