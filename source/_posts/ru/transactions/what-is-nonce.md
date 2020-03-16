@@ -7,12 +7,12 @@ categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Transactions"
+primary_category_display_name: "Транзакции"
 alias:
   - transactions/what-is-nonce.html
 ---
 
-# __What is Nonce?__
+# __Что такое Nonce-число?__
 ###### {% read_time title "What is Nonce?" %} минимальное считывание
 ***
 
