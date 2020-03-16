@@ -2,16 +2,16 @@
 title: "Использование аппаратного кошелька с кастомным путем деривации"
 date: 2018-06-01 00:05:00
 tags:
-  - аппаратный
-  - кошелек
-  - кастомный
+  - hardware
+  - wallet
+  - custom
   - деривация
   - путь
 categories:
   - 
-    - аппаратные-кошельки
-primary_category: аппаратные-кошельки
-primary_category_display_name: "Аппаратные кошельки"
+    - hardware-wallets
+primary_category: hardware-wallets
+primary_category_display_name: "Hardware Wallets"
 alias:
   - networks/using-ethereum-hardware-wallet-with-path.html
 ---
