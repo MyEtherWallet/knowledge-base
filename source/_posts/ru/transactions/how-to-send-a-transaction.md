@@ -3,17 +3,17 @@ title: "Как отправить транзакцию"
 date: 2018-06-01 00:03:00
 tags:
   - отправить
-  - транзакция
+  - transaction
 categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Транзакции"
+primary_category_display_name: "Transactions"
 alias:
   - transactions/how-to-send-transaction.html
 ---
 
-# __Как отправить транзакцию__
+# __How to Send a Transaction__
 ###### Время прочтения: {% read_time title "Как отправить транзакцию" %} мин.
 ***
 
