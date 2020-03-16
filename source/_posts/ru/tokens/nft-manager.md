@@ -2,19 +2,19 @@
 title: "Невзаимозаменяемые токены (NFTs)"
 date: 2018-06-01 00:01:00
 tags:
-  - token
+  - токен
   - nft
   - nfts
   - не-
   - взаимозаменяемые
-  - tokens
+  - токены
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
-    - token
-primary_category: token
-primary_category_display_name: "Tokens"
+    - токен
+primary_category: токен
+primary_category_display_name: "Токены"
 alias:
   - tokens/nft-manager.html
 ---
