@@ -8,17 +8,17 @@ tags:
   - Токены
   - несколько
   - адресов
-  - адрес
+  - address
 categories:
   - 
     - security-and-privacy
 primary_category: security-and-privacy
-primary_category_display_name: "Безопасность и Приватность"
+primary_category_display_name: "Security And Privacy"
 alias:
   - addresses/creating-new-accounts-for-eth-and-tokens.html
 ---
 
-# __Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?__
+# __Should I Keep My ETH and ERC20 Tokens on Multiple Addresses?__
 ###### Время прочтения: {% read_time title "Нужно л мне хранить свои токены ETH и ERC20 на нескольких адресах?" %} мин.
 ***
 
