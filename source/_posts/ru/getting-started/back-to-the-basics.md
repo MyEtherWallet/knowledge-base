@@ -17,7 +17,7 @@ alias:
 ---
 
 
-# __Вернемся к основам: 10 советов новичкам__
+# __Back to the Basics: 10 Tips for Beginners__
 ###### {% read_time title "Back to the Basics: 10 Tips for Beginners" %} минут на чтение
 ***
 
