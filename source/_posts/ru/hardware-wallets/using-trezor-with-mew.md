@@ -3,31 +3,31 @@ title: "Использование аппаратного кошелька Trezo
 date: 2018-06-01 00:01:00
 tags:
   - trezor
-  - hardware
-  - wallet
+  - аппаратный
+  - кошелек
 categories:
   - 
-    - hardware-wallets
-primary_category: hardware-wallets
-primary_category_display_name: "Hardware Wallets"
+    - аппаратные-кошельки
+primary_category: аппаратные-кошельки
+primary_category_display_name: "Аппаратные кошельки"
 alias:
   - migration/moving-from-private-key-to-trezor-hardware-wallet.html
 ---
 
-# __Using a Trezor Hardware Wallet with MEW__
+# __Использование аппаратного кошелька Trezor с MEW__
 ###### {% read_time title "Использование аппаратного кошелька Trezor с MEW" %} мин. на прочтение
 ***
 
-Аппаратные кошельки Trezor являются одними из самых безопасных и простых в использовании аппаратных кошельков для криптовалют. Купить их можно [здесь](https://trezor.io/?offer_id=12&aff_id=2029). *Пожалуйста, покупайте аппаратные кошельки у производителя или официального дистрибьютора. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
+Аппаратные кошельки Trezor являются одними из самых безопасных и простых в использовании аппаратных кошельков для криптовалют. Купить их можно [здесь](https://trezor.io/?offer_id=12&aff_id=2029). *Пожалуйста, покупайте аппаратные кошельки у производителя или официального дистрибьютора. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.*
 
-This particular hardware wallet supports a wide range of cryptocurrencies, but this guide is specifically made for accessing Ethereum and ERC-20 tokens while using MyEtherWallet (MEW).
+Данный аппаратный кошелек поддерживает широкий спектр криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).
 
-**Этот пункт очень важен.** Ваше устройство Trezor является ОТДЕЛЬНЫМ кошельком. You cannot import your old MEW address into this, or use your old wallet with it. It has its own private key, encrypted into the device itself. You will be choosing a new ethereum address on this device, and using it as your new main wallet.
+**Этот пункт очень важен.** Ваше устройство Trezor является ОТДЕЛЬНЫМ кошельком. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.
 
-Without further ado, let’s begin!
+Ну что ж, давайте начнем!
 
 
-## __The Initial Set-Up__
+## __Начальная настройка__
 
 **Шаг 1.** Распакуйте ваш Trezor! Вы увидите несколько карт и инструкций для настройки. Внимательно следуйте этим инструкциям! Подключите Trezor к своему компьютеру и начните работу с ним. Перейдите на [trezor.io/start](https://trezor.io/start), чтобы начать процесс настройки.
 
@@ -41,7 +41,7 @@ Without further ado, let’s begin!
 
 ***
 
-**Шаг 3.** *Это один из самых важных шагов.* Не записывайте эту фразу на вашем компьютере, не делайте фото фразы. Запишите свои 24 seed-слова в нескольких местах. DO NOT LOSE THEM. If you lose these words, you’ve lost all your cryptocurrency. В комплекте с Ledger поставляются карточки для записи, но я предлагаю записать их еще где-нибудь. Again, do not write this phrase down on your computer. Use pen and paper. Когда вы закончите, то увидите экран приведенный ниже.
+**Шаг 3.** *Это один из самых важных шагов.* Не записывайте эту фразу на вашем компьютере, не делайте фото фразы. Запишите свои 24 seed-слова в нескольких местах. НЕ ПОТЕРЯЙТЕ ИХ. Если вы потеряете эти слова, вы потеряете также и доступ ко всей своей криптовалюте. В комплекте с Ledger поставляются карточки для записи, но я предлагаю записать их еще где-нибудь. И еще раз, не сохраняйте эту фразу на своем компьютере. Используйте ручку и бумагу. Когда вы закончите, то увидите экран приведенный ниже.
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor3.png" width="80%" />
 
@@ -81,7 +81,7 @@ Without further ado, let’s begin!
 
 ***
 
-**Шаг 2.** Проверьте URL-адрес SSL сертификата MyEtherWallet Inc [US], чтобы убедиться, что вы на нашем настоящем и безопасном сайте. Are you? Great! Head to ‘Access My Wallet’ and choose the option that says ‘Hardware’. Выберите ‘Trezor’ и ‘Продолжить’. В это время Trezor все еще должен быть подключен.
+**Шаг 2.** Проверьте URL-адрес SSL сертификата MyEtherWallet Inc [US], чтобы убедиться, что вы на нашем настоящем и безопасном сайте. Вы уверены? Отлично! Перейдите на ‘Доступ к кошельку’ и выберите пункт ‘Аппаратные кошельки’. Выберите ‘Trezor’ и ‘Продолжить’. В это время Trezor все еще должен быть подключен.
 
 <img src="/images/posts/hardware-wallet/trezor/MEW1.png" width="75%" />
 
@@ -95,7 +95,7 @@ Without further ado, let’s begin!
 
 ***
 
-**Шаг 4.** MEW вернет вас на страницу с разными сетями и путями деривации. Choose which network you’d like to connect to, and which path you’d like to use. For regular ETH usage, you should be on an ETH network, under the Ethereum derivation path. You can also access other networks, such as Ethereum Classic (ETC), by choosing the related network path.
+**Шаг 4.** MEW вернет вас на страницу с разными сетями и путями деривации. Выберите сеть, к которой хотите подключиться, и путь деривации. Для использования обычного ETH вы должны быть в сети ETH с путем деривации Ethereum. Вы также можете получить доступ к другим сетям, таким как Ethereum Classic (ETC), выбрав соответствующую опцию.
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor16.png" width="40%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor12.png" width="40%" />
 
@@ -103,23 +103,23 @@ Without further ado, let’s begin!
 
 ***
 
-**Шаг 5.** Вы увидите список адресов. These are your new addresses to choose from for your main wallet! Choose one out of the five that you like. (Most people choose the first one, but you don’t have to.)
+**Шаг 5.** Вы увидите список адресов. Это новые адреса, доступные для выбора в качестве вашего основного кошелька! Выберите один из пяти, который вам нравится. (Большинство людей выбирают первый, но это не обязательно.)
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor13.png" width="42.5%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor14.png" width="50%" />
 
 ***
 
-**Шаг 6.** Теперь вас должны перенаправить в окно, очень похожее на окно доступа к вашему старому кошельку. Great job! Теперь вы официально используете свой новый аппаратный кошелек Trezor!
+**Шаг 6.** Теперь вас должны перенаправить в окно, очень похожее на окно доступа к вашему старому кошельку. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Trezor!
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor15.png" width="50%" />
 
 
 
-## __What About My Old Wallet???__
+## __А что насчет моего старого кошелька???__
 
 Если вы использовали старый кошелек и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе Trezor, вам нужно будет перевести средства на новый адрес посредством обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEWconnect, MetaMask, хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Trezor). Переведите свои ETH и токены на новый адрес Trezor с более безопасным доступом.
 
-Please be advised ETH will be required for gas to move any tokens held in your old wallet. We recommend holding .01 ETH to cover 2 - 3 transactions.
+Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 
 
 
@@ -129,8 +129,8 @@ Please be advised ETH will be required for gas to move any tokens held in your o
 
 
 
-## __Troubleshooting__
+## __Решение проблем__
 
 Большинство проблем с Trezor можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также нового кабеля для подключения.
 
-As always, feel free to contact us at support@myetherwallet.com. We are always happy to help!
+Как обычно, вы можете связаться с нами по адресу support@myetherwallet.com. Мы всегда рады помочь!
