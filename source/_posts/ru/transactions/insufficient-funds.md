@@ -1,35 +1,35 @@
 ---
-title: "Недостаточно ETH для отправки"
+title: "Not Enough ETH to Send"
 date: 2018-06-01 00:01:00
 tags:
-  - недостаточно
-  - средства
-  - средства
+  - insufficient
+  - fund
+  - funds
 categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Транзакции"
+primary_category_display_name: "Transactions"
 alias:
   - gas/error-insufficient-funds-message.html
 ---
 
-# __Ошибка: Недостаточно ETH для отправки__
-###### {% read_time title "Not Enough ETH to Send" %} минут на чтение
+# __Error: Not Enough ETH to Send__
+###### {% read_time title "Not Enough ETH to Send" %} min read
 ***
 
-Если вы получаете ошибку, которая выглядит так: "Не хватает ETH для отправки", это означает, что у вас недостаточно ETH на счету для покрытия расходов на газ.
+If you are getting the error that looks like this: "Not enough ETH to send", it means you do not have enough ETH in your account to cover the cost of gas.
 
-Для каждой транзакции (включая транзакции с токенами и контрактами) нужен газ, который покупается за ETH. Вы можете рассматривать это как комиссию за транзакцию.
+Each transaction (including token and contract transactions) requires gas, and that gas is paid in ETH. You can think of this like a transaction fee.
 
-## __Решение: отправьте 0,01 ETH на этот аккаунт, чтобы иметь возможность совершить транзакцию.__
+## __Solution: Send 0.01 ETH to that account in order to be able to make the transaction.__
 
-В стандартной операции лимит газа составляет `21 000 единиц`, а цена газа — `0,00000002 ETH`, то есть общая комиссия будет `0,00042 ETH`. С токенами количество газа обычно `50 000 — 100 000 единиц`, поэтому общая комиссия увеличивается до `0,001–0,002 ETH`.
+A standard transaction will take a gas limit of `21000` and a gas price of `0.00000002 ETH`, which makes the total transaction fee `0.00042 ETH`. With tokens, the amount of gas is typically `50000 gas - 100000 gas`, so the total TX fee increases to `0.001 ETH - 0.002 ETH`.
 
 
-## __Подробнее о газе__
-* Стандартная транзакция будет стоить `21 000` единиц газа, а цена газа — `0,00000002 ETH`, поэтому общая комиссия составит `0,00042 ETH`.
-* С токенами количество газа обычно 50 000 — 100 000 единиц, поэтому общая комиссия увеличивается до `0,001–0,002 ETH`.
-* Количество ETH или токенов, которые вы отправляете, не влияет на нужное вам количество газа.
-* **_Лимит_ газа** — это максимальное количество газа, которое вы отправите во время транзакции. Это в единицах газа.
-* **Цена _газа_** — это стоимость каждой единицы газа. Цену газа можно изменить в Настройках, или в разделе 'Комиссия за транзакцию' на странице 'Отправить транзакцию'. 
+## __More Information About Gas__
+* A standard TX will be `21000` gas & a gas price of `0.00000002 ETH` so the total TX fee will be `0.00042 ETH`.
+* With tokens, the amount of gas is typically 50000 gas - 100000 gas, so the total TX fee increases to `0.001 ETH - 0.002 ETH`.
+* The amount of ETH or tokens you are sending does not affect the amount of gas you need.
+* **Gas _limit_** is the maximum amount of gas you will send with your transaction. This is in units of gas.
+* **Gas _price_** is how much each unit of gas costs. It can be adjusted via the Settings page, or by adjusting the 'Transaction Fee' on the 'send transaction' page. 
