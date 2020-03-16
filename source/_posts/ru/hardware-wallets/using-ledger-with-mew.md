@@ -3,28 +3,28 @@ title: "Использование аппаратного кошелька Ledge
 date: 2018-06-01 00:02:00
 tags:
   - ledger
-  - hardware
-  - wallet
+  - аппаратный
+  - кошелек
 categories:
   - 
-    - hardware-wallets
-primary_category: hardware-wallets
-primary_category_display_name: "Hardware Wallets"
+    - аппаратные-кошельки
+primary_category: аппаратные-кошельки
+primary_category_display_name: "Аппаратные кошельки"
 alias:
   - migration/moving-from-private-key-to-ledger-hardware-wallet.html
 ---
 
-# __Using a Ledger Hardware Wallet with MEW__
+# __Использование аппаратного кошелька Ledger с MEW__
 ###### {% read_time title " Использование аппаратного кошелька Ledger с MEW" %} мин. на прочтение
 ***
 
-Аппаратные кошельки Ledger являются одними из самых безопасных и простых в использовании аппаратных кошельков для криптовалют. Купить их можно [здесь](https://www.ledger.com/?r=fa4b). *Пожалуйста, покупайте аппаратные кошельки у производителя или официального дистрибьютора. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
+Аппаратные кошельки Ledger являются одними из самых безопасных и простых в использовании аппаратных кошельков для криптовалют. Купить их можно [здесь](https://www.ledger.com/?r=fa4b). *Пожалуйста, покупайте аппаратные кошельки у производителя или официального дистрибьютора. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.*
 
 Данный аппаратный кошелек поддерживает широкий спектр криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).
 
-**Этот пункт очень важен.** Ваше устройство Ledger является ОТДЕЛЬНЫМ кошельком. You cannot import your old MEW address into this, or use your old wallet with it. It has its own private key, encrypted into the device itself. You will be choosing a new ethereum address on this device, and using it as your new main wallet.
+**Этот пункт очень важен.** Ваше устройство Ledger является ОТДЕЛЬНЫМ кошельком. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.
 
-Without further ado, let’s begin!
+Ну что ж, давайте начнем!
 
 
 ## __Использование Ledger с MEW__
@@ -69,7 +69,7 @@ Without further ado, let’s begin!
 
 ***
 
-**Шаг 8.** Теперь вас должны перенаправить в окно, очень похожее на окно доступа к вашему старому кошельку. Great job! Теперь вы официально используете свой новый аппаратный кошелек Ledger!
+**Шаг 8.** Теперь вас должны перенаправить в окно, очень похожее на окно доступа к вашему старому кошельку. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Ledger!
 
 <img src="/images/posts/hardware-wallet/ledger/LEdger4.png" width="50%" />
 
@@ -77,11 +77,11 @@ Without further ado, let’s begin!
 
 
 
-## __What About My Old Wallet???__
+## __А что насчет моего старого кошелька???__
 
 Если вы использовали старый кошелек и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе Ledger, вам нужно будет перевести средства на новый адрес посредством обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEWconnect, MetaMask, хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Ledger). Переведите свои ETH и токены на новый адрес Ledger с более безопасным доступом.
 
-Please be advised ETH will be required for gas to move any tokens held in your old wallet. We recommend holding .01 ETH to cover 2 - 3 transactions.
+Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 
 
 
@@ -91,8 +91,8 @@ Please be advised ETH will be required for gas to move any tokens held in your o
 
 
 
-## __Troubleshooting__
+## __Решение проблем__
 
 Большинство проблем с Ledger можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), установки опции "Данные о контракте" на ‘Yes’, использования последней версии прошивки, а также нового кабеля для подключения.
 
-As always, feel free to contact us at support@myetherwallet.com. We are always happy to help!
+Как обычно, вы можете связаться с нами по адресу support@myetherwallet.com. Мы всегда рады помочь!
