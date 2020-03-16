@@ -4,21 +4,21 @@ date: 2018-06-01 00:02:00
 tags:
   - eth
   - erc20
-  - токен
-  - токены
-  - отправлено
+  - token
+  - tokens
+  - sent
   - с
-  - биржа
+  - exchange
 categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Транзакции"
+primary_category_display_name: "Transactions"
 alias:
   - faq/eth-or-tokens-not-showing-on-exchange.html
 ---
 
-# __Не появились ETH или токены ERC20, отправленные на биржу или с нее__
+# __ETH or ERC20 Tokens Sent To/From an Exchange Haven’t Shown Up__
 ###### Время прочтения: {% read_time title "Не появились токены ETH или ERC20, отправленные на биржу или с нее" %} мин.
 ***
 
