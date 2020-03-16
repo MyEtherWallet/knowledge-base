@@ -1,39 +1,39 @@
 ---
-title: "Ошибка: Not checksummed"
+title: "Error: Not Checksummed"
 date: 2018-06-01 00:03:00
 tags:
-  - ошибка
+  - error
   - checksummed
   - checksum
 categories:
   - 
     - transactions
 primary_category: transactions
-primary_category_display_name: "Транзакции"
+primary_category_display_name: "Transactions"
 alias:
   - addresses/what-does-checksummed-mean.html
 ---
 
-# __Ошибка: Not checksummed__
-###### {% read_time title "Error: Not Checksummed" %} минут на чтение
+# __Error: Not Checksummed__
+###### {% read_time title "Error: Not Checksummed" %} min read
 ***
 
-Каждый адрес в Ethereum имеет две версии: одна включает заглавные буквы, другая — нет. Они называются checksummed версия и non-checksummed версия соответственно. Возьмем для примера адрес MEW для пожертвований:
+Every Ethereum address has two versions to it, one that includes uppercase letters and one that doesn’t. These are called the checksummed and non-checksummed versions, respectively. Take for example, the MEW donation address:
 
-Non-checksummed версия: `0xdecaf9cd2367cdbb726e904cd6397edfcae6068d`
+Non-checksummed version: `0xdecaf9cd2367cdbb726e904cd6397edfcae6068d`
 
-Checksummed версия: `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D`
+Checksummed version: `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D`
 
-Оба адреса включают одинаковые символы и ведут в одно и то же место, просто cheksummed немного более полезен для определения точности адреса. Обе версии адреса возможны и пригодны к использованию, однако checksummed версия предпочтительна. Если хотя бы один символ адреса неверен, все токены и монеты, отправленные на него, будут потеряны навсегда. К этому нужно относиться серьезно.
+These two addresses include all the same characters and lead to the same destination, the checksummed one is just a little more useful for determining the accuracy of the address. Both versions of the address are viable and usable, but the checksummed version is the preferred version to use. If even one character of an address is off, any tokens or coins sent to the wrong address will be lost forever. This is not something to be taken lightly.
 
-Иногда вы будете видеть ошибку с предупреждением о том, что ваш адрес not checksummed, которая не дает вам совершить транзакцию или добавить пользовательский токен либо предостерегает от этого. Это для вашей собственной безопасности. Однако не беспокойтесь!
+Sometimes you will receive an error warning you that your address is not checksummed, preventing or warning you from making a transaction or adding a custom token. This is for your own safety. Do not be alarmed, though!
 
-## __Найти checksummed версию любого адреса очень просто:__
+## __It’s very easy to find the checksummed version of any address:__
 
-**Шаг 1.** Зайдите на Etherscan.io.
+**Step 1.** Head to Etherscan.io.
 
-**Шаг 2.** Введите адрес, который хотите просмотреть, в поле поиска.
+**Step 2.** Input the address you’re interested in viewing into the search field.
 
-**Шаг 3.** Вы будете перенаправлены на страницу адреса с балансами и списком транзакций
+**Step 3.** You will be taken to a page for the address, with balances and a list of transactions
 
-**Шаг 4.** В верхней части страницы вы увидите checksummed версию с заглавными буквами
+**Step 4.** At the top of the page, see the checksummed version with capital letters included
