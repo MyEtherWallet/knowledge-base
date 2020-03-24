@@ -16,7 +16,7 @@ primary_category_display_name: "Hardware Wallets"
 ###### {% read_time title "Using a Digital BitBox Hardware Wallet with MEW" %} min read
 ***
 
-Digital BitBox Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here][buyBitBox]. 
+Digital BitBox Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here](https://shiftcrypto.ch/?ref=mew).
 
 *Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
 
@@ -30,7 +30,7 @@ Without further ado, let’s begin!
 
 ## __The Initial Set-Up__
 
-**Step 1.** Unbox your Digital BitBox! Plug it into your computer and download the [Digital BitBox Desktop App][BitBoxdl]. 
+**Step 1.** Unbox your Digital BitBox! Plug it into your computer and download the [Digital BitBox Desktop App](https://shiftcrypto.ch/start).
 * You may want to pin it to your taskbar.
 
 **Step 2.** In the Digital BitBox Desktop App interface, select 'Create a new wallet'. 
