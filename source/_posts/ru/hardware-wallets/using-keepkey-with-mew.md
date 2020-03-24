@@ -16,11 +16,13 @@ primary_category_display_name: "Аппаратные кошельки"
 ###### {% read_time title "Использование аппаратного кошелька KeepKey с MEW" %} мин. на прочтение
 ***
 
-Аппаратные кошельки KeepKey являются ведущими решениями по соответствию стандартам безопасности и удобству использования. Купить их можно [здесь](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet/?source=hasoffers). *Пожалуйста, покупайте аппаратные кошельки у производителя или официального дистрибьютора. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.*
+Аппаратные кошельки KeepKey являются ведущими решениями по соответствию стандартам безопасности и удобству использования. Купить их можно [здесь](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet/?source=hasoffers).
+
+*Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
 
 Аппаратные кошельки часто поддерживают несколько криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).
 
-**Этот пункт очень важен.** Ваше устройство KeepKey является ОТДЕЛЬНЫМ кошельком. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.
+**This part is very important.** Your KeepKey device comes as its own SEPARATE wallet. You should not import your old MEW address into this, or use your old wallet with it. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.
 
 Ну что ж, давайте начнем!
 
@@ -28,13 +30,13 @@ primary_category_display_name: "Аппаратные кошельки"
 
 ## __Начальная настройка__
 
-**Шаг 1.** Распакуйте ваш KeepKey! Подключите его к компьютеру и загрузите [расширение для браузера KeepKey Client](https://chrome.google.com/webstore/detail/keepkey-client/idgiipeogajjpkgheijapngmlbohdhjg?hl=en-US).
+**Step 1.** Unbox your KeepKey! Plug it into your computer and download the [KeepKey Client browser extension](https://chrome.google.com/webstore/detail/keepkey-client/idgiipeogajjpkgheijapngmlbohdhjg?hl=en-US) application.
 * Это не типичное расширение браузера, которое отображается в его интерфейсе, как MetaMask, например. Возможно, вы захотите закрепить его на панели задач.
 
-**Шаг 2.** В интерфейсе KeepKey Client выберите "Инициализировать устройство".
+**Step 2.** In the KeepKey Client interface, select 'Initialize Device'.
 * Установите название вашего устройства.
 
-**Шаг 3.** Настройте PIN-код для доступа к вашему устройству KeepKey. Выберите такой, который сможете легко запомнить. Запишите его в нескольких местах. Не забудьте его!! Это позволит вам разблокировать свой кошелек каждый раз, когда захотите получить к нему доступ. PIN-код должен содержать от 4 до 8 символов.
+**Step 3.** Set up a PIN code to access your KeepKey. Выберите такой, который сможете легко запомнить. Запишите его в нескольких местах. Не забудьте его!! Это позволит вам разблокировать свой кошелек каждый раз, когда захотите получить к нему доступ. PIN-код должен содержать от 4 до 8 символов.
 * Вводите их в правильном порядке!
 * Цифры PIN-кода будут отображаться на самом устройстве.
 
@@ -47,23 +49,23 @@ primary_category_display_name: "Аппаратные кошельки"
 
 ## __Использование KeepKey с MEW__
 
-**Шаг 1.** Подключите и выполните вход в ваше устройство KeepKey. Откройте KeepKey Client и скачайте программное обеспечение Ethereum на свое устройство, выбрав 'Добавить учетную запись' в правом нижнем углу.
+**Step 1.** Attachand unlock your KeepKey device. Open your KeepKey Client and download the Ethereum account software to your device by choosing 'Add Account' in the bottom right corner.
 * После того, как все будет готово, закройте KeepKey Client и отключите, а затем снова подключите свое устройство.
 
-**Шаг 2.** Теперь направляйтесь на сайт MyEtherWallet.com. Выберите "Доступ к кошельку" > "Аппаратный" > "KeepKey".
+**Step 2.** Now head to MyEtherWallet.com. Select 'Access My Wallet' > 'Hardware' > 'KeepKey'.
 
-**Шаг 3.** Введите ваш PIN-код, чтобы подключиться к кошельку.
+**Step 3.** Enter your pin to connect to your wallet.
 
 **Шаг 4.** Здесь вы увидите много адресов. Убедитесь, что вы работаете с сетью Ethereum, используете стандартный путь деривации Ethereum (derivation path), а затем выберите свой адрес.
 * Правильного или неправильного выбора адреса не бывает, все зависит от ваших предпочтений. Но выбор первого — это, как правило, лучший вариант для удобства и запоминания.
 
-**Шаг 5.** Теперь вас должны перенаправить в окно, очень похожее на окно доступа к вашему старому кошельку. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек KeepKey!
+**Шаг 5.** Теперь вас должны перенаправить в окно, очень похожее на окно доступа к вашему старому кошельку. Отличная работа! You’re officially using your new KeepKey hardware wallet!
 
 ***
 
 ## __А что насчет моего старого кошелька???__
 
-Если вы использовали старый кошелек и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе KeepKey, вам нужно будет перевести средства на новый адрес посредством обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEWconnect, MetaMask, хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на KeepKey). Переведите свои ETH и токены на новый адрес KeepKey с более безопасным доступом.
+If you are coming from an old wallet and want your ETH and tokens on your new, secure KeepKey address, you will need to send your funds to your new address through regular transactions. This can be achieved by accessing your old wallet through MEW wallet, MetaMask, Keystore file, or private key (however you usually did it before the KeepKey). From here, send your ETH and tokens to your new KeepKey address, ready to be accessed in a more secure fashion.
 
 Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 
@@ -73,6 +75,6 @@ primary_category_display_name: "Аппаратные кошельки"
 
 ## __Решение проблем__
 
-Большинство проблем с KeepKey можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также нового кабеля для подключения.
+Most issues with the KeepKey can be fixed by performing a hard refresh (using CTRL+F5), confirming that all the firmware is updated to its latest release, and trying a new connecting cable.
 
 Как обычно, вы можете связаться с нами по адресу support@myetherwallet.com. Мы всегда рады помочь!
