@@ -17,11 +17,12 @@ primary_category_display_name: "Hardware Wallets"
 ***
 
 Secalot Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here][buySecalot]. 
+
 *Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
 
 Hardware wallets often support multiple cryptocurrencies, but this guide is specifically made for accessing Ethereum and ERC-20 tokens while using MyEtherWallet (MEW). 
 
-**This part is very important.** Your Secalot device comes as its own SEPARATE wallet. You cannot import your old MEW address into this, or use your old wallet with it. It has its own private key, encrypted into the device itself. You will be choosing a new ethereum address on this device, and using it as your new main wallet.
+**This part is very important.** Your Secalot device comes as its own SEPARATE wallet. You should not import your old MEW address into this, or use your old wallet with it. It has its own private key, encrypted into the device itself. You will be choosing a new ethereum address on this device, and using it as your new main wallet.
 
 Without further ado, let’s begin!
 
@@ -60,7 +61,7 @@ Without further ado, let’s begin!
 
 ## __What About My Old Wallet???__
 
-If you are coming from an old wallet and want your ETH and tokens on your new, secure Secalot address, you will need to send your funds to your new address through a regular transaction. This can be achieved by accessing your old wallet through MEWconnect, MetaMask, Keystore file, or private key (however you usually did it before the Secalot). From here, send your ETH and tokens to your new Secalot address, ready to be accessed in a more secure fashion.
+If you are coming from an old wallet and want your ETH and tokens on your new, secure Secalot address, you will need to send your funds to your new address through regular transactions. This can be achieved by accessing your old wallet through MEW wallet, MetaMask, Keystore file, or private key (however you usually did it before the Secalot). From here, send your ETH and tokens to your new Secalot address, ready to be accessed in a more secure fashion.
 
 Please be advised ETH will be required for gas to move any tokens held in your old wallet. We recommend holding .01 ETH to cover 2 - 3 transactions.
 
