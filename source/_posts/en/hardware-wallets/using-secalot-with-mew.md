@@ -16,7 +16,7 @@ primary_category_display_name: "Hardware Wallets"
 ###### {% read_time title "Using a Secalot Hardware Wallet with MEW" %} min read
 ***
 
-Secalot Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here][buySecalot]. 
+Secalot Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here](https://www.secalot.com/product/secalot-dongle/).
 
 *Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
 
