@@ -18,7 +18,7 @@ alias:
 ###### {% read_time title "Using a Ledger Hardware Wallet with MEW" %} min read
 ***
 
-Ledger Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. They are available for purchase [here][buyLedger]. 
+Ledger Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. They are available for purchase [here](https://www.ledger.com/?r=fa4b).
 
 *Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
 
