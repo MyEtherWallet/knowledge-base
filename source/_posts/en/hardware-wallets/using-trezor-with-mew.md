@@ -18,7 +18,7 @@ alias:
 ###### {% read_time title "Using a Trezor Hardware Wallet with MEW" %} min read
 ***
 
-Trezor Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. They are available for purchase [here][buyTrezor]. 
+Trezor Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. They are available for purchase [here](https://trezor.io/?offer_id=12&aff_id=2029).
 
 *Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
 
