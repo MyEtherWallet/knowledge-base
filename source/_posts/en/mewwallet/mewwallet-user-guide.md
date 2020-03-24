@@ -59,7 +59,7 @@ primary_category_display_name: "MEW wallet"
  
 <br>
 
-**Step 1.** After creating your wallet, select 'Backup Now'. Read the warning and continue.
+**Step 1.** After creating your wallet, select 'Back up Now'. Read the warning and continue.
 * You can also head to ‘Settings’, then ‘View my recovery phrase’.
  
 <img src="/images/posts/mewconnect/mbackup1.jpg" width="350px">
