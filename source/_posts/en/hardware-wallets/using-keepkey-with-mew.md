@@ -16,7 +16,7 @@ primary_category_display_name: "Hardware Wallets"
 ###### {% read_time title "Using a KeepKey Hardware Wallet with MEW" %} min read
 ***
 
-KeepKey Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here][buyKeepKey]. 
+KeepKey Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet/?source=hasoffers).
 
 *Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure.*
 
