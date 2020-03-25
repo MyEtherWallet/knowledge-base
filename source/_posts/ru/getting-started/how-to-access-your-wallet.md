@@ -53,9 +53,9 @@ alias:
 ##### __
 
 ## __WalletLink / WalletConnect__
-WalletLink is a connection protocol used by the mobile app Coinbase Wallet, and WalletConnect is another connection protocol that's already being used by over 20 mobile wallets like Trust Wallet, MetaMask, Coinomi, etc. By integrating support for all these wallets to connect with MEW, it's now possible to explore all of Ethereum from many different outlets.
+WalletLink это протокол соединения, используемый мобильным приложением Coinbase Wallet. WalletConnect это другой протокол подключения, который уже используется более чем 20 мобильными кошельками, включая Trust Wallet, MetaMask, Coinomi и др. Интеграция поддержки соединения этих кошельков с MEW дает пользователям возможность изучать весь Ethereum с множества разнообразных точек доступа.
 
-These wallets each have their own connection processes, but it always boils down to the same action- scanning a QR code with your app to connect to MEW.
+Эти кошельки имеют свои собственные процессы подключения, но он всегда сводится к тому же действию - сканирование QR-кода с помощью вашего приложения для подключения к MEW.
 
 ##### __
 
