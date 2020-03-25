@@ -24,7 +24,7 @@ alias:
 <br>
 
 * Hardware Wallets ([Ledger Nano S][ledger], [Trezor][trezor], [Digital Bitbox][bitbox], [Finney][finney], etc.)
-* MEW wallet, MEW's official mobile app for iOS and Android.
+* MEW wallet, MEW's official mobile app for iOS and Android, and WalletLink / WalletConnect
 * Browser Extensions a.k.a. Web3 (MEW CX, MetaMask, etc.)
 * Software
     * Keystore/JSON File + password
@@ -49,6 +49,13 @@ To learn more about accessing MEW with hardware wallets, reference our [Migratin
 This is our fully fledged MEW mobile app for iOS and Android smartphones. It's simple, fast, and secure to use. When creating a wallet with MEW wallet, your private key is kept encrypted on a secure, local vault in your phone. For backup, you are given a mnemonic phrase (much like the hardware wallets above). The wallet is also accompanied by a pin or password, which is used to unlock it on your device.
 
 To learn more about accessing MEW with MEW wallet, reference our [MEW wallet User Guide][mewWallet]. 
+
+##### __
+
+## __WalletLink / WalletConnect__
+WalletLink is a connection protocol used by the mobile app Coinbase Wallet, and WalletConnect is another connection protocol that's already being used by over 20 mobile wallets like Trust Wallet, MetaMask, Coinomi, etc. By integrating support for all these wallets to connect with MEW, it's now possible to explore all of Ethereum from many different outlets. 
+
+These wallets each have their own connection processes, but it always boils down to the same action- scanning a QR code with your app to connect to MEW. 
 
 ##### __
 
