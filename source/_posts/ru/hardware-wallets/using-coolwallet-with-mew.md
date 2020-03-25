@@ -22,7 +22,7 @@ CoolWallet Hardware Wallets are leading wallets for their sleek design, uncompro
 
 Аппаратные кошельки часто поддерживают несколько криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).
 
-**This part is very important.** Your CoolWallet device comes as its own SEPARATE wallet. You should not import your old MEW address into this, or use your old wallet with it. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.
+**This part is very important.** Your CoolWallet device comes as its own SEPARATE wallet. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.
 
 Ну что ж, давайте начнем!
 
