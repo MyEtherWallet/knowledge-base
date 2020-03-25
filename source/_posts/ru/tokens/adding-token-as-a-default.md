@@ -16,7 +16,6 @@ alias:
   - tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
-Let me put a sentence
 # __Добавление вашего токена в список токенов по умолчанию__
 ###### Время прочтения: {% read_time title "Добавление вашего токена в качестве токена по умолчанию" %} мин.
 ***
