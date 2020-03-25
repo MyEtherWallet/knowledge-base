@@ -69,7 +69,6 @@ alias:
 
 
 
-Let me put a sentence.
 <img src="/images/posts/tokens/Custom3.png" width="60%" />
 
 
