@@ -39,7 +39,7 @@ alias:
 
 Hardware wallets use the highest security measures to encrypt a private key within the device itself, keeping phishers and hackers at bay. Users of most hardwares wallets do not receive their private key, but instead receive a 24-word mnemonic phrase for recovery purposes. The devices are also usually accompanied by a pin code or password used to unlock the device, and all information about each wallet is kept on the actual physical device itself.
 
-To learn more about accessing MEW with hardware wallets, reference our [Migrating to/from MEW](/@@@@@@/migration/moving-from-exchange-to-mew/) category.
+To learn more about accessing MEW with hardware wallets, reference our [Migrating to/from MEW](/@@@@@@/hardware-wallets/) category.
 
 ##### __
 
