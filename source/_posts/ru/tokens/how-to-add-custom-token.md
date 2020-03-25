@@ -69,11 +69,12 @@ alias:
 
 
 
+Let me put a sentence.
 <img src="/images/posts/tokens/Custom3.png" width="60%" />
 
 
 
-**Шаг 3.** Найдите ваш токен в выпадающем списке балансов токенов. Выберите токен, и вы попадете на экран информации о токене.
+**Step 3.** Find your token in the token balances dropdown. Select the token to be taken to a token information screen.
 
 
 
@@ -81,7 +82,7 @@ alias:
 
 
 
-**Шаг 4.** Здесь вы найдете адрес контракта токена и количество десятичных знаков в правой части интерфейса. Запомните число десятичных знаков, а затем нажмите на адрес договора, чтобы перейти на главный экран токена.
+**Step 4.** Here, you will find the token’s contract address and decimal count to the right of the interface. Remember the decimal count, and click on the contract address to be taken to the token’s main screen.
 
 
 
@@ -89,7 +90,7 @@ alias:
 
 
 
-**Шаг 5.** Скопируйте этот адрес и вернитесь на MEW. В верхней части списка токенов нажмите «+ Кастомные токены», чтобы открыть экран добавления своих токенов.
+**Step 5.** Copy this address to your clipboard, and head back to MEW. At the top of the token list, click ‘+ Custom Tokens’ to bring up the custom token addition screen.
 
 
 
@@ -97,7 +98,7 @@ alias:
 
 
 
-**Шаг 6.** Вставьте адрес контракта в верхнее поле, укажите символ токена (аббревиатуру) во втором поле и введите количество десятичных знаков в последнее поле. Затем нажмите «Сохранить». Все готово!
+**Step 6.** Paste the contract address into the top field, input the token’s symbol (abbreviation) into the second field, and enter the decimal count last. Then click ‘Save’. Все готово!
 
 
 
@@ -111,7 +112,7 @@ alias:
 
 
 
-Если вы увидите эту ошибку, то ее можно легко исправить. Введите информацию о своем токене еще раз, но поставьте «2» после символа. Например, если символ токена — «XYZ», то укажите «XYZ2».
+If you see this error, there is a simple fix for it. Re-enter your custom token information, but put a ‘2’ after the symbol. I.e. If the token’s symbol is ‘XYZ’, enter is as ‘XYZ2’.
 
 
 
@@ -119,16 +120,16 @@ alias:
 
 
 
-Если вы все еще видите эту ошибку после сохранения токена с измененным символом, то возможно, что ваш токен уже находится в списке токенов по умолчанию. Попробуйте снова поискать его символ в списке токенов. Если он отображается с нулевым балансом, но на etherscan.io есть положительный баланс, то вам, возможно, придется поменять узел ETH в верхнем правом углу.
+If you still get this error after submitting it with the modified symbol, then your token is likely already a default token. Try searching the token list again for the symbol. If you see it with a balance of 0, but etherscan.io shows a balance, then you’ll likely need to change networks to another ETH node, in the upper right-hand corner.
 
 
 
 ## __Мои добавленные токены исчезают!__
 
-Если токены, которые вы добавили, исчезают при каждом доступе к нашему интерфейсу, убедитесь, что у вас не установлено программное обеспечение для очистки кэша (например, CCleaner). Ваша пользовательская информация о токене хранится локально в вашем браузере, поэтому эта программа удалит эту информацию, и вам нужно будет добавлять токен при каждом доступе к кошельку.
+If your custom tokens are disappearing every time you access our interface, make sure that you do not have a cache-clearing software installed (i.e. CCleaner). Your custom token information is stored locally in your browser, so this software will clear this information and require you to re-submit the token every time you access your wallet.
 
 
 
 ## __Я хочу, чтобы он был внесен в список токенов по умолчанию!__
 
-Мы всегда рады добавить в наш список токенов по умолчанию новые токены. Для этого просто отправьте pull-запрос в [наш репозиторий на GitHub](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth). Для получения дополнительной информации об этом процессе прочитайте нашу статью о том, [как добавить токен в список по умолчанию](/@@@@@@/tokens/adding-token-as-a-default/).
+We are always happy to support new tokens in our default list. To achieve this, simply submit a pull request to [our repo on GitHub](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth). For more information on this process, visit our article on [how to add a default token](/@@@@@@/tokens/adding-token-as-a-default/).
