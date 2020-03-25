@@ -15,7 +15,7 @@ alias:
 - tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
-
+.
 # __Adding Your Token as a Default Token__
 ###### {% read_time title "Adding Your Token as a Default Token" %} min read
 ***
