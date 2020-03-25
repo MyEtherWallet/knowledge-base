@@ -73,6 +73,13 @@ These wallets each have their own connection processes, but it always boils down
 
 ##### __
 
+## __WalletLink / WalletConnect__
+WalletLink is a connection protocol used by the mobile app Coinbase Wallet, and WalletConnect is another connection protocol that's already being used by over 20 mobile wallets like Trust Wallet, MetaMask, Coinomi, etc. By integrating support for all these wallets to connect with MEW, it's now possible to explore all of Ethereum from many different outlets.
+
+These wallets each have their own connection processes, but it always boils down to the same action- scanning a QR code with your app to connect to MEW.
+
+##### __
+
 
 ## __Browser Extension (Web3) Wallets:__
 #### __What is [Web3][web3]?__
