@@ -16,13 +16,14 @@ alias:
   - tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
+Let me put a sentence
 # __Добавление вашего токена в список токенов по умолчанию__
 ###### Время прочтения: {% read_time title "Добавление вашего токена в качестве токена по умолчанию" %} мин.
 ***
 
-Если вы просто экспериментируете с токенами, вы можете [добавить кастомный токен](/@@@@@@/tokens/how-to-add-custom-token/) в локальную версию MyEtherWallet (MEW).
+If you are someone who is just experimenting with tokens, you can [add a custom token](/@@@@@@/tokens/how-to-add-custom-token/) to your local version of MyEtherWallet (MEW).
 
-Если у вас есть токен, который есть у множества других людей, или же который появится у них в ближайшее время, то вы можете добавить его в качестве постоянного токена в список на нашем сайте.
+If you have a token that a lot of other people also have, or will have in the coming days, you can add it as a permanent, default token to our site.
 
 
 
@@ -43,25 +44,25 @@ alias:
 
 
 
-**Шаг 1.** Перейдите на https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth.
+**Step 1.** Go to https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth.
 
  * Если ваш токен в другой сети, вы можете [добавить его здесь](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens).
 
 
 
-**Шаг 2.** Войдите или зарегистрируйтесь на GitHub.
+**Step 2.** Login or join GitHub.
 
 
 
-**Шаг 3.** Нажмите "Create New File" (Создать новый файл) в правом верхнем углу.
+**Step 3.** Click 'Create New File' in the upper right.
 
 
 
-**Шаг 4.** Имя файла должно быть в формате `<АдресВашегоТокена>.json`.
+**Step 4.** The file's name must be in the format `<YourTokenAddress>.json`.
 
 
 
-**Шаг 5.** Заполните шаблон ниже вашими данными:
+**Step 5.** Fill in the template pasted below with your information:
 
     {
     "symbol": "",
@@ -105,7 +106,7 @@ alias:
 
 
 
-**Шаг 6.** Закончив, нажмите "Propose New File" (Предложить новый файл).
+**Step 6.** Once you're finished, click 'Propose New File'.
 
 
 
@@ -113,11 +114,11 @@ alias:
 
 
 
-**Шаг 7.** Проверьте только что заполненные данные и дважды нажмите "Create Pull Request" (Создать запрос на включение).
+**Step 7.** Review what you've just made, then press 'Create Pull Request' twice.
 
 
 
-**Шаг 8.** Вот и все. Вы успешно создали новый pull-запрос!
+**Step 8.** That's it. Вы успешно создали новый pull-запрос!
 
 * Теперь мы рассмотрим его и включим в свой код, и в следующем релизе он будет доступен на нашем сайте. Если что-то будет по какой-то причине непонятно, то мы можем задать вам несколько вопросов.
 
@@ -142,7 +143,7 @@ alias:
 <br>
 
 ## __Добавление контракта / ABI__
-Теперь мы предоставляем пользователям возможность указать адрес, после чего MEW автоматически заполнит ABI. Если у вас есть контракт, **НЕ** являющийся контрактом вашего токена ERC-20, с которым пользователи будут фактически взаимодействовать:
+We now provide users with the ability to enter the address, and MEW will auto-populate with the ABI. If you have a contract that is **NOT** your ERC-20 token contract that users will actually be interacting with:
 
 * Зайдите на страницу https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json.
 * Скопируйте все начиная с `{` до `},`.
