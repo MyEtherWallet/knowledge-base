@@ -68,7 +68,6 @@ You will need three pieces of information to add a custom token with our interfa
 
 
 
-Let me put a sentence.
 <img src="/images/posts/tokens/Custom3.png" width="60%">
 
 
