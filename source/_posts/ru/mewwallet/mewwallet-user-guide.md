@@ -59,7 +59,7 @@ primary_category_display_name: "MEWwallet"
 
 <br>
 
-**Step 1.** After creating your wallet, select 'Back up Now'. Прочитайте предупреждение и перейдите к следующему шагу.
+**Шаг 1.** После создания кошелька, выберите "Создать резервную копию сейчас (Back up now)". Прочитайте предупреждение и перейдите к следующему шагу.
 * Вы также можете перейти в "Настройки", а затем выбрать "Посмотреть фразу для восстановления".
 
 <img src="/images/posts/mewconnect/mbackup1.jpg" width="350px" />
