@@ -172,7 +172,7 @@ The private key is a string of 64 characters tied permanently to a public addres
 
 
 [createWallet]: /@@@@@@/getting-started/how-to-create-a-wallet/
-[migrating]: /@@@@@@/migration/moving-from-exchange-to-mew/
+[migrating]: /@@@@@@/hardware-wallets/
 [mewWallet]: /@@@@@@/mewwallet/mewwallet-user-guide/
 [keystoreJson]: /@@@@@@/security-and-privacy/what-is-a-keystore-file/
 [ledger]: https://www.ledger.com/?r=fa4b
