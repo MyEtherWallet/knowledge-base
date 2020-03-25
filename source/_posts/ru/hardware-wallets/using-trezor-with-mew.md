@@ -119,7 +119,7 @@ alias:
 
 ## __А что насчет моего старого кошелька???__
 
-If you are coming from an old wallet and want your ETH and tokens on your new, secure Trezor address, you will need to send your funds to your new address through regular transactions. This can be achieved by accessing your old wallet through MEW wallet, MetaMask, Keystore file, or private key (however you usually did it before the Trezor). Переведите свои ETH и токены на новый адрес Trezor с более безопасным доступом.
+Если вы переходите со старого кошелька и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе Trezor, вам нужно будет перевести средства на новый адрес через обычную транзакцию. Это можно сделать, войдя в ваш старый кошелек с помощью MEW wallet, MetaMask, хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Trezor). Переведите свои ETH и токены на новый адрес Trezor с более безопасным доступом.
 
 Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 
