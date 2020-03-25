@@ -24,7 +24,7 @@ alias:
 <br>
 
 * Аппаратные кошельки ([Ledger Nano S](https://www.ledger.com/?r=fa4b), [Trezor](https://trezor.io/?offer_id=12&aff_id=2029), [Digital Bitbox](https://shiftcrypto.ch/?ref=mew), [Finney](http://shop.sirinlabs.com/?rfsn=2397639.54fdf&utm_source=refersion&utm_medium=affiliate&utm_campaign=2397639.54fdf) и т. д.)
-* MEW wallet, MEW's official mobile app for iOS and Android, and WalletLink / WalletConnect
+* MEW wallet, официальное мобильное приложение MEW для iOS и Android, и WalletLink / WalletConnect
 * Расширения для браузера с поддержкой Web3 (MEW CX, MetaMask и т.д.)
 * Программный доступ
     * Файл-хранилище ключа / JSON-файл + пароль
