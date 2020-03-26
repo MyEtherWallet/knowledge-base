@@ -1,5 +1,5 @@
 ---
-title: "Using a CoolWallet Hardware Wallet with MEW"
+title: "Использование аппаратного кошелька CoolWallet с MEW"
 date: 2018-06-01 00:02:00
 tags:
   - CoolWallet
@@ -12,17 +12,17 @@ primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 ---
 
-# __Using a CoolWallet Hardware Wallet with MEW__
+# __Использование аппаратного кошелька CoolWallet с MEW__
 ###### {% read_time title "Using a CoolWallet Hardware Wallet with MEW" %} минут на чтение
 ***
 
-CoolWallet Hardware Wallets are leading wallets for their sleek design, uncompromising security, and bluetooth capabilities. Купить их можно [здесь](https://www.coolwallet.io/product/coolwallet/).
+CoolWallet - ведущий аппаратный кошелек со стильным дизайном, тщательным подходом к безопасности и подключением Bluetooth. Купить его можно [здесь](https://www.coolwallet.io/product/coolwallet/).
 
 *Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.*
 
 Аппаратные кошельки часто поддерживают несколько криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).
 
-**This part is very important.** Your CoolWallet device comes as its own SEPARATE wallet. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.
+**Этот пункт очень важен.** Ваше устройство CoolWallet является ОТДЕЛЬНЫМ кошельком. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.
 
 Ну что ж, давайте начнем!
 
@@ -30,50 +30,50 @@ CoolWallet Hardware Wallets are leading wallets for their sleek design, uncompro
 
 ## __Начальная настройка__
 
-**Step 1.** Unbox your CoolWallet! Pull out your phone, make sure Bluetooth is turned on, and download the CoolWallet Mobile App, CoolBitX, by scanning the QR code from the CoolWallet tutorial, included with your device.
+**Шаг 1.** Распакуйте ваш CoolWallet! Достаньте ваш телефон, убедитесь, что Bluetooth включен, и скачайте мобильное приложение CoolWallet, CoolBitX, сканируя QR-код из буклета CoolWallet который включен с вашим устройством.
 
-**Step 2.** Turn on your device by pressing and holding the main button. You will be asked to pair your device. Open the mobile app to  connect the device.
-* If you don't see it, try restarting the device, the app, or turning your bluetooth on and off again.
+**Шаг 2.** Включите устройство, нажав и удерживая главную кнопку. Вам предложат подключить устройство. Откройте мобильное приложение для подключения устройства.
+* Если вы его не видите, попробуйте перезапустить устройство, приложение или включите/выключите Bluetooth.
 
-**Step 3.** Enter the pin you see on your CoolWallet device into the app, then press the button on your device. This will complete the pairing process. After you're done, you can click 'Create' to create your wallet.
+**Шаг 3.** Введите PIN-код, который вы видите на вашем устройстве CoolWallet в приложении, затем нажмите кнопку на вашем устройстве. Это завершит процесс подключения. После того, как вы закончите, вы можете нажать на 'Создать' (Create) для создания вашего кошелька.
 
-**Шаг 4.** Это один из самых важных шагов. To recover your device in the future, you will need this recovery phrase. The app lets you select a length of phrase, this is your choice. Do not write this recovery phrase down on your computer, do not take a picture of the phrase. Make sure you write down your recovery phrase in multiple places. НЕ ПОТЕРЯЙТЕ ЕГО. If you lose this phrase, you’ve lost all your cryptocurrency. Мы предлагаем хранить его на нескольких листках бумаги. И еще раз, не сохраняйте эту фразу на своем компьютере. Используйте ручку и бумагу.
-* There is paper provided in the CoolWallet set-up box to write down this phrase.
-* CoolWallet gives their recovery phrase in numeric format instead of traditional words. For more information on why, [check out their answer](https://help.coolwallet.io/article/73-why-is-the-seed-generated-from-coolwallet-s-in-numeric-format). We recommend copying both the numbers and their word equivalents, just in case.
-* After you're done, you'll need to add up all the numbers in your phrase to verify it was written correctly.
+**Шаг 4.** Это один из самых важных шагов. Для восстановления вашего устройства в будущем вам понадобится эта фраза восстановления. Приложение позволяет выбрать длину фразы, это ваш выбор. Не сохраняйте эту фразу на своем компьютере и не делайте ее фотографий. Убедитесь, что вы записали фразу восстановления в нескольких местах. НЕ ПОТЕРЯЙТЕ ЕЕ. Если вы потеряете эту фразу, вы потеряете также и доступ ко всей своей криптовалюте. Мы предлагаем хранить его на нескольких листках бумаги. И еще раз, не сохраняйте эту фразу на своем компьютере. Используйте ручку и бумагу.
+* В коробке CoolWallet предоставлена бумага для записи этой фразы.
+* CoolWallet дает свою фразу восстановления в цифровом формате, а не в традиционных словах. Для получения дополнительной информации о том, почему они делают так, [почитайте их ответ](https://help.coolwallet.io/article/73-why-is-the-seed-generated-from-coolwallet-s-in-numeric-format). Мы рекомендуем копировать как числа, так и их эквиваленты в словах на всякий случай.
+* После того, как вы закончите, вам нужно добавить все числа в своей фразе, чтобы убедиться, что они были записаны правильно.
 
 **Шаг 5.** Отлично, теперь ваше устройство готово! Теперь давайте разберемся, как использовать его с MyEtherWallet.
 
 ***
 
-## __Using CoolWallet with MEW__
+## __Использование CoolWallet с MEW__
 
-**Step 1.** In the CoolWallet mobile app, go into your settings and make sure you are allowing new pairings. Then head to our site, www.myetherwallet.com.
+**Шаг 1.** В мобильном приложении CoolWallet перейдите в настройки и убедитесь, что вы разрешаете новые подключения. Затем перейдите на наш сайт www.myetherwallet.com.
 
-**Step 2.** On MEW, select 'Access My Wallet' > 'Hardware' > 'CoolWallet'. It should ask for a pairing password.
-* Make sure the bluetooth on your computer is also turned on. You may need to manually pair it with your computer the first time you use it. This can be done with a pairing password generated from the CoolWallet device.
+**Шаг 2.** На сайте MEW выберите "Доступ к кошельку" > "Аппаратный" > "CoolWallet". У вас должны запросить пароль для подключения.
+* Убедитесь, что Bluetooth на компьютере включен. Вам может потребоваться вручную подключить кошелек к компьютеру при первом его использовании. Это может быть сделано при помощи пароля, сгенерированного устройством CoolWallet.
 
-**Step 3.** On your CoolWallet mobile app, select 'Show Pairing Password'. This will generate a password to pair with MEW. Type this password in then close your app before continuing. Once you're done, select 'Unlock CoolWallet'.
+**Шаг 3.** На мобильном приложении CoolWallet выберите 'Показать пароль' (Show Pairing Password). Это сгенерирует пароль для подключения к MEW. Введите этот пароль, затем закройте приложение прежде чем продолжить. Когда вы закончите, выберите "Разблокировать CoolWallet" (Unlock CoolWallet).
 
-**Шаг 4.** Здесь вы увидите много адресов. Feel free to choose your address.
+**Шаг 4.** Здесь вы увидите много адресов. Выберете любой.
 * Правильного или неправильного выбора адреса не бывает, все зависит от ваших предпочтений. Но выбор первого — это, как правило, лучший вариант для удобства и запоминания.
 
-**Step 5.**  You should now be taken to a screen that shows your CoolWallet public address. Отличная работа! You’re officially using your new CoolWallet hardware wallet!
+**Шаг 5.**  Теперь вы должны увидеть экран, показывающий ваш новый адрес кошелька в MEW. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек CoolWallet!
 
 ***
 
 ## __А что насчет моего старого кошелька???__
 
-If you are coming from an old wallet and want your ETH and tokens on your new, secure CoolWallet address, you will need to send your funds to your new address through regular transactions. This can be achieved by accessing your old wallet through MEW wallet, MetaMask, Keystore file, or private key (however you usually did it before the CoolWallet). From here, send your ETH and tokens to your new CoolWallet address, ready to be accessed in a more secure fashion.
+Если вы переходите со старого кошелька и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе CoolWallet, вам нужно будет перевести средства на новый адрес через обычную транзакцию. Это можно сделать, войдя в ваш старый кошелек с помощью MEW wallet, MetaMask, файла хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на CoolWallet). Переведите свои ETH и токены на новый адрес CoolWallet для более безопасного доступа.
 
 Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 
-## __How Do I Restore My CoolWallet to a New Device?__
+## __Как я могу восстановить мой CoolWallet на новом устройстве?__
 
-You will need to use your recovery phrase to recover your wallet.
+Вам нужно использовать вашу фразу восстановления для восстановления кошелька.
 
 ## __Решение проблем__
 
-Most issues with the CoolWallet can be fixed by performing a hard refresh (using CTRL+F5), confirming that all the firmware is updated to its latest release, and turning Bluetooth on and off again.
+Большинство проблем с CoolWallet можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также выключения/включения Bluetooth.
 
 Как обычно, вы можете связаться с нами по адресу support@myetherwallet.com. Мы всегда рады помочь!
