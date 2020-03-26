@@ -16,7 +16,9 @@ primary_category_display_name: "Аппаратные кошельки"
 ###### {% read_time title "Использование аппаратного кошелька KeepKey с MEW" %} мин. на прочтение
 ***
 
-Аппаратные кошельки KeepKey являются ведущими решениями по соответствию стандартам безопасности и удобству использования. Купить их можно [здесь](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet/?source=hasoffers). *Пожалуйста, покупайте аппаратные кошельки у производителя или официального дистрибьютора. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.*
+Аппаратные кошельки KeepKey являются ведущими решениями по соответствию стандартам безопасности и удобству использования. Купить их можно [здесь](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet/?source=hasoffers).
+
+*Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.*
 
 Аппаратные кошельки часто поддерживают несколько криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).
 
@@ -63,7 +65,7 @@ primary_category_display_name: "Аппаратные кошельки"
 
 ## __А что насчет моего старого кошелька???__
 
-Если вы использовали старый кошелек и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе KeepKey, вам нужно будет перевести средства на новый адрес посредством обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEWconnect, MetaMask, хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на KeepKey). Переведите свои ETH и токены на новый адрес KeepKey с более безопасным доступом.
+If you are coming from an old wallet and want your ETH and tokens on your new, secure KeepKey address, you will need to send your funds to your new address through regular transactions. This can be achieved by accessing your old wallet through MEW wallet, MetaMask, Keystore file, or private key (however you usually did it before the KeepKey). Переведите свои ETH и токены на новый адрес KeepKey с более безопасным доступом.
 
 Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 

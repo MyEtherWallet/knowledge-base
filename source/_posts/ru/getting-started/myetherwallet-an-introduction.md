@@ -22,27 +22,27 @@ alias:
 
 ## MyEtherWallet (MEW) — это клиентский интерфейс с открытым исходным кодом, который позволяет пользователям взаимодействовать напрямую с блокчейном Ethereum без необходимости присоединяться к централизованной бирже.
 
-## __What can I do with MEW?__
+## __Что я могу делать с MEW?__
 
-* [Create](/@@@@@@/getting-started/how-to-create-a-wallet/) your own unique Ethereum wallet.
-* [Send](/@@@@@@/transactions/how-to-send-a-transaction/) and receive ETH and tokens.
-* [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of wallet types, including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
+* [Создать](/@@@@@@/getting-started/how-to-create-a-wallet/) свой уникальный кошелек Ethereum.
+* [Отправлять](/@@@@@@/transactions/how-to-send-a-transaction/) и получать ETH и токены.
+* [Получать доступ](/@@@@@@/getting-started/how-to-access-your-wallet/) к Ethereum посредством разных кошельков, включая наше приложение MEW wallet, расширения для браузера MEW CX и MetaMask, и партнерские аппаратные кошельки.
 * [Обменивать](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) растущий список криптовалют, включая ERC20 токены, ETH, ETC, BTC и многое другое!
-* [Explore](/@@@@@@/dapps/using_makerdao/) our DApp store where you can earn on your deposits with Aave, open a vault with MakerDAO, or register and manage your ENS domains.
-* [Send offline](/@@@@@@/offline/using-mew-offline/) through the use of our Offline Helper.
+* [Попробовать приложения](/@@@@@@/dapps/using_makerdao/) в нашем магазине DApp, где вы можете зарабатывать на своих депозитах с помощью Aave, открыть хранилище с помощью MakerDAO, или регистрировать и управлять доменами ENS.
+* [Отправлять оффлайн](/@@@@@@/offline/using-mew-offline/) с помощью нашего Оффлайн помощника.
 * Применять умные контракты (smart contracts) и взаимодействовать с ними.
-* Access a wealth of educational material from our Knowledge Base.
+* Пользоваться множеством образовательных материалов из нашей Базы знаний.
 
 ## __Что значит "открытый исходный код" и "клиентский"?__
 
 * "Открытый исходный код" означает, что любой человек может просматривать и копировать наш код и предлагать изменения в нем на [GitHub](https://github.com/MyEtherWallet).
 * "Клиентский" означает, что у нас нет скрытых серверов.
-* We don't see your funds, we don't know your IP. No information or funds are stored on our site.
+* Мы не видим ваши средства, мы не знаем ваш IP. Информация или средства не хранятся на нашем сайте.
 * Пользователь полностью контролирует собственную безопасность и конфиденциальность.
 
 ## __Где тогда хранятся мои средства?__
 
-* All ETH and tokens are stored on the Ethereum blockchain.
+* Все ETH и токены ERC хранятся на блокчейне Ethereum.
 * При использовании любого сайта, биржи, аппаратного кошелька и интерфейса на базе блокчейна, вся криптовалюта хранится на самом блокчейне. Эти платформы и аппаратные кошельки просто позволяют нам упростить взаимодействие с блокчейном.
 * Блокчейн Ethereum не принадлежит никакому централизованному субъекту. Он проверяется и поддерживается тысячами удаленно взаимодействующих с ним людей, которые называются майнерами и вкладывают свое время и энергию, чтобы поддерживать эти процессы.
 * Именно поэтому наш сайт и такие сайты, как [Etherscan](https://etherscan.io/) и [Ethplorer](https://ethplorer.io), могут получать информацию о вашем кошельке. Не потому, что у них есть скрытые серверы, а потому что они получают информацию из самого блокчейна.
@@ -68,8 +68,8 @@ alias:
 ## __Как обеспечить свою безопасность?__
 
 * Самый безопасный способ доступа к вашим средствам — это использование аппаратных кошельков, таких как [Ledger Nano S](https://www.ledger.com/?r=fa4b) или [Trezor](https://trezor.io/?offer_id=12&aff_id=2029). Если вы располагаете криптовалютами на более чем $200 в эквиваленте, то у вас мало причин не приобрести аппаратный кошелек.
-* Download our fully-fledged mobile app [MEW wallet](https://www.mewwallet.com/). Это просто, быстро и безопасно.
-* Follow our educational blog [MEWtopia]9] for the latest on MEW and Ethereum.
+* Скачайте наше мобильное приложение [MEW wallet](https://www.mewwallet.com/). Оно простое в использовании, быстрое и безопасное.
+* Читайте наш образовательный блог [MEWtopia]9] для последних новостей по MEW и Ethereum.
 * Используя закрытый ключ, хранилище ключей/JSON-файл или мнемоническую фразу, хранить их следует только в физической форме на бумаге или же на автономных компьютерах. Эта информация чрезвычайно важна. И не забывайте делать резервные копии! Если вы потеряете эту информацию, она будет утрачена навсегда.
 * Переходя по URL-адресу, убедитесь, что он ведет на www.myetherwallet.com. Добавьте нас в закладки для использования в будущем!
 * Убедитесь, что в строке URL отображается защищённый замок слева. Если вы нажмете на него, вы увидите "Сертификат (Valid) выдан: MyEtherWallet Inc [US]".
