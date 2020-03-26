@@ -30,7 +30,7 @@ primary_category_display_name: "Аппаратные кошельки"
 
 ## __Начальная настройка__
 
-**Шаг 1.** Распакуйте ваш Digital BitBox! Plug it into your computer and download the [Digital BitBox Desktop App](https://shiftcrypto.ch/start).
+**Шаг 1.** Распакуйте ваш Digital BitBox! Подключите его к компьютеру и загрузите приложение [Digital BitBox Desktop App](https://shiftcrypto.ch/start).
 * Возможно, вы захотите закрепить его на панели задач.
 
 **Шаг 2.** Выберите "Создать новый кошелек" в интерфейсе десктоп приложения Digital BitBox.
@@ -61,7 +61,7 @@ primary_category_display_name: "Аппаратные кошельки"
 
 ## __А что насчет моего старого кошелька???__
 
-If you are coming from an old wallet and want your ETH and tokens on your new, secure Digital BitBox address, you will need to send your funds to your new address through regular transactions. This can be achieved by accessing your old wallet through MEW wallet, MetaMask, Keystore file, or private key (however you usually did it before the Digital BitBox). Переведите свои ETH и токены на новый адрес Digital BitBox с более безопасным доступом.
+Если вы переходите со старого кошелька и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе Digital BitBox, вам нужно будет перевести средства на новый адрес через обычную транзакцию. Это можно сделать, войдя в ваш старый кошелек с помощью MEW wallet, MetaMask, файла хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Digital BitBox). Переведите свои ETH и токены на новый адрес Digital BitBox с более безопасным доступом.
 
 Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 
