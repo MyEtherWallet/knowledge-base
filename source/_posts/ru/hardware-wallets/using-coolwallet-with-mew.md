@@ -1,5 +1,5 @@
 ---
-title: "Using a CoolWallet Hardware Wallet with MEW"
+title: "Использование аппаратного кошелька CoolWallet с MEW"
 date: 2018-06-01 00:02:00
 tags:
   - CoolWallet
@@ -12,11 +12,11 @@ primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 ---
 
-# __Using a CoolWallet Hardware Wallet with MEW__
+# __Использование аппаратного кошелька CoolWallet с MEW__
 ###### {% read_time title "Using a CoolWallet Hardware Wallet with MEW" %} минут на чтение
 ***
 
-CoolWallet Hardware Wallets are leading wallets for their sleek design, uncompromising security, and bluetooth capabilities. Купить их можно [здесь](https://www.coolwallet.io/product/coolwallet/).
+CoolWallet - ведущий аппаратный кошелек со стильным дизайном, тщательным подходом к безопасности и подключением Bluetooth. Купить его можно [здесь](https://www.coolwallet.io/product/coolwallet/).
 
 *Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.*
 
