@@ -7,7 +7,7 @@ tags:
   - введение
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - get-started
 primary_category: get-started
