@@ -44,38 +44,38 @@ primary_category_display_name: "Аппаратные кошельки"
 
 **Шаг 5.** Крайне важно создать резервную копию вашего кошелька через раздел Настройки. Вы можете использовать SD-карту или серию QR-кодов, в зависимости от вашего предпочтения. Только не потеряйте ее!
 
-**Step 6.** When you're ready, head back to the main screen and select 'Add New Wallet'. Choose Ethereum, name it, and continue to set up your new wallet.
+**Шаг 6.** Когда будете готовы, вернитесь на главный экран и выберите 'Добавить новый кошелек' (Add new wallet). Выберите Ethereum, назовите кошелек и продолжайте настраивать его.
 
-**Шаг 7.** Готово! You've now created a new wallet with BC Vault.
+**Шаг 7.** Готово! Вы создали новый кошелек с BC Vault.
 
 ***
 
-## __Using BC Vault with MEW__
+## __Использование BC Vault с MEW__
 
-**Step 1.** Attach your BC Vault device and head to MyEtherWallet.com.
+**Шаг 1.** Подключите ваше устройство BC Vault и направляйтесь на MyEtherWallet.com.
 
-**Step 2.** On MEW, select 'Access My Wallet' > 'Hardware' > 'BC Vault'.
+**Шаг 2.** На сайте MEW выберите "Доступ к кошельку" > "Аппаратный" > "BC Vault".
 
-**Step 3.** It will ask for a Global Password on the website and a Pin on the device. Enter your information to connect to your wallet.
+**Шаг 3.** Вам надо будет ввести глобальный пароль на сайте и пин-код на устройстве. Введите информацию для подключения вашего кошелька.
 
-**Step 4.** Select the address you want to use with MEW.
+**Шаг 4.** Выберите адрес, который вы хотите использовать с MEW.
 
-**Step 5.**  You should now be taken to a screen that shows your new wallet address on MEW. Отличная работа! You’re officially using your new BC Vault hardware wallet!
+**Шаг 5.**  Теперь вы должны быть увидеть экран, показывающий ваш новый адрес кошелька в MEW. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек BC Vault!
 
 ***
 
 ## __А что насчет моего старого кошелька???__
 
-If you are coming from an old wallet and want your ETH and tokens on your new, secure BC Vault address, you will need to send your funds to your new address through regular transactions. This can be achieved by accessing your old wallet through MEW wallet, MetaMask, Keystore file, or private key (however you usually did it before the BC Vault). From here, send your ETH and tokens to your new BC Vault address, ready to be accessed in a more secure fashion.
+Если вы переходите со старого кошелька и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе BC Vault, вам нужно будет перевести средства на новый адрес через обычную транзакцию. Это можно сделать, войдя в ваш старый кошелек с помощью MEW wallet, MetaMask, файла хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на BC Vault). Переведите свои ETH и токены на новый адрес BC Vault для более безопасного доступа.
 
 Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 
-## __How Do I Restore My BC Vault to a New Device?__
+## __Как я могу восстановить мой BC Vault на новом устройстве?__
 
-You will need to use either the SD card that was backed up with your BC Vault wallet, or the QR codes that were printed out, to restore your device.
+Вам нужно будет использовать либо SD-карту, на которую вы сделали резервную копию кошелька BC Vault, или QR-коды, которые вы распечатали, чтобы восстановить ваше устройство.
 
 ## __Решение проблем__
 
-Most issues with the BC Vault can be fixed by performing a hard refresh (using CTRL+F5), confirming that all the firmware is updated to its latest release, and trying a new connecting cable.
+Большинство проблем с BC Vault можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также замены кабеля для подключения.
 
 Как обычно, вы можете связаться с нами по адресу support@myetherwallet.com. Мы всегда рады помочь!
