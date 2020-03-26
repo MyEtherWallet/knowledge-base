@@ -11,7 +11,7 @@ tags:
   - совет
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
     - security-and-privacy
 primary_category: security-and-privacy
