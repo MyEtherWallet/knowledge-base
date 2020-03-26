@@ -9,7 +9,7 @@ tags:
   - биржа
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - swap
 primary_category: swap
