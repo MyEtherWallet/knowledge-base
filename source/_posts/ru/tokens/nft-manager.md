@@ -10,7 +10,7 @@ tags:
   - токены
 categories:
   - 
-    - ЧЗВ
+    - FAQ
   - 
     - токен
 primary_category: токен

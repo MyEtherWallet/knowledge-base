@@ -9,7 +9,7 @@ tags:
   - кошелек
 categories:
   - 
-    - ЧЗВ
+    - FAQ
   - 
     - токен
 primary_category: токен

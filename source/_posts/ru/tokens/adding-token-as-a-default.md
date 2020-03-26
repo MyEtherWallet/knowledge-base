@@ -7,7 +7,7 @@ tags:
   - добавление
 categories:
   - 
-    - ЧЗВ
+    - FAQ
   - 
     - токен
 primary_category: токен

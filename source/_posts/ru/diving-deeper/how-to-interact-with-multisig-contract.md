@@ -8,7 +8,7 @@ tags:
   - вниз
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
     - diving-deeper
 primary_category: diving-deeper
