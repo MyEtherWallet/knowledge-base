@@ -17,7 +17,7 @@ primary_category_display_name: "MEWwallet"
 
 <img src="/images/posts/mewconnect/meww1.jpg" width="150px" /><img src="/images/posts/mewconnect/meww2.jpg" width="250px" /><img src="/images/posts/mewconnect/meww3.jpg" width="350px" />
 
-## __MEW кошелек__ - это официальное полнофункциональное мобильное приложение MEW. Оно простое в использовании, быстрое и безопасное.
+## __MEW wallet__ - это официальное полнофункциональное мобильное приложение MEW. Оно простое в использовании, быстрое и безопасное.
 
 ## Чтобы начать исследовать Ethereum со своего мобильного устройства, [скачайте MEW wallet](https://www.mewwallet.com/) на телефон с системой iOS или Android.
 
@@ -27,17 +27,17 @@ primary_category_display_name: "MEWwallet"
 
 ## __Создать Новый Кошелек__
 
-#### __Receive a unique public address and color combination tied to your new account.__
+#### __Получите уникальный публичный адрес и цветовую комбинацию, привязанную к вашему новому аккаунту.__
 
 <br>
 
 **Шаг 1.** Откройте приложение MEW wallet.
 
-**Шаг 2.** Выберите "Создать бесплатный кошелек".
+**Шаг 2.** Выберите "Создать бесплатный кошелек" (Create a free wallet)
 
 <img src="/images/posts/mewconnect/mcreate1.jpg" width="350px" />
 
-**Шаг 3.** Прочитайте советы о безопасности! Затем нажмите "Создать кошелек".
+**Шаг 3.** Прочитайте советы о безопасности! Затем нажмите "Создать кошелек" (Create a wallet)
 
 <img src="/images/posts/mewconnect/mcreate2.jpg" width="350px" /> <img src="/images/posts/mewconnect/mcreate3.jpg" width="350px" />
 
@@ -53,7 +53,7 @@ primary_category_display_name: "MEWwallet"
 ##### __
 
 
-## __Back Up Your Account__
+## __Резервное копирование (Back Up) вашего аккаунта__
 
 #### __Это шаг очень важен, если вы собираетесь использовать ваш кошелек на протяжении длительного времени. Мы не сможем восстановить ваш аккаунт для вас, поэтому вам необходимо хранить эту информацию.__
 
@@ -85,12 +85,12 @@ primary_category_display_name: "MEWwallet"
 
 <br>
 
-**Шаг 1.** Выберите "Купить эфир" на главной странице приложения MEW wallet.
+**Шаг 1.** Выберите "Купить эфир" (Buy Ether) на главной странице приложения MEW wallet.
 
 <img src="/images/posts/mewconnect/mcreate7.jpg" width="350px" />
 
 **Шаг 2.** Выберите сумму, которую вы хотите приобрести, или введите свою сумму (до 250 долларов США в эквиваленте).
-* If you're using an iOS device in the US, Apply Pay makes buying ETH as easy as clicking a button!
+* Если вы используете iOS в США, Apply Pay позволяет покупать ETH одним нажатием кнопки!
 
 <img src="/images/posts/mewconnect/mewwallet1.png" width="350px" /> <img src="/images/posts/mewconnect/mewwallet2.png" width="350px" />
 
@@ -104,17 +104,17 @@ primary_category_display_name: "MEWwallet"
 
 ##### __
 
-## __Добавьте Больше Аккаунтов__
+## __Добавьте Аккаунты__
 
 #### __Создавайте любое количество аккаунтов для сбережений, обеспечения конфиденциальности или организованного хранения токенов.__
 
 <br>
 
-**Шаг 1.** Проведите пальцем влево, чтобы перейти к главному аккаунту, и выберите "Добавить аккаунт".
+**Шаг 1.** Проведите пальцем влево, чтобы перейти к главному аккаунту, и выберите "Добавить аккаунт" (Add account).
 
 <img src="/images/posts/mewconnect/madd1.jpg" width="350px" />
 
-**Шаг 2.** Придумайте псевдоним для этого аккаунта и нажмите "Добавить".
+**Шаг 2.** Придумайте псевдоним для этого аккаунта и нажмите "Добавить" (Add).
 
 <img src="/images/posts/mewconnect/madd2.jpg" width="350px" />
 

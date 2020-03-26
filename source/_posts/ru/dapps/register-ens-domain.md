@@ -35,7 +35,8 @@ ENS-адрес для поддержки: `mewtopia.eth`
 **Шаг 1.** Направляйтесь на сайт MyEtherWallet.com.
 * Всегда проверяйте ссылку, чтобы убедиться, что вы находитесь на нашем настоящем сайте!
 
-<img src="/images/posts/diving-deeper/ENS1-1.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-1.png
+" width="100%" />
 
 **Шаг 1.** Откройте ваш кошелек.
 * Если у вас еще нет кошелька, вам понадобится [создать новый кошелек](/@@@@@@/getting-started/how-to-create-a-wallet/).
