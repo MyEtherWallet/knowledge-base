@@ -30,9 +30,9 @@ CoolWallet - ведущий аппаратный кошелек со стиль�
 
 ## __Начальная настройка__
 
-**Шаг 1.** Распакуйте ваш CoolWallet! Pull out your phone, make sure Bluetooth is turned on, and download the CoolWallet Mobile App, CoolBitX, by scanning the QR code from the CoolWallet tutorial, included with your device.
+**Шаг 1.** Распакуйте ваш CoolWallet! Достаньте ваш телефон, убедитесь, что Bluetooth включен, и скачайте мобильное приложение CoolWallet, CoolBitX, сканируя QR-код из буклета CoolWallet который включен с вашим устройством.
 
-**Step 2.** Turn on your device by pressing and holding the main button. You will be asked to pair your device. Open the mobile app to  connect the device.
+**Шаг 2.** Включите устройство, нажав и удерживая главную кнопку. Вам предложат подключить устройство. Откройте мобильное приложение для подключения устройства.
 * If you don't see it, try restarting the device, the app, or turning your bluetooth on and off again.
 
 **Step 3.** Enter the pin you see on your CoolWallet device into the app, then press the button on your device. This will complete the pairing process. After you're done, you can click 'Create' to create your wallet.
