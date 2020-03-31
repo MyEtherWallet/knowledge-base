@@ -15,9 +15,11 @@ alias:
   - networks/using-ethereum-hardware-wallet-with-custom-node.html
 ---
 
-# __Использование аппаратного кошелька с кастомным узлом__
+# **Использование аппаратного кошелька с кастомным узлом**
+
 ###### {% read_time title "Using a Hardware Wallet With a Custom Node" %} минут на чтение
-***
+
+* * *
 
 Benjaminion написал замечательное руководство о том, как это сделать.
 

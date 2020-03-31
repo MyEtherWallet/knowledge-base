@@ -10,31 +10,33 @@ categories:
 primary_category: mewwallet
 primary_category_display_name: "MEW wallet"
 ---
- 
-# __MEW wallet User Guide__
+
+# **MEW wallet User Guide**
+
 ###### {% read_time title "MEW wallet User Guide" %} min read
-***
+
+* * *
 
 <img src="/images/posts/mewconnect/meww1.jpg" width="150px"><img src="/images/posts/mewconnect/meww2.jpg" width="250px"><img src="/images/posts/mewconnect/meww3.jpg" width="350px">
 
-## __MEW wallet__ is MEW’s official fully-fledged mobile app. It's simple, fast, and secure. 
+## **MEW wallet** is MEW’s official fully-fledged mobile app. It's simple, fast, and secure.
 
 ## To begin exploring Ethereum on your mobile device, [download MEW wallet][download] on your iOS or Android phone.
 
 <br>
 
-##### __
+##### \_\_
 
-## __Create a New Wallet__
+## **Create a New Wallet**
 
-#### __Receive a unique public address and color combination tied to your new account.__ 
- 
+#### **Receive a unique public address and color combination tied to your new account.**
+
 <br>
 
 **Step 1.** Open the MEW wallet app. 
- 
+
 **Step 2.** Select ‘Create a free wallet’.
- 
+
 <img src="/images/posts/mewconnect/mcreate1.jpg" width="350px">
  
 **Step 3.** Read the safety tips! Then click ‘Create a wallet’.
@@ -50,18 +52,18 @@ primary_category_display_name: "MEW wallet"
  
 <img src="/images/posts/mewconnect/mcreate6.jpg" width="350px"> <img src="/images/posts/mewconnect/mcreate7.jpg" width="350px">
 
-##### __
+##### \_\_
 
- 
-## __Back Up Your Account__
+## **Back Up Your Account**
 
-#### __This step is crucial if you plan on using your wallet in the long term. We cannot recover your account for you, so you must keep track of this information yourself.__
- 
+#### **This step is crucial if you plan on using your wallet in the long term. We cannot recover your account for you, so you must keep track of this information yourself.**
+
 <br>
 
 **Step 1.** After creating your wallet, select 'Back up Now'. Read the warning and continue.
-* You can also head to ‘Settings’, then ‘View my recovery phrase’.
- 
+
+-   You can also head to ‘Settings’, then ‘View my recovery phrase’.
+
 <img src="/images/posts/mewconnect/mbackup1.jpg" width="350px">
  
 <img src="/images/posts/mewconnect/mbackup2.jpg" width="350px">
@@ -81,7 +83,7 @@ primary_category_display_name: "MEW wallet"
  
 ## __Buy ETH to Start Exploring__
 
-#### __Everything on the Ethereum blockchain requires ETH for gas. You’ll need to buy ETH to get started.__
+#### **Everything on the Ethereum blockchain requires ETH for gas. You’ll need to buy ETH to get started.**
 
 <br>
  
@@ -104,9 +106,9 @@ primary_category_display_name: "MEW wallet"
  
 ##### __
 
-## __Add More Accounts__
+## **Add More Accounts**
 
-#### __Create as many accounts as you want for savings, privacy, or organized token storage.__
+#### **Create as many accounts as you want for savings, privacy, or organized token storage.**
 
 <br>
  

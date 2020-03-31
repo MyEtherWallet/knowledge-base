@@ -18,9 +18,11 @@ alias:
   - addresses/creating-new-accounts-for-eth-and-tokens.html
 ---
 
-# __Should I Keep My ETH and ERC20 Tokens on Multiple Addresses?__
+# **Should I Keep My ETH and ERC20 Tokens on Multiple Addresses?**
+
 ###### {% read_time title "Should I Keep My ETH and ERC20 Tokens on Multiple Addresses?" %} min read
-***
+
+* * *
 
 MyEtherWallet (MEW) is a front-end interface that enables direct interaction with the Ethereum blockchain. Any Ethereum address (0x….) can hold both ETH and ERC20 tokens. MEW allows users to manage a variety of different funds on a single address.
 

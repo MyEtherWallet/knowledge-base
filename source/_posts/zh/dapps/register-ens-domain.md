@@ -13,9 +13,11 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# __ENS: Registering a Domain__
+# **ENS: Registering a Domain**
+
 ###### {% read_time title "ENS: Registering a Domain" %} min read
-***
+
+* * *
 
 The Ethereum Name Service, also known as ENS, is a domain service that assigns a user-specific domain tied to your wallet’s account address.
 
@@ -29,36 +31,40 @@ ENS donation address: `mewtopia.eth`
 
 Both of these addresses lead to the same wallet destination, but the ENS domain is much more convenient.
 
-
-## __How to Register an ENS Domain__
+## **How to Register an ENS Domain**
 
 **Step 1.** Head to MyEtherWallet.com.
-* Always check the URL to make sure you’re on our legit site!
+
+-   Always check the URL to make sure you’re on our legit site!
 
 <img src="/images/posts/diving-deeper/ENS1-1.png" width="100%" />
 
 **Step 2.** Access your wallet.
-* If you don’t already have a wallet, you will need to [create a new wallet](/@@@@@@/getting-started/how-to-create-a-wallet/).
-* You will also need a small amount of ETH for [gas](/@@@@@@/transactions/what-is-gas/). We generally recommend `.01 ETH` for 1 - 2 transactions. Initializing and finalizing ENS domains both count as a transactions.
+
+-   If you don’t already have a wallet, you will need to [create a new wallet](/@@@@@@/getting-started/how-to-create-a-wallet/).
+-   You will also need a small amount of ETH for [gas](/@@@@@@/transactions/what-is-gas/). We generally recommend `.01 ETH` for 1 - 2 transactions. Initializing and finalizing ENS domains both count as a transactions.
 
 <img src="/images/posts/diving-deeper/ENS1-2.png" width="100%" />
 
 **Step 3.** Head to the Dapps section, to the left of your wallet's overview page. It can also be found at the bottom of the page, under the 'Dapps' section.
-* Here you will see the ‘ENS Manager’ option. Click there!
+
+-   Here you will see the ‘ENS Manager’ option. Click there!
 
 <img src="/images/posts/diving-deeper/ENS1-3.png" width="100%" />
 
 **Step 4.** Enter your desired domain name to see if it is available.
-* ENS domains must be 3 characters or longer.
-* Keep in mind that the final product will look like `YourDomainHere.eth`.
-* You can also search Etherscan.io for available ENS domains.
-* If it says to migrate the ENS domain to the new registrar, that means it is unavailable (unless it's already yours, in which case you should migrate it. All migrations must take place by May 4th, 2020.)
+
+-   ENS domains must be 3 characters or longer.
+-   Keep in mind that the final product will look like `YourDomainHere.eth`.
+-   You can also search Etherscan.io for available ENS domains.
+-   If it says to migrate the ENS domain to the new registrar, that means it is unavailable (unless it's already yours, in which case you should migrate it. All migrations must take place by May 4th, 2020.)
 
 <img src="/images/posts/diving-deeper/ENS1-4.png" width="100%" />
 
 **Step 5.** If your domain is available, you can register it. Select the amount of time you wish to own the domain and click `Register`.
-* Most longer domains cost the equivalent of $5/year in ETH to maintain, but the shorter the domain, the more expensive it becomes.
-* They can be owned indefinitely, as long as this annual fee is paid.
+
+-   Most longer domains cost the equivalent of $5/year in ETH to maintain, but the shorter the domain, the more expensive it becomes.
+-   They can be owned indefinitely, as long as this annual fee is paid.
 
 <img src="/images/posts/diving-deeper/ENS1-5.png" width="100%" />
 
@@ -76,7 +82,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 **This process will set your address as the owner of the domain.**
 
-## __Multi-Coin Domain Support (BTC, LTC, and more!)__
+## **Multi-Coin Domain Support (BTC, LTC, and more!)**
 
 **Step 1.** In order to set up your new domain for other cryptocurrencies, search it once again on MyEtherWallet in the ENS Manager Dapp.
 
@@ -96,7 +102,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 <img src="/images/posts/diving-deeper/ENS2-5.png" width="100%" />
 
-## __Transferring Ownership__
+## **Transferring Ownership**
 
 **Step 1.** If you want to transfer ownership of your domain, search it once again on MyEtherWallet in the ENS Manager Dapp.
 
@@ -104,20 +110,24 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 **Step 3.** Confirm the transaction, and the ownership of your domain will be transferred.
 
-***
+* * *
+
 ###### If you've previously won an auction for your domain and haven't touched it since, you need to migrate it to the new registrar.
 
-## __Migrating to the New Registrar__
+## **Migrating to the New Registrar**
 
 **Step 1.** Head to MyEtherWallet.com.
-* Always check the URL to make sure you’re on our legit site!
+
+-   Always check the URL to make sure you’re on our legit site!
 
 **Step 2.** Access your wallet.
-* If you don’t already have a wallet, you will need to [create a new wallet](/@@@@@@/getting-started/how-to-create-a-wallet/).
-* You will also need a small amount of ETH for [gas](/@@@@@@/transactions/what-is-gas/). We generally recommend `.01 ETH` for 1 - 2 transactions. Starting and finalizing ENS auctions both count as a transactions.
+
+-   If you don’t already have a wallet, you will need to [create a new wallet](/@@@@@@/getting-started/how-to-create-a-wallet/).
+-   You will also need a small amount of ETH for [gas](/@@@@@@/transactions/what-is-gas/). We generally recommend `.01 ETH` for 1 - 2 transactions. Starting and finalizing ENS auctions both count as a transactions.
 
 **Step 3.** Head to the Dapps section, to the left of your wallet's overview page. It can also be found at the bottom of the page, under the 'Dapps' section.
-* Here you will see the ‘ENS Manager’ option. Click there!
+
+-   Here you will see the ‘ENS Manager’ option. Click there!
 
 **Step 4.** Check the domain name you've previously registered. If all goes to plan, it should tell you that it's still in the old registrar.
 

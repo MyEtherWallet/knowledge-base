@@ -14,34 +14,40 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# __Using Ambrpay__
+# **Using Ambrpay**
+
 ###### {% read_time title "Using Ambrpay" %} min read
-***
+
+* * *
 
 Ambrpay has integrated with MEW to set up and manage recurring payments. This can be utilized in a variety of ways, like setting up subscriptions for services or managing frequent payments to friends, etc. 
 
-###### If you’d like to set up a payment system with Ambrpay, you will need a wallet you can [access with our interface][access]. If you do not have a wallet, [click here][create] to set one up. 
+###### If you’d like to set up a payment system with Ambrpay, you will need a wallet you can [access with our interface][access]. If you do not have a wallet, [click here][create] to set one up.
 
-## __Using Ambrpay with MEW__
+## **Using Ambrpay with MEW**
 
 **Step 1.** Access your wallet. 
-* Choose your preferred method of access. 
+
+-   Choose your preferred method of access. 
 
 <img src="/images/posts/diving-deeper/AmbrPay1.png" width="100%">
 
 **Step 2.** Head to the Dapps section to the left of your wallet’s dashboard. 
-* Select Ambrpay from our list of Dapps.
+
+-   Select Ambrpay from our list of Dapps.
 
 <img src="/images/posts/diving-deeper/AmbrPay2.png" width="100%">
 
 **Step 3**. Add funds to your balance by selecting 'Add Funds'.
-* Ambrpay pulls your subscription payments from a pool of funds you deposit into the contract. Select how much you’d like to send to this pool. 
-* Ambrpay takes a 1% fee for this service.
+
+-   Ambrpay pulls your subscription payments from a pool of funds you deposit into the contract. Select how much you’d like to send to this pool. 
+-   Ambrpay takes a 1% fee for this service.
 
 <img src="/images/posts/diving-deeper/AmbrPay3.png" width="100%">
 
 **Step 4.** Set up the subscription.
-* Fill in the details of your subscription. Determine how much you’d like to pay and how often you’d like this payment to occur (in days). 
+
+-   Fill in the details of your subscription. Determine how much you’d like to pay and how often you’d like this payment to occur (in days). 
 
 <img src="/images/posts/diving-deeper/AmbrPay4.png" width="100%">
 
@@ -49,7 +55,6 @@ Ambrpay has integrated with MEW to set up and manage recurring payments. This ca
 
 ###### You can also ‘Withdraw Funds’ from the contract, found in the same area as ‘Add Funds’.
 
-
-
 [create]: /@@@@@@/getting-started/how-to-create-a-wallet/
+
 [access]: /@@@@@@/getting-started/how-to-access-your-wallet/
