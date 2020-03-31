@@ -9,7 +9,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - transactions/what-is-nonce.html
+  - ru/transactions/what-is-nonce.html
 ---
 
 # **Что такое Nonce-число?**

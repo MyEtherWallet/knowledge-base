@@ -8,13 +8,13 @@ tags:
   - добавить
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
-    - токен
+    - token
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - send/adding-new-token-and-sending-custom-tokens.html
+  - ru/send/adding-new-token-and-sending-custom-tokens.html
 ---
 
 # **Как добавить кастомный токен**

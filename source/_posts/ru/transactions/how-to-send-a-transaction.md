@@ -10,7 +10,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - transactions/how-to-send-transaction.html
+  - ru/transactions/how-to-send-transaction.html
 ---
 
 # **Как отправить транзакцию**

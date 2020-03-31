@@ -11,7 +11,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - gas/error-insufficient-funds-message.html
+  - ru/gas/error-insufficient-funds-message.html
 ---
 
 # **Ошибка: Недостаточно ETH для отправки**

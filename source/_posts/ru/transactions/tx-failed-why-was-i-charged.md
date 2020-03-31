@@ -13,7 +13,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - transactions/transaction-fee-not-refunded.html
+  - ru/transactions/transaction-fee-not-refunded.html
 ---
 
 # **Моя транзакция не «прошла». Почему с меня списали средства?**

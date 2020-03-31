@@ -7,13 +7,13 @@ tags:
   - блок
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
     - get-started
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - getting-started/checking-balance-of-my-account.html
+  - ru/getting-started/checking-balance-of-my-account.html
 ---
 
 # **Проверка баланса**

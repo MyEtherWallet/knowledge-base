@@ -11,7 +11,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - addresses/what-does-checksummed-mean.html
+  - ru/addresses/what-does-checksummed-mean.html
 ---
 
 # **Ошибка: Not checksummed**

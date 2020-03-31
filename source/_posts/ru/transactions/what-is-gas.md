@@ -9,7 +9,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - gas/what-is-gas-ethereum.html
+  - ru/gas/what-is-gas-ethereum.html
 ---
 
 # **Что такое газ?**

@@ -8,13 +8,13 @@ tags:
   - вниз
 categories:
   - 
-    - ЧЗВ
+    - faqs
   - 
     - diving-deeper
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - faq/interacting-with-ethereum-multisig-wallet.html
+  - ru/faq/interacting-with-ethereum-multisig-wallet.html
 ---
 
 # **Как взаимодействовать с контрактом с мультиподписью?**

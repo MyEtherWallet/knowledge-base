@@ -11,7 +11,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
-  - security/ethereum-two-people-same-private-key.html
+  - ru/security/ethereum-two-people-same-private-key.html
 ---
 
 # **Невозможность выдачи одинаковых публичных адресов разным людям со стороны MEW**
