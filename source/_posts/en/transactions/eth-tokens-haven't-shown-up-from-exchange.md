@@ -18,9 +18,11 @@ alias:
 - faq/eth-or-tokens-not-showing-on-exchange.html
 ---
 
-# __ETH or ERC20 Tokens Sent To/From an Exchange Haven’t Shown Up__
+# **ETH or ERC20 Tokens Sent To/From an Exchange Haven’t Shown Up**
+
 ###### {% read_time title "ETH or ERC20 Tokens Sent To/From an Exchange Haven't Shown Up" %} min read
-***
+
+* * *
 
 If you’re missing funds, you should first confirm that the transaction was broadcast successfully. If you have your transaction hash, plug it into the search bar at [Etherscan.io][etherscan].
 
@@ -33,5 +35,7 @@ The lack of any red symbols or errors means that your transaction was successful
 If you see an error on your transaction, this means it was not successful, and your funds never left their original wallet. You will need to try sending the transaction again, making a few changes to help it broadcast successfully. Depending on the error shown, it’s usually an easy fix. 
 
 [etherscan]: https://etherscan.io
+
 [example1]: https://etherscan.io/tx/0xcde5a30a1a1514919e9c357d4e89211701aa22a741936ad9516c2987d8b097c9
+
 [example2]: https://etherscan.io/tx/0xf9c8514fad47eb54a414930563aabfeceb465c9f308f5f294a37edd0d669243c

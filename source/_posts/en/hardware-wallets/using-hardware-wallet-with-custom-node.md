@@ -14,9 +14,11 @@ alias:
 - networks/using-ethereum-hardware-wallet-with-custom-node.html
 ---
 
-# __Using a Hardware Wallet With a Custom Node__
+# **Using a Hardware Wallet With a Custom Node**
+
 ###### {% read_time title "Using a Hardware Wallet With a Custom Node" %} min read
-***
+
+* * *
 
 Benjaminion wrote up an excellent guide on how to achieve this.
 

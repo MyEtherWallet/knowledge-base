@@ -16,9 +16,11 @@ alias:
 - gas/I-cant-withdraw-them-from-your-site-less-than-minimum.html
 ---
 
-# __Does MEW Have a Minimum Requirement for Sending?__
+# **Does MEW Have a Minimum Requirement for Sending?**
+
 ###### {% read_time title "Does MEW Have a Minimum Requirement for Sending?" %} min read
-***
+
+* * *
 
 There is no minimum to transfer out of MyEtherWallet (MEW). We are not an exchange and have no way of blocking your withdrawals or deposits.
 

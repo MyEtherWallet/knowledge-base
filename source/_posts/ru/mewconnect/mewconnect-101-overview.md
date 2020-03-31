@@ -14,9 +14,11 @@ alias:
   - mewconnect/mew-connect-101-overview.html
 ---
 
-# __MEWconnect 101: Обзор кошелька__
+# **MEWconnect 101: Обзор кошелька**
+
 ###### {% read_time title "MEWconnect 101: Данные кошелька" %} мин. на прочтение
-***
+
+* * *
 
 <div class="youtube-video">
 <iframe width="627" height="400" src="https://www.youtube.com/embed/RjgxxNgTBGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

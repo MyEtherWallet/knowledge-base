@@ -12,12 +12,15 @@ primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и конфиденциальность"
 ---
 
-# __Mnemonic Phrase: Should I Include an Extra Word?__
-###### {% read_time title "Mnemonic Phrase: Should I Include an Extra Word?" %} min read
-***
+# **Mnemonic Phrase: Should I Include an Extra Word?**
 
-## __Создание нового кошелька__
-#### __Мы не рекомендуем создавать новый кошелек с использованием мнемонической фразы через наш сайт, если вы не планируете использовать [MEW в автономном режиме](/@@@@@@/offline/using-mew-offline).__
+###### {% read_time title "Mnemonic Phrase: Should I Include an Extra Word?" %} min read
+
+* * *
+
+## **Создание нового кошелька**
+
+#### **Мы не рекомендуем создавать новый кошелек с использованием мнемонической фразы через наш сайт, если вы не планируете использовать [MEW в автономном режиме](/@@@@@@/offline/using-mew-offline).**
 
 When you’re creating a new wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include an extra word. This is an extra word of your own choosing tacked onto the end of your phrase. Например, если вы создаете мнемоническую фразу из 24 слов, он будет выступать в качестве **обязательного** 25-го слова каждый раз, когда вы захотите использовать эту фразу.
 
@@ -29,9 +32,9 @@ Occasionaly, this extra word is also referred to as a 'password', but this is mi
 
 In the end, the choice is yours.
 
+## **Доступ к кошельку или его восстановление**
 
-## __Доступ к кошельку или его восстановление__
-#### __Мы не рекомендуем обращаться к своему кошельку или восстанавливать его с помощью мнемонической фразы непосредственно на нашем веб-сайте, если только вы не [используете офлайн-версию MEW](/@@@@@@/offline/using-mew-offline).__
+#### **Мы не рекомендуем обращаться к своему кошельку или восстанавливать его с помощью мнемонической фразы непосредственно на нашем веб-сайте, если только вы не [используете офлайн-версию MEW](/@@@@@@/offline/using-mew-offline).**
 
 When accessing or restoring your wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include an extra word. Most of the time, the answer is no.
 
