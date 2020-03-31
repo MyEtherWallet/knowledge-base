@@ -11,7 +11,7 @@ categories:
 primary_category: swap
 primary_category_display_name: "Обмен"
 alias:
-  - swap/swap-wasnt-completed-or-was-canceled.html
+  - ru/swap/swap-wasnt-completed-or-was-canceled.html
 ---
 
 # **Обмен был отменен или не был завершен**

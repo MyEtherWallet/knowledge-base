@@ -13,7 +13,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - gas/I-cant-withdraw-them-from-your-site-less-than-minimum.html
+  - ru/gas/I-cant-withdraw-them-from-your-site-less-than-minimum.html
 ---
 
 # **Есть ли у MEW минимальные требования для отправки?**

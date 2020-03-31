@@ -11,7 +11,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
-  - private-keys-passwords/lost-eth-private-key.html
+  - ru/private-keys-passwords/lost-eth-private-key.html
 ---
 
 # **Утрата закрытого ключа**

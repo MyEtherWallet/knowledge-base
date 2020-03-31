@@ -12,7 +12,7 @@ categories:
 primary_category: migration
 primary_category_display_name: "Переход с и на MEW"
 alias:
-  - migration/importing-v2-json-wallet-file-myetherwallet.html
+  - ru/migration/importing-v2-json-wallet-file-myetherwallet.html
 ---
 
 # **Импорт файла V2 JSON**

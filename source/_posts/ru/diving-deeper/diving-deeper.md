@@ -11,7 +11,7 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - diving-deeper/myetherapi-api-limits.html
+  - ru/diving-deeper/myetherapi-api-limits.html
 ---
 
 test line

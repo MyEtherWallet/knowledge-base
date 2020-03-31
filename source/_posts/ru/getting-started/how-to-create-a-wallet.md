@@ -11,7 +11,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - getting-started/creating-a-new-wallet-on-myetherwallet.html
+  - ru/getting-started/creating-a-new-wallet-on-myetherwallet.html
 ---
 
 # **Как создать кошелек**

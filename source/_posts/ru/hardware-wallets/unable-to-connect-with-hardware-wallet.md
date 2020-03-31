@@ -12,7 +12,7 @@ categories:
 primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
-  - hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
+  - ru/hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
 ---
 
 # **Не удается подключиться к аппаратному кошельку**

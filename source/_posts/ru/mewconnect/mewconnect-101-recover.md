@@ -11,7 +11,7 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-  - mewconnect/mew-connect-101-backup.html
+  - ru/mewconnect/mew-connect-101-backup.html
 ---
 
 # **MEWconnect 101: Резервная копия кошелька**

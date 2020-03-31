@@ -11,7 +11,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - hardware-wallets/trezor-error-window-blocked.html
+  - ru/hardware-wallets/trezor-error-window-blocked.html
 ---
 
 # **Ошибка: "Окно заблокировано"**

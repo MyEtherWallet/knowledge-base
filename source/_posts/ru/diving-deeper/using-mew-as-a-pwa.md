@@ -9,7 +9,7 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - faq/what-happens-if-myetherwallet-goes-down.html
+  - ru/faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
 # **Использование MEW в качестве прогрессивного веб-приложения (PWA)**

@@ -11,7 +11,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
-  - security/what-to-do-if-youve-had-your-funds-stolen.html
+  - ru/security/what-to-do-if-youve-had-your-funds-stolen.html
 ---
 
 # **Что делать, если ваши средства украли**

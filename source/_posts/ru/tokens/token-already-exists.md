@@ -6,7 +6,7 @@ tags:
   - токен
 categories:
   - 
-    - токен
+    - token
 primary_category: токен
 primary_category_display_name: "Токены"
 ---
