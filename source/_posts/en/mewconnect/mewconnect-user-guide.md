@@ -10,7 +10,7 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-- mewconnect/mew-connect-user-guide.html
+  - en/mewconnect/mew-connect-user-guide.html
 ---
 
 # **MEWconnect User Guide**

@@ -10,7 +10,7 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-- mewconnect/mew-connect-101-tx.html
+  - en/mewconnect/mew-connect-101-tx.html
 ---
 
 # **MEWconnect 101: Make a Transaction**

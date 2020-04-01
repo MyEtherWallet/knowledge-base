@@ -13,7 +13,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
-  - transactions/transaction-fee-not-refunded.html
+  - ko/transactions/transaction-fee-not-refunded.html
 ---
 
 # **My Transaction Failed. Why Was I Charged?**

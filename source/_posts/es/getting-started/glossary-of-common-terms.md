@@ -10,7 +10,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-  - getting-started/ethereum-glossary.html
+  - es/getting-started/ethereum-glossary.html
 ---
 
 # **A Glossary of Common Terms in the Ethereum / Crypto Community**

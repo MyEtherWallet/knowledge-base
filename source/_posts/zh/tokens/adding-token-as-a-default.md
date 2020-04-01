@@ -13,7 +13,7 @@ categories:
 primary_category: token
 primary_category_display_name: "Tokens"
 alias:
-  - tokens/token-creators-add-your-token-to-myetherwallet.html
+  - zh/tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
 # **Adding Your Token as a Default Token**

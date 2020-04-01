@@ -10,7 +10,7 @@ categories:
 primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 alias:
-  - migration/moving-from-jaxx-to-myetherwallet.html
+  - ko/migration/moving-from-jaxx-to-myetherwallet.html
 ---
 
 # **Using Jaxx with MEW**

@@ -17,7 +17,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-  - getting-started/using-mewcx.html
+  - ko/getting-started/using-mewcx.html
 ---
 
 # **MEW CX User Guide**

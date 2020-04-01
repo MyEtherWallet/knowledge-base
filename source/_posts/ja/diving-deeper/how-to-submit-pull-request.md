@@ -11,7 +11,7 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
-  - diving-deeper/how-to-submit-pull-request.html
+  - ja/diving-deeper/how-to-submit-pull-request.html
 ---
 
 # **How to Submit a Pull Request**

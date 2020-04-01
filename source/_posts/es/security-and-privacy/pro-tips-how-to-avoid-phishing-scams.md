@@ -17,7 +17,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
-  - security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
+  - es/security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
 ---
 
 # **Pro-Tips: How to Avoid Phishing/Scams**

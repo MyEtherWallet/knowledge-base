@@ -9,7 +9,7 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
-  - diving-deeper/does-myetherwallet-have-an-api.html
+  - es/diving-deeper/does-myetherwallet-have-an-api.html
 ---
 
 # **Does MyEtherWallet have an API?**

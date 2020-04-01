@@ -9,7 +9,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
-  - transactions/what-is-nonce.html
+  - ko/transactions/what-is-nonce.html
 ---
 
 # **What is Nonce?**

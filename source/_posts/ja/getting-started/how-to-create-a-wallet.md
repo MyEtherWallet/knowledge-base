@@ -11,7 +11,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-  - getting-started/creating-a-new-wallet-on-myetherwallet.html
+  - ja/getting-started/creating-a-new-wallet-on-myetherwallet.html
 ---
 
 # **How to Create a Wallet**

@@ -11,7 +11,7 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-- mewconnect/mew-connect-101-connect.html
+  - en/mewconnect/mew-connect-101-connect.html
 ---
 
 # **MEWconnect 101: Connect to MyEtherWallet**
