@@ -13,7 +13,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-  - getting-started/getting-back-to-basics-tips-for-newbies.html
+  - ko/getting-started/getting-back-to-basics-tips-for-newbies.html
 ---
 
 # **Back to the Basics: 10 Tips for Beginners**

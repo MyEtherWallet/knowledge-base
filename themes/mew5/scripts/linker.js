@@ -54,7 +54,7 @@ hexo.extend.tag.register('read_time', (args, content) => {
 
 hexo.extend.tag.register('link_lang', (args, content) => {
   // // var lang = this.page.lang;
-  // // console.log(lang); // todo remove dev item
+  // console.log(args); // todo remove dev item
   return content + '--------' + args;
   const Post = hexo.model('Post');
   // if (!title) return;

@@ -10,7 +10,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-- getting-started/accessing-your-new-eth-wallet.html
+  - en/getting-started/accessing-your-new-eth-wallet.html
 ---
 
 # **How to Access Your Wallet**

@@ -10,7 +10,7 @@ categories:
 primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 alias:
-  - migration/moving-from-private-key-to-metamask.html
+  - ja/migration/moving-from-private-key-to-metamask.html
 ---
 
 # **Using MetaMask with MEW**

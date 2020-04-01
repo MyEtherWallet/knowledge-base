@@ -13,7 +13,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-  - getting-started/checking-balance-of-my-account.html
+  - ko/getting-started/checking-balance-of-my-account.html
 ---
 
 # **Checking Your Balance**

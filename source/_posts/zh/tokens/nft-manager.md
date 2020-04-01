@@ -16,7 +16,7 @@ categories:
 primary_category: token
 primary_category_display_name: "Tokens"
 alias:
-  - tokens/nft-manager.html
+  - zh/tokens/nft-manager.html
 ---
 
 # **Non-Fungible Tokens (NFTs)**

@@ -11,7 +11,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-  - hardware-wallets/trezor-error-window-blocked.html
+  - zh/hardware-wallets/trezor-error-window-blocked.html
 ---
 
 # **Error: ‘Window Blocked’**

@@ -12,7 +12,7 @@ categories:
 primary_category: hardware-wallets
 primary_category_display_name: "Hardware Wallets"
 alias:
-- hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
+  - en/hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
 ---
 
 # **Unable to Connect to Hardware Wallet**

@@ -13,7 +13,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-  - getting-started/getting-started-new.html
+  - ja/getting-started/getting-started-new.html
 ---
 
 # **MyEtherWallet: An Introduction**

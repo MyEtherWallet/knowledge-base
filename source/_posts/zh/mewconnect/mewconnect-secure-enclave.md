@@ -10,7 +10,7 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-  - mewconnect/mew-connect-secure-enclave.html
+  - zh/mewconnect/mew-connect-secure-enclave.html
 ---
 
 # **Does MEWconnect Store the Private Key in iPhone's 'Secure Enclave'?**

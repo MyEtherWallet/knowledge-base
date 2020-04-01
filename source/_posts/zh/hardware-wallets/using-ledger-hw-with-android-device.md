@@ -9,7 +9,7 @@ categories:
 primary_category: hardware-wallets
 primary_category_display_name: "Hardware Wallets"
 alias:
-  - faq/what-happens-if-myetherwallet-goes-down.html
+  - zh/faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
 # **Using a Ledger Hardware Wallet With an Android Device**
