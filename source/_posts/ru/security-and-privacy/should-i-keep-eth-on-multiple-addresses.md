@@ -15,12 +15,14 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
-  - addresses/creating-new-accounts-for-eth-and-tokens.html
+  - ru/addresses/creating-new-accounts-for-eth-and-tokens.html
 ---
 
-# __Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?__
+# **Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?**
+
 ###### Время прочтения: {% read_time title "Нужно л мне хранить свои токены ETH и ERC20 на нескольких адресах?" %} мин.
-***
+
+* * *
 
 MyEtherWallet (MEW) является внешним интерфейсом, который обеспечивает прямое взаимодействие с блокчейном Ethereum. Любой адрес Ethereum (0x….) может содержать как токены ETH, так и ERC20. MEW позволяет пользователям управлять различными средствами на одном адресе.
 

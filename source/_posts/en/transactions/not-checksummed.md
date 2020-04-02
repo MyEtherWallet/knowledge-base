@@ -11,12 +11,14 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
-- addresses/what-does-checksummed-mean.html
+  - en/addresses/what-does-checksummed-mean.html
 ---
 
-# __Error: Not Checksummed__
+# **Error: Not Checksummed**
+
 ###### {% read_time title "Error: Not Checksummed" %} min read
-***
+
+* * *
 
 Every Ethereum address has two versions to it, one that includes uppercase letters and one that doesn’t. These are called the checksummed and non-checksummed versions, respectively. Take for example, the MEW donation address:
 
@@ -28,7 +30,7 @@ These two addresses include all the same characters and lead to the same destina
 
 Sometimes you will receive an error warning you that your address is not checksummed, preventing or warning you from making a transaction or adding a custom token. This is for your own safety. Do not be alarmed, though! 
 
-## __It’s very easy to find the checksummed version of any address:__
+## **It’s very easy to find the checksummed version of any address:**
 
 **Step 1.** Head to Etherscan.io.
 

@@ -11,16 +11,18 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - diving-deeper/myetherapi-api-limits.html
+  - ru/diving-deeper/myetherapi-api-limits.html
 ---
 
-# __Есть ли у API MEW лимит на количество возможных запросов?__
+# **Есть ли у API MEW лимит на количество возможных запросов?**
+
 ###### {% read_time title "Does MEW API Have a Limit on the Amount of Requests I Can Make?" %} минут на чтение
-***
+
+* * *
 
 Если вы часто пользуетесь нашим API или MyEtherWallet (MEW), вы можете получить ограничение по количеству запросов.
 
-## __Если так, обычно это выглядит следующим образом:__
+## **Если так, обычно это выглядит следующим образом:**
 
 <div class="scrollbox">
 Ошибка: недопустимый ответ JSON RPC: ОШИБКА: не удалось выполнить запрос. Источник закрыл подключение. Сгенерировано cloudfront (CloudFront) ID запроса: XXXXXXX \"

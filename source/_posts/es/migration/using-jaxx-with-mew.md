@@ -10,12 +10,14 @@ categories:
 primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 alias:
-  - migration/moving-from-jaxx-to-myetherwallet.html
+  - es/migration/moving-from-jaxx-to-myetherwallet.html
 ---
 
-# __Using Jaxx with MEW__
+# **Using Jaxx with MEW**
+
 ###### {% read_time title "Using Jaxx with MEW" %} min read
-***
+
+* * *
 
 You can use both MyEtherWallet (MEW) and Jaxx at the same time, as both are client-side wallets that allow access to the Ethereum blockchain. There is no need to ‘import’ or ‘sweep’ your ETH from your Jaxx wallet to a new wallet with MEW.
 

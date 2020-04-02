@@ -16,9 +16,11 @@ primary_category: swap
 primary_category_display_name: "Swap"
 ---
 
-# __Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly__
+# **Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly**
+
 ###### {% read_time title "Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly" %} min read
-***
+
+* * *
 
 Here at MyEtherWallet (MEW), we’re all about fostering a seamless user experience, built on a foundation of security. This is why we’ve partnered with multiple exchanges, such as Bity, Kyber Network, and Changelly, to bring you competitive price points for your swaps.
 
@@ -34,8 +36,8 @@ A timer of 10 minutes will begin for you to review all your information, confirm
 
 If you have issues with your swap, please reach out to the relevant exchange’s support team. Their emails are as follows:
 
-* Bity - Their help center is integrated into their site.
-* Kyber Network - support@kyber.network 
-* Changelly - support@changelly.com
+-   Bity - Their help center is integrated into their site.
+-   Kyber Network - [support@kyber.network](mailto:support@kyber.network) 
+-   Changelly - [support@changelly.com](mailto:support@changelly.com)
 
 [accessMEW]: /@@@@@@/getting-started/how-to-access-your-wallet

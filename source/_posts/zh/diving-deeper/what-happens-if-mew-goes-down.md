@@ -14,17 +14,21 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
-  - faq/what-happens-if-myetherwallet-goes-down.html
+  - zh/faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
-# __What Happens if MEW Goes Down?__
-###### {% read_time title "What Happens if MEW Goes Down?" %} min read
-***
+# **What Happens if MEW Goes Down?**
 
-## __Short answer:__
+###### {% read_time title "What Happens if MEW Goes Down?" %} min read
+
+* * *
+
+## **Short answer:**
+
 Nothing, besides looking for another wallet interface.
 
-## __Longer answer:__
+## **Longer answer:**
+
 Your funds and information are not ‘in’ MyEtherWallet (MEW). Your wallet exists on the blockchain itself, and MEW just offers a way for anyone to interact with the blockchain easily. If MEW went down, you would simply have to find another Ethereum blockchain interface that would allow you to access your wallet.
 
 The information used to unlock your MEW wallet is the same information that can be used to unlock your wallet on another platform. We always suggest doing research before entering your information into an unfamiliar site.

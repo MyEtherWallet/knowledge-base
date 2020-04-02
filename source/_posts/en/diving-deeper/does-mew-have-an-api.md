@@ -9,20 +9,22 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
-- diving-deeper/does-myetherwallet-have-an-api.html
+  - en/diving-deeper/does-myetherwallet-have-an-api.html
 ---
 
-# __Does MyEtherWallet have an API?__
+# **Does MyEtherWallet have an API?**
+
 ###### {% read_time title "Does MyEtherWallet have an API?" %} min read
-***
 
-## __Here are the API docs for MEW, Etherscan, Infura, Alchemy, and Rivet (the five main providers of public nodes):__
+* * *
 
-* MEW
-* [Infura][infurahowto]
-* [Etherscan][etherscanapi]
-* [Alchemy][alchapi]
-* [Rivet][rivetapi]
+## **Here are the API docs for MEW, Etherscan, Infura, Alchemy, and Rivet (the five main providers of public nodes):**
+
+-   MEW
+-   [Infura][infurahowto]
+-   [Etherscan][etherscanapi]
+-   [Alchemy][alchapi]
+-   [Rivet][rivetapi]
 
 Our backend infrastructure is on AWS. You can actually do it yourself and run your own public or private node via [these instructions][instructions]. 
 
@@ -33,10 +35,17 @@ For both of these options, you could also connect to your new node via the 'Add 
 Or use our API directly to it (see the docs in the above APIs).
 
 [mewapi]: http://www.myetherapi.com/
+
 [infurahowto]: https://infura.io/#how-to
+
 [etherscanapi]: https://etherscan.io/apis
+
 [instructions]: https://github.com/MyEtherWallet/docker-geth-lb
+
 [quiknode]: https://quiknode.io/
+
 [ownNode]: /@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/
+
 [rivetapi]: https://rivet.cloud/
+
 [alchapi]: https://docs.alchemyapi.io/

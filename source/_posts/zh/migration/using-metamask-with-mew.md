@@ -10,43 +10,37 @@ categories:
 primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 alias:
-  - migration/moving-from-private-key-to-metamask.html
+  - zh/migration/moving-from-private-key-to-metamask.html
 ---
 
-# __Using MetaMask with MEW__
+# **Using MetaMask with MEW**
+
 ###### {% read_time title "Using MetaMask with MEW" %} min read
-***
+
+* * *
 
 Many users use MetaMask for it’s ease of use and integration with many popular crypto sites, but they still want to have the functionality that MEW offers. For this reason, we offer support for MetaMask wallets right in our interface. Connecting is simple!
 
+## **Initial Set-Up**
 
-
-## __Initial Set-Up__
-
-#### *Only for users who do not already have a MetaMask wallet and would like to create one.*
+#### _Only for users who do not already have a MetaMask wallet and would like to create one._
 
 **Step 1.** Find and install the MetaMask extension in the Google Chrome store.
 
-* Make sure it’s the legitimate extension. Are there a lot of users and positive reviews?
-* Is it offered by MetaMask.io?
-* If all of the above is true, you’re likely on the correct one.
-
-
+-   Make sure it’s the legitimate extension. Are there a lot of users and positive reviews?
+-   Is it offered by MetaMask.io?
+-   If all of the above is true, you’re likely on the correct one.
 
 **Step 2.** Create your wallet.
 
-* Make sure to choose a difficult password and record it on physical paper, just in case.
-* Follow the steps carefully, and make sure you write down the 12-word recovery phrase offered by the extension. This will be the only form of recovery for your wallet. Keep it safe.
-
-
+-   Make sure to choose a difficult password and record it on physical paper, just in case.
+-   Follow the steps carefully, and make sure you write down the 12-word recovery phrase offered by the extension. This will be the only form of recovery for your wallet. Keep it safe.
 
 **Step 3.** Log into MetaMask and familiarize yourself with your new wallet.
 
-* Take special note of your public address (0x..).
+-   Take special note of your public address (0x..).
 
-
-
-## __Using MetaMask with MEW__
+## **Using MetaMask with MEW**
 
 Now that you have your MetaMask wallet, you can access your wallet by following these steps:
 

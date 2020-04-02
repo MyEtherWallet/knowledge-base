@@ -12,31 +12,33 @@ categories:
 primary_category: networks-and-nodes
 primary_category_display_name: "Networks And Nodes"
 alias:
-- networks/cant-connect-to-custom-node-on-myetherwallet.html
+  - en/networks/cant-connect-to-custom-node-on-myetherwallet.html
 ---
 
-# __Unable to Connect to Custom Node__
+# **Unable to Connect to Custom Node**
+
 ###### {% read_time title "Unable to Connect to Custom Node" %} min read
-***
 
-* Verify the URL you entered is correct.
+* * *
 
-* Verify the port you entered is correct.
+-   Verify the URL you entered is correct.
 
-* Verify that if you are connecting to an http:// node you are running MyEtherWallet locally (NOT over https://).
+-   Verify the port you entered is correct.
 
-* Verify you are running with:
+-   Verify that if you are connecting to an http&#x3A;// node you are running MyEtherWallet locally (NOT over https&#x3A;//).
 
-    * `geth --rpc --rpccorsdomain "null" --keystore "dont_put_secret_files_here_ever"`
+-   Verify you are running with:
 
-    * `parity --rpccorsdomain "*" --keys-path "dont_put_secret_files_here_ever"`
-    
-* Verify your node is actually up and running.
+    -   `geth --rpc --rpccorsdomain "null" --keystore "dont_put_secret_files_here_ever"`
 
-* Try removing the node and adding it again.
+    -   `parity --rpccorsdomain "*" --keys-path "dont_put_secret_files_here_ever"`
 
-* Try changing the node in the top-right corner to ETH (Etherscan.io) or ETH (Infurio.io).
+-   Verify your node is actually up and running.
 
-* Try using Google Chrome, or a different browser.
+-   Try removing the node and adding it again.
 
-* Ensure you do not have a firewall or something else that may be blocking the connection.
+-   Try changing the node in the top-right corner to ETH (Etherscan.io) or ETH (Infurio.io).
+
+-   Try using Google Chrome, or a different browser.
+
+-   Ensure you do not have a firewall or something else that may be blocking the connection.

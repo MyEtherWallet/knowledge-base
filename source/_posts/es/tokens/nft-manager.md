@@ -16,16 +16,18 @@ categories:
 primary_category: token
 primary_category_display_name: "Tokens"
 alias:
-  - tokens/nft-manager.html
+  - es/tokens/nft-manager.html
 ---
 
-# __Non-Fungible Tokens (NFTs)__
+# **Non-Fungible Tokens (NFTs)**
+
 ###### {% read_time title "Non-Fungible Tokens (NFTs)" %} min read
-***
 
-### __MEW supports NFTs!__
+* * *
 
-## __What are NFTs, you ask?__
+### **MEW supports NFTs!**
+
+## **What are NFTs, you ask?**
 
 NFTs (Non-Fungible Tokens) are tokens that are tied to a singular, unique thing.
 
@@ -38,17 +40,17 @@ Since they’re built on the blockchain, their code and proof of ownership are i
 You can interact with five games right now using our NFT Manager!
 <br>
 
-## __So far, MEW supports:__
+## **So far, MEW supports:**
 
-* CryptoKitties
-* Gods Unchained
-* Etheremon
-* Cryptant Crab
-* CryptoFlowers
+-   CryptoKitties
+-   Gods Unchained
+-   Etheremon
+-   Cryptant Crab
+-   CryptoFlowers
 
 <br>
 
-### __To use the NFT Manager:__
+### **To use the NFT Manager:**
 
 **Step 1:** [Access Your Wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
@@ -61,6 +63,7 @@ You can interact with five games right now using our NFT Manager!
 <img src="/images/posts/tokens/NFT2.png" width="100%" />
 
 **Step 3.** Choose which NFT you'd like to interact with.
-* If you're trying to send your NFT to someone else, make sure you have at least 0.01 ETH to pay for gas!
+
+-   If you're trying to send your NFT to someone else, make sure you have at least 0.01 ETH to pay for gas!
 
 <img src="/images/posts/tokens/NFT4.png" width="100%" />

@@ -11,12 +11,14 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-  - hardware-wallets/trezor-error-window-blocked.html
+  - ja/hardware-wallets/trezor-error-window-blocked.html
 ---
 
-# __Error: ‘Window Blocked’__
+# **Error: ‘Window Blocked’**
+
 ###### {% read_time title "Error: Window Blocked" %} min read
-***
+
+* * *
 
 If you are getting an error message saying ‘Window Blocked’ when using a Trezor, Ledger, or MetaMask to confirm a transaction, this is because you are blocking pop-ups with the browser.
 

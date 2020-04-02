@@ -16,9 +16,11 @@ primary_category: swap
 primary_category_display_name: "Обмен"
 ---
 
-# __Обмен ETH и токенов ERC20 через Kyber Network / Bity / Changelly__
+# **Обмен ETH и токенов ERC20 через Kyber Network / Bity / Changelly**
+
 ###### Время прочтения: {% read_time title "Обмен ETH и токенов ERC20 через Kyber Network / Bity / Changelly" %} мин.
-***
+
+* * *
 
 В MyEtherWallet (MEW), мы стремимся обеспечить пользователям бесперебойную работу с сервисом, который построен на основе безопасности. Поэтому мы сотрудничаем с несколькими биржами, например, Bity, Kyber Network и Changelly, чтобы предложить вам конкурентоспособные цены на обмен.
 
@@ -34,6 +36,6 @@ primary_category_display_name: "Обмен"
 
 Если у вас возникли проблемы с обменом, обратитесь в службу поддержки соответствующей биржи. Вот их адреса электронной почты:
 
-* Bity — Их справочный центр интегрирован в их сайт.
-* Kyber Network — support@kyber.network
-* Changelly — support@changelly.com
+-   Bity — Их справочный центр интегрирован в их сайт.
+-   Kyber Network — [support@kyber.network](mailto:support@kyber.network)
+-   Changelly — [support@changelly.com](mailto:support@changelly.com)

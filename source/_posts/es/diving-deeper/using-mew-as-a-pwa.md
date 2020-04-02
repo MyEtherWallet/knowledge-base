@@ -9,13 +9,14 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
-  - faq/what-happens-if-myetherwallet-goes-down.html
+  - es/faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
+# **Using MEW as a Progressive Web App (PWA)**
 
-# __Using MEW as a Progressive Web App (PWA)__
 ###### {% read_time title "Using MEW as a Progressive Web App (PWA)" %} min read
-***
+
+* * *
 
 You can now use MEW as a Progressive Web App (PWA), allowing access to a faster and more stable version of our site directly from a shortcut on your computer desktop or smartphone. Using a PWA on your computer eliminates the risk of accessing a fake website or a compromised DNS, adding to the security of interacting with crypto services online.
 
