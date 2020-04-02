@@ -17,8 +17,12 @@ alias:
 ###### {% read_time title "MEWconnect User Guide" %} min read
 ***
 
-MEW's official fully-fledged mobile app MEW wallet is available! [Download it now][downloadmewwallet] for iOS or Android and migrate your wallet for free!
+## __MEW's official fully-fledged mobile app MEW wallet is available!__
+#### __[Download it now][downloadmewwallet] for iOS or Android and migrate your wallet for free!__
 
+## __MEWconnect__ is MEW's connection protocol app used to sign messages on MEW web. 
+
+<br>
 
 <img class="image-right" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%">
 
@@ -122,7 +126,7 @@ You can share your address with anyone you’d like by clicking the arrow button
 
 ***
 
-#### To download the MEWconnect app, visit [mewconnect.myetherwallet.com][mewconnect].
+## To download the MEWconnect app, visit [mewconnect.myetherwallet.com][mewconnect].
 
 [mew]: https://www.myetherwallet.com
 [sendaTX]: /@@@@@@/transactions/how-to-send-a-transaction/
