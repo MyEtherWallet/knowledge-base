@@ -42,15 +42,25 @@ hexo.extend.helper.register('url_for_lang', function(path) {
     url = '/' + url.replace(/\.\.\//,'').replace(/\.\.\//,'');
   }
 
-
   for(let ln of langs){
     const replaceStr = '/' + ln + '/';
     url = url.replace(replaceStr, '/');
+    // const replaceStr = '/' + ln + '/';
+    // url = url.replace(replaceStr, '/');
   }
   if (lang) url = '/' + lang + url;
   return url;
 });
 
+hexo.extend.helper.register('active_languages', function() {
+  const activeLanguages= {};
+  for(let lang in this.site.data.languages){
+    if(['ru', 'en'].includes(lang)){
+      activeLanguages[lang] = this.site.data.languages[lang]
+    }
+  }
+  return activeLanguages;
+});
 
 hexo.extend.helper.register('canonical_path_for_nav', function() {
   return this.page.canonical_path;

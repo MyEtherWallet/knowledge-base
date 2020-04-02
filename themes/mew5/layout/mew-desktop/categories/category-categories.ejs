@@ -10,11 +10,8 @@
                     <ul>
                         <li>
                             <a
-                                    href="<%- lang_prefix(site.categories.findOne({name: 'get-started'}).posts.sort('date', 1).data[0].path) %>"
+                                    href="<%- url_for_lang(site.categories.findOne({name: 'get-started'}).posts.sort('date', 1).data[0].path) %>"
                             >
-<!--                                <a-->
-<!--                                        href="<%- lang_prefix(url_for_lang(site.categories.findOne({name: 'get-started'}).posts.sort('date', 1).data[0].path), page.lang) %>"-->
-<!--                                >-->
                                 <div>
                                     <%- image_tag('images/mew-icons/get-started.svg') %>
                                     <p><%= _p('index.get_started') %></p>
