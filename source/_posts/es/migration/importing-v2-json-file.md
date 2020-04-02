@@ -12,12 +12,14 @@ categories:
 primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 alias:
-  - migration/importing-v2-json-wallet-file-myetherwallet.html
+  - es/migration/importing-v2-json-wallet-file-myetherwallet.html
 ---
 
-# __Importing a V2 JSON File__
+# **Importing a V2 JSON File**
+
 ###### {% read_time title "Importing a V2 JSON File" %} min read
-***
+
+* * *
 
 These random V2 JSON files always make things complex. We apologize in advance.
 
@@ -35,13 +37,12 @@ Now you have to open a command line window and type in the following command:
 
 This will import your file into geth and convert it to the latest (V3) keystore file.
 
-## __Now you need to go find it in one of the following locations:__
+## **Now you need to go find it in one of the following locations:**
 
-* Mac: `~/Library/Ethereum`
-* Linux: `~/.ethereum`
-* Windows: `%APPDATA%\Ethereum`
+-   Mac: `~/Library/Ethereum`
+-   Linux: `~/.ethereum`
+-   Windows: `%APPDATA%\Ethereum`
 
 Copy that file, and select it on [MEW](https://www.myetherwallet.com), and you're good to go!
 
 Moving foward, use this file. Keep a backup of it (and the old file, just in case).
-

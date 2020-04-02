@@ -9,14 +9,16 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-- mewconnect/mew-connect-secure-enclave.html
+  - en/mewconnect/mew-connect-secure-enclave.html
 ---
 
-# __Does MEWconnect Store the Private Key in iPhone's 'Secure Enclave'?__
-###### {% read_time title "Does MEWconnect Store the Private Key in iPhone's 'Secure Enclave'?" %} min read
-***
+# **Does MEWconnect Store the Private Key in iPhone's 'Secure Enclave'?**
 
-## __In short, the answer is no because it is not possible.__ 
+###### {% read_time title "Does MEWconnect Store the Private Key in iPhone's 'Secure Enclave'?" %} min read
+
+* * *
+
+## **In short, the answer is no because it is not possible.**
 
 In fact, **no Ethereum wallets store their keys in iPhone’s Secure Enclave**. Some wallets will claim that they use a ‘Secure Enclave’, but what they really mean is just a ‘general secure location’ within the device. Apple has guidelines and restrictions in place that do not allow the use of their Secure Enclave technology for crypto purposes, intentional or not. This is for a variety of reasons.  
 

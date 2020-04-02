@@ -13,15 +13,17 @@ primary_category: offline
 primary_category_display_name: "Offline"
 ---
 
-# __Using MEW Offline (Cold Storage)__
+# **Using MEW Offline (Cold Storage)**
+
 ###### {% read_time title "Using MEW Offline (Cold Storage)" %} min read
-***
+
+* * *
 
 For increased security, you can run MyEtherWallet (MEW) on your local computer, instead of from the GitHub servers through our website. The main computer being used to generate the transactions should not be connected to the internet. You can generate a wallet completely offline and send transactions on a different computer, which must be connected to the internet, from our ‘Send Offline’ section. In this way, your sensitive information (i.e. private key, keystore file, mnemonic phrase) is kept on an offline device, and it is never transmitted off your device.
 
 There are two ways to use MEW offline, through the use of PWA or by downloading the client.
 
-## __Using MEW Offline as a Progressive Web App (PWA)__
+## **Using MEW Offline as a Progressive Web App (PWA)**
 
 **Step 1.** In order to use MEW as a PWA, you'll first need to head to our website on Google Chrome and install MEW.
 
@@ -33,13 +35,13 @@ There are two ways to use MEW offline, through the use of PWA or by downloading 
 
 **Step 3.** Enter the address you're sending **from** and click 'Export JSON File'.
 
-* Keep this safe, you'll need it momentarily on your offline computer. Export it onto a USB for easy transfer.
+-   Keep this safe, you'll need it momentarily on your offline computer. Export it onto a USB for easy transfer.
 
 <img src="/images/posts/offline/offline3pwa.png" width="80%" />
 
 **Step 4.** On your **offline** computer, access your wallet as you would normally.
 
-* It will look a bit strange, since you're offline.
+-   It will look a bit strange, since you're offline.
 
 <img src="/images/posts/offline/offline4pwa.png" width="80%" />
 
@@ -53,13 +55,13 @@ There are two ways to use MEW offline, through the use of PWA or by downloading 
 
 **Step 7.** Now select 'Generate Transaction' and download the JSON file, or copy the Signed Transaction.
 
-* You'll need to use the USB from before for this step as well.
+-   You'll need to use the USB from before for this step as well.
 
 <img src="/images/posts/offline/offline7pwa.png" width="80%" />
 
 **Step 8.** Back to your **online** computer, head to the Offline Helper tool again and enter the Signed Transaction section.
 
-* Upload the JSON file here, or paste the Signed Transaction, then press 'Continue'. Details should generate in the next section.
+-   Upload the JSON file here, or paste the Signed Transaction, then press 'Continue'. Details should generate in the next section.
 
 <img src="/images/posts/offline/offline8pwa.png" width="80%" />
 
@@ -71,8 +73,7 @@ There are two ways to use MEW offline, through the use of PWA or by downloading 
 
 <img src="/images/posts/offline/offline10pwa.png" width="80%" />
 
-
-## __Downloading and Running MEW Offline__
+## **Downloading and Running MEW Offline**
 
 **Step 1.** In order to set up your local MEW, start by downloading the latest release of MEW [here](https://github.com/MyEtherWallet/MyEtherWallet/releases).
 

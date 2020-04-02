@@ -12,14 +12,16 @@ categories:
 primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 alias:
-- migration/importing-vintagemew-to-mew.html
+  - en/migration/importing-vintagemew-to-mew.html
 ---
 
-# __Migrating from Vintage MEW -> MEW__
-###### {% read_time title "Migrating from Vintage MEW to MEW" %} min read
-***
+# **Migrating from Vintage MEW -> MEW**
 
-## __As of October 20th, 2019 we have discontinued our VintageMEW site.__
+###### {% read_time title "Migrating from Vintage MEW to MEW" %} min read
+
+* * *
+
+## **As of October 20th, 2019 we have discontinued our VintageMEW site.**
 
 <br>
 
@@ -31,15 +33,16 @@ Here you are able to access the same wallet you used on the Vintage version of o
 
 You do not need to create a new wallet to use the new MEW site, you can use the exact same wallet you had on Vintage.-
 
-__First, select ‘Access My Wallet’ on the homepage.__
+**First, select ‘Access My Wallet’ on the homepage.**
 
-__Then choose your usual method of access.__ For example, if you used a Keystore/JSON file on vintage you’d select ‘Software’ and choose the ‘Keystore’ option to connect.
+**Then choose your usual method of access.** For example, if you used a Keystore/JSON file on vintage you’d select ‘Software’ and choose the ‘Keystore’ option to connect.
 
-__After you’ve connected, you’ll be taken to your Wallet Dashboard page.__ Here you can view your balances, send transactions, interact with Dapps, swap your crypto, and even manage NFTs! 
+**After you’ve connected, you’ll be taken to your Wallet Dashboard page.** Here you can view your balances, send transactions, interact with Dapps, swap your crypto, and even manage NFTs! 
 
 We’ve come a long way since our days in Vintage, so it’s a good idea to take a few minutes and explore our new features. 
 
 For more information, check out our guide on [how to access your wallet][accessmew]!
 
 [mewsite]: www.myetherwallet.com
+
 [accessmew]: /@@@@@@/getting-started/how-to-access-your-wallet/
