@@ -19,8 +19,9 @@ alias:
 
 * * *
 
-## __MEW's official fully-fledged mobile app MEW wallet is available!__
-#### __[Download it now][downloadmewwallet] for iOS or Android and migrate your wallet for free!__
+## **MEW's official fully-fledged mobile app MEW wallet is available!**
+
+#### **[Download it now][downloadmewwallet] for iOS or Android and migrate your wallet for free!**
 
 <img class="image-right" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%">
 
