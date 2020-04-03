@@ -25,8 +25,8 @@ i18n:
     - ja
     - ko
     - zh
-#  [en, ru]
-#  type: [page, post]
+  #  [en, ru]
+  #  type: [page, post]
   generator: [index]
 
 # URL
@@ -62,7 +62,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -76,7 +76,7 @@ index_generator:
 # Extensions
 exclude_generator:
   - index
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -250,6 +250,7 @@ alias:
   /posts/common-issues/window-blocked/: /en/common-issues/window-blocked/
   /posts/categories/: /en/categories/
   /en/common-issues/: /en/common-issues/unable-to-locate-corresponding-transfer-event-log/
+  /en/diving-deeper/diving-deeper/: /en/diving-deeper/what-happens-if-mew-goes-down/ # still need to figure out why it is doing this
   /en/diving-deeper/: /en/diving-deeper/what-happens-if-mew-goes-down/
   /en/getting-started/: /en/getting-started/myetherwallet-an-introduction/
   /en/hardware-wallets/: /en/hardware-wallets/using-ledger-with-mew/
@@ -278,11 +279,11 @@ alias:
   /getting-started/creating-a-new-wallet-on-myetherwallet.html: /en/getting-started/how-to-create-a-wallet/
   /getting-started/getting-started-new.html: /en/getting-started/myetherwallet-an-introduction/
   /getting-started/using-mewcx.html: /en/getting-started/using-mewcx/
-#  /hardware-wallets/trezor-error-window-blocked.html: /en/hardware-wallets/
+  #  /hardware-wallets/trezor-error-window-blocked.html: /en/hardware-wallets/
   /hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html: /en/hardware-wallets/unable-to-connect-with-hardware-wallet/
   /networks/using-ethereum-hardware-wallet-with-custom-node.html: /en/hardware-wallets/using-hardware-wallet-with-custom-node/
   /networks/using-ethereum-hardware-wallet-with-path.html: /en/hardware-wallets/using-hardware-with-custom-path/
-#  /faq/what-happens-if-myetherwallet-goes-down.html: /en/hardware-wallets/
+  #  /faq/what-happens-if-myetherwallet-goes-down.html: /en/hardware-wallets/
   /migration/moving-from-private-key-to-ledger-hardware-wallet.html: /en/hardware-wallets/using-ledger-with-mew/
   /migration/moving-from-private-key-to-trezor-hardware-wallet.html: /en/hardware-wallets/using-trezor-with-mew/
   /mewconnect/mew-connect-101-connect.html: /en/mewconnect/mewconnect-101-connect/
