@@ -61,7 +61,7 @@ To learn more about creating your wallet with MEW CX, click [here][mewcx].
 
 ## **Keystore/JSON**
 
-#### _Read more about what a Keystore/JSON file is [here][keystoreJson]._
+#### **Read more about what a Keystore/JSON file is [here][keystoreJson].**
 
 **Step 1.** Head to [www.myetherwallet.com.](http://www.myetherwallet.com.) 
 
@@ -81,7 +81,7 @@ To learn more about creating your wallet with MEW CX, click [here][mewcx].
 
 ## **Mnemonic Phrase**
 
-#### _Read more about what a Mnemonic Phrase is [here][mnemonic]._
+#### **Read more about what a Mnemonic Phrase is [here][mnemonic].**
 
 **Step 1.** Head to [www.myetherwallet.com](http://www.myetherwallet.com).
 
@@ -113,4 +113,4 @@ To learn more about creating your wallet with MEW CX, click [here][mewcx].
 
 [accessWallet]: /@@@@@@/getting-started/how-to-access-your-wallet/
 
-[mewcx]: /@@@@@@/getting-started/using-mewcx.md/
+[mewcx]: /@@@@@@/getting-started/using-mewcx/
