@@ -17,7 +17,7 @@ primary_category_display_name: "MEW wallet"
 
 * * *
 
-<img src="/images/posts/mewconnect/meww1.jpg" width="150px"><img src="/images/posts/mewconnect/meww2.jpg" width="250px"><img src="/images/posts/mewconnect/meww3.jpg" width="350px">
+<img src="/images/posts/mewconnect/meww1.jpg" width="150px"><img src="/images/posts/mewconnect/meww2.jpg" width="200px"><img src="/images/posts/mewconnect/meww3.jpg" width="250px">
 
 ## **MEW wallet** is MEW’s official fully-fledged mobile app. It's simple, fast, and secure.
 
@@ -37,20 +37,32 @@ primary_category_display_name: "MEW wallet"
 
 **Step 2.** Select ‘Create a free wallet’.
 
-<img src="/images/posts/mewconnect/mcreate1.jpg" width="350px">
+<img src="/images/posts/mewconnect/mcreate1.jpg" width="250px">
  
 **Step 3.** Read the safety tips! Then click ‘Create a wallet’.
  
-<img src="/images/posts/mewconnect/mcreate2.jpg" width="350px"> <img src="/images/posts/mewconnect/mcreate3.jpg" width="350px">
+<p style="
+    display:  flex;
+">
+<img src="/images/posts/mewconnect/mcreate2.jpg" width="250px"> <img src="/images/posts/mewconnect/mcreate3.jpg" width="250px">
+</p>
  
 **Step 4.** Choose a strong pin code. 
 * You can also enable additional biometric access, such as a fingerprint or facial recognition.
  
-<img src="/images/posts/mewconnect/mcreate4.jpg" width="350px"> <img src="/images/posts/mewconnect/mcreate5.jpg" width="350px">
+<p style="
+    display:  flex;
+">
+<img src="/images/posts/mewconnect/mcreate4.jpg" width="250px"> <img src="/images/posts/mewconnect/mcreate5.jpg" width="250px">
+</p>
  
 **Step 5.** Wait for your account to generate, then select ‘Start using MEW wallet’.
  
-<img src="/images/posts/mewconnect/mcreate6.jpg" width="350px"> <img src="/images/posts/mewconnect/mcreate7.jpg" width="350px">
+<p style="
+    display:  flex;
+">
+<img src="/images/posts/mewconnect/mcreate6.jpg" width="250px"> <img src="/images/posts/mewconnect/mcreate7.jpg" width="250px">
+</p>
 
 ##### \_\_
 
@@ -66,18 +78,18 @@ primary_category_display_name: "MEW wallet"
 
 <img src="/images/posts/mewconnect/mbackup1.jpg" width="350px">
  
-<img src="/images/posts/mewconnect/mbackup2.jpg" width="350px">
+<img src="/images/posts/mewconnect/mbackup2.jpg" width="250px">
  
 **Step 2.** Get a pen and a piece of paper, then write down the 24 words that appear.
 * Keep these words in the same order as they appear, and double-check that it’s all spelled correctly.
 * Ideally, you should write this phrase down 2 - 3 times on separate sheets of paper, stored in multiple secure locations. 
 * We cannot recover this phrase for you, and anyone that has access to it will have permanent access to your funds.
  
-<img src="/images/posts/mewconnect/mbackup3.jpg" width="350px">
+<img src="/images/posts/mewconnect/mbackup3.jpg" width="250px">
  
 **Step 3.** Pass a quick test on the device, and you're done!
  
-<img src="/images/posts/mewconnect/mbackup4.jpg" width="350px">
+<img src="/images/posts/mewconnect/mbackup4.jpg" width="250px">
  
 ##### __
  
@@ -89,18 +101,22 @@ primary_category_display_name: "MEW wallet"
  
 **Step 1.** Select ‘Buy Ether’ on the main page of the MEW wallet app. 
  
-<img src="/images/posts/mewconnect/mcreate7.jpg" width="350px">
+<img src="/images/posts/mewconnect/mcreate7.jpg" width="250px">
  
 **Step 2.** Select the amount you’d like to buy, or enter a custom amount (up to $250 worth).
 * If you're using an iOS device in the US, Apply Pay makes buying ETH as easy as clicking a button!
 
-<img src="/images/posts/mewconnect/mewwallet1.png" width="350px"> <img src="/images/posts/mewconnect/mewwallet2.png" width="350px"> 
+<p style="
+    display:  flex;
+">
+<img src="/images/posts/mewconnect/mewwallet1.png" width="250px"> <img src="/images/posts/mewconnect/mewwallet2.png" width="250px"> 
+</p>
 
-<img src="/images/posts/mewconnect/mbuyeth2.jpg" width="350px">
+<img src="/images/posts/mewconnect/mbuyeth2.jpg" width="250px">
  
 **Step 3.** After being redirected to Wyre or Simplex, enter your details and finish the purchase.
 
-<img src="/images/posts/mewconnect/mbuyeth3.jpg" width="350px">
+<img src="/images/posts/mewconnect/mbuyeth3.jpg" width="250px">
  
 **Step 4.** Your new balance will reflect in your account shortly!
  
@@ -114,21 +130,50 @@ primary_category_display_name: "MEW wallet"
  
 **Step 1.** Swipe left on your main account and select ‘Add account’.
  
-<img src="/images/posts/mewconnect/madd1.jpg" width="350px">
+<img src="/images/posts/mewconnect/madd1.jpg" width="250px">
  
 **Step 2.** Think of a nickname for this account, then choose ‘Add’.
  
-<img src="/images/posts/mewconnect/madd2.jpg" width="350px">
+<img src="/images/posts/mewconnect/madd2.jpg" width="250px">
  
 **Step 3.** Your new account should generate. 
 * This account is also tied to the recovery phrase from the ‘Back up your account’ section.
 * When you restore your main account, all subsequent accounts will also be restored.
  
-<img src="/images/posts/mewconnect/madd3.jpg" width="350px">
+<img src="/images/posts/mewconnect/madd3.jpg" width="250px">
  
 **Step 4.** If you want to view all your accounts or hide any of them, you can do so through ‘Manage accounts’.
  
-<img src="/images/posts/mewconnect/madd4.jpg" width="350px">
+<img src="/images/posts/mewconnect/madd4.jpg" width="250px">
+
+##### __
+
+## **Connect to MEW web**
+
+#### **Connect to our web interface to explore even more features of Ethereum, such as DeFi and Dapps.**
+
+<br>
+
+**Step 1.** Head to MEW web by visiting www.myetherwallet.com.
+
+<img src="/images/posts/mewconnect/mwconnectaccess.png" width="600px">
+
+**Step 2.** Select 'Access My Wallet' and then click 'MEWconnect'.
+
+<img src="/images/posts/mewconnect/mwconnect.png" width="600px"> <img src="/images/posts/mewconnect/mwconnectqr.png" width="400px">
+
+**Step 3.** On the MEW wallet mobile app, click the small camera icon in the top-right corner of the app and scan the QR code.
+* You may need to double-check your camera permissions in the settings on your phone.
+
+<p style="
+    display:  flex;
+">
+<img src="/images/posts/mewconnect/mwcard.jpg" width="250px"> <img src="/images/posts/mewconnect/mwscanqr.jpg" width="250px">
+</p>
+
+**Step 4.** Congratulations, you've connected your MEW wallet mobile account to MEW web! 
+
+<img src="/images/posts/mewconnect/mwconnected.jpg" width="250px"> <img src="/images/posts/mewconnect/mwconnectoverview.png" width="700px">
  
  
 [mewOffline]: /@@@@@@/offline/using-mew-offline/
