@@ -15,7 +15,7 @@ primary_category_display_name: "MEW wallet"
 
 ###### {% read_time title "MEW wallet User Guide" %} min read
 
----
+* * *
 
 <img src="/images/posts/mewconnect/meww1.jpg" style="max-width: 150px;" />
 <img src="/images/posts/mewconnect/meww2.jpg" style="max-width: 200px;" />
@@ -73,7 +73,7 @@ primary_category_display_name: "MEW wallet"
 
 **Step 1.** After creating your wallet, select 'Back up Now'. Read the warning and continue.
 
-- You can also head to ‘Settings’, then ‘View my recovery phrase’.
+-   You can also head to ‘Settings’, then ‘View my recovery phrase’.
 
 <img src="/images/posts/mewconnect/mbackup1.jpg" style="max-width: 350px; width: 100%;" />
 <img src="/images/posts/mewconnect/mbackup2.jpg" style="max-width: 250px; width: 100%;" />
@@ -151,7 +151,7 @@ primary_category_display_name: "MEW wallet"
 
 <br>
 
-**Step 1.** Head to MEW web by visiting www.myetherwallet.com.
+**Step 1.** Head to MEW web by visiting [www.myetherwallet.com](http://www.myetherwallet.com).
 
 <img src="/images/posts/mewconnect/mwconnectaccess.png" style="max-width: 600px; width: 100%;" />
 
@@ -162,7 +162,7 @@ primary_category_display_name: "MEW wallet"
 
 **Step 3.** On the MEW wallet mobile app, click the small camera icon in the top-right corner of the app and scan the QR code.
 
-- You may need to double-check your camera permissions in the settings on your phone.
+-   You may need to double-check your camera permissions in the settings on your phone.
 
 <img src="/images/posts/mewconnect/mwcard.jpg" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mwscanqr.jpg" style="max-width: 250px;" />
@@ -173,4 +173,5 @@ primary_category_display_name: "MEW wallet"
 <img src="/images/posts/mewconnect/mwconnectoverview.png" style="max-width: 600px; width: 100%;" />
 
 [mewoffline]: /@@@@@@/offline/using-mew-offline/
+
 [download]: https://www.mewwallet.com/
