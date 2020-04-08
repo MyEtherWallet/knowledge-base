@@ -1,5 +1,5 @@
 ---
-title: "MEWconnect 101: Wallet Overview"
+title: "MEWconnect 101 Video Series"
 
 date: 2018-06-01 00:03:00
 tags:

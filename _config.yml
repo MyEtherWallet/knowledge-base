@@ -209,10 +209,10 @@ alias:
   /posts/migration/using-metamask-with-mew/: /en/migration/using-metamask-with-mew/
   /posts/mewconnect/mewconnect-user-guide/: /en/mewconnect/mewconnect-user-guide/
   /posts/mewconnect/mewconnect-secure-enclave/: /en/mewconnect/mewconnect-secure-enclave/
-  /posts/mewconnect/mewconnect-101-transfer/: /en/mewconnect/mewconnect-101-transfer/
-  /posts/mewconnect/mewconnect-101-recover/: /en/mewconnect/mewconnect-101-recover/
-  /posts/mewconnect/mewconnect-101-create/: /en/mewconnect/mewconnect-101-create/
-  /posts/mewconnect/mewconnect-101-connect/: /en/mewconnect/mewconnect-101-connect/
+  /posts/mewconnect/mewconnect-101-transfer/: /en/mewconnect/mewconnect-101-overview/
+  /posts/mewconnect/mewconnect-101-recover/: /en/mewconnect/mewconnect-101-overview/
+  /posts/mewconnect/mewconnect-101-create/: /en/mewconnect/mewconnect-101-overview/
+  /posts/mewconnect/mewconnect-101-connect/: /en/mewconnect/mewconnect-101-overview/
   /posts/mewconnect/mewconnect-101-overview/: /en/mewconnect/mewconnect-101-overview/
   /posts/mewconnect/mewconnect-change-password/: /en/mewconnect/mewconnect-change-password/
   /posts/hardware-wallets/using-trezor-with-mew/: /en/hardware-wallets/using-trezor-with-mew/
@@ -286,11 +286,11 @@ alias:
   #  /faq/what-happens-if-myetherwallet-goes-down.html: /en/hardware-wallets/
   /migration/moving-from-private-key-to-ledger-hardware-wallet.html: /en/hardware-wallets/using-ledger-with-mew/
   /migration/moving-from-private-key-to-trezor-hardware-wallet.html: /en/hardware-wallets/using-trezor-with-mew/
-  /mewconnect/mew-connect-101-connect.html: /en/mewconnect/mewconnect-101-connect/
-  /mewconnect/mew-connect-101-create.html: /en/mewconnect/mewconnect-101-create/
+  /mewconnect/mew-connect-101-connect.html: /en/mewconnect/mewconnect-101-overview/
+  /mewconnect/mew-connect-101-create.html: /en/mewconnect/mewconnect-101-overview/
   /mewconnect/mew-connect-101-overview.html: /en/mewconnect/mewconnect-101-overview/
-  /mewconnect/mew-connect-101-backup.html: /en/mewconnect/mewconnect-101-recover/
-  /mewconnect/mew-connect-101-tx.html: /en/mewconnect/mewconnect-101-transfer/
+  /mewconnect/mew-connect-101-backup.html: /en/mewconnect/mewconnect-101-overview/
+  /mewconnect/mew-connect-101-tx.html: /en/mewconnect/mewconnect-101-overview/
   /mewconnect/mew-connect-secure-enclave.html: /en/mewconnect/mewconnect-secure-enclave/
   /mewconnect/mew-connect-user-guide.html: /en/mewconnect/mewconnect-user-guide/
   /migration/importing-v2-json-wallet-file-myetherwallet.html: /en/migration/importing-v2-json-file/
