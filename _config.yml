@@ -207,22 +207,14 @@ alias:
   /posts/migration/moving-from-exchange-to-mew/: /en/migration/moving-from-exchange-to-mew/
   /posts/migration/importing-v2-json-file/: /en/migration/importing-v2-json-file/
   /posts/migration/using-metamask-with-mew/: /en/migration/using-metamask-with-mew/
-  /posts/mewconnect/mewconnect-user-guide/: /en/mewconnect/mewconnect-101-overview/
-  /posts/mewconnect/mewconnect-secure-enclave/: /en/mewconnect/mewconnect-101-overview/
+  /posts/mewconnect/mewconnect-user-guide/: /en/mewconnect/mewconnect-user-guide/
+  /posts/mewconnect/mewconnect-secure-enclave/: /en/mewconnect/mewconnect-secure-enclave/
   /posts/mewconnect/mewconnect-101-transfer/: /en/mewconnect/mewconnect-101-overview/
   /posts/mewconnect/mewconnect-101-recover/: /en/mewconnect/mewconnect-101-overview/
   /posts/mewconnect/mewconnect-101-create/: /en/mewconnect/mewconnect-101-overview/
   /posts/mewconnect/mewconnect-101-connect/: /en/mewconnect/mewconnect-101-overview/
   /posts/mewconnect/mewconnect-101-overview/: /en/mewconnect/mewconnect-101-overview/
-  /posts/mewconnect/mewconnect-change-password/: /en/mewconnect/mewconnect-101-overview/
-  /en/mewconnect/mewconnect-user-guide/: /en/mewconnect/mewconnect-101-overview/
-  /en/mewconnect/mewconnect-secure-enclave/: /en/mewconnect/mewconnect-101-overview/
-  /en/mewconnect/mewconnect-101-transfer/: /en/mewconnect/mewconnect-101-overview/
-  /en/mewconnect/mewconnect-101-recover/: /en/mewconnect/mewconnect-101-overview/
-  /en/mewconnect/mewconnect-101-create/: /en/mewconnect/mewconnect-101-overview/
-  /en/mewconnect/mewconnect-101-connect/: /en/mewconnect/mewconnect-101-overview/
-  /en/mewconnect/mewconnect-101-overview/: /en/mewconnect/mewconnect-101-overview/
-  /en/mewconnect/mewconnect-change-password/: /en/mewconnect/mewconnect-101-overview/
+  /posts/mewconnect/mewconnect-change-password/: /en/mewconnect/mewconnect-change-password/
   /posts/hardware-wallets/using-trezor-with-mew/: /en/hardware-wallets/using-trezor-with-mew/
   /posts/hardware-wallets/using-secalot-with-mew/: /en/hardware-wallets/using-secalot-with-mew/
   /posts/hardware-wallets/using-ledger-with-mew/: /en/hardware-wallets/using-ledger-with-mew/
@@ -262,7 +254,7 @@ alias:
   /en/diving-deeper/: /en/diving-deeper/what-happens-if-mew-goes-down/
   /en/getting-started/: /en/getting-started/myetherwallet-an-introduction/
   /en/hardware-wallets/: /en/hardware-wallets/using-ledger-with-mew/
-  /en/mewconnect/: /en/mewconnect/mewconnect-101-overview/
+  /en/mewconnect/: /en/mewconnect/mewconnect-user-guide/
   /en/migration/: /en/migration/using-metamask-with-mew/
   /en/networks-and-nodes/: /en/networks-and-nodes/how-to-change-networks/
   /en/offline/: /en/offline/using-mew-offline/
@@ -271,7 +263,7 @@ alias:
   /en/swap/: /en/swap/swapping-via-kyber-bity-changelly/
   /en/tokens/: /en/tokens/how-to-add-custom-token/
   /en/transactions/: /en/transactions/what-is-gas/
-  /getting-started/mew-connect-user-guide.html: /en/mewconnect/mewconnect-101-overview/
+  /getting-started/mew-connect-user-guide.html: /en/mewconnect/mewconnect-user-guide/
   # Former aliases in en/ directory
   /diving-deeper/myetherapi-api-limits.html: /en/diving-deeper/does-mew-api-limit-amount-of-requests/
   /diving-deeper/does-myetherwallet-have-an-api.html: /en/diving-deeper/does-mew-have-an-api/
@@ -299,8 +291,8 @@ alias:
   /mewconnect/mew-connect-101-overview.html: /en/mewconnect/mewconnect-101-overview/
   /mewconnect/mew-connect-101-backup.html: /en/mewconnect/mewconnect-101-overview/
   /mewconnect/mew-connect-101-tx.html: /en/mewconnect/mewconnect-101-overview/
-  /mewconnect/mew-connect-secure-enclave.html: /en/mewconnect/mewconnect-101-overview/
-  /mewconnect/mew-connect-user-guide.html: /en/mewconnect/mewconnect-101-overview/
+  /mewconnect/mew-connect-secure-enclave.html: /en/mewconnect/mewconnect-secure-enclave/
+  /mewconnect/mew-connect-user-guide.html: /en/mewconnect/mewconnect-user-guide/
   /migration/importing-v2-json-wallet-file-myetherwallet.html: /en/migration/importing-v2-json-file/
   /migration/importing-vintagemew-to-mew.html: /en/migration/importing-vintagemew-to-mew/
   /migration/moving-from-coinbase-to-myetherwallet.html: /en/migration/moving-from-exchange-to-mew/
