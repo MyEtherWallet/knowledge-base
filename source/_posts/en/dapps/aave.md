@@ -1,5 +1,5 @@
 ---
-title: "Using Aave"
+title: "Earn on your Deposits with Aave"
 date: 2018-06-01 00:02:00
 tags:
 - aave
@@ -15,9 +15,9 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# **Using Aave**
+# **Earn on your Deposits with Aave**
 
-###### {% read_time title "Using Aave" %} min read
+###### {% read_time title "Earn on your Deposits with Aave" %} min read
 
 * * *
 
