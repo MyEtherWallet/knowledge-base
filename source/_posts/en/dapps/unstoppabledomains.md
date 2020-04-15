@@ -60,7 +60,7 @@ Both of these addresses lead to the same wallet destination, but the Unstoppable
 
 **Step 5.** If your domain is available, you can buy it for $40 by clicking 'Buy'. 
 
-- Unstoppable Domains allows you to purchase the domain with fiat through a Credit Card, if you want to. This process is handled by a third party service called Stripe. 
+-   Unstoppable Domains allows you to purchase the domain with fiat through a Credit Card, if you want to. This process is handled by a third party service called Stripe. 
 
 <img src="/images/posts/diving-deeper/ud3.png" width="100%">
 <img src="/images/posts/diving-deeper/ud4.png" width="100%">
