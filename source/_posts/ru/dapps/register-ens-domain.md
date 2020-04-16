@@ -1,5 +1,5 @@
 ---
-title: "Register and Manage .eth Domains with ENS"
+title: "Регистрация и управление доменами .eth с помощью ENS"
 date: 2018-06-01 00:02:00
 tags:
   - ens
@@ -13,7 +13,7 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# **Register and Manage .eth Domains with ENS**
+# **Регистрация и управление доменами .eth с помощью ENS**
 
 ###### {% read_time title "Register and Manage .eth Domains with ENS" %} минут на чтение
 
