@@ -12,12 +12,15 @@ primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 ---
 
-# __Mnemonic Phrase: Should I Include an Extra Word?__
-###### {% read_time title "Mnemonic Phrase: Should I Include an Extra Word?" %} min read
-***
+# **Mnemonic Phrase: Should I Include an Extra Word?**
 
-## __Creating a New Wallet__
-#### __We do not suggest creating a new wallet with the mnemonic phrase option on our website, unless you are planning to [use MEW offline](/@@@@@@/offline/using-mew-offline).__
+###### {% read_time title "Mnemonic Phrase: Should I Include an Extra Word?" %} min read
+
+* * *
+
+## **Creating a New Wallet**
+
+#### **We do not suggest creating a new wallet with the mnemonic phrase option on our website, unless you are planning to [use MEW offline](/@@@@@@/offline/using-mew-offline).**
 
 When you’re creating a new wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include an extra word. This is an extra word of your own choosing tacked onto the end of your phrase. For example, if you’re making a 24 word mnemonic phrase, this will act as a **mandatory** 25th word every time you want to use this phrase.
 
@@ -29,9 +32,9 @@ Occasionally, this extra word is also referred to as a 'password', but this is m
 
 In the end, the choice is yours.
 
+## **Accessing or Restoring a Wallet**
 
-## __Accessing or Restoring a Wallet__
-#### __We do not suggest accessing or restoring your wallet with your mnemonic phrase directly on our website, unless you are [using MEW offline](/@@@@@@/offline/using-mew-offline).__
+#### **We do not suggest accessing or restoring your wallet with your mnemonic phrase directly on our website, unless you are [using MEW offline](/@@@@@@/offline/using-mew-offline).**
 
 When accessing or restoring your wallet through the ‘Mnemonic Phrase’ option on MEW, you are given the choice of whether or not to include an extra word. Most of the time, the answer is no.
 
