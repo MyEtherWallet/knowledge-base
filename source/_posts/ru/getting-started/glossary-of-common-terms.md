@@ -62,9 +62,9 @@ alias:
 -   Зашифрованная версия вашего закрытого ключа в формате JSON (хотя у него нет расширения JSON).
 -   Продвинутая версия вашего закрытого ключа, защищенная выбранным вами паролем.
 -   Это безопаснее, чем закрытый ключ, потому что вам нужен пароль.
--   File name usually is in the format: `UTC + -- + DATE_CREATED + -- + YOUR_ADDRESS_WITHOUT_THE_Ox`
--   Example of file name: `UTC--2017-07-02T20-33-09.177Z--06a85356dcb5b307096726fb86a78c59d38e08ee`
--   Example of Contents: `{"version":3,"id":"aa811d53-fe9a-44a2-bd1c-e737007b5591","address":"06a85356dcb5b307096726fb86a78c59d38e08ee","Crypto":{"ciphertext":"f5a7cc8d4b8cf93510b0d0d057f3a52ac79fd48e619e0638c4ffd978ca180248","cipherparams":{"iv":"975ab00192e2dd74170e91ca59c0b0bd"},"cipher":"aes-128-ctr","kdf":"scrypt","kdfparams":{"dklen":32,"salt":"0210f0d0b99e440dfbceb36373304638bac093a367ee7da6411cd165f7aa907a","n":1024,"r":8,"":1},"mac":"8197a747a3855a10546a2ff939c36470daed78e393b670efa0c12fe3b23dd7e3"}}`
+-   Формат имени файла обычно такой: `UTC + -- + DATE_CREATED + -- + YOUR_ADDRESS_WITHOUT_THE_Ox`
+-   Пример имени файла: `UTC--2017-07-02T20-33-09.177Z--06a85356dcb5b307096726fb86a78c59d38e08ee`
+-   Пример содержимого: `{"version":3,"id":"aa811d53-fe9a-44a2-bd1c-e737007b5591","address":"06a85356dcb5b307096726fb86a78c59d38e08ee","Crypto":{"ciphertext":"f5a7cc8d4b8cf93510b0d0d057f3a52ac79fd48e619e0638c4ffd978ca180248","cipherparams":{"iv":"975ab00192e2dd74170e91ca59c0b0bd"},"cipher":"aes-128-ctr","kdf":"scrypt","kdfparams":{"dklen":32,"salt":"0210f0d0b99e440dfbceb36373304638bac093a367ee7da6411cd165f7aa907a","n":1024,"r":8,"":1},"mac":"8197a747a3855a10546a2ff939c36470daed78e393b670efa0c12fe3b23dd7e3"}}`
 
 ## **Мнемоническая фраза (фраза для восстановления)**
 
@@ -74,8 +74,8 @@ alias:
 -   Используется кошельками Ledger, Trezor, MEWconnect, MetaMask, Jaxx и другими.
 -   Берет начало из спецификации BIP 39.
 -   Аккаунты к которым вы можете получить доступ посредством мнемонической фразы определяются ["деривационным путем"](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2).
--   Example 12-words: `brain surround have swap horror body response double fire dumb bring hazard`
--   Example 24-words: `card enrich gesture connect kick topple fan body blind engine lemon swarm venue praise addict agent unaware equal bean sing govern income link leg`
+-   Пример из 12 слов: `brain surround have swap horror body response double fire dumb bring hazard`
+-   Пример из 24 слов: `card enrich gesture connect kick topple fan body blind engine lemon swarm venue praise addict agent unaware equal bean sing govern income link leg`
 
 ## **Аппаратный кошелек (hardware wallet)**
 
@@ -115,7 +115,7 @@ alias:
 
 -   Также известна как "случайность".
 -   Чем больше случайности, тем больше энтропии и надежности.
--   Usually defined in "bits of entropy", or the number of years it would take to brute-force a \_\_\_\_ (i.e. private key) derived with that much entropy.
+-   Обычно измеряется в "битах энтропии", или количестве лет, которое бы понадобилось для взлома подбором чего-то (например, закрытого ключа), полученного с таким объемом энтропии.
 -   Закрытые ключи Ethereum — это 256-битные ключи
 -   Мнемонические фразы из 24 слов — это также 256 бит энтропии. 2048 слов в словаре. 11 бит энтропии (слова). `11 * 24 = 264`. Последнее слово служит для суммирования (подробнее о суммировании можно прочитать [здесь](/@@@@@@/common-issues/not-checksummed/).
 
