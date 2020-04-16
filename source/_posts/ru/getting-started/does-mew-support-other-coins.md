@@ -11,12 +11,14 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - faq/sending-bitcoin-btc-ltc-xmr-to-myetherwallet.html
+  - en/faq/sending-bitcoin-btc-ltc-xmr-to-myetherwallet.html
 ---
 
-# __Поддерживает ли MEW BTC или другие монеты?__
+# **Поддерживает ли MEW BTC или другие монеты?**
+
 ###### {% read_time title "Does MEW Support BTC or other Coins?" %} минут на чтение
-***
+
+* * *
 
 MyEtherWallet (MEW) поддерживает ETH и ERC20 токены в основных ETH сетях. Вы можете получить доступ к полному списку поддерживаемых сетей и переключаться между ними через настройку Сеть/Узлы которую можно найти на странице Обзора кошелька после доступа к вашему кошельку.
 
