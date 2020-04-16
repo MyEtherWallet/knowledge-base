@@ -15,12 +15,14 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - faq/eth-or-tokens-not-showing-on-exchange.html
+  - en/faq/eth-or-tokens-not-showing-on-exchange.html
 ---
 
-# __Не появились ETH или токены ERC20, отправленные на биржу или с нее__
+# **Не появились ETH или токены ERC20, отправленные на биржу или с нее**
+
 ###### Время прочтения: {% read_time title "Не появились токены ETH или ERC20, отправленные на биржу или с нее" %} мин.
-***
+
+* * *
 
 Если вы не можете найти свои средства, вам сначала необходимо убедиться, что транзакция была успешно передана. Если у вас есть хэш транзакции, введите его в строку поиска по адресу [​​Etherscan.io](https://etherscan.io).
 
