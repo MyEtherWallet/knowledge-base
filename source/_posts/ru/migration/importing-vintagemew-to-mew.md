@@ -35,9 +35,9 @@ alias:
 
 **Сначала выберите "Доступ к кошельку" на главной странице.**
 
-**Then choose your usual method of access.** For example, if you used a Keystore/JSON file on vintage you’d select ‘Software’ and choose the ‘Keystore’ option to connect.
+**Затем выберите способ доступа, который вы обычно используете.** Например, если вы использовали файл-хранилище ключа (Keystore/JSON) на Vintage, выберите "Программный доступ" и вариант подключения "Файл-хранилище ключа".
 
-**After you’ve connected, you’ll be taken to your Wallet Dashboard page.** Here you can view your balances, send transactions, interact with Dapps, swap your crypto, and even manage NFTs!
+**После подключения вы окажетесь на странице панели управления вашего кошелька.** Здесь вы можете видеть ваш баланс, отправлять транзакции, взаимодействовать с Dapp-приложениями, обменивать криптовалюту и даже управлять NFT-токенами!
 
 Мы преодолели долгий путь со времен Vintage, поэтому вы не пожалеете, если потратите пару минут на ознакомление с нашими новыми функциями.
 
