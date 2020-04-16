@@ -13,7 +13,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - en/getting-started/checking-balance-of-my-account.html
+  - getting-started/checking-balance-of-my-account.html
 ---
 
 # **Проверка баланса**
