@@ -17,7 +17,7 @@ primary_category_display_name: "Dapps"
 
 # **Open a Multi-Collateral Vault with MakerDAO**
 
-###### {% read_time title "Open a Multi-Collateral Vault with MakerDAO" %} min read
+###### {% read_time title "Open a Multi-Collateral Vault with MakerDAO" %} минут на чтение
 
 * * *
 
@@ -98,7 +98,7 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/MKR13.png" width="100%" />
 
-**Step 5.** Your vault doesn't actually _close_, but remains empty and ready should you ever need to use it again.
+**Шаг 5.** На самом деле ваш Vault не _закрывается_, а остается пустым и готовым, если вам когда-нибудь нужно использовать его снова.
 
 ## **Вот видео, показывающее процесс:**
 
