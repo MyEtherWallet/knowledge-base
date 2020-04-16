@@ -11,7 +11,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - en/getting-started/creating-a-new-wallet-on-myetherwallet.html
+  - getting-started/creating-a-new-wallet-on-myetherwallet.html
 ---
 
 # **Как создать кошелек**
@@ -63,7 +63,7 @@ alias:
 
 #### **Прочитать подробнее о том, что такое файл-хранилищe ключей / JSON-файл, можно [здесь](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).**
 
-**Step 1.** Head to [www.myetherwallet.com.](http://www.myetherwallet.com.)
+**Шаг 1.** Перейдите на [www.myetherwallet.com.](http://www.myetherwallet.com.)
 
 **Шаг 2.** Нажмите "Создать новый кошелек".
 
@@ -83,7 +83,7 @@ alias:
 
 #### **Прочитать подробнее о том, что такое мнемоническая фраза, можно [здесь](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/).**
 
-**Step 1.** Head to [www.myetherwallet.com](http://www.myetherwallet.com).
+**Шаг 1.** Перейдите на [www.myetherwallet.com.](http://www.myetherwallet.com).
 
 **Шаг 2.** Нажмите "Создать новый кошелек".
 
