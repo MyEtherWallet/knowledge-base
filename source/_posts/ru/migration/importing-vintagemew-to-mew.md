@@ -12,14 +12,16 @@ categories:
 primary_category: migration
 primary_category_display_name: "Переход с и на MEW"
 alias:
-  - migration/importing-vintagemew-to-mew.html
+  - en/migration/importing-vintagemew-to-mew.html
 ---
 
-# __Миграция с Vintage MEW -> MEW__
-###### {% read_time title "Миграция с Vintage MEW на MEW" %} мин. чтения
-***
+# **Миграция с Vintage MEW -> MEW**
 
-## __С 20 октября 2019 года мы прекратили работу нашего сайта VintageMEW.__
+###### {% read_time title "Миграция с Vintage MEW на MEW" %} мин. чтения
+
+* * *
+
+## **С 20 октября 2019 года мы прекратили работу нашего сайта VintageMEW.**
 
 <br>
 
@@ -31,11 +33,11 @@ alias:
 
 Вам не нужно создавать новый кошелек, чтобы пользоваться новым сайтом MEW, вы можете использовать тот же кошелек, который был у вас на Vintage.
 
-__Сначала выберите "Доступ к кошельку" на главной странице.__
+**Сначала выберите "Доступ к кошельку" на главной странице.**
 
-__Затем выберите способ доступа, который вы обычно используете.__ Например, если вы использовали файл-хранилище ключа (Keystore/JSON) на Vintage, выберите "Программный доступ" и вариант подключения "Файл-хранилище ключа".
+**Then choose your usual method of access.** For example, if you used a Keystore/JSON file on vintage you’d select ‘Software’ and choose the ‘Keystore’ option to connect.
 
-__После подключения вы окажетесь на странице панели управления вашего кошелька.__ Здесь вы можете видеть ваш баланс, отправлять транзакции, взаимодействовать с Dapp-приложениями, обменивать криптовалюту и даже управлять NFT-токенами!
+**After you’ve connected, you’ll be taken to your Wallet Dashboard page.** Here you can view your balances, send transactions, interact with Dapps, swap your crypto, and even manage NFTs!
 
 Мы преодолели долгий путь со времен Vintage, поэтому вы не пожалеете, если потратите пару минут на ознакомление с нашими новыми функциями.
 
