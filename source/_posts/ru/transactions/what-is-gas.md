@@ -56,36 +56,36 @@ You can use our tool to calculate GWEI &lt;-> WEI &lt;-> USD [here](https://www.
 
 ## **Лимит газа**
 
-The gas limit is called the limit because it's the maximum amount of units of gas you are willing to spend on a transaction. This avoids situations where there is an error somewhere in a contract, and you end up spending `1 ETH`, then `10 ETH`, and then `1000 ETH`, going in circles but arriving no where.
+Лимит газ называется так, потому что это максимальное количество единиц газа, которое вы готовы потратить на транзакцию. Это позволяет избежать ситуаций, когда где-то в контракте возникает ошибка, и в итоге вы тратите `1 ETH`, затем `10 ETH`, а потом `1000 ETH` и идете по кругу, но никуда не приходите.
 
-However, the units of gas necessary for a transaction are already defined by how much code is executed on the blockchain. If you do not want to spend as much on gas, lowering the gas limit won't help much. You must include enough gas to cover the computational resources you use or your transaction will fail due to an 'Out of Gas' error.
+Однако число необходимых для транзакции единиц газа уже определено тем, сколько кода выполняется в блокчейне. Если вы не хотите столько тратить на газ, то снижение лимита газа вам особо не поможет. Вы должны включить достаточно газа для покрытия используемых вычислительных ресурсов, иначе ваша транзакция не пройдет из-за ошибки Out of Gas.
 
-All unused gas never leaves your wallet. So if you go to MyEtherWallet, send `1 ETH` to our donation address, and use a gas limit of `400000`, you will receive `400000 - 21000* = 379000` back. However, if you were sending `1 ETH` to a contract, and your transaction to the contract fails, you will use the entire `400000` and receive nothing back.
+Неиспользованный газ никогда не покинет ваш кошелек. Поэтому если вы перейдете на MyEtherWallet, отправите `1 ETH` на наш адрес для пожертвований и укажите газовый лимит в размере `400000`, вы получите обратно `400000 - 21000* = 379000`. Однако если вы отправляли `1 ETH` на адрес контракта, и ваша транзакция не прошла (скажем, период создания токена уже истек), то вы используете все `400000` и ничего не получите обратно.
 
-_\*`21000` is the standard gas limit for regular transactions._
+_\*`21000` — это стандартный лимит газа для обычных транзакций._
 
 ## **Цена газа**
 
-If you want to spend less on a transaction, you can do so by lowering the amount you pay per unit of gas. The price you pay for each unit increases or decreases how quickly your transaction will be mined.
+Если вы хотите потратить меньше средств на транзакцию, вы можете добиться этого, уменьшив оплату за единицу газа. Цена, которую вы платите за каждую единицу, повышает или понижает скорость добычи вашей транзакции.
 
-## **Will increasing the gas price get it mined faster? Does setting a low gas price mean it won't ever be mined?**
+## **Будет ли транзакция добыта быстрее, если повысить цену газа? Если цена газа низкая, означает ли это, что транзакция никогда не будет добыта?**
 
-The transaction fees go to the miner who mines your block. When miners mine a block, they have to decide which transactions to include. They can choose to include no transactions, or they can choose to randomly select transactions. In order to encourage miners to include transactions in blocks you want to set a 'gas price' that is high enough to make them want to include it (since it is entirely up to them).
+Комиссию за транзакцию получает майнер, который добудет ваш блок. Когда майнеры начинают добывают блок, они должны решить, какие транзакции включить в него. Они могут вообще не включать в него транзакции, или же включить в него случайно выбранные транзакции. Чтобы побудить майнеров включать транзакции в блоки, вам нужно установить настолько высокую «цену газа», чтобы они захотели включить вашу транзакцию (поскольку это полностью зависит от них).
 
-_Most_ miners follow a very simple strategy for inclusion. They include transactions they received sorted from highest gas price to lowest, then include them until either the block is full, or they reach one that has a gas price set lower than they are willing to bother with.
+У _большинства_ майнеров очень простая стратегия включения. Они включают полученные транзакции, отсортированные от самой высокой цены газа до самой низкой, до тех пор, пока либо блок не будет заполнен, либо они не дойдут до транзакции, чья цена газа ниже интересующей их суммы.
 
-You want to set the gas price high enough so that a miner includes your transaction in a block. If you are in a hurry, you can set the gas price even higher, so that you jump ahead of everyone in line.
+Вам нужно установить цену на газ достаточно высокой, чтобы майнер включил вашу транзакцию в блок. Если вы спешите, вы можете установить цену на газ еще выше, чтобы занять первое место в очереди.
 
-If you are not in a hurry, you just need to set a number high enough so that someone eventually includes your transaction.
+Если вы не спешите, то вам нужно просто установить достаточно высокую цену, чтобы кто-нибудь в конечном итоге включил вашу транзакцию.
 
-## **Why should I set a low gas price?**
+## **Зачем мне устанавливать низкую цену на газ?**
 
-Because it's cheaper, and because with the increasing price of ETH (compared to USD), a transaction that used to cost half a cent, may now cost a few cents.
+Потому что это дешевле и потому что с ростом цены ETH (по сравнению с долларом США) транзакция, которая раньше стоила полцента, будет стоить несколько центов.
 
-More expensive transactions, like interacting with certain Dapps, can now cost a dollar or more! As a user, you should try sending non-urgent transactions with a lower gas price as the more transactions that occur at the lower gas price, the more likely miners will lower their minimums.
+Более дорогие транзакции, такие как взаимодействие с определенными децентрализованными приложениями (Dapps), теперь могут стоить доллар или больше! Вам, как пользователю, нужно пытаться отправлять несрочные транзакции с более низкой ценой газа, так как чем больше транзакций с более низкой ценой газа, тем более вероятно, что майнеры снизят свои минимальные значения.
 
-## **Where can I see what miners are accepting?**
+## **Где я могу увидеть, какие цены принимают майнеры?**
 
-Start here, at [EthGasStation](http://ethgasstation.info/).
+Начните здесь, в [EthGasStation](http://ethgasstation.info/).
 
-[EthGasStation's Calculator](https://ethgasstation.info/calculatorTxV.php) will let you estimate how long it will be before your transaction is accepted at a specific gas price.
+[EthGasStation's Calculator](https://ethgasstation.info/calculatorTxV.php) позволит вам оценить, сколько времени пройдет до того, как ваша транзакция будет принята по определенной цене на газ.
