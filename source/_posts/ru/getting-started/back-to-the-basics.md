@@ -13,7 +13,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - en/getting-started/getting-back-to-basics-tips-for-newbies.html
+  - getting-started/getting-back-to-basics-tips-for-newbies.html
 ---
 
 # **Вернемся к основам: 10 советов новичкам**
@@ -74,4 +74,4 @@ alias:
 
 -   Это все еще совсем новая область, но ее поддерживает сильное сообщество.
 -   На таких социальных платформах, как [Reddit](https://www.reddit.com/r/MyEtherWallet/) и [Twitter](https://twitter.com/myetherwallet), есть множество реальных людей, включая нас, которые живут и дышат криптовалютами!
--   Если вы запутаетесь или вас будет что-то беспокоить, вы можете связаться с нашей службой поддержки напрямую. We can be reached at [support@myetherwallet.com](mailto:support@myetherwallet.com).
+-   Если вы запутаетесь или вас будет что-то беспокоить, вы можете связаться с нашей службой поддержки напрямую. Вы можете связаться с нами на [support@myetherwallet.com](mailto:support@myetherwallet.com).
