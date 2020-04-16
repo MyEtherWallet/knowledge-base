@@ -12,12 +12,14 @@ categories:
 primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
-  - networks/using-ethereum-hardware-wallet-with-custom-node.html
+  - en/networks/using-ethereum-hardware-wallet-with-custom-node.html
 ---
 
-# __Использование аппаратного кошелька с кастомным узлом__
+# **Использование аппаратного кошелька с кастомным узлом**
+
 ###### {% read_time title "Using a Hardware Wallet With a Custom Node" %} минут на чтение
-***
+
+* * *
 
 Benjaminion написал замечательное руководство о том, как это сделать.
 
