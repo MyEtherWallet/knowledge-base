@@ -43,20 +43,20 @@ Unstoppable Domains - это сервис, который привязывает
 **Шаг 1.** Откройте ваш кошелек.
 
 -   Если у вас еще нет кошелька, вам понадобится [создать новый кошелек](/@@@@@@/getting-started/how-to-create-a-wallet/).
--   You will also need $40 worth of ETH for the domain, and a small amount of ETH for [gas](/@@@@@@/transactions/what-is-gas/). Обычно мы рекомендуем `.01 ETH` для 1 - 2 транзакций.
+-   Также вам понадобится количество ETH равное $40, плюс небольшая сумма ETH на [газ](/@@@@@@/transactions/what-is-gas/). Обычно мы рекомендуем `.01 ETH` для 1 - 2 транзакций.
 
 <img src="/images/posts/diving-deeper/ENS1-2.png" width="100%" />
 
 **Шаг 3.** Направляйтесь в раздел Dapps в левой части панели управления вашего кошелька. Его также можно найти в нижней части страницы, в разделе 'Dapps'.
 
--   Here you will see the ‘Unstoppable Domains’ option. Нажмите на нее!
+-   Здесь вы увидите опцию Unstoppable Domains. Нажмите на нее!
 
 <img src="/images/posts/diving-deeper/ud1.png" width="100%" />
 
 **Шаг 4.** Введите желаемое доменное имя, чтобы увидеть, доступно ли оно.
 
--   Unstoppable Domains must be 6 characters or longer.
--   Keep in mind that the final product will look like `YourDomainHere.crypto`.
+-   Unstoppable Domains должны содержать 6 символов или более.
+-   Имейте в виду, что конечный результат будет выглядеть подобным образом: `YourDomainHere.crypto`.
 
 <img src="/images/posts/diving-deeper/ud2.png" width="100%" />
 
