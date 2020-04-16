@@ -11,9 +11,11 @@ primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 ---
 
-# __What is a Smart Contract?__
+# **What is a Smart Contract?**
+
 ###### {% read_time title "What is a Smart Contract?" %} min read
-***
+
+* * *
 
 First, let’s look at what a contract is. A contract generally outlines a relationship between two parties, bound by law. If one party violates that contract, actions can be taken against them for essentially breaking the law. Many beginning users confuse contracts and smart contracts, and while they can hold similar functionality, they are used for different purposes.
 
@@ -23,11 +25,11 @@ The original creator of smart contract technology was Nick Szabo. In 1993, he ha
 
 The Ethereum blockchain was created specifically to write and execute smart contracts. While Bitcoin technically supported the very basic smart contract of transferring BTC, this is generally regarded as only the tip of the iceberg. With a little innovation and creativity, smart contracts can be built on top of one another to create completely decentralized applications (Dapps) and decentralized autonomous organizations (DAOs). In these cases, each smart contract performs a function, which triggers another function in another contract, which continues to develop until a complicated action is completed without needing any centralized authority to monitor it.
 
-## __Some generally well-known use cases for smart contracts are:__
+## **Some generally well-known use cases for smart contracts are:**
 
-* Multi-signature wallets, which require a majority of the wallet’s owners to agree on spending before the contract executes.
-* Managing relationship agreements between two users, i.e. buying insurance or property ownership.
-* Providing information or utility for other contracts to pull from.
-* Storing information, such as personal information, medical data, membership records, consensus ledgers, etc.
+-   Multi-signature wallets, which require a majority of the wallet’s owners to agree on spending before the contract executes.
+-   Managing relationship agreements between two users, i.e. buying insurance or property ownership.
+-   Providing information or utility for other contracts to pull from.
+-   Storing information, such as personal information, medical data, membership records, consensus ledgers, etc.
 
 The use cases for smart contracts are endless. We are only beginning to scratch the surface of what this technology can offer, and how it will revolutionize the world. 
