@@ -9,20 +9,22 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
-  - diving-deeper/does-myetherwallet-have-an-api.html
+  - en/diving-deeper/does-myetherwallet-have-an-api.html
 ---
 
-# __Does MyEtherWallet have an API?__
+# **Does MyEtherWallet have an API?**
+
 ###### {% read_time title "Does MyEtherWallet have an API?" %} min read
-***
 
-## __Here are the API docs for MEW, Etherscan, Infura, Alchemy, and Rivet (the five main providers of public nodes):__
+* * *
 
-* MEW
-* [Infura](https://infura.io/#how-to)
-* [Etherscan](https://etherscan.io/apis)
-* [Alchemy](https://docs.alchemyapi.io/)
-* [Rivet](https://rivet.cloud/)
+## **Here are the API docs for MEW, Etherscan, Infura, Alchemy, and Rivet (the five main providers of public nodes):**
+
+-   MEW
+-   [Infura](https://infura.io/#how-to)
+-   [Etherscan](https://etherscan.io/apis)
+-   [Alchemy](https://docs.alchemyapi.io/)
+-   [Rivet](https://rivet.cloud/)
 
 Our backend infrastructure is on AWS. You can actually do it yourself and run your own public or private node via [these instructions](https://github.com/MyEtherWallet/docker-geth-lb).
 
