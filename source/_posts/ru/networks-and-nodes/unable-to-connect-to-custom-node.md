@@ -12,31 +12,33 @@ categories:
 primary_category: networks-and-nodes
 primary_category_display_name: "Сети и узлы"
 alias:
-  - networks/cant-connect-to-custom-node-on-myetherwallet.html
+  - en/networks/cant-connect-to-custom-node-on-myetherwallet.html
 ---
 
-# __Невозможно подключиться к кастомному узлу__
+# **Невозможно подключиться к кастомному узлу**
+
 ###### {% read_time title "Невозможно подключиться к пользовательскому узлу" %} мин. на прочтение
-***
 
-* Убедитесь, что введенный вами URL-адрес корректен.
+* * *
 
-* Убедитесь, что введенный вами номер порта корректен.
+-   Убедитесь, что введенный вами URL-адрес корректен.
 
-* Убедитесь, что при подключении к узлу http:// вы работаете с MyEtherWallet локально (НЕ через https://).
+-   Убедитесь, что введенный вами номер порта корректен.
 
-* Убедитесь, что используются следующие аргументы:
+-   Verify that if you are connecting to an http&#x3A;// node you are running MyEtherWallet locally (NOT over https&#x3A;//).
 
-    * `geth --rpc --rpccorsdomain "null" --keystore "dont_put_secret_files_here_ever"`
+-   Убедитесь, что используются следующие аргументы:
 
-    * `parity --rpccorsdomain "*" --keys-path "dont_put_secret_files_here_ever"`
+    -   `geth --rpc --rpccorsdomain "null" --keystore "dont_put_secret_files_here_ever"`
 
-* Убедитесь, что узел работает.
+    -   `parity --rpccorsdomain "*" --keys-path "dont_put_secret_files_here_ever"`
 
-* Попробуйте удалить узел и добавить его снова.
+-   Убедитесь, что узел работает.
 
-* Попробуйте изменить узел в верхнем правом углу на ETH (Etherscan.io) или ETH (Infurio.io).
+-   Попробуйте удалить узел и добавить его снова.
 
-* Попробуйте использовать Google Chrome или другой браузер.
+-   Попробуйте изменить узел в верхнем правом углу на ETH (Etherscan.io) или ETH (Infurio.io).
 
-* Убедитесь, что у вас нет брандмауэра или других приложений, способных блокировать соединение.
+-   Попробуйте использовать Google Chrome или другой браузер.
+
+-   Убедитесь, что у вас нет брандмауэра или других приложений, способных блокировать соединение.
