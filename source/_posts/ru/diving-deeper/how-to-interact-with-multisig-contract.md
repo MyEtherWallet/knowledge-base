@@ -14,7 +14,7 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - en/faq/interacting-with-ethereum-multisig-wallet.html
+  - faq/interacting-with-ethereum-multisig-wallet.html
 ---
 
 # **Как взаимодействовать с контрактом с мультиподписью?**
