@@ -1,5 +1,5 @@
 ---
-title: "Buy a .crypto Domain with Unstoppable Domains"
+title: "Купите .crypto домен через Unstoppable Domains"
 date: 2018-06-01 00:02:00
 tags:
   - ens
@@ -13,25 +13,25 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# **Buy a .crypto Domain with Unstoppable Domains**
+# **Купите .crypto домен через Unstoppable Domains**
 
 ###### {% read_time title "Buy a .crypto Domain with Unstoppable Domains" %} минут на чтение
 
 * * *
 
-Unstoppable Domains is a service that assigns a user-specific domain tied to your wallet’s account address.
+Unstoppable Domains - это сервис, который привязывает определенный пользовательский домен к адресу вашего кошелька.
 
-Unstoppable Domains take the format of `YourDomainHere.crypto`. Смысл заключается в упрощении обычного публичного адреса до формы, более удобной в использовании и отправке другим.
+Домены Unstoppable Domains имеют формат `YourDomainHere.crypto`. Смысл заключается в упрощении обычного публичного адреса до формы, более удобной в использовании и отправке другим.
 
 В качестве простого примера можно привести адрес для поддержки MEW:
 
 Обычный адрес для поддержки: `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D`
 
-.crypto donation address: `mewtopia.crypto`
+.crypto адрес для поддержки: `mewtopia.crypto`
 
-Both of these addresses lead to the same wallet destination, but the Unstoppable Domain version is much more convenient.
+Оба адреса ведут в один кошелек, однако вариант Unstoppable Domain гораздо удобнее.
 
-## **How to Register an Unstoppable Domain**
+## **Как зарегистрировать Unstoppable Domain**
 
 **Шаг 1.** Направляйтесь на сайт MyEtherWallet.com.
 
