@@ -15,7 +15,7 @@ primary_category_display_name: "Dapps"
 
 # **Register and Manage .eth Domains with ENS**
 
-###### {% read_time title "Register and Manage .eth Domains with ENS" %} min read
+###### {% read_time title "Register and Manage .eth Domains with ENS" %} минут на чтение
 
 * * *
 
