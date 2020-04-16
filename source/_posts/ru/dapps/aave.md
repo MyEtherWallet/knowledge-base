@@ -1,5 +1,5 @@
 ---
-title: "Earn on your Deposits with Aave"
+title: "Зарабатывайте на своих депозитах с помощью Aave"
 date: 2018-06-01 00:02:00
 tags:
   - aave
@@ -16,9 +16,9 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# **Earn on your Deposits with Aave**
+# **Зарабатывайте на своих депозитах с помощью Aave**
 
-###### {% read_time title "Earn on your Deposits with Aave" %} min read
+###### {% read_time title "Earn on your Deposits with Aave" %} минут на чтение
 
 * * *
 
@@ -46,7 +46,7 @@ Aave позволяет вам класть на депозит и занима�
 
 <img src="/images/posts/diving-deeper/aave4.png" width="100%" />
 
-**Step 4.** After you deposit, you will be sent a token in the form of ‘a_Token_’, which will be pegged 1:1 with the asset you’ve deposited. Once you withdraw your deposited assets, extra funds earned through the ‘a_Token_’ will be credited to your account.
+**Шаг 4.** После внесения средств на депозит, вы получите токен в виде "a_Token_", который будет привязан 1:1 с вложенным вами активом. Once you withdraw your deposited assets, extra funds earned through the ‘a_Token_’ will be credited to your account.
 
 -   Например, внесение 1 ETH даст вам 1 аETH, который будет постепенно расти в балансе со временем. При снятии средств, этот дополнительный баланс будет зачислен вам.
 
