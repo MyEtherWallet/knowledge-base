@@ -27,7 +27,7 @@ Ethereum Name Service, также известная как ENS, — это до
 
 Обычный адрес для поддержки: `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D`
 
-.eth donation address: `mewtopia.eth`
+.eth адрес для поддержки: `mewtopia.eth`
 
 Оба адреса ведут в один кошелек, однако ENS-домен гораздо удобнее.
 
