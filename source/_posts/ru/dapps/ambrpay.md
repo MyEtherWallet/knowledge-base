@@ -17,7 +17,7 @@ primary_category_display_name: "Dapps"
 
 # **Set up Recurring Payments with Ambrpay**
 
-###### {% read_time title "Set up Recurring Payments with Ambrpay" %} min read
+###### {% read_time title "Set up Recurring Payments with Ambrpay" %} минут на чтение
 
 * * *
 
