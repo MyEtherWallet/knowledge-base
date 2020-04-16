@@ -13,7 +13,7 @@ primary_category_display_name: "MEWwallet"
 
 # **MEW wallet vs MEWconnect**
 
-###### {% read_time title "MEW wallet vs MEWconnect" %} min read
+###### {% read_time title "MEW wallet vs MEWconnect" %} мин. чтения
 
 * * *
 
@@ -25,7 +25,7 @@ primary_category_display_name: "MEWwallet"
 
 ## **With MEWconnect or MEW wallet, you can:**
 
--   Buy ETH
+-   Купить ETH
 -   Hold ETH and tokens
 -   Connect to MEW web
 -   Sign messages
