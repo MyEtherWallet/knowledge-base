@@ -30,17 +30,17 @@ alias:
 
 ## **Рекомендуемые методы:**
 
-## **MEW wallet** - MEW's official mobile app
+## **MEW wallet** - Официальное мобильное приложение MEW
 
 #### **Это лучший вариант для обеспечения защиты и надежного хранения вашей информации. Исследуйте Ethereum со своего мобильного устройства.**
 
 Чтобы узнать больше о создании кошелька с помощью MEW wallet, перейдите [сюда](/@@@@@@/mewwallet/mewwallet-user-guide/).
 
-## **MEW CX** - MEW's Browser Extension
+## **MEW CX** - Расширение MEW для браузера
 
 #### **Доступ ко всем функциям MEW через расширение. Подключитесь к вашим любимым DApps и воспользуйтесь функцией QuickSend.**
 
-To learn more about creating your wallet with MEW CX, click [here](/@@@@@@/getting-started/using-mewcx/).
+Чтобы узнать больше о создании кошелька с помощью MEW CX, перейдите [сюда](/@@@@@@/getting-started/using-mewcx/).
 
 ##### \_\_
 
@@ -61,7 +61,7 @@ To learn more about creating your wallet with MEW CX, click [here](/@@@@@@/getti
 
 ## **Хранилище ключей / JSON**
 
-#### **Read more about what a Keystore/JSON file is [here](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).**
+#### **Прочитать подробнее о том, что такое файл-хранилищe ключей / JSON-файл, можно [здесь](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).**
 
 **Step 1.** Head to [www.myetherwallet.com.](http://www.myetherwallet.com.)
 
@@ -81,7 +81,7 @@ To learn more about creating your wallet with MEW CX, click [here](/@@@@@@/getti
 
 ## **Мнемоническая фраза**
 
-#### **Read more about what a Mnemonic Phrase is [here](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/).**
+#### **Прочитать подробнее о том, что такое мнемоническая фраза, можно [здесь](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/).**
 
 **Step 1.** Head to [www.myetherwallet.com](http://www.myetherwallet.com).
 
