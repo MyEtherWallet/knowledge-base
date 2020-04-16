@@ -10,68 +10,72 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-  - getting-started/accessing-your-new-eth-wallet.html
+  - en/getting-started/accessing-your-new-eth-wallet.html
 ---
 
-# __How to Access Your Wallet__
+# **How to Access Your Wallet**
+
 ##### <i>This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to [this article][createWallet].</i>
+
 ###### {% read_time title "How to Access Your Wallet" %} min read
-***
+
+* * *
+
 ## MyEtherWallet (MEW) offers a variety of ways to access one’s Ethereum wallet, by selecting the ‘Access My Wallet’ option on the front page.
 
-## __They are, from most to least recommended:__
+## **They are, from most to least recommended:**
 
 <br>
 
-* Hardware Wallets ([Ledger Nano S](https://www.ledger.com/?r=fa4b), [Trezor](https://trezor.io/?offer_id=12&aff_id=2029), [Digital Bitbox](https://shiftcrypto.ch/?ref=mew), [Finney](http://shop.sirinlabs.com/?rfsn=2397639.54fdf&utm_source=refersion&utm_medium=affiliate&utm_campaign=2397639.54fdf), etc.)
-* MEW wallet, MEW's official mobile app for iOS and Android, and WalletLink / WalletConnect
-* Browser Extensions a.k.a. Web3 (MEW CX, MetaMask, etc.)
-* Software
-    * Keystore/JSON File + password
-    * Mnemonic Phrase + extra word (optional)
-    * Private Key
+-   Hardware Wallets ([Ledger Nano S](https://www.ledger.com/?r=fa4b), [Trezor](https://trezor.io/?offer_id=12&aff_id=2029), [Digital Bitbox](https://shiftcrypto.ch/?ref=mew), [Finney](http://shop.sirinlabs.com/?rfsn=2397639.54fdf&utm_source=refersion&utm_medium=affiliate&utm_campaign=2397639.54fdf), etc.)
+-   MEW wallet, MEW's official mobile app for iOS and Android, and WalletLink / WalletConnect
+-   Browser Extensions a.k.a. Web3 (MEW CX, MetaMask, etc.)
+-   Software
+    -   Keystore/JSON File + password
+    -   Mnemonic Phrase + extra word (optional)
+    -   Private Key
 
-##### __
+##### \_\_
 
-## __Most Recommended:__
+## **Most Recommended:**
 
-## __Hardware Wallets__
+## **Hardware Wallets**
 
 Hardware wallets use the highest security measures to encrypt a private key within the device itself, keeping phishers and hackers at bay. Users of most hardwares wallets do not receive their private key, but instead receive a 24-word mnemonic phrase for recovery purposes. The devices are also usually accompanied by a pin code or password used to unlock the device, and all information about each wallet is kept on the actual physical device itself.
 
 To learn more about accessing MEW with hardware wallets, reference our [Migrating to/from MEW](/@@@@@@/hardware-wallets/) category.
 
-##### __
+##### \_\_
 
 <img src="/images/posts/mewconnect/meww3.jpg" width="300px" />
 
-## __MEW wallet__
+## **MEW wallet**
+
 This is our fully fledged MEW mobile app for iOS and Android smartphones. It's simple, fast, and secure to use. When creating a wallet with MEW wallet, your private key is kept encrypted on a secure, local vault in your phone. For backup, you are given a mnemonic phrase (much like the hardware wallets above). The wallet is also accompanied by a pin or password, which is used to unlock it on your device.
 
 To learn more about accessing MEW with MEW wallet, reference our [MEW wallet User Guide](/@@@@@@/mewwallet/mewwallet-user-guide/).
 
-##### __
+##### \_\_
 
-## __WalletLink / WalletConnect__
+## **WalletLink / WalletConnect**
+
 WalletLink is a connection protocol used by the mobile app Coinbase Wallet, and WalletConnect is another connection protocol that's already being used by over 20 mobile wallets like Trust Wallet, MetaMask, Coinomi, etc. By integrating support for all these wallets to connect with MEW, it's now possible to explore all of Ethereum from many different outlets.
 
 These wallets each have their own connection processes, but it always boils down to the same action- scanning a QR code with your app to connect to MEW.
 
-##### __
+##### \_\_
 
+## **Browser Extension (Web3) Wallets:**
 
-## __Browser Extension (Web3) Wallets:__
-#### __What is [Web3](https://www.mewtopia.com/the-essential-wallet-guide-part-4/)?__
+#### **What is [Web3](https://www.mewtopia.com/the-essential-wallet-guide-part-4/)?**
 
+## **MEW CX**
 
-
-## __MEW CX__
 MEW CX is MyEtherWallet's offical Web3 Chrome Extension wallet. It offers all the functionality of the web-version of MEW in the convenience of an toolbar extension. It also hosts the ability to interact with web-based Dapps, such as CryptoKitties.
 
 MEW CX will come in conflict with any other Web3 wallets you have, such as MetaMask or Brave Browser's in-house wallet. Make sure all other Web3 wallets are disabled before using MEW CX.
 
-
-## __To connect MEW with MEW CX__
+## **To connect MEW with MEW CX**
 
 **Step 1.** Install the MEW CX wallet via our Chrome Extension.
 
@@ -87,16 +91,13 @@ MEW CX will come in conflict with any other Web3 wallets you have, such as MetaM
 
 **Step 6.** You're done!
 
+## **MetaMask**
 
-
-
-## __MetaMask__
 This is a Chrome Extension that allows the creation of an ethereum-based wallet that keeps one’s private key encrypted within the extension itself. It also generates a 12-word mnemonic phrase for recovery purposes. MetaMask allows users to name their separate wallets, see funds within the extension, and offers the option to import the private key information of a previously created wallet, if desired.
 
+## **To connect MEW with MetaMask:**
 
-
-## __To connect MEW with MetaMask:__
-#### __This assumes you already have a MetaMask wallet.__
+#### **This assumes you already have a MetaMask wallet.**
 
 **Step 1.** Login to your MetaMask wallet via their Chrome Extension.
 
@@ -110,17 +111,17 @@ This is a Chrome Extension that allows the creation of an ethereum-based wallet 
 
 **Step 6.** You're done!
 
-##### __
+##### \_\_
 
-## __These methods are not recommended:__
+## **These methods are not recommended:**
 
-## __Keystore/JSON + Password__
+## **Keystore/JSON + Password**
+
 The Keystore/JSON is a file that holds an encrypted version of one’s private key. This key is encrypted with a chosen password by the user. As such, it is impossible to change the password for these files. The only way to change the password is to make a completely new Keystore file, which can be achieved in our MEW Chrome Extension with one’s private key. Keystore files should not be opened. They are only to be utilized when accessing the Keystore/JSON option on our site and when prompted for one’s ‘JSON file’. You can read more about the functionality of a Keystore/JSON file [here](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).
 
+## **To connect with Keystore/JSON + Password:**
 
-
-## __To connect with Keystore/JSON + Password:__
-#### __This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.__
+#### **This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.**
 
 **Step 1.** On the MEW front page, select 'Access My Wallet'.
 
@@ -132,15 +133,13 @@ The Keystore/JSON is a file that holds an encrypted version of one’s private k
 
 **Step 5.** You're done!
 
+## **Mnemonic Phrase (+ Extra Word)**
 
-
-## __Mnemonic Phrase (+ Extra Word)__
 This is a list of 12 to 24 words that are generated and given to users upon certain forms of wallet creation (i.e. MEWconnect, MetaMask, Hardware Wallets, JAXX wallets, etc.). Sometimes these phrases have an extra word associated with them, and sometimes they do not. The order and spelling of the words in a mnemonic phrase is directly tied to one’s private key, and therefore is not recommended as a regular way to access a wallet. It is best to only use this phrase for recovery purposes.
 
+## **To connect with Mnemonic Phrase (+ Extra Word):**
 
-
-## __To connect with Mnemonic Phrase (+ Extra Word):__
-#### __This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.__
+#### **This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.**
 
 **Step 1.** On the MEW front page, select 'Access My Wallet'.
 
@@ -152,15 +151,13 @@ This is a list of 12 to 24 words that are generated and given to users upon cert
 
 **Step 5.** Choose your wallet’s address amongst the list generated, and you’re done!
 
+## **Private Key**
 
+The private key is a string of 64 characters tied permanently to a public address. This is sometimes given to users when wallets are created and sometimes kept encrypted (in the case of MEWconnect, MetaMask, and Hardware Wallets). _Using one’s private key should always be a last-ditch effort of access, only to be utilized when all else fails._ This should not be the main method of entry for anyone to access their wallets. Private keys are the number one most sensitive information anyone can have for a wallet, because private keys allow immediate access and can never be changed. Therefore, it is extremely important to keep this safe, secure, and secret.
 
-## __Private Key__
-The private key is a string of 64 characters tied permanently to a public address. This is sometimes given to users when wallets are created and sometimes kept encrypted (in the case of MEWconnect, MetaMask, and Hardware Wallets). *Using one’s private key should always be a last-ditch effort of access, only to be utilized when all else fails.* This should not be the main method of entry for anyone to access their wallets. Private keys are the number one most sensitive information anyone can have for a wallet, because private keys allow immediate access and can never be changed. Therefore, it is extremely important to keep this safe, secure, and secret.
+## **To connect with Private Key:**
 
-
-
-## __To connect with Private Key:__
-#### __This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.__
+#### **This is not a recommended way to connect. We highly suggest [using MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for this option.**
 
 **Step 1.** On the MEW front page, select ‘Access My Wallet’.
 
