@@ -1,5 +1,5 @@
 ---
-title: "Open a Multi-Collateral Vault with MakerDAO"
+title: "Создать Multi-Collateral Vault с MakerDAO"
 date: 2018-06-01 00:02:00
 tags:
   - makerdao
@@ -15,7 +15,7 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# **Open a Multi-Collateral Vault with MakerDAO**
+# **Создать Multi-Collateral Vault с MakerDAO**
 
 ###### {% read_time title "Open a Multi-Collateral Vault with MakerDAO" %} минут на чтение
 
