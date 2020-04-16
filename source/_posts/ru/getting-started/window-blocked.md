@@ -11,12 +11,14 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - hardware-wallets/trezor-error-window-blocked.html
+  - en/hardware-wallets/trezor-error-window-blocked.html
 ---
 
-# __Ошибка: "Окно заблокировано"__
+# **Ошибка: "Окно заблокировано"**
+
 ###### {% read_time title "Error: Window Blocked" %} минут на чтение
-***
+
+* * *
 
 Если вы получаете сообщение об ошибке с текстом "Окно заблокировано" при использовании Trezor, Ledger или MetaMask для подтверждения операции, это значит, что вы заблокировали всплывающие окна в браузере.
 
