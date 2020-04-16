@@ -15,7 +15,7 @@ primary_category_display_name: "Dapps"
 
 # **Buy a .crypto Domain with Unstoppable Domains**
 
-###### {% read_time title "Buy a .crypto Domain with Unstoppable Domains" %} min read
+###### {% read_time title "Buy a .crypto Domain with Unstoppable Domains" %} минут на чтение
 
 * * *
 
