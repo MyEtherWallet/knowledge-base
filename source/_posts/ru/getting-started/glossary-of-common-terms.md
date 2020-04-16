@@ -10,7 +10,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - en/getting-started/ethereum-glossary.html
+  - getting-started/ethereum-glossary.html
 ---
 
 # **Словарь общепринятых терминов в сообществе Ethereum/криптовалют**
