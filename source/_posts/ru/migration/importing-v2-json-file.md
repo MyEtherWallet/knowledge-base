@@ -12,12 +12,14 @@ categories:
 primary_category: migration
 primary_category_display_name: "Переход с и на MEW"
 alias:
-  - migration/importing-v2-json-wallet-file-myetherwallet.html
+  - en/migration/importing-v2-json-wallet-file-myetherwallet.html
 ---
 
-# __Импорт файла V2 JSON__
+# **Импорт файла V2 JSON**
+
 ###### {% read_time title "Импорт файла V2 JSON" %} мин. на прочтение
-***
+
+* * *
 
 С файлами V2 JSON часто возникают проблемы. Мы заранее извиняемся за них.
 
@@ -35,13 +37,12 @@ alias:
 
 Она позволит импортировать ваш файл в geth и преобразовать его в хранилище ключей последней версии (V3).
 
-## __Теперь вам нужно перейти в одну из следующих директорий:__
+## **Теперь вам нужно перейти в одну из следующих директорий:**
 
-* Mac: `~/Library/Ethereum`
-* Linux: `~/.ethereum`
-* Windows: `%APPDATA%\Ethereum`
+-   Mac: `~/Library/Ethereum`
+-   Linux: `~/.ethereum`
+-   Windows: `%APPDATA%\Ethereum`
 
 Скопируйте путь к файлу, который найдете там, а затем выберите его в [MEW](https://www.myetherwallet.com), вот и все!
 
 В дальнейшей работе используйте этот файл. Сохраните его резервную копию (и старый файл тоже, на всякий случай).
-
