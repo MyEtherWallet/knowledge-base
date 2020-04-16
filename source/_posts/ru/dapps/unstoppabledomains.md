@@ -51,29 +51,29 @@ Unstoppable Domains - это сервис, который привязывает
 
 -   Здесь вы увидите опцию Unstoppable Domains. Нажмите на нее!
 
-<img src="/images/posts/diving-deeper/ud1.png" width="100%" />
+<img src="/images/posts/diving-deeper/aave1.png" width="100%" />
 
 **Шаг 4.** Введите желаемое доменное имя, чтобы увидеть, доступно ли оно.
 
 -   Unstoppable Domains должны содержать 6 символов или более.
 -   Имейте в виду, что конечный результат будет выглядеть подобным образом: `YourDomainHere.crypto`.
 
-<img src="/images/posts/diving-deeper/ud2.png" width="100%" />
+<img src="/images/posts/diving-deeper/ens2.png" width="100%" />
 
-**Step 5.** If your domain is available, you can buy it for $40 by clicking 'Buy'.
+**Шаг 5.** Если выбранный домен доступен, вы можете купить его за $40 нажав 'Купить'.
 
--   Unstoppable Domains allows you to purchase the domain with fiat through a Credit Card, if you want to. This process is handled by a third party service called Stripe.
+-   Unstoppable Domains позволяют вам купить домен через кредитную карту, если вы хотите. Этот процесс проводится сторонним сервисом Stripe.
 
-<img src="/images/posts/diving-deeper/ud3.png" width="100%" />
-<img src="/images/posts/diving-deeper/ud4.png" width="100%" />
+<img src="/images/posts/diving-deeper/aave3.png" width="100%" />
+<img src="/images/posts/diving-deeper/ens4.png" width="100%" />
 
-**Шаг 6.** После подтверждения транзакции ваш запрос домена будет обработан в течение пары минут. When it's done, you will be redirected to a page that tells you to wait around 5 - 10 minutes.
+**Шаг 6.** После подтверждения транзакции ваш запрос домена будет обработан в течение пары минут. Когда это будет сделано, вы будете перенаправлены на страницу, которая попросит вас подождать 5-10 минут.
 
-<img src="/images/posts/diving-deeper/ud5.png" width="100%" />
-<img src="/images/posts/diving-deeper/ud7.png" width="100%" />
+<img src="/images/posts/diving-deeper/ens5.png" width="100%" />
+<img src="/images/posts/diving-deeper/aave7.png" width="100%" />
 
-**Step 7.** After the processing is completed, you're done! Your new domain will be transferred to the wallet you used to purchase it.
+**Шаг 7.** После завершения обработки, все готово! Ваш новый домен будет переведен на кошелёк, через который вы его приобрели.
 
-<img src="/images/posts/diving-deeper/ud8.png" width="100%" />
+<img src="/images/posts/diving-deeper/aave8.png" width="100%" />
 
-**Этот процесс установит ваш адрес в качестве владельца домена. To view more information about your domain, you'll need to set up an account at [the Unstoppable Domains website](https://www.unstoppabledomains.com/), or search your new .crypto domain on their homepage.**
+**Этот процесс установит ваш адрес в качестве владельца домена. Чтобы увидеть больше информации о вашем домене, вам нужно создать учетную запись на [сайте Unstoppable Domains](https://www.unstoppabledomains.com/), или ввести ваш новый .crypto домен в поиск на их главной странице.**
