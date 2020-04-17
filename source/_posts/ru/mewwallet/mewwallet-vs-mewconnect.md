@@ -33,11 +33,11 @@ primary_category_display_name: "MEWwallet"
 
 ## **С MEW wallet, вы также можете:**
 
--   Buy ETH instantly with Apple Pay
--   Automatically see any token, no custom info needed
--   Send transactions directly from the app
--   Visit our Education Center
--   Manage multiple accounts
--   And more!
+-   Мгновенно покупать ETH с помощью Apple Pay
+-   Автоматически видеть любой токен, без добавления кастомных настроек
+-   Отправлять транзакции прямo из приложения
+-   Посетить наш Учебный Центр
+-   Использовать несколько аккаунтов
+-   И многое другое!
 
-## To learn more about MEW wallet, check out our article about [how to use MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/).
+## Чтобы узнать больше о MEW wallet, посмотрите нашу статью о [как использовать MEW кошелек](/@@@@@@/mewwallet/mewwallet-user-guide/).
