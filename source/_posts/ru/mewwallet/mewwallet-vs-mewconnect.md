@@ -17,21 +17,21 @@ primary_category_display_name: "MEWwallet"
 
 * * *
 
-## **MEWconnect** is our connection protocol app used to connect with MEW web to sign messages.
+## **MEWconnect** это наш протокол соединения. Приложение MEWconnect используется для соединения с MEW web для подписания сообщений.
 
-## **MEW wallet** is MEW’s official fully-fledged Ethereum wallet app, which is capable of doing everything MEWconnect can do and more.
+## **MEW wallet** является официальным, полно-функциональным мобильным приложением MEW. Оно имеет все функции MEWconnect и многое другое.
 
 <br>
 
-## **With MEWconnect or MEW wallet, you can:**
+## **С MEWconnect или MEW wallet вы можете:**
 
 -   Купить ETH
--   Hold ETH and tokens
+-   Хранить ETH и токены ERC20
 -   Подключиться к MEW web
--   Sign messages
--   Receive a 24 word recovery phrase for back up
+-   Подписывать сообщения
+-   Получить фразу из 24 слов для резервного копирования и восстановления
 
-## **With MEW wallet, you can also:**
+## **С MEW wallet, вы также можете:**
 
 -   Buy ETH instantly with Apple Pay
 -   Automatically see any token, no custom info needed
