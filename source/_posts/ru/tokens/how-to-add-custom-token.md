@@ -14,7 +14,7 @@ categories:
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - en/send/adding-new-token-and-sending-custom-tokens.html
+  - send/adding-new-token-and-sending-custom-tokens.html
 ---
 
 # **Как добавить кастомный токен**
