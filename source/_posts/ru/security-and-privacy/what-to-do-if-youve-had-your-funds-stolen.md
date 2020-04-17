@@ -11,7 +11,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
-  - en/security/what-to-do-if-youve-had-your-funds-stolen.html
+  - security/what-to-do-if-youve-had-your-funds-stolen.html
 ---
 
 # **Что делать, если ваши средства украли**
@@ -52,7 +52,7 @@ alias:
 
 Чтобы избежать мошенничества, мы должны о нем знать. Сделайте скриншоты и запишите, что произошло, пока события еще свежи в памяти.
 
--   Отправьте эту информацию нам! Мы не можем вернуть украденные средства, но можем предупредить других. We’re always available at [support@myetherwallet.com.](mailto:support@myetherwallet.com.)
+-   Отправьте эту информацию нам! Мы не можем вернуть украденные средства, но можем предупредить других. Вы всегда можете связаться с нами на [support@myetherwallet.com](mailto:support@myetherwallet.com.)
     -   Чтобы упростить процесс, обязательно укажите все нужные адреса, хэши транзакций, снимки экрана и подробную информацию о том, как это произошло.
 -   Напишите об этом в Twitter, Reddit, [Etherscan](https://etherscan.io) и т. д. Оставляйте везде комментарии. Пусть ваш голос услышат
 
