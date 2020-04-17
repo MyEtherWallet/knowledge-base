@@ -10,7 +10,7 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-  - en/mewconnect/mew-connect-secure-enclave.html
+  - mewconnect/mew-connect-secure-enclave.html
 ---
 
 # **Хранит ли MEWconnect закрытый ключ в безопасном хранилище ('Secure Enclave') на iPhone?**
