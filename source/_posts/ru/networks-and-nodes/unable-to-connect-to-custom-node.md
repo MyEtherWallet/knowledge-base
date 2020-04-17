@@ -12,7 +12,7 @@ categories:
 primary_category: networks-and-nodes
 primary_category_display_name: "Сети и узлы"
 alias:
-  - en/networks/cant-connect-to-custom-node-on-myetherwallet.html
+  - networks/cant-connect-to-custom-node-on-myetherwallet.html
 ---
 
 # **Невозможно подключиться к кастомному узлу**
@@ -25,7 +25,7 @@ alias:
 
 -   Убедитесь, что введенный вами номер порта корректен.
 
--   Verify that if you are connecting to an http&#x3A;// node you are running MyEtherWallet locally (NOT over https&#x3A;//).
+-   Убедитесь, что при подключении к узлу http&#x3A;// вы работаете с MyEtherWallet локально (НЕ через https&#x3A;//).
 
 -   Убедитесь, что используются следующие аргументы:
 
