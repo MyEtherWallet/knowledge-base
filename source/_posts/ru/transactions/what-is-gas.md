@@ -9,7 +9,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - en/gas/what-is-gas-ethereum.html
+  - gas/what-is-gas-ethereum.html
 ---
 
 # **Что такое газ?**
@@ -26,7 +26,7 @@ alias:
 
 Вы платите за вычисления независимо от того, успешно была завершена ваша транзакция или нет. Даже если она не «пройдет», майнеры должны проверить и выполнить вашу транзакцию, что требует вычислительной мощности. Вы должны заплатить за эти вычисления — так же, как вы заплатили бы за успешную транзакцию.
 
-You can see your transaction fee (gas limit \* gas price) in ETH & USD when you search for your transaction on Etherscan.io. Это не сбор, который получает MyEtherWallet или любой другой поставщик таких услуг. Этот сбор выплачивается майнерам за майнинг транзакций, проверку и добавление их в блоки и защиту блокчейна.
+Вы можете посмотреть сбор за транзакцию (лимит газа \* цена газа) в ETH и USD, когда вы найдете свою транзакцию на Etherscan.io. Это не сбор, который получает MyEtherWallet или любой другой поставщик таких услуг. Этот сбор выплачивается майнерам за майнинг транзакций, проверку и добавление их в блоки и защиту блокчейна.
 
 ## **Обзор**
 
@@ -35,7 +35,7 @@ You can see your transaction fee (gas limit \* gas price) in ETH & USD when you 
 -   Лимит газа
 -   Цена газа
 
-The total cost of a transaction (the "transaction fee") is the Gas Limit \* Gas Price.
+Общая стоимость транзакции («комиссия») — это лимит газа \* цена газа.
 
 Лимит газа можно представить в виде количестве литров / галлонов / единиц топлива, которое может вместить бензобак автомобиля.
 
@@ -52,7 +52,7 @@ The total cost of a transaction (the "transaction fee") is the Gas Limit \* Gas 
 
 Отправка токенов обычно занимает немного больше газа, чем отправка ETH, поэтому мы рекомендуем иметь 0,1 ETH для 2-3 транзакций с токенами.
 
-You can use our tool to calculate GWEI &lt;-> WEI &lt;-> USD [here](https://www.myetherwallet.com/convert-units), which can be helpful when you want to know your transaction fee in ETH, rather than GWEI.
+Вы можете использовать наш калькулятор для вычисления GWEI &lt;-> WEI &lt;-> USD [здесь](https://www.myetherwallet.com/convert-units) - это может быть полезно когда вы хотите знать вашу комиссию в ETH, а не GWEI.
 
 ## **Лимит газа**
 
