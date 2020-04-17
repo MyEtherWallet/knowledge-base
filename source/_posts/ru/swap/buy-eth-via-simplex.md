@@ -31,4 +31,4 @@ primary_category_display_name: "Обмен"
 -   Ограничение на первые покупки — минимум `50 долларов` и максимум `10 000 долларов`.
 -   Ежедневный лимит Simplex составляет `20 000 долларов`, а месячный — `50 000 долларов `.
 
-If you are having issues with your purchase, Simplex can be reached at [support@simplex.com.](mailto:support@simplex.com.)
+Если у вас возникли проблемы с покупкой, вы можете связаться с Simplex на [support@simplex.com.](mailto:support@simplex.com.)
