@@ -27,12 +27,12 @@ primary_category_display_name: "MEWwallet"
 
 Но мы еще не закончили. Здесь процесс немного меняется в зависимости от того, используете вы мобильное устройство iOS или Android.
 
-Чтобы убедиться, что ваш ключ защищен, зашифрованный ключ **зашифрован снова,** с помощью ключа генерированного из Android Keystore или Secure Enclave если вы используете устройство iOS. This specific key is not shared with us or any other apps in your phone, it is completely isolated architecturally within the local hardware of your mobile phone.
+Чтобы убедиться, что ваш ключ защищен, зашифрованный ключ **зашифрован снова,** с помощью ключа генерированного из Android Keystore или Secure Enclave если вы используете устройство iOS. Этот специальный ключ не доступен ни нам ни другим приложениям в вашем телефоне, он полностью изолирован в пределах локального оборудования вашего мобильного телефона.
 
-After that, we store this **super encrypted key** in a local SharedPreferences storage for Android devices, or the local KeyStore storage on iOS, which are also separated from the rest of the system on the software level.
+После этого мы сохраняем этот **супер зашифрованный ключ** в локальном хранилище SharedPreferences для Android устройств, или локальном хранилище KeyStore на iOS, которые также отделены от остальной системы на уровне программного обеспечения.
 
-This process may seem like overkill, but it’s necessary for the security of your information. When you make a new wallet with our MEW wallet app, you can rest assured that no one has access to your private key.
+Этот процесс может показаться чрезмерным, но это необходимо для обеспечения безопасности вашей информации. Когда вы создаете новый кошелек с MEW wallet app, вы можете быть уверены в том, что никто не имеет доступа к вашему личному ключу.
 
-In fact, we don’t even allow our users to see their key. Instead, we offer a 24-word recovery phrase for backing up your accounts. This is generally viewed as the best method of recovery, which is used by most hardware wallets and wallet interfaces.
+На самом деле, мы даже не позволяем нашим пользователям видеть свой ключ. Вместо этого мы предлагаем фразу из 24 слов для резервного копирования и восстановления ваших счетов. Как правило, это считается лучшим методом восстановления, который используется большинством аппаратных кошельков и интерфейсов.
 
-It’s recommended that you keep this phrase written down on paper, off of the internet, and stored in multiple physical locations. We cannot recover this information for you, which is a good thing. It means you have all the power and control over your accounts.
+Рекомендуется хранить эту фразу записанной на бумаге, не в интернете, и сохраненную в нескольких физических местах. We cannot recover this information for you, which is a good thing. It means you have all the power and control over your accounts.
