@@ -1,5 +1,5 @@
 ---
-title: "How does the MEW wallet app protect my funds?"
+title: "Как MEW wallet защищает мои средства?"
 date: 2018-03-01 00:01:00
 tags:
   - mewwallet
@@ -11,9 +11,9 @@ primary_category: mewwallet
 primary_category_display_name: "MEWwallet"
 ---
 
-# **How does the MEW wallet app protect my funds?**
+# **Как MEW wallet защищает мои средства?**
 
-###### {% read_time title "How does the MEW wallet app protect my funds?" %} min read
+###### {% read_time title "Как MEW wallet защищает мои средства?" %} мин на чтение
 
 * * *
 
