@@ -21,7 +21,7 @@ primary_category_display_name: "MEWwallet"
 
 <br>
 
-Подобно всем кошелькам Ethereum, процесс начинается с генерации вашего **ключа**. This key is the foundation of your wallet, offering complete and permanent access to your account and all the funds involved. We recognize the significance of your private key, so **we encrypt it with a master key**. But we don’t stop there.
+Подобно всем кошелькам Ethereum, процесс начинается с генерации вашего **ключа**. Этот ключ является основой вашего кошелька, давая полный и постоянный доступ к вашему счету и всем соответствующим средствам. Учитывая значение вашего приватного ключа, **мы шифруем его мастер-ключом**. Но это не все.
 
 Your encrypted key is **encrypted again** with an access key depending on the method of access you use to unlock your MEW wallet mobile account. MEW wallet offers a pin code and biometric signature, such as a FaceID or fingerprint, as access methods used in the encryption process.
 
