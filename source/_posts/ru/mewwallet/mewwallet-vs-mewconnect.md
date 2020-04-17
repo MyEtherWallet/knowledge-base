@@ -1,5 +1,5 @@
 ---
-title: "MEW wallet vs MEWconnect"
+title: "MEW wallet и MEWconnect"
 date: 2018-03-01 00:01:00
 tags:
   - mewwallet
@@ -11,7 +11,7 @@ primary_category: mewwallet
 primary_category_display_name: "MEWwallet"
 ---
 
-# **MEW wallet vs MEWconnect**
+# **MEW wallet и MEWconnect**
 
 ###### {% read_time title "MEW wallet vs MEWconnect" %} мин. чтения
 
