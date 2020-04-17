@@ -17,7 +17,7 @@ primary_category_display_name: "MEWwallet"
 
 * * *
 
-## MEW wallet uses top of the line multi-layer encryption and isolated local storage to protect your funds.
+## MEW wallet использует передовой метод многослойного шифрования и изолированное локальное хранилище для защиты ваших средств.
 
 <br>
 
