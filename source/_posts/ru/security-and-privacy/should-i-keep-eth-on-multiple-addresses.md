@@ -15,7 +15,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
-  - en/addresses/creating-new-accounts-for-eth-and-tokens.html
+  - addresses/creating-new-accounts-for-eth-and-tokens.html
 ---
 
 # **Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?**
