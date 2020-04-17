@@ -17,7 +17,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - en/getting-started/using-mewcx.html
+  - getting-started/using-mewcx.html
 ---
 
 # **Руководство пользования MEW CX**
