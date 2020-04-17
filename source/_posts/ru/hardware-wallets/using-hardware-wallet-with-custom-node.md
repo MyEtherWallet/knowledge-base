@@ -12,7 +12,7 @@ categories:
 primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
-  - en/networks/using-ethereum-hardware-wallet-with-custom-node.html
+  - networks/using-ethereum-hardware-wallet-with-custom-node.html
 ---
 
 # **Использование аппаратного кошелька с кастомным узлом**
