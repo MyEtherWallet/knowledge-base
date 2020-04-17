@@ -27,7 +27,7 @@ primary_category_display_name: "MEWwallet"
 
 -   Купить ETH
 -   Hold ETH and tokens
--   Connect to MEW web
+-   Подключиться к MEW web
 -   Sign messages
 -   Receive a 24 word recovery phrase for back up
 
