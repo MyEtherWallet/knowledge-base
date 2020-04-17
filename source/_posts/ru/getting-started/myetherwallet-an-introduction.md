@@ -13,7 +13,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - en/getting-started/getting-started-new.html
+  - getting-started/getting-started-new.html
 ---
 
 # **MyEtherWallet: введение**
@@ -73,13 +73,13 @@ alias:
 -   Скачайте наше мобильное приложение [MEW wallet](https://www.mewwallet.com/). Оно простое в использовании, быстрое и безопасное.
 -   Читайте наш образовательный блог [MEWtopia]9] для последних новостей по MEW и Ethereum.
 -   Используя закрытый ключ, хранилище ключей/JSON-файл или мнемоническую фразу, хранить их следует только в физической форме на бумаге или же на автономных компьютерах. Эта информация чрезвычайно важна. И не забывайте делать резервные копии! Если вы потеряете эту информацию, она будет утрачена навсегда.
--   Always check the URL you are using to make sure it says [www.myetherwallet.com.](http://www.myetherwallet.com.) And bookmark us for future use!
+-   Всегда проверяйте URL-адрес, который вы используете, чтобы убедиться, что это [www.myetherwallet.com.](http://www.myetherwallet.com.) И добавьте нас в закладку для дальнейшего использования!
 -   Убедитесь, что в строке URL отображается защищённый замок слева. Если вы нажмете на него, вы увидите "Сертификат (Valid) выдан: MyEtherWallet Inc [US]".
 -   Установите [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc)или [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) для блокировки вредоносных веб-сайтов.
 -   Не доверяйте случайным сообщениям от ‘нашей команды’. У нас нет ваших данных, и, вероятно, вас пытаются обмануть. Мы никогда не отправляем писем нашим пользователям первыми.
 -   Установите [AdBlocker](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) и не нажимайте на рекламу в своей поисковой системе.
 -   [Проведите собственное исследование!](http://google.com) Если что-то показалось вам подозрительным, об этом, вероятно, уже говорили в сообществе.
--   Если у вас появились дополнительные вопросы или проблемы, обратитесь к нам! Наша служба поддержки всегда рада помочь. They can be reached at [support@myetherwallet.com](mailto:support@myetherwallet.com)
+-   Если у вас появились дополнительные вопросы или проблемы, обратитесь к нам! Наша служба поддержки всегда рада помочь. Вы можете связаться с нами на [support@myetherwallet.com](mailto:support@myetherwallet.com)
 
 <br>
 
