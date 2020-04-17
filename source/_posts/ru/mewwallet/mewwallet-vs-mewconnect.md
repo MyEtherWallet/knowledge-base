@@ -40,4 +40,4 @@ primary_category_display_name: "MEWwallet"
 -   Использовать несколько аккаунтов
 -   И многое другое!
 
-## Чтобы узнать больше о MEW wallet, посмотрите нашу статью о [как использовать MEW кошелек](/@@@@@@/mewwallet/mewwallet-user-guide/).
+## Чтобы узнать больше о MEW wallet, посмотрите нашу статью о том [как использовать MEW кошелек](/@@@@@@/mewwallet/mewwallet-user-guide/).
