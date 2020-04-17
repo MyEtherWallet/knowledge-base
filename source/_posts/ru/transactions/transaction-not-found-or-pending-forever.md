@@ -12,7 +12,7 @@ categories:
 primary_category: транзакции
 primary_category_display_name: "Транзакции"
 alias:
-  - en/transactions/transactions-not-showing-or-pending.html
+  - transactions/transactions-not-showing-or-pending.html
 ---
 
 # **Транзакции застряли в статусе «Не найдено» или «В ожидании»**
@@ -38,7 +38,7 @@ alias:
 -   Если вы выполнили отправку **С** биржи, лучше всего просто набраться терпения. У служб поддержки бирж, как правило, множество запросов (как и у нашей поддержки!), поэтому лучше всего запастись терпением.
 -   Повышенный трафик создает дополнительные проблемы, которые могут привести к неясным сообщениям об ошибках на MyEtherWallet. Мы сожалеем об этом и работаем над улучшением этих сообщений. Если вы получили ошибку, попробуйте нажать кнопку отправления транзакции снова или же поменять сеть с помощью выпадающего меню в правом верхнем углу. Однако постарайтесь не отправить одну и ту же транзакцию дважды.
 
-#### **If you have any other questions, please let us know at [support@myetherwallet.com](mailto:support@myetherwallet.com).**
+#### **Если у вас есть другие вопросы, напишите нам на [support@myetherwallet.com](mailto:support@myetherwallet.com).**
 
 * * *
 
