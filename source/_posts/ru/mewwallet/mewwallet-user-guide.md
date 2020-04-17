@@ -145,22 +145,22 @@ primary_category_display_name: "MEWwallet"
 
 ##### \_\_
 
-## **Connect to MEW web**
+## **Подключиться к MEW web**
 
-#### **Connect to our web interface to explore even more features of Ethereum, such as DeFi and Dapps.**
+#### **Подключитесь к нашему веб-интерфейсу, чтобы получить доступ к дополнительным возможностям Ethereum, таких как DeFi и Dapps.**
 
 <br>
 
-**Step 1.** Head to MEW web by visiting [www.myetherwallet.com](http://www.myetherwallet.com).
+**Шаг 1.** Перейдите на [www.myetherwallet.com.](http://www.myetherwallet.com).
 
-<img src="/images/posts/mewconnect/mwconnectaccess.png" style="max-width: 600px; width: 100%;" />
+<img src="/images/posts/mewconnect/mewwallet2.png" style="max-width: 600px; width: 100%;" />
 
-**Step 2.** Select 'Access My Wallet' and then click 'MEWconnect'.
+**Шаг 2.** Выберите 'Доступ к кошельку' и затем нажмите 'MEWconnect'.
 
-<img src="/images/posts/mewconnect/mwconnect.png" style="max-width: 600px; width: 100%;" />
-<img src="/images/posts/mewconnect/mwconnectqr.png" style="max-width: 400px; width: 100%;" />
+<img src="/images/posts/mewconnect/mewwallet2.png" style="max-width: 600px; width: 100%;" />
+<img src="/images/posts/mewconnect/mewwallet2.png" style="max-width: 400px; width: 100%;" />
 
-**Step 3.** On the MEW wallet mobile app, click the small camera icon in the top-right corner of the app and scan the QR code.
+**Шаг 3.** На приложении MEW wallet нажмите значок маленькой камеры в правом верхнем углу и отсканируйте QR-код.
 
 -   You may need to double-check your camera permissions in the settings on your phone.
 
