@@ -25,9 +25,9 @@ primary_category_display_name: "MEWwallet"
 
 Ваш зашифрованный ключ **зашифрован снова,** ключом доступа который зависит от вашего способа доступа для разблокировки учетной записи MEW кошелька. MEW кошелек предлагает пин-код и биометрическую подпись, такие как FaceID или отпечаток пальца, как методы доступа, используемые в процессе шифрования.
 
-But we’re not done yet. This is where the process changes slightly depending on if you’re using an iOS or Android mobile device.
+Но мы еще не закончили. Здесь процесс немного меняется в зависимости от того, используете вы мобильное устройство iOS или Android.
 
-To make sure your key is protected, this encrypted key is **encrypted again** with a key generated from the Android Keystore section of your device, or the Secure Enclave if you’re using an iOS device. This specific key is not shared with us or any other apps in your phone, it is completely isolated architecturally within the local hardware of your mobile phone.
+Чтобы убедиться, что ваш ключ защищен, зашифрованный ключ **зашифрован снова,** с помощью ключа генерированного из Android Keystore или Secure Enclave если вы используете устройство iOS. This specific key is not shared with us or any other apps in your phone, it is completely isolated architecturally within the local hardware of your mobile phone.
 
 After that, we store this **super encrypted key** in a local SharedPreferences storage for Android devices, or the local KeyStore storage on iOS, which are also separated from the rest of the system on the software level.
 
