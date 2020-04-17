@@ -15,7 +15,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - en/faq/eth-or-tokens-not-showing-on-exchange.html
+  - faq/eth-or-tokens-not-showing-on-exchange.html
 ---
 
 # **Не появились ETH или токены ERC20, отправленные на биржу или с нее**
