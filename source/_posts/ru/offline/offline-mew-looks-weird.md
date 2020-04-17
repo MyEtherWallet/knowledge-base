@@ -10,7 +10,7 @@ categories:
 primary_category: работа оффлайн
 primary_category_display_name: "Работа оффлайн"
 alias:
-  - en/offline/local-offline-myetherwallet-does-not-work-properly.html
+  - offline/local-offline-myetherwallet-does-not-work-properly.html
 ---
 
 # **MEW выглядит странно при работе оффлайн**
