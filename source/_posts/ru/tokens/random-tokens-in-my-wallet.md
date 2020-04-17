@@ -15,7 +15,7 @@ categories:
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - en/tokens/airdropped-tokens.html
+  - tokens/airdropped-tokens.html
 ---
 
 # **Почему в моем кошельке появляются случайные токены?**
