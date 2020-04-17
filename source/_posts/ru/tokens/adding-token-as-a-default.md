@@ -13,7 +13,7 @@ categories:
 primary_category: токен
 primary_category_display_name: "Токены"
 alias:
-  - en/tokens/token-creators-add-your-token-to-myetherwallet.html
+  - tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
 # **Добавление вашего токена в список токенов по умолчанию**
@@ -39,7 +39,7 @@ alias:
 
 ## **Внесение своих токенов в список по умолчанию**
 
-**Step 1.** Go to <https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth>.
+**Шаг 1.** Перейдите на <https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth>.
 
 -   Если ваш токен в другой сети, вы можете [добавить его здесь](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens).
 
@@ -97,7 +97,7 @@ alias:
 
 **Шаг 7.** Проверьте только что заполненные данные и дважды нажмите "Create Pull Request" (Создать запрос на включение).
 
-**Шаг 8.** Вот и все. Вы успешно создали новый pull-запрос!
+**Шаг 8.** Вот и все. Вы успешно создали новый запрос!
 
 -   Теперь мы рассмотрим его и включим в свой код, и в следующем релизе он будет доступен на нашем сайте. Если что-то будет по какой-то причине непонятно, то мы можем задать вам несколько вопросов.
 
@@ -105,8 +105,8 @@ alias:
 
 ## **Добавьте ваш адрес продажи токена и вручную установленный лимит газа для обеспечения плавного процесса продажи.**
 
--   Go here <https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/customGas.js>.
--   Найдите уже существующую оконченную запись или же используйте наш адрес для пожертвований (верхний).
+-   Перейдите сюда <https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/customGas.js>.
+-   Найдите уже существующую оконченную запись или же используйте наш адрес для поддержки (верхний).
 -   Замените эту информацию своей:
     -   Адрес: адрес, на который пользователи будут отправлять средства.
     -   Ограничения по газу: рекомендуемое ограничение по газу, чтобы избежать ошибок `Out of Gas`.
@@ -126,7 +126,7 @@ alias:
 
 Теперь мы предоставляем пользователям возможность указать адрес, после чего MEW автоматически заполнит ABI. Если у вас есть контракт, **НЕ** являющийся контрактом вашего токена ERC-20, с которым пользователи будут фактически взаимодействовать:
 
--   Go to <https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json>.
+-   Перейдите сюда <https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json>.
 -   Скопируйте все начиная с `{` до `},`.
 -   Укажите вместо этой информации название своего контракта, адрес и ABI.
 -   Внизу в разделе «Commit changes» введите в поле заголовка «Added `СИМВОЛ_ВАШЕГО_ТОКЕНА` contract ABI».
