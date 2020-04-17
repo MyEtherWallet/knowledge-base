@@ -10,7 +10,7 @@ categories:
 primary_category: migration
 primary_category_display_name: "Переход с и на MEW"
 alias:
-  - en/migration/moving-from-private-key-to-metamask.html
+  - migration/moving-from-private-key-to-metamask.html
 ---
 
 # **Использование MetaMask с MEW**
