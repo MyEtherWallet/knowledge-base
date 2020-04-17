@@ -17,7 +17,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
-  - en/security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
+  - security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
 ---
 
 # **Советы: как избежать фишинга / мошенничества**
@@ -81,5 +81,5 @@ alias:
 
 **10. И, наконец, не стесняйтесь просить о помощи!**
 
--   We can always be reached at [support@myetherwallet.com.](mailto:support@myetherwallet.com.)
+-   Вы можете связаться с нами на [support@myetherwallet.com](mailto:support@myetherwallet.com.)
 -   Наша служба поддержки с радостью поможет решить любую проблему, от небольшой до крупной.
