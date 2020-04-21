@@ -71,7 +71,7 @@ alias:
 
 -   The most secure way to access your funds is through a hardware wallet, like a [Ledger Nano S](https://www.ledger.com/?r=fa4b) or [Trezor](https://trezor.io/?offer_id=12&aff_id=2029). If you have over $200 in crypto, there is little excuse not to get one.
 -   Download our fully-fledged mobile app [MEW wallet](https://www.mewwallet.com/). It's simple, fast, and secure.
--   Follow our educational blog [MEWtopia]9] for the latest on MEW and Ethereum.
+-   Follow our educational blog [MEWtopia](https://www.mewtopia.com/) for the latest on MEW and Ethereum.
 -   When using a private key, keystore/JSON file, or mnemonic phrase, make sure to keep them solely on physical paper and offline computers. This information is extremely sensitive. And make backups! If you lose this information, it’s gone forever.
 -   Always check the URL you are using to make sure it says [www.myetherwallet.com.](http://www.myetherwallet.com.) And bookmark us for future use!
 -   Make sure the URL bar shows a secure padlock on the left. If you click it, you should see "Certificate (Valid) Issued to: MyEtherWallet Inc [US]".
