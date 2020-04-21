@@ -18,9 +18,8 @@ alias:
 
 * * *
 
-## **Вот API-документация для MEW, Etherscan, Infura, Alchemy, и Rivet (пяти основных поставщиков публичных узлов):**
+## **MEW doesn't have an api, but here are the API docs for Etherscan, Infura, Alchemy, and Rivet (the four main providers of public nodes):**
 
--   MEW
 -   [Infura](https://infura.io/#how-to)
 -   [Etherscan](https://etherscan.io/apis)
 -   [Alchemy](https://docs.alchemyapi.io/)
