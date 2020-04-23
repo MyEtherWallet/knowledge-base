@@ -70,7 +70,8 @@ Both of these addresses lead to the same wallet destination, but the Unstoppable
 <img src="/images/posts/diving-deeper/ud5.png" width="100%">
 <img src="/images/posts/diving-deeper/ud7.png" width="100%">
 
-**Step 7.** After the processing is completed, you're done! Your new domain will be transferred to the wallet you used to purchase it. 
+**Step 7.** After the processing is completed, you're done! Your new domain will be transferred to the wallet you used to purchase it.
+- The address your domain points to should automatically be set as the same one you used to purchase it. 
 
 <img src="/images/posts/diving-deeper/ud8.png" width="100%">
 
