@@ -74,6 +74,8 @@ Unstoppable Domains - это сервис, который привязывает
 
 **Шаг 7.** После завершения обработки, все готово! Ваш новый домен будет переведен на кошелёк, через который вы его приобрели.
 
+-   The address your domain points to should automatically be set as the same one you used to purchase it.
+
 <img src="/images/posts/diving-deeper/aave8.png" width="100%" />
 
 **Этот процесс установит ваш адрес в качестве владельца домена. Чтобы увидеть больше информации о вашем домене, вам нужно создать учетную запись на [сайте Unstoppable Domains](https://www.unstoppabledomains.com/), или ввести ваш новый .crypto домен в поиск на их главной странице.**
