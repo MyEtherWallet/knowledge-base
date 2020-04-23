@@ -73,6 +73,8 @@ Both of these addresses lead to the same wallet destination, but the Unstoppable
 
 **Step 7.** After the processing is completed, you're done! Your new domain will be transferred to the wallet you used to purchase it.
 
+-   The address your domain points to should automatically be set as the same one you used to purchase it.
+
 <img src="/images/posts/diving-deeper/ud8.png" width="100%" />
 
 **This process will set your address as the owner of the domain. To view more information about your domain, you'll need to set up an account at [the Unstoppable Domains website](https://www.unstoppabledomains.com/), or search your new .crypto domain on their homepage.**
