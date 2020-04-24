@@ -74,7 +74,7 @@ Unstoppable Domains - это сервис, который привязывает
 
 **Шаг 7.** После завершения обработки, все готово! Ваш новый домен будет переведен на кошелёк, через который вы его приобрели.
 
--   The address your domain points to should automatically be set as the same one you used to purchase it.
+-   Адрес на который настроен ваш домен должен быть автоматически установлен как тот, который вы использовали для его приобретения.
 
 <img src="/images/posts/diving-deeper/aave8.png" width="100%" />
 
