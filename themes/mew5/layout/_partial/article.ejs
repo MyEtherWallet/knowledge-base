@@ -11,6 +11,19 @@
       <article id="<%= post.layout %>-<%= post.slug %>" class="article article-type-<%= post.layout %>" itemscope itemprop="blogPost">
         <%- post.content %>
       </article>
+      <script
+              type="text/javascript"
+              src="https://crowdin.com/js/crowdjet/crowdjet.js">
+      </script>
+      <div
+              id="crowdjet-container"
+              data-project-id="361641"
+              style="bottom: 90px; right: 20px;">
+      </div>
+      <div
+              id="crowdjet-expand-container"
+              style="bottom: 10px; right: 20px;">
+      </div>
       <div class="thumbs-and-share-container">
         <div class="share">
           <%- partial(theme.theme_desktop + '/components/share', null) %>
