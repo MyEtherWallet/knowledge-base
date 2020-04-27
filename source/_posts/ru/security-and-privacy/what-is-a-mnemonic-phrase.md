@@ -19,11 +19,13 @@ primary_category_display_name: "Безопасность и Приватност
 
 * * *
 
-Мнемонические фразы, также известные как «сид-слова» или «фразы восстановления», представляют собой упорядоченные списки из 12–24 слов, которые указывают на определенные адреса кошельков. Обычно они используются для восстановления и не предназначены для использования в качестве основного метода доступа к кошельку. Эти фразы дают прямой доступ к кошельку, поэтому с ними нужно обращаться осторожно.
+Mnemonic phrases, also known as ‘seed words’ or 'recovery phrases', are ordered lists of 12 - 24 words which bring you to specific and unique wallet addresses. Each phrase leads to a near infinite amount of addresses, but most wallet interfaces pick the first one from the list to use as your public address. When you use a phrase on MEW web, you'll see the first five addresses with the option to view more. If you're using our MEW wallet app, each additional account you add is just the next address down the list of addresses that is generated from your phrase.
 
-Иногда они могут сочетаться с дополнительным словом для дополнительного шифрования и безопасности. Когда кошельки предлагают эту услугу, дополнительное слово используется в качестве еще одного слова добавленного в конце фразы. Например, фразы из 12 слов становятся фразами из 13 слов, а фразы из 24 слов — фразами из  25 слов. MyEtherWallet предлагает эту функцию, а MEW wallet — нет. Это означает, что мнемонические фразы, сгенерированные непосредственно на веб-сайте MEW, будут иметь опцию дополнительного слова. Но если вы восстанавливаете в веб-интерфейсе фразу выданную приложением MEWconnect, вы должны оставить поле дополнительного слова пустым.
+These phrases are typically used for recovery, and they are not meant to be used as the main method of access for anyone’s wallet. These phrases offer permanent and direct access to one's wallet, so they should be treated carefully.
 
-С точки зрения конфиденциальности мнемонические фразы нужно хранить так же бережно, как и ваш закрытый ключ. С помощью вашей фразы любой может получить постоянный доступ к вашему кошельку. Эти фразы не могут быть изменены, поэтому крайне важно хранить их в безопасности.
+They can sometimes be paired with an extra word as well, for added encryption and security. When wallets offer this service, the extra word is used as an extra added word to the end of the phrase. For example, 12-word phrases become 13 words, and 24-word phrases become 25 words. MyEtherWallet offers this service, but MEW wallet does not. This means that mnemonic phrases generated directly on MEW's website will have the option for an extra word at the end. But if you are restoring a MEWconnect recovery phrase on the web interface, you should leave the extra word field blank.
+
+Mnemonic phrases are just as sensitive as your private key, in terms of privacy. With your phrase, anyone can permanently access your wallet. These phrases cannot be changed, so keeping them safe is crucial.
 
 ## **Популярные кошельки, которые предлагают мнемонические фразы для восстановления:**
 
