@@ -36,7 +36,7 @@ Don't type your phrase into a word doc. Write it down with a pen!
 
 <br>
 
-It's always considered the best practice to keep your private key off the internet. There are rare cases where a private key is necessary to perform a specific task, like to import your wallet to MetaMask, but most of the time the compromising nature of exposing your key doesn't make the task worth it.
+It's always considered the best practice to keep your private key off the internet. There are rare cases where a private key is necessary to perform a specific task, like to claim tokens from a specific wallet, but most of the time the compromising nature of exposing your key doesn't make the task worth it.
 
 [security]: /@@@@@@/mewwallet/mewwallet-security/
 
