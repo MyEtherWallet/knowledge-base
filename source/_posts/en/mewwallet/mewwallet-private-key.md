@@ -24,7 +24,6 @@ primary_category_display_name: "MEW wallet"
 
 **This is for the security of your wallet. Your private key should remain private.**
 
-
 MEW wallet utilizes [**multi-layer encryption and isolation**][security] to keep your keys safely stored away locally in your device. Your keys are heavily encrypted and completely separate from the outside world. 
 
 That means **no one** has access to them, including you. 
@@ -33,14 +32,12 @@ Instead, the MEW wallet app offers a [**24-word recovery phrase**][recovery] to 
 
 Don't type your phrase into a word doc. Write it down with a pen!
 
-
-## __What if I need my private key?__
+## **What if I need my private key?**
 
 <br>
 
 It's always considered the best practice to keep your private key off the internet. There are rare cases where a private key is necessary to perform a specific task, like to import your wallet to MetaMask, but most of the time the compromising nature of exposing your key doesn't make the task worth it.
 
-
-
 [security]: /@@@@@@/mewwallet/mewwallet-security/
+
 [recovery]: /@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/
