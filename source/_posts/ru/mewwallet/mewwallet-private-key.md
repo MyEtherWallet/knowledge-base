@@ -1,5 +1,5 @@
 ---
-title: "How does the MEW wallet app handle Private Keys?"
+title: "Как приложение MEW wallet обращается с закрытыми ключами?"
 date: 2020-04-28 00:10:15
 tags:
   - mewwallet
@@ -12,28 +12,28 @@ primary_category: mewwallet
 primary_category_display_name: "MEWwallet"
 ---
 
-# **How does the MEW wallet app handle Private Keys?**
+# **Как приложение MEW wallet обращается с закрытыми ключами?**
 
-###### {% read_time title "How does the MEW wallet app handle Private Keys?" %} min read
+###### {% read_time title "Как MEW wallet защищает мои средства?" %} мин на чтение
 
 * * *
 
-## The MEW wallet app **does not allow** users to export, import, view, or access their private keys.
+## Приложение MEW wallet **не позволяет** пользователям экспортировать, импортировать, просматривать или получить доступ к своим закрытым ключам.
 
 <br>
 
-**This is for the security of your wallet. Your private key should remain private.**
+**Это для безопасности вашего кошелька. Ваш закрытый ключ должен оставаться закрытым.**
 
-MEW wallet utilizes [**multi-layer encryption and isolation**](/@@@@@@/mewwallet/mewwallet-security/) to keep your keys safely stored away locally in your device. Your keys are heavily encrypted and completely separate from the outside world.
+MEW кошелек использует [**многослойное шифрование и изоляцию**](/@@@@@@/mewwallet/mewwallet-security/) для безопасного хранения ваших ключей на вашем устройстве. Ваши ключи сильно зашифрованы и полностью отделены от внешнего мира.
 
-That means **no one** has access to them, including you.
+Это означает, что **никто** не имеет к ним доступа, включая вас.
 
-Instead, the MEW wallet app offers a [**24-word recovery phrase**](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/) to back up and restore your wallet. This phrase acts similarly to a private key, so it's important to keep it written down on paper and stored in a physical location.
+Вместо этого MEW кошелек предлагает [**фразу из 24-х слов**](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/) для резервного копирования и восстановления вашего кошелька. Эта фраза действует так же, как и закрытый ключ, поэтому важно записать ее на бумаге и хранить в физическом месте.
 
-Don't type your phrase into a word doc. Write it down with a pen!
+Не вводите вашу фразу в документ на компьютере. Запишите ее ручкой на бумаге!
 
-## **What if I need my private key?**
+## **Что делать, если мне нужен закрытый ключ?**
 
 <br>
 
-It's always considered the best practice to keep your private key off the internet. There are rare cases where a private key is necessary to perform a specific task, like to claim tokens from a specific wallet, but most of the time the compromising nature of exposing your key doesn't make the task worth it.
+Это всегда считается лучшей практикой, чтобы хранить ваш закрытый ключ отдельно от интернета. There are rare cases where a private key is necessary to perform a specific task, like to claim tokens from a specific wallet, but most of the time the compromising nature of exposing your key doesn't make the task worth it.
