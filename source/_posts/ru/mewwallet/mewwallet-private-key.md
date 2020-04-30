@@ -36,4 +36,4 @@ MEW кошелек использует [**многослойное шифров
 
 <br>
 
-Это всегда считается лучшей практикой, чтобы хранить ваш закрытый ключ отдельно от интернета. There are rare cases where a private key is necessary to perform a specific task, like to claim tokens from a specific wallet, but most of the time the compromising nature of exposing your key doesn't make the task worth it.
+Это всегда считается лучшей практикой, чтобы хранить ваш закрытый ключ отдельно от интернета. Бывают редкие варианты, когда для выполнения конкретной задачи необходим закрытый ключ: например, вывести токены на кошелек другого провайдера. Однако в большинстве случаев, компрометирование вашего ключа не стоит того.
