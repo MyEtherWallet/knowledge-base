@@ -1,11 +1,11 @@
 ---
-title: "How to Add a Default Network to MEW web"
+title: "Как добавить сеть в интерфейс MEW"
 date: 2018-06-01 00:01:00
 tags:
   - узел
   - сеть
   - сети
-  - default
+  - по умолчанию
   - добавить
 categories:
   - 
@@ -14,39 +14,39 @@ primary_category: networks-and-nodes
 primary_category_display_name: "Сети и узлы"
 ---
 
-# **How to Add a Default Network to MEW web**
+# **Как добавить сеть в интерфейс MEW**
 
-###### {% read_time title "How to Add a Default Network to MEW web" %} min read
+###### {% read_time title "How to Add a Default Network to MEW web" %} мин. чтения
 
 * * *
 
-## You can add your Network to our default Network list under the conditions that your network is similar to Ethereum, has it's own unique ChainID, and has a running blockchain explorer.
+## Вы можете добавить вашу сеть в наш список по умолчанию при условии что ваша сеть похожа на Ethereum, имеет свой уникальный ChainID, и имеет работающий навигатор блокчейн.
 
-## **Adding your Network Type**
+## **Добавление вашего типа сети**
 
-#### If you’re adding a completely new network, you’ll need to first add it as a ‘Type’.
-
-<br>
-
-**Step 1.** Head to <https://github.com/MyEtherWallet/MyEtherWallet/tree/master/src/networks/types>
-
--   Follow this link and check if your network type is already present. If not, you will need to prepare a few pieces of information about your network, such as the name, symbol, homepage, blockExplorer, and chainID.
+#### Если вы добавляете совершенно новую сеть, то сначала вам нужно добавить её как «Тип».
 
 <br>
 
-**Step 2.** If you don’t see your network in the list, click ‘Create new file’ in the top-right corner of GitHub.
+**Шаг 1.** Перейдите на <https://github.com/MyEtherWallet/MyEtherWallet/tree/master/src/networks/types>
 
-**Step 3.** Name your file the same name as the network you’re adding.
-
--   Example using CLO: ‘CLO.js’
+-   Перейдите по этой ссылке и проверьте, присутствует ли ваш тип сети. Если нет, вам нужно будет подготовить некоторую информацию о вашей сети: такую как имя, символ, домашняя страница, blockExplorer и chainID.
 
 <br>
 
-**Step 4.** Fill in your network type information with the format below, using CLO as an example.
+**Шаг 2.** Если вы не видите вашу сеть в списке, нажмите кнопку «Создать новый файл» в правом верхнем углу GitHub.
 
--   Change all the references to CLO with the appropriate information for your network.
--   If you need to import tokens and contracts, you may first need to add those to the Ethereum-lists repo, found here: <https://github.com/MyEtherWallet/ethereum-lists/tree/master/src>
--   The third import refers to your network logo image, which you can upload and import to here: <https://github.com/MyEtherWallet/MyEtherWallet/tree/master/src/assets/images/networks>
+**Step 3.** Name your folder the same name as the network you’re adding.
+
+-   Пример использования, для сети CLO: «CLO.js»
+
+<br>
+
+**Шаг 4.** Заполните информацию о сетевом типе в приведенном ниже формате, используя в качестве примера CLO.
+
+-   Измените все ссылки на CLO соответствующей информацией для вашей сети.
+-   Если вам нужно импортировать токены и контракты, сначала вам может понадобиться добавить их в репозиторий Ethereum-lists, здесь: <https://github.com/MyEtherWallet/ethereum-lists/tree/master/src>
+-   Третий импорт имеет в виду ваш сетевой логотип, который вы можете загрузить и импортировать здесь: <https://github.com/MyEtherWallet/MyEtherWallet/tree/master/src/assets/images/networks>
 -   It’s a good idea to keep most of your naming and linking in all lower-case, except for the naming of your Types folder (which you’ve already done in Step 3).
 
 <br>
@@ -101,15 +101,15 @@ export default {
 
 **Step 2.** Click ‘Create new file’ in the top-right corner of GitHub.
 
-**Step 3.** Name your file the same name as the network you’re adding.
+**Шаг 3.** Назовите свой файл тем же именем, что и добавляемая сеть.
 
 -   Example using CLO: ‘clo.js’
 
 <br>
 
-**Step 4.** Fill in your network type information with the format below, using CLO as an example.
+**Шаг 4.** Заполните информацию о сетевом типе в приведенном ниже формате, используя в качестве примера CLO.
 
--   Change all the references to CLO with the appropriate information for your network.
+-   Измените все ссылки на CLO соответствующей информацией для вашей сети.
 -   It’s a good idea to keep most of your naming and linking in all lower-case. You should only capitalize the type.
 
 <br>
