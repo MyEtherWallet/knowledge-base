@@ -36,7 +36,7 @@ primary_category_display_name: "Networks And Nodes"
 
 **Step 2.** If you don’t see your network in the list, click ‘Create new file’ in the top-right corner of GitHub.
 
-**Step 3.** Name your file the same name as the network you’re adding.
+**Step 3.** Name your folder the same name as the network you’re adding.
 
 -   Example using CLO: ‘CLO.js’
 
