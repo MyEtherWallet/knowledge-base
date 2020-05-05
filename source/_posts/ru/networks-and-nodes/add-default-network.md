@@ -20,7 +20,7 @@ primary_category_display_name: "Сети и узлы"
 
 * * *
 
-## Вы можете добавить вашу сеть в наш список по умолчанию при условии что ваша сеть похожа на Ethereum, имеет свой уникальный ChainID, и имеет работающий навигатор блокчейн.
+## Вы можете добавить вашу сеть в наш список по умолчанию, при условии что ваша сеть похожа на Ethereum, имеет свой уникальный ChainID, и имеет рабочий навигатор блокчейна.
 
 ## **Добавление вашего типа сети**
 
@@ -36,7 +36,7 @@ primary_category_display_name: "Сети и узлы"
 
 **Шаг 2.** Если вы не видите вашу сеть в списке, нажмите кнопку «Создать новый файл» в правом верхнем углу GitHub.
 
-**Step 3.** Name your folder the same name as the network you’re adding.
+**Шаг 3.** Назовите свою папку тем же именем, что и добавляемая сеть.
 
 -   Пример использования, для сети CLO: «CLO.js»
 
@@ -47,7 +47,7 @@ primary_category_display_name: "Сети и узлы"
 -   Измените все ссылки на CLO соответствующей информацией для вашей сети.
 -   Если вам нужно импортировать токены и контракты, сначала вам может понадобиться добавить их в репозиторий Ethereum-lists, здесь: <https://github.com/MyEtherWallet/ethereum-lists/tree/master/src>
 -   Третий импорт имеет в виду ваш сетевой логотип, который вы можете загрузить и импортировать здесь: <https://github.com/MyEtherWallet/MyEtherWallet/tree/master/src/assets/images/networks>
--   It’s a good idea to keep most of your naming and linking in all lower-case, except for the naming of your Types folder (which you’ve already done in Step 3).
+-   Мы рекомендуем делать все наименования и ссылки строчными (маленькими) буквами, за исключением наименования папки Типы (которую вы уже сделали в шаге 3).
 
 <br>
 
@@ -75,42 +75,42 @@ export default {
 
 <br>
 
-**Note:** When you fill in your blockExplorerTX and blockExplorerAddr, make sure to replace the section of the URL that usually holds transaction hashes with ‘\[[txHash]]’ and the section that shows the user’s public address with ‘\[[address]]’ exactly as shown above.
+**Примечание:** Когда вы заполняете ваш blockExplorerTX и blockExplorerAddr, не забудьте заменить раздел URL, в котором обычно хранятся хэши транзакций на «\[[txHash]]», а в разделе, показывающем публичный адрес пользователя на «\[[address]]» точно так же, как показано выше.
 
 * * *
 
 <br>
 
-**Step 5.** Once you’re finished, click ‘Propose New File’.
+**Шаг 5.** Закончив, нажмите "Propose New File" (Предложить новый файл).
 
--   Feel free to add any additional information you’d like to let us know about.
+-   Вы можете добавить любую дополнительную информацию, которую вы хотите нам сообщить.
 
 <br>
 
-**Step 6.** Review what you’ve just made, then press ‘Create Pull Request’ twice.
+**Шаг 6.** Проверьте заполненные данные и дважды нажмите "Create Pull Request" (Создать запрос на включение).
 
-**Step 7.** That’s it. Вы успешно создали новый pull-запрос!
+**Шаг 7.** Готово. Вы успешно создали новый pull-запрос!
 
 -   Теперь мы рассмотрим его и включим в свой код, и в следующем релизе он будет доступен на нашем сайте. Если что-то будет по какой-то причине непонятно, то мы можем задать вам несколько вопросов.
 
-## **Adding your Node as a Default Network on MEW web**
+## **Добавление вашего узла в список MEW по умолчанию **
 
 <br>
 
-**Step 1.** Head to <https://github.com/MyEtherWallet/MyEtherWallet/tree/master/src/networks/nodes>
+**Шаг 1.** Перейдите на <https://github.com/MyEtherWallet/MyEtherWallet/tree/master/src/networks/nodes>
 
-**Step 2.** Click ‘Create new file’ in the top-right corner of GitHub.
+**Шаг 2.** Нажмите «Создать новый файл» в правом верхнем углу GitHub.
 
 **Шаг 3.** Назовите свой файл тем же именем, что и добавляемая сеть.
 
--   Example using CLO: ‘clo.js’
+-   Пример использования с CLO: «clo.js»
 
 <br>
 
 **Шаг 4.** Заполните информацию о сетевом типе в приведенном ниже формате, используя в качестве примера CLO.
 
 -   Измените все ссылки на CLO соответствующей информацией для вашей сети.
--   It’s a good idea to keep most of your naming and linking in all lower-case. You should only capitalize the type.
+-   Мы рекомендуем делать все наименования и ссылки строчными (маленькими). Обозначайте только тип сети заглавными буквами.
 
 <br>
 
@@ -133,14 +133,14 @@ export default {
 
 <br>
 
-**Step 5.** Once you’re finished, click ‘Propose New File’.
+**Шаг 5.** Закончив, нажмите "Propose New File" (Предложить новый файл).
 
--   Feel free to add any additional information you’d like to let us know about.
+-   Вы можете добавить любую дополнительную информацию, которую вы хотите нам сообщить.
 
 <br>
 
-**Step 6.** Review what you’ve just made, then press ‘Create Pull Request’ twice.
+**Шаг 6.** Проверьте заполненные данные и дважды нажмите "Create Pull Request" (Создать запрос на включение).
 
-**Step 7.** That’s it. Вы успешно создали новый pull-запрос!
+**Шаг 7.** Готово. Вы успешно создали новый pull-запрос!
 
 -   Теперь мы рассмотрим его и включим в свой код, и в следующем релизе он будет доступен на нашем сайте. Если что-то будет по какой-то причине непонятно, то мы можем задать вам несколько вопросов.
