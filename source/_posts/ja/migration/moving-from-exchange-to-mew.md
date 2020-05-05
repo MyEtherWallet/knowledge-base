@@ -45,4 +45,4 @@ What we DO offer is freedom and a true sense of security. You gain complete cont
 
 Once you’ve made the distinction, you’ll be ready to [create your MEW wallet](/@@@@@@/getting-started/how-to-create-a-wallet/). Before you do that, though, we suggest you read through our [‘Getting Started’](/@@@@@@/getting-started/how-to-create-a-wallet/) category. It contains all the knowledge you need to begin your crypto journey with confidence.
 
-### Bon voyage!
+### I
