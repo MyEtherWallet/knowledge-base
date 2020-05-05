@@ -25,9 +25,11 @@ alias:
 
 * * *
 
-MEW CX allows users to have the entirety of MEW in a bite-sized Chrome Extension accessible from their toolbar. Create and manage your wallets, interact with Dapps, and send transactions quick using our QuickSend feature.
+## MEW CX allows users to have the entirety of MEW in a bite-sized Chrome Extension accessible from their toolbar. 
 
-To learn more about MEW CX and what it has to offer, check out our [Medium post][mediummew]. 
+<br>
+
+Create and manage your wallets, interact with Dapps, and send transactions quick using our QuickSend feature.
 
 ## **Installing MEW CX**
 
@@ -53,6 +55,8 @@ To learn more about MEW CX and what it has to offer, check out our [Medium post]
 
 Your wallet will remain saved in the Chrome Extension until you remove the wallet or the extension. Remember, it’s always best to keep your wallet information on physical paper somewhere safe and easy to remember, in case anything happens to your device. 
 
+##### \_\_
+
 ## **Using MEW CX**
 
 MEW CX can be used to interact with various Dapps all across the cryptosphere. Check out our Dapps page a full record of Dapps that work with MEW CX!
@@ -70,5 +74,3 @@ You can also create a 'burner account' for temporary access to Dapps, like brows
 [chromearticle]: https://www.howtogeek.com/291095/why-do-chrome-extensions-need-all-your-data-on-the-websites-you-visit/
 
 [access]: /@@@@@@/getting-started/how-to-access-your-wallet/
-
-[mediummew]: https://medium.com/myetherwallet/mew-cx-the-web3-wallet-that-puts-the-user-in-full-control-90452755b4
