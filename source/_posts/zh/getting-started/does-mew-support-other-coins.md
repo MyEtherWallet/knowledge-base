@@ -20,6 +20,10 @@ alias:
 
 * * *
 
-MyEtherWallet (MEW) supports ETH and ERC20 tokens on our main ETH networks. You can access the full list of supported networks and switch between them through our Network/Node list, which can be found on your Wallet Overview page after accessing your wallet.
+## MyEtherWallet (MEW) supports all Ethereum assets, including ETH and ERC20 tokens.
 
-You can use our swap function to swap between BTC and ETH, thanks to our partner Bity, but we do not offer support for BTC. We just offer the option to swap it. This requires you have a BTC wallet, to receive the funds. 
+<br>
+
+You can access the full list of supported networks and switch between them through our Network/Node list, which can be found on your Wallet Overview page after accessing your wallet. We support a wide variety of nodes hosted from other providers, such as ETC.
+
+You can use our swap function to swap between BTC and ETH, thanks to our partner Bity, but we do not offer support for BTC. We just offer the option to swap it. To receive the BTC, you'll need a BTC wallet. 
