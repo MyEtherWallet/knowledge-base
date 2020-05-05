@@ -22,17 +22,21 @@ alias:
 
 * * *
 
-В целях безопасности ваших данных не рекомендуется открывать кошелек каждый раз, когда вы хотите проверить свой баланс. Вместо этого вы можете посмотреть баланс и историю операций, воспользовавшись обозревателями блокчейна Ethereum, такими как [Etherscan](https://etherscan.io) и [Ethplorer](https://ethplorer.io). Для проверки баланса вам нужен лишь ваш публичный Ethereum-адрес. Его длина 42 символа, а начинается он с "0x….".
+## It's easy to check your balance and transaction history on an Ethereum blockchain explorer like [Etherscan](https://etherscan.io) or [Ethplorer](https://ethplorer.io).
 
-Имейте в виду, что при проверке балансов других криптовалют на других блокчейнах, вам нужно будет использовать другие обозреватели.
+<br>
+
+These websites offer a full history of your activity. All you have to do is search your public Ethereum address, which is the 42 character string beginning with '0x'. It is not recommended to unlock your wallet on a wallet interface like MEW every time you’d like to check your balance, for the security of your information.
+
+Be aware that when checking balances from different blockchains, like ETC, you will need to use a different blockchain explorer.
 
 ## **Etherscan**
 
-**Шаг 1.** Зайдите на [Etherscan.io](https://etherscan.io).
+**Step 1.** Head to [Etherscan.io](https://etherscan.io).
 
-**Шаг 2.** В строке поиска введите свой публичный Ethereum-адрес, (0x…..).
+**Step 2.** In the search bar, enter your Ethereum public address, (0x…..).
 
-**Шаг 3.** Вы будете перенаправлены к обзору кошелька.
+**Step 3.** You will be taken to a wallet overview.
 
 -   Сверху вы увидите проверенную суммированием (checksummed) версию вашего адреса. Чтобы понять разницу между checksummed и non-checksummed адресами, нажмите [сюда](/@@@@@@/common-issues/not-checksummed/).
 -   В разделе "Обзор" (Overview) вы увидите баланс и стоимость ETH.
@@ -41,11 +45,11 @@ alias:
 
 ## **Ethplorer**
 
-**Шаг 1.** Зайдите на [Ethplorer.io](https://ethplorer.io).
+**Step 1.** Head to [Ethplorer.io](https://ethplorer.io).
 
-**Шаг 2.** В строке поиска введите свой публичный Ethereum-адрес, (0x…..).
+**Step 2.** In the search bar, enter your Ethereum public address, (0x…..).
 
-**Шаг 3.** Вы будете перенаправлены к обзору кошелька.
+**Step 3.** You will be taken to a wallet overview.
 
 -   Слева вы увидите проверенную суммированием (checksummed) версию вашего адреса. Чтобы понять разницу между checksummed и non-checksummed адресами, нажмите [сюда](/@@@@@@/common-issues/not-checksummed/).
 -   Также вы можете увидеть свой баланс ETH слева, в разделе "Информация об адресе" (Address Information).
