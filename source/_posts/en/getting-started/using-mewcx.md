@@ -25,7 +25,7 @@ alias:
 
 * * *
 
-## MEW CX allows users to have the entirety of MEW in a bite-sized Chrome Extension accessible from their toolbar. 
+## MEW CX allows users to have the entirety of MEW in a bite-sized Chrome Extension accessible from their toolbar.
 
 <br>
 
