@@ -27,7 +27,6 @@ primary_category_display_name: "MEW wallet"
 
 <img class="image-right" src="/images/posts/security/3_logo.gif" align="right" width="25%">
 
-
 <br>
 
 ## **Create a New Wallet**
@@ -46,7 +45,7 @@ primary_category_display_name: "MEW wallet"
 **Step 2.** Select ‘Create a free wallet’.
 
 **Step 3.** Read the safety tips! Then click ‘Create a wallet’.
- 
+
 <br>
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
@@ -72,7 +71,6 @@ primary_category_display_name: "MEW wallet"
 ##### \_\_
 
 <img class="image-right" src="/images/posts/security/5_deal.gif" align="right" width="25%">
-
 
 <br>
 
@@ -167,7 +165,6 @@ primary_category_display_name: "MEW wallet"
 ##### \_\_
 
 <img class="image-right" src="/images/posts/security/4_js.gif" align="right" width="25%">
-
 
 ## **Connect to MEW web**
 
