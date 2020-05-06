@@ -18,7 +18,7 @@ primary_category_display_name: "MEWwallet"
 
 * * *
 
-## Приложение MEW wallet **не позволяет** пользователям экспортировать, импортировать, просматривать или получить доступ к своим закрытым ключам.
+## The MEW wallet app does not allow users to export, import, view, or access their private keys.
 
 <br>
 
