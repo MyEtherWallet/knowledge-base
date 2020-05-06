@@ -188,8 +188,10 @@ primary_category_display_name: "MEW wallet"
 
 -   You may need to double-check your camera permissions in the settings on your phone.
 
+<div class="d-flex justify-content-center flex-wrap margin-0">
 <img src="/images/posts/mewconnect/mwcard.jpg" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mwscanqr.jpg" style="max-width: 250px;" />
+</div>
 
 **Step 4.** Congratulations, you've connected your MEW wallet mobile account to MEW web!
 
