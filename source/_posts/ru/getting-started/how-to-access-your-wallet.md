@@ -47,7 +47,7 @@ alias:
 
 ##### \_\_
 
-<img src="/images/posts/mewconnect/meww3.jpg" width="300px" />
+<img src="/images/posts/security/3_logo.gif" width="30%" />
 
 ## **MEWwallet**
 
