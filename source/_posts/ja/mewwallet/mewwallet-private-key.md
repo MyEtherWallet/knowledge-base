@@ -18,7 +18,7 @@ primary_category_display_name: "MEW wallet"
 
 * * *
 
-## The MEW wallet app **does not allow** users to export, import, view, or access their private keys.
+## The MEW wallet app does not allow users to export, import, view, or access their private keys.
 
 <br>
 
