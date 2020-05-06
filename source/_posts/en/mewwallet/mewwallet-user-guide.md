@@ -103,7 +103,7 @@ primary_category_display_name: "MEW wallet"
  
 ##### \_\_
 
-<img class="image-right" src="/images/posts/security/5_deal.gif" align="right" width="25%">
+<img class="image-right" src="/images/posts/security/1_floating.gif" align="right" width="25%">
 
 <br>
 
