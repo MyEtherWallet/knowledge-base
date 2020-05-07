@@ -26,13 +26,13 @@ alias:
 
 * * *
 
-## MEW CX allows users to have the entirety of MEW in a bite-sized Chrome Extension accessible from their toolbar.
+## MEW CX позволяет пользователям иметь все возможности MEW в расширении для Chrome, доступном на панели инструментов.
 
 <br>
 
-Create and manage your wallets, interact with Dapps, and send transactions quick using our QuickSend feature.
+Создавайте кошельки и управляйте ими, взаимодействуйте с Dapp-приложениями и отправляйте транзакции быстро с помощью нашей функции QuickSend.
 
-## **Installing MEW CX**
+## **Установка MEW CX**
 
 **Шаг 1.** Перейдите по [этой ссылке](https://chrome.google.com/webstore/detail/myetherwallet-extension/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en) в Google Chrome. Затем выберите "Добавить в Chrome".
 
@@ -58,7 +58,7 @@ Create and manage your wallets, interact with Dapps, and send transactions quick
 
 ##### \_\_
 
-## **Using MEW CX**
+## **Использование MEW CX**
 
 MEW CX можно использовать для взаимодействия с различными Dapp-приложениями криптосферы. Ознакомьтесь с нашей страницей Dapps, где размещен полный список Dapp-приложений, которые работают с MEW CX!
 
