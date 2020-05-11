@@ -112,7 +112,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 * * *
 
-###### If you've previously won an auction for your domain and haven't touched it since, you need to migrate it to the new registrar.
+###### Si previamente ha ganado una subasta para su dominio y no la ha tocado desde entonces, necesitará migrarla a un nuevo registro.
 
 ## **Migrating to the New Registrar**
 
