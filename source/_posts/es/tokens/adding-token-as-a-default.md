@@ -35,7 +35,7 @@ If you have a token that a lot of other people also have, or will have in the co
 -   Your **official Website**.
 -   Your direct **customer support email**.
     -   Due to high numbers of token sale holders NOT providing support to their investors, we will remove your token if you do not help the people who made you millionaires.
--   Optionally, you may also include your blog, social media sites, chat channels, your logo, etc.
+-   Opcionalmente, puede incluso incluir su blog, redes sociales, canales de chat, su logo, etc.
 
 ## **Submit your tokens as Default Tokens**
 
