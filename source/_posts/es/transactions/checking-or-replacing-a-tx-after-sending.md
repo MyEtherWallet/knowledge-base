@@ -83,7 +83,7 @@ Canceling means generating a `0 ETH` transaction to your own address with the pu
 
 -   If it says pending, you can still try to cancel it.
 -   If it says not found, click the button again, waiting a few minutes between each click. If that doesn't work, it's likely your transaction never went through.
--   If it says success, you cannot try to cancel it.
+-   Si dice exitoso, no puede tratar de cancelarlo.
 
 **Step 3.** If it says pending, access the wallet you used to send the original transaction on MEW.
 
