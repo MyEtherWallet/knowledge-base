@@ -1,5 +1,5 @@
 ---
-title: "MEW wallet User Guide"
+title: "Guía de usuario de MEW Wallet"
 date: 2018-03-01 00:01:00
 tags:
   - mewwallet
@@ -11,7 +11,7 @@ primary_category: mewwallet
 primary_category_display_name: "MEW wallet"
 ---
 
-# **MEW wallet User Guide**
+# **Guía de usuario de MEW Wallet**
 
 ###### {% read_time title "MEW wallet User Guide" %} min read
 
