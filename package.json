@@ -38,8 +38,9 @@
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
-    "remark-frontmatter": "^1.3.3",
+    "hexo-generator-seo-friendly-sitemap": "0.0.25",
     "remark-cli": "^8.0.0",
+    "remark-frontmatter": "^1.3.3",
     "remark-preset-lint-recommended": "^4.0.0",
     "yorkie": "^2.0.0"
   },

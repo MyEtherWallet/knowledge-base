@@ -107,6 +107,10 @@ deploy:
   repo: git@github.com:MyEtherWallet/knowledge-base-v5.git
 
 
+# Sitemap
+sitemap:
+  path: sitemap.xml
+
 alias:
   /offline/is-the-send-page-offline.html: /
   /offline/ethereum-cold-storage-with-myetherwallet.html: /
