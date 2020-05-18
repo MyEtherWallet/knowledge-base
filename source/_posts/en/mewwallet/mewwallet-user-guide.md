@@ -17,10 +17,6 @@ primary_category_display_name: "MEW wallet"
 
 * * *
 
-<img src="/images/posts/mewconnect/meww1.jpg" style="max-width: 150px;" />
-<img src="/images/posts/mewconnect/meww2.jpg" style="max-width: 200px;" />
-<img src="/images/posts/mewconnect/meww3.jpg" style="max-width: 250px;" />
-
 ## **MEW wallet** is MEW’s official fully-fledged mobile app. It's simple, fast, and secure.
 
 ## To begin exploring Ethereum on your mobile device, [download MEW wallet][download] on your iOS or Android phone.
@@ -29,20 +25,29 @@ primary_category_display_name: "MEW wallet"
 
 ##### \_\_
 
+<img class="image-right" src="/images/posts/security/3_logo.gif" align="right" width="25%">
+
+<br>
+
 ## **Create a New Wallet**
 
 #### **Receive a unique public address and color combination tied to your new account.**
 
 <br>
+<br>
+<br>
+<br>
 
 **Step 1.** Open the MEW wallet app.
 
+<img src="/images/posts/mewconnect/mcreate1.jpg" style="max-width: 250px;" />
+
 **Step 2.** Select ‘Create a free wallet’.
 
-<img src="/images/posts/mewconnect/mcreate1.jpg" style="max-width: 250px;" />
- 
 **Step 3.** Read the safety tips! Then click ‘Create a wallet’.
- 
+
+<br>
+
 <div class="d-flex justify-content-center flex-wrap margin-0">
   <img src="/images/posts/mewconnect/mcreate2.jpg" style="max-width: 250px;" />
   <img src="/images/posts/mewconnect/mcreate3.jpg" style="max-width: 250px;" />
@@ -65,10 +70,17 @@ primary_category_display_name: "MEW wallet"
 
 ##### \_\_
 
+<img class="image-right" src="/images/posts/security/5_deal.gif" align="right" width="25%">
+
+<br>
+
 ## **Back Up Your Account**
 
 #### **This step is crucial if you plan on using your wallet in the long term. We cannot recover your account for you, so you must keep track of this information yourself.**
 
+<br>
+<br>
+<br>
 <br>
 
 **Step 1.** After creating your wallet, select 'Back up Now'. Read the warning and continue.
@@ -89,12 +101,19 @@ primary_category_display_name: "MEW wallet"
  
 <img src="/images/posts/mewconnect/mbackup4.jpg" style="max-width: 250px;" />
  
-##### __
- 
-## __Buy ETH to Start Exploring__
+##### \_\_
+
+<img class="image-right" src="/images/posts/security/1_floating.gif" align="right" width="25%">
+
+<br>
+
+## **Buy ETH to Start Exploring**
 
 #### **Everything on the Ethereum blockchain requires ETH for gas. You’ll need to buy ETH to get started.**
 
+<br>
+<br>
+<br>
 <br>
  
 **Step 1.** Select ‘Buy Ether’ on the main page of the MEW wallet app. 
@@ -145,10 +164,15 @@ primary_category_display_name: "MEW wallet"
 
 ##### \_\_
 
+<img class="image-right" src="/images/posts/security/4_js.gif" align="right" width="25%">
+
 ## **Connect to MEW web**
 
 #### **Connect to our web interface to explore even more features of Ethereum, such as DeFi and Dapps.**
 
+<br>
+<br>
+<br>
 <br>
 
 **Step 1.** Head to MEW web by visiting [www.myetherwallet.com](http://www.myetherwallet.com).
