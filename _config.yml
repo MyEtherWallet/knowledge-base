@@ -112,6 +112,7 @@ sitemap:
   path: sitemap.xml
 
 alias:
+  # Removed
   /offline/is-the-send-page-offline.html: /
   /offline/ethereum-cold-storage-with-myetherwallet.html: /
   /diving-deeper/readme.html: /
@@ -175,7 +176,11 @@ alias:
   /private-keys-passwords/parity-phrases-are-no-longer-supported.html: /
   /private-keys-passwords/lost-password-ethereum-presale-wallet-file.html: /
   /offline/sending-offline-with-myetherwallet.html: /
+  # Categories/Upper Level Pages
   /posts/videos/: /en/videos/
+  /posts/faqs/: /en/faqs/
+  /posts/categories/: /en/categories/
+  # Transactions
   /posts/transactions/what-is-gas/: /en/transactions/what-is-gas/
   /posts/transactions/tx-failed-why-was-i-charged/: /en/transactions/tx-failed-why-was-i-charged/
   /posts/transactions/transaction-not-found-or-pending-forever/: /en/transactions/transaction-not-found-or-pending-forever/
@@ -184,33 +189,93 @@ alias:
   /posts/transactions/eth-tokens-haven't-shown-up-from-exchange/: /en/transactions/eth-tokens-haven't-shown-up-from-exchange/
   /posts/transactions/checking-or-replacing-a-tx-after-sending/: /en/transactions/checking-or-replacing-a-tx-after-sending/
   /posts/transactions/what-is-nonce/: /en/transactions/what-is-nonce/
+  /en/transactions/: /en/transactions/what-is-gas/
+  #--- former aliases in en/ directory
+  /transactions/check-status-of-ethereum-transaction.html: /en/transactions/checking-or-replacing-a-tx-after-sending/
+  /transactions/how-to-send-transaction.html: /en/transactions/how-to-send-a-transaction/
+  /transactions/transactions-not-showing-or-pending.html: /en/transactions/transaction-not-found-or-pending-forever/
+  /transactions/transaction-fee-not-refunded.html:  /en/transactions/tx-failed-why-was-i-charged/
+  /transactions/what-is-nonce.html: /en/transactions/what-is-nonce/
+  /faq/eth-or-tokens-not-showing-on-exchange.html: /en/transactions/eth-tokens-haven't-shown-up-from-exchange/
+  /gas/error-insufficient-funds-message.html: /en/transactions/insufficient-funds/
+  /gas/I-cant-withdraw-them-from-your-site-less-than-minimum.html: /en/transactions/mew-minimum-requirement-for-sending/
+  /addresses/what-does-checksummed-mean.html: /en/transactions/not-checksummed/
+  /gas/what-is-gas-ethereum.html:  /en/transactions/what-is-gas/
+  # Tokens
   /posts/tokens/random-tokens-in-my-wallet/: /en/tokens/random-tokens-in-my-wallet/
   /posts/tokens/how-to-add-custom-token/: /en/tokens/how-to-add-custom-token/
   /posts/tokens/adding-token-as-a-default/: /en/tokens/adding-token-as-a-default/
   /posts/tokens/what-is-an-ico/: /en/tokens/what-is-an-ico/
+  /en/tokens/: /en/tokens/how-to-add-custom-token/
+  #--- former aliases in en/ directory
+  /tokens/token-creators-add-your-token-to-myetherwallet.html: /en/tokens/adding-token-as-a-default/
+  /tokens/nft-manager.html: /en/tokens/nft-manager/
+  /tokens/airdropped-tokens.html: /en/tokens/random-tokens-in-my-wallet/
+  /send/adding-new-token-and-sending-custom-tokens.html: /en/tokens/how-to-add-custom-token/
+  # Swap
   /posts/swap/swap-canceled-or-not-completed/: /en/swap/swap-canceled-or-not-completed/
   /posts/swap/buy-eth-via-simplex/: /en/swap/buy-eth-via-simplex/
   /posts/swap/swapping-via-kyber-bity-changelly/: /en/swap/swapping-via-kyber-bity-changelly/
+  /en/swap/: /en/swap/swapping-via-kyber-bity-changelly/
+  #--- former aliases in en/ directory
+  /swap/swap-wasnt-completed-or-was-canceled.html: /en/swap/swap-canceled-or-not-completed/
+  # Security-and-privacy
   /posts/security-and-privacy/what-is-a-mnemonic-phrase/: /en/security-and-privacy/what-is-a-mnemonic-phrase/
   /posts/security-and-privacy/what-is-a-keystore-file/: /en/security-and-privacy/what-is-a-keystore-file/
   /posts/security-and-privacy/should-i-keep-eth-on-multiple-addresses/: /en/security-and-privacy/should-i-keep-eth-on-multiple-addresses/
   /posts/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/: /en/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
   /posts/security-and-privacy/not-recommended/: /en/security-and-privacy/not-recommended/
-  /posts/security-and-privacy/mnemonic-phrase-password/: /en/security-and-privacy/mnemonic-phrase-password/
+  /posts/security-and-privacy/mnemonic-phrase-password/: /en/security-and-privacy/mnemonic-phrase-extra-word/
   /posts/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/: /en/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/
   /posts/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/: /en/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/
+  /en/security-and-privacy/: /en/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
+  #--- former aliases in en/ directory
+  /security/ethereum-two-people-same-private-key.html: /security-and-privacy/ensuring-mew-doesnt-give-people-same-address/
+  /security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html: /security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
+  /security/keystore-file.html: /security-and-privacy/what-is-a-keystore-file/
+  /security/what-to-do-if-youve-had-your-funds-stolen.html: /security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/
+  /addresses/creating-new-accounts-for-eth-and-tokens.html: /security-and-privacy/should-i-keep-eth-on-multiple-addresses/
+  # Private-keys-and-passwords
   /posts/private-keys-and-passwords/lost-private-key/: /en/private-keys-and-passwords/lost-private-key/
   /posts/private-keys-and-passwords/private-key-not-working/: /en/private-keys-and-passwords/private-key-not-working/
+  /en/private-keys-and-passwords/: /en/private-keys-and-passwords/lost-private-key/
+  #--- former aliases in en/ directory
+  /private-keys-passwords/lost-eth-private-key.html: /security-and-privacy/lost-private-key/
+  /private-keys-passwords/private-key-not-working.html: /security-and-privacy/private-key-not-working/
+  # Offline
   /posts/offline/offline-mew-looks-weird/: /en/offline/offline-mew-looks-weird/
   /posts/offline/offline_transaction/: /en/offline/offline_transaction/
   /posts/offline/using-mew-offline/: /en/offline/using-mew-offline/
+  /en/offline/: /en/offline/using-mew-offline/
+  #--- former aliases in en/ directory
+  /offline/local-offline-myetherwallet-does-not-work-properly.html: /en/offline/offline-mew-looks-weird/
+
+  # Networks-and-nodes
   /posts/networks-and-nodes/how-to-change-networks/: /en/networks-and-nodes/how-to-change-networks/
   /posts/networks-and-nodes/unable-to-connect-to-custom-node/: /en/networks-and-nodes/unable-to-connect-to-custom-node/
+  /en/networks-and-nodes/: /en/networks-and-nodes/how-to-change-networks/
+  #--- former aliases in en/ directory
+  /networks/using-ethereum-hardware-wallet-with-custom-node.html: /en/hardware-wallets/using-hardware-wallet-with-custom-node/
+  /networks/using-ethereum-hardware-wallet-with-path.html: /en/hardware-wallets/using-hardware-with-custom-path/
+  /networks/sent-etc-to-eth-address.html: /en/networks-and-nodes/how-to-change-networks/
+  /networks/cant-connect-to-custom-node-on-myetherwallet.html: /en/networks-and-nodes/unable-to-connect-to-custom-node/
+  # Migration
   /posts/migration/using-jaxx-with-mew/: /en/migration/using-jaxx-with-mew/
   /posts/migration/using-geth-or-mist-with-mew/: /en/migration/using-geth-or-mist-with-mew/
   /posts/migration/moving-from-exchange-to-mew/: /en/migration/moving-from-exchange-to-mew/
   /posts/migration/importing-v2-json-file/: /en/migration/importing-v2-json-file/
   /posts/migration/using-metamask-with-mew/: /en/migration/using-metamask-with-mew/
+  /en/migration/: /en/migration/using-metamask-with-mew/
+  #--- former aliases in en/ directory
+  /migration/moving-from-private-key-to-ledger-hardware-wallet.html: /en/hardware-wallets/using-ledger-with-mew/
+  /migration/moving-from-private-key-to-trezor-hardware-wallet.html: /en/hardware-wallets/using-trezor-with-mew/
+  /migration/importing-v2-json-wallet-file-myetherwallet.html: /en/migration/importing-v2-json-file/
+  /migration/importing-vintagemew-to-mew.html: /en/migration/importing-vintagemew-to-mew/
+  /migration/moving-from-coinbase-to-myetherwallet.html: /en/migration/moving-from-exchange-to-mew/
+  /migration/location-of-mist-geth-wallet-files.html: /en/migration/using-geth-or-mist-with-mew/
+  /migration/moving-from-jaxx-to-myetherwallet.html: /en/migration/using-jaxx-with-mew/
+  /migration/moving-from-private-key-to-metamask.html: /en/migration/using-metamask-with-mew/
+  # Mewconnect
   /posts/mewconnect/mewconnect-user-guide/: /en/mewconnect/mewconnect-user-guide/
   /posts/mewconnect/mewconnect-secure-enclave/: /en/mewconnect/mewconnect-secure-enclave/
   /posts/mewconnect/mewconnect-101-transfer/: /en/mewconnect/mewconnect-101-overview/
@@ -219,6 +284,16 @@ alias:
   /posts/mewconnect/mewconnect-101-connect/: /en/mewconnect/mewconnect-101-overview/
   /posts/mewconnect/mewconnect-101-overview/: /en/mewconnect/mewconnect-101-overview/
   /posts/mewconnect/mewconnect-change-password/: /en/mewconnect/mewconnect-change-password/
+  /en/mewconnect/: /en/mewconnect/mewconnect-user-guide/
+  #--- former aliases in en/ directory
+  /mewconnect/mew-connect-101-connect.html: /en/mewconnect/mewconnect-101-overview/
+  /mewconnect/mew-connect-101-create.html: /en/mewconnect/mewconnect-101-overview/
+  /mewconnect/mew-connect-101-overview.html: /en/mewconnect/mewconnect-101-overview/
+  /mewconnect/mew-connect-101-backup.html: /en/mewconnect/mewconnect-101-overview/
+  /mewconnect/mew-connect-101-tx.html: /en/mewconnect/mewconnect-101-overview/
+  /mewconnect/mew-connect-secure-enclave.html: /en/mewconnect/mewconnect-secure-enclave/
+  /mewconnect/mew-connect-user-guide.html: /en/mewconnect/mewconnect-user-guide/
+  # Hardware-wallets
   /posts/hardware-wallets/using-trezor-with-mew/: /en/hardware-wallets/using-trezor-with-mew/
   /posts/hardware-wallets/using-secalot-with-mew/: /en/hardware-wallets/using-secalot-with-mew/
   /posts/hardware-wallets/using-ledger-with-mew/: /en/hardware-wallets/using-ledger-with-mew/
@@ -226,6 +301,10 @@ alias:
   /posts/hardware-wallets/using-hardware-wallet-with-custom-node/: /en/hardware-wallets/using-hardware-wallet-with-custom-node/
   /posts/hardware-wallets/using-bitbox-with-mew/: /en/hardware-wallets/using-bitbox-with-mew/
   /posts/hardware-wallets/using-ledger-hw-with-android-device/: /en/hardware-wallets/using-ledger-hw-with-android-device/
+  /en/hardware-wallets/: /en/hardware-wallets/using-ledger-with-mew/
+  #--- former aliases in en/ directory
+  /hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html: /en/hardware-wallets/unable-to-connect-with-hardware-wallet/
+  # Getting-started
   /posts/getting-started/myetherwallet-an-introduction/: /en/getting-started/myetherwallet-an-introduction/
   /posts/getting-started/how-to-access-your-wallet/: /en/getting-started/how-to-access-your-wallet/
   /posts/getting-started/glossary-of-common-terms/: /en/getting-started/glossary-of-common-terms/
@@ -234,7 +313,19 @@ alias:
   /posts/getting-started/checking-your-balance/: /en/getting-started/checking-your-balance/
   /posts/getting-started/back-to-the-basics/: /en/getting-started/back-to-the-basics/
   /posts/getting-started/how-to-create-a-wallet/: /en/getting-started/how-to-create-a-wallet/
-  /posts/faqs/: /en/faqs/
+  /en/getting-started/: /en/getting-started/myetherwallet-an-introduction/
+  /getting-started/mew-connect-user-guide.html: /en/mewconnect/mewconnect-user-guide/
+  #--- former aliases in en/ directory
+  /getting-started/getting-back-to-basics-tips-for-newbies.html: /en/getting-started/back-to-the-basics/
+  /getting-started/checking-balance-of-my-account.html: /en/getting-started/checking-your-balance/
+  /getting-started/whats-the-difference-between-an-exchange-and-myetherwallet.html: /en/getting-started/
+  /getting-started/ethereum-glossary.html: /en/getting-started/glossary-of-common-terms/
+  /getting-started/accessing-your-new-eth-wallet.html: /en/getting-started/how-to-access-your-wallet/
+  /getting-started/creating-a-new-wallet-on-myetherwallet.html: /en/getting-started/how-to-create-a-wallet/
+  /getting-started/getting-started-new.html: /en/getting-started/myetherwallet-an-introduction/
+  /getting-started/using-mewcx.html: /en/getting-started/using-mewcx/
+  /faq/sending-bitcoin-btc-ltc-xmr-to-myetherwallet.html: /en/getting-started/does-mew-support-other-coins/
+  # Diving-deeper
   /posts/diving-deeper/what-happens-if-mew-goes-down/: /en/diving-deeper/what-happens-if-mew-goes-down/
   /posts/diving-deeper/using-mew-as-a-pwa/: /en/diving-deeper/using-mew-as-a-pwa/
   /posts/diving-deeper/how-to-submit-pull-request/: /en/diving-deeper/how-to-submit-pull-request/
@@ -242,8 +333,18 @@ alias:
   /posts/diving-deeper/does-mew-have-an-api/: /en/diving-deeper/does-mew-have-an-api/
   /posts/diving-deeper/does-mew-api-limit-amount-of-requests/: /en/diving-deeper/does-mew-api-limit-amount-of-requests/
   /posts/diving-deeper/what-is-a-smart-contract/: /en/diving-deeper/what-is-a-smart-contract/
+  /en/diving-deeper/diving-deeper/: /en/diving-deeper/what-happens-if-mew-goes-down/ # still need to figure out why it is doing this
+  /en/diving-deeper/: /en/diving-deeper/what-happens-if-mew-goes-down/
+  #--- former aliases in en/ directory
+  /diving-deeper/myetherapi-api-limits.html: /en/diving-deeper/does-mew-api-limit-amount-of-requests/
+  /diving-deeper/does-myetherwallet-have-an-api.html: /en/diving-deeper/does-mew-have-an-api/
+  /diving-deeper/how-to-submit-pull-request.html: /en/diving-deeper/how-to-submit-pull-request/
+  /faq/interacting-with-ethereum-multisig-wallet.html: /en/diving-deeper/how-to-interact-with-multisig-contract/
+  /faq/what-happens-if-myetherwallet-goes-down.html: /en/diving-deeper/what-happens-if-mew-goes-down/
+  # Dapps
   /posts/dapps/using_makerdao/: /en/dapps/using_makerdao/
   /posts/dapps/register-ens-domain/: /en/dapps/register-ens-domain/
+  # Common-issues
   /posts/common-issues/unable-to-locate-corresponding-transfer-event-log/: /en/common-issues/unable-to-locate-corresponding-transfer-event-log/
   /posts/common-issues/unable-to-connect-with-hardware-wallet/: /en/common-issues/unable-to-connect-with-hardware-wallet/
   /posts/common-issues/token-already-exists/: /en/common-issues/token-already-exists/
@@ -252,83 +353,4 @@ alias:
   /posts/common-issues/ledger-error-code-5/: /en/common-issues/ledger-error-code-5/
   /posts/common-issues/insufficient-funds/: /en/common-issues/insufficient-funds/
   /posts/common-issues/window-blocked/: /en/common-issues/window-blocked/
-  /posts/categories/: /en/categories/
   /en/common-issues/: /en/common-issues/unable-to-locate-corresponding-transfer-event-log/
-  /en/diving-deeper/diving-deeper/: /en/diving-deeper/what-happens-if-mew-goes-down/ # still need to figure out why it is doing this
-  /en/diving-deeper/: /en/diving-deeper/what-happens-if-mew-goes-down/
-  /en/getting-started/: /en/getting-started/myetherwallet-an-introduction/
-  /en/hardware-wallets/: /en/hardware-wallets/using-ledger-with-mew/
-  /en/mewconnect/: /en/mewconnect/mewconnect-user-guide/
-  /en/migration/: /en/migration/using-metamask-with-mew/
-  /en/networks-and-nodes/: /en/networks-and-nodes/how-to-change-networks/
-  /en/offline/: /en/offline/using-mew-offline/
-  /en/private-keys-and-passwords/: /en/private-keys-and-passwords/lost-private-key/
-  /en/security-and-privacy/: /en/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
-  /en/swap/: /en/swap/swapping-via-kyber-bity-changelly/
-  /en/tokens/: /en/tokens/how-to-add-custom-token/
-  /en/transactions/: /en/transactions/what-is-gas/
-  /getting-started/mew-connect-user-guide.html: /en/mewconnect/mewconnect-user-guide/
-  # Former aliases in en/ directory
-  /diving-deeper/myetherapi-api-limits.html: /en/diving-deeper/does-mew-api-limit-amount-of-requests/
-  /diving-deeper/does-myetherwallet-have-an-api.html: /en/diving-deeper/does-mew-have-an-api/
-  /faq/interacting-with-ethereum-multisig-wallet.html: /en/diving-deeper/how-to-interact-with-multisig-contract/
-  /diving-deeper/how-to-submit-pull-request.html: /en/diving-deeper/how-to-submit-pull-request/
-  /faq/what-happens-if-myetherwallet-goes-down.html: /en/diving-deeper/what-happens-if-mew-goes-down/
-  /getting-started/getting-back-to-basics-tips-for-newbies.html: /en/getting-started/back-to-the-basics/
-  /getting-started/checking-balance-of-my-account.html: /en/getting-started/checking-your-balance/
-  /getting-started/whats-the-difference-between-an-exchange-and-myetherwallet.html: /en/getting-started/
-  /faq/sending-bitcoin-btc-ltc-xmr-to-myetherwallet.html: /en/getting-started/does-mew-support-other-coins/
-  /getting-started/ethereum-glossary.html: /en/getting-started/glossary-of-common-terms/
-  /getting-started/accessing-your-new-eth-wallet.html: /en/getting-started/how-to-access-your-wallet/
-  /getting-started/creating-a-new-wallet-on-myetherwallet.html: /en/getting-started/how-to-create-a-wallet/
-  /getting-started/getting-started-new.html: /en/getting-started/myetherwallet-an-introduction/
-  /getting-started/using-mewcx.html: /en/getting-started/using-mewcx/
-  #  /hardware-wallets/trezor-error-window-blocked.html: /en/hardware-wallets/
-  /hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html: /en/hardware-wallets/unable-to-connect-with-hardware-wallet/
-  /networks/using-ethereum-hardware-wallet-with-custom-node.html: /en/hardware-wallets/using-hardware-wallet-with-custom-node/
-  /networks/using-ethereum-hardware-wallet-with-path.html: /en/hardware-wallets/using-hardware-with-custom-path/
-  #  /faq/what-happens-if-myetherwallet-goes-down.html: /en/hardware-wallets/
-  /migration/moving-from-private-key-to-ledger-hardware-wallet.html: /en/hardware-wallets/using-ledger-with-mew/
-  /migration/moving-from-private-key-to-trezor-hardware-wallet.html: /en/hardware-wallets/using-trezor-with-mew/
-  /mewconnect/mew-connect-101-connect.html: /en/mewconnect/mewconnect-101-overview/
-  /mewconnect/mew-connect-101-create.html: /en/mewconnect/mewconnect-101-overview/
-  /mewconnect/mew-connect-101-overview.html: /en/mewconnect/mewconnect-101-overview/
-  /mewconnect/mew-connect-101-backup.html: /en/mewconnect/mewconnect-101-overview/
-  /mewconnect/mew-connect-101-tx.html: /en/mewconnect/mewconnect-101-overview/
-  /mewconnect/mew-connect-secure-enclave.html: /en/mewconnect/mewconnect-secure-enclave/
-  /mewconnect/mew-connect-user-guide.html: /en/mewconnect/mewconnect-user-guide/
-  /migration/importing-v2-json-wallet-file-myetherwallet.html: /en/migration/importing-v2-json-file/
-  /migration/importing-vintagemew-to-mew.html: /en/migration/importing-vintagemew-to-mew/
-  /migration/moving-from-coinbase-to-myetherwallet.html: /en/migration/moving-from-exchange-to-mew/
-  /migration/location-of-mist-geth-wallet-files.html: /en/migration/using-geth-or-mist-with-mew/
-  /migration/moving-from-jaxx-to-myetherwallet.html: /en/migration/using-jaxx-with-mew/
-  /migration/moving-from-private-key-to-metamask.html: /en/migration/using-metamask-with-mew/
-  /networks/sent-etc-to-eth-address.html: /en/networks-and-nodes/how-to-change-networks/
-  /networks/cant-connect-to-custom-node-on-myetherwallet.html: /en/networks-and-nodes/unable-to-connect-to-custom-node/
-  /offline/local-offline-myetherwallet-does-not-work-properly.html: /en/offline/offline-mew-looks-weird/
-  /security/ethereum-two-people-same-private-key.html: /security-and-privacy/ensuring-mew-doesnt-give-people-same-address/
-  /private-keys-passwords/lost-eth-private-key.html: /security-and-privacy/lost-private-key/
-  /private-keys-passwords/private-key-not-working.html: /security-and-privacy/private-key-not-working/
-  /security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html: /security-and-privacy/pro-tips-how-to-avoid-phishing-scams/
-  /addresses/creating-new-accounts-for-eth-and-tokens.html: /security-and-privacy/should-i-keep-eth-on-multiple-addresses/
-  /security/keystore-file.html: /security-and-privacy/what-is-a-keystore-file/
-  /security/what-to-do-if-youve-had-your-funds-stolen.html: /security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/
-  /swap/swap-wasnt-completed-or-was-canceled.html: /en/swap/swap-canceled-or-not-completed/
-  /tokens/token-creators-add-your-token-to-myetherwallet.html: /en/tokens/adding-token-as-a-default/
-  /send/adding-new-token-and-sending-custom-tokens.html: /en/tokens/how-to-add-custom-token/
-  /tokens/nft-manager.html: /en/tokens/nft-manager/
-  /tokens/airdropped-tokens.html: /en/tokens/random-tokens-in-my-wallet/
-  /transactions/check-status-of-ethereum-transaction.html: /en/transactions/checking-or-replacing-a-tx-after-sending/
-  /faq/eth-or-tokens-not-showing-on-exchange.html: /en/transactions/eth-tokens-haven't-shown-up-from-exchange/
-  /transactions/how-to-send-transaction.html: /en/transactions/how-to-send-a-transaction/
-  /gas/error-insufficient-funds-message.html: /en/transactions/insufficient-funds/
-  /gas/I-cant-withdraw-them-from-your-site-less-than-minimum.html: /en/transactions/mew-minimum-requirement-for-sending/
-  /addresses/what-does-checksummed-mean.html: /en/transactions/not-checksummed/
-  /transactions/transactions-not-showing-or-pending.html: /en/transactions/transaction-not-found-or-pending-forever/
-  /transactions/transaction-fee-not-refunded.html:  /en/transactions/tx-failed-why-was-i-charged/
-  /gas/what-is-gas-ethereum.html:  /en/transactions/what-is-gas/
-  /transactions/what-is-nonce.html: /en/transactions/what-is-nonce/
-
-
-
-
