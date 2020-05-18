@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "hexo": "^3.9.0",
+    "hexo-auto-canonical": "^0.1.1",
     "hexo-deployer-git": "^1.0.0",
     "hexo-fs": "^1.0.2",
     "hexo-generator-alias": "^0.1.3",
