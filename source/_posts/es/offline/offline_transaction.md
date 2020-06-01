@@ -48,7 +48,8 @@ If you are [using MyEtherWallet (MEW) offline and locally](/@@@@@@/offline/using
 
 **Step 3.** Access your wallet like you would normally, and choose ‘Send Offline’ from the menu to the left.
 
-- It's important to use the 'Send Offline' tab instead of the regular Transaction tab, because the 'Send Offline' interface allows you to select any token for sending.
+-   It's important to use the 'Send Offline' tab instead of the regular Transaction tab, because the 'Send Offline' interface allows you to select any token for sending.
+- In order to see the tokens in the 'Type' dropdown, you may need to refresh the token list to the right. Keep in mind that you will not see a connection, since you're not connected to the internet, but this will refresh the token information so that it appears in the dropdown.
 
 **Step 4.** Import your JSON file from the connected USB.
 
