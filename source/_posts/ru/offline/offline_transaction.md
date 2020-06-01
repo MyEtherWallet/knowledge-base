@@ -49,7 +49,7 @@ primary_category_display_name: "Работа оффлайн"
 **Шаг 3.** Откройте ваш кошелек, как обычно, и выберите в меню с левой стороны пункт "Отправить офлайн".
 
 -   Важно использовать вкладку 'Отправить оффлайн' вместо вкладки обычной транзакции, поскольку интерфейс 'Отправить оффлайн' позволяет выбрать любой токен для отправки.
-- In order to see the tokens in the 'Type' dropdown, you may need to refresh the token list to the right. Keep in mind that you will not see a connection, since you're not connected to the internet, but this will refresh the token information so that it appears in the dropdown.
+- Чтобы увидеть токены в раскрывающемся списке 'Тип', вам может потребоваться обновить список токенов справа. Имейте в виду, что соединения с сетью не будет, так как вы не подключены к Интернету, но это обновит информацию о токене, чтобы она появилась в выпадающем списке.
 
 **Шаг 4.** Импортируйте файл JSON с подключенного USB-носителя.
 
