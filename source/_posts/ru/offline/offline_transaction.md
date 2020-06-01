@@ -44,17 +44,19 @@ primary_category_display_name: "Работа оффлайн"
 **Шаг 2.** Откройте оффлайн-версию MEW на этом же устройстве, без подключения к сети.
 
 -   Это можно сделать, открыв файл ‘Index’ в браузере.
--   Если вы еще не загрузили MEW для использования оффлайн, ознакомьтесь с [этой статьей](/@@@@@@/offline/using-mew-offline/).
+-   If you do not have MEW downloaded for offline use, [this article will help you download the MEW web interface](/@@@@@@/offline/using-mew-offline/).
 
 **Шаг 3.** Откройте ваш кошелек, как обычно, и выберите в меню с левой стороны пункт "Отправить офлайн".
 
+- It's important to use the 'Send Offline' tab instead of the regular Transaction tab, because the 'Send Offline' interface allows you to select any token for sending.
+
 **Шаг 4.** Импортируйте файл JSON с подключенного USB-носителя.
 
--   Вы можете вручную ввести свое nonce-число транзакции, реквизиты и адрес, на который вы переводите средства, а также другие данные.
+-   Alternatively, you can manually fill in your nonce, transaction details, and the address you are sending to, as well as other relevant data.
 
 **Шаг 5.** Если вы осуществляете отправку на контракт, из-за дополнительных данных вам может понадобиться увеличенный лимит газа.
 
--   Излишек комиссии за транзакцию будет возвращен, так что вы можете поднять лимит до 100 000.
+-   Excess gas will be refunded, so don’t be afraid to raise it as high as 100,000.
 
 **Шаг 6.** Нажмите "Сгенерировать транзакцию", скопируйте длинную строку с надписью "Подписанная транзакция" и вставьте ее в текстовый файл или скачайте новый файл в формате JSON с информацией о вашей подписанной транзакции. Перетащите этот текстовый файл или файл JSON на USB-накопитель, чтобы выполнить последний шаг.
 
