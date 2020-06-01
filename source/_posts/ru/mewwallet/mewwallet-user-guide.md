@@ -188,10 +188,12 @@ primary_category_display_name: "MEWwallet"
 
 -   Возможно, вам потребуется проверить права доступа к камере в настройках телефона.
 
+<div class="d-flex justify-content-center flex-wrap margin-0">
 <img src="/images/posts/mewconnect/mwcard.jpg" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mwscanqr.jpg" style="max-width: 250px;" />
+</div>
 
-**Шаг 4.** Поздравляем, вы подключили свое приложение MEW wallet к MEW web!
+**Step 4.** Congratulations, you've connected your MEW wallet mobile account to MEW web!
 
 <img src="/images/posts/mewconnect/mwconnected.jpg" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mwconnectoverview.png" style="max-width: 600px; width: 100%;" />
