@@ -193,7 +193,7 @@ primary_category_display_name: "MEWwallet"
 <img src="/images/posts/mewconnect/mwscanqr.jpg" style="max-width: 250px;" />
 </div>
 
-**Step 4.** Congratulations, you've connected your MEW wallet mobile account to MEW web!
+**Шаг 4.** Поздравляем, вы подключили свое приложение MEW wallet к MEW web!
 
 <img src="/images/posts/mewconnect/mwconnected.jpg" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mwconnectoverview.png" style="max-width: 600px; width: 100%;" />
