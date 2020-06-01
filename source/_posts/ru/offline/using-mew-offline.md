@@ -75,7 +75,7 @@ primary_category_display_name: "Работа оффлайн"
 
 ## **Загрузка и запуск MEW оффлайн**
 
-**Step 1.** In order to set up your local MEW, start by [downloading the latest release of MEW](https://github.com/MyEtherWallet/MyEtherWallet/releases).
+**Шаг 1.** Чтобы установить MEW локально, начните с [загрузки последнего релиза MEW](https://github.com/MyEtherWallet/MyEtherWallet/releases).
 
 <img src="/images/posts/offline/MEWoffline1.png" width="80%" />
 
