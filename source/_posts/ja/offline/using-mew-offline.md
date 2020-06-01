@@ -75,7 +75,7 @@ There are two ways to use MEW offline, through the use of PWA or by downloading 
 
 ## **Downloading and Running MEW Offline**
 
-**Step 1.** In order to set up your local MEW, start by downloading the latest release of MEW [here](https://github.com/MyEtherWallet/MyEtherWallet/releases).
+**Step 1.** In order to set up your local MEW, start by [downloading the latest release of MEW](https://github.com/MyEtherWallet/MyEtherWallet/releases).
 
 <img src="/images/posts/offline/MEWoffline1.png" width="80%" />
 
