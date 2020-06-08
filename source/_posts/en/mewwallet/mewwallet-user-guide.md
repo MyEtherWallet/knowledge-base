@@ -154,7 +154,7 @@ primary_category_display_name: "MEW wallet"
  
 **Step 3.** Your new account should generate. 
 * This account is also tied to the recovery phrase from the ‘Back up your account’ section.
-* When you restore your main account, all subsequent accounts will also be restored.
+* When you restore your main account, all subsequent accounts will also be restored. You just need to add them again as regular 'additional' accounts.
  
 <img src="/images/posts/mewconnect/madd3.jpg" style="max-width: 250px;" />
  
