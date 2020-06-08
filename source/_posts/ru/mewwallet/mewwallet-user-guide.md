@@ -154,7 +154,7 @@ primary_category_display_name: "MEWwallet"
 
 **Шаг 3.** Вы должны увидеть генерирование нового аккаунта.
 * Этот аккаунт также связан с фразой для восстановления из раздела "Резервное копирование вашего аккаунта".
-* When you restore your main account, all subsequent accounts will also be restored. You just need to add them again as regular 'additional' accounts.
+* При восстановлении основной учетной записи, все последующие учетные записи также будут восстановлены. Вам просто нужно добавить их снова как обычные 'дополнительные' аккаунты.
 
 <img src="/images/posts/mewconnect/madd3.jpg" style="max-width: 250px;" />
 
