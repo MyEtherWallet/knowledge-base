@@ -49,7 +49,7 @@ To learn more about accessing MEW with hardware wallets, reference our [Migratin
 
 <img src="/images/posts/security/3_logo.gif" width="30%" />
 
-## **MEW wallet**
+## **MEW Wallet**
 
 This is our fully fledged MEW mobile app for iOS and Android smartphones. It's simple, fast, and secure to use. When creating a wallet with MEW wallet, your private key is kept encrypted on a secure, local vault in your phone. For backup, you are given a mnemonic phrase (much like the hardware wallets above). The wallet is also accompanied by a pin or password, which is used to unlock it on your device.
 
