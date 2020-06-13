@@ -8,7 +8,7 @@ categories:
   - 
     - mewwallet
 primary_category: mewwallet
-primary_category_display_name: "MEW wallet"
+primary_category_display_name: "MEW Wallet"
 ---
 
 # **Guía de usuario de MEW Wallet**
