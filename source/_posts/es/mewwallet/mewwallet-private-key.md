@@ -9,7 +9,7 @@ categories:
   - 
     - mewwallet
 primary_category: mewwallet
-primary_category_display_name: "MEW wallet"
+primary_category_display_name: "MEW Wallet"
 ---
 
 # **How does the MEW wallet app handle Private Keys?**
