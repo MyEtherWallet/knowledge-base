@@ -27,10 +27,10 @@ alias:
 ## **Что я могу делать с MEW?**
 
 -   [Создать](/@@@@@@/getting-started/how-to-create-a-wallet/) свой уникальный кошелек Ethereum.
--   [Отправлять](/@@@@@@/transactions/how-to-send-a-transaction/) и получать ETH и токены.
--   [Получать доступ](/@@@@@@/getting-started/how-to-access-your-wallet/) к Ethereum посредством разных кошельков, включая наше приложение MEW wallet, расширения для браузера MEW CX и MetaMask, и партнерские аппаратные кошельки.
+-   [Send and receive](/@@@@@@/transactions/how-to-send-a-transaction/) ETH and tokens.
+-   [Access a variety of wallet types](/@@@@@@/getting-started/how-to-access-your-wallet/), including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
 -   [Обменивать](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) растущий список криптовалют, включая ERC20 токены, ETH, ETC, BTC и многое другое!
--   [Попробовать приложения](/@@@@@@/dapps/using_makerdao/) в нашем магазине DApp, где вы можете зарабатывать на своих депозитах с помощью Aave, открыть хранилище с помощью MakerDAO, или регистрировать и управлять доменами ENS.
+-   [Explore our DApp store](/@@@@@@/dapps/using_makerdao/) where you can earn on your deposits with Aave, open a vault with MakerDAO, or register and manage your ENS domains.
 -   [Отправлять оффлайн](/@@@@@@/offline/using-mew-offline/) с помощью нашего Оффлайн помощника.
 -   Применять умные контракты (smart contracts) и взаимодействовать с ними.
 -   Пользоваться множеством образовательных материалов из нашей Базы знаний.
