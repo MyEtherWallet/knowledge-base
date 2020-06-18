@@ -50,16 +50,16 @@ primary_category_display_name: "Dapps"
 
 **Шаг 6.** Выберите 'Установить хеш IPFS'.
 
--   You will need to confirm some transactions. If you're using a device to access your wallet, remember you may need to confirm the transaction on your device.
+-   Вам нужно будет подтвердить несколько транзакций. Если вы используете устройство для доступа к кошельку, помните, что вам может потребоваться подтвердить транзакцию на вашем устройстве.
 
-**Step 7.** Your web content will process. Once your transaction posts, your website will be ready!
+**Шаг 7.** Ваш веб-контент будет обрабатываться. Когда ваша транзакция пройдет, ваш сайт будет готов!
 
--   It will take some time for your website to upload.
--   You may need to refresh the MEW web interface to see your IPFS set.
+-   Загрузка вашего сайта может занять некоторое время.
+-   Вам может потребоваться обновить интерфейс MEW, чтобы увидеть что ваш IPFS установлен.
 
 <img src="/images/posts/diving-deeper/ensprocessing.png" width="80%" />
 
-**Step 8.** You're done! Your website is now viewable by typing your .eth domain into the Opera Browser, or by adding .link to the end of it on your normal browser (i.e. myfavoritewallet.eth.link).
+**Шаг 8.** Готово! Теперь ваш сайт доступен для просмотра, либо набрав его в браузере Opera или добавляя к нему .link в любом браузере (т.е. myfavoritewallet.eth.link).
 
 * * *
 
@@ -67,17 +67,17 @@ primary_category_display_name: "Dapps"
 
 **Шаг 1.** [Откройте ваш кошелек][access]
 
--   Make sure your wallet has a .crypto domain attached to the public address.
+-   Убедитесь, что у вашего кошелька есть домен .crypto, прикрепленный к публичному адресу.
 
-**Step 2.** Head to the 'Dapps' section, and select the Unstoppable Domains Manager.
+**Шаг 2.** Зайдите в раздел 'Dapps' и выберите Менеджер Unstoppable Domains.
 
 <img src="/images/posts/diving-deeper/UDdapp.png" width="80%" />
 
-**Step 3.** Click over to the 'Manage' tab, then select the Unstoppable Domain that should host your website.
+**Шаг 3.** Нажмите на вкладку «Управление», затем выберите домен Unstoppable Domains, который должен разместить ваш сайт.
 
 <img src="/images/posts/diving-deeper/UDmanage.png" width="80%" />
 
-**Step 4.** Scroll down to the 'IPFS Hash' section.
+**Шаг 4.** Прокрутите вниз до раздела 'IPFS Hash'.
 
 <img src="/images/posts/diving-deeper/UDmanagerfull.png" width="80%" />
 
@@ -85,16 +85,16 @@ primary_category_display_name: "Dapps"
 
 **Шаг 6.** Выберите 'Установить хеш IPFS'.
 
--   You will need to confirm some transactions. If you're using a device to access your wallet, remember you may need to confirm the transaction on your device.
+-   Вам нужно будет подтвердить несколько транзакций. Если вы используете устройство для доступа к кошельку, помните, что вам может потребоваться подтвердить транзакцию на вашем устройстве.
 
-**Step 7.** Your web content will process. Once your transaction posts, your website will be ready!
+**Шаг 7.** Ваш веб-контент будет обрабатываться. Когда ваша транзакция пройдет, ваш сайт будет готов!
 
--   It will take some time for your website to upload.
--   You may need to refresh the MEW web interface to see your IPFS set.
+-   Загрузка вашего сайта может занять некоторое время.
+-   Вам может потребоваться обновить интерфейс MEW, чтобы увидеть что ваш IPFS установлен.
 
 <img src="/images/posts/diving-deeper/processing.png" width="80%" />
 
-**Step 8.** You're done! Your website is now viewable by typing your .crypto domain into the Unstoppable Domain Browser, or by using the Opera browser.
+**Шаг 8.** Готово! Теперь ваш сайт доступен для просмотра, используя браузер Opera или браузер Unstoppable Domains.
 
 [ens]: /@@@@@@/dapps/register-ens-domain/
 
