@@ -22,9 +22,9 @@ primary_category_display_name: "Dapps"
 
 ###### Если вы хотите загрузить свой собственный децентрализованный веб-сайт на ENS или Unstoppable Domains, вам нужно будет сначала купить доменное имя.
 
-###### Для покупки доменного имени .eth, вы можете использовать [Ethereum Naming Service (ENS) Manager][ens] на Dapps странице нашего интерфейса. If you're interested in a .crypto domain, you can use the [Unstoppable Domain Manager][ud] from the same Dapp section.
+###### Для покупки доменного имени .eth, вы можете использовать [Ethereum Naming Service (ENS) Manager][ens] на Dapps странице нашего интерфейса. Если вы заинтересованы в домене .crypto, вы можете использовать [Unstoppable Domain Manager][ud] из того же раздела Dapps.
 
-###### You will also need either a ZIP file of your website or the IPFS hash.
+###### Вам также понадобится либо ZIP файл вашего сайта либо хэш IPFS.
 
 ## **Как настроить децентрализованный веб-сайт с ENS доменом**
 
