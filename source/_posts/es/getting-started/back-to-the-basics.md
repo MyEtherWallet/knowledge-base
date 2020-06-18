@@ -32,12 +32,12 @@ alias:
 ## **2. Use the checksummed version of your address.**
 
 -   This is the version of your address that includes both capital and lowercase letters.
--   For more information on checksummed addresses, click [here](/@@@@@@/common-issues/not-checksummed/).
+-   Check out our article for more information on [checksummed addresses](/@@@@@@/common-issues/not-checksummed/).
 
 ## **3. Send a small amount first, to test the waters.**
 
 -   We cannot reverse, cancel, or refund transactions. Make sure you know the process inside and out!
--   Learn more about sending transactions [here](/@@@@@@/transactions/how-to-send-a-transaction/).
+-   Read our user-guide all about [sending transactions](/@@@@@@/transactions/how-to-send-a-transaction/).
 
 ## **4. Keep your information off the computer.**
 
