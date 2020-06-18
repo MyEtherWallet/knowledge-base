@@ -25,7 +25,7 @@ primary_category_display_name: "Dapps"
 
 ###### You will also need either a ZIP file of your website or the IPFS hash.
 
-## __How to Set Up your Decentralized Website with an ENS Domain__
+## **How to Set Up your Decentralized Website with an ENS Domain**
 
 **Step 1.** [Access your wallet.][access]
 
@@ -60,7 +60,7 @@ primary_category_display_name: "Dapps"
 
 **Step 8.** You're done! Your website is now viewable by typing your .eth domain into the Opera Browser, or by adding .link to the end of it on your normal browser (i.e. myfavoritewallet.eth.link).
 
-## __How to Set Up your Decentralized Website with an Unstoppable Domain__
+## **How to Set Up your Decentralized Website with an Unstoppable Domain**
 
 **Step 1.** [Access your wallet.][access]
 
