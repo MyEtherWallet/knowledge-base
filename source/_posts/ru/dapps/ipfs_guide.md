@@ -32,23 +32,23 @@ primary_category_display_name: "Dapps"
 
 -   Убедитесь, что у вашего кошелька есть домен .eth, прикрепленный к публичному адресу.
 
-**Step 2.** Head to the 'Dapps' section, and select the ENS Manager.
+**Шаг 2.** Зайдите в раздел 'Dapps' и выберите Менеджер ENS.
 
 <img src="/images/posts/diving-deeper/ENSmanagertiny.png" width="40%" />
 
-**Step 3.** Click over to the 'Manage' tab, then select the ENS domain that should host your website.
+**Шаг 3.** Нажмите на вкладку «Управление», затем выберите домен ENS, который должен разместить ваш сайт.
 
 <img src="/images/posts/diving-deeper/ensmanage.png" width="80%" />
 
-**Step 4.** Click 'Manage' again at this step to be taken to the domain details section. Scroll down to the 'IPFS Hash' section.
+**Шаг 4.** Нажмите кнопку 'Управление' снова на этом шаге, чтобы быть перенесены в раздел детали домена. Прокрутите вниз до раздела 'IPFS Hash'.
 
 <img src="/images/posts/diving-deeper/ensmanage2.png" width="80%" />
 
 <img src="/images/posts/diving-deeper/ensmanageipfs.png" width="80%" />
 
-**Step 5.** If you have a ZIP file, click 'Upload your website' and select the file. Otherwise, paste your IPFS hash directly into the box.
+**Шаг 5.** Если у вас есть ZIP файл, нажмите 'Загрузить свой сайт' и выберите файл. В противном случае, вставьте ваш хеш IPFS прямо в поле.
 
-**Step 6.** Select 'Set IPFS Hash'.
+**Шаг 6.** Выберите 'Установить хеш IPFS'.
 
 -   You will need to confirm some transactions. If you're using a device to access your wallet, remember you may need to confirm the transaction on your device.
 
@@ -81,9 +81,9 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/UDmanagerfull.png" width="80%" />
 
-**Step 5.** If you have a ZIP file, click 'Upload your website' and select the file. Otherwise, paste your IPFS hash directly into the box.
+**Шаг 5.** Если у вас есть ZIP файл, нажмите 'Загрузить свой сайт' и выберите файл. В противном случае, вставьте ваш хеш IPFS прямо в поле.
 
-**Step 6.** Select 'Set IPFS Hash'.
+**Шаг 6.** Выберите 'Установить хеш IPFS'.
 
 -   You will need to confirm some transactions. If you're using a device to access your wallet, remember you may need to confirm the transaction on your device.
 
