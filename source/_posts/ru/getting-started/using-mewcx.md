@@ -34,11 +34,11 @@ alias:
 
 ## **Установка MEW CX**
 
-**Шаг 1.** Перейдите по [этой ссылке](https://chrome.google.com/webstore/detail/myetherwallet-extension/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en) в Google Chrome. Затем выберите "Добавить в Chrome".
+**Step 1.** On Google Chrome, head to [the download page for MEW CX](https://chrome.google.com/webstore/detail/myetherwallet-extension/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en). Затем выберите "Добавить в Chrome".
 
 -   Чтобы избежать скачивания поддельного клиента, убедитесь, что поставщиком является MyEtherWallet Inc, а также проверьте оценку и количество пользователей.
 
--   Google Chrome попросит вас предоставить разрешения. Чтобы узнать подробнее, что они означают, ознакомьтесь с [этой статьей](https://www.howtogeek.com/291095/why-do-chrome-extensions-need-all-your-data-on-the-websites-you-visit/). Вы можете быть уверены в том, что MEW никогда не будет хранить ваши данные или делиться ими. Это разрешение необходимо для проверки URL-адресов на известные фишинговые сайты и для взаимодействия с Dapp-приложением на другом сайте.
+-   Google Chrome попросит вас предоставить разрешения. Read our article for [more information about what permissions are required](https://www.howtogeek.com/291095/why-do-chrome-extensions-need-all-your-data-on-the-websites-you-visit/). Вы можете быть уверены в том, что MEW никогда не будет хранить ваши данные или делиться ими. Это разрешение необходимо для проверки URL-адресов на известные фишинговые сайты и для взаимодействия с Dapp-приложением на другом сайте.
 
 <img src="/images/posts/diving-deeper/MEWCX1.png" width="80%" />
 
@@ -48,7 +48,7 @@ alias:
 
 **Шаг 3.** Выберите, с помощью чего вы хотите открыть ваш кошелек, или сгенерируйте новый кошелек. Готово!
 
--   Чтобы узнать больше о способах доступа, ознакомьтесь с нашей [статьей из базы знаний](/@@@@@@/getting-started/how-to-access-your-wallet/) на эту тему.
+-   Check out our guide on [access methods](/@@@@@@/getting-started/how-to-access-your-wallet/) for more information on the subject.
 
 <img src="/images/posts/diving-deeper/MEWCX3.png" width="80%" />
 
