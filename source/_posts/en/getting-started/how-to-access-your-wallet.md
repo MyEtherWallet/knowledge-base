@@ -15,7 +15,7 @@ alias:
 
 # **How to Access Your Wallet**
 
-##### <i>This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to [this article][createWallet].</i>
+##### <i>This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to this article on [how to create a wallet][createWallet].</i>
 
 ###### {% read_time title "How to Access Your Wallet" %} min read
 
@@ -117,7 +117,7 @@ This is a Chrome Extension that allows the creation of an ethereum-based wallet 
 
 ## **Keystore/JSON + Password**
 
-The Keystore/JSON is a file that holds an encrypted version of one’s private key. This key is encrypted with a chosen password by the user. As such, it is impossible to change the password for these files. The only way to change the password is to make a completely new Keystore file, which can be achieved in our MEW Chrome Extension with one’s private key. Keystore files should not be opened. They are only to be utilized when accessing the Keystore/JSON option on our site and when prompted for one’s ‘JSON file’. You can read more about the functionality of a Keystore/JSON file [here][keystoreJson].
+The Keystore/JSON is a file that holds an encrypted version of one’s private key. This key is encrypted with a chosen password by the user. As such, it is impossible to change the password for these files. The only way to change the password is to make a completely new Keystore file, which can be achieved in our MEW Chrome Extension with one’s private key. Keystore files should not be opened. They are only to be utilized when accessing the Keystore/JSON option on our site and when prompted for one’s ‘JSON file’. Check out our article about [the functionality of a Keystore/JSON file][keystoreJson].
 
 ## **To connect with Keystore/JSON + Password:**
 

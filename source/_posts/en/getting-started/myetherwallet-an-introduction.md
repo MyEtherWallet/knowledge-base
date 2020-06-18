@@ -26,10 +26,10 @@ alias:
 ## **What can I do with MEW?**
 
 -   [Create][1] your own unique Ethereum wallet.
--   [Send][2] and receive ETH and tokens.
--   [Access][3] a variety of wallet types, including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
+-   [Send and receive][2] ETH and tokens.
+-   [Access a variety of wallet types][3], including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
 -   [Swap][4] a growing number of cryptocurrencies including ERC20 tokens, ETH, ETC, BTC, and more!
--   [Explore][6] our DApp store where you can earn on your deposits with Aave, open a vault with MakerDAO, or register and manage your ENS domains. 
+-   [Explore our DApp store][6] where you can earn on your deposits with Aave, open a vault with MakerDAO, or register and manage your ENS domains. 
 -   [Send offline][7] through the use of our Offline Helper.
 -   Deploy and interact with smart contracts.
 -   Access a wealth of educational material from our Knowledge Base.
