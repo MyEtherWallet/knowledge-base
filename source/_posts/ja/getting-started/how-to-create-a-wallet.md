@@ -34,13 +34,13 @@ alias:
 
 #### **This is the best option for the security and safekeeping of your information. Explore Ethereum on your mobile device.**
 
-To learn more about creating your wallet with MEW wallet, click [here](/@@@@@@/mewwallet/mewwallet-user-guide/).
+Read our guide to learn more about [creating your wallet with MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/).
 
 ## **MEW CX** - MEW's Browser Extension
 
 #### **The entirety of MEW is available in a bite-size extension. Connect to your favorite DApps and make use of the QuickSend feature.**
 
-To learn more about creating your wallet with MEW CX, click [here](/@@@@@@/getting-started/using-mewcx/).
+Read our guide to learn more about [creating your wallet with MEW CX](/@@@@@@/getting-started/using-mewcx/).
 
 ##### \_\_
 
@@ -61,9 +61,9 @@ To learn more about creating your wallet with MEW CX, click [here](/@@@@@@/getti
 
 ## **Keystore/JSON**
 
-#### **Read more about what a Keystore/JSON file is [here](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).**
+#### **Check out our guide to [learn more about keystore/json files](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).**
 
-**Step 1.** Head to [www.myetherwallet.com.](http://www.myetherwallet.com.)
+**Step 1.** Head to [www.myetherwallet.com](http://www.myetherwallet.com).
 
 **Step 2.** Click ‘Create a New Wallet’.
 
@@ -81,7 +81,7 @@ To learn more about creating your wallet with MEW CX, click [here](/@@@@@@/getti
 
 ## **Mnemonic Phrase**
 
-#### **Read more about what a Mnemonic Phrase is [here](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/).**
+#### **Check out our guide to [learn more about Mnemonic Phrases](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/).**
 
 **Step 1.** Head to [www.myetherwallet.com](http://www.myetherwallet.com).
 
@@ -101,4 +101,4 @@ To learn more about creating your wallet with MEW CX, click [here](/@@@@@@/getti
 
 ##### \_\_
 
-## **For more information on how to access your new wallet, click [here](/@@@@@@/getting-started/how-to-access-your-wallet/).**
+## **Now that you have a wallet, read our article about [how to access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).**
