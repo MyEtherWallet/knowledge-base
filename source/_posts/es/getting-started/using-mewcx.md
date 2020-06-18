@@ -34,11 +34,11 @@ Create and manage your wallets, interact with Dapps, and send transactions quick
 
 ## **Installing MEW CX**
 
-**Step 1.** On Google Chrome, head to [this link](https://chrome.google.com/webstore/detail/myetherwallet-extension/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en). Then select ‘Add to Chrome’.
+**Step 1.** On Google Chrome, head to [the download page for MEW CX](https://chrome.google.com/webstore/detail/myetherwallet-extension/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en). Then select ‘Add to Chrome’.
 
 -   To avoid downloading a fake client, double-check the provider for MyEtherWallet Inc, and check the rating / number of users.
 
--   Google Chrome will require you to accept permissions. For more information on what these mean, check out [this article](https://www.howtogeek.com/291095/why-do-chrome-extensions-need-all-your-data-on-the-websites-you-visit/). Rest assured that MEW will never store or share any of your data. This permission is necessary for checking URLs for known phishing sites, or interacting with a DApp on another website.
+-   Google Chrome will require you to accept permissions. Read our article for [more information about what permissions are required](https://www.howtogeek.com/291095/why-do-chrome-extensions-need-all-your-data-on-the-websites-you-visit/). Rest assured that MEW will never store or share any of your data. This permission is necessary for checking URLs for known phishing sites, or interacting with a DApp on another website.
 
 <img src="/images/posts/diving-deeper/MEWCX1.png" width="80%" />
 
@@ -48,7 +48,7 @@ Create and manage your wallets, interact with Dapps, and send transactions quick
 
 **Step 3.** Choose how you’d like to access your wallet, or generate a new one. And you’re done!
 
--   For more information on access methods, check out our [KB article](/@@@@@@/getting-started/how-to-access-your-wallet/) on the subject.
+-   Check out our guide on [access methods](/@@@@@@/getting-started/how-to-access-your-wallet/) for more information on the subject.
 
 <img src="/images/posts/diving-deeper/MEWCX3.png" width="80%" />
 
