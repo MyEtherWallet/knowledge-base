@@ -53,11 +53,11 @@ alias:
 
     {
     "symbol": "",
-    
+
     "name": "",
-    
+
     "type": "ERC20",
-    
+
     "address": "",
     "ens_address": "",
     "decimals": ,
