@@ -11,7 +11,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - ru/getting-started/creating-a-new-wallet-on-myetherwallet.html
+  - getting-started/creating-a-new-wallet-on-myetherwallet.html
 ---
 
 # **Как создать кошелек**
@@ -34,13 +34,13 @@ alias:
 
 #### **Это лучший вариант для обеспечения защиты и надежного хранения вашей информации. Исследуйте Ethereum со своего мобильного устройства.**
 
-Чтобы узнать больше о создании кошелька с помощью MEW wallet, перейдите [сюда](/@@@@@@/mewwallet/mewwallet-user-guide/).
+Read our guide to learn more about [creating your wallet with MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/).
 
 ## **MEW CX** - Расширение MEW для браузера
 
 #### **Доступ ко всем функциям MEW через расширение. Подключитесь к вашим любимым DApps и воспользуйтесь функцией QuickSend.**
 
-Чтобы узнать больше о создании кошелька с помощью MEW CX, перейдите [сюда](/@@@@@@/getting-started/using-mewcx.md/).
+Read our guide to learn more about [creating your wallet with MEW CX](/@@@@@@/getting-started/using-mewcx/).
 
 ##### \_\_
 
@@ -61,9 +61,9 @@ alias:
 
 ## **Хранилище ключей / JSON**
 
-#### _Прочитать подробнее о том, что такое файл-хранилищe ключей / JSON-файл, можно [здесь](/@@@@@@/security-and-privacy/what-is-a-keystore-file/)._
+#### **Check out our guide to [learn more about keystore/json files](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).**
 
-**Шаг 1.** Направляйтесь на сайт [www.myetherwallet.com](http://www.myetherwallet.com).
+**Шаг 1.** Перейдите на [www.myetherwallet.com.](http://www.myetherwallet.com).
 
 **Шаг 2.** Нажмите "Создать новый кошелек".
 
@@ -81,9 +81,9 @@ alias:
 
 ## **Мнемоническая фраза**
 
-#### _Прочитать подробнее о том, что такое мнемоническая фраза, можно [здесь](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/)._
+#### **Check out our guide to [learn more about Mnemonic Phrases](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/).**
 
-**Шаг 1.** Направляйтесь на сайт [www.myetherwallet.com](http://www.myetherwallet.com).
+**Шаг 1.** Перейдите на [www.myetherwallet.com.](http://www.myetherwallet.com).
 
 **Шаг 2.** Нажмите "Создать новый кошелек".
 
@@ -101,4 +101,4 @@ alias:
 
 ##### \_\_
 
-## **Для получения более подробной информации о доступе к вашему новому кошельку нажмите [сюда](/@@@@@@/getting-started/how-to-access-your-wallet/).**
+## **Now that you have a wallet, read our article about [how to access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).**

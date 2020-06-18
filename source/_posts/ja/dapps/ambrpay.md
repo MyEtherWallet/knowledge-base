@@ -1,5 +1,5 @@
 ---
-title: "Using Ambrpay"
+title: "Set up Recurring Payments with Ambrpay"
 date: 2018-06-01 00:02:00
 tags:
   - ambrpay
@@ -15,9 +15,9 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# **Using Ambrpay**
+# **Set up Recurring Payments with Ambrpay**
 
-###### {% read_time title "Using Ambrpay" %} min read
+###### {% read_time title "Set up Recurring Payments with Ambrpay" %} min read
 
 * * *
 

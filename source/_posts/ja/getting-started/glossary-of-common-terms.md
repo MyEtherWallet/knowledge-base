@@ -10,7 +10,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-  - ja/getting-started/ethereum-glossary.html
+  - en/getting-started/ethereum-glossary.html
 ---
 
 # **A Glossary of Common Terms in the Ethereum / Crypto Community**
@@ -30,7 +30,7 @@ alias:
 
 -   A public & private keypair that "holds" your funds.
 -   Your funds are actually stored on the blockchain, not in the wallet or account.
--   Just like your Reddit account has a username (public) and password (private), so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a username (public) and password (private) and password for that password (private + more secure). Read more about this [here](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).
+-   Just like your Reddit account has a username (public) and password (private), so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a username (public) and password (private) and password for that password (private + more secure). This method is referred to as [access by keystore file](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).
 
 ## **(Account / Ethereum / Public) Address**
 
@@ -83,14 +83,14 @@ alias:
 -   They generally use a 24-word phrase. This phrase you should write down on paper (not on your computer) and store separately from your hardware wallet, in multiple locations.
 -   If you lose your hardware wallet, you can still gain access to your accounts & funds via the mnemonic phrase you wrote down.
 -   **Never type the recovery phrase on your computer.** It defeats the purpose of your hardware wallet.
--   See [here](/@@@@@@/hardware-wallets/using-ledger-with-mew/) for more information about Hardware Wallets.
+-   Check out our [Hardware Wallet category](/@@@@@@/hardware-wallets/using-ledger-with-mew/) for more information about Hardware Wallets.
 
 ## **Address Identicon / Address Icon**
 
 -   The colorful blob of colors that corresponds to your address.
 -   It is an easy way to see if your address is correct.
--   [Example 1](http://i.imgur.com/lHUrIiZ.jpg)
--   [Example 2](http://i.imgur.com/FvyLewS.jpg)
+-   [Indenticon Example 1](http://i.imgur.com/lHUrIiZ.jpg)
+-   [Identicon Example 2](http://i.imgur.com/FvyLewS.jpg)
 -   Note: The above addresses are a single character different but have remarkably different icons & colors. Even one difference in character will result in a completely separate wallet.
 
 ## **Hexadecimal**
@@ -117,7 +117,7 @@ alias:
 -   The more random something is, the more entropy it has, and the more secure it is.
 -   Usually defined in "bits of entropy", or the number of years it would take to brute-force a \_\_\_\_ (i.e. private key) derived with that much entropy.
 -   Ethereum private keys are 256-bit keys
--   24-Word mnemonic phrases are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). `11 * 24 = 264`. The last word is a checksum (read more about checksum [here](/@@@@@@/common-issues/not-checksummed/).
+-   24-Word mnemonic phrases are also 256 bits of entropy. 2048 words in the dictionary. 11 bits of entropy (the words). `11 * 24 = 264`. The last word is a checksum (check out our [guide on checksums](/@@@@@@/common-issues/not-checksummed/) for more information).
 
 ## **Derive / Derivation**
 
@@ -146,7 +146,7 @@ alias:
 
 -   A piece of code (or program) that is stored on the blockchain network.
 -   Conditions of the contract are predefined by the users, if all conditions are met, certain actions are executed by the contract (program).
--   Read more about smart contracts [here](/@@@@@@/diving-deeper/what-is-a-smart-contract/).
+-   Check out our article about [smart contracts](/@@@@@@/diving-deeper/what-is-a-smart-contract/).
 
 ## **Blockchain**
 

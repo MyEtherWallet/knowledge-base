@@ -56,7 +56,7 @@ Without further ado, let’s begin!
 
 **Step 2.** On MEW, select 'Access My Wallet' > 'Hardware' > 'CoolWallet'. It should ask for a pairing password.
 
--   Make sure the bluetooth on your computer is also turned on. You may need to manually pair it with your computer the first time you use it. This can be done with a pairing password generated from the CoolWallet device.
+-   Make sure the bluetooth on your computer is also turned on. You may need to manually pair it with your computer. This can be done with a pairing password generated from the CoolWallet device.
 
 **Step 3.** On your CoolWallet mobile app, select 'Show Pairing Password'. This will generate a password to pair with MEW. Type this password in then close your app before continuing. Once you're done, select 'Unlock CoolWallet'.
 

@@ -12,7 +12,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
-  - zh/transactions/transactions-not-showing-or-pending.html
+  - en/transactions/transactions-not-showing-or-pending.html
 ---
 
 # **Transactions are 'Not Found' or 'Pending' Forever**

@@ -12,7 +12,7 @@ categories:
 primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 alias:
-  - zh/migration/importing-vintagemew-to-mew.html
+  - en/migration/importing-vintagemew-to-mew.html
 ---
 
 # **Migrating from Vintage MEW -> MEW**

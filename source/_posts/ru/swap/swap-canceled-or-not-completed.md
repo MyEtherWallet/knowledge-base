@@ -11,7 +11,7 @@ categories:
 primary_category: swap
 primary_category_display_name: "Обмен"
 alias:
-  - ru/swap/swap-wasnt-completed-or-was-canceled.html
+  - swap/swap-wasnt-completed-or-was-canceled.html
 ---
 
 # **Обмен был отменен или не был завершен**
@@ -22,10 +22,10 @@ alias:
 
 В периоды активных торгов, провести ограниченные по времени транзакции может быть непросто из-за различных факторов, таких как: очереди транзакций, текущих продаж токенов, текущего состояния сети и т. д.
 
-Если вы отправили монеты или токены на указанный адрес обмена, но не получили свои средства, пожалуйста, напишите на адрес [support@myetherwallet.com](mailto:support@myetherwallet.com) и на адрес биржи, где вы осуществили обмен. Вот адреса их служб поддержки:
+Если вы отправили монеты или токены на указанный адрес обмена, но не получили свои средства, пожалуйста, напишите и на [support@myetherwallet.com](mailto:support@myetherwallet.com) и на адрес биржи, где вы осуществили обмен. Вот адреса их служб поддержки:
 
 -   Bity — Их справочный центр интегрирован в их сайт.
 
--   Kyber Network — [support@kyber.network](mailto:support@kyber.network)
+-   Киберсеть - [support@kyber.network](mailto:support@kyber.network)
 
--   Changelly — [support@changelly.com](mailto:support@changelly.com)
+-   Изменено - [support@changelly.com](mailto:support@changelly.com)

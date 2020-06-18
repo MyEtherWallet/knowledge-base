@@ -11,7 +11,7 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
-  - zh/diving-deeper/myetherapi-api-limits.html
+  - en/diving-deeper/myetherapi-api-limits.html
 ---
 
 # **Does MEW API Have a Limit on the Amount of Requests I Can Make?**

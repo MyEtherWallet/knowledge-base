@@ -1,5 +1,5 @@
 ---
-title: "Использование Ambrpay"
+title: "Настроить повторяющиеся платежи с помощью Ambrpay"
 date: 2018-06-01 00:02:00
 tags:
   - ambrpay
@@ -15,9 +15,9 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# **Использование Ambrpay**
+# **Настроить повторяющиеся платежи с помощью Ambrpay**
 
-###### {% read_time title "Использование Ambrpay" %} мин. чтения
+###### {% read_time title "Set up Recurring Payments with Ambrpay" %} минут на чтение
 
 * * *
 

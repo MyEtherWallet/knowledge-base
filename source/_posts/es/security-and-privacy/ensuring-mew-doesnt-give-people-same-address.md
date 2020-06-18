@@ -11,7 +11,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
-  - es/security/ethereum-two-people-same-private-key.html
+  - en/security/ethereum-two-people-same-private-key.html
 ---
 
 # **Ensuring MEW Doesn’t Give Different People the Same Public Address**

@@ -1,5 +1,5 @@
 ---
-title: "ENS: регистрация домена"
+title: "Регистрация и управление доменами .eth с помощью ENS"
 date: 2018-06-01 00:02:00
 tags:
   - ens
@@ -13,9 +13,9 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# **ENS: регистрация домена**
+# **Регистрация и управление доменами .eth с помощью ENS**
 
-###### {% read_time title "ENS: Registering a Domain" %} минут на чтение
+###### {% read_time title "Register and Manage .eth Domains with ENS" %} минут на чтение
 
 * * *
 
@@ -27,7 +27,7 @@ Ethereum Name Service, также известная как ENS, — это до
 
 Обычный адрес для поддержки: `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D`
 
-ENS-адрес для поддержки: `mewtopia.eth`
+.eth адрес для поддержки: `mewtopia.eth`
 
 Оба адреса ведут в один кошелек, однако ENS-домен гораздо удобнее.
 

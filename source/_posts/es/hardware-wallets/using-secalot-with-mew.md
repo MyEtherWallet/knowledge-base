@@ -70,7 +70,7 @@ If you are coming from an old wallet and want your ETH and tokens on your new, s
 
 Please be advised ETH will be required for gas to move any tokens held in your old wallet. We recommend holding .01 ETH to cover 2 - 3 transactions.
 
-## **How Do I Restore My Secalot to a New Device?**
+## **¿Cómo puedo restaurar my Secalot a un Nuevo Dispositivo?**
 
 You can use your recovery phrase to restore your wallet to as many devices as you'd like, as long as they accept the 12-word mnemonic phrase for recovery.
 

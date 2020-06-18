@@ -12,7 +12,7 @@ categories:
 primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
-  - ru/hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
+  - hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
 ---
 
 # **Не удается подключиться к аппаратному кошельку**
@@ -29,4 +29,4 @@ alias:
 -   Попробуйте другой USB-кабель.
 -   Убедитесь, что у вас последняя версия прошивки.
 
-Если ни один из этих способов не работает, напишите нам на [support@myetherwallet.com.](mailto:support@myetherwallet.com.) Пожалуйста, предоставьте максимально подробную информацию о ваших действиях.
+Если ни один из этих вариантов не работает, напишите нам на [support@myetherwallet.com.](mailto:support@myetherwallet.com.) Пожалуйста, укажите как можно больше информации о вашем подключении.

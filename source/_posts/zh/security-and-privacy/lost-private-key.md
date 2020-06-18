@@ -11,7 +11,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
-  - zh/private-keys-passwords/lost-eth-private-key.html
+  - en/private-keys-passwords/lost-eth-private-key.html
 ---
 
 # **Lost Private Key**

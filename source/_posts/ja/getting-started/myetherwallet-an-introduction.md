@@ -13,7 +13,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
-  - ja/getting-started/getting-started-new.html
+  - en/getting-started/getting-started-new.html
 ---
 
 # **MyEtherWallet: An Introduction**
@@ -27,10 +27,10 @@ alias:
 ## **What can I do with MEW?**
 
 -   [Create](/@@@@@@/getting-started/how-to-create-a-wallet/) your own unique Ethereum wallet.
--   [Send](/@@@@@@/transactions/how-to-send-a-transaction/) and receive ETH and tokens.
--   [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of wallet types, including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
+-   [Send and receive](/@@@@@@/transactions/how-to-send-a-transaction/) ETH and tokens.
+-   [Access a variety of wallet types](/@@@@@@/getting-started/how-to-access-your-wallet/), including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
 -   [Swap](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) a growing number of cryptocurrencies including ERC20 tokens, ETH, ETC, BTC, and more!
--   [Explore](/@@@@@@/dapps/using_makerdao/) our DApp store where you can earn on your deposits with Aave, open a vault with MakerDAO, or register and manage your ENS domains.
+-   [Explore our DApp store](/@@@@@@/dapps/using_makerdao/) where you can earn on your deposits with Aave, open a vault with MakerDAO, or register and manage your ENS domains.
 -   [Send offline](/@@@@@@/offline/using-mew-offline/) through the use of our Offline Helper.
 -   Deploy and interact with smart contracts.
 -   Access a wealth of educational material from our Knowledge Base.
@@ -71,7 +71,7 @@ alias:
 
 -   The most secure way to access your funds is through a hardware wallet, like a [Ledger Nano S](https://www.ledger.com/?r=fa4b) or [Trezor](https://trezor.io/?offer_id=12&aff_id=2029). If you have over $200 in crypto, there is little excuse not to get one.
 -   Download our fully-fledged mobile app [MEW wallet](https://www.mewwallet.com/). It's simple, fast, and secure.
--   Follow our educational blog [MEWtopia]9] for the latest on MEW and Ethereum.
+-   Follow our educational blog [MEWtopia](https://www.mewtopia.com/) for the latest on MEW and Ethereum.
 -   When using a private key, keystore/JSON file, or mnemonic phrase, make sure to keep them solely on physical paper and offline computers. This information is extremely sensitive. And make backups! If you lose this information, it’s gone forever.
 -   Always check the URL you are using to make sure it says [www.myetherwallet.com.](http://www.myetherwallet.com.) And bookmark us for future use!
 -   Make sure the URL bar shows a secure padlock on the left. If you click it, you should see "Certificate (Valid) Issued to: MyEtherWallet Inc [US]".

@@ -9,7 +9,7 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - ru/diving-deeper/does-myetherwallet-have-an-api.html
+  - diving-deeper/does-myetherwallet-have-an-api.html
 ---
 
 # **Есть ли у MyEtherWallet API?**
@@ -18,9 +18,8 @@ alias:
 
 * * *
 
-## **Вот API-документация для MEW, Etherscan, Infura, Alchemy, и Rivet (пяти основных поставщиков публичных узлов):**
+## **MEW не имеет API, но вот API-документация для четырех основных поставщиков публичных узлов: Etherscan, Infura, Alchemy, и Rivet:**
 
--   MEW
 -   [Infura](https://infura.io/#how-to)
 -   [Etherscan](https://etherscan.io/apis)
 -   [Alchemy](https://docs.alchemyapi.io/)
