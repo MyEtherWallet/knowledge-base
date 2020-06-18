@@ -1,12 +1,12 @@
 ---
-title: "Upload your Website to a .eth or .crypto Domain"
+title: "Загрузите ваш сайт на домен .eth или .crypto"
 date: 2018-06-01 00:02:00
 tags:
   - ens
   - dapp
   - unstoppable
   - IPFS
-  - decentralized
+  - децентрализованное
 categories:
   - 
     - dapps
@@ -14,19 +14,19 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# **Upload your Website to a .eth or .crypto Domain**
+# **Загрузите ваш сайт на домен .eth или .crypto**
 
-###### {% read_time title "Upload your Website to a .eth or .crypto Domain" %} min read
+###### {% read_time title "Upload your Website to a .eth or .crypto Domain" %} минут на чтение
 
 * * *
 
-###### If you'd like to upload your very own decentralized website to an ENS or Unstoppable Domain, you will first need to purchase a domain name.
+###### Если вы хотите загрузить свой собственный децентрализованный веб-сайт на ENS или Unstoppable Domains, вам нужно будет сначала купить доменное имя.
 
-###### To purchase a .eth domain, you can use the [Ethereum Naming Service (ENS) Manager][ens] from our Dapps section on MEW web. If you're interested in a .crypto domain, you can use the [Unstoppable Domain Manager][ud] from the same Dapp section.
+###### Для покупки доменного имени .eth, вы можете использовать [Ethereum Naming Service (ENS) Manager][ens] на Dapps странице нашего интерфейса. If you're interested in a .crypto domain, you can use the [Unstoppable Domain Manager][ud] from the same Dapp section.
 
 ###### You will also need either a ZIP file of your website or the IPFS hash.
 
-## **How to Set Up your Decentralized Website with an ENS Domain**
+## **Как настроить децентрализованный веб-сайт с ENS доменом**
 
 **Step 1.** [Access your wallet.][access]
 
@@ -61,7 +61,7 @@ primary_category_display_name: "Dapps"
 
 **Step 8.** You're done! Your website is now viewable by typing your .eth domain into the Opera Browser, or by adding .link to the end of it on your normal browser (i.e. myfavoritewallet.eth.link).
 
-## **How to Set Up your Decentralized Website with an Unstoppable Domain**
+## **Как настроить децентрализованный веб-сайт с доменом Unstoppable Domains**
 
 **Step 1.** [Access your wallet.][access]
 
