@@ -30,7 +30,7 @@ alias:
 
 -   A public & private keypair that "holds" your funds.
 -   Your funds are actually stored on the blockchain, not in the wallet or account.
--   Just like your Reddit account has a username (public) and password (private), so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a username (public) and password (private) and password for that password (private + more secure). This method is referred to as [access by keystore file]][pubPvtKeys].
+-   Just like your Reddit account has a username (public) and password (private), so does your Ethereum account. For additional security, you can use a password to encrypt your private key which would result in a username (public) and password (private) and password for that password (private + more secure). This method is referred to as [access by keystore file][pubPvtKeys].
 
 ## **(Account / Ethereum / Public) Address**
 
