@@ -54,7 +54,8 @@ primary_category_display_name: "MEW Wallet"
 </div>
 
 **Step 4.** Choose a strong pin code.
-* You can also enable additional biometric access, such as a fingerprint or facial recognition.
+
+-   You can also enable additional biometric access, such as a fingerprint or facial recognition.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
   <img src="/images/posts/mewconnect/mcreate4.jpg" style="max-width: 250px;" />
@@ -91,9 +92,10 @@ primary_category_display_name: "MEW Wallet"
 <img src="/images/posts/mewconnect/mbackup2.jpg" style="max-width: 250px; width: 100%;" />
 
 **Step 2.** Get a pen and a piece of paper, then write down the 24 words that appear.
-* Keep these words in the same order as they appear, and double-check that it’s all spelled correctly.
-* Ideally, you should write this phrase down 2 - 3 times on separate sheets of paper, stored in multiple secure locations.
-* We cannot recover this phrase for you, and anyone that has access to it will have permanent access to your funds.
+
+-   Keep these words in the same order as they appear, and double-check that it’s all spelled correctly.
+-   Ideally, you should write this phrase down 2 - 3 times on separate sheets of paper, stored in multiple secure locations.
+-   We cannot recover this phrase for you, and anyone that has access to it will have permanent access to your funds.
 
 <img src="/images/posts/mewconnect/mbackup3.jpg" style="max-width: 250px;" />
 
@@ -121,7 +123,8 @@ primary_category_display_name: "MEW Wallet"
 <img src="/images/posts/mewconnect/mcreate7.jpg" style="max-width: 250px;" />
 
 **Step 2.** Select the amount you’d like to buy, or enter a custom amount (up to $250 worth).
-* If you're using an iOS device in the US, Apply Pay makes buying ETH as easy as clicking a button!
+
+-   If you're using an iOS device in the US, Apply Pay makes buying ETH as easy as clicking a button!
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
   <img src="/images/posts/mewconnect/mewwallet1.png" style="max-width: 250px;" />
@@ -136,7 +139,7 @@ primary_category_display_name: "MEW Wallet"
 
 **Step 4.** Your new balance will reflect in your account shortly!
 
-##### __
+##### \_\_
 
 ## **Add More Accounts**
 
@@ -153,8 +156,9 @@ primary_category_display_name: "MEW Wallet"
 <img src="/images/posts/mewconnect/madd2.jpg" style="max-width: 250px;" />
 
 **Step 3.** Your new account should generate.
-* This account is also tied to the recovery phrase from the ‘Back up your account’ section.
-* When you restore your main account, all subsequent accounts will also be restored. You just need to add them again as regular 'additional' accounts.
+
+-   This account is also tied to the recovery phrase from the ‘Back up your account’ section.
+-   When you restore your main account, all subsequent accounts will also be restored. You just need to add them again as regular 'additional' accounts.
 
 <img src="/images/posts/mewconnect/madd3.jpg" style="max-width: 250px;" />
 
