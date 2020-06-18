@@ -19,7 +19,7 @@ primary_category_display_name: "Dapps"
 
 * * *
 
-###### If you'd like to upload your very own decentralized website to an ENS or Unstoppable Domain, you will first need to purchase a domain name. 
+###### If you'd like to upload your very own decentralized website to an ENS or Unstoppable Domain, you will first need to purchase a domain name.
 
 ###### To purchase a .eth domain, you can use the [Ethereum Naming Service (ENS) Manager][ens] from our Dapps section on MEW web. If you're interested in a .crypto domain, you can use the [Unstoppable Domain Manager][ud] from the same Dapp section.
 
@@ -29,7 +29,7 @@ primary_category_display_name: "Dapps"
 
 **Step 1.** [Access your wallet.][access]
 
-* Make sure your wallet has a .eth domain attached to the public address.
+-   Make sure your wallet has a .eth domain attached to the public address.
 
 **Step 2.** Head to the 'Dapps' section, and select the ENS Manager.
 
@@ -49,12 +49,12 @@ primary_category_display_name: "Dapps"
 
 **Step 6.** Select 'Set IPFS Hash'.
 
-* You will need to confirm some transactions. If you're using a device to access your wallet, remember you may need to confirm the transaction on your device.
+-   You will need to confirm some transactions. If you're using a device to access your wallet, remember you may need to confirm the transaction on your device.
 
 **Step 7.** Your web content will process. Once your transaction posts, your website will be ready! 
 
-* It will take some time for your website to upload. 
-* You may need to refresh the MEW web interface to see your IPFS set.
+-   It will take some time for your website to upload. 
+-   You may need to refresh the MEW web interface to see your IPFS set.
 
 <img src="/images/posts/diving-deeper/ensprocessing.png" width="80%">
 
@@ -64,7 +64,7 @@ primary_category_display_name: "Dapps"
 
 **Step 1.** [Access your wallet.][access]
 
-* Make sure your wallet has a .crypto domain attached to the public address.
+-   Make sure your wallet has a .crypto domain attached to the public address.
 
 **Step 2.** Head to the 'Dapps' section, and select the Unstoppable Domains Manager.
 
@@ -82,18 +82,19 @@ primary_category_display_name: "Dapps"
 
 **Step 6.** Select 'Set IPFS Hash'.
 
-* You will need to confirm some transactions. If you're using a device to access your wallet, remember you may need to confirm the transaction on your device.
+-   You will need to confirm some transactions. If you're using a device to access your wallet, remember you may need to confirm the transaction on your device.
 
 **Step 7.** Your web content will process. Once your transaction posts, your website will be ready! 
 
-* It will take some time for your website to upload. 
-* You may need to refresh the MEW web interface to see your IPFS set.
+-   It will take some time for your website to upload. 
+-   You may need to refresh the MEW web interface to see your IPFS set.
 
 <img src="/images/posts/diving-deeper/processing.png" width="80%">
 
 **Step 8.** You're done! Your website is now viewable by typing your .crypto domain into the Unstoppable Domain Browser, or by using the Opera browser.
 
-
 [ens]: /@@@@@@/dapps/register-ens-domain/
+
 [ud]: /@@@@@@/dapps/unstoppabledomains/
+
 [access]: /@@@@@@/getting-started/how-to-access-your-wallet/
