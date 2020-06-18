@@ -28,9 +28,9 @@ primary_category_display_name: "Dapps"
 
 ## **Как настроить децентрализованный веб-сайт с ENS доменом**
 
-**Step 1.** [Access your wallet.][access]
+**Шаг 1.** [Откройте ваш кошелек][access]
 
--   Make sure your wallet has a .eth domain attached to the public address.
+-   Убедитесь, что у вашего кошелька есть домен .eth, прикрепленный к публичному адресу.
 
 **Step 2.** Head to the 'Dapps' section, and select the ENS Manager.
 
@@ -65,7 +65,7 @@ primary_category_display_name: "Dapps"
 
 ## **Как настроить децентрализованный веб-сайт с доменом Unstoppable Domains**
 
-**Step 1.** [Access your wallet.][access]
+**Шаг 1.** [Откройте ваш кошелек][access]
 
 -   Make sure your wallet has a .crypto domain attached to the public address.
 
