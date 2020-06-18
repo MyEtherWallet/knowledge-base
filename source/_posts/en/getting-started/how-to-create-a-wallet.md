@@ -34,13 +34,13 @@ alias:
 
 #### **This is the best option for the security and safekeeping of your information. Explore Ethereum on your mobile device.**
 
-To learn more about creating your wallet with MEW wallet, click [here][mewwallet].
+Read our guide to learn more about [creating your wallet with MEW wallet][mewwallet].
 
 ## **MEW CX** - MEW's Browser Extension
 
 #### **The entirety of MEW is available in a bite-size extension. Connect to your favorite DApps and make use of the QuickSend feature.**
 
-To learn more about creating your wallet with MEW CX, click [here][mewcx].
+Read our guide to learn more about [creating your wallet with MEW CX][mewcx].
 
 ##### \_\_
 
@@ -61,9 +61,9 @@ To learn more about creating your wallet with MEW CX, click [here][mewcx].
 
 ## **Keystore/JSON**
 
-#### **Read more about what a Keystore/JSON file is [here][keystoreJson].**
+#### **Check out our guide to [learn more about keystore/json files][keystoreJson].**
 
-**Step 1.** Head to [www.myetherwallet.com.](http://www.myetherwallet.com.) 
+**Step 1.** Head to [www.myetherwallet.com](http://www.myetherwallet.com).
 
 **Step 2.** Click ‘Create a New Wallet’.
 
@@ -81,7 +81,7 @@ To learn more about creating your wallet with MEW CX, click [here][mewcx].
 
 ## **Mnemonic Phrase**
 
-#### **Read more about what a Mnemonic Phrase is [here][mnemonic].**
+#### **Check out our guide to [learn more about Mnemonic Phrases][mnemonic].**
 
 **Step 1.** Head to [www.myetherwallet.com](http://www.myetherwallet.com).
 
@@ -101,7 +101,7 @@ To learn more about creating your wallet with MEW CX, click [here][mewcx].
 
 ##### \_\_
 
-## **For more information on how to access your new wallet, click [here][accessWallet].**
+## **Now that you have a wallet, read our article about [how to access your wallet][accessWallet].**
 
 [mewwallet]: /@@@@@@/mewwallet/mewwallet-user-guide/
 
