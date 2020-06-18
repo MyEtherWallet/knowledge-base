@@ -27,10 +27,10 @@ alias:
 ## **What can I do with MEW?**
 
 -   [Create](/@@@@@@/getting-started/how-to-create-a-wallet/) your own unique Ethereum wallet.
--   [Send](/@@@@@@/transactions/how-to-send-a-transaction/) and receive ETH and tokens.
--   [Access](/@@@@@@/getting-started/how-to-access-your-wallet/) a variety of wallet types, including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
+-   [Send and receive](/@@@@@@/transactions/how-to-send-a-transaction/) ETH and tokens.
+-   [Access a variety of wallet types](/@@@@@@/getting-started/how-to-access-your-wallet/), including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
 -   [Swap](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) a growing number of cryptocurrencies including ERC20 tokens, ETH, ETC, BTC, and more!
--   [Explore](/@@@@@@/dapps/using_makerdao/) our DApp store where you can earn on your deposits with Aave, open a vault with MakerDAO, or register and manage your ENS domains.
+-   [Explore our DApp store](/@@@@@@/dapps/using_makerdao/) where you can earn on your deposits with Aave, open a vault with MakerDAO, or register and manage your ENS domains.
 -   [Send offline](/@@@@@@/offline/using-mew-offline/) through the use of our Offline Helper.
 -   Deploy and interact with smart contracts.
 -   Access a wealth of educational material from our Knowledge Base.
