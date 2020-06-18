@@ -38,9 +38,9 @@ Be aware that when checking balances from different blockchains, like ETC, you w
 
 **Step 3.** You will be taken to a wallet overview.
 
--   At the top, you will see the checksummed version of your address. To learn about the difference between checksummed and non-checksummed addresses, click [here](/@@@@@@/common-issues/not-checksummed/).
+-   At the top, you will see the checksummed version of your address. Read our article about [the differences between checksummed and non-checksummed addresses](/@@@@@@/common-issues/not-checksummed/).
 -   In the ‘Overview’ section, you will see your ETH balance and value.
--   Under 'Token', you can find your Token Balances. When looking for custom token information, this is where you can select a specific token to find its contract address, decimal count, and symbol. To learn more about adding custom tokens to MEW, click [here](/@@@@@@/tokens/how-to-add-custom-token/).
+-   Under 'Token', you can find your Token Balances. When looking for custom token information, this is where you can select a specific token to find its contract address, decimal count, and symbol. Check out our guide to learn more about [adding custom tokens to MEW](/@@@@@@/tokens/how-to-add-custom-token/).
 -   The tabs at the bottom of the screen show the history of ETH, ERC20 token, and ERC721 token transactions.
 
 ## **Ethplorer**
@@ -51,7 +51,7 @@ Be aware that when checking balances from different blockchains, like ETC, you w
 
 **Step 3.** You will be taken to a wallet overview.
 
--   To the left, you will see the checksummed version of your address. To learn about the difference between checksummed and non-checksummed addresses, click [here](/@@@@@@/common-issues/not-checksummed/).
+-   To the left, you will see the checksummed version of your address. Read our article about [the differences between checksummed and non-checksummed addresses](/@@@@@@/common-issues/not-checksummed/).
 -   You can also find your ETH balance to the left, under ‘Address Information’.
--   To the right, you can find your Token Balances. When looking for custom token information, this is where you can select a specific token to find its contract address, decimal count, and symbol. To learn more about adding custom tokens to MEW, click [here](/@@@@@@/tokens/how-to-add-custom-token/).
+-   To the right, you can find your Token Balances. When looking for custom token information, this is where you can select a specific token to find its contract address, decimal count, and symbol. Check out our guide to learn more about [adding custom tokens to MEW](/@@@@@@/tokens/how-to-add-custom-token/).
 -   The bottom of the screen shows the history of ETH, ERC20 token, and ERC721 token transactions. You can apply filters if you want to see just ETH or tokens, using tick marks at the top.
