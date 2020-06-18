@@ -7,13 +7,13 @@ tags:
   - введение
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - get-started
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - ru/getting-started/getting-started-new.html
+  - getting-started/getting-started-new.html
 ---
 
 # **MyEtherWallet: введение**
@@ -27,10 +27,10 @@ alias:
 ## **Что я могу делать с MEW?**
 
 -   [Создать](/@@@@@@/getting-started/how-to-create-a-wallet/) свой уникальный кошелек Ethereum.
--   [Отправлять](/@@@@@@/transactions/how-to-send-a-transaction/) и получать ETH и токены.
--   [Получать доступ](/@@@@@@/getting-started/how-to-access-your-wallet/) к Ethereum посредством разных кошельков, включая наше приложение MEW wallet, расширения для браузера MEW CX и MetaMask, и партнерские аппаратные кошельки.
+-   [Send and receive](/@@@@@@/transactions/how-to-send-a-transaction/) ETH and tokens.
+-   [Access a variety of wallet types](/@@@@@@/getting-started/how-to-access-your-wallet/), including our MEW wallet mobile app, our browser extension MEW CX, the MetaMask Chrome extension, and partnering hardware wallets.
 -   [Обменивать](/@@@@@@/swap/swapping-via-kyber-bity-changelly/) растущий список криптовалют, включая ERC20 токены, ETH, ETC, BTC и многое другое!
--   [Попробовать приложения](/@@@@@@/dapps/using_makerdao/) в нашем магазине DApp, где вы можете зарабатывать на своих депозитах с помощью Aave, открыть хранилище с помощью MakerDAO, или регистрировать и управлять доменами ENS.
+-   [Explore our DApp store](/@@@@@@/dapps/using_makerdao/) where you can earn on your deposits with Aave, open a vault with MakerDAO, or register and manage your ENS domains.
 -   [Отправлять оффлайн](/@@@@@@/offline/using-mew-offline/) с помощью нашего Оффлайн помощника.
 -   Применять умные контракты (smart contracts) и взаимодействовать с ними.
 -   Пользоваться множеством образовательных материалов из нашей Базы знаний.
@@ -71,15 +71,15 @@ alias:
 
 -   Самый безопасный способ доступа к вашим средствам — это использование аппаратных кошельков, таких как [Ledger Nano S](https://www.ledger.com/?r=fa4b) или [Trezor](https://trezor.io/?offer_id=12&aff_id=2029). Если вы располагаете криптовалютами на более чем $200 в эквиваленте, то у вас мало причин не приобрести аппаратный кошелек.
 -   Скачайте наше мобильное приложение [MEW wallet](https://www.mewwallet.com/). Оно простое в использовании, быстрое и безопасное.
--   Читайте наш образовательный блог [MEWtopia]9] для последних новостей по MEW и Ethereum.
+-   Читайте свежие статьи о MEW и Ethereum на нашем образовательном блоге [MEWtopia](https://www.mewtopia.com/).
 -   Используя закрытый ключ, хранилище ключей/JSON-файл или мнемоническую фразу, хранить их следует только в физической форме на бумаге или же на автономных компьютерах. Эта информация чрезвычайно важна. И не забывайте делать резервные копии! Если вы потеряете эту информацию, она будет утрачена навсегда.
--   Переходя по URL-адресу, убедитесь, что он ведет на [www.myetherwallet.com.](http://www.myetherwallet.com.) Добавьте нас в закладки для использования в будущем!
+-   Всегда проверяйте URL-адрес, который вы используете, чтобы убедиться, что это [www.myetherwallet.com.](http://www.myetherwallet.com.) И добавьте нас в закладку для дальнейшего использования!
 -   Убедитесь, что в строке URL отображается защищённый замок слева. Если вы нажмете на него, вы увидите "Сертификат (Valid) выдан: MyEtherWallet Inc [US]".
 -   Установите [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn), [PhishFort](https://chrome.google.com/webstore/detail/phishfort-protect/bdiohckpogchppdldbckcdjlklanhkfc)или [Cryptonite](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) для блокировки вредоносных веб-сайтов.
 -   Не доверяйте случайным сообщениям от ‘нашей команды’. У нас нет ваших данных, и, вероятно, вас пытаются обмануть. Мы никогда не отправляем писем нашим пользователям первыми.
 -   Установите [AdBlocker](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) и не нажимайте на рекламу в своей поисковой системе.
 -   [Проведите собственное исследование!](http://google.com) Если что-то показалось вам подозрительным, об этом, вероятно, уже говорили в сообществе.
--   Если у вас появились дополнительные вопросы или проблемы, обратитесь к нам! Наша служба поддержки всегда рада помочь. С нами можно связаться по адресу [support@myetherwallet.com](mailto:support@myetherwallet.com)
+-   Если у вас появились дополнительные вопросы или проблемы, обратитесь к нам! Наша служба поддержки всегда рада помочь. Вы можете связаться с нами на [support@myetherwallet.com](mailto:support@myetherwallet.com)
 
 <br>
 

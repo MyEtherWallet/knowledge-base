@@ -14,7 +14,7 @@ categories:
 primary_category: token
 primary_category_display_name: "Tokens"
 alias:
-  - zh/send/adding-new-token-and-sending-custom-tokens.html
+  - en/send/adding-new-token-and-sending-custom-tokens.html
 ---
 
 # **How to Add a Custom Token**

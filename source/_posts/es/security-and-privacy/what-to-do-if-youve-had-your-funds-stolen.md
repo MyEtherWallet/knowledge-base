@@ -11,7 +11,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
-  - es/security/what-to-do-if-youve-had-your-funds-stolen.html
+  - en/security/what-to-do-if-youve-had-your-funds-stolen.html
 ---
 
 # **What to Do if You’ve Had Your Funds Stolen**
@@ -52,7 +52,7 @@ When it comes to crypto, there is no such thing as being too educated. This is a
 
 To avoid these scams, we need to know they’re happening. Take screenshots and write down what happened, while it’s still fresh.
 
--   Send us the information! We cannot recover stolen funds, but we can help warn others. We’re always available at [support@myetherwallet.com](mailto:support@myetherwallet.com).
+-   Send us the information! We cannot recover stolen funds, but we can help warn others. We’re always available at [support@myetherwallet.com.](mailto:support@myetherwallet.com.)
     -   To make the process easier, make sure to include all relevant addresses, transaction hashes, screenshots, and details about how it happened.
 -   Let people know on Twitter, Reddit, [Etherscan](https://etherscan.io), etc. Blow up those comments. Let your voice be heard
 

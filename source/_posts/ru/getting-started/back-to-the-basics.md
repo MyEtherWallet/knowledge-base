@@ -13,7 +13,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - ru/getting-started/getting-back-to-basics-tips-for-newbies.html
+  - getting-started/getting-back-to-basics-tips-for-newbies.html
 ---
 
 # **Вернемся к основам: 10 советов новичкам**
@@ -32,12 +32,12 @@ alias:
 ## **2. Используйте проверенную суммированием (checksummed) версию вашего адреса.**
 
 -   Это версия вашего адреса, которая включает как прописные, так и строчные буквы.
--   Для получения более подробной информации о checksummed адресах нажмите [сюда](/@@@@@@/common-issues/not-checksummed/).
+-   Check out our article for more information on [checksummed addresses](/@@@@@@/common-issues/not-checksummed/).
 
 ## **3. В качестве проверки сначала отправьте маленькую сумму.**
 
 -   Мы не можем отменить транзакции, возвратить их, или возместить средства. Убедитесь, что досконально понимаете процесс!
--   Узнайте больше об операциях по отправке [здесь](/@@@@@@/transactions/how-to-send-a-transaction/).
+-   Read our user-guide all about [sending transactions](/@@@@@@/transactions/how-to-send-a-transaction/).
 
 ## **4. Храните данные вне компьютера.**
 
@@ -74,4 +74,4 @@ alias:
 
 -   Это все еще совсем новая область, но ее поддерживает сильное сообщество.
 -   На таких социальных платформах, как [Reddit](https://www.reddit.com/r/MyEtherWallet/) и [Twitter](https://twitter.com/myetherwallet), есть множество реальных людей, включая нас, которые живут и дышат криптовалютами!
--   Если вы запутаетесь или вас будет что-то беспокоить, вы можете связаться с нашей службой поддержки напрямую. Связаться с нами можно, написав на [support@myetherwallet.com](mailto:support@myetherwallet.com).
+-   Если вы запутаетесь или вас будет что-то беспокоить, вы можете связаться с нашей службой поддержки напрямую. Вы можете связаться с нами на [support@myetherwallet.com](mailto:support@myetherwallet.com).

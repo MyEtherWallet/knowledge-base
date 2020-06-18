@@ -10,7 +10,7 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-  - ru/mewconnect/mew-connect-user-guide.html
+  - mewconnect/mew-connect-user-guide.html
 ---
 
 # **Руководство пользователя MEWconnect**
@@ -19,11 +19,13 @@ alias:
 
 * * *
 
-Официальное полнофункциональное мобильное приложение MEW wallet теперь доступно! [Скачайте сейчас](/@@@@@@/mewwallet/mewwallet-user-guide/) для iOS или Android и переместите свой кошелек MEWconnect бесплатно!
+## **Официальное полнофункциональное мобильное приложение MEW wallet теперь доступно!**
+
+#### **[Скачайте сейчас](/@@@@@@/mewwallet/mewwallet-user-guide/) для iOS или Android и переместите свой кошелек MEWconnect бесплатно!**
 
 <img class="image-right" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%" />
 
-## **1. Создание кошелька**
+## **1. Создать кошелек**
 
 **Шаг 1.** Откройте ваше приложение MEWconnect.
 
@@ -58,7 +60,7 @@ alias:
 
 **Шаг 6.** Пройдите тест на проверку seed-слов.
 
-Все готово! Резервные копии сделаны, вы можете подключиться к MEW
+Все готово! Резервнaя копия сделана, вы можете подключиться к MEW
 <br />
 
 <img class="image-right" src="/images/posts/mewconnect/ScanQRMC.jpg" align="right" width="30%" />
@@ -105,7 +107,7 @@ alias:
 
 **Шаг 1.**  Где можно увидеть токены.
 
-Их можно найти внизу экрана кошелька. MEWconnect поддерживает только стандартный список токенов, представленный на MyEtherWallet по умолчанию.
+Их можно найти внизу экрана кошелька. MEWconnect поддерживает только стандартный список токенов, представленный на MyEtherWallet.
 
 **Шаг 2.** Как связаться с нами.
 
@@ -113,7 +115,7 @@ alias:
 
 **Шаг 3.** Как купить ETH.
 
-Вы можете приобрести ETH в приложении MEWconnect, нажав на верхнюю правую кнопку ‘Купить Ether’.
+Вы можете приобрести ETH в приложении MEWconnect, нажав на верхнюю правую кнопку ‘Купить Ether’ (Buy Ether).
 
 **Шаг 4.** Как поделиться своим адресом.
 
@@ -122,4 +124,4 @@ alias:
 
 * * *
 
-#### Чтобы скачать приложение MEWconnect, перейдите на [mewconnect.myetherwallet.com](https://mewconnect.myetherwallet.com/).
+## Чтобы скачать приложение MEWconnect, перейдите на [mewconnect.myetherwallet.com](https://mewconnect.myetherwallet.com/).

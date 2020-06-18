@@ -37,5 +37,5 @@ primary_category_display_name: "Обмен"
 Если у вас возникли проблемы с обменом, обратитесь в службу поддержки соответствующей биржи. Вот их адреса электронной почты:
 
 -   Bity — Их справочный центр интегрирован в их сайт.
--   Kyber Network — [support@kyber.network](mailto:support@kyber.network)
--   Changelly — [support@changelly.com](mailto:support@changelly.com)
+-   Киберсеть - [support@kyber.network](mailto:support@kyber.network)
+-   Изменено - [support@changelly.com](mailto:support@changelly.com)

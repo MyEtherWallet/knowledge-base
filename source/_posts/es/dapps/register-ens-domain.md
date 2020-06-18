@@ -1,5 +1,5 @@
 ---
-title: "ENS: Registering a Domain"
+title: "Register and Manage .eth Domains with ENS"
 date: 2018-06-01 00:02:00
 tags:
   - ens
@@ -13,9 +13,9 @@ primary_category: dapps
 primary_category_display_name: "Dapps"
 ---
 
-# **ENS: Registering a Domain**
+# **Register and Manage .eth Domains with ENS**
 
-###### {% read_time title "ENS: Registering a Domain" %} min read
+###### {% read_time title "Register and Manage .eth Domains with ENS" %} min read
 
 * * *
 
@@ -27,7 +27,7 @@ An easy example of this is our MEW donation address:
 
 Normal donation address: `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D`
 
-ENS donation address: `mewtopia.eth`
+.eth donation address: `mewtopia.eth`
 
 Both of these addresses lead to the same wallet destination, but the ENS domain is much more convenient.
 
@@ -112,7 +112,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 * * *
 
-###### If you've previously won an auction for your domain and haven't touched it since, you need to migrate it to the new registrar.
+###### Si previamente ha ganado una subasta para su dominio y no la ha tocado desde entonces, necesitará migrarla a un nuevo registro.
 
 ## **Migrating to the New Registrar**
 

@@ -11,7 +11,7 @@ categories:
 primary_category: hardware-wallets
 primary_category_display_name: "Hardware Wallets"
 alias:
-  - ko/migration/moving-from-private-key-to-ledger-hardware-wallet.html
+  - en/migration/moving-from-private-key-to-ledger-hardware-wallet.html
 ---
 
 # **Using a Ledger Hardware Wallet with MEW**

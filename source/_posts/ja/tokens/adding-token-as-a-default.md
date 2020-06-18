@@ -13,7 +13,7 @@ categories:
 primary_category: token
 primary_category_display_name: "Tokens"
 alias:
-  - ja/tokens/token-creators-add-your-token-to-myetherwallet.html
+  - en/tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
 # **Adding Your Token as a Default Token**
@@ -53,11 +53,11 @@ If you have a token that a lot of other people also have, or will have in the co
 
     {
     "symbol": "",
-
+    
     "name": "",
-
+    
     "type": "ERC20",
-
+    
     "address": "",
     "ens_address": "",
     "decimals": ,

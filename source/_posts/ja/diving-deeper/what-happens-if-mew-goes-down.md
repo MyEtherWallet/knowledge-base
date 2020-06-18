@@ -14,7 +14,7 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
-  - ja/faq/what-happens-if-myetherwallet-goes-down.html
+  - en/faq/what-happens-if-myetherwallet-goes-down.html
 ---
 
 # **What Happens if MEW Goes Down?**

@@ -15,7 +15,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
-  - ko/addresses/creating-new-accounts-for-eth-and-tokens.html
+  - en/addresses/creating-new-accounts-for-eth-and-tokens.html
 ---
 
 # **Should I Keep My ETH and ERC20 Tokens on Multiple Addresses?**

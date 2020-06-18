@@ -11,7 +11,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
-  - ko/addresses/what-does-checksummed-mean.html
+  - en/addresses/what-does-checksummed-mean.html
 ---
 
 # **Error: Not Checksummed**

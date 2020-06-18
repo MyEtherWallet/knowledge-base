@@ -10,7 +10,7 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-  - ko/mewconnect/mew-connect-user-guide.html
+  - en/mewconnect/mew-connect-user-guide.html
 ---
 
 # **MEWconnect User Guide**
@@ -19,7 +19,9 @@ alias:
 
 * * *
 
-MEW's official fully-fledged mobile app MEW wallet is available! [Download it now](/@@@@@@/mewwallet/mewwallet-user-guide/) for iOS or Android and migrate your wallet for free!
+## **MEW's official fully-fledged mobile app MEW wallet is available!**
+
+#### **[Download it now](/@@@@@@/mewwallet/mewwallet-user-guide/) for iOS or Android and migrate your wallet for free!**
 
 <img class="image-right" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%" />
 
@@ -122,4 +124,4 @@ You can share your address with anyone you’d like by clicking the arrow button
 
 * * *
 
-#### To download the MEWconnect app, visit [mewconnect.myetherwallet.com](https://mewconnect.myetherwallet.com/).
+## To download the MEWconnect app, visit [mewconnect.myetherwallet.com](https://mewconnect.myetherwallet.com/).

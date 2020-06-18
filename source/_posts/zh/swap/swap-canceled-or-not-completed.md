@@ -11,7 +11,7 @@ categories:
 primary_category: swap
 primary_category_display_name: "Swap"
 alias:
-  - zh/swap/swap-wasnt-completed-or-was-canceled.html
+  - en/swap/swap-wasnt-completed-or-was-canceled.html
 ---
 
 # **Swap Was Canceled or Wasn’t Completed**

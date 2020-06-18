@@ -38,7 +38,7 @@ Without further ado, let’s begin!
 
 -   If you don't see it, try restarting the device, the app, or turning your bluetooth on and off again.
 
-**Step 3.** Enter the pin you see on your CoolWallet device into the app, then press the button on your device. This will complete the pairing process. After you're done, you can click 'Create' to create your wallet.
+**Step 3.** Enter the pin you see on your CoolWallet device into the app, then press the button on your device. Esto completará el proceso de pareo. After you're done, you can click 'Create' to create your wallet.
 
 **Step 4.** This is one of the most important steps. To recover your device in the future, you will need this recovery phrase. The app lets you select a length of phrase, this is your choice. Do not write this recovery phrase down on your computer, do not take a picture of the phrase. Make sure you write down your recovery phrase in multiple places. DO NOT LOSE IT. If you lose this phrase, you’ve lost all your cryptocurrency. We suggest using multiple pieces of paper to write this down. Again, do not write this phrase down on your computer. Use pen and paper.
 
@@ -56,7 +56,7 @@ Without further ado, let’s begin!
 
 **Step 2.** On MEW, select 'Access My Wallet' > 'Hardware' > 'CoolWallet'. It should ask for a pairing password.
 
--   Make sure the bluetooth on your computer is also turned on. You may need to manually pair it with your computer the first time you use it. This can be done with a pairing password generated from the CoolWallet device.
+-   Make sure the bluetooth on your computer is also turned on. You may need to manually pair it with your computer. This can be done with a pairing password generated from the CoolWallet device.
 
 **Step 3.** On your CoolWallet mobile app, select 'Show Pairing Password'. This will generate a password to pair with MEW. Type this password in then close your app before continuing. Once you're done, select 'Unlock CoolWallet'.
 

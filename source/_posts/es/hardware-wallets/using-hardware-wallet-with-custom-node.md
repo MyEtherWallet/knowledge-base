@@ -12,7 +12,7 @@ categories:
 primary_category: hardware-wallets
 primary_category_display_name: "Hardware Wallets"
 alias:
-  - es/networks/using-ethereum-hardware-wallet-with-custom-node.html
+  - en/networks/using-ethereum-hardware-wallet-with-custom-node.html
 ---
 
 # **Using a Hardware Wallet With a Custom Node**

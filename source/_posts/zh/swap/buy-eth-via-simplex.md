@@ -31,4 +31,4 @@ All you have to do is click 'Buy ETH' at the top of our interface.
 -   There is a `$50` minimum and a `$10k` maximum for first purchases.
 -   Simplex has a daily limit of `$20k`, with a monthly limit of `$50k`.
 
-If you are having issues with your purchase, Simplex can be reached at [support@simplex.com](mailto:support@simplex.com).
+If you are having issues with your purchase, Simplex can be reached at [support@simplex.com.](mailto:support@simplex.com.)
