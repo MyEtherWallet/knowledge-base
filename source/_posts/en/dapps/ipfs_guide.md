@@ -58,7 +58,7 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/ensprocessing.png" width="80%">
 
-**Step 8.** You're done! Your website is now viewable by typing your .eth domain into the Opera Browser, or by adding .link to the end of it on your normal browser (i.e. myfavoritewallet.eth.link).
+**Step 8.** You're done! Your website is now viewable by using your .eth domain name with MetaMask or the Unstoppable Domains browser extension, or by adding .link to the end of it on your normal browser (i.e. myfavoritewallet.eth.link).
 
 * * *
 
@@ -93,7 +93,7 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/processing.png" width="80%">
 
-**Step 8.** You're done! Your website is now viewable by typing your .crypto domain into the Unstoppable Domain Browser, or by using the Opera browser.
+**Step 8.** You're done! Your website is now viewable by typing your .crypto domain into the Unstoppable Domain Browser, using it with the Unstoppable Domains Browser extension, or by using the Opera browser.
 
 [ens]: /@@@@@@/dapps/register-ens-domain/
 
