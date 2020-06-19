@@ -89,7 +89,7 @@ alias:
 
 -   The colorful blob of colors that corresponds to your address.
 -   It is an easy way to see if your address is correct.
--   [Indenticon Example 1](http://i.imgur.com/lHUrIiZ.jpg)
+-   [Identicon Example 1](http://i.imgur.com/lHUrIiZ.jpg)
 -   [Identicon Example 2](http://i.imgur.com/FvyLewS.jpg)
 -   Note: The above addresses are a single character different but have remarkably different icons & colors. Even one difference in character will result in a completely separate wallet.
 
