@@ -34,13 +34,13 @@ alias:
 
 #### **Это лучший вариант для обеспечения защиты и надежного хранения вашей информации. Исследуйте Ethereum со своего мобильного устройства.**
 
-Read our guide to learn more about [creating your wallet with MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/).
+Прочтите наше руководство, чтобы узнать больше о [создании кошелька с MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/).
 
 ## **MEW CX** - Расширение MEW для браузера
 
 #### **Доступ ко всем функциям MEW через расширение. Подключитесь к вашим любимым DApps и воспользуйтесь функцией QuickSend.**
 
-Read our guide to learn more about [creating your wallet with MEW CX](/@@@@@@/getting-started/using-mewcx/).
+Прочтите наше руководство, чтобы узнать больше о [создании вашего кошелька с MEW CX](/@@@@@@/getting-started/using-mewcx/).
 
 ##### \_\_
 
@@ -61,7 +61,7 @@ Read our guide to learn more about [creating your wallet with MEW CX](/@@@@@@/ge
 
 ## **Хранилище ключей / JSON**
 
-#### **Check out our guide to [learn more about keystore/json files](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).**
+#### **Ознакомьтесь с нашей статьей чтобы [узнать больше о файлах keystore/json](/@@@@@@/security-and-privacy/what-is-a-keystore-file/).**
 
 **Шаг 1.** Перейдите на [www.myetherwallet.com.](http://www.myetherwallet.com).
 
@@ -81,7 +81,7 @@ Read our guide to learn more about [creating your wallet with MEW CX](/@@@@@@/ge
 
 ## **Мнемоническая фраза**
 
-#### **Check out our guide to [learn more about Mnemonic Phrases](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/).**
+#### **Посмотрите наше руководство чтобы узнать больше о [мнемонических фразах](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/).**
 
 **Шаг 1.** Перейдите на [www.myetherwallet.com.](http://www.myetherwallet.com).
 
@@ -101,4 +101,4 @@ Read our guide to learn more about [creating your wallet with MEW CX](/@@@@@@/ge
 
 ##### \_\_
 
-## **Now that you have a wallet, read our article about [how to access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).**
+## **Теперь, когда у вас есть кошелек, прочитайте нашу статью о том [как получить доступ к вашему кошельку](/@@@@@@/getting-started/how-to-access-your-wallet/).**
