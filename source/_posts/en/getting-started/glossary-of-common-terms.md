@@ -94,7 +94,7 @@ alias:
 
 -   The colorful blob of colors that corresponds to your address.
 -   It is an easy way to see if your address is correct.
--   [Indenticon Example 1][example1]
+-   [Identicon Example 1][example1]
 -   [Identicon Example 2][example2]
 -   Note: The above addresses are a single character different but have remarkably different icons & colors. Even one difference in character will result in a completely separate wallet.
 
