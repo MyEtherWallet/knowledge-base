@@ -32,12 +32,12 @@ alias:
 ## **2. Используйте проверенную суммированием (checksummed) версию вашего адреса.**
 
 -   Это версия вашего адреса, которая включает как прописные, так и строчные буквы.
--   Check out our article for more information on [checksummed addresses](/@@@@@@/common-issues/not-checksummed/).
+-   Ознакомьтесь с нашей статьей для получения дополнительной информации о [адресах checksummed](/@@@@@@/common-issues/not-checksummed/).
 
 ## **3. В качестве проверки сначала отправьте маленькую сумму.**
 
 -   Мы не можем отменить транзакции, возвратить их, или возместить средства. Убедитесь, что досконально понимаете процесс!
--   Read our user-guide all about [sending transactions](/@@@@@@/transactions/how-to-send-a-transaction/).
+-   Прочтите наше руководство пользователя об [отправке транзакций](/@@@@@@/transactions/how-to-send-a-transaction/).
 
 ## **4. Храните данные вне компьютера.**
 

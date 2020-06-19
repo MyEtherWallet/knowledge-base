@@ -59,7 +59,7 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/ensprocessing.png" width="80%" />
 
-**Шаг 8.** Готово! Теперь ваш сайт доступен для просмотра, либо набрав его в браузере Opera или добавляя к нему .link в любом браузере (т.е. myfavoritewallet.eth.link).
+**Шаг 8.** Готово! Теперь ваш сайт .eth доступен для просмотра с помощью расширений MetaMask и Unstoppable Domains для Chrome, либо добавляя к нему .link в любом браузере (т.е. myfavoritewallet.eth.link).
 
 * * *
 
@@ -94,7 +94,7 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/processing.png" width="80%" />
 
-**Шаг 8.** Готово! Теперь ваш сайт доступен для просмотра, используя браузер Opera или браузер Unstoppable Domains.
+**Шаг 8.** Готово! Ваш сайт теперь доступен для просмотра, набрав домен .crypto в браузере Unstoppable Domains, браузере Opera, или с расширением Unstoppable Domains для Chrome.
 
 [ens]: /@@@@@@/dapps/register-ens-domain/
 
