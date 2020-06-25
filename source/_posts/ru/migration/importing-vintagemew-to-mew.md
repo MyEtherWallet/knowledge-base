@@ -12,7 +12,7 @@ categories:
 primary_category: migration
 primary_category_display_name: "Переход с и на MEW"
 alias:
-  - ru/migration/importing-vintagemew-to-mew.html
+  - migration/importing-vintagemew-to-mew.html
 ---
 
 # **Миграция с Vintage MEW -> MEW**
