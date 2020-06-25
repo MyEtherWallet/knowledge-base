@@ -25,10 +25,10 @@ alias:
 -   [Alchemy](https://docs.alchemyapi.io/)
 -   [Rivet](https://rivet.cloud/)
 
-Наша внутренняя инфраструктура работает на AWS. На самом деле вы можете сделать это сами и управлять собственным публичным или закрытым узлом с помощью [этих инструкций](https://github.com/MyEtherWallet/docker-geth-lb).
+Наша внутренняя инфраструктура работает на AWS. You can actually do it yourself and [run your own public or private node](https://github.com/MyEtherWallet/docker-geth-lb).
 
 Либо вы можете за небольшую плату использовать [QuikNode](https://quiknode.io/), что еще больше упростит процесс.
 
-В обоих случаях вы можете подключиться к своему новому узлу с помощью опции "Добавить пользовательский узел" при выборе сети в правом верхнем углу. Устранение неполадок при подключении к вашему узлу можно найти [здесь](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/).
+For both of these options, you could also connect to your own node via the 'Add Custom Node' option in the network selector in the top-right corner. For more information, read our article on [troubleshooting custom node issues](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/).
 
 Либо используйте наш API напрямую (смотрите документацию в API выше).
