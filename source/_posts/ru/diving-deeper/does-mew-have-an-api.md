@@ -29,6 +29,6 @@ alias:
 
 Либо вы можете за небольшую плату использовать [QuikNode](https://quiknode.io/), что еще больше упростит процесс.
 
-For both of these options, you could also connect to your own node via the 'Add Custom Node' option in the network selector in the top-right corner. For more information, read our article on [troubleshooting custom node issues](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/).
+В обоих случаях вы можете подключиться к своему новому узлу с помощью опции "Добавить кастомный узел" при выборе сети в правом верхнем углу. Для дополнительной информации обратитесь к нашей статье о [устранении неполадок кастомных узлов](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/).
 
 Либо используйте наш API напрямую (смотрите документацию в API выше).
