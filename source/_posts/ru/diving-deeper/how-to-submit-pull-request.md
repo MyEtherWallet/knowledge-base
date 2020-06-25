@@ -11,7 +11,7 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - ru/diving-deeper/how-to-submit-pull-request.html
+  - diving-deeper/how-to-submit-pull-request.html
 ---
 
 # **Как отправить запрос на включение изменений**
