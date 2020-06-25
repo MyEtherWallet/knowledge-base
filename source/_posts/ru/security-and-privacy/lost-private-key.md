@@ -11,7 +11,7 @@ categories:
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
-  - ru/private-keys-passwords/lost-eth-private-key.html
+  - private-keys-passwords/lost-eth-private-key.html
 ---
 
 # **Утрата закрытого ключа**
@@ -40,6 +40,6 @@ MyEtherWallet не управляет личными данными учетны
 -   Если вы знаете, когда создали его, просмотрите все файлы за этот период, обращая внимание на документы и снимки экрана.
 -   Создайте новый кошелек через наш интерфейс, обращая внимание на различные опции или возможные загрузки. Иногда повторение пройденных действий может помочь вспомнить.
 
-В будущем мы настоятельно рекомендуем вам использовать наше полнофункциональное мобильное приложение [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/) или приобрести [аппаратный кошелек](/@@@@@@/hardware-wallets/using-ledger-with-mew/) для повышенной безопасности. Если вам необходимо использовать закрытый ключ, распечатайте бумажный вариант вашего кошелька и храните его в нескольких местах, используя только с [ MEW оффлайн](/@@@@@@/offline/offline-mew-looks-weird/).
+In the future, we strongly recommend you use our fully fledged mobile app [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/), or [purchase a hardware wallet](/@@@@@@/hardware-wallets/using-ledger-with-mew/) for higher security. If you must use a private key, print out a paper version of your wallet, keep it in multiple physical locations, and only [use it with an offline version of MEW](/@@@@@@/offline/offline-mew-looks-weird/).
 
-Вы можете прочитать больше о том, как безопасно сделать резервную копию вашего кошелька [здесь](/@@@@@@/mewconnect/mewconnect-101-recover/).
+You can read more about [how to safely back up your wallet](/@@@@@@/mewconnect/mewconnect-101-recover/).
