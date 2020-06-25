@@ -40,9 +40,9 @@ Only users themselves can access and control their funds – this is the purpose
 -   If you know when you created it, look through all files during that time period for any documents or screenshots.
 -   Generate a new wallet via our interface and take a look at the different options you may have downloaded or saved. Sometimes backtracking can help jog your memory.
 
-In the future, we strongly recommend you use our fully fledged mobile app [MEW wallet][MEWwallet], or purchase [a hardware wallet][hardwareLedger] for higher security. If you must use a private key, print out a paper version of your wallet, keep it in multiple physical locations, and only use it with an [offline version of MEW][offlineMEW]. 
+In the future, we strongly recommend you use our fully fledged mobile app [MEW wallet][MEWwallet], or [purchase a hardware wallet][hardwareLedger] for higher security. If you must use a private key, print out a paper version of your wallet, keep it in multiple physical locations, and only [use it with an offline version of MEW][offlineMEW]. 
 
-You can read more about how to safely back up your wallet [here][backitup].
+You can read more about [how to safely back up your wallet][backitup].
 
 [MEWwallet]: /@@@@@@/mewwallet/mewwallet-user-guide/
 

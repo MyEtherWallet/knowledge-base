@@ -38,7 +38,7 @@ Error: Invalid JSON RPC response: ERROR: The request could not be satisfied. The
   at _combinedTickCallback (internal/process/next_tick.js:102:11)
 </div>
 
-(<a href="https://ethereum.stackexchange.com/questions/24737/myetherwallet-json-rpc-interface-ratelimiting/25113#25113">Source</a>)
+(<a href="https://ethereum.stackexchange.com/questions/24737/myetherwallet-json-rpc-interface-ratelimiting/25113#25113">Source for Rate-Limit Example</a>)
 
 MyEtherWallet, at the time of this writing, rate-limits at 400 requests per minute (or about 6 requests per second). This is in order to prevent DDOS's like we have seen before, or people using our nodes to excess.
 
