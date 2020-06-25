@@ -83,4 +83,4 @@ alias:
 
 <br>
 
-#### **Read more about security [here](/@@@@@@/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/).**
+#### **Check out our article detailing [pro-tips on how to avoid phishing](/@@@@@@/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/) to read more about security.**
