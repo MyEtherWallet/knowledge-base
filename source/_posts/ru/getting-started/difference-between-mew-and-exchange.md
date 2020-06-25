@@ -14,7 +14,7 @@ categories:
 primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
-  - ru/getting-started/whats-the-difference-between-an-exchange-and-myetherwallet.html
+  - getting-started/whats-the-difference-between-an-exchange-and-myetherwallet.html
 ---
 
 # **В чем разница между биржами (такими как Coinbase, Kraken, Gemini, Binance и т. п.) и MyEtherWallet?**
