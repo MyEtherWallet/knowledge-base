@@ -13,7 +13,7 @@ categories:
 primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
-  - ru/transactions/check-status-of-ethereum-transaction.html
+  - transactions/check-status-of-ethereum-transaction.html
 ---
 
 # **Проверка или замена транзакции после ее отправки**
