@@ -13,7 +13,7 @@ categories:
 primary_category: networks-and-nodes
 primary_category_display_name: "Сети и узлы"
 alias:
-  - ru/networks/sent-etc-to-eth-address.html
+  - networks/sent-etc-to-eth-address.html
 ---
 
 # **Как изменить сеть (получение доступа к Ropsten, ETC и многим другим сетям).**
