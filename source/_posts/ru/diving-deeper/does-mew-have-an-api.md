@@ -25,7 +25,7 @@ alias:
 -   [Alchemy](https://docs.alchemyapi.io/)
 -   [Rivet](https://rivet.cloud/)
 
-Наша внутренняя инфраструктура работает на AWS. You can actually do it yourself and [run your own public or private node](https://github.com/MyEtherWallet/docker-geth-lb).
+Наша внутренняя инфраструктура работает на AWS. Вы можете сделать это самостоятельно и [запустить свой собственный публичный или частный узел](https://github.com/MyEtherWallet/docker-geth-lb).
 
 Либо вы можете за небольшую плату использовать [QuikNode](https://quiknode.io/), что еще больше упростит процесс.
 
