@@ -82,7 +82,7 @@ alias:
 
 <br>
 
-#### **Read more about security [here][15].**
+#### **Check out our article detailing [pro-tips on how to avoid phishing][15] to read more about security.**
 
 [1]: /@@@@@@/getting-started/how-to-create-a-wallet/
 

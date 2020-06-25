@@ -25,11 +25,11 @@ alias:
 -   [Alchemy][alchapi]
 -   [Rivet][rivetapi]
 
-Our backend infrastructure is on AWS. You can actually do it yourself and run your own public or private node via [these instructions][instructions]. 
+Our backend infrastructure is on AWS. You can actually do it yourself and [run your own public or private node][instructions]. 
 
 Or you could pay a small fee and use [QuikNode][quiknode], which makes it even easier.
 
-For both of these options, you could also connect to your new node via the 'Add Custom Node' option in the network selector in the top-right corner. Troubleshooting for connection to your own node can be found [here][ownNode].
+For both of these options, you could also connect to your own node via the 'Add Custom Node' option in the network selector in the top-right corner. For more information, read our article on [troubleshooting custom node issues][ownNode].
 
 Or use our API directly to it (see the docs in the above APIs).
 
