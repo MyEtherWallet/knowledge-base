@@ -8,13 +8,13 @@ tags:
   - вниз
 categories:
   - 
-    - faqs
+    - ЧЗВ
   - 
     - diving-deeper
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - ru/faq/interacting-with-ethereum-multisig-wallet.html
+  - faq/interacting-with-ethereum-multisig-wallet.html
 ---
 
 # **Как взаимодействовать с контрактом с мультиподписью?**
@@ -44,9 +44,9 @@ alias:
 
 **Шаг 6.** Если это контракт с мультиподписью и двумя владельцами, вам необходимо будет обновить эту страницу и выбрать"Подтвердить".
 
--   В шаге 5 вы открыли идентификатор транзакции из вызова 'Execute' ("Выполнить"). У вас должна открыться страница, подобная [этой](https://etherscan.io/tx/0x0c643a1ae66637217f24791df05071c7849941a1231cf9fa2a0daf145da833e3).
+-   В шаге 5 вы открыли идентификатор транзакции из вызова 'Execute' ("Выполнить"). Your page should look like [this example of a transaction hash](https://etherscan.io/tx/0x0c643a1ae66637217f24791df05071c7849941a1231cf9fa2a0daf145da833e3).
 -   Нажмите на вкладку 'Event Logs' ("Журналы событий").
--   Для справки по [этой](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog) ссылке (учтите, что это НЕ ВАША ссылка, а пример) значение `_h` было бы `9228aeaf3ed560274899483646ea4ce9b322bccffac60cac2d035d08752617f4`.
+-   For reference, in [this example of event logs](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog) (note this is not YOUR information, it’s an example), the `_h` value would be `9228aeaf3ed560274899483646ea4ce9b322bccffac60cac2d035d08752617f4`.
 -   Пройдите по ссылке над тем местом где показана эта строка, а затем сравните, чтобы найти, каково ВАШЕ значение `_h`. Оно будет отличаться от того, которое мы предложили в качестве примера.
 -   Вернитесь в MEW, где у вас открыта страница "Подтвердить", и вставьте вашу строку в поле `_h`.
 -   Нажмите «Написать» снова.
@@ -56,6 +56,6 @@ alias:
 
 **Шаг 8.** Если ваш контракт — это контракт с мультиподписью "3 из 5", вам нужно будет повторить подтверждение, описанное в шаге 6, несколько раз, пока не будет получено необходимое количество подписей. К счастью, значение `_h` будет одинаковым для всех.
 
-**Шаг 9.** Вы можете посмотреть еще одно подтверждение нашего предыдущего примера [здесь](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog).
+**Step 9.** You can [view another approval from our example](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog) of the event logs from before.
 
 **Шаг 10.** Вы можете повторять этот процесс каждый раз, когда хотите отправить ETH.
