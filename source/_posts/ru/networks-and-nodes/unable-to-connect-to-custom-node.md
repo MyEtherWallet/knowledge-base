@@ -12,7 +12,7 @@ categories:
 primary_category: networks-and-nodes
 primary_category_display_name: "Сети и узлы"
 alias:
-  - ru/networks/cant-connect-to-custom-node-on-myetherwallet.html
+  - networks/cant-connect-to-custom-node-on-myetherwallet.html
 ---
 
 # **Невозможно подключиться к кастомному узлу**
