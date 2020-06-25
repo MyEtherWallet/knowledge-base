@@ -11,7 +11,7 @@ categories:
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
-  - ru/diving-deeper/myetherapi-api-limits.html
+  - diving-deeper/myetherapi-api-limits.html
 ---
 
 # **Есть ли у API MEW лимит на количество возможных запросов?**
@@ -38,7 +38,7 @@ alias:
   at _combinedTickCallback (internal/process/next_tick.js:102:11)
 </div>
 
-(<a href="https://ethereum.stackexchange.com/questions/24737/myetherwallet-json-rpc-interface-ratelimiting/25113#25113">Источник</a>)
+(<a href="https://ethereum.stackexchange.com/questions/24737/myetherwallet-json-rpc-interface-ratelimiting/25113#25113">Source for Rate-Limit Example</a>)
 
 На момент написания данной статьи MyEtherWallet ограничивает количество запросов до 400 в минуту (то есть примерно 6 запросов в секунду). Это делается, чтобы предотвратить DDOS-атаки, которые случались раньше, и избежать злоупотребления нашими узлами.
 
