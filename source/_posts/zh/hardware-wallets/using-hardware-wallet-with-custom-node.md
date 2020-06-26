@@ -21,6 +21,4 @@ alias:
 
 * * *
 
-Benjaminion wrote up an excellent guide on how to achieve this.
-
-You can read it [here](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet).
+Benjaminion wrote up [an excellent guide](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet) on how to achieve this.
