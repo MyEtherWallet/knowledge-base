@@ -12,7 +12,7 @@ categories:
 primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
-  - ru/networks/using-ethereum-hardware-wallet-with-custom-node.html
+  - networks/using-ethereum-hardware-wallet-with-custom-node.html
 ---
 
 # **Использование аппаратного кошелька с кастомным узлом**
@@ -21,6 +21,4 @@ alias:
 
 * * *
 
-Benjaminion написал замечательное руководство о том, как это сделать.
-
-Его можно прочитать [здесь](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet).
+Benjaminion wrote up [an excellent guide](https://github.com/benjaminion/eth-parity-qnap/wiki/Connecting-to-MyEtherWallet) on how to achieve this.
