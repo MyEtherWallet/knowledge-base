@@ -38,7 +38,7 @@ alias:
   at _combinedTickCallback (internal/process/next_tick.js:102:11)
 </div>
 
-(<a href="https://ethereum.stackexchange.com/questions/24737/myetherwallet-json-rpc-interface-ratelimiting/25113#25113">Source for Rate-Limit Example</a>)
+(<a href="https://ethereum.stackexchange.com/questions/24737/myetherwallet-json-rpc-interface-ratelimiting/25113#25113">Источник примера Rate-Limit</a>)
 
 На момент написания данной статьи MyEtherWallet ограничивает количество запросов до 400 в минуту (то есть примерно 6 запросов в секунду). Это делается, чтобы предотвратить DDOS-атаки, которые случались раньше, и избежать злоупотребления нашими узлами.
 
