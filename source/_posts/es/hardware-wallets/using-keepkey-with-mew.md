@@ -18,7 +18,7 @@ primary_category_display_name: "Hardware Wallets"
 
 * * *
 
-KeepKey Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet/?source=hasoffers).
+KeepKey Hardware Wallets are leading wallets for their security and interface usability standards. If you don't have one, they are available for [purchase through their website](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet/?source=hasoffers).
 
 _Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure._
 
