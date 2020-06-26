@@ -40,6 +40,6 @@ MyEtherWallet не управляет личными данными учетны
 -   Если вы знаете, когда создали его, просмотрите все файлы за этот период, обращая внимание на документы и снимки экрана.
 -   Создайте новый кошелек через наш интерфейс, обращая внимание на различные опции или возможные загрузки. Иногда повторение пройденных действий может помочь вспомнить.
 
-В будущем мы настоятельно рекомендуем вам использовать наше полнофункциональное мобильное приложение [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/) или приобрести [аппаратный кошелек](/@@@@@@/hardware-wallets/using-ledger-with-mew/) для повышения безопасности. If you must use a private key, print out a paper version of your wallet, keep it in multiple physical locations, and only [use it with an offline version of MEW](/@@@@@@/offline/offline-mew-looks-weird/).
+В будущем мы настоятельно рекомендуем вам использовать наше полнофункциональное мобильное приложение [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/) или приобрести [аппаратный кошелек](/@@@@@@/hardware-wallets/using-ledger-with-mew/) для повышения безопасности. Если вы все таки хотите использовать закрытый ключ, распечатайте бумажную версию вашего кошелька, храните ключ в нескольких местах, и используйте его только [с оффлайн версией MEW](/@@@@@@/offline/offline-mew-looks-weird/).
 
-You can read more about [how to safely back up your wallet](/@@@@@@/mewconnect/mewconnect-101-recover/).
+Вы можете почитать больше о том [как безопасно создать резервную копию вашего кошелька](/@@@@@@/mewconnect/mewconnect-101-recover/).
