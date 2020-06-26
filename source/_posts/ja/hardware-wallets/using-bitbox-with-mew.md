@@ -18,7 +18,7 @@ primary_category_display_name: "Hardware Wallets"
 
 * * *
 
-Digital BitBox Hardware Wallets are leading wallets for their security and interface usability standards. They are available for purchase [here](https://shiftcrypto.ch/?ref=mew).
+Digital BitBox Hardware Wallets are leading wallets for their security and interface usability standards. If you don't have one, they are available for [purchase through their website](https://shiftcrypto.ch/?ref=mew).
 
 _Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure._
 
