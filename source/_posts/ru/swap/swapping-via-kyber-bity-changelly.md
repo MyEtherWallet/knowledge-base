@@ -1,5 +1,5 @@
 ---
-title: "Обмен ETH и токенов ERC20 через Kyber Network / Bity / Changelly"
+title: "Swapping ETH & ERC20 Tokens via DEX.AG and Changelly"
 date: 2018-06-01 00:03:00
 tags:
   - swap
@@ -16,13 +16,13 @@ primary_category: swap
 primary_category_display_name: "Обмен"
 ---
 
-# **Обмен ETH и токенов ERC20 через Kyber Network / Bity / Changelly**
+# **Swapping ETH & ERC20 Tokens via DEX.AG and Changelly**
 
-###### Время прочтения: {% read_time title "Обмен ETH и токенов ERC20 через Kyber Network / Bity / Changelly" %} мин.
+###### {% read_time title "Swapping ETH & ERC20 Tokens via DEX.AG and Changelly" %} min read
 
 * * *
 
-В MyEtherWallet (MEW), мы стремимся обеспечить пользователям бесперебойную работу с сервисом, который построен на основе безопасности. Поэтому мы сотрудничаем с несколькими биржами, например, Bity, Kyber Network и Changelly, чтобы предложить вам конкурентоспособные цены на обмен.
+В MyEtherWallet (MEW), мы стремимся обеспечить пользователям бесперебойную работу с сервисом, который построен на основе безопасности. This is why we’ve partnered with multiple exchanges, such as DEX.AG and Changelly, to bring you competitive price points for your swaps.
 
 Чтобы использовать нашу функцию обмена, вам сначала нужно [открыть свой кошелек](/@@@@@@/getting-started/how-to-access-your-wallet).
 
@@ -34,8 +34,4 @@ primary_category_display_name: "Обмен"
 
 У вас будет 10 минут, чтобы просмотреть всю свою информацию, подтвердить данные и отправить транзакцию.
 
-Если у вас возникли проблемы с обменом, обратитесь в службу поддержки соответствующей биржи. Вот их адреса электронной почты:
-
--   Bity — Их справочный центр интегрирован в их сайт.
--   Киберсеть - [support@kyber.network](mailto:support@kyber.network)
--   Изменено - [support@changelly.com](mailto:support@changelly.com)
+If you have issues with your swap, please reach out to the relevant exchange’s support team and our own, at [support@myetherwallet.com](mailto:support@myetherwallet.com).
