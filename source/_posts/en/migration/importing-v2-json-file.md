@@ -29,7 +29,7 @@ Download [the appropriate version of the geth][gethVersion] based on your operat
 
 Once you download it, extract the zip. Also copy your V2 JSON file into the same folder.
 
-There are really explicit instructions for PC and Mac users [here][explicitInstruction].
+There are [really explicit instructions][explicitInstruction] you can read for PC and Mac users.
 
 Now you have to open a command line window and type in the following command:
 

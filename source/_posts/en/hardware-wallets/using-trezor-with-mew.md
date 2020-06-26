@@ -20,7 +20,7 @@ alias:
 
 * * *
 
-Trezor Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. They are available for purchase [here](https://trezor.io/?offer_id=12&aff_id=2029).
+Trezor Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. If you don't have one, they are available for [purchase through their website](https://trezor.io/?offer_id=12&aff_id=2029).
 
 _Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure._
 
@@ -121,7 +121,7 @@ Please be advised ETH will be required for gas to move any tokens held in your o
 
 ## **How Do I Restore My Trezor to a New Device?**
 
-Trezor made a clear and easy to follow guide on how to restore your Trezor device [here][trezorSupport].
+Trezor made a [clear and easy to follow guide][trezorSupport] on how to restore your Trezor device.
 
 ## **Troubleshooting**
 

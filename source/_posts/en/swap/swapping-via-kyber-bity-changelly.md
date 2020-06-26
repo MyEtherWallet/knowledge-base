@@ -1,5 +1,5 @@
 ---
-title: "Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly"
+title: "Swapping ETH & ERC20 Tokens via DEX.AG and Changelly"
 
 date: 2018-06-01 00:03:00
 tags:
@@ -16,13 +16,13 @@ primary_category: swap
 primary_category_display_name: "Swap"
 ---
 
-# **Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly**
+# **Swapping ETH & ERC20 Tokens via DEX.AG and Changelly**
 
-###### {% read_time title "Swapping ETH & ERC20 Tokens via Kyber Network / Bity / Changelly" %} min read
+###### {% read_time title "Swapping ETH & ERC20 Tokens via DEX.AG and Changelly" %} min read
 
 * * *
 
-Here at MyEtherWallet (MEW), we’re all about fostering a seamless user experience, built on a foundation of security. This is why we’ve partnered with multiple exchanges, such as Bity, Kyber Network, and Changelly, to bring you competitive price points for your swaps.
+Here at MyEtherWallet (MEW), we’re all about fostering a seamless user experience, built on a foundation of security. This is why we’ve partnered with multiple exchanges, such as DEX.AG and Changelly, to bring you competitive price points for your swaps.
 
 To utilize our swap feature, first you must [access your wallet][accessMEW]. 
 
@@ -34,10 +34,6 @@ If all the information looks correct to you, simply enter the address you’d li
 
 A timer of 10 minutes will begin for you to review all your information, confirm the details, and send the transaction.
 
-If you have issues with your swap, please reach out to the relevant exchange’s support team. Their emails are as follows:
-
--   Bity - Their help center is integrated into their site.
--   Kyber Network - [support@kyber.network](mailto:support@kyber.network) 
--   Changelly - [support@changelly.com](mailto:support@changelly.com)
+If you have issues with your swap, please reach out to the relevant exchange’s support team and our own, at [support@myetherwallet.com](mailto:support@myetherwallet.com). 
 
 [accessMEW]: /@@@@@@/getting-started/how-to-access-your-wallet
