@@ -20,7 +20,7 @@ alias:
 
 * * *
 
-Ledger Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. They are available for purchase [here](https://www.ledger.com/?r=fa4b).
+Ledger Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. If you don't have one, they are available for [purchase through their website](https://www.ledger.com/?r=fa4b).
 
 _Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure._
 
@@ -84,7 +84,7 @@ Please be advised ETH will be required for gas to move any tokens held in your o
 
 ## **How Do I Restore My Ledger to a New Device?**
 
-Ledger made a clear and easy to follow guide on how to restore your Ledger device [here][ledgerSupport].
+Ledger made a [clear and easy to follow guide][ledgerSupport] on how to restore your Ledger device.
 
 ## **Troubleshooting**
 

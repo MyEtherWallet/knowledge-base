@@ -22,10 +22,4 @@ alias:
 
 Time-constricted transactions can be tough in times of high volume due to various factors, like the transaction queue, ongoing token sales, the current state of the network, etc.
 
-If you sent coins or tokens to the specified swap address, but have not received your funds in return, please reach out to both [support@myetherwallet.com](mailto:support@myetherwallet.com) and whichever exchange you completed the swap through. Their support emails are:
-
--   Bity - Their help center is integrated into their site.
-
--   Kyber Network - [support@kyber.network](mailto:support@kyber.network) 
-
--   Changelly - [support@changelly.com](mailto:support@changelly.com)
+If you sent coins or tokens to the specified swap address, but have not received your funds in return, please reach out to both [support@myetherwallet.com](mailto:support@myetherwallet.com) and the provider you made your swap through.

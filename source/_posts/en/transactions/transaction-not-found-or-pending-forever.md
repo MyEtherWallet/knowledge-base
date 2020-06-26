@@ -29,7 +29,7 @@ There is simply not enough space in the blocks for the miners to mine all the tr
 
 -   [Learn about transaction fees (gas)][whatsgas], and how to get your transaction to go through.
 -   Replace a pending transaction that you sent with too low gas.
--   See what the optimal gas price currently is [here][optimalGas].
+-   Use [EthGasStation][optimalGas] for accurate gas prices in real-time.
 -   [Learn about Nonce][whatsnonce], and how it controls which transactions are mined (or not).
 
 ## **Other Tips**

@@ -21,7 +21,7 @@ alias:
 
 * * *
 
-When accessing a hardware wallet, you're given the choice of which derivation path to use. Most of the time it's best to use the default path for familiarity, since each path leads to a different set of addresses. However, there are occassions where a different path is necessary. We've included the ability to add custom derivation paths so you can connect to whichever path you'd like. To read more about Derivation Paths, check out our article [here][paths].
+When accessing a hardware wallet, you're given the choice of which derivation path to use. Most of the time it's best to use the default path for familiarity, since each path leads to a different set of addresses. However, there are occassions where a different path is necessary. We've included the ability to add custom derivation paths so you can connect to whichever path you'd like. Check out our article to [read more about derivation paths][paths].
 
 **Step 1.** Head to the MEW homepage and select 'Access My Wallet', then choose 'Hardware Wallet'. 
 
