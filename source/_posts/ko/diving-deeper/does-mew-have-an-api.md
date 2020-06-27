@@ -25,10 +25,10 @@ alias:
 -   [Alchemy](https://docs.alchemyapi.io/)
 -   [Rivet](https://rivet.cloud/)
 
-Our backend infrastructure is on AWS. You can actually do it yourself and run your own public or private node via [these instructions](https://github.com/MyEtherWallet/docker-geth-lb).
+Our backend infrastructure is on AWS. You can actually do it yourself and [run your own public or private node](https://github.com/MyEtherWallet/docker-geth-lb).
 
 Or you could pay a small fee and use [QuikNode](https://quiknode.io/), which makes it even easier.
 
-For both of these options, you could also connect to your new node via the 'Add Custom Node' option in the network selector in the top-right corner. Troubleshooting for connection to your own node can be found [here](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/).
+For both of these options, you could also connect to your own node via the 'Add Custom Node' option in the network selector in the top-right corner. For more information, read our article on [troubleshooting custom node issues](/@@@@@@/networks-and-nodes/unable-to-connect-to-custom-node/).
 
 Or use our API directly to it (see the docs in the above APIs).

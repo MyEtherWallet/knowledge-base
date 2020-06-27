@@ -44,9 +44,9 @@ alias:
 
 **Step 6.** If it’s a multisig contract with two owners, you will need to refresh this page and choose ‘Confirm’.
 
--   In Step 5, you opened the Transaction ID from the ‘Execute’ call. You should have a page like [this](https://etherscan.io/tx/0x0c643a1ae66637217f24791df05071c7849941a1231cf9fa2a0daf145da833e3) open.
+-   In Step 5, you opened the Transaction ID from the ‘Execute’ call. Your page should look like [this example of a transaction hash](https://etherscan.io/tx/0x0c643a1ae66637217f24791df05071c7849941a1231cf9fa2a0daf145da833e3).
 -   Click the ‘Event Logs’ tab.
--   For reference, at [this](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog) link (note this is not YOUR link, it’s an example), the `_h` value would be `9228aeaf3ed560274899483646ea4ce9b322bccffac60cac2d035d08752617f4`.
+-   For reference, in [this example of event logs](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog) (note this is not YOUR information, it’s an example), the `_h` value would be `9228aeaf3ed560274899483646ea4ce9b322bccffac60cac2d035d08752617f4`.
 -   Check the link above where it says that string, and then compare it to find what YOUR `_h` value is. It will be different than what we provided as an example.
 -   Go back to MEW, where you have the ‘Confirm’ page open, and paste your string into the `_h` field.
 -   Click ‘Write’ again.
@@ -56,6 +56,6 @@ alias:
 
 **Step 8.** If your multisig is a 3 of 5 multisig, you will repeat the confirm process outlined in Step 6 until it reaches the necessary approvals. Luckily, the `_h` value will remain the same for each of them.
 
-**Step 9.** You can view another approval for our previous example [here](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog).
+**Step 9.** You can [view another approval from our example](https://etherscan.io/tx/0x47e4cc8748e296d9b5d85ebd9bd705177bb1940517b084a2efcca11feeb2391d#eventlog) of the event logs from before.
 
 **Step 10.** Feel free to repeat this process whenever you want to send ETH.

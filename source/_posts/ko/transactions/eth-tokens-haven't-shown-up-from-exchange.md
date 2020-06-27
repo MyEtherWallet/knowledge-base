@@ -26,9 +26,9 @@ alias:
 
 If you’re missing funds, you should first confirm that the transaction was broadcast successfully. If you have your transaction hash, plug it into the search bar at [Etherscan.io](https://etherscan.io).
 
-A successful transaction will look like [this](https://etherscan.io/tx/0xcde5a30a1a1514919e9c357d4e89211701aa22a741936ad9516c2987d8b097c9).
+Example: [A successful transaction](https://etherscan.io/tx/0xcde5a30a1a1514919e9c357d4e89211701aa22a741936ad9516c2987d8b097c9).
 
-An unsuccessful transaction will look like [this](https://etherscan.io/tx/0xf9c8514fad47eb54a414930563aabfeceb465c9f308f5f294a37edd0d669243c).
+Example [An unsuccessful transaction](https://etherscan.io/tx/0xf9c8514fad47eb54a414930563aabfeceb465c9f308f5f294a37edd0d669243c).
 
 The lack of any red symbols or errors means that your transaction was successful! You can click on the ‘To:’ address on this transaction overview to redirect yourself to the funds destination. Make sure you double check the address to confirm it was 100% the same address you meant to send to. Even one wrong character will mean your funds were sent to another wallet’s address.
 

@@ -12,7 +12,7 @@ categories:
 primary_category: migration
 primary_category_display_name: "Переход с и на MEW"
 alias:
-  - ru/migration/importing-v2-json-wallet-file-myetherwallet.html
+  - migration/importing-v2-json-wallet-file-myetherwallet.html
 ---
 
 # **Импорт файла V2 JSON**
@@ -29,7 +29,7 @@ alias:
 
 Распакуйте zip-архив, когда загрузка будет завершена. Скопируйте файл V2 JSON в ту же папку.
 
-Точные инструкции для пользователей ПК и Mac можно найти [здесь](https://ethereum.stackexchange.com/questions/465/How-to-import-a-plain-private-key-into-geth-or-mist).
+There are [really explicit instructions](https://ethereum.stackexchange.com/questions/465/How-to-import-a-plain-private-key-into-geth-or-mist) you can read for PC and Mac users.
 
 Теперь вам нужно открыть командную строку и ввести следующую команду:
 
