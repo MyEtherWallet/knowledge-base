@@ -12,8 +12,10 @@
     "dev": "hexo generate -w",
     "serve": "hexo server -s",
     "start": "hexo server",
+    "review": "hexo clean && npm run build && npm run serve",
     "lint:md": "remark . -o -f",
     "hexoDeploy": "cross-env NODE_OPTIONS=\"--max_old_space_size=4096\" hexo deploy",
+    "mergeTranslations": "git fetch origin && git merge origin/l10n_master",
     "deploy": "npm run build && hexo clean && npm run hexoDeploy",
     "update:packages": "node package-test.js"
   },
