@@ -21,7 +21,7 @@ alias:
 
 MyEtherWallet (MEW) makes it easy for you to send a transaction. All you need is a wallet, the Ethereum address you’d like to send funds to, and a little ETH for gas.
 
-**All transactions require ETH for gas. We suggest having at least .01 ETH for 2 - 3 transactions. Read more about gas [here](/@@@@@@/transactions/what-is-gas/).**
+**All transactions require ETH for gas. We suggest having at least .01 ETH for 2 - 3 transactions. Check out our article to [learn more about gas](/@@@@@@/transactions/what-is-gas/).**
 
 If you plan to move large amounts of ETH or ERC20 tokens, we suggest sending a small amount first to make sure everything goes as planned.
 

@@ -29,7 +29,7 @@ Download [the appropriate version of the geth](https://github.com/ethereum/go-et
 
 Once you download it, extract the zip. Also copy your V2 JSON file into the same folder.
 
-There are really explicit instructions for PC and Mac users [here](https://ethereum.stackexchange.com/questions/465/How-to-import-a-plain-private-key-into-geth-or-mist).
+There are [really explicit instructions](https://ethereum.stackexchange.com/questions/465/How-to-import-a-plain-private-key-into-geth-or-mist) you can read for PC and Mac users.
 
 Now you have to open a command line window and type in the following command:
 
