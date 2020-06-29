@@ -18,7 +18,7 @@ primary_category_display_name: "Аппаратные кошельки"
 
 * * *
 
-Аппаратные кошельки KeepKey являются ведущими решениями по соответствию стандартам безопасности и удобству использования. If you don't have one, they are available for [purchase through their website](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet/?source=hasoffers).
+Аппаратные кошельки KeepKey являются ведущими решениями по соответствию стандартам безопасности и удобству использования. Если у вас нет такого кошелька, они доступны для покупки [через веб-сайт компании](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet/?source=hasoffers).
 
 _Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности._
 
