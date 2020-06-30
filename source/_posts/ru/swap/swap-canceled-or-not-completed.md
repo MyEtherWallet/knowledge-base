@@ -22,4 +22,4 @@ alias:
 
 В периоды активных торгов, провести ограниченные по времени транзакции может быть непросто из-за различных факторов, таких как: очереди транзакций, текущих продаж токенов, текущего состояния сети и т. д.
 
-If you sent coins or tokens to the specified swap address, but have not received your funds in return, please reach out to both [support@myetherwallet.com](mailto:support@myetherwallet.com) and the provider you made your swap through.
+Если вы отправили монеты или токены на указанный адрес обмена, но не получили свои средства, пожалуйста, напишите на [support@myetherwallet.com](mailto:support@myetherwallet.com) и на адрес поддержки биржи, где вы осуществили обмен.
