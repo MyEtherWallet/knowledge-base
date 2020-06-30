@@ -29,7 +29,7 @@ alias:
 
 Распакуйте zip-архив, когда загрузка будет завершена. Скопируйте файл V2 JSON в ту же папку.
 
-There are [really explicit instructions](https://ethereum.stackexchange.com/questions/465/How-to-import-a-plain-private-key-into-geth-or-mist) you can read for PC and Mac users.
+Существуют [довольно подробные инструкции](https://ethereum.stackexchange.com/questions/465/How-to-import-a-plain-private-key-into-geth-or-mist) для пользователей ПК и Mac.
 
 Теперь вам нужно открыть командную строку и ввести следующую команду:
 
