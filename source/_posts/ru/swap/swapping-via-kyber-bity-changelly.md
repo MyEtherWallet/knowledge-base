@@ -1,5 +1,5 @@
 ---
-title: "Swapping ETH & ERC20 Tokens via DEX.AG and Changelly"
+title: "Обмен ETH и токенов ERC20 через DEX.AG и Changelly"
 date: 2018-06-01 00:03:00
 tags:
   - swap
@@ -16,13 +16,13 @@ primary_category: swap
 primary_category_display_name: "Обмен"
 ---
 
-# **Swapping ETH & ERC20 Tokens via DEX.AG and Changelly**
+# **Обмен ETH и токенов ERC20 через DEX.AG и Changelly**
 
-###### {% read_time title "Swapping ETH & ERC20 Tokens via DEX.AG and Changelly" %} min read
+###### {% read_time title "Swapping ETH ERC20 Tokens via DEX.AG and Changelly" %} мин. чтения
 
 * * *
 
-В MyEtherWallet (MEW), мы стремимся обеспечить пользователям бесперебойную работу с сервисом, который построен на основе безопасности. This is why we’ve partnered with multiple exchanges, such as DEX.AG and Changelly, to bring you competitive price points for your swaps.
+В MyEtherWallet (MEW), мы стремимся обеспечить пользователям бесперебойную работу с сервисом, который построен на основе безопасности. Поэтому мы сотрудничаем с несколькими биржами, такими как DEX.AG и Changelly, чтобы предложить вам конкурентоспособные цены на обмен.
 
 Чтобы использовать нашу функцию обмена, вам сначала нужно [открыть свой кошелек](/@@@@@@/getting-started/how-to-access-your-wallet).
 
