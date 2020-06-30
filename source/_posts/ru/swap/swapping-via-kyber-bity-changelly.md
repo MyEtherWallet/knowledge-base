@@ -34,4 +34,4 @@ primary_category_display_name: "Обмен"
 
 У вас будет 10 минут, чтобы просмотреть всю свою информацию, подтвердить данные и отправить транзакцию.
 
-If you have issues with your swap, please reach out to the relevant exchange’s support team and our own, at [support@myetherwallet.com](mailto:support@myetherwallet.com).
+Если у вас возникли проблемы с обменом, пожалуйста, обратитесь к соответствующей команде поддержки биржи и к нашей поддержке, по адресу [support@myetherwallet.com](mailto:support@myetherwallet.com).
