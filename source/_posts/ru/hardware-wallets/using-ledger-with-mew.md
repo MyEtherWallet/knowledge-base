@@ -84,7 +84,7 @@ _Пожалуйста, приобретайте аппаратные кошел�
 
 ## **Как мне восстановить доступ к Ledger на новом устройстве?**
 
-Ledger made a [clear and easy to follow guide](https://support.ledger.com/hc/en-us/articles/360005434914-Restore-from-recovery-phrase) on how to restore your Ledger device.
+У Ledger есть [понятное и простое руководство](https://support.ledger.com/hc/en-us/articles/360005434914-Restore-from-recovery-phrase) о том, как восстановить ваше устройство.
 
 ## **Решение проблем**
 
