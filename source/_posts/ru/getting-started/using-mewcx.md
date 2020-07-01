@@ -40,19 +40,19 @@ alias:
 
 -   Google Chrome попросит вас предоставить разрешения. Прочтите нашу статью [для дополнительной информации о том, какие разрешения необходимы](https://www.howtogeek.com/291095/why-do-chrome-extensions-need-all-your-data-on-the-websites-you-visit/). Вы можете быть уверены в том, что MEW никогда не будет хранить ваши данные или делиться ими. Это разрешение необходимо для проверки URL-адресов на известные фишинговые сайты и для взаимодействия с Dapp-приложением на другом сайте.
 
-<img src="/images/posts/diving-deeper/MEWCX1.png" alt="Image of the MEW CX install page" width="80%" />
+<img src="/images/posts/diving-deeper/MEWCX1.png" alt="Изображение страницы установки MEW CX" width="80%" />
 
 **Шаг 2.** После установки MEW CX нажмите на значок MEW на панели инструментов. Появится всплывающее окно с предложением добавить кошелек. Нажмите на эту кнопку.
 
-<img src="/images/posts/diving-deeper/MEWCX2.png" alt="Image of MEW CX 'add wallet'" width="80%" />
+<img src="/images/posts/diving-deeper/MEWCX2.png" alt="Изображение MEW CX 'добавить кошелек'" width="80%" />
 
 **Шаг 3.** Выберите, с помощью чего вы хотите открыть ваш кошелек, или сгенерируйте новый кошелек. Готово!
 
 -   Посмотрите наше руководство по [методам доступа](/@@@@@@/getting-started/how-to-access-your-wallet/) для получения дополнительной информации.
 
-<img src="/images/posts/diving-deeper/MEWCX3.png" alt="Image of MEW CX 'generate a new wallet'" width="80%" />
+<img src="/images/posts/diving-deeper/MEWCX3.png" alt="Изображение MEW CX 'создать новый кошелек'" width="80%" />
 
-<img src="/images/posts/diving-deeper/MEWCX4.5.png" alt="Image of the MEW CX main page" width="80%" />
+<img src="/images/posts/diving-deeper/MEWCX4.5.png" alt="Изображение главной страницы MEW CX" width="80%" />
 
 Ваш кошелек будет хранится в расширении для Chrome, пока вы не удалите кошелек или расширение. Помните о том, что лучше всегда хранить информацию о вашем кошельке на физической бумаге в безопасном месте, которое легко запомнить, на случай, если что-нибудь случится с вашим устройством.
 
@@ -62,10 +62,10 @@ alias:
 
 MEW CX можно использовать для взаимодействия с различными Dapp-приложениями криптосферы. Ознакомьтесь с нашей страницей Dapps, где размещен полный список Dapp-приложений, которые работают с MEW CX!
 
-<img src="/images/posts/diving-deeper/MEWCX6.png" alt="Image of the MEW CX dapp store" width="80%" />
+<img src="/images/posts/diving-deeper/MEWCX6.png" alt="Изображение магазина dapp в MEW CX" width="80%" />
 
 Когда вы захотите воспользоваться Dapp-приложением, вы можете выбрать, какой кошелек вы хотите использовать для взаимодействия с его интерфейсом.
 
 Вы также можете создать "временный аккаунт" для временного доступа к Dapp-приложениям, например, для ознакомления с сайтом.
 
-<img src="/images/posts/diving-deeper/MEWCX7.png" alt="Image of MEW CX connecting to a Dapp, Web3" width="80%" />
+<img src="/images/posts/diving-deeper/MEWCX7.png" alt="Изображение MEW CX, подключаемого к Dapp, Web3" width="80%" />
