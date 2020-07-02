@@ -51,7 +51,7 @@ Unstoppable Domains - это сервис, который привязывает
 
 -   Здесь вы увидите опцию Unstoppable Domains. Нажмите на нее!
 
-<img src="/images/posts/diving-deeper/aave1.png" alt="Image of UD Manager in Dapps page" width="100%" />
+<img src="/images/posts/diving-deeper/aave1.png" alt="Изображение менеджера UD на странице Dapps" width="100%" />
 
 **Шаг 4.** Введите желаемое доменное имя, чтобы увидеть, доступно ли оно.
 
