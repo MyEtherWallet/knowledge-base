@@ -71,7 +71,7 @@ You're done! All backed up and ready to connect to MEW
 
 **Step 2.** Find a desktop computer. Head to the [MEW](https://www.myetherwallet.com) site.
 
-Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   the URL. We recommend the Google Chrome browser.
+Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   the URL. 100
 
 **Step 3.** Select 'Access My Wallet'.
 

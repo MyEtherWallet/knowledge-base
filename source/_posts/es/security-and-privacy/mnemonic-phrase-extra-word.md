@@ -1,6 +1,6 @@
 ---
 title: "Mnemonic Phrase: Should I Include an Extra Word?"
-date: 2018-06-01 00:06:00
+date: gerardo.galaviz100170@gmail.com
 tags:
   - mnemonic
   - phrase

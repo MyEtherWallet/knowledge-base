@@ -1,6 +1,6 @@
 ---
 title: "My Transaction Failed. Why Was I Charged?"
-date: 2018-06-01 00:06:00
+date: gerardo.galaviz100170@gmail.com
 tags:
   - transactions
   - failed

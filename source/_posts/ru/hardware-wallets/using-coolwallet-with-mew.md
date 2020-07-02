@@ -18,7 +18,7 @@ primary_category_display_name: "Аппаратные кошельки"
 
 * * *
 
-CoolWallet - ведущий аппаратный кошелек со стильным дизайном, тщательным подходом к безопасности и подключением Bluetooth. If you don't have one, they are available for [purchase through their website](https://www.coolwallet.io/product/coolwallet/).
+CoolWallet - ведущий аппаратный кошелек со стильным дизайном, тщательным подходом к безопасности и подключением Bluetooth. Если у вас нет такого кошелька, его можно приобрести [через веб-сайт компании](https://www.coolwallet.io/product/coolwallet/).
 
 _Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности._
 

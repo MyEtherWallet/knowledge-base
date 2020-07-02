@@ -41,7 +41,7 @@ alias:
 
 **Шаг 1.** Перейдите на <https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth>.
 
--   If your token exists on a different network, you can [add them to our GitHub](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens).
+-   Если ваш токен в другой сети, вы можете [добавить еe здесь](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens).
 
 **Шаг 2.** Войдите или зарегистрируйтесь на GitHub.
 
