@@ -1,6 +1,6 @@
 ---
 title: "Unable to Connect to Hardware Wallet"
-date: 2018-06-01 00:06:00
+date: gerardo.galaviz100170@gmail.com
 tags:
   - error
   - connect
