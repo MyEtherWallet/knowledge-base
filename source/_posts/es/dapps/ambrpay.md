@@ -31,26 +31,26 @@ Ambrpay has integrated with MEW to set up and manage recurring payments. This ca
 
 -   Choose your preferred method of access.
 
-<img src="/images/posts/diving-deeper/AmbrPay1.png" width="100%" />
+<img src="/images/posts/diving-deeper/AmbrPay1.png" alt="Image of MEW accessed wallet" width="100%" />
 
 **Step 2.** Head to the Dapps section to the left of your wallet’s dashboard.
 
 -   Select Ambrpay from our list of Dapps.
 
-<img src="/images/posts/diving-deeper/AmbrPay2.png" width="100%" />
+<img src="/images/posts/diving-deeper/AmbrPay2.png" alt="Image of AmbrPay on Dapps page" width="100%" />
 
 **Step 3**. Add funds to your balance by selecting 'Add Funds'.
 
 -   Ambrpay pulls your subscription payments from a pool of funds you deposit into the contract. Select how much you’d like to send to this pool.
 -   Ambrpay takes a 1% fee for this service.
 
-<img src="/images/posts/diving-deeper/AmbrPay3.png" width="100%" />
+<img src="/images/posts/diving-deeper/AmbrPay3.png" alt="Image of AmbrPay interface" width="100%" />
 
 **Step 4.** Set up the subscription.
 
 -   Fill in the details of your subscription. Determine how much you’d like to pay and how often you’d like this payment to occur (in days).
 
-<img src="/images/posts/diving-deeper/AmbrPay4.png" width="100%" />
+<img src="/images/posts/diving-deeper/AmbrPay4.png" alt="Image of filled out AmbrPay interface" width="100%" />
 
 ###### After your subscription is set up, you can cancel it at any time through the ‘My Subscriptions’ section.
 
