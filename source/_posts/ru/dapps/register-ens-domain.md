@@ -74,7 +74,7 @@ Ethereum Name Service, также известная как ENS, — это до
 
 <img src="/images/posts/diving-deeper/ENS1-7.png" alt="Изображение обработки транзакции ENS домена" width="100%" />
 
-<img src="/images/posts/diving-deeper/ENS1-8.png" alt="Image of ENS domain ready to register" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-8.png" alt="Изображение домен ENS готов к регистрации" width="100%" />
 
 **Шаг 7.** Проверьте вашу транзакцию на Etherscan.io. В поле "Владелец" должен быть отображен ваш публичный адрес.
 
@@ -86,7 +86,7 @@ Ethereum Name Service, также известная как ENS, — это до
 
 **Шаг 1.** Чтобы завершить настройку вашего нового доменного имени для других криптовалют, найдите его еще раз на MyEtherWallet в Dapp-приложении ENS Manager.
 
-<img src="/images/posts/diving-deeper/ENS2-1.png" alt="Image of ENS Manager page" width="100%" />
+<img src="/images/posts/diving-deeper/ENS2-1.png" alt="Изображение страницы ENS Manager" width="100%" />
 
 **Шаг 2.** После того, как вы нашли свой домен, нажмите 'Менеджер'.
 
