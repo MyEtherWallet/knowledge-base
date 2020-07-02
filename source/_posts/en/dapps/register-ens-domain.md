@@ -108,6 +108,6 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 **Step 3.** Confirm the transaction, and the ownership of your domain will be transferred.
 
-
 [createWallet]: /@@@@@@/getting-started/how-to-create-a-wallet/
+
 [gas]: /@@@@@@/transactions/what-is-gas/
