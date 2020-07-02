@@ -1,5 +1,5 @@
 ---
-title: "Swapping ETH & ERC20 Tokens via DEX.AG and Changelly"
+title: "Обмен ETH и токенов ERC20 через DEX.AG и Changelly"
 date: 2018-06-01 00:03:00
 tags:
   - swap
@@ -16,13 +16,13 @@ primary_category: swap
 primary_category_display_name: "Обмен"
 ---
 
-# **Swapping ETH & ERC20 Tokens via DEX.AG and Changelly**
+# **Обмен ETH и токенов ERC20 через DEX.AG и Changelly**
 
-###### {% read_time title "Swapping ETH & ERC20 Tokens via DEX.AG and Changelly" %} min read
+###### {% read_time title "Swapping ETH ERC20 Tokens via DEX.AG and Changelly" %} мин. чтения
 
 * * *
 
-В MyEtherWallet (MEW), мы стремимся обеспечить пользователям бесперебойную работу с сервисом, который построен на основе безопасности. This is why we’ve partnered with multiple exchanges, such as DEX.AG and Changelly, to bring you competitive price points for your swaps.
+В MyEtherWallet (MEW), мы стремимся обеспечить пользователям бесперебойную работу с сервисом, который построен на основе безопасности. Поэтому мы сотрудничаем с такими биржами как DEX.AG и Changelly, чтобы предложить вам конкурентоспособные цены на обмен.
 
 Чтобы использовать нашу функцию обмена, вам сначала нужно [открыть свой кошелек](/@@@@@@/getting-started/how-to-access-your-wallet).
 
@@ -34,4 +34,4 @@ primary_category_display_name: "Обмен"
 
 У вас будет 10 минут, чтобы просмотреть всю свою информацию, подтвердить данные и отправить транзакцию.
 
-If you have issues with your swap, please reach out to the relevant exchange’s support team and our own, at [support@myetherwallet.com](mailto:support@myetherwallet.com).
+Если у вас возникли проблемы с обменом, пожалуйста, обратитесь к команде поддержки соответствующей биржи и к нашей поддержке, по адресу [support@myetherwallet.com](mailto:support@myetherwallet.com).

@@ -34,17 +34,17 @@ primary_category_display_name: "Dapps"
 
 **Step 2.** Head to the 'Dapps' section, and select the ENS Manager.
 
-<img src="/images/posts/diving-deeper/ENSmanagertiny.png" width="40%" />
+<img src="/images/posts/diving-deeper/ENSmanagertiny.png" alt="Image of ENS Manager on Dapps page" width="40%" />
 
 **Step 3.** Click over to the 'Manage' tab, then select the ENS domain that should host your website.
 
-<img src="/images/posts/diving-deeper/ensmanage.png" width="80%" />
+<img src="/images/posts/diving-deeper/ensmanage.png" alt="Image of ENS 'Manage Domain' page" width="80%" />
 
 **Step 4.** Click 'Manage' again at this step to be taken to the domain details section. Scroll down to the 'IPFS Hash' section.
 
-<img src="/images/posts/diving-deeper/ensmanage2.png" width="80%" />
+<img src="/images/posts/diving-deeper/ensmanage2.png" alt="Image of user owned ENS domain" width="80%" />
 
-<img src="/images/posts/diving-deeper/ensmanageipfs.png" width="80%" />
+<img src="/images/posts/diving-deeper/ensmanageipfs.png" alt="Image of ENS IPFS hash section" width="80%" />
 
 **Step 5.** If you have a ZIP file, click 'Upload your website' and select the file. Otherwise, paste your IPFS hash directly into the box.
 
@@ -57,7 +57,7 @@ primary_category_display_name: "Dapps"
 -   It will take some time for your website to upload.
 -   You may need to refresh the MEW web interface to see your IPFS set.
 
-<img src="/images/posts/diving-deeper/ensprocessing.png" width="80%" />
+<img src="/images/posts/diving-deeper/ensprocessing.png" alt="Image of ENS IPFS processing" width="80%" />
 
 **Step 8.** You're done! Your website is now viewable by using your .eth domain name with MetaMask or the Unstoppable Domains browser extension, or by adding .link to the end of it on your normal browser (i.e. myfavoritewallet.eth.link).
 
@@ -71,15 +71,15 @@ primary_category_display_name: "Dapps"
 
 **Step 2.** Head to the 'Dapps' section, and select the Unstoppable Domains Manager.
 
-<img src="/images/posts/diving-deeper/UDdapp.png" width="80%" />
+<img src="/images/posts/diving-deeper/UDdapp.png" alt="Image of UD Manager on Dapps page" width="80%" />
 
 **Step 3.** Click over to the 'Manage' tab, then select the Unstoppable Domain that should host your website.
 
-<img src="/images/posts/diving-deeper/UDmanage.png" width="80%" />
+<img src="/images/posts/diving-deeper/UDmanage.png" alt="Image of UD 'Manage Domain' page" width="80%" />
 
 **Step 4.** Scroll down to the 'IPFS Hash' section.
 
-<img src="/images/posts/diving-deeper/UDmanagerfull.png" width="80%" />
+<img src="/images/posts/diving-deeper/UDmanagerfull.png" alt="Image of UD IPFS hash section" width="80%" />
 
 **Step 5.** If you have a ZIP file, click 'Upload your website' and select the file. Otherwise, paste your IPFS hash directly into the box.
 
@@ -92,7 +92,7 @@ primary_category_display_name: "Dapps"
 -   It will take some time for your website to upload.
 -   You may need to refresh the MEW web interface to see your IPFS set.
 
-<img src="/images/posts/diving-deeper/processing.png" width="80%" />
+<img src="/images/posts/diving-deeper/processing.png" alt="Image of US IPFS processing" width="80%" />
 
 **Step 8.** You're done! Your website is now viewable by typing your .crypto domain into the Unstoppable Domain Browser, using it with the Unstoppable Domains Browser extension, or by using the Opera browser.
 
