@@ -37,20 +37,20 @@ Ambrpay интегрирована с MEW для возможности наст
 
 -   Выберите Ambrpay из списка Dapp-приложений.
 
-<img src="/images/posts/diving-deeper/AmbrPay2.png" alt="Image of AmbrPay on Dapps page" width="100%" />
+<img src="/images/posts/diving-deeper/AmbrPay2.png" alt="Изображение AmbrPay на странице Dapps" width="100%" />
 
 **Шаг 3**. Пополните ваш баланс, нажав "Пополнить счет".
 
 -   Ambrpay списывает платежи по подпискам из пула средств, которые вы вносите на баланс контракта. Выберите, сколько средств вы хотите отправить в этот пул.
 -   Ambrpay берет за данную услугу комиссию в размере 1%.
 
-<img src="/images/posts/diving-deeper/AmbrPay3.png" alt="Image of AmbrPay interface" width="100%" />
+<img src="/images/posts/diving-deeper/AmbrPay3.png" alt="Изображение интерфейса AmbrPay" width="100%" />
 
 **Шаг 4.** Оформите подписку.
 
 -   Заполните данные о вашей подписке. Определите, сколько вы хотите платить и как часто вы хотите совершать этот платеж (в днях).
 
-<img src="/images/posts/diving-deeper/AmbrPay4.png" alt="Image of filled out AmbrPay interface" width="100%" />
+<img src="/images/posts/diving-deeper/AmbrPay4.png" alt="Изображение заполненного интерфейса AmbrPay" width="100%" />
 
 ###### После оформления подписки вы можете отменить ее в любое время в разделе "Мои подписки".
 
