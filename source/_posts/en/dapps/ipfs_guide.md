@@ -91,7 +91,7 @@ primary_category_display_name: "Dapps"
 -   It will take some time for your website to upload. 
 -   You may need to refresh the MEW web interface to see your IPFS set.
 
-<img src="/images/posts/diving-deeper/processing.png" alt="Image of US IPFS processing" width="80%">
+<img src="/images/posts/diving-deeper/processing.png" alt="Image of UD IPFS processing" width="80%">
 
 **Step 8.** You're done! Your website is now viewable by typing your .crypto domain into the Unstoppable Domain Browser, using it with the Unstoppable Domains Browser extension, or by using the Opera browser.
 
