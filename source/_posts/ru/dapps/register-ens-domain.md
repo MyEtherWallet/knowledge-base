@@ -78,7 +78,7 @@ Ethereum Name Service, также известная как ENS, — это до
 
 **Шаг 7.** Проверьте вашу транзакцию на Etherscan.io. В поле "Владелец" должен быть отображен ваш публичный адрес.
 
-<img src="/images/posts/diving-deeper/ENS1-9.png" alt="Image of ENS owned domain" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-9.png" alt="Изображение собственного домена ENS" width="100%" />
 
 **Этот процесс установит ваш адрес в качестве владельца домена.**
 
@@ -90,7 +90,7 @@ Ethereum Name Service, также известная как ENS, — это до
 
 **Шаг 2.** После того, как вы нашли свой домен, нажмите 'Менеджер'.
 
-<img src="/images/posts/diving-deeper/ENS2-2.png" alt="Image of ENS managing owned address" width="100%" />
+<img src="/images/posts/diving-deeper/ENS2-2.png" alt="Изображение управления собственным доменом ENS" width="100%" />
 
 **Шаг 3.** Выберите криптовалюту с которой домен будет взаимодействовать из выпадающего меню справа. Введите адрес для направления средств в пустое поле валюты.
 
@@ -98,7 +98,7 @@ Ethereum Name Service, также известная как ENS, — это до
 
 **Шаг 4.** Подтвердите три отдельных транзакции, и ваш домен будет готов к получению средств на другой адрес!
 
-<img src="/images/posts/diving-deeper/ENS2-4.png" alt="Image of transaction confirmation" width="80%" />
+<img src="/images/posts/diving-deeper/ENS2-4.png" alt="Изображение подтверждения транзакции" width="80%" />
 
 <img src="/images/posts/diving-deeper/ENS2-5.png" alt="Image of owned ENS domain with updated details" width="100%" />
 
