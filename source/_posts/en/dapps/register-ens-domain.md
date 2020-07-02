@@ -110,5 +110,4 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 
 
 [createWallet]: /@@@@@@/getting-started/how-to-create-a-wallet/
-
 [gas]: /@@@@@@/transactions/what-is-gas/
