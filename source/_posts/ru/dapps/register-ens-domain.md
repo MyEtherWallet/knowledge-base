@@ -38,20 +38,20 @@ Ethereum Name Service, также известная как ENS, — это до
 -   Всегда проверяйте ссылку, чтобы убедиться, что вы находитесь на нашем настоящем сайте!
 
 <img src="/images/posts/diving-deeper/ENS1-1.png
-" alt="Image of MEW main page" width="100%" />
+" alt="Изображение главной страницы MEW" width="100%" />
 
 **Шаг 1.** Откройте ваш кошелек.
 
 -   Если у вас еще нет кошелька, вам понадобится [создать новый кошелек](/@@@@@@/getting-started/how-to-create-a-wallet/).
 -   Также вам понадобится небольшая сумма ETH на [газ](/@@@@@@/transactions/what-is-gas/). Обычно мы рекомендуем `.01 ETH` для 1 - 2 транзакций. Инициализация и финализация доменов ENS считаются транзакциями.
 
-<img src="/images/posts/diving-deeper/ENS1-2.png" alt="Image of MEW access methods" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-2.png" alt="Изображение методов доступа MEW" width="100%" />
 
 **Шаг 3.** Направляйтесь в раздел Dapps в левой части панели управления вашего кошелька. Его также можно найти в нижней части страницы, в разделе 'Dapps'.
 
 -   Здесь вы увидите опцию "ENS-менеджер". Нажмите на нее!
 
-<img src="/images/posts/diving-deeper/ENS1-3.png" alt="Image of ENS Manager in Dapps page" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-3.png" alt="Изображение менеджера ENS на странице Dapps" width="100%" />
 
 **Шаг 4.** Введите желаемое доменное имя, чтобы увидеть, доступно ли оно.
 
@@ -59,20 +59,20 @@ Ethereum Name Service, также известная как ENS, — это до
 -   Имейте в виду, что конечный результат будет выглядеть подобным образом: `YourDomainHere.eth`.
 -   Вы можете также найти доступные ENS-домены на Etherscan.io.
 
-<img src="/images/posts/diving-deeper/ENS1-4.png" alt="Image of registering domain" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-4.png" alt="Изображение регистрации домена" width="100%" />
 
 **Шаг 5.** Если выбранный домен доступен, вы можете зарегистрировать его. Выберите период времени, в течение которого хотите владеть доменом, и нажмите `Регистрация`.
 
 -   Большинство доменов с длинным названием стоят $5 долларов США в год, оплачиваемых в ETH, но чем короче название, тем дороже будет домен.
 -   Ими можно владеть неограниченное количество времени, пока вносится годовая плата.
 
-<img src="/images/posts/diving-deeper/ENS1-5.png" alt="Image of setting ENS term length" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-5.png" alt="Изображение установки длительности термина ENS" width="100%" />
 
 **Шаг 6.** После подтверждения транзакции ваш запрос домена будет обработан в течение пары минут. Когда все будет готово, еще раз выберите `Регистрация` и подтвердите вторую транзакцию.
 
-<img src="/images/posts/diving-deeper/ENS1-6.png" alt="Image of confirming the ENS domain transaction" width="80%" />
+<img src="/images/posts/diving-deeper/ENS1-6.png" alt="Изображение для подтверждения транзакции домена ENS" width="80%" />
 
-<img src="/images/posts/diving-deeper/ENS1-7.png" alt="Image of ENS domain processing" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-7.png" alt="Изображение обработки транзакции ENS домена" width="100%" />
 
 <img src="/images/posts/diving-deeper/ENS1-8.png" alt="Image of ENS domain ready to register" width="100%" />
 
