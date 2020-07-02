@@ -94,13 +94,13 @@ Ethereum Name Service, также известная как ENS, — это до
 
 **Шаг 3.** Выберите криптовалюту с которой домен будет взаимодействовать из выпадающего меню справа. Введите адрес для направления средств в пустое поле валюты.
 
-<img src="/images/posts/diving-deeper/ENS2-3.png" alt="Image of ENS multi-coin management" width="100%" />
+<img src="/images/posts/diving-deeper/ENS2-3.png" alt="Изображение управления мульти-монетным ENS" width="100%" />
 
 **Шаг 4.** Подтвердите три отдельных транзакции, и ваш домен будет готов к получению средств на другой адрес!
 
 <img src="/images/posts/diving-deeper/ENS2-4.png" alt="Изображение подтверждения транзакции" width="80%" />
 
-<img src="/images/posts/diving-deeper/ENS2-5.png" alt="Image of owned ENS domain with updated details" width="100%" />
+<img src="/images/posts/diving-deeper/ENS2-5.png" alt="Изображение собственного домена ENS с обновленными подробностями" width="100%" />
 
 ## **Передача права собственности**
 
