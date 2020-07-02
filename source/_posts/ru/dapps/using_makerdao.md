@@ -28,7 +28,7 @@ primary_category_display_name: "Dapps"
 **Шаг 1.** Откройте ваш кошелек на нашем сайте, выбрав "Доступ к кошельку", а затем способ доступа.
 
 <img src="/images/posts/diving-deeper/ENS1-1.png
-" alt="Image of MEW main page" width="100%" />
+" alt="Изображение главной страницы MEW" width="100%" />
 
 **Шаг 2.** Направляйтесь в наш раздел Dapps в левой части страницы "Обзор кошелька", а затем выберите MakerDAO.
 
