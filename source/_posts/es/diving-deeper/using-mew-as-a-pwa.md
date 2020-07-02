@@ -1,6 +1,6 @@
 ---
 title: "Using MEW as a Progressive Web App (PWA)"
-date: 2018-06-01 00:06:00
+date: gerardo.galaviz100170@gmail.com
 tags:
   - down
 categories:
