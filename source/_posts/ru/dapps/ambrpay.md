@@ -31,7 +31,7 @@ Ambrpay интегрирована с MEW для возможности наст
 
 -   Выберите предпочтительный метод доступа.
 
-<img src="/images/posts/diving-deeper/AmbrPay1.png" alt="Image of MEW accessed wallet" width="100%" />
+<img src="/images/posts/diving-deeper/AmbrPay1.png" alt="Изображение MEW доступ к кошельку" width="100%" />
 
 **Шаг 2.** Направляйтесь в раздел Dapps в левой части панели управления вашего кошелька.
 
