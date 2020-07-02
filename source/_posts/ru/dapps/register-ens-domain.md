@@ -38,48 +38,47 @@ Ethereum Name Service, также известная как ENS, — это до
 -   Всегда проверяйте ссылку, чтобы убедиться, что вы находитесь на нашем настоящем сайте!
 
 <img src="/images/posts/diving-deeper/ENS1-1.png
-" width="100%" />
+" alt="Image of MEW main page" width="100%" />
 
 **Шаг 1.** Откройте ваш кошелек.
 
 -   Если у вас еще нет кошелька, вам понадобится [создать новый кошелек](/@@@@@@/getting-started/how-to-create-a-wallet/).
 -   Также вам понадобится небольшая сумма ETH на [газ](/@@@@@@/transactions/what-is-gas/). Обычно мы рекомендуем `.01 ETH` для 1 - 2 транзакций. Инициализация и финализация доменов ENS считаются транзакциями.
 
-<img src="/images/posts/diving-deeper/ENS1-2.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-2.png" alt="Image of MEW access methods" width="100%" />
 
 **Шаг 3.** Направляйтесь в раздел Dapps в левой части панели управления вашего кошелька. Его также можно найти в нижней части страницы, в разделе 'Dapps'.
 
 -   Здесь вы увидите опцию "ENS-менеджер". Нажмите на нее!
 
-<img src="/images/posts/diving-deeper/ENS1-3.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-3.png" alt="Image of ENS Manager in Dapps page" width="100%" />
 
 **Шаг 4.** Введите желаемое доменное имя, чтобы увидеть, доступно ли оно.
 
 -   ENS-домены должны содержать 3 символа или более.
 -   Имейте в виду, что конечный результат будет выглядеть подобным образом: `YourDomainHere.eth`.
 -   Вы можете также найти доступные ENS-домены на Etherscan.io.
--   Если вы получаете сообщение о том, что нужно перенести ENS-домен на новый сервер-регистратор, это значит, что он недоступен (за исключением случая, когда он уже ваш, тогда вы должны его перенести. Все миграции должны быть осуществлены до 4 мая 2020 года.)
 
-<img src="/images/posts/diving-deeper/ENS1-4.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-4.png" alt="Image of registering domain" width="100%" />
 
 **Шаг 5.** Если выбранный домен доступен, вы можете зарегистрировать его. Выберите период времени, в течение которого хотите владеть доменом, и нажмите `Регистрация`.
 
 -   Большинство доменов с длинным названием стоят $5 долларов США в год, оплачиваемых в ETH, но чем короче название, тем дороже будет домен.
 -   Ими можно владеть неограниченное количество времени, пока вносится годовая плата.
 
-<img src="/images/posts/diving-deeper/ENS1-5.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-5.png" alt="Image of setting ENS term length" width="100%" />
 
 **Шаг 6.** После подтверждения транзакции ваш запрос домена будет обработан в течение пары минут. Когда все будет готово, еще раз выберите `Регистрация` и подтвердите вторую транзакцию.
 
-<img src="/images/posts/diving-deeper/ENS1-6.png" width="80%" />
+<img src="/images/posts/diving-deeper/ENS1-6.png" alt="Image of confirming the ENS domain transaction" width="80%" />
 
-<img src="/images/posts/diving-deeper/ENS1-7.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-7.png" alt="Image of ENS domain processing" width="100%" />
 
-<img src="/images/posts/diving-deeper/ENS1-8.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-8.png" alt="Image of ENS domain ready to register" width="100%" />
 
 **Шаг 7.** Проверьте вашу транзакцию на Etherscan.io. В поле "Владелец" должен быть отображен ваш публичный адрес.
 
-<img src="/images/posts/diving-deeper/ENS1-9.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS1-9.png" alt="Image of ENS owned domain" width="100%" />
 
 **Этот процесс установит ваш адрес в качестве владельца домена.**
 
@@ -87,21 +86,21 @@ Ethereum Name Service, также известная как ENS, — это до
 
 **Шаг 1.** Чтобы завершить настройку вашего нового доменного имени для других криптовалют, найдите его еще раз на MyEtherWallet в Dapp-приложении ENS Manager.
 
-<img src="/images/posts/diving-deeper/ENS2-1.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS2-1.png" alt="Image of ENS Manager page" width="100%" />
 
 **Шаг 2.** После того, как вы нашли свой домен, нажмите 'Менеджер'.
 
-<img src="/images/posts/diving-deeper/ENS2-2.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS2-2.png" alt="Image of ENS managing owned address" width="100%" />
 
 **Шаг 3.** Выберите криптовалюту с которой домен будет взаимодействовать из выпадающего меню справа. Введите адрес для направления средств в пустое поле валюты.
 
-<img src="/images/posts/diving-deeper/ENS2-3.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS2-3.png" alt="Image of ENS multi-coin management" width="100%" />
 
 **Шаг 4.** Подтвердите три отдельных транзакции, и ваш домен будет готов к получению средств на другой адрес!
 
-<img src="/images/posts/diving-deeper/ENS2-4.png" width="80%" />
+<img src="/images/posts/diving-deeper/ENS2-4.png" alt="Image of transaction confirmation" width="80%" />
 
-<img src="/images/posts/diving-deeper/ENS2-5.png" width="100%" />
+<img src="/images/posts/diving-deeper/ENS2-5.png" alt="Image of owned ENS domain with updated details" width="100%" />
 
 ## **Передача права собственности**
 
@@ -110,36 +109,3 @@ Ethereum Name Service, также известная как ENS, — это до
 **Шаг 2.** Нажмите "Менеджер" и введите адрес, на который вы хотите передать все права собственности, под полем "Перенести домен ENS на:".
 
 **Шаг 3.** Подтвердите транзакцию, и право собственности будет передано.
-
-* * *
-
-###### Если вы ранее выиграли аукцион на свой домен и с тех пор не занимались им, то вам нужно перенести его на новый регистратор.
-
-## **Перенос в новый регистратор**
-
-**Шаг 1.** Направляйтесь на сайт MyEtherWallet.com.
-
--   Всегда проверяйте ссылку, чтобы убедиться, что вы находитесь на нашем настоящем сайте!
-
-**Шаг 1.** Откройте ваш кошелек.
-
--   Если у вас еще нет кошелька, вам понадобится [создать новый кошелек](/@@@@@@/getting-started/how-to-create-a-wallet/).
--   Также вам понадобится небольшая сумма ETH на [газ](/@@@@@@/transactions/what-is-gas/). Обычно мы рекомендуем `.01 ETH` для 1 - 2 транзакций. И начало, и окончание ENS-аукционов засчитываются как транзакции.
-
-**Шаг 3.** Направляйтесь в раздел Dapps в левой части панели управления вашего кошелька. Его также можно найти в нижней части страницы, в разделе 'Dapps'.
-
--   Здесь вы увидите опцию "ENS-менеджер". Нажмите на нее!
-
-**Шаг 4.** Проверьте ранее зарегистрированное доменное имя. Если все пойдет по плану, вы увидите сообщение о том, что оно все еще в старом регистраторе.
-
-<img src="/images/posts/diving-deeper/ens2.png" width="100%" />
-
-**Шаг 5.** Выберите "Перенести", после этого появится окно для подтверждения транзакции. Подтвердите транзакцию, и начнется процесс переноса вашего домена.
-
-<img src="/images/posts/diving-deeper/ens5.png" width="100%" />
-
-<img src="/images/posts/diving-deeper/ens4.png" width="100%" />
-
-**Шаг 6.** Как только транзакция пройдет, ваше доменное имя окажется в новом регистраторе.
-
-<img src="/images/posts/diving-deeper/ens6.png" width="100%" />
