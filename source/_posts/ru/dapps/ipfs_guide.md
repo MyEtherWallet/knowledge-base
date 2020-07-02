@@ -79,7 +79,7 @@ primary_category_display_name: "Dapps"
 
 **Шаг 4.** Прокрутите вниз до раздела 'IPFS Hash'.
 
-<img src="/images/posts/diving-deeper/UDmanagerfull.png" alt="Image of UD IPFS hash section" width="80%" />
+<img src="/images/posts/diving-deeper/UDmanagerfull.png" alt="Изображения хэша IPFS в UD" width="80%" />
 
 **Шаг 5.** Если у вас есть ZIP файл, нажмите 'Загрузить свой сайт' и выберите файл. В противном случае, вставьте ваш хеш IPFS прямо в поле.
 
@@ -92,7 +92,7 @@ primary_category_display_name: "Dapps"
 -   Загрузка вашего сайта может занять некоторое время.
 -   Вам может потребоваться обновить интерфейс MEW, чтобы увидеть что ваш IPFS установлен.
 
-<img src="/images/posts/diving-deeper/processing.png" alt="Image of US IPFS processing" width="80%" />
+<img src="/images/posts/diving-deeper/processing.png" alt="Image of UD IPFS processing" width="80%" />
 
 **Шаг 8.** Готово! Ваш сайт теперь доступен для просмотра, набрав домен .crypto в браузере Unstoppable Domains, браузере Opera, или с расширением Unstoppable Domains для Chrome.
 
