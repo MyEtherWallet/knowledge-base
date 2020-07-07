@@ -43,7 +43,7 @@ alias:
 
 -   Это будет новый пароль для вашего JSON-файла, поэтому выбирайте его хорошо подумав.
 
-**Step 4.** Head to the ‘My Wallets’ area of the extension and click the three vertical dots in the top-right corner of your wallet, then click 'View'.
+**Шаг 4.** Направляйтесь в раздел 'Мои кошельки' (Мy Wallets) в расширении и нажмите на три вертикальные точки в правом верхнем углу кошелька, затем нажмите 'Обзор' (View).
 
 **Шаг 5.** Введите только что созданный пароль.
 
