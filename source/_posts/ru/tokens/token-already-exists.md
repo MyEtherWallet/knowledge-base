@@ -25,21 +25,21 @@ primary_category_display_name: "Токены"
 
 **Шаг 1.** Введите название токена, который вы хотите добавить в ваш интерфейс MyEtherWallet.
 
-<img src="/images/posts/common-issues/Ethplorer1Error.jpg" width="60%" />
+<img src="/images/posts/common-issues/Ethplorer1Error.jpg" alt="Image of Ethplorer token selection" width="60%" />
 
 **Шаг 2.** Используйте адрес контракта (не адрес создателя), чтобы заполнить поле кастомного токена в MEW. Также убедитесь, что используете верное количество десятичных знаков.
 
-<img src="/images/posts/common-issues/Ethplorer2Error.jpg" width="80%" />
+<img src="/images/posts/common-issues/Ethplorer2Error.jpg" alt="Image of Ethplorer token contract address" width="80%" />
 
 ## **Использование [Etherscan.io](https://www.etherscan.io/)**
 
 **Шаг 1.** Введите название токена, который вы хотите добавить в ваш интерфейс MyEtherWallet.
 
-<img src="/images/posts/common-issues/Etherscan1Error.jpg" style="width: 40%;" />
+<img src="/images/posts/common-issues/Etherscan1Error.jpg" alt="Image of Etherscan token selection" style="width: 40%;" />
 
 **Шаг 2.** Используйте адрес контракта для заполнения поля кастомного токена, а также убедитесь, что вы используете правильное количество десятичных знаков.
 
-<img src="/images/posts/common-issues/Etherscan2Error.jpg" style="width: 70%;" />
+<img src="/images/posts/common-issues/Etherscan2Error.jpg" alt="Image of Etherscan token contract address" style="width: 70%;" />
 
 ## **Другие причины:**
 
