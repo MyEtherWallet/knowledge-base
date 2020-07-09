@@ -30,12 +30,12 @@ When accessing a hardware wallet, you're given the choice of which derivation pa
 
 **Step 2.** After selecting your Hardware Wallet, a screen like the one below should appear. Click the small arrow to expand a larger list of Derivation Path options.
 
-<img src="/images/posts/hardware-wallet/custompath0.jpg" width="80%" />
+<img src="/images/posts/hardware-wallet/custompath0.jpg" alt="Image of Derivation Path screen" width="80%" />
 
 **Step 3.** Choose 'Custom Path' on the bottom-right and enter the details of the custom path you'd like to connect through.
 
-<img src="/images/posts/hardware-wallet/custompath1.jpg" width="70%" />
+<img src="/images/posts/hardware-wallet/custompath1.jpg" alt="Image of Derivation Path list" width="70%" />
 
-<img src="/images/posts/hardware-wallet/custompath2.jpg" width="70%" />
+<img src="/images/posts/hardware-wallet/custompath2.jpg" alt="Image of Custom Path addition" width="70%" />
 
 **You're all set!** After you've added your custom path, you should see a different list of addresses to connect to.
