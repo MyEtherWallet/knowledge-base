@@ -29,7 +29,9 @@ If you do not remember your password and do not have your 24-word recovery phras
 
 -   Choose ‘Forgot password?’ on the home screen, or ‘Reset wallet >’ in the Info tab.
 
-<img src="/images/posts/mewconnect/ForgotPassMC.jpg" width="35%" />
+<img src="/images/posts/mewconnect/ForgotPassMC.jpg" alt="Image of MEWconnect log-in screen" width="35%" />
+
+<img src="/images/posts/mewconnect/MainResetMC.jpg" alt="Image of MEWconnect 'Forgot Password' screen" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" alt="Image of MEWconnect settings page" width="30%" />
 
 * * *
 
@@ -37,7 +39,7 @@ If you do not remember your password and do not have your 24-word recovery phras
 
 -   Do not include commas between the words, only a single space.
 
-<img src="/images/posts/mewconnect/MainResetMC.jpg" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" width="30%" />
+<img src="/images/posts/mewconnect/RecoverMC.jpg" alt="Image of MEWconnect recovery phrase screen" width="30%" />
 
 * * *
 
@@ -45,8 +47,6 @@ If you do not remember your password and do not have your 24-word recovery phras
 
 -   Be sure to write this password down somewhere, so you don’t forget it!
 -   We cannot recover or change your password for you.
-
-<img src="/images/posts/mewconnect/RecoverMC.jpg" width="30%" />
 
 * * *
 
