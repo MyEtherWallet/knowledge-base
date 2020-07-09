@@ -25,7 +25,7 @@ primary_category_display_name: "MEWwallet"
 
 ##### \_\_
 
-<img class="image-right" src="/images/posts/security/3_logo.gif" align="right" width="25%" />
+<img class="image-right" alt="GIF of MEW wallet happy Peggy spacegirl" src="/images/posts/security/3_logo.gif" align="right" width="25%" />
 
 <br>
 
@@ -40,7 +40,7 @@ primary_category_display_name: "MEWwallet"
 
 **Шаг 1.** Откройте приложение MEW wallet.
 
-<img src="/images/posts/mewconnect/mcreate1.jpg" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mcreate1.jpg" alt="Image of MEW wallet 'Create wallet' page" style="max-width: 250px;" />
 
 **Шаг 2.** Выберите "Создать бесплатный кошелек" (Create a free wallet)
 
@@ -49,28 +49,28 @@ primary_category_display_name: "MEWwallet"
 <br>
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate2.jpg" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate3.jpg" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate2.jpg" alt="Image of MEW wallet safety tips part 1" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate3.jpg" alt="Image of MEW wallet safety tips part 2" style="max-width: 250px;" />
 </div>
 
 **Шаг 4.** Выберите надежный Pin-код.
 * Вы также можете включить биометрический доступ, например, по отпечатку пальца или с помощью распознавания лица.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate4.jpg" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate5.jpg" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate4.jpg" alt="Image of MEW wallet create a pin" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate5.jpg" alt="Image of MEW wallet enable fingerprint or facial recognition" style="max-width: 250px;" />
 </div>
 
 **Шаг 5.** Подождите, пока будет сгенерирован ваш аккаунт, а затем выберите "Начать пользоваться MEW wallet".
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate6.jpg" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate7.jpg" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate6.jpg" alt="Image of MEW wallet generating a new wallet" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate7.jpg" alt="Image of newly created MEW wallet account" style="max-width: 250px;" />
 </div>
 
 ##### \_\_
 
-<img class="image-right" src="/images/posts/security/5_deal.gif" align="right" width="25%" />
+<img class="image-right" alt="GIF of MEW wallet Peggy spacegirl closing helmet" src="/images/posts/security/5_deal.gif" align="right" width="25%" />
 
 <br>
 
@@ -87,23 +87,23 @@ primary_category_display_name: "MEWwallet"
 
 -   Вы также можете перейти в "Настройки", а затем выбрать "Посмотреть фразу для восстановления".
 
-<img src="/images/posts/mewconnect/mbackup1.jpg" style="max-width: 350px; width: 100%;" />
-<img src="/images/posts/mewconnect/mbackup2.jpg" style="max-width: 250px; width: 100%;" />
+<img src="/images/posts/mewconnect/mbackup1.jpg" alt="Image of MEW wallet back up warning" style="max-width: 350px; width: 100%;" />
+<img src="/images/posts/mewconnect/mbackup2.jpg" alt="Image of MEW wallet back up details screen" style="max-width: 250px; width: 100%;" />
 
 **Шаг 2.** Возьмите ручку и лист бумаги, и запишите появившиеся 24 слова.
 * Сохраняйте порядок слов, которые вы видите, и тщательно проверьте, правильно ли они записаны.
 * Лучше всего записать эту фразу 2-3 раза на разных листах бумаги и хранить их в разных безопасных местах.
 * Мы не сможем восстановить эту фразу для вас, но любой человек, у которого есть доступ к ней, получит постоянный доступ к вашим средствам.
 
-<img src="/images/posts/mewconnect/mbackup3.jpg" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mbackup3.jpg" alt="Image of MEW wallet back up preparation" style="max-width: 250px;" />
 
 **Шаг 3.** Пройдите небольшую проверку на устройстве, и готово!
 
-<img src="/images/posts/mewconnect/mbackup4.jpg" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mbackup4.jpg" alt="Image of MEW wallet successfully backed up" style="max-width: 250px;" />
 
 ##### \_\_
 
-<img class="image-right" src="/images/posts/security/1_floating.gif" align="right" width="25%" />
+<img class="image-right" alt="GIF of MEW wallet Peggy spacegirl floating" src="/images/posts/security/1_floating.gif" align="right" width="25%" />
 
 <br>
 
@@ -118,21 +118,21 @@ primary_category_display_name: "MEWwallet"
 
 **Шаг 1.** Выберите "Купить эфир" (Buy Ether) на главной странице приложения MEW wallet.
 
-<img src="/images/posts/mewconnect/mcreate7.jpg" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mcreate7.jpg" alt="Image of MEW wallet main page" style="max-width: 250px;" />
 
 **Шаг 2.** Выберите сумму, которую вы хотите приобрести, или введите свою сумму (до 250 долларов США в эквиваленте).
 * Если вы используете iOS в США, Apply Pay позволяет покупать ETH одним нажатием кнопки!
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mewwallet1.png" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mewwallet2.png" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mewwallet1.png" alt="Image of MEW wallet buy ETH selection" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mewwallet2.png" alt="Image of MEW wallet Apple Pay" style="max-width: 250px;" />
 </div>
 
-<img src="/images/posts/mewconnect/mbuyeth2.jpg" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mbuyeth2.jpg" alt="Image of MEW wallet Android payment" style="max-width: 250px;" />
 
 **Шаг 3.** Оказавшись на странице Wyre или Simplex, введите ваши данные и завершите покупку.
 
-<img src="/images/posts/mewconnect/mbuyeth3.jpg" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mbuyeth3.jpg" alt="Image of MEW wallet funded account" style="max-width: 250px;" />
 
 **Шаг 4.** Ваш новый баланс отобразится в аккаунте в ближайшее время!
 
@@ -146,25 +146,25 @@ primary_category_display_name: "MEWwallet"
 
 **Шаг 1.** Проведите пальцем влево, чтобы перейти к главному аккаунту, и выберите "Добавить аккаунт" (Add account).
 
-<img src="/images/posts/mewconnect/madd1.jpg" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/madd1.jpg" alt="Image of MEW wallet 'Add Account' screen" style="max-width: 250px;" />
 
 **Шаг 2.** Придумайте псевдоним для этого аккаунта и нажмите "Добавить" (Add).
 
-<img src="/images/posts/mewconnect/madd2.jpg" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/madd2.jpg" alt="Image of MEW wallet additional account naming" style="max-width: 250px;" />
 
 **Шаг 3.** Вы должны увидеть генерирование нового аккаунта.
 * Этот аккаунт также связан с фразой для восстановления из раздела "Резервное копирование вашего аккаунта".
 * При восстановлении основной учетной записи, все последующие учетные записи также будут восстановлены. Вам просто нужно добавить их снова как обычные 'дополнительные' аккаунты.
 
-<img src="/images/posts/mewconnect/madd3.jpg" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/madd3.jpg" alt="Image of MEW wallet additional account created" style="max-width: 250px;" />
 
 **Шаг 4.** Если вы хотите просмотреть все ваши аккаунты или скрыть какие-то из них, вы можете сделать это в разделе "Управление аккаунтами".
 
-<img src="/images/posts/mewconnect/madd4.jpg" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/madd4.jpg" alt="Image of MEW wallet 'Manage Accounts' section" style="max-width: 250px;" />
 
 ##### \_\_
 
-<img class="image-right" src="/images/posts/security/4_js.gif" align="right" width="25%" />
+<img class="image-right" alt="GIF of MEW wallet Peggy spacegirl with cat" src="/images/posts/security/4_js.gif" align="right" width="25%" />
 
 ## **Подключиться к MEW web**
 
@@ -177,23 +177,23 @@ primary_category_display_name: "MEWwallet"
 
 **Шаг 1.** Перейдите на [www.myetherwallet.com.](http://www.myetherwallet.com).
 
-<img src="/images/posts/mewconnect/mwconnectaccess.png" style="max-width: 600px; width: 100%;" />
+<img src="/images/posts/mewconnect/mwconnectaccess.png" alt="Изображение главной страницы MEW" style="max-width: 600px; width: 100%;" />
 
 **Шаг 2.** Выберите 'Доступ к кошельку' и затем нажмите 'MEWconnect'.
 
-<img src="/images/posts/mewconnect/mwconnect.png" style="max-width: 600px; width: 100%;" />
-<img src="/images/posts/mewconnect/mwconnectqr.png" style="max-width: 400px; width: 100%;" />
+<img src="/images/posts/mewconnect/mwconnect.png" alt="Image of MEW wallet access selection page" style="max-width: 600px; width: 100%;" />
+<img src="/images/posts/mewconnect/mwconnectqr.png" alt="Image of MEWconnect QR code" style="max-width: 400px; width: 100%;" />
 
 **Шаг 3.** На приложении MEW wallet нажмите значок маленькой камеры в правом верхнем углу и отсканируйте QR-код.
 
 -   Возможно, вам потребуется проверить права доступа к камере в настройках телефона.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mwcard.jpg" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwscanqr.jpg" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwcard.jpg" alt="Image of MEW wallet main page" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Image of MEW wallet scanning QR code" style="max-width: 250px;" />
 </div>
 
 **Шаг 4.** Поздравляем, вы подключили свое приложение MEW wallet к MEW web!
 
-<img src="/images/posts/mewconnect/mwconnected.jpg" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwconnectoverview.png" style="max-width: 600px; width: 100%;" />
+<img src="/images/posts/mewconnect/mwconnected.jpg" alt="Image of MEW wallet 'Connected to MEW web' screen" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwconnectoverview.png" alt="Image of MEW wallet account connected to MEW web interface" style="max-width: 600px; width: 100%;" />
