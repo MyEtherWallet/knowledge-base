@@ -33,6 +33,4 @@ alias:
 
 Теперь вы можете подключить свой аппаратный кошелек Ledger и открыть приложение Ethereum. Убедитесь, что "Данные о контракте" включены. Теперь откройте браузер и перейдите на MyEtherWallet.com. В разделе "Доступ к кошельку" выберите опцию "Аппаратный" и нажмите "Кошелек Ledger", чтобы подключиться к вашему устройству.
 
-<img src="/images/posts/hardware-wallets/ledger-hardware-wallet-using-with-android-01.png" width="50%" />
-
-Вы должны увидеть такое всплывающее окно, запрашивающее доступ приложения Ledger U2F к USB-устройству. Выберите "ОК", и вы будете подключены к кошельку Ledger!
+You should see this pop-up, asking to allow the app Ledger U2F to access the USB device. Select ‘OK’, and you will be connected to your Ledger!
