@@ -30,12 +30,12 @@ alias:
 
 **Шаг 2.** После выбора вашего аппаратного кошелька должно появиться окно, как показано ниже. Нажмите на маленькую стрелку, чтобы развернуть большой список путей деривации.
 
-<img src="/images/posts/hardware-wallet/custompath0.jpg" width="80%" />
+<img src="/images/posts/hardware-wallet/custompath0.jpg" alt="Image of Derivation Path screen" width="80%" />
 
 **Шаг 3.** Выберите "Кастомный путь" внизу правого столбца и введите данные кастомного пути, который вы хотите использовать.
 
-<img src="/images/posts/hardware-wallet/custompath1.jpg" width="70%" />
+<img src="/images/posts/hardware-wallet/custompath1.jpg" alt="Image of Derivation Path list" width="70%" />
 
-<img src="/images/posts/hardware-wallet/custompath2.jpg" width="70%" />
+<img src="/images/posts/hardware-wallet/custompath2.jpg" alt="Image of Custom Path addition" width="70%" />
 
 **Готово!** После добавления вашего кастомного пути вы должны увидеть другой список адресов, к которым можно подключиться.
