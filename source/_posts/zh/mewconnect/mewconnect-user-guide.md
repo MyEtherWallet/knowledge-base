@@ -23,7 +23,7 @@ alias:
 
 #### **[Download it now](/@@@@@@/mewwallet/mewwallet-user-guide/) for iOS or Android and migrate your wallet for free!**
 
-<img class="image-right" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%" />
+<img class="image-right" alt="Image of MEWconnect main page" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%" />
 
 ## **1. Create a Wallet**
 
@@ -42,7 +42,7 @@ This step is very important. Make sure you pick a password that is not easy to g
 You’re done! You’ll be taken to a screen that shows your new wallets address backed by a unique color-code. On this screen you’ll find all your ETH and ERC20 tokens that we support in our default list. Custom tokens can only be seen using our web interface.
 <br />
 
-<img class="image-left" src="/images/posts/mewconnect/BackupMC.png" align="left" width="30%" />
+<img class="image-left" alt="Image of MEWconnect back up screen" src="/images/posts/mewconnect/BackupMC.png" align="left" width="30%" />
 
 ## **2. Back it up**
 
@@ -63,7 +63,7 @@ This is the single most important piece of information about your wallet. These 
 You're done! All backed up and ready to connect to MEW
 <br />
 
-<img class="image-right" src="/images/posts/mewconnect/ScanQRMC.jpg" align="right" width="30%" />
+<img class="image-right" alt="Image of QR code connection" src="/images/posts/mewconnect/ScanQRMC.jpg" align="right" width="30%" />
 
 ## **3. Connect with MEW**
 
@@ -84,7 +84,7 @@ Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   th
 You’re done! You can now use our interface as usual, with the MEWconnect app as your main method of access. Congratulations!
 <br />
 
-<img class="image-left" src="/images/posts/mewconnect/TransferMC.jpg" align="left" width="30%" />
+<img class="image-left" alt="Image of MEWconnect confirming a transaction" src="/images/posts/mewconnect/TransferMC.jpg" align="left" width="30%" />
 
 ## **4. Send a Transaction**
 
@@ -101,7 +101,7 @@ Fill in the ‘Type’ of crypto, the 'Amount' you wish to send, and the 'To Add
 You’re done! Your transaction is broadcasting to the network, and you’ll be able to check it’s status shortly with a provided transaction ID.
 <br />
 
-<img class="image-right" src="/images/posts/mewconnect/OverviewMC.jpg" align="right" width="30%" />
+<img class="image-right" alt="Image of MEWconnect accessed wallet" src="/images/posts/mewconnect/OverviewMC.jpg" align="right" width="30%" />
 
 ## **5. Overview of the Wallet**
 
