@@ -23,6 +23,6 @@ Make sure that you unzip all the contents of the `.zip` into a separate, empty f
 
 ## **The folder structure should look like this:**
 
-<img src="/images/posts/offline/Wb08Tm3.jpg" width="">
+<img src="/images/posts/offline/Wb08Tm3.jpg" alt="Image of MEW offline folder and files" width="">
 
 If you don't unzip the folder, or only unzip the `index.html` file, the page won't be loaded correctly. Be sure to use a modern browser like Chrome or Firefox as well.

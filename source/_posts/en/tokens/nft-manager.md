@@ -53,18 +53,18 @@ You can interact with five games right now using our NFT Manager!
 
 **Step 1:** [Access Your Wallet][access].
 
-<img src="/images/posts/tokens/NFT0.png" width="85%">
+<img src="/images/posts/tokens/NFT0.png" alt="Image of MEW main page" width="85%">
 
-<img src="/images/posts/tokens/NFT1.png" width="85%">
+<img src="/images/posts/tokens/NFT1.png" alt="Image of MEW access wallet selection screen" width="85%">
 
 **Step 2.** Select the NFT Manager on your Wallet Dashboard. 
 
-<img src="/images/posts/tokens/NFT2.png" width="100%">
+<img src="/images/posts/tokens/NFT2.png" alt="Image of MEW accessed wallet" width="100%">
 
 **Step 3.** Choose which NFT you'd like to interact with. 
 
 -   If you're trying to send your NFT to someone else, make sure you have at least 0.01 ETH to pay for gas!
 
-<img src="/images/posts/tokens/NFT4.png" width="100%">
+<img src="/images/posts/tokens/NFT4.png" alt="Image of MEW NFT manager" width="100%">
 
 [access]: /@@@@@@/getting-started/how-to-access-your-wallet/

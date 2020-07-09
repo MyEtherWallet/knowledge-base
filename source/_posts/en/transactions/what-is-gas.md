@@ -18,7 +18,7 @@ alias:
 
 * * *
 
-<img src="/images/posts/transactions/tx_pool_infographic.png" width="80%">
+<img src="/images/posts/transactions/tx_pool_infographic.png" alt="Image of transaction gas infographic" width="80%">
 
 ## **Introduction**
 

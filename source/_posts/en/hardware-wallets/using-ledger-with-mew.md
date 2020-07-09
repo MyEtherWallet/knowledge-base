@@ -20,7 +20,7 @@ alias:
 
 * * *
 
-Ledger Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. If you don't have one, they are available for [purchase through their website](https://www.ledger.com/?r=fa4b).
+Ledger Hardware Wallets are some of the most secure and intuitive cryptocurrency hardware wallets out there. If you don't have one, they are available for [purchase through Ledger's website](https://www.ledger.com/?r=fa4b).
 
 _Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure._
 
@@ -34,13 +34,13 @@ Without further ado, let’s begin!
 
 **Step 1.** Attach and unlock your Ledger device. You should see a few different sections to choose from, choose the Ethereum section as shown above. Click both buttons to open it.
 
-<img src="/images/posts/hardware-wallet/ledger/ethereum-app.jpg" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/ethereum-app.jpg" alt="Image of Ledger device on Ethereum app" width="50%">
 
 * * *
 
 **Step 2.** Click into this Setting section with both buttons.
 
-<img src="/images/posts/hardware-wallet/ledger/ethereum-settings.jpg" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/ethereum-settings.jpg" alt="Image of Ledger device open to 'Settings'" width="50%">
 
 * * *
 
@@ -54,27 +54,27 @@ Without further ado, let’s begin!
 
 **Step 5.** Check the URL for the “MyEtherWallet Inc [US]” SSL certification to make sure you’re on our real, secure site. Are you? Great! Head to ‘Access My Wallet’ and choose the option that says ‘Hardware’. Click the ‘Ledger Wallet’ option, and choose ‘Connect With Your Device’ with your Ledger device still attached, unlocked, and ready.
 
-<img src="/images/posts/hardware-wallet/ledger/MEW1.png" width="75%">
+<img src="/images/posts/hardware-wallet/ledger/MEW1.png" alt="Image of MEW main page" width="75%">
 
 * * *
 
 **Step 6.** A screen showing different networks and derivation paths should appear. Choose which network you’d like to connect to, and which path you’d like to use. For regular ETH usage, you should be on an ETH network, under the Ethereum derivation path. You can also access other networks, such as Ethereum Classic (ETC), by choosing the related network path. 
 
-<img src="/images/posts/hardware-wallet/ledger/MEW2.png" width="70%">
+<img src="/images/posts/hardware-wallet/ledger/MEW2.png" alt="Image of MEW access selection" width="70%">
 
-<img src="/images/posts/hardware-wallet/ledger/Ledger1.png" width="70%">
+<img src="/images/posts/hardware-wallet/ledger/Ledger1.png" alt="Image of Hardware Wallet access screen" width="70%">
 
 * * *
 
 **Step 7.** You will see a list of addresses. These are your new addresses to choose from for your main wallet! Choose one out of the five that you like. (Most people choose the first one, but you don’t have to.)
 
-<img src="/images/posts/hardware-wallet/ledger/Ledger2.png" width="41.3%"> <img src="/images/posts/hardware-wallet/ledger/Ledger3.png" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/Ledger2.png" alt="Image of Ledger network choice" width="41.3%"> <img src="/images/posts/hardware-wallet/ledger/Ledger3.png" alt="Image of Ledger derivation path choice" width="50%">
 
 * * *
 
 **Step 8.** You should now be taken to a screen that looks very similar to your old wallet’s access screen. Great job! You’re officially using your new Ledger hardware wallet! 
 
-<img src="/images/posts/hardware-wallet/ledger/LEdger4.png" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/LEdger4.png" alt="Image of Ledger address choice" width="50%">
 
 ## **What About My Old Wallet???**
 

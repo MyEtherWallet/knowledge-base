@@ -89,9 +89,9 @@ alias:
 
 ## **Below are two common scams and how to spot them:**
 
-<img src="/images/posts/security/Scenario1.png" width="80%">
+<img src="/images/posts/security/Scenario1.png" alt="Image of MEW security example scenario 1" width="80%">
 
-<img src="/images/posts/security/Scenario2.png" width="80%">
+<img src="/images/posts/security/Scenario2.png" alt="Image of MEW security example scenario 2" width="80%">
 
 [mewwallet]: /@@@@@@/mewwallet/mewwallet-user-guide/
 

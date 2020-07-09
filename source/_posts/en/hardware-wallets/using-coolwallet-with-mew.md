@@ -18,7 +18,7 @@ primary_category_display_name: "Hardware Wallets"
 
 * * *
 
-CoolWallet Hardware Wallets are leading wallets for their sleek design, uncompromising security, and bluetooth capabilities. If you don't have one, they are available for [purchase through their website][buyCW]. 
+CoolWallet Hardware Wallets are leading wallets for their sleek design, uncompromising security, and bluetooth capabilities. If you don't have one, they are available for [purchase through CoolWallet's website][buyCW]. 
 
 _Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure._
 
