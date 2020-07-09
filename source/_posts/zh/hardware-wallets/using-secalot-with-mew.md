@@ -18,7 +18,7 @@ primary_category_display_name: "Hardware Wallets"
 
 * * *
 
-Secalot Hardware Wallets are leading wallets for their security and interface usability standards. If you don't have one, they are available for [purchase through their website](https://www.secalot.com/product/secalot-dongle/).
+Secalot Hardware Wallets are leading wallets for their security and interface usability standards. If you don't have one, they are available for [purchase through Secalot's website](https://www.secalot.com/product/secalot-dongle/).
 
 _Please purchase hardware wallets from the original source. Hardware wallets bought off ebay or from other vendors cannot be guaranteed secure._
 
