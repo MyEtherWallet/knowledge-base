@@ -27,69 +27,69 @@ primary_category_display_name: "Работа оффлайн"
 
 **Шаг 1.** Чтобы использовать MEW в виде PWA, вам сначала необходимо будет зайти на наш сайт в Google Chrome и установить MEW, как показано ниже.
 
-<img src="/images/posts/offline/offline1pwa.png" width="80%" />
+<img src="/images/posts/offline/offline1pwa.png" alt="Изображение главной страницы MEW" width="80%" />
 
 **Шаг 2.** На вашем компьютере, **подключенном к сети**, прокрутите страницу до футера внизу и найдите инструмент "Помощник для оффлайн транзакций".
 
-<img src="/images/posts/offline/offline2pwa.png" width="80%" />
+<img src="/images/posts/offline/offline2pwa.png" alt="Image of MEW footer" width="80%" />
 
 **Шаг 3.** Введите адрес, **с** которого вы осуществляете отправку, и нажмите "Экспорт JSON файл".
 
 -   Храните его в безопасности, он вам скоро понадобится на компьютере, не подключенном к сети. Экспортируйте его на USB-носитель для удобной передачи.
 
-<img src="/images/posts/offline/offline3pwa.png" width="80%" />
+<img src="/images/posts/offline/offline3pwa.png" alt="Image of MEW's Send Offline Helper" width="80%" />
 
 **Шаг 4.** На компьютере, **не подключенном к сети**, откройте ваш кошелек, как обычно.
 
 -   Он будет выглядеть немного странно, потому что вы не подключены к сети.
 
-<img src="/images/posts/offline/offline4pwa.png" width="80%" />
+<img src="/images/posts/offline/offline4pwa.png" alt="Image of MEW offline accessed wallet" width="80%" />
 
 **Шаг 5.** Слева выберите "Отправить оффлайн".
 
-<img src="/images/posts/offline/offline5pwa.png" width="80%" />
+<img src="/images/posts/offline/offline5pwa.png" alt="Image of MEW 'Send Offline'" width="80%" />
 
 **Шаг 6.** Прокрутите страницу вниз и импортируйте ранее полученный файл JSON. Этим вы заполните некоторые данные. После этого вставьте адрес, **на** который вы осуществляете отправку, и сумму, которую вы хотите отправить.
 
-<img src="/images/posts/offline/offline6pwa.png" width="80%" />
+<img src="/images/posts/offline/offline6pwa.png" alt="Image of MEW offline transaction filled out" width="80%" />
 
 **Шаг 7.** Теперь выберите "Сгенерировать транзакцию" и скачайте файл JSON или скопируйте подписанную транзакцию.
 
 -   Для этого шага вам также потребуется ранее использованный USB-носитель.
 
-<img src="/images/posts/offline/offline7pwa.png" width="80%" />
+<img src="/images/posts/offline/offline7pwa.png" alt="Image of MEW offline signed transaction" width="80%" />
 
 **Шаг 8.** Вернитесь к компьютеру, **подключенному к сети**, снова перейдите в "Помощник для оффлайн транзакций" и откройте раздел "Подписанная транзакция".
 
 -   Загрузите файл JSON здесь или вставьте подписанную транзакцию, затем нажмите 'Продолжить'. Подробные данные должны сгенерироваться в следующем разделе.
 
-<img src="/images/posts/offline/offline8pwa.png" width="80%" />
+<img src="/images/posts/offline/offline8pwa.png" alt="Image of MEW offline transaction details" width="80%" />
 
 **Шаг 9.** Тщательно проверьте все данные вашей транзакции и нажмите "Отправить".
 
-<img src="/images/posts/offline/offline9pwa.png" width="80%" />
+<img src="/images/posts/offline/offline9pwa.png" alt="Image of MEW offline final transaction confirmation" width="80%" />
 
 **Шаг 10.** Готово! Вы только что отправили оффлайн-транзакцию.
 
-<img src="/images/posts/offline/offline10pwa.png" width="80%" />
+<img src="/images/posts/offline/offline10pwa.png" alt="Image of MEW offline transaction sent" width="80%" />
 
 ## **Загрузка и запуск MEW оффлайн**
 
 **Шаг 1.** Чтобы установить MEW локально, начните с [загрузки последнего релиза MEW](https://github.com/MyEtherWallet/MyEtherWallet/releases).
 
-<img src="/images/posts/offline/MEWoffline1.png" width="80%" />
+<img src="/images/posts/offline/MEWoffline1.png" alt="Image of MEW offline download" width="80%" />
 
 **Шаг 2.** Нажмите на `MyEtherWallet-vX.X.X.X.zip`, чтобы скачать файл. Переместите этот файл на USB-накопитель (или другое устройство хранения данных) и перенесите его на компьютер без доступа к сети.
 
-<img src="/images/posts/offline/MEWoffline2.png" width="80%" />
+<img src="/images/posts/offline/MEWoffline2.png" alt="Image of MEW offline zip file" width="80%" />
 
 **Шаг 3.** Подключите USB-носитель к компьютеру, не подключенному к сети, и извлеките все файлы в архив на компьютере. Процесс извлечения файлов очень важен, при неправильном извлечении MEW будет выглядеть странно. В итоге вы должны получить директорию, содержащую следующие файлы:
 
-<img src="/images/posts/offline/MEWoffline3.png" width="80%" />
+<img src="/images/posts/offline/MEWoffline3.png" alt="Image of MEW offline extracting zip file" width="80%" />
 
 **Шаг 4.** Чтобы открыть MEW, дважды щелкните файл "index.html". MEW откроется в вашем браузере. Вы получите предупреждение о невозможности подключения к сети, что закономерно. Вы не подключены к интернету. Вы не сможете увидеть баланс ETH или токенов, но его можно узнать, используя безопасные и общедоступные способы, например, обозреватели блокчейна Ethereum etherscan.io или ethplorer.io.
 
-<img src="/images/posts/offline/MEWoffline4.png" width="80%" />
+<img src="/images/posts/offline/MEWoffline4.png" alt="Image of MEW offline 'Index' file" width="80%" />
 
 Поздравляем, вы запустили MEW оффлайн! Не забывайте периодически повторять этот процесс чтобы всегда пользоваться последней версией нашего интерфейса.
 
