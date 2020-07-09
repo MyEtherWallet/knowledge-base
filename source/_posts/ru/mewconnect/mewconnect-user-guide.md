@@ -23,7 +23,7 @@ alias:
 
 #### **[Скачайте сейчас](/@@@@@@/mewwallet/mewwallet-user-guide/) для iOS или Android и переместите свой кошелек MEWconnect бесплатно!**
 
-<img class="image-right" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%" />
+<img class="image-right" alt="Image of MEWconnect main page" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%" />
 
 ## **1. Создать кошелек**
 
@@ -42,7 +42,7 @@ alias:
 Все готово! Вы попадете на экран, на котором будет указан адрес вашего нового кошелька, подсвеченный уникальным цветовым кодом. На этом экране вы найдете все ваши ETH и ERC20 токены, которые мы поддерживаем в нашем списке по умолчанию. Кастомные токены могут быть просмотрены только через наш веб-интерфейс.
 <br />
 
-<img class="image-left" src="/images/posts/mewconnect/BackupMC.png" align="left" width="30%" />
+<img class="image-left" alt="Image of MEWconnect back up screen" src="/images/posts/mewconnect/BackupMC.png" align="left" width="30%" />
 
 ## **2. Создание резервной копии**
 
@@ -63,7 +63,7 @@ alias:
 Все готово! Резервнaя копия сделана, вы можете подключиться к MEW
 <br />
 
-<img class="image-right" src="/images/posts/mewconnect/ScanQRMC.jpg" align="right" width="30%" />
+<img class="image-right" alt="Image of QR code connection" src="/images/posts/mewconnect/ScanQRMC.jpg" align="right" width="30%" />
 
 ## **3. Подключение к MEW**
 
@@ -84,7 +84,7 @@ alias:
 Все готово! Теперь вы сможете использовать наш интерфейс как обычно, получая доступ к нему с помощью приложения MEWconnect. Поздравляем!
 <br />
 
-<img class="image-left" src="/images/posts/mewconnect/TransferMC.jpg" align="left" width="30%" />
+<img class="image-left" alt="Image of MEWconnect confirming a transaction" src="/images/posts/mewconnect/TransferMC.jpg" align="left" width="30%" />
 
 ## **4. Совершение транзакции**
 
@@ -101,7 +101,7 @@ alias:
 Все готово! Ваша транзакция отправлена в сеть, скоро вы сможете проверить ее статус с помощью предоставленного идентификатора транзакции.
 <br />
 
-<img class="image-right" src="/images/posts/mewconnect/OverviewMC.jpg" align="right" width="30%" />
+<img class="image-right" alt="Image of MEWconnect accessed wallet" src="/images/posts/mewconnect/OverviewMC.jpg" align="right" width="30%" />
 
 ## **5. Обзор кошелька**
 
