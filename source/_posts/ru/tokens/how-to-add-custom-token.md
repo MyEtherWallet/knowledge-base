@@ -31,7 +31,7 @@ alias:
 
 **Шаг 1.** [Откройте ваш кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
-<img src="/images/posts/tokens/Custom1.png" width="85%" />
+<img src="/images/posts/tokens/Custom1.png" alt="Image of accessed MEW wallet" width="85%" />
 
 **Шаг 2.** Чтобы найти необходимый токен, выполните поиск по нашему списку токенов по умолчанию.
 
@@ -45,26 +45,26 @@ alias:
 
 **Шаг 1.** Направляйтесь на [Etherscan](https://etherscan.io).
 
-<img src="/images/posts/tokens/Custom2.png" width="85%" />
+<img src="/images/posts/tokens/Custom2.png" alt="Image of Etherscan" width="85%" />
 
 **Шаг 2.** Если у вас есть баланс токена, который вы хотите добавить, выполните поиск вашего публичного адреса (0x...) в поисковом поле.
 
 -   Если у вас нет баланса и вы хотите добавить токен до его получения, найдите его при помощи строки поиска. Убедитесь, что вы нашли правильный токен — в противном случае вы добавите в свой список другой токен.
 -   Нет ничего страшного если вы отправите свой токен ERC20 на свой адрес до того, как добавить его. На самом деле это может облегчить поиск через etherscan.
 
-<img src="/images/posts/tokens/Custom3.png" width="60%" />
+<img src="/images/posts/tokens/Custom3.png" alt="Image of Etherscan owned tokens" width="60%" />
 
 **Шаг 3.** Найдите ваш токен в выпадающем списке балансов токенов. Выберите токен, и вы попадете на экран информации о токене.
 
-<img src="/images/posts/tokens/Custom4.png" width="85%" />
+<img src="/images/posts/tokens/Custom4.png" alt="Image of Etherscan token information" width="85%" />
 
 **Шаг 4.** Здесь вы найдете адрес контракта токена и количество десятичных знаков в правой части интерфейса. Запомните число десятичных знаков, а затем нажмите на адрес договора, чтобы перейти на главный экран токена.
 
-<img src="/images/posts/tokens/Custom5.png" width="70%" />
+<img src="/images/posts/tokens/Custom5.png" alt="Image of token Contract Address on Etherscan" width="70%" />
 
 **Шаг 5.** Скопируйте этот адрес и вернитесь на MEW. В верхней части списка токенов нажмите «+ Кастомные токены», чтобы открыть экран добавления своих токенов.
 
-<img src="/images/posts/tokens/Custom6.png" width="50%" />
+<img src="/images/posts/tokens/Custom6.png" alt="Image of adding a custom token on MEW" width="50%" />
 
 **Шаг 6.** Вставьте адрес контракта в верхнее поле, укажите символ токена (аббревиатуру) во втором поле и введите количество десятичных знаков в последнее поле. Затем нажмите «Сохранить». Все готово!
 
@@ -72,11 +72,11 @@ alias:
 
 #### _«Токен уже существует!»_
 
-<img src="/images/posts/tokens/Custom7.png" width="50%" />
+<img src="/images/posts/tokens/Custom7.png" alt="Image of 'Token Already Exists' error on MEW" width="50%" />
 
 Если вы увидите эту ошибку, то ее можно легко исправить. Введите информацию о своем токене еще раз, но поставьте «2» после символа. Например, если символ токена — «XYZ», то укажите «XYZ2».
 
-<img src="/images/posts/tokens/Custom8.png" width="50%" />
+<img src="/images/posts/tokens/Custom8.png" alt="Image of adding custom token on MEW with '2' added" width="50%" />
 
 Если вы все еще видите эту ошибку после сохранения токена с измененным символом, то возможно, что ваш токен уже находится в списке токенов по умолчанию. Попробуйте снова поискать его символ в списке токенов. Если он отображается с нулевым балансом, но на etherscan.io есть положительный баланс, то вам, возможно, придется поменять узел ETH в верхнем правом углу.
 
