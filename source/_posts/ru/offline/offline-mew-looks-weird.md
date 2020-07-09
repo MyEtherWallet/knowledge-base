@@ -23,6 +23,6 @@ alias:
 
 ## **Структура директории должна выглядеть так:**
 
-<img src="/images/posts/offline/Wb08Tm3.jpg" width="" />
+<img src="/images/posts/offline/Wb08Tm3.jpg" alt="Image of MEW offline folder and files" width="" />
 
 Если вы разархивируете не всю папку или только `index.html`, страница будет загружена неправильно. Используйте современный браузер, такой как Chrome или Firefox.
