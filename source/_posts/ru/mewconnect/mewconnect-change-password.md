@@ -29,21 +29,21 @@ primary_category_display_name: "MEWconnect"
 
 -   Нажмите ‘Забыли пароль?’ на главном экране или ‘Сброс кошелька >’ на вкладке ‘Информация’.
 
-<img src="/images/posts/mewconnect/ForgotPassMC.jpg" alt="Image of MEWconnect log-in screen" width="35%" />
+<img src="/images/posts/mewconnect/ForgotPassMC.jpg" alt="Изображение экрана входа в приложение MEWconnect" width="35%" />
 
-<img src="/images/posts/mewconnect/MainResetMC.jpg" alt="Image of MEWconnect 'Forgot Password' screen" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" alt="Image of MEWconnect settings page" width="30%" />
+<img src="/images/posts/mewconnect/MainResetMC.jpg" alt="Изображение экрана MEWconnect 'Забытый пароль'" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" alt="Изображение страницы настроек MEWconnect" width="30%" />
 
 * * *
 
-**Step 2.** Enter your 24-word recovery phrase. Make sure each word is in the correct order and spelled accurately.
+**Шаг 2.** Введите вашу фразу восстановления из 24 слов. Убедитесь, что все слова расположены в правильном порядке и правильно написаны.
 
 -   Не вводите запятые между словами, используйте только один пробел.
 
-<img src="/images/posts/mewconnect/RecoverMC.jpg" alt="Image of MEWconnect recovery phrase screen" width="30%" />
+<img src="/images/posts/mewconnect/RecoverMC.jpg" alt="Изображение экрана восстановления кошелька MEWconnect" width="30%" />
 
 * * *
 
-**Step 3.** Enter a new password. Please choose a difficult one, for increased security.
+**Шаг 3.** Введите новый пароль. Выберите сложный пароль для повышения уровня безопасности.
 
 -   Обязательно запишите где-нибудь этот пароль, чтобы не забыть его!
 -   Мы не сможем восстановить или изменить ваш пароль.
