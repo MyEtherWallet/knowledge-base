@@ -96,15 +96,15 @@ _Пожалуйста, приобретайте аппаратные кошел�
 
 **Шаг 4.** MEW вернет вас на страницу с разными сетями и путями деривации. Выберите сеть, к которой хотите подключиться, и путь деривации. Для использования обычного ETH вы должны быть в сети ETH с путем деривации Ethereum. Вы также можете получить доступ к другим сетям, таким как Ethereum Classic (ETC), выбрав соответствующую опцию.
 
-<img src="/images/posts/hardware-wallet/trezor/Trezor16.png" alt="Изображение разрешений Trezor" width="40%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor12.png" alt="Image of Trezor export keys screen" width="40%" />
+<img src="/images/posts/hardware-wallet/trezor/Trezor16.png" alt="Изображение разрешений Trezor" width="40%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor12.png" alt="Изображение экрана экспорта ключей Trezor" width="40%" />
 
-<img src="/images/posts/hardware-wallet/trezor/Trezor17.png" alt="Image of Trezor access pin confirmation" width="40%" />
+<img src="/images/posts/hardware-wallet/trezor/Trezor17.png" alt="Изображение подтверждения пин кода Trezor" width="40%" />
 
 * * *
 
 **Шаг 5.** Вы увидите список адресов. Это новые адреса, доступные для выбора в качестве вашего основного кошелька! Выберите один из пяти, который вам нравится. (Большинство людей выбирают первый, но это не обязательно.)
 
-<img src="/images/posts/hardware-wallet/trezor/Trezor13.png" alt="Image of Trezor network choice" width="42.5%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor14.png" alt="Image of Trezor derivation path choice" width="50%" />
+<img src="/images/posts/hardware-wallet/trezor/Trezor13.png" alt="Изображение выбора сети Trezor" width="42.5%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor14.png" alt="Image of Trezor derivation path choice" width="50%" />
 
 * * *
 
