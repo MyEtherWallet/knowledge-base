@@ -31,7 +31,7 @@ primary_category_display_name: "Работа оффлайн"
 
 **Шаг 2.** На вашем компьютере, **подключенном к сети**, прокрутите страницу до футера внизу и найдите инструмент "Помощник для оффлайн транзакций".
 
-<img src="/images/posts/offline/offline2pwa.png" alt="Image of MEW footer" width="80%" />
+<img src="/images/posts/offline/offline2pwa.png" alt="Изображение футера MEW" width="80%" />
 
 **Шаг 3.** Введите адрес, **с** которого вы осуществляете отправку, и нажмите "Экспорт JSON файл".
 
