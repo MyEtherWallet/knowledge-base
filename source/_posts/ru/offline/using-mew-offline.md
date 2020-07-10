@@ -37,27 +37,27 @@ primary_category_display_name: "Работа оффлайн"
 
 -   Храните его в безопасности, он вам скоро понадобится на компьютере, не подключенном к сети. Экспортируйте его на USB-носитель для удобной передачи.
 
-<img src="/images/posts/offline/offline3pwa.png" alt="Image of MEW's Send Offline Helper" width="80%" />
+<img src="/images/posts/offline/offline3pwa.png" alt="Изображение оффлайн помощника MEW" width="80%" />
 
 **Шаг 4.** На компьютере, **не подключенном к сети**, откройте ваш кошелек, как обычно.
 
 -   Он будет выглядеть немного странно, потому что вы не подключены к сети.
 
-<img src="/images/posts/offline/offline4pwa.png" alt="Image of MEW offline accessed wallet" width="80%" />
+<img src="/images/posts/offline/offline4pwa.png" alt="Изображение кошелька MEW открытого оффлайн" width="80%" />
 
 **Шаг 5.** Слева выберите "Отправить оффлайн".
 
-<img src="/images/posts/offline/offline5pwa.png" alt="Image of MEW 'Send Offline'" width="80%" />
+<img src="/images/posts/offline/offline5pwa.png" alt="Изображение MEW 'Отправить оффлайн'" width="80%" />
 
 **Шаг 6.** Прокрутите страницу вниз и импортируйте ранее полученный файл JSON. Этим вы заполните некоторые данные. После этого вставьте адрес, **на** который вы осуществляете отправку, и сумму, которую вы хотите отправить.
 
-<img src="/images/posts/offline/offline6pwa.png" alt="Image of MEW offline transaction filled out" width="80%" />
+<img src="/images/posts/offline/offline6pwa.png" alt="Изображение заполненной оффлайн транзакции MEW" width="80%" />
 
 **Шаг 7.** Теперь выберите "Сгенерировать транзакцию" и скачайте файл JSON или скопируйте подписанную транзакцию.
 
 -   Для этого шага вам также потребуется ранее использованный USB-носитель.
 
-<img src="/images/posts/offline/offline7pwa.png" alt="Image of MEW offline signed transaction" width="80%" />
+<img src="/images/posts/offline/offline7pwa.png" alt="Изображение подписанной оффлайн транзакции MEW" width="80%" />
 
 **Шаг 8.** Вернитесь к компьютеру, **подключенному к сети**, снова перейдите в "Помощник для оффлайн транзакций" и откройте раздел "Подписанная транзакция".
 
