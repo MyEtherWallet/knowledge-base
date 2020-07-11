@@ -63,11 +63,11 @@ primary_category_display_name: "Работа оффлайн"
 
 -   Загрузите файл JSON здесь или вставьте подписанную транзакцию, затем нажмите 'Продолжить'. Подробные данные должны сгенерироваться в следующем разделе.
 
-<img src="/images/posts/offline/offline8pwa.png" alt="Image of MEW offline transaction details" width="80%" />
+<img src="/images/posts/offline/offline8pwa.png" alt="Изображение деталей оффлайн транзакции MEW" width="80%" />
 
 **Шаг 9.** Тщательно проверьте все данные вашей транзакции и нажмите "Отправить".
 
-<img src="/images/posts/offline/offline9pwa.png" alt="Image of MEW offline final transaction confirmation" width="80%" />
+<img src="/images/posts/offline/offline9pwa.png" alt="Изображение подтверждения оффлайн транзакции MEW" width="80%" />
 
 **Шаг 10.** Готово! Вы только что отправили оффлайн-транзакцию.
 
