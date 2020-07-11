@@ -71,25 +71,25 @@ primary_category_display_name: "Работа оффлайн"
 
 **Шаг 10.** Готово! Вы только что отправили оффлайн-транзакцию.
 
-<img src="/images/posts/offline/offline10pwa.png" alt="Image of MEW offline transaction sent" width="80%" />
+<img src="/images/posts/offline/offline10pwa.png" alt="Изображение оффлайн транзакция отправлена" width="80%" />
 
 ## **Загрузка и запуск MEW оффлайн**
 
 **Шаг 1.** Чтобы установить MEW локально, начните с [загрузки последнего релиза MEW](https://github.com/MyEtherWallet/MyEtherWallet/releases).
 
-<img src="/images/posts/offline/MEWoffline1.png" alt="Image of MEW offline download" width="80%" />
+<img src="/images/posts/offline/MEWoffline1.png" alt="Изображение загрузки MEW оффлайн" width="80%" />
 
 **Шаг 2.** Нажмите на `MyEtherWallet-vX.X.X.X.zip`, чтобы скачать файл. Переместите этот файл на USB-накопитель (или другое устройство хранения данных) и перенесите его на компьютер без доступа к сети.
 
-<img src="/images/posts/offline/MEWoffline2.png" alt="Image of MEW offline zip file" width="80%" />
+<img src="/images/posts/offline/MEWoffline2.png" alt="Изображение зип-файла MEW оффлайн" width="80%" />
 
 **Шаг 3.** Подключите USB-носитель к компьютеру, не подключенному к сети, и извлеките все файлы в архив на компьютере. Процесс извлечения файлов очень важен, при неправильном извлечении MEW будет выглядеть странно. В итоге вы должны получить директорию, содержащую следующие файлы:
 
-<img src="/images/posts/offline/MEWoffline3.png" alt="Image of MEW offline extracting zip file" width="80%" />
+<img src="/images/posts/offline/MEWoffline3.png" alt="Изображение распаковки зип-файла MEW оффлайн" width="80%" />
 
 **Шаг 4.** Чтобы открыть MEW, дважды щелкните файл "index.html". MEW откроется в вашем браузере. Вы получите предупреждение о невозможности подключения к сети, что закономерно. Вы не подключены к интернету. Вы не сможете увидеть баланс ETH или токенов, но его можно узнать, используя безопасные и общедоступные способы, например, обозреватели блокчейна Ethereum etherscan.io или ethplorer.io.
 
-<img src="/images/posts/offline/MEWoffline4.png" alt="Image of MEW offline 'Index' file" width="80%" />
+<img src="/images/posts/offline/MEWoffline4.png" alt="Изображение Индекс файла MEW оффлайн" width="80%" />
 
 Поздравляем, вы запустили MEW оффлайн! Не забывайте периодически повторять этот процесс чтобы всегда пользоваться последней версией нашего интерфейса.
 
