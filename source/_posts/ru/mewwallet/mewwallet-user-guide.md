@@ -103,7 +103,7 @@ primary_category_display_name: "MEWwallet"
 
 ##### \_\_
 
-<img class="image-right" alt="GIF of MEW wallet Peggy spacegirl floating" src="/images/posts/security/1_floating.gif" align="right" width="25%" />
+<img class="image-right" alt="GIF MEW wallet космонавт Пегги в воздухе" src="/images/posts/security/1_floating.gif" align="right" width="25%" />
 
 <br>
 
@@ -118,7 +118,7 @@ primary_category_display_name: "MEWwallet"
 
 **Шаг 1.** Выберите "Купить эфир" (Buy Ether) на главной странице приложения MEW wallet.
 
-<img src="/images/posts/mewconnect/mcreate7.jpg" alt="Image of MEW wallet main page" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mcreate7.jpg" alt="Изображение главной страницы MEW wallet" style="max-width: 250px;" />
 
 **Шаг 2.** Выберите сумму, которую вы хотите приобрести, или введите свою сумму (до 250 долларов США в эквиваленте).
 * Если вы используете iOS в США, Apply Pay позволяет покупать ETH одним нажатием кнопки!
@@ -189,7 +189,7 @@ primary_category_display_name: "MEWwallet"
 -   Возможно, вам потребуется проверить права доступа к камере в настройках телефона.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mwcard.jpg" alt="Image of MEW wallet main page" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwcard.jpg" alt="Изображение главной страницы MEW wallet" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Image of MEW wallet scanning QR code" style="max-width: 250px;" />
 </div>
 
