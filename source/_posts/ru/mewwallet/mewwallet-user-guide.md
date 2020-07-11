@@ -25,7 +25,7 @@ primary_category_display_name: "MEWwallet"
 
 ##### \_\_
 
-<img class="image-right" alt="GIF MEW wallet космонавтка Peggy" src="/images/posts/security/3_logo.gif" align="right" width="25%" />
+<img class="image-right" alt="GIF MEW wallet космонавт Пегги" src="/images/posts/security/3_logo.gif" align="right" width="25%" />
 
 <br>
 
@@ -64,13 +64,13 @@ primary_category_display_name: "MEWwallet"
 **Шаг 5.** Подождите, пока будет сгенерирован ваш аккаунт, а затем выберите "Начать пользоваться MEW wallet".
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate6.jpg" alt="Image of MEW wallet generating a new wallet" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate7.jpg" alt="Image of newly created MEW wallet account" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate6.jpg" alt="Изображение MEW wallet создание нового кошелька" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate7.jpg" alt="Изображение новой учетной записи MEW wallet" style="max-width: 250px;" />
 </div>
 
 ##### \_\_
 
-<img class="image-right" alt="GIF of MEW wallet Peggy spacegirl closing helmet" src="/images/posts/security/5_deal.gif" align="right" width="25%" />
+<img class="image-right" alt="GIF MEW космонавт Пегги закрывает шлем" src="/images/posts/security/5_deal.gif" align="right" width="25%" />
 
 <br>
 
