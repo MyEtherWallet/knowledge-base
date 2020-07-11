@@ -40,7 +40,7 @@ primary_category_display_name: "MEWwallet"
 
 **Шаг 1.** Откройте приложение MEW wallet.
 
-<img src="/images/posts/mewconnect/mcreate1.jpg" alt="Изображение страницы MEW 'Создать кошелек'" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mcreate1.jpg" alt="Изображение страницы MEW wallet 'Создать кошелек'" style="max-width: 250px;" />
 
 **Шаг 2.** Выберите "Создать бесплатный кошелек" (Create a free wallet)
 
@@ -49,16 +49,16 @@ primary_category_display_name: "MEWwallet"
 <br>
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate2.jpg" alt="Image of MEW wallet safety tips part 1" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate3.jpg" alt="Image of MEW wallet safety tips part 2" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate2.jpg" alt="Изображение советов безопасности MEW wallet, часть 1" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate3.jpg" alt="Изображение советов безопасности MEW wallet, часть 2" style="max-width: 250px;" />
 </div>
 
 **Шаг 4.** Выберите надежный Pin-код.
 * Вы также можете включить биометрический доступ, например, по отпечатку пальца или с помощью распознавания лица.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate4.jpg" alt="Image of MEW wallet create a pin" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate5.jpg" alt="Image of MEW wallet enable fingerprint or facial recognition" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate4.jpg" alt="Изображение MEW wallet создайте пин код" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mcreate5.jpg" alt="Изображение MEW wallet активировать сканер или распознавание лица" style="max-width: 250px;" />
 </div>
 
 **Шаг 5.** Подождите, пока будет сгенерирован ваш аккаунт, а затем выберите "Начать пользоваться MEW wallet".
