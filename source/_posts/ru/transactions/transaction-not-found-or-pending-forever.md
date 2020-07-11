@@ -44,4 +44,4 @@ alias:
 
 ## **Визуальное представление процесса**
 
-<img src="/images/posts/transactions/tx_pool_infographic.png" alt="Image of transaction gas infographic" width="80%" />
+<img src="/images/posts/transactions/tx_pool_infographic.png" alt="Изображение инфографики транзакционного газа" width="80%" />
