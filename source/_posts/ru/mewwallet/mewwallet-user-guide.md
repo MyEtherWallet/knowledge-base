@@ -25,7 +25,7 @@ primary_category_display_name: "MEWwallet"
 
 ##### \_\_
 
-<img class="image-right" alt="GIF of MEW wallet happy Peggy spacegirl" src="/images/posts/security/3_logo.gif" align="right" width="25%" />
+<img class="image-right" alt="GIF MEW wallet космонавтка Peggy" src="/images/posts/security/3_logo.gif" align="right" width="25%" />
 
 <br>
 
@@ -40,7 +40,7 @@ primary_category_display_name: "MEWwallet"
 
 **Шаг 1.** Откройте приложение MEW wallet.
 
-<img src="/images/posts/mewconnect/mcreate1.jpg" alt="Image of MEW wallet 'Create wallet' page" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mcreate1.jpg" alt="Изображение страницы MEW 'Создать кошелек'" style="max-width: 250px;" />
 
 **Шаг 2.** Выберите "Создать бесплатный кошелек" (Create a free wallet)
 
