@@ -87,7 +87,7 @@ primary_category_display_name: "MEWwallet"
 
 -   Вы также можете перейти в "Настройки", а затем выбрать "Посмотреть фразу для восстановления".
 
-<img src="/images/posts/mewconnect/mbackup1.jpg" alt="Image of MEW wallet back up warning" style="max-width: 350px; width: 100%;" />
+<img src="/images/posts/mewconnect/mbackup1.jpg" alt="Изображение предупреждения о резервном копировании MEW wallet" style="max-width: 350px; width: 100%;" />
 <img src="/images/posts/mewconnect/mbackup2.jpg" alt="Image of MEW wallet back up details screen" style="max-width: 250px; width: 100%;" />
 
 **Шаг 2.** Возьмите ручку и лист бумаги, и запишите появившиеся 24 слова.
