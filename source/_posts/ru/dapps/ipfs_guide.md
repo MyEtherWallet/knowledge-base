@@ -34,15 +34,15 @@ primary_category_display_name: "Dapps"
 
 **Шаг 2.** Зайдите в раздел 'Dapps' и выберите Менеджер ENS.
 
-<img src="/images/posts/diving-deeper/ENSmanagertiny.png" alt="Image of ENS Manager on Dapps page" width="40%" />
+<img src="/images/posts/diving-deeper/ENSmanagertiny.png" alt="Изображение менеджера ENS на странице Dapps" width="40%" />
 
 **Шаг 3.** Нажмите на вкладку «Управление», затем выберите домен ENS, который должен разместить ваш сайт.
 
-<img src="/images/posts/diving-deeper/ensmanage.png" alt="Image of ENS 'Manage Domain' page" width="80%" />
+<img src="/images/posts/diving-deeper/ensmanage.png" alt="Изображение страницы ENS 'Управление доменом'" width="80%" />
 
 **Шаг 4.** Нажмите кнопку 'Управление' снова на этом шаге, чтобы быть перенесены в раздел детали домена. Прокрутите вниз до раздела 'IPFS Hash'.
 
-<img src="/images/posts/diving-deeper/ensmanage2.png" alt="Image of user owned ENS domain" width="80%" />
+<img src="/images/posts/diving-deeper/ensmanage2.png" alt="Изображение собственного домена ENS" width="80%" />
 
 <img src="/images/posts/diving-deeper/ensmanageipfs.png" alt="Изображения хэша IPFS в ENS" width="80%" />
 
