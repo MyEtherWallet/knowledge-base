@@ -95,11 +95,11 @@ primary_category_display_name: "MEWwallet"
 * Лучше всего записать эту фразу 2-3 раза на разных листах бумаги и хранить их в разных безопасных местах.
 * Мы не сможем восстановить эту фразу для вас, но любой человек, у которого есть доступ к ней, получит постоянный доступ к вашим средствам.
 
-<img src="/images/posts/mewconnect/mbackup3.jpg" alt="Image of MEW wallet back up preparation" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mbackup3.jpg" alt="Изображение подготовки резервного копирования MEW wallet" style="max-width: 250px;" />
 
 **Шаг 3.** Пройдите небольшую проверку на устройстве, и готово!
 
-<img src="/images/posts/mewconnect/mbackup4.jpg" alt="Image of MEW wallet successfully backed up" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mbackup4.jpg" alt="Изображение успешного резервного копирования MEW wallet" style="max-width: 250px;" />
 
 ##### \_\_
 
@@ -124,7 +124,7 @@ primary_category_display_name: "MEWwallet"
 * Если вы используете iOS в США, Apply Pay позволяет покупать ETH одним нажатием кнопки!
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mewwallet1.png" alt="Image of MEW wallet buy ETH selection" style="max-width: 250px;" />
+  <img src="/images/posts/mewconnect/mewwallet1.png" alt="Изображение покупки ETH в MEW wallet" style="max-width: 250px;" />
   <img src="/images/posts/mewconnect/mewwallet2.png" alt="Image of MEW wallet Apple Pay" style="max-width: 250px;" />
 </div>
 
@@ -196,4 +196,4 @@ primary_category_display_name: "MEWwallet"
 **Шаг 4.** Поздравляем, вы подключили свое приложение MEW wallet к MEW web!
 
 <img src="/images/posts/mewconnect/mwconnected.jpg" alt="Image of MEW wallet 'Connected to MEW web' screen" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwconnectoverview.png" alt="Image of MEW wallet account connected to MEW web interface" style="max-width: 600px; width: 100%;" />
+<img src="/images/posts/mewconnect/mwconnectoverview.png" alt="Изображение MEW wallet, подключенного к веб-интерфейсу" style="max-width: 600px; width: 100%;" />
