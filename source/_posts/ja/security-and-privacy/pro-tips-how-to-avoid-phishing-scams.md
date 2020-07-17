@@ -40,7 +40,7 @@ alias:
 
 -   Search for the service on Google, or find the information from an official source. Make sure it’s not an ad!
 
-<img src="/images/posts/security/ProTip1.jpg" width=" 65%" />
+<img alt="" src="/images/posts/security/ProTip1.jpg" width=" 65%" />
 
 ## **4. You should never have to enter your private key for any service, airdrop, or KYC verification.**
 
@@ -51,26 +51,26 @@ alias:
 -   Phishers are very clever with their tiny dots and accents over and under the letters.
 -   Bookmark all the sites you frequent most!
 
-<img src="/images/posts/security/ProTip2.jpg" width=" 65%" />
+<img alt="" src="/images/posts/security/ProTip2.jpg" width=" 65%" />
 
 ## **6. Always Google search any token sales or ICOs you’re interested in.**
 
 -   If it’s a scam, others will likely be posting about it.
 -   Check their Twitter, Reddit, etc. (Follow us on Twitter and Reddit while you’re at it!)
 
-<img src="/images/posts/security/ProTip3.jpg" width=" 65%" />
+<img alt="" src="/images/posts/security/ProTip3.jpg" width=" 65%" />
 
 ## **7. Search smart and look for common signs of scams – lack of followers in common, angry comments, etc.**
 
 -   Remember, there are many fake bots and accounts out there!
 
-<img src="/images/posts/security/ProTip4.jpg" width=" 65%" />
+<img alt="" src="/images/posts/security/ProTip4.jpg" width=" 65%" />
 
 ## **8. Before sending crypto to any address, search it on Etherscan first.**
 
 -   There is a comment section there that is likely to be full of angry people if the address is known for stealing funds.
 
-<img src="/images/posts/security/ProTip5.jpg" width=" 65%" />
+<img alt="" src="/images/posts/security/ProTip5.jpg" width=" 65%" />
 
 ## **9. Double and triple-check everything!**
 
