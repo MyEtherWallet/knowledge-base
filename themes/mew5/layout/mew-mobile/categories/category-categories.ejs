@@ -10,7 +10,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'get-started'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/get-started.svg') %>
+                                    <%- image_tag('images/mew-icons/get-started.svg', {alt: ''}) %>
                                     <p><%= _p('index.get_started') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'get-started'}).posts.length %></p></div>
@@ -20,7 +20,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'diving-deeper'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/diving-deeper.svg') %>
+                                    <%- image_tag('images/mew-icons/diving-deeper.svg', {alt: ''}) %>
                                     <p><%= _p('index.diving_deeper') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'diving-deeper'}).posts.length %></p>
@@ -31,7 +31,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'security-and-privacy'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/security-and-privacy.svg') %>
+                                    <%- image_tag('images/mew-icons/security-and-privacy.svg', {alt: ''}) %>
                                     <p><%= _p('index.security_privacy') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'security-and-privacy'}).posts.length %></p>
@@ -47,7 +47,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'mewwallet'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/mewconnect.svg') %>
+                                    <%- image_tag('images/mew-icons/mewconnect.svg', {alt: ''}) %>
                                     <p><%= _p('index.mewwallet') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'mewwallet'}).posts.length %></p></div>
@@ -57,7 +57,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'hardware-wallets'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/hardware-wallet.svg') %>
+                                    <%- image_tag('images/mew-icons/hardware-wallet.svg', {alt: ''}) %>
                                     <p><%= _p('index.hardware_wallet') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'hardware-wallets'}).posts.length %></p>
@@ -68,7 +68,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'mewconnect'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/mewconnect.svg') %>
+                                    <%- image_tag('images/mew-icons/mewconnect.svg', {alt: ''}) %>
                                     <p><%= _p('index.mewconnect') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'mewconnect'}).posts.length %></p></div>
@@ -78,7 +78,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'migration'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/migrating.svg') %>
+                                    <%- image_tag('images/mew-icons/migrating.svg', {alt: ''}) %>
                                     <p><%= _p('index.migrating') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'migration'}).posts.length %></p></div>
@@ -93,7 +93,7 @@
                         <li>
                             <a href=" <%- url_for_lang(site.categories.findOne({name: 'token'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/tokens.svg') %>
+                                    <%- image_tag('images/mew-icons/tokens.svg', {alt: ''}) %>
                                     <p><%= _p('index.tokens') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'token'}).posts.length %></p></div>
@@ -103,7 +103,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'offline'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/offline.svg') %>
+                                    <%- image_tag('images/mew-icons/offline.svg', {alt: ''}) %>
                                     <p><%= _p('index.offline') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'offline'}).posts.length %></p></div>
@@ -113,7 +113,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'networks-and-nodes'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/network.svg') %>
+                                    <%- image_tag('images/mew-icons/network.svg', {alt: ''}) %>
                                     <p><%= _p('index.network_and_nodes') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'networks-and-nodes'}).posts.length %></p>
@@ -124,7 +124,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'transactions'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/transactions.svg') %>
+                                    <%- image_tag('images/mew-icons/transactions.svg', {alt: ''}) %>
                                     <p><%= _p('index.transactions') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'transactions'}).posts.length %></p></div>
@@ -134,7 +134,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'swap'}).posts.sort('date', 1).data[0].path) %> ">
                                 <div>
-                                    <%- image_tag('images/mew-icons/swap.svg') %>
+                                    <%- image_tag('images/mew-icons/swap.svg', {alt: ''}) %>
                                     <p><%= _p('index.swap') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'swap'}).posts.length %></p></div>
@@ -144,7 +144,7 @@
                         <li>
                             <a href="<%- url_for_lang(site.categories.findOne({name: 'dapps'}).posts.sort('date', 1).data[0].path) %>">
                                 <div>
-                                    <%- image_tag('images/mew-icons/ens.svg') %>
+                                    <%- image_tag('images/mew-icons/ens.svg', {alt: ''}) %>
                                     <p><%= _p('index.dapps') %></p>
                                     <div class="post-counter">
                                         <p><%= site.categories.findOne({name: 'dapps'}).posts.length %></p></div>

@@ -34,13 +34,13 @@ _Пожалуйста, приобретайте аппаратные кошел�
 
 **Шаг 1.** Подключите и выполните вход в ваше устройство Ledger. Вы должны увидеть несколько пунктов, выберите раздел Ethereum, как показано выше. Нажмите обе кнопки, чтобы открыть его.
 
-<img src="/images/posts/hardware-wallet/ledger/ethereum-app.jpg" width="50%" />
+<img alt="" src="/images/posts/hardware-wallet/ledger/ethereum-app.jpg" width="50%" />
 
 * * *
 
 **Шаг 2.** Нажмите на обе кнопки для перехода в этот раздел настроек.
 
-<img src="/images/posts/hardware-wallet/ledger/ethereum-settings.jpg" width="50%" />
+<img alt="" src="/images/posts/hardware-wallet/ledger/ethereum-settings.jpg" width="50%" />
 
 * * *
 

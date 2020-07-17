@@ -3,7 +3,7 @@
   <div class="article-gallery-photos">
     <% post.photos.forEach(function(photo, i){ %>
       <a class="article-gallery-img fancybox" href="<%- url_for_lang(photo) %>" rel="gallery_<%= post._id %>">
-        <img src="<%- url_for_lang(photo) %>" itemprop="image">
+        <img alt="" src="<%- url_for_lang(photo) %>" itemprop="image">
       </a>
     <% }) %>
   </div>
