@@ -58,6 +58,4 @@ primary_category_display_name: "MEW wallet"
   <img src="/images/posts/mewconnect/mws10.jpg" alt="Image of MEW wallet full account details" style="max-width: 250px;" />
 </div>
 
-
-
 [Mwcreate]: /@@@@@@/mewwallet/mewwallet-user-guide
