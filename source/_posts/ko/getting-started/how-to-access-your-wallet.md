@@ -135,7 +135,7 @@ The Keystore/JSON is a file that holds an encrypted version of one’s private k
 
 ## **Mnemonic Phrase (+ Extra Word)**
 
-This is a list of 12 to 24 words that are generated and given to users upon certain forms of wallet creation (i.e. MEWconnect, MetaMask, Hardware Wallets, JAXX wallets, etc.). Sometimes these phrases have an extra word associated with them, and sometimes they do not. The order and spelling of the words in a mnemonic phrase is directly tied to one’s private key, and therefore is not recommended as a regular way to access a wallet. It is best to only use this phrase for recovery purposes.
+This is a list of 12 to 24 words that are generated and given to users upon certain forms of wallet creation (i.e. the MEW wallet app, MetaMask, Hardware Wallets, JAXX wallets, etc.). Sometimes these phrases have an extra word associated with them, and sometimes they do not. The order and spelling of the words in a mnemonic phrase is directly tied to one’s private key, and therefore is not recommended as a regular way to access a wallet. It is best to only use this phrase for recovery purposes.
 
 ## **To connect with Mnemonic Phrase (+ Extra Word):**
 
@@ -147,13 +147,13 @@ This is a list of 12 to 24 words that are generated and given to users upon cert
 
 **Step 3.** Choose whether it was a 12 or 24 word phrase, then fill out the form.
 
-**Step 4.** Enter your extra word (leave this blank if you’re using a MEWconnect phrase), and click ‘Unlock wallet’.
+**Step 4.** Enter your extra word (leave this blank if you’re using a the MEW wallet app phrase), and click ‘Unlock wallet’.
 
 **Step 5.** Choose your wallet’s address amongst the list generated, and you’re done!
 
 ## **Private Key**
 
-The private key is a string of 64 characters tied permanently to a public address. This is sometimes given to users when wallets are created and sometimes kept encrypted (in the case of MEWconnect, MetaMask, and Hardware Wallets). _Using one’s private key should always be a last-ditch effort of access, only to be utilized when all else fails._ This should not be the main method of entry for anyone to access their wallets. Private keys are the number one most sensitive information anyone can have for a wallet, because private keys allow immediate access and can never be changed. Therefore, it is extremely important to keep this safe, secure, and secret.
+The private key is a string of 64 characters tied permanently to a public address. This is sometimes given to users when wallets are created and sometimes kept encrypted (in the case of the MEW wallet app, MetaMask, and Hardware Wallets). _Using one’s private key should always be a last-ditch effort of access, only to be utilized when all else fails._ This should not be the main method of entry for anyone to access their wallets. Private keys are the number one most sensitive information anyone can have for a wallet, because private keys allow immediate access and can never be changed. Therefore, it is extremely important to keep this safe, secure, and secret.
 
 ## **To connect with Private Key:**
 
