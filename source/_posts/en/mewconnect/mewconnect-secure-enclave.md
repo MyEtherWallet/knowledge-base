@@ -22,7 +22,8 @@ alias:
 
 #### **[Download the MEW wallet app now][downloadmewwallet] for iOS or Android and migrate your account for free!**
 
-## ** **This article is outdated** **
+## \*\* **This article is outdated** \*\*
+
 #### **Check out our [MEW wallet User Guide][mewwalletguide] for more information on how to use the MEW wallet app.**
 
 ## **In short, the answer is no because it is not possible.**
