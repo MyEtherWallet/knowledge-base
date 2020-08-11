@@ -21,11 +21,11 @@ alias:
 
 ## **UPDATE: The MEWconnect app has been discontinued to make way for our fully-fledged MEW wallet app, which allows users to store ETH and tokens, send transactions, and swap directly from their phone!**
 
-#### **[Download the MEW wallet app now](https://www.mewwallet.com/) for iOS or Android and migrate your account for free!**
+#### **[Download the MEW wallet app now][downloadmewwallet] for iOS or Android and migrate your account for free!**
 
 ## \*\* **This article is outdated** \*\*
 
-#### **Check out our [MEW wallet User Guide](/@@@@@@/mewwallet/mewwallet-user-guide/) for more information on how to use the MEW wallet app.**
+#### **Check out our [MEW wallet User Guide][mewwalletguide] for more information on how to use the MEW wallet app.**
 
 <br>
 
@@ -77,7 +77,7 @@ You're done! All backed up and ready to connect to MEW
 
 **Step 1.** Unlock your wallet on MEWconnect.
 
-**Step 2.** Find a desktop computer. Head to the [MEW](https://www.myetherwallet.com) site.
+**Step 2.** Find a desktop computer. Head to the [MEW][mew] site.
 
 Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   the URL. We recommend the Google Chrome browser.
 
@@ -98,11 +98,11 @@ You’re done! You can now use our interface as usual, with the MEWconnect app a
 
 **Step 1.**  Unlock your wallet on MEWconnect.
 
-**Step 2.**  Connect to the [MEW](https://www.myetherwallet.com) site, as shown above.
+**Step 2.**  Connect to the [MEW][mew] site, as shown above.
 
 **Step 3.**  Follow the process of a regular transaction.
 
-Fill in the ‘Type’ of crypto, the 'Amount' you wish to send, and the 'To Address' of where you're sending it. If you have any questions, refer to our article on [How to Send a Transaction](/@@@@@@/transactions/how-to-send-a-transaction/).
+Fill in the ‘Type’ of crypto, the 'Amount' you wish to send, and the 'To Address' of where you're sending it. If you have any questions, refer to our article on [How to Send a Transaction][sendaTX].
 
 **Step 4.**  Confirm your transaction on the MEWconnect app.
 
@@ -134,7 +134,7 @@ You can share your address with anyone you’d like by clicking the arrow button
 
 ## **How to Change Your Password on MEWconnect**
 
-#### **You may want to consider upgrading to the [MEW wallet app](https://www.mewwallet.com/) instead of changing your password, as the MEWconnect app has been discontinued.**
+#### **You may want to consider upgrading to the [MEW wallet app][downloadmewwallet] instead of changing your password, as the MEWconnect app has been discontinued.**
 
 <br>
 
@@ -168,3 +168,13 @@ If you do not remember your password and do not have your 24-word recovery phras
 **Step 4.** Celebrate, you’re done!
 
 <img src="/images/posts/mewconnect/YoureDoneMC.jpg" width="30%" />
+
+[mew]: https://www.myetherwallet.com
+
+[sendaTX]: /@@@@@@/transactions/how-to-send-a-transaction/
+
+[downloadmewwallet]: https://www.mewwallet.com/
+
+[downloadmewwallet]: https://www.mewwallet.com/
+
+[mewwalletguide]: /@@@@@@/mewwallet/mewwallet-user-guide/
