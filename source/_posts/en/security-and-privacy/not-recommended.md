@@ -26,7 +26,7 @@ Whether you’re using your private key, keystore file, or mnemonic phrase, each
 
 This means that if someone gets ahold of your mnemonic phrase or keystore file, they have full control over your wallet. Keystore files can have their passwords brute-forced relatively easily, if the password is weak enough. And Mnemonic phrases directly link to the same root private key, everytime.
 
-This is why we do not recommend using these types of wallets, but instead use a wallet that keeps your key separate from the online world of peering eyes. MEWconnect, hardware wallets, and MetaMask are the most secure options we offer for access. 
+This is why we do not recommend using these types of wallets, but instead use a wallet that keeps your key separate from the online world of peering eyes. The MEW wallet app, hardware wallets, and Chrome browser extensions (MEW CX, MetaMask) are the most secure options we offer for access. 
 
 ## **Why do you have these options if they aren’t recommended?**
 

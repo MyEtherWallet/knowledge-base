@@ -38,7 +38,7 @@ If you plan to move large amounts of ETH or ERC20 tokens, we suggest sending a s
 
 **Step 4.** Click ‘Send Transaction’ and confirm the transaction on the next screen.
 
--   If you’re using MEWconnect or a hardware wallet, be sure to confirm the transaction on your device as well.
+-   If you’re using the MEW wallet app or a hardware wallet, be sure to confirm the transaction on your device as well.
 
 **Step 5.** Your transaction has been posted! Copy your transaction hash, for your records. 
 

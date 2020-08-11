@@ -24,11 +24,11 @@ alias:
 
 Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, but want to fool around on the Ropsten test network first? Or maybe you’re just interested in other networks that have forked off of the Ethereum blockchain? If any of the above are true, this is the article for you.
 
-## **Using MEWconnect, MetaMask, or a Keystore File/Mnemonic Phrase/Private Key**
+## **Using the MEW wallet app, MetaMask, or a Keystore File/Mnemonic Phrase/Private Key**
 
 **Step 1.** [Access your wallet][accessMEW] by choosing the desired method of access.
 
--   We do not recommend using a Keystore File/Mnemonic Phrase/Private Key to access your funds. If you use one of these methods, we highly suggest [using MEW offline][offlineMEW], or [creating a new wallet with MEWconnect][createMEWconnect] and transferring your funds. 
+-   We do not recommend using a Keystore File/Mnemonic Phrase/Private Key to access your funds. If you use one of these methods, we highly suggest [using MEW offline][offlineMEW], or [creating a new wallet with the MEW wallet app][createmewwallet] and transferring your funds. 
 
 **Step 2.** On your wallet’s overview page, you will see a ‘Network’ section in the upper right hand corner. Click the 'Change' button.
 
@@ -50,4 +50,4 @@ Have you accidentally sent ETC to your ETH address? Are you curious to try ETH, 
 
 [offlineMEW]: /@@@@@@/offline/offline-mew-looks-weird/
 
-[createMEWconnect]: /@@@@@@/mewconnect-101-create/
+[createmewwallet]: /@@@@@@/mewwallet/mewwallet-user-guide/
