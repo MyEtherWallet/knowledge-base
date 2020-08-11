@@ -285,6 +285,13 @@ alias:
   /posts/mewconnect/mewconnect-101-overview/: /en/mewconnect/mewconnect-101-overview/
   /posts/mewconnect/mewconnect-change-password/: /en/mewconnect/mewconnect-change-password/
   /en/mewconnect/: /en/mewconnect/mewconnect-user-guide/
+
+  # MEWconnect Depreciation Redirects
+  /en/mewconnect/mewconnect-user-guide/: en/mewconnect/mewconnect-upgrade-mewwallet
+  /en/mewconnect/mewconnect-secure-enclave/: en/mewconnect/mewconnect-upgrade-mewwallet
+  /en/mewconnect/mewconnect-101-overview/: en/mewconnect/mewconnect-upgrade-mewwallet
+  /en/mewconnect/mewconnect-change-password/: en/mewconnect/mewconnect-upgrade-mewwallet
+
   #--- former aliases in en/ directory
   /mewconnect/mew-connect-101-connect.html: /en/mewconnect/mewconnect-101-overview/
   /mewconnect/mew-connect-101-create.html: /en/mewconnect/mewconnect-101-overview/
