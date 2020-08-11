@@ -11,7 +11,7 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-  - en/mewconnect/mew-connect-101-overview.html
+  - en/mewconnect/mewconnect-upgrade-mewwallet.html
 ---
 
 # **MEWconnect 101 Video Series**
