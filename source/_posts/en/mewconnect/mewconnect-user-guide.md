@@ -23,7 +23,8 @@ alias:
 
 #### **[Download the MEW wallet app now][downloadmewwallet] for iOS or Android and migrate your account for free!**
 
-## ** **This article is outdated** **
+## \*\* **This article is outdated** \*\*
+
 #### **Check out our [MEW wallet User Guide][mewwalletguide] for more information on how to use the MEW wallet app.**
 
 <br>
@@ -130,7 +131,7 @@ You can purchase ETH in the MEWconnect app by choosing the top-right button labe
 You can share your address with anyone you’d like by clicking the arrow button to the right of your address. It will give you different options like text, email, twitter, etc..
 <br />
 
-***
+* * *
 
 ## **How to Change Your Password on MEWconnect**
 
@@ -171,7 +172,6 @@ If you do not remember your password and do not have your 24-word recovery phras
 
 [backitup]: /@@@@@@/mewconnect/mewconnect-user-guide/
 
-
 [mew]: https://www.myetherwallet.com
 
 [sendaTX]: /@@@@@@/transactions/how-to-send-a-transaction/
@@ -179,5 +179,3 @@ If you do not remember your password and do not have your 24-word recovery phras
 [downloadmewwallet]: https://www.mewwallet.com/
 
 [mewwalletguide]: /@@@@@@/mewwallet/mewwallet-user-guide/
-
-
