@@ -287,7 +287,6 @@ alias:
   /en/mewconnect/: /en/mewconnect/mewconnect-user-guide/
 
   # MEWconnect Depreciation Redirects
-  /en/mewconnect/mewconnect-user-guide/: en/mewconnect/mewconnect-upgrade-mewwallet
   /en/mewconnect/mewconnect-secure-enclave/: en/mewconnect/mewconnect-upgrade-mewwallet
   /en/mewconnect/mewconnect-101-overview/: en/mewconnect/mewconnect-upgrade-mewwallet
   /en/mewconnect/mewconnect-change-password/: en/mewconnect/mewconnect-upgrade-mewwallet
