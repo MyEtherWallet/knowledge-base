@@ -10,7 +10,7 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-  - mewconnect/mew-connect-user-guide.html
+  - en/mewconnect/mew-connect-user-guide.html
 ---
 
 # **MEWconnect app User Guide**
@@ -21,11 +21,11 @@ alias:
 
 ## **UPDATE: The MEWconnect app has been discontinued to make way for our fully-fledged MEW wallet app, which allows users to store ETH and tokens, send transactions, and swap directly from their phone!**
 
-#### **[Download the MEW wallet app now](https://www.mewwallet.com/) for iOS or Android and migrate your account for free!**
+#### **[Download the MEW wallet app now][downloadmewwallet] for iOS or Android and migrate your account for free!**
 
 ## \*\* **This article is outdated** \*\*
 
-#### **Check out our [MEW wallet User Guide](/@@@@@@/mewwallet/mewwallet-user-guide/) for more information on how to use the MEW wallet app.**
+#### **Check out our [MEW wallet User Guide][mewwalletguide] for more information on how to use the MEW wallet app.**
 
 <br>
 
@@ -77,7 +77,7 @@ You're done! All backed up and ready to connect to MEW
 
 **Step 1.** Unlock your wallet on MEWconnect.
 
-**Step 2.** Find a desktop computer. Head to the [MEW](https://www.myetherwallet.com) site.
+**Step 2.** Find a desktop computer. Head to the [MEW][mew] site.
 
 Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   the URL. We recommend the Google Chrome browser.
 
@@ -98,11 +98,11 @@ Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   th
 
 **Step 1.**  Unlock your wallet on MEWconnect.
 
-**Step 2.**  Connect to the [MEW](https://www.myetherwallet.com) site, as shown above.
+**Step 2.**  Connect to the [MEW][mew] site, as shown above.
 
 **Step 3.**  Follow the process of a regular transaction.
 
-Fill in the ‘Type’ of crypto, the 'Amount' you wish to send, and the 'To Address' of where you're sending it. If you have any questions, refer to our article on [How to Send a Transaction](/@@@@@@/transactions/how-to-send-a-transaction/).
+Fill in the ‘Type’ of crypto, the 'Amount' you wish to send, and the 'To Address' of where you're sending it. If you have any questions, refer to our article on [How to Send a Transaction][sendaTX].
 
 **Step 4.**  Confirm your transaction on the MEWconnect app.
 
@@ -132,39 +132,49 @@ You can share your address with anyone you’d like by clicking the arrow button
 
 * * *
 
-## **Как изменить пароль на MEWconnect**
+## **How to Change Your Password on MEWconnect**
 
-#### **You may want to consider upgrading to the [MEW wallet app](https://www.mewwallet.com/) instead of changing your password, as the MEWconnect app has been discontinued.**
+#### **You may want to consider upgrading to the [MEW wallet app][downloadmewwallet] instead of changing your password, as the MEWconnect app has been discontinued.**
 
 <br>
 
-Чтобы изменить свой пароль в MEWconnect, вам потребуется телефон и фраза для восстановления из 24 слов.
+To change your password on MEWconnect, all you need is your phone and your 24-word recovery phrase.
 
-If you still remember your password and do not have your 24-word recovery phrase, please scroll up to Section 2 of this article. Сброс кошелька без знания фразы восстановления приведет к его полной потере.
+If you still remember your password and do not have your 24-word recovery phrase, please scroll up to Section 2 of this article. Resetting your wallet without knowing your recovery phrase will result in the permanent loss of your wallet.
 
-Если вы не помните пароль и фразу для восстановления из 24 слов, мы ничего не сможем сделать. Восстановите в памяти свои действия и попытайтесь вспомнить пароль, иначе ваш кошелек будет потерян навсегда.
+If you do not remember your password and do not have your 24-word recovery phrase, there is nothing we can do. Retrace your steps and try to remember your password, or your wallet will be lost forever.
 
-## **Смена пароля**
+## **Change Your Password**
 
-**Шаг 1.** Сделайте сброс кошелька на странице входа или в разделе "Информация".
+**Step 1.** Reset your wallet, either on the login screen or under our ‘Info’ section.
 
--   Нажмите ‘Забыли пароль?’ на главном экране или ‘Сброс кошелька >’ на вкладке ‘Информация’.
+-   Choose ‘Forgot password?’ on the home screen, or ‘Reset wallet >’ in the Info tab.
 
-<img src="/images/posts/mewconnect/ForgotPassMC.jpg" alt="Изображение экрана входа в приложение MEWconnect" width="35%" />
+<img src="/images/posts/mewconnect/ForgotPassMC.jpg" alt="Image of MEWconnect log-in screen" width="35%" />
 
-<img src="/images/posts/mewconnect/MainResetMC.jpg" alt="Изображение экрана MEWconnect 'Забытый пароль'" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" alt="Изображение страницы настроек MEWconnect" width="30%" />
+<img src="/images/posts/mewconnect/MainResetMC.jpg" alt="Image of MEWconnect 'Forgot Password' screen" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" alt="Image of MEWconnect settings page" width="30%" />
 
-**Шаг 2.** Введите вашу фразу восстановления из 24 слов. Убедитесь, что все слова расположены в правильном порядке и правильно написаны.
+**Step 2.** Enter your 24-word recovery phrase. Make sure each word is in the correct order and spelled accurately.
 
--   Не вводите запятые между словами, используйте только один пробел.
+-   Do not include commas between the words, only a single space.
 
-<img src="/images/posts/mewconnect/RecoverMC.jpg" alt="Изображение экрана восстановления кошелька MEWconnect" width="30%" />
+<img src="/images/posts/mewconnect/RecoverMC.jpg" alt="Image of MEWconnect recovery phrase screen" width="30%" />
 
-**Шаг 3.** Введите новый пароль. Выберите сложный пароль для повышения уровня безопасности.
+**Step 3.** Enter a new password. Please choose a difficult one, for increased security.
 
--   Обязательно запишите где-нибудь этот пароль, чтобы не забыть его!
--   Мы не сможем восстановить или изменить ваш пароль.
+-   Be sure to write this password down somewhere, so you don’t forget it!
+-   We cannot recover or change your password for you.
 
-**Шаг 4.** Ура, все готово!
+**Step 4.** Celebrate, you’re done!
 
 <img src="/images/posts/mewconnect/YoureDoneMC.jpg" width="30%" />
+
+[mew]: https://www.myetherwallet.com
+
+[sendaTX]: /@@@@@@/transactions/how-to-send-a-transaction/
+
+[downloadmewwallet]: https://www.mewwallet.com/
+
+[downloadmewwallet]: https://www.mewwallet.com/
+
+[mewwalletguide]: /@@@@@@/mewwallet/mewwallet-user-guide/
