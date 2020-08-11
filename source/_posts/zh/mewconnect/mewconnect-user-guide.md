@@ -1,5 +1,5 @@
 ---
-title: "MEWconnect User Guide"
+title: "MEWconnect app User Guide"
 date: 2018-03-01 00:01:00
 tags:
   - mewconnect
@@ -13,15 +13,23 @@ alias:
   - en/mewconnect/mew-connect-user-guide.html
 ---
 
-# **MEWconnect User Guide**
+# **MEWconnect app User Guide**
 
-###### {% read_time title "MEWconnect User Guide" %} min read
+###### {% read_time title "MEWconnect app User Guide" %} min read
 
 * * *
 
-## **MEW's official fully-fledged mobile app MEW wallet is available!**
+## **UPDATE: The MEWconnect app has been discontinued to make way for our fully-fledged MEW wallet app, which allows users to store ETH and tokens, send transactions, and swap directly from their phone!**
 
-#### **[Download it now](/@@@@@@/mewwallet/mewwallet-user-guide/) for iOS or Android and migrate your wallet for free!**
+#### **[Download the MEW wallet app now](https://www.mewwallet.com/) for iOS or Android and migrate your account for free!**
+
+## \*\* **This article is outdated** \*\*
+
+#### **Check out our [MEW wallet User Guide](/@@@@@@/mewwallet/mewwallet-user-guide/) for more information on how to use the MEW wallet app.**
+
+<br>
+
+<br>
 
 <img class="image-right" alt="Image of MEWconnect main page" src="/images/posts/mewconnect/CreateMC.jpg" align="right" width="30%" />
 
@@ -71,7 +79,7 @@ You're done! All backed up and ready to connect to MEW
 
 **Step 2.** Find a desktop computer. Head to the [MEW](https://www.myetherwallet.com) site.
 
-Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   the URL. 100
+Check for the SSL certification that states ‘MyEtherWallet Inc [US]’ in   the URL. We recommend the Google Chrome browser.
 
 **Step 3.** Select 'Access My Wallet'.
 
@@ -124,4 +132,39 @@ You can share your address with anyone you’d like by clicking the arrow button
 
 * * *
 
-## To download the MEWconnect app, visit [mewconnect.myetherwallet.com](https://mewconnect.myetherwallet.com/).
+## **How to Change Your Password on MEWconnect**
+
+#### **You may want to consider upgrading to the [MEW wallet app](https://www.mewwallet.com/) instead of changing your password, as the MEWconnect app has been discontinued.**
+
+<br>
+
+To change your password on MEWconnect, all you need is your phone and your 24-word recovery phrase.
+
+If you still remember your password and do not have your 24-word recovery phrase, please scroll up to Section 2 of this article. Resetting your wallet without knowing your recovery phrase will result in the permanent loss of your wallet.
+
+If you do not remember your password and do not have your 24-word recovery phrase, there is nothing we can do. Retrace your steps and try to remember your password, or your wallet will be lost forever.
+
+## **Change Your Password**
+
+**Step 1.** Reset your wallet, either on the login screen or under our ‘Info’ section.
+
+-   Choose ‘Forgot password?’ on the home screen, or ‘Reset wallet >’ in the Info tab.
+
+<img src="/images/posts/mewconnect/ForgotPassMC.jpg" alt="Image of MEWconnect log-in screen" width="35%" />
+
+<img src="/images/posts/mewconnect/MainResetMC.jpg" alt="Image of MEWconnect 'Forgot Password' screen" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" alt="Image of MEWconnect settings page" width="30%" />
+
+**Step 2.** Enter your 24-word recovery phrase. Make sure each word is in the correct order and spelled accurately.
+
+-   Do not include commas between the words, only a single space.
+
+<img src="/images/posts/mewconnect/RecoverMC.jpg" alt="Image of MEWconnect recovery phrase screen" width="30%" />
+
+**Step 3.** Enter a new password. Please choose a difficult one, for increased security.
+
+-   Be sure to write this password down somewhere, so you don’t forget it!
+-   We cannot recover or change your password for you.
+
+**Step 4.** Celebrate, you’re done!
+
+<img src="/images/posts/mewconnect/YoureDoneMC.jpg" width="30%" />
