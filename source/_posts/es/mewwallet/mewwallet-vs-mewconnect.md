@@ -36,6 +36,7 @@ primary_category_display_name: "MEW Wallet"
 -   Buy ETH instantly with Apple Pay
 -   Automatically see any token, no custom info needed
 -   Send transactions directly from the app
+-   Swap through our provider DEX.AG
 -   Visit our Education Center
 -   Manage multiple accounts
 -   And more!
