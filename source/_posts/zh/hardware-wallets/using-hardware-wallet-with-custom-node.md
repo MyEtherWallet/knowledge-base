@@ -4,7 +4,7 @@ date: 2018-06-01 00:05:00
 tags:
   - hardware
   - wallet
-  - custom
+  - anyone there?
   - node
 categories:
   - 
