@@ -28,9 +28,9 @@ alias:
 
 <br>
 
-MyEtherWallet (MEW) has released [**the MEW wallet app**](https://mewwallet.myetherwallet.com), which offers increased functionality and top-of-the-line security while keeping all of the connectivity features of MEWconnect. The MEW wallet app allows users to send transactions and swap crypto directly in the app, while maintaining the MEWconnect protocol for connection to MEW web. Check out our article on [the similarities and differences between MEW wallet and MEWconnect](/@@@@@@/mewwallet/mewwallet-vs-mewconnect/).
+MyEtherWallet (MEW) выпустил [**приложение MEW wallet app**](https://mewwallet.myetherwallet.com), которое обеспечивает повышенную функциональность и максимальную безопасность при сохранении всех возможностей подключения MEWconnect. Приложение MEW wallet позволяет пользователям отправлять транзакции и менять криптовалюты прямо в приложении, и поддерживает протокол MEWconnect для подключения к MEW web. Посмотрите нашу статью о [сходствах и различиях между MEW wallet app и MEWconnect](/@@@@@@/mewwallet/mewwallet-vs-mewconnect/).
 
-The MEW wallet app is available now for both iOS and Android mobile devices.
+MEW wallet app доступен для мобильных устройств iOS и Android.
 
 * * *
 
