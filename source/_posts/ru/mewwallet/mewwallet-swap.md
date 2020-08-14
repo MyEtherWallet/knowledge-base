@@ -1,5 +1,5 @@
 ---
-title: "Swap your crypto using MEW wallet"
+title: "Поменяйте криптовалюту с помощью MEW wallet"
 date: 2018-03-01 00:01:00
 tags:
   - mewwallet
@@ -13,7 +13,7 @@ primary_category: mewwallet
 primary_category_display_name: "MEWwallet"
 ---
 
-# **Swap your crypto using MEW wallet**
+# **Поменяйте криптовалюту с помощью MEW wallet**
 
 ###### {% read_time title "Swap your crypto using MEW wallet" %} min read
 
