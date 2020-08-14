@@ -38,26 +38,26 @@ MEW wallet app доступен для мобильных устройств iOS
 
 <br>
 
-**Step 1.** Make sure you’ve backed up your MEWconnect account by writing down your 24 word recovery phrase.
+**Шаг 1.** Убедитесь, что вы сделали резервную копию своего аккаунта MEWconnect путем записи вашей фразы из 24 слов.
 
--   You can find this phrase in MEWconnect by clicking on the small “i” icon in the top-left corner of the app, then selecting ‘View my recovery phrase’.
+-   Вы можете найти эту фразу в MEWconnect нажав на маленький значок «i» в левом верхнем углу приложения, затем выберите «Просмотреть мою фразу восстановления».
 
 <img src="/images/posts/mewconnect/mwmigrate2.PNG" alt="Image of MEWconnect info page" style="max-width: 250px;" />
 
-**Step 2.** Download the MEW wallet app from [the Apple Store](https://apps.apple.com/us/app/mew-wallet-ethereum-wallet/id1464614025) or [Google Play](https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet&hl=en_US), depending on your device.
+**Шаг 2.** Загрузите приложение MEW wallet на [Apple Store](https://apps.apple.com/us/app/mew-wallet-ethereum-wallet/id1464614025) или [Google Play](https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet&hl=en_US), в зависимости от вашего устройства.
 
--   You can also find the app by clicking the ‘FREE UPGRADE’ button in the MEWconnect app.
+-   Вы также можете найти приложение, нажав на кнопку «БЕСПЛАТНЫЙ АПГРЕЙД» в приложении MEWconnect.
 
 <img src="/images/posts/mewconnect/mwmigrate1.PNG" alt="Image of MEWconnect main page" style="max-width: 250px;" />
 
-**Step 3.** Open the MEW wallet app and click ‘Create a free wallet’. Since you have MEWconnect installed, it will ask if you wish to import your existing account over. Click ‘Import’.
+**Шаг 3.** Откройте приложение MEW wallet и нажмите кнопку «Создать бесплатный кошелек». Поскольку у вас установлен MEWconnect, приложение предложит вам импортировать ваш существующий аккаунт. Нажмите «Импортировать».
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
   <img src="/images/posts/mewconnect/mwmigrate3.PNG" alt="Image of MEW wallet create page" style="max-width: 250px;" />
   <img src="/images/posts/mewconnect/mwmigrate5.PNG" alt="Image of MEW wallet- MEWconnect import" style="max-width: 250px;" />
 </div>
 
-**Step 4.** Enter the password you use for MEWconnect, then select ‘Import’ again. You’ll be asked to create a PIN. This is similar to the password used for MEWconnect, but you won’t need to use it often if you enable biometric authentication (such as a Fingerprint or FaceID).
+**Шаг 4.** Введите пароль, который вы используете для MEWconnect, затем выберите «Import» снова. Вам будет предложено создать PIN-код. This is similar to the password used for MEWconnect, but you won’t need to use it often if you enable biometric authentication (such as a Fingerprint or FaceID).
 
 -   Make sure you remember this PIN, as we cannot recover it for you.
 
