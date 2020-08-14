@@ -34,7 +34,7 @@ MEW wallet app доступен для мобильных устройств iOS
 
 * * *
 
-## **Migrate from MEWconnect to the MEW wallet app:**
+## **Миграция с MEWconnect на MEW wallet app:**
 
 <br>
 
