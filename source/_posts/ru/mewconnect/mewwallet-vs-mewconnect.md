@@ -1,5 +1,5 @@
 ---
-title: "MEW wallet и MEWconnect"
+title: "The MEW wallet app vs the old MEWconnect app"
 date: 2018-03-01 00:01:00
 tags:
   - mewconnect
@@ -11,19 +11,29 @@ primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 ---
 
-# **MEW wallet и MEWconnect**
+# **The MEW wallet app vs the old MEWconnect app**
 
-###### {% read_time title "MEW wallet vs MEWconnect" %} мин. чтения
+###### {% read_time title "The MEW wallet app vs the old MEWconnect app" %} min read
 
 * * *
 
-## **MEWconnect** это наш протокол соединения. Приложение MEWconnect используется для соединения с MEW web для подписания сообщений.
+## **UPDATE: The MEWconnect app has been discontinued to make way for our fully-fledged MEW wallet app, which allows users to store ETH and tokens, send transactions, and swap directly from their phone!**
 
-## **MEW wallet** является официальным, полно-функциональным мобильным приложением MEW. Оно имеет все функции MEWconnect и многое другое.
+#### **\[Download the MEW wallet app now\]\[downloadmewwallet\] for iOS or Android and migrate your account for free!**
+
+## \*\* **This article is outdated** \*\*
+
+#### **Check out our \[MEW wallet User Guide\]\[mewwalletguide\] for more information on how to use the MEW wallet app.**
 
 <br>
 
-## **С MEWconnect или MEW wallet вы можете:**
+## **The MEWconnect app** is our older connection protocol app used to connect with MEW web to sign messages.
+
+## **The MEW wallet app** is MEW’s official fully-fledged Ethereum wallet app, which is capable of doing everything MEWconnect can do and more.
+
+<br>
+
+## **With MEWconnect or MEW wallet, you can:**
 
 -   Купить ETH
 -   Хранить ETH и токены ERC20
@@ -31,7 +41,7 @@ primary_category_display_name: "MEWconnect"
 -   Подписывать сообщения
 -   Получить фразу из 24 слов для резервного копирования и восстановления
 
-## **С MEW wallet, вы также можете:**
+## **With MEW wallet, you can also:**
 
 -   Мгновенно покупать ETH с помощью Apple Pay
 -   Автоматически видеть любой токен, без добавления кастомных настроек
@@ -41,4 +51,4 @@ primary_category_display_name: "MEWconnect"
 -   Manage multiple accounts
 -   And more!
 
-## Чтобы узнать больше о MEW wallet, посмотрите нашу статью о том [как использовать MEW кошелек](/@@@@@@/mewwallet/mewwallet-user-guide/).
+## To learn more about MEW wallet, check out our article about [how to use MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/).
