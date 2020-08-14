@@ -17,13 +17,13 @@ primary_category_display_name: "MEWconnect"
 
 * * *
 
-## **UPDATE: The MEWconnect app has been discontinued to make way for our fully-fledged MEW wallet app, which allows users to store ETH and tokens, send transactions, and swap directly from their phone!**
+## **UPDATE: Приложение MEWconnect больше не будет доступно. Оно заменено нашем новым приложением MEW wallet которoe позволяет хранить ETH и токены, отправлять транзакции и обменивать крипто прямо с телефона!**
 
-#### **\[Download the MEW wallet app now\]\[downloadmewwallet\] for iOS or Android and migrate your account for free!**
+#### **\[Скачайте MEW кошелек\]\[downloadmewwallet\] для iOS или Android, бесплатно!**
 
-## \*\* **This article is outdated** \*\*
+## \*\* **Эта статья устарела**\*\*
 
-#### **Check out our \[MEW wallet User Guide\]\[mewwalletguide\] for more information on how to use the MEW wallet app.**
+#### **Посмотрите наше \[руководство MEW wallet\]\[mewwalletguide\] для получения дополнительной информации о том, как использовать приложение.**
 
 <br>
 
