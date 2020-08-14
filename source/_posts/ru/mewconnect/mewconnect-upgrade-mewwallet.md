@@ -20,11 +20,11 @@ alias:
 
 * * *
 
-### **The MEWconnect app has been removed from the iOS Apple Store and Android Google Play store as of August 13th, 2020.**
+### **Приложение MEWconnect удалено из магазина iOS Apple Store и Android Play с 13 августа 2020 года.**
 
 <br>
 
-#### **Any users who still have MEWconnect on their phones are suggested to upgrade to the MEW wallet app, as MEWconnect will no longer be receiving updates.**
+#### **Пользователям у которых установлен MEWconnect рекомендуется перейти на MEWwallet app поскольку MEWconnect больше не будет получать обновления.**
 
 <br>
 
