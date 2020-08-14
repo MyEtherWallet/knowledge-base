@@ -71,7 +71,7 @@ alias:
 -   Еще одна продвинутая версия вашего закрытого ключа, которая на самом деле используется для получения множества закрытых ключей.
 -   Обычно это фраза из 12 или 24 слов, которая дает вам доступ к бесконечному количеству аккаунтов.
 -   Иногда включает дополнительное 13ое или 25ое слово, выбранное пользователем, для дополнительной безопасности.
--   Used by Ledger, Trezor, the MEW wallet app, MetaMask, Jaxx, and others.
+-   Используется кошельками Ledger, Trezor, MEW wallet app, MetaMask, Jaxx и другими.
 -   Берет начало из спецификации BIP 39.
 -   Аккаунты к которым вы можете получить доступ посредством мнемонической фразы определяются ["деривационным путем"](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2).
 -   Пример из 12 слов: `brain surround have swap horror body response double fire dumb bring hazard`
