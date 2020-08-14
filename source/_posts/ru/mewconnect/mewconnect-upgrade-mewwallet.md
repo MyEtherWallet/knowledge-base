@@ -11,12 +11,12 @@ categories:
 primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
-  - en/mewconnect/mewconnect-upgrade-mewwallet.html
+  - mewconnect/mewconnect-upgrade-mewwallet.html
 ---
 
-# **The MEWconnect app has been removed from iOS and Android app stores**
+# **Приложение MEWconnect удалено из магазинов приложений iOS и Android**
 
-###### {% read_time title "The MEWconnect app has been removed from iOS and Android app stores" %} min read
+###### {% read_time title "The MEWconnect app has been removed from iOS and Android app stores" %} минут на чтение
 
 * * *
 
