@@ -27,7 +27,7 @@ primary_category_display_name: "MEWconnect"
 
 <br>
 
-## **The MEWconnect app** is our older connection protocol app used to connect with MEW web to sign messages.
+## **MEWconnect** это нашe старое приложение которое использовалось для соединения с MEW web для подписания сообщений.
 
 ## **The MEW wallet app** is MEW’s official fully-fledged Ethereum wallet app, which is capable of doing everything MEWconnect can do and more.
 
