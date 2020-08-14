@@ -54,3 +54,7 @@ primary_category_display_name: "MEWconnect"
 ## To learn more about MEW wallet, check out our article about [how to use MEW wallet][mewwguide].
 
 [mewwguide]: /@@@@@@/mewwallet/mewwallet-user-guide/
+
+[downloadmewwallet]: https://www.mewwallet.com/
+
+[mewwalletguide]: /@@@@@@/mewwallet/mewwallet-user-guide/
