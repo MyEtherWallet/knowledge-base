@@ -1,5 +1,5 @@
 ---
-title: "The MEW wallet app vs the old MEWconnect app"
+title: "Приложение MEW wallet и старое приложение MEWconnect"
 date: 2018-03-01 00:01:00
 tags:
   - mewconnect
@@ -11,9 +11,9 @@ primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 ---
 
-# **The MEW wallet app vs the old MEWconnect app**
+# **Приложение MEW wallet и старое приложение MEWconnect**
 
-###### {% read_time title "The MEW wallet app vs the old MEWconnect app" %} min read
+###### {% read_time title "The MEW wallet app vs the old MEWconnect app" %} минут на чтение
 
 * * *
 
