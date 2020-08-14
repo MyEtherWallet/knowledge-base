@@ -24,7 +24,7 @@ alias:
 ## **Кошелек**
 
 -   Интерфейс / клиент, который вы используете для управления своим(и) аккаунтом (аккаунтами).
--   Example: MyEtherWallet.com, the MEW wallet app, MetaMask, a hardware wallet (i.e. Ledger, Trezor, BitBox, Secalot, etc..), a Multisig Wallet Contract.
+-   Примеры: MyEtherWallet.com, MEW wallet app, MetaMask, аппаратный кошелек (такой как Ledger, Trezor, BitBox, Secalot и т. п.), контрактный кошелек с мультиподписью.
 
 ## **Аккаунт**
 
