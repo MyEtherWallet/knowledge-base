@@ -15,13 +15,13 @@ primary_category_display_name: "MEWwallet"
 
 # **Поменяйте криптовалюту с помощью MEW wallet**
 
-###### {% read_time title "Swap your crypto using MEW wallet" %} min read
+###### {% read_time title "Swap your crypto using MEW wallet" %} мин. чтения
 
 * * *
 
-## We've partnered with DEX.AG to build a decentralized swap right in the MEW wallet app, allowing users to exchange their ETH and tokens without leaving their phone.
+## Мы сотрудничаем с DEX.AG для создания децентрализованного обмена прямо в MEW wallet, чтобы пользователи могли обменивать ETH и токены не покидая своего телефона.
 
-**To access the MEW wallet swap, you'll first need to [create a MEW wallet account][Mwcreate].**
+**Чтобы получить доступ к обмену MEW wallet, вам сначала нужно [создать учетную запись в MEW wallet app][Mwcreate].**
 
 <br>
 
@@ -29,15 +29,15 @@ primary_category_display_name: "MEWwallet"
 
 <img src="/images/posts/mewconnect/mws1.jpg" alt="Изображение главной страницы MEW wallet" style="max-width: 250px;" />
 
-**Step 2.** To find the Exchange section, click the arrow icon in the bottom-center of the app.
+**Шаг 2.** Чтобы найти раздел Обмена, нажмите значок со стрелкой в центре нижней части приложения.
 
 <img src="/images/posts/mewconnect/mws2.jpg" alt="Image of MEW wallet Exchange page" style="max-width: 250px;" />
 
-**Step 3.** When you're ready to begin, click 'Swap Tokens' in the top-left corner. Select the cryptos you'd like to swap and the amount you're offering, then click 'Find best rate'.
+**Шаг 3.** Когда вы готовы, нажмите 'Поменять токены' в левом верхнем углу. Выберите криптовалюты, которые вы хотите обменять и необходимую сумму, и нажмите 'Найти лучший курс'.
 
 <img src="/images/posts/mewconnect/mws3.jpg" alt="Image of MEW wallet swap assets page" style="max-width: 250px;" />
 
-**Step 4.** DEX.AG will list multiple exchanges that offer competitive rates. Choose the rate that works best for you, then select 'Proceed with swap'. Make sure you review the details of your swap before continuing.
+**Шаг 4.** DEX.AG покажет несколько децентрализованных бирж, предлагающих конкурентоспособные цены. Выберите тариф, который подходит для вас, затем выберите 'Продолжить обмен'. Make sure you review the details of your swap before continuing.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
   <img src="/images/posts/mewconnect/mws4.jpg" alt="Image of MEW wallet select best rate" style="max-width: 250px;" />
