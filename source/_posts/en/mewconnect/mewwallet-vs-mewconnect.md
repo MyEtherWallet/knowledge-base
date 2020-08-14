@@ -1,5 +1,5 @@
 ---
-title: "MEW wallet vs MEWconnect"
+title: "The MEW wallet app vs the old MEWconnect app"
  
 date: 2018-03-01 00:01:00
 tags:
@@ -11,15 +11,25 @@ primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 ---
 
-# **MEW wallet vs MEWconnect**
+# **The MEW wallet app vs the old MEWconnect app**
 
-###### {% read_time title "MEW wallet vs MEWconnect" %} min read
+###### {% read_time title "The MEW wallet app vs the old MEWconnect app" %} min read
 
 * * *
 
-## **MEWconnect** is our connection protocol app used to connect with MEW web to sign messages.
+## **UPDATE: The MEWconnect app has been discontinued to make way for our fully-fledged MEW wallet app, which allows users to store ETH and tokens, send transactions, and swap directly from their phone!**
 
-## **MEW wallet** is MEW’s official fully-fledged Ethereum wallet app, which is capable of doing everything MEWconnect can do and more.
+#### **[Download the MEW wallet app now][downloadmewwallet] for iOS or Android and migrate your account for free!**
+
+## \*\* **This article is outdated** \*\*
+
+#### **Check out our [MEW wallet User Guide][mewwalletguide] for more information on how to use the MEW wallet app.**
+
+<br>
+
+## **The MEWconnect app** is our older connection protocol app used to connect with MEW web to sign messages.
+
+## **The MEW wallet app** is MEW’s official fully-fledged Ethereum wallet app, which is capable of doing everything MEWconnect can do and more.
 
 <br>
 
