@@ -3,12 +3,12 @@ title: "MEW wallet vs MEWconnect"
  
 date: 2018-03-01 00:01:00
 tags:
-- mewwallet
+- mewconnect
 - guide
 categories:
-- [mewwallet]
-primary_category: mewwallet
-primary_category_display_name: "MEW wallet"
+- [mewconnect]
+primary_category: mewconnect
+primary_category_display_name: "MEWconnect"
 ---
 
 # **MEW wallet vs MEWconnect**
