@@ -29,11 +29,11 @@ primary_category_display_name: "MEWconnect"
 
 ## **MEWconnect** это нашe старое приложение которое использовалось для соединения с MEW web для подписания сообщений.
 
-## **The MEW wallet app** is MEW’s official fully-fledged Ethereum wallet app, which is capable of doing everything MEWconnect can do and more.
+## **Приложение MEW wallet** является официальным, полно-функциональным мобильным приложением MEW. Оно имеет все функции MEWconnect и многое другое.
 
 <br>
 
-## **With MEWconnect or MEW wallet, you can:**
+## **С MEWconnect и MEW wallet вы можете:**
 
 -   Купить ETH
 -   Хранить ETH и токены ERC20
@@ -41,14 +41,14 @@ primary_category_display_name: "MEWconnect"
 -   Подписывать сообщения
 -   Получить фразу из 24 слов для резервного копирования и восстановления
 
-## **With MEW wallet, you can also:**
+## **С MEW wallet, вы также можете:**
 
 -   Мгновенно покупать ETH с помощью Apple Pay
 -   Автоматически видеть любой токен, без добавления кастомных настроек
 -   Отправлять транзакции прямo из приложения
--   Swap through our provider DEX.AG
--   Visit our Education Center
--   Manage multiple accounts
--   And more!
+-   Обменивать валюту через нашего провайдера DEX.AG
+-   Посетить наш Учебный Центр
+-   Использовать несколько аккаунтов
+-   И многое другое!
 
-## To learn more about MEW wallet, check out our article about [how to use MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/).
+## Чтобы узнать больше о MEW wallet, посмотрите нашу статью [как использовать MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/).
