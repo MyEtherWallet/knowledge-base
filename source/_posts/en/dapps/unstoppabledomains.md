@@ -43,7 +43,7 @@ Both of these addresses lead to the same wallet destination, but the Unstoppable
 -   If you don’t already have a wallet, you will need to [create a new wallet][createWallet]. 
 -   You will also need $40 worth of ETH for the domain, and a small amount of ETH for [gas][gas]. We generally recommend `.01 ETH` for 1 - 2 transactions. 
 
-<img src="/images/posts/diving-deeper/ENS1-2.png" alt="Image of MEW access wallet page" width="100%">
+<img src="/images/posts/diving-deeper/mwconnect.png" alt="Image of MEW access wallet page" width="100%">
 
 **Step 3.** Head to the Dapps section, to the left of your wallet's overview page. It can also be found at the bottom of the page, under the 'Dapps' section. 
 

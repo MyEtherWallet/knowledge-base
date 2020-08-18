@@ -179,7 +179,7 @@ primary_category_display_name: "MEW wallet"
 
 <img src="/images/posts/mewconnect/mwconnectaccess.png" alt="Image of MEW main page" style="max-width: 600px; width: 100%;" />
 
-**Step 2.** Select 'Access My Wallet' and then click 'MEWconnect'.
+**Step 2.** Select 'Access My Wallet' and then click 'MEW wallet'.
 
 <img src="/images/posts/mewconnect/mwconnect.png" alt="Image of MEW wallet access selection page" style="max-width: 600px; width: 100%;" />
 <img src="/images/posts/mewconnect/mwconnectqr.png" alt="Image of MEWconnect QR code" style="max-width: 400px; width: 100%;" />
