@@ -19,11 +19,11 @@ primary_category_display_name: "MEWconnect"
 
 ## **UPDATE: The MEWconnect app has been discontinued to make way for our fully-fledged MEW wallet app, which allows users to store ETH and tokens, send transactions, and swap directly from their phone!**
 
-#### **\[Download the MEW wallet app now\]\[downloadmewwallet\] for iOS or Android and migrate your account for free!**
+#### **[Download the MEW wallet app now](https://www.mewwallet.com/) for iOS or Android and migrate your account for free!**
 
 ## \*\* **This article is outdated** \*\*
 
-#### **Check out our \[MEW wallet User Guide\]\[mewwalletguide\] for more information on how to use the MEW wallet app.**
+#### **Check out our [MEW wallet User Guide](/@@@@@@/mewwallet/mewwallet-user-guide/) for more information on how to use the MEW wallet app.**
 
 <br>
 
