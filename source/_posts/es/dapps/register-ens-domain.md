@@ -44,7 +44,7 @@ Both of these addresses lead to the same wallet destination, but the ENS domain 
 -   If you don’t already have a wallet, you will need to [create a new wallet](/@@@@@@/getting-started/how-to-create-a-wallet/).
 -   You will also need a small amount of ETH for [gas](/@@@@@@/transactions/what-is-gas/). We generally recommend `.01 ETH` for 1 - 2 transactions. Initializing and finalizing ENS domains both count as a transactions.
 
-<img src="/images/posts/diving-deeper/ENS1-2.png" alt="Image of MEW access methods" width="100%" />
+<img src="/images/posts/diving-deeper/mwconnect.png" alt="Image of MEW access methods" width="100%" />
 
 **Step 3.** Head to the Dapps section, to the left of your wallet's overview page. It can also be found at the bottom of the page, under the 'Dapps' section.
 
