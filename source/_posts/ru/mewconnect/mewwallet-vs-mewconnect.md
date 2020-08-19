@@ -19,11 +19,11 @@ primary_category_display_name: "MEWconnect"
 
 ## **UPDATE: Приложение MEWconnect больше не будет доступно. Оно заменено нашем новым приложением MEW wallet которoe позволяет хранить ETH и токены, отправлять транзакции и обменивать крипто прямо с телефона!**
 
-#### **[Download the MEW wallet app now](https://www.mewwallet.com/) for iOS or Android and migrate your account for free!**
+#### **[Скачайте MEW wallet ](https://www.mewwallet.com/) для iOS или Android и бесплатно перенесите свой аккаунт с кошелька MEWconnect!**
 
 ## \*\* **Эта статья устарела**\*\*
 
-#### **Check out our [MEW wallet User Guide](/@@@@@@/mewwallet/mewwallet-user-guide/) for more information on how to use the MEW wallet app.**
+#### **Ознакомьтесь с нашим [руководством пользователя MEW wallet app](/@@@@@@/mewwallet/mewwallet-user-guide/), чтобы узнать что вы можете делать с новым приложением.**
 
 <br>
 
