@@ -28,7 +28,7 @@ When accessing a hardware wallet, you're given the choice of which derivation pa
 
 -   This can also be done via Mnemonic Phrase access.
 
-**Step 2.** After selecting your Hardware Wallet, a screen like the one below should appear. Click the small arrow to expand a larger list of Derivation Path options.
+**Step 2.** After selecting your Hardware Wallet, a screen like the one below should appear. カスタムトークンについて
 
 <img src="/images/posts/hardware-wallet/custompath0.jpg" alt="Image of Derivation Path screen" width="80%" />
 
