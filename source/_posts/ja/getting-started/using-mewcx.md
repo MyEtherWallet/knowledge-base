@@ -54,7 +54,7 @@ Create and manage your wallets, interact with Dapps, and send transactions quick
 
 <img src="/images/posts/diving-deeper/MEWCX4.5.png" alt="Image of the MEW CX main page" width="80%" />
 
-Your wallet will remain saved in the Chrome Extension until you remove the wallet or the extension. Remember, it’s always best to keep your wallet information on physical paper somewhere safe and easy to remember, in case anything happens to your device.
+Your wallet will remain saved in the Chrome Extension until you remove the wallet or the extension. カスタムトークンについて
 
 ##### \_\_
 
