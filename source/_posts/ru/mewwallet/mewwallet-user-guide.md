@@ -179,7 +179,7 @@ primary_category_display_name: "MEWwallet"
 
 <img src="/images/posts/mewconnect/mwconnectaccess.png" alt="Изображение главной страницы MEW" style="max-width: 600px; width: 100%;" />
 
-**Шаг 2.** Выберите 'Доступ к кошельку' и затем нажмите 'MEWconnect'.
+**Step 2.** Select 'Access My Wallet' and then click 'MEW wallet'.
 
 <img src="/images/posts/mewconnect/mwconnect.png" alt="Изображение страницы выбора доступа в MEW wallet" style="max-width: 600px; width: 100%;" />
 <img src="/images/posts/mewconnect/mwconnectqr.png" alt="Изображение QR-кода MEWconnect" style="max-width: 400px; width: 100%;" />
