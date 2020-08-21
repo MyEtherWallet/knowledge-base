@@ -164,6 +164,49 @@ primary_category_display_name: "MEW wallet"
 
 ##### \_\_
 
+<img class="image-right" alt="GIF of MEW wallet Peggy spacegirl with cat" src="/images/posts/security/2_like.gif" align="right" width="25%" />
+
+## **Send a Transaction**
+
+#### **Send ETH or tokens right from the comfort of your own device.**
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**Step 1.** On the account card that you want to send from, click the up 'sending' arrow.
+
+<img src="/images/posts/mewconnect/mwmainacct.png" alt="Image of MEW wallet account" style="max-width: 250px;" />
+
+**Step 2.** Paste the address you're sending to, then continue.
+
+<img src="/images/posts/mewconnect/mwpaste.png" alt="Image of pasted send address" style="max-width: 250px;" />
+
+**Step 3.** Choose the crypto you want to send and enter an amount.
+
+-   Select a fast gas price for a smoother transaction. Gas is always paid in ETH.
+
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<img src="/images/posts/mewconnect/mwethamount.png" alt="Image of MEW wallet transaction" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwgasfees.png" alt="Image of MEW wallet gas fees" style="max-width: 250px;" />
+</div>
+
+**Step 4.** Confirm your transaction and wait a moment for it to process.
+
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Image of MEW wallet processing transaction" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Image of MEW wallet successful transaction" style="max-width: 250px;" />
+</div>
+
+**Step 5.** You're done! Your transaction will appear in 'Recent transactions' under your account card.
+
+<img src="/images/posts/mewconnect/mwmainacct2.png" alt="Image of posted transaction" style="max-width: 250px;" />
+
+##### \_\_
+
 <img class="image-right" alt="GIF of MEW wallet Peggy spacegirl with cat" src="/images/posts/security/4_js.gif" align="right" width="25%" />
 
 ## **Connect to MEW web**
