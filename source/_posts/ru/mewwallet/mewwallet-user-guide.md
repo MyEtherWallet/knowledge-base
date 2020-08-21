@@ -201,7 +201,7 @@ primary_category_display_name: "MEWwallet"
 <img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Image of MEW wallet successful transaction" style="max-width: 250px;" />
 </div>
 
-**Шаг 5.** Готово! Ваша транзакция появится в разделе «Последние транзакции» под картой вашего счета.
+**Шаг 5.** Готово! Ваша транзакция появится в разделе «Последние транзакции» под картой вашего аккаунта.
 
 <img src="/images/posts/mewconnect/mwmainacct2.png" alt="Image of posted transaction" style="max-width: 250px;" />
 
