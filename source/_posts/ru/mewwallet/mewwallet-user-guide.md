@@ -185,23 +185,23 @@ primary_category_display_name: "MEWwallet"
 
 <img src="/images/posts/mewconnect/mwpaste.png" alt="Image of pasted send address" style="max-width: 250px;" />
 
-**Step 3.** Choose the crypto you want to send and enter an amount.
+**Шаг 3.** Выберите криптовалюту которую вы хотите отправить и введите сумму.
 
--   Select a fast gas price for a smoother transaction. Gas is always paid in ETH.
+-   Выберите быструю цену газа для гарантии успешной транзакции. Газ всегда оплачивается в ETH.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <img src="/images/posts/mewconnect/mwethamount.png" alt="Image of MEW wallet transaction" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mwgasfees.png" alt="Image of MEW wallet gas fees" style="max-width: 250px;" />
 </div>
 
-**Step 4.** Confirm your transaction and wait a moment for it to process.
+**Шаг 4.** Подтвердите транзакцию и подождите, пока она будет обработана.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Image of MEW wallet processing transaction" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Image of MEW wallet successful transaction" style="max-width: 250px;" />
 </div>
 
-**Шаг 5.** Готово! Your transaction will appear in 'Recent transactions' under your account card.
+**Шаг 5.** Готово! Ваша транзакция появится в разделе «Последние транзакции» под картой вашего счета.
 
 <img src="/images/posts/mewconnect/mwmainacct2.png" alt="Image of posted transaction" style="max-width: 250px;" />
 
@@ -211,7 +211,7 @@ primary_category_display_name: "MEWwallet"
 
 ## **Подключиться к MEW web**
 
-#### **Connect to our web interface to explore even more features of Ethereum, such as DeFi and Dapps.**
+#### **Подключитесь к нашему веб-интерфейсу, чтобы получить доступ к дополнительным возможностям Ethereum, таких как DeFi и Dapps.**
 
 <br>
 <br>
