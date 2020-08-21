@@ -164,36 +164,79 @@ primary_category_display_name: "MEWwallet"
 
 ##### \_\_
 
+<img class="image-right" alt="GIF MEW wallet космонавт Peggy с кошкой" src="/images/posts/security/2_like.gif" align="right" width="25%" />
+
+## **Send a Transaction**
+
+#### **Send ETH or tokens right from the comfort of your own device.**
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**Step 1.** On the account card that you want to send from, click the up 'sending' arrow.
+
+<img src="/images/posts/mewconnect/mwmainacct.png" alt="Image of MEW wallet account" style="max-width: 250px;" />
+
+**Step 2.** Paste the address you're sending to, then continue.
+
+<img src="/images/posts/mewconnect/mwpaste.png" alt="Image of pasted send address" style="max-width: 250px;" />
+
+**Step 3.** Choose the crypto you want to send and enter an amount.
+
+-   Select a fast gas price for a smoother transaction. Gas is always paid in ETH.
+
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<img src="/images/posts/mewconnect/mwethamount.png" alt="Image of MEW wallet transaction" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwgasfees.png" alt="Image of MEW wallet gas fees" style="max-width: 250px;" />
+</div>
+
+**Step 4.** Confirm your transaction and wait a moment for it to process.
+
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Image of MEW wallet processing transaction" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Image of MEW wallet successful transaction" style="max-width: 250px;" />
+</div>
+
+**Шаг 5.** Готово! Your transaction will appear in 'Recent transactions' under your account card.
+
+<img src="/images/posts/mewconnect/mwmainacct2.png" alt="Image of posted transaction" style="max-width: 250px;" />
+
+##### \_\_
+
 <img class="image-right" alt="GIF MEW wallet космонавт Peggy с кошкой" src="/images/posts/security/4_js.gif" align="right" width="25%" />
 
 ## **Подключиться к MEW web**
 
-#### **Подключитесь к нашему веб-интерфейсу, чтобы получить доступ к дополнительным возможностям Ethereum, таких как DeFi и Dapps.**
+#### **Connect to our web interface to explore even more features of Ethereum, such as DeFi and Dapps.**
 
 <br>
 <br>
 <br>
 <br>
 
-**Шаг 1.** Перейдите на [www.myetherwallet.com.](http://www.myetherwallet.com).
+**Step 1.** Head to MEW web by visiting [www.myetherwallet.com](http://www.myetherwallet.com).
 
 <img src="/images/posts/mewconnect/mwconnectaccess.png" alt="Изображение главной страницы MEW" style="max-width: 600px; width: 100%;" />
 
-**Шаг 2.** Выберите 'Доступ к кошельку' и затем нажмите 'MEW wallet'.
+**Step 2.** Select 'Access My Wallet' and then click 'MEW wallet'.
 
-<img src="/images/posts/mewconnect/mwconnect.png" alt="Изображение страницы выбора доступа в MEW wallet" style="max-width: 600px; width: 100%;" />
-<img src="/images/posts/mewconnect/mwconnectqr.png" alt="Изображение QR-кода MEWconnect" style="max-width: 400px; width: 100%;" />
+<img src="/images/posts/mewconnect/mwconnect.png" alt="Image of MEW wallet access selection page" style="max-width: 600px; width: 100%;" />
+<img src="/images/posts/mewconnect/mwconnectqr.png" alt="Image of MEWconnect QR code" style="max-width: 400px; width: 100%;" />
 
-**Шаг 3.** На приложении MEW wallet нажмите значок маленькой камеры в правом верхнем углу и отсканируйте QR-код.
+**Step 3.** On the MEW wallet mobile app, click the small camera icon in the top-right corner of the app and scan the QR code.
 
--   Возможно, вам потребуется проверить права доступа к камере в настройках телефона.
+-   You may need to double-check your camera permissions in the settings on your phone.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <img src="/images/posts/mewconnect/mwcard.jpg" alt="Изображение главной страницы MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Image of MEW wallet scanning QR code" style="max-width: 250px;" />
 </div>
 
-**Шаг 4.** Поздравляем, вы подключили свое приложение MEW wallet к MEW web!
+**Step 4.** Congratulations, you've connected your MEW wallet mobile account to MEW web!
 
-<img src="/images/posts/mewconnect/mwconnected.jpg" alt="Изображение MEW wallet 'Подключен к MEW web'" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwconnectoverview.png" alt="Изображение MEW wallet, подключенного к веб-интерфейсу" style="max-width: 600px; width: 100%;" />
+<img src="/images/posts/mewconnect/mwconnected.jpg" alt="Image of MEW wallet 'Connected to MEW web' screen" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwconnectoverview.png" alt="Image of MEW wallet account connected to MEW web interface" style="max-width: 600px; width: 100%;" />
