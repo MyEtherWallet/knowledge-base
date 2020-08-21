@@ -166,9 +166,9 @@ primary_category_display_name: "MEWwallet"
 
 <img class="image-right" alt="GIF MEW wallet космонавт Peggy с кошкой" src="/images/posts/security/2_like.gif" align="right" width="25%" />
 
-## **Send a Transaction**
+## **Отправить транзакцию**
 
-#### **Send ETH or tokens right from the comfort of your own device.**
+#### **Отправляйте ETH или токены прямо с вашего мобильного устройства.**
 
 <br>
 <br>
@@ -177,11 +177,11 @@ primary_category_display_name: "MEWwallet"
 <br>
 <br>
 
-**Step 1.** On the account card that you want to send from, click the up 'sending' arrow.
+**Шаг 1.** На карте аккаунта с которого вы хотите отправить, нажмите на стрелку вверх "Отправить".
 
 <img src="/images/posts/mewconnect/mwmainacct.png" alt="Image of MEW wallet account" style="max-width: 250px;" />
 
-**Step 2.** Paste the address you're sending to, then continue.
+**Шаг 2.** Вставьте адрес, на который вы отправляете, а затем продолжите.
 
 <img src="/images/posts/mewconnect/mwpaste.png" alt="Image of pasted send address" style="max-width: 250px;" />
 
