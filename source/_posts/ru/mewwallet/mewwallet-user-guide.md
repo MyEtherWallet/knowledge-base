@@ -227,16 +227,16 @@ primary_category_display_name: "MEWwallet"
 <img src="/images/posts/mewconnect/mwconnect.png" alt="Image of MEW wallet access selection page" style="max-width: 600px; width: 100%;" />
 <img src="/images/posts/mewconnect/mwconnectqr.png" alt="Image of MEWconnect QR code" style="max-width: 400px; width: 100%;" />
 
-**Step 3.** On the MEW wallet mobile app, click the small camera icon in the top-right corner of the app and scan the QR code.
+**Шаг 3.** В приложении MEW wallet нажмите значок маленькой камеры в правом верхнем углу и отсканируйте QR-код.
 
--   You may need to double-check your camera permissions in the settings on your phone.
+-   Возможно, вам потребуется проверить права доступа к камере в настройках телефона.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <img src="/images/posts/mewconnect/mwcard.jpg" alt="Изображение главной страницы MEW wallet" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Image of MEW wallet scanning QR code" style="max-width: 250px;" />
 </div>
 
-**Step 4.** Congratulations, you've connected your MEW wallet mobile account to MEW web!
+**Шаг 4.** Поздравляем, вы подключили свое приложение MEW wallet к MEW web!
 
 <img src="/images/posts/mewconnect/mwconnected.jpg" alt="Image of MEW wallet 'Connected to MEW web' screen" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mwconnectoverview.png" alt="Image of MEW wallet account connected to MEW web interface" style="max-width: 600px; width: 100%;" />
