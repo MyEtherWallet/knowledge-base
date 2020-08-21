@@ -198,12 +198,12 @@ primary_category_display_name: "MEWwallet"
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Изображение обработки транзакции v MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Image of MEW wallet successful transaction" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Изображение успешной транзакции в MEW wallet" style="max-width: 250px;" />
 </div>
 
 **Шаг 5.** Готово! Ваша транзакция появится в разделе «Последние транзакции» под картой вашего аккаунта.
 
-<img src="/images/posts/mewconnect/mwmainacct2.png" alt="Image of posted transaction" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwmainacct2.png" alt="Изображение отправленной транзакции" style="max-width: 250px;" />
 
 ##### \_\_
 
@@ -224,8 +224,8 @@ primary_category_display_name: "MEWwallet"
 
 **Шаг 2.** Выберите 'Доступ к кошельку' и затем нажмите 'MEW wallet'.
 
-<img src="/images/posts/mewconnect/mwconnect.png" alt="Image of MEW wallet access selection page" style="max-width: 600px; width: 100%;" />
-<img src="/images/posts/mewconnect/mwconnectqr.png" alt="Image of MEWconnect QR code" style="max-width: 400px; width: 100%;" />
+<img src="/images/posts/mewconnect/mwconnect.png" alt="Изображение страницы выбор доступа через MEW wallet" style="max-width: 600px; width: 100%;" />
+<img src="/images/posts/mewconnect/mwconnectqr.png" alt="Изображение QR-кода MEWconnect" style="max-width: 400px; width: 100%;" />
 
 **Шаг 3.** В приложении MEW wallet нажмите значок маленькой камеры в правом верхнем углу и отсканируйте QR-код.
 
@@ -233,10 +233,10 @@ primary_category_display_name: "MEWwallet"
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <img src="/images/posts/mewconnect/mwcard.jpg" alt="Изображение главной страницы MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Image of MEW wallet scanning QR code" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
 </div>
 
 **Шаг 4.** Поздравляем, вы подключили свое приложение MEW wallet к MEW web!
 
-<img src="/images/posts/mewconnect/mwconnected.jpg" alt="Image of MEW wallet 'Connected to MEW web' screen" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwconnectoverview.png" alt="Image of MEW wallet account connected to MEW web interface" style="max-width: 600px; width: 100%;" />
+<img src="/images/posts/mewconnect/mwconnected.jpg" alt="Изображение MEW wallet 'Подключен к MEW web'" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwconnectoverview.png" alt="Изображение MEW wallet, подключенного к веб-интерфейсу" style="max-width: 600px; width: 100%;" />
