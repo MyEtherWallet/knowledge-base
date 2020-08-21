@@ -209,7 +209,7 @@ primary_category_display_name: "MEWwallet"
 
 <img class="image-right" alt="GIF MEW wallet космонавт Peggy с кошкой" src="/images/posts/security/4_js.gif" align="right" width="25%" />
 
-## **Подключиться к MEW web**
+## **Подключение к MEW web**
 
 #### **Подключитесь к нашему веб-интерфейсу, чтобы получить доступ к дополнительным возможностям Ethereum, таких как DeFi и Dapps.**
 
@@ -218,11 +218,11 @@ primary_category_display_name: "MEWwallet"
 <br>
 <br>
 
-**Step 1.** Head to MEW web by visiting [www.myetherwallet.com](http://www.myetherwallet.com).
+**Шаг 1.** Перейдите на [www.myetherwallet.com.](http://www.myetherwallet.com).
 
 <img src="/images/posts/mewconnect/mwconnectaccess.png" alt="Изображение главной страницы MEW" style="max-width: 600px; width: 100%;" />
 
-**Step 2.** Select 'Access My Wallet' and then click 'MEW wallet'.
+**Шаг 2.** Выберите 'Доступ к кошельку' и затем нажмите 'MEW wallet'.
 
 <img src="/images/posts/mewconnect/mwconnect.png" alt="Image of MEW wallet access selection page" style="max-width: 600px; width: 100%;" />
 <img src="/images/posts/mewconnect/mwconnectqr.png" alt="Image of MEWconnect QR code" style="max-width: 400px; width: 100%;" />
