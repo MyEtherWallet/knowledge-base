@@ -179,25 +179,25 @@ primary_category_display_name: "MEWwallet"
 
 **Шаг 1.** На карте аккаунта с которого вы хотите отправить, нажмите на стрелку вверх "Отправить".
 
-<img src="/images/posts/mewconnect/mwmainacct.png" alt="Image of MEW wallet account" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwmainacct.png" alt="Изображени учетной записи MEW wallet" style="max-width: 250px;" />
 
 **Шаг 2.** Вставьте адрес, на который вы отправляете, а затем продолжите.
 
-<img src="/images/posts/mewconnect/mwpaste.png" alt="Image of pasted send address" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwpaste.png" alt="Изображение вставленного адреса отправки" style="max-width: 250px;" />
 
 **Шаг 3.** Выберите криптовалюту которую вы хотите отправить и введите сумму.
 
 -   Выберите быструю цену газа для гарантии успешной транзакции. Газ всегда оплачивается в ETH.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mwethamount.png" alt="Image of MEW wallet transaction" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwgasfees.png" alt="Image of MEW wallet gas fees" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwethamount.png" alt="Изображение транзакции MEW wallet" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwgasfees.png" alt="Изображение комиссии за газ в MEW wallet" style="max-width: 250px;" />
 </div>
 
 **Шаг 4.** Подтвердите транзакцию и подождите, пока она будет обработана.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Image of MEW wallet processing transaction" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Изображение обработки транзакции v MEW wallet" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Image of MEW wallet successful transaction" style="max-width: 250px;" />
 </div>
 
