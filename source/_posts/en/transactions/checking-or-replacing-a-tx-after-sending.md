@@ -93,11 +93,11 @@ Canceling means generating a `0 ETH` transaction to your own address with the pu
 
 **Step 4.** In the left-side menu, click 'Send', then choose 'Send offline'. 
 
-* You do not have to be offline for this method to work.
+-   You do not have to be offline for this method to work.
 
 **Step 5.** Send a transaction to yourself with a balance of `0 ETH` and a high gas price, referenced from [EthGasStation.info][gas], and use the same nonce you noted from step 3. 
 
-* Keep in mind, the higher the gas price, the higher the transaction fee (Gas Limit \* Gas Price).
+-   Keep in mind, the higher the gas price, the higher the transaction fee (Gas Limit \* Gas Price).
 
 **Step 6.** Click the 'Generate Transaction' button, then copy the 'Signed transaction', which is a long string that begins with '0x'.
 
@@ -107,7 +107,7 @@ Canceling means generating a `0 ETH` transaction to your own address with the pu
 
 **Step 9.** A new transaction hash will appear. Search it on the blockchain explorer of your choice and see if it posts as successful. 
 
-* If it doesn't show up immediately, try refreshing in a few minutes. 
+-   If it doesn't show up immediately, try refreshing in a few minutes. 
 
 ## **Replacing a Transaction<br> (Advanced Users Only)**
 
@@ -123,7 +123,7 @@ Replacing a transaction means generating a `XX ETH` transaction to someone else'
 
 **Step 5.** For the 'Gas Price' field, use a high gas price as referenced from [EthGasStation.info][gas]. 
 
-* Keep in mind, the higher the gas price, the higher the transaction fee (Gas Limit \* Gas Price).
+-   Keep in mind, the higher the gas price, the higher the transaction fee (Gas Limit \* Gas Price).
 
 **Step 6.** Click the 'Generate Transaction' button, then copy the 'Signed transaction', which is a long string that begins with '0x'.
 
@@ -133,7 +133,7 @@ Replacing a transaction means generating a `XX ETH` transaction to someone else'
 
 **Step 9.** A new transaction hash will appear. Search it on the blockchain explorer of your choice and see if it posts as successful. 
 
-* If it doesn't show up immediately, try refreshing in a few minutes. 
+-   If it doesn't show up immediately, try refreshing in a few minutes. 
 
 ## **Final Notes**
 
@@ -141,6 +141,9 @@ Replacing a transaction means generating a `XX ETH` transaction to someone else'
 -   The transaction pool varies from node to node. This means that a transaction may be pending in ETH (Infura.io)'s transaction pool, but not ETH (MyEtherWallet.com)'s transaction pool. For this reason, you should try all the ETH nodes we offer.
 
 [ethvm]: https://www.ethvm.com
+
 [es]: https://www.etherscan.io
+
 [ep]: https://www.ethplorer.io
+
 [gas]: https://ethgasstation.info/
