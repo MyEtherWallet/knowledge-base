@@ -34,11 +34,9 @@ During times of normal volume, transactions are mined within seconds and do not 
 
 During times of extremely high volume and high gas prices, transactions could be pending for hours or days before being mined.
 
-If your transaction is pending for a seemingly infinite amount of time, it is possible to replace it with a new transaction sent with a higher gas price.
+If your transaction is pending for a seemingly infinite amount of time, it is possible to replace it with a new transaction.
 
-The second transaction, theoretically, will be mined before the first transaction, effectively "canceling" the first transaction.
-
-The easiest way to do this is by sending a `0 ETH` transaction to your own address with the same nonce and a higher gas price. This will "cancel" your first transaction.
+The easiest way to do this is by sending a `0 ETH` transaction to your own address with the same nonce and a higher gas price. This will cancel out your first transaction. 
 
 There is no guarantee this will work, nor that it will work every time. You may end up sending two transactions if you don't follow the process carefully, and even then there is no guarantee.
 
