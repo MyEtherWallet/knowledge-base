@@ -21,7 +21,7 @@ primary_category_display_name: "Dapps"
 
 * * *
 
-###### Если вы хотите открыть Vault с помощью нашего приложения MakerDAO Dapp, вам понадобится кошелек для [доступа к нашему интерфейсу](/@@@@@@/getting-started/how-to-access-your-wallet/). Если у вас нет кошелька, [ нажмите сюда](/@@@@@@/getting-started/how-to-create-a-wallet/), чтобы его создать.
+###### Если вы хотите открыть Vault с помощью нашего приложения MakerDAO Dapp, вам понадобится кошелек для [доступа к нашему интерфейсу](/@@@@@@/getting-started/how-to-access-your-wallet/). If you do not have one yet, check out our guide on [how to set up a new wallet](/@@@@@@/getting-started/how-to-create-a-wallet/).
 
 ## **Создание Vault**
 
@@ -36,18 +36,16 @@ primary_category_display_name: "Dapps"
 
 **Шаг 3.** Для начала выберите «Создать Vault».
 
--   Если вы создавали CDP в прошлом, вам нужно будет выполнить процедуры описанные в разделах "Обновить 'старый' DA на 'новый' DAI" и "Миграция CDP однотипного залога в Vault разнотипного залога".
-
 <img src="/images/posts/diving-deeper/MKR2.png" alt="Изображение главной страницы MakerDAO" width="100%" />
 
 **Шаг 4.** Укажите сумму ETH, которую вы хотите предложить в качестве залога. Не забудьте оставить небольшой зазор чтобы учитывать изменения на рынках. Как правило, 200% и выше – это безопасный вариант.
 
--   Перед тем как сгенерировать ваше хранилище, вам нужно выбрать 'Создать прокси'.
--   Подтвердите транзакции на вашем устройстве, если вы его используете.
+-   Before you generate your vault, you'll need to select 'Create Proxy'.
+-   Make sure to confirm the transactions on your device, if you're using one.
 
 <img src="/images/posts/diving-deeper/MKR3.png" alt="Изображение предложения залога для создания vault " width="100%" />
 
-<img src="/images/posts/diving-deeper/MKR4.png" alt="Изображение подтверждения транзакции MakerDAO" width="80%" />
+<img src="/images/posts/diving-deeper/MKR4.png" alt="Изображение подтверждения транзакции MakerDAO" width="70%" />
 
 **Шаг 5.** Страница MakerDAO изменится и отобразит данные о ваших вкладах.
 
@@ -61,17 +59,17 @@ primary_category_display_name: "Dapps"
 
 **Шаг 2.** Выберите 'Установить', чтобы установить разрешение Maker для взаимодействия с вашим DAI.
 
--   Если вы взаимодействуете с Maker в первый раз, вам надо будет применить прокси. Выберете "Установка" в верхней части этого раздела.
+-   You will need to 'Deploy Proxy' if it's your first time. Select 'Setup' in the top area of this section.
 
-<img src="/images/posts/diving-deeper/MKR6.png" alt="Изображение 'Установить разрешение'" width="80%" />
+<img src="/images/posts/diving-deeper/MKR6.png" alt="Изображение 'Установить разрешение'" width="70%" />
 
 **Шаг 3.** Выберите, сколько DAI вы хотели бы внести в депозит. Процентные ставки начисляются ежегодно.
 
-<img src="/images/posts/diving-deeper/MKR7.png" alt="Изображение депозита DAI" width="80%" />
+<img src="/images/posts/diving-deeper/MKR7.png" alt="Изображение депозита DAI" width="70%" />
 
 **Шаг 4.** Для снятия выполните ту же процедуру, но выберите «Вывести».
 
-<img src="/images/posts/diving-deeper/MKR8.png" alt="Изображение вывода DAI" width="80%" />
+<img src="/images/posts/diving-deeper/MKR8.png" alt="Изображение вывода DAI" width="70%" />
 
 ## **Закрытие Vault**
 
@@ -85,16 +83,16 @@ primary_category_display_name: "Dapps"
 
 **Шаг 3.** Вам нужно будет вернуть DAI для вывода ETH. В разделе 'Позиция DAI' выберите 'Вернуть >'.
 
--   Вам потребуется "Утвердить" количество DAI прежде чем вернуть его. Это будет считаться отдельной транзакцией.
--   Пожалуйста, дождитесь чтобы обе транзакции имели статус "Успех", прежде чем продолжить.
+-   You will have to ‘Approve’ the DAI amount in order to pay it back, which will count as a separate transaction.
+-   Please wait for both transactions to post as 'Success' before continuing.
 
-<img src="/images/posts/diving-deeper/MKR10.png" alt="Изображение выплаты DAI" width="80%" />
+<img src="/images/posts/diving-deeper/MKR10.png" alt="Изображение выплаты DAI" width="70%" />
 
 <img src="/images/posts/diving-deeper/MKR11.png" alt="Изображение обновленных деталей Vault" width="100%" />
 
 **Шаг 4.** После утверждения и оплаты DAI, вы можете снять ETH. Под «Залог ETH» выберите «Вывести >».
 
-<img src="/images/posts/diving-deeper/MKR12.png" alt="Изображение вывода залога" width="80%" />
+<img src="/images/posts/diving-deeper/MKR12.png" alt="Изображение вывода залога" width="70%" />
 
 <img src="/images/posts/diving-deeper/MKR13.png" alt="Изображение пустого vault" width="100%" />
 
