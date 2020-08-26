@@ -21,7 +21,7 @@ primary_category_display_name: "Dapps"
 
 * * *
 
-###### If you’d like to open a Vault using our MakerDAO Dapp, you will need a wallet you can [access with our interface](/@@@@@@/getting-started/how-to-access-your-wallet/). If you do not have a wallet, [click here](/@@@@@@/getting-started/how-to-create-a-wallet/) to set one up.
+###### If you’d like to open a Vault using our MakerDAO Dapp, you will need a wallet you can [access with our interface](/@@@@@@/getting-started/how-to-access-your-wallet/). If you do not have one yet, check out our guide on [how to set up a new wallet](/@@@@@@/getting-started/how-to-create-a-wallet/).
 
 ## **Opening Your Vault**
 
@@ -35,8 +35,6 @@ primary_category_display_name: "Dapps"
 
 **Step 3.** Select 'Create a Vault' to get started.
 
--   If you've set up a Collateralized Debt Position (CDP) in the past, you will need to follow the processes outlined under "Upgrade 'old' DAI to 'new' DAI" and "Migrate Single Collateral CDP to Multi Collateral Vault".
-
 <img src="/images/posts/diving-deeper/MKR2.png" alt="Image of MakerDAO main page" width="100%" />
 
 **Step 4.** Set the amount of ETH you would like to offer as collateral. Remember to leave some wiggle room to account for the shifting markets. 200% and above is usually a safe bet.
@@ -46,7 +44,7 @@ primary_category_display_name: "Dapps"
 
 <img src="/images/posts/diving-deeper/MKR3.png" alt="Image of offering collateral to generate a vault " width="100%" />
 
-<img src="/images/posts/diving-deeper/MKR4.png" alt="Image of confirming the MakerDAO transaction" width="80%" />
+<img src="/images/posts/diving-deeper/MKR4.png" alt="Image of confirming the MakerDAO transaction" width="70%" />
 
 **Step 5.** The MakerDAO page will shift to show new details about your holdings.
 
@@ -62,15 +60,15 @@ primary_category_display_name: "Dapps"
 
 -   You will need to 'Deploy Proxy' if it's your first time. Select 'Setup' in the top area of this section.
 
-<img src="/images/posts/diving-deeper/MKR6.png" alt="Image of 'Set Allowance'" width="80%" />
+<img src="/images/posts/diving-deeper/MKR6.png" alt="Image of 'Set Allowance'" width="70%" />
 
 **Step 3.** Choose how much DAI you'd like to deposit. Interest rates are accrued annually.
 
-<img src="/images/posts/diving-deeper/MKR7.png" alt="Image of depositing DAI" width="80%" />
+<img src="/images/posts/diving-deeper/MKR7.png" alt="Image of depositing DAI" width="70%" />
 
 **Step 4.** To withdraw, you can follow the same procedure, but select 'Withdraw'.
 
-<img src="/images/posts/diving-deeper/MKR8.png" alt="Image of withdrawing DAI" width="80%" />
+<img src="/images/posts/diving-deeper/MKR8.png" alt="Image of withdrawing DAI" width="70%" />
 
 ## **Closing Your Vault**
 
@@ -87,13 +85,13 @@ primary_category_display_name: "Dapps"
 -   You will have to ‘Approve’ the DAI amount in order to pay it back, which will count as a separate transaction.
 -   Please wait for both transactions to post as 'Success' before continuing.
 
-<img src="/images/posts/diving-deeper/MKR10.png" alt="Image of DAI repayment" width="80%" />
+<img src="/images/posts/diving-deeper/MKR10.png" alt="Image of DAI repayment" width="70%" />
 
 <img src="/images/posts/diving-deeper/MKR11.png" alt="Image of updated vault details" width="100%" />
 
 **Step 4.** Once approved and paid back, you can withdraw your ETH. Under 'ETH Collateral', select 'Withdraw >'.
 
-<img src="/images/posts/diving-deeper/MKR12.png" alt="Image of withdrawing collateral" width="80%" />
+<img src="/images/posts/diving-deeper/MKR12.png" alt="Image of withdrawing collateral" width="70%" />
 
 <img src="/images/posts/diving-deeper/MKR13.png" alt="Image of empty vault" width="100%" />
 
