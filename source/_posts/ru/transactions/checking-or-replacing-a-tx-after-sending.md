@@ -42,17 +42,17 @@ alias:
 
 #### **В этой статье не идет речь о том что вы можете отменить транзакцию, которую случайно послали на неправильный адрес, или что вы можете вернуть ETH после его отправки.**
 
-#### **It only pertains to finding, checking, and potentially replacing transactions that have been stuck in the transaction pool for a very long period of time.**
+#### **Данные инструкции касаются только поиска, проверки и возможной замены транзакций, которые застряли в пуле транзакций в течение слишком длительного периода времени.**
 
 <br>
 
 * * *
 
-## **How to Check the Status of a Transaction**
+## **Как проверить статус транзакции**
 
-**Step 1.** Head to an Ethereum blockchain explorer, like [Etherscan.io](https://www.etherscan.io), [Ethplorer.io](https://www.ethplorer.io), or [EthVM](https://www.ethvm.com).
+**Шаг 1.** Перейдите на обозреватель блокчейна Ethereum, такой как [Etherscan.io](https://www.etherscan.io), [Ethplorer.io](https://www.ethplorer.io), или [EthVM](https://www.ethvm.com).
 
-**Step 2.** Copy and paste the transaction hash into the search field provided.
+**Шаг 2.** Скопируйте и вставьте хеш транзакции в поисковое поле.
 
 **Step 3.** Details will appear depending on the state of the transaction. It will say:
 
