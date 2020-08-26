@@ -21,7 +21,7 @@ primary_category_display_name: "Dapps"
 
 * * *
 
-###### Если вы хотите открыть Vault с помощью нашего приложения MakerDAO Dapp, вам понадобится кошелек для [доступа к нашему интерфейсу](/@@@@@@/getting-started/how-to-access-your-wallet/). If you do not have one yet, check out our guide on [how to set up a new wallet](/@@@@@@/getting-started/how-to-create-a-wallet/).
+###### Если вы хотите открыть Vault с помощью нашего приложения MakerDAO Dapp, вам понадобится кошелек для [доступа к нашему интерфейсу](/@@@@@@/getting-started/how-to-access-your-wallet/). Если у вас еще нет кошелька, ознакомьтесь с нашим руководством по [созданию нового кошелька](/@@@@@@/getting-started/how-to-create-a-wallet/).
 
 ## **Создание Vault**
 
@@ -40,8 +40,8 @@ primary_category_display_name: "Dapps"
 
 **Шаг 4.** Укажите сумму ETH, которую вы хотите предложить в качестве залога. Не забудьте оставить небольшой зазор чтобы учитывать изменения на рынках. Как правило, 200% и выше – это безопасный вариант.
 
--   Before you generate your vault, you'll need to select 'Create Proxy'.
--   Make sure to confirm the transactions on your device, if you're using one.
+-   Перед тем как сгенерировать ваше хранилище, вам нужно выбрать 'Создать прокси'.
+-   Вам нужно будет подтвердить транзакцию на своем устройстве, если вы его используете.
 
 <img src="/images/posts/diving-deeper/MKR3.png" alt="Изображение предложения залога для создания vault " width="100%" />
 
@@ -59,7 +59,7 @@ primary_category_display_name: "Dapps"
 
 **Шаг 2.** Выберите 'Установить', чтобы установить разрешение Maker для взаимодействия с вашим DAI.
 
--   You will need to 'Deploy Proxy' if it's your first time. Select 'Setup' in the top area of this section.
+-   Если вы взаимодействуете с Maker в первый раз, вам надо будет применить прокси (Deploy Proxy). Select 'Setup' in the top area of this section.
 
 <img src="/images/posts/diving-deeper/MKR6.png" alt="Изображение 'Установить разрешение'" width="70%" />
 
