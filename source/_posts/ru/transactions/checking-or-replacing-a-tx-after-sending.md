@@ -34,13 +34,13 @@ alias:
 
 В периоды чрезвычайно больших объемов и высоких цен на газ, транзакции могут ожидать добычи часами, если не днями.
 
-If your transaction is pending for a seemingly infinite amount of time, it is possible to replace it with a new transaction.
+Если ваша транзакция застряла в статусе Pending, можно заменить ее новой транзакцией.
 
-The easiest way to do this is by sending a `0 ETH` transaction to your own address with the same nonce and a higher gas price. This will cancel out your first transaction.
+Самый простой способ сделать это — отправить транзакцию на сумму`0 ETH` на свой собственный адрес, с тем же значением nonce и более высокой ценой газа. Это отменит вашу первую транзакцию.
 
-There is no guarantee this will work, nor that it will work every time. You may end up sending two transactions if you don't follow the process carefully, and even then there is no guarantee.
+Нет никаких гарантий, что это сработает, или же что это будет работать каждый раз. Возможно что вы в итоге отправите две транзакции, если не будете внимательно следовать инструкциям, и даже тогда нет гарантии успеха.
 
-#### **This article is not saying that you can cancel a transaction you accidentally sent to the wrong address, or that you can get your ETH back once it has been sent.**
+#### **В этой статье не идет речь о том что вы можете отменить транзакцию, которую случайно послали на неправильный адрес, или что вы можете вернуть ETH после его отправки.**
 
 #### **It only pertains to finding, checking, and potentially replacing transactions that have been stuck in the transaction pool for a very long period of time.**
 
