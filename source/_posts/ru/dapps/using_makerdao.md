@@ -59,7 +59,7 @@ primary_category_display_name: "Dapps"
 
 **Шаг 2.** Выберите 'Установить', чтобы установить разрешение Maker для взаимодействия с вашим DAI.
 
--   Если вы взаимодействуете с Maker в первый раз, вам надо будет применить прокси (Deploy Proxy). Select 'Setup' in the top area of this section.
+-   Если вы взаимодействуете с Maker в первый раз, вам надо будет применить прокси (Deploy Proxy). Выберете "Установка" в верхней части этого раздела.
 
 <img src="/images/posts/diving-deeper/MKR6.png" alt="Изображение 'Установить разрешение'" width="70%" />
 
@@ -83,8 +83,8 @@ primary_category_display_name: "Dapps"
 
 **Шаг 3.** Вам нужно будет вернуть DAI для вывода ETH. В разделе 'Позиция DAI' выберите 'Вернуть >'.
 
--   You will have to ‘Approve’ the DAI amount in order to pay it back, which will count as a separate transaction.
--   Please wait for both transactions to post as 'Success' before continuing.
+-   Вам потребуется "Утвердить" количество DAI прежде чем вернуть его. Это будет считаться отдельной транзакцией.
+-   Пожалуйста, дождитесь чтобы обе транзакции имели статус "Успех", прежде чем продолжить.
 
 <img src="/images/posts/diving-deeper/MKR10.png" alt="Изображение выплаты DAI" width="70%" />
 
