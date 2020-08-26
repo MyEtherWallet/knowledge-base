@@ -1,5 +1,5 @@
 ---
-title: "Canceling or Replacing a Transaction After it's Been Sent"
+title: "Отмена или замена транзакции после её отправки"
 date: 2018-06-01 00:01:00
 tags:
   - проверка
@@ -16,9 +16,9 @@ alias:
   - transactions/check-status-of-ethereum-transaction.html
 ---
 
-# **Canceling or Replacing a Transaction After it's Been Sent**
+# **Отмена или замена транзакции после её отправки**
 
-###### {% read_time title "Canceling or Replacing a Transaction After it's Been Sent" %} min read
+###### {% read_time title "Canceling or Replacing a Transaction After it's Been Sent" %} мин. чтения
 
 * * *
 
@@ -28,13 +28,13 @@ alias:
 
 Как только майнеры добавили транзакцию в блок, который был включен в блокчейн, то ее нельзя отменить или заменить.
 
-В периоды обычной нагрузки транзакции «майнятся» в течение нескольких секунд и не находятся в пуле транзакций долго. There is simply not enough time to cancel, replace, or override a transaction once it has been sent.
+В периоды обычной нагрузки транзакции «майнятся» в течение нескольких секунд и не находятся в пуле транзакций долго. После отправки транзакции, просто напросто недостаточно времени для ее отмены или замены.
 
-### **However...**
+### **Однако...**
 
-During times of extremely high volume and high gas prices, transactions could be pending for hours or days before being mined.
+В периоды чрезвычайно больших объемов и высоких цен на газ, транзакции могут ожидать добычи часами, если не днями.
 
-If your transaction is pending for a seemingly infinite amount of time, it is possible to replace it with a new transaction sent with a higher gas price.
+Если ваша транзакция застряла в статусе Pending, можно заменить ее новой транзакцией, отправленной с более высокой ценой на газ.
 
 Теоретически вторая транзакция будет включена в блок раньше первой транзакции, тем самым «отменяя» первую транзакцию.
 
