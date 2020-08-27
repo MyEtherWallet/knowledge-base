@@ -97,17 +97,17 @@ alias:
 
 -   Имейте в виду, что чем выше цена газа, тем выше комиссия за транзакцию (лимит газа \* цена газа).
 
-**Step 6.** Click the 'Generate Transaction' button, then copy the 'Signed transaction', which is a long string that begins with '0x'.
+**Шаг 6.** Нажмите кнопку 'Сгенерировать транзакцию', затем скопируйте 'Подписанная транзакция', которая является длинной строкой, начинающейся с '0x'.
 
-**Step 7.** Now close out of this pop-up and scroll down to our footer. Select 'Send Offline Helper'.
+**Шаг 7.** Теперь закройте это всплывающее окно и прокрутите вниз к футеру сайта. Выберите 'Помощник для оффлайн транзакций'.
 
-**Step 8.** Head to section 3 'Signed Transaction', then paste the string from step 6 and 'Continue'.
+**Шаг 8.** Найдите раздел 3 'Подписанная транзакция', затем вставьте строку из шага 6 и нажмите 'Продолжить'.
 
-**Step 9.** A new transaction hash will appear. Search it on the blockchain explorer of your choice and see if it posts as successful.
+**Шаг 9.** Появится хеш новой транзакции. Найдите его в обозревателе блокчейна на ваш выбор и посмотрите если транзакция успешна.
 
--   If it doesn't show up immediately, try refreshing in a few minutes.
+-   Если хеш не появится сразу, попробуйте обновить страницу через несколько минут.
 
-## **Replacing a Transaction<br> (Advanced Users Only)**
+## **Замена транзакции<br> (только для опытных пользователей)**
 
 Replacing a transaction means generating a `XX ETH` transaction to someone else's address with the purpose of doing something (i.e. sending a transaction, revealing an ENS bid, etc.) while simultaneously not having a previous transaction go through. This can be the same transaction as the one that's pending or a completely different transaction.
 
@@ -123,15 +123,15 @@ Replacing a transaction means generating a `XX ETH` transaction to someone else'
 
 -   Имейте в виду, что чем выше цена газа, тем выше комиссия за транзакцию (лимит газа \* цена газа).
 
-**Step 6.** Click the 'Generate Transaction' button, then copy the 'Signed transaction', which is a long string that begins with '0x'.
+**Шаг 6.** Нажмите кнопку 'Сгенерировать транзакцию', затем скопируйте 'Подписанная транзакция', которая является длинной строкой, начинающейся с '0x'.
 
-**Step 7.** Now close out of this pop-up and scroll down to our footer. Select 'Send Offline Helper'.
+**Шаг 7.** Теперь закройте это всплывающее окно и прокрутите вниз к футеру сайта. Выберите 'Помощник для оффлайн транзакций'.
 
-**Step 8.** Head to section 3 'Signed Transaction', then paste the string from step 6 and 'Continue'.
+**Шаг 8.** Найдите раздел 3 'Подписанная транзакция', затем вставьте строку из шага 6 и нажмите 'Продолжить'.
 
-**Step 9.** A new transaction hash will appear. Search it on the blockchain explorer of your choice and see if it posts as successful.
+**Шаг 9.** Появится хеш новой транзакции. Найдите его в обозревателе блокчейна на ваш выбор и посмотрите если транзакция успешна.
 
--   If it doesn't show up immediately, try refreshing in a few minutes.
+-   Если хеш не появится сразу, попробуйте обновить страницу через несколько минут.
 
 ## **Final Notes**
 
