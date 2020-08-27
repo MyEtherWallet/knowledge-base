@@ -77,11 +77,11 @@ alias:
 
 ## **Отмена транзакции**
 
-Canceling means generating a `0 ETH` transaction to your own address with the purpose of preventing a previous transaction from "going through" / "being mined" / "being included in the blockchain" / "being stuck".
+Отмена означает создание транзакции на сумму `0 ETH` на ваш собственный адрес с целью предотвращения «прохождения» предыдущей транзакции (ее добычи / включения в блокчейн).
 
-**Step 1.** Head to [Etherscan.io](https://www.etherscan.io), [Ethplorer.io](https://www.ethplorer.io), or [EthVM](https://www.ethvm.com).
+**Шаг 1.** Перейдите на обозреватель блокчейна Ethereum, такой как [Etherscan.io](https://www.etherscan.io), [Ethplorer.io](https://www.ethplorer.io), или [EthVM](https://www.ethvm.com).
 
-**Step 2.** Paste your transaction hash.
+**Шаг 2.** Вставьте хеш вашей транзакции.
 
 -   Если статус транзакции — Pending (В ожидании), то вы можете попробовать ее отменить.
 -   Если транзакция не найдена, нажмите кнопку еще раз, подождав несколько минут между каждым нажатием. Если это не сработает, скорее всего, ваша транзакция не была отправлена.
