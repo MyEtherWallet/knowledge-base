@@ -87,15 +87,15 @@ alias:
 -   Если транзакция не найдена, нажмите кнопку еще раз, подождав несколько минут между каждым нажатием. Если это не сработает, скорее всего, ваша транзакция не была отправлена.
 -   Если статус транзакции — Success (Успешно), то вы не сможете ее отменить.
 
-**Step 3.** If it says pending, make note of the 'Nonce' being used by the transaction, then access the wallet you used to send the original transaction on MEW.
+**Шаг 3.** Если транзакция в ожидании, обратите внимание на 'Nonce' транзакции, затем откройте кошелек который вы использовали для отправки оригинальной транзакции на MEW.
 
-**Step 4.** In the left-side menu, click 'Send', then choose 'Send offline'.
+**Шаг 4.** В левом меню нажмите 'Отправить', затем выберите 'Отправить оффлайн'.
 
--   You do not have to be offline for this method to work.
+-   Вам не обязательно на самом деле быть оффлайн для этой процедуры.
 
-**Step 5.** Send a transaction to yourself with a balance of `0 ETH` and a high gas price, referenced from [EthGasStation.info](https://ethgasstation.info/), and use the same nonce you noted from step 3.
+**Шаг 5.** Отправьте транзакцию самому себе на сумму `0 ETH` и высокой ценой на газ, в соотвествии с информацией на [EthGasStation. nfo](https://ethgasstation.info/), и используйте тот nonce который вы отметили в шаге 3.
 
--   Keep in mind, the higher the gas price, the higher the transaction fee (Gas Limit \* Gas Price).
+-   Имейте в виду, что чем выше цена газа, тем выше комиссия за транзакцию (лимит газа \* цена газа).
 
 **Step 6.** Click the 'Generate Transaction' button, then copy the 'Signed transaction', which is a long string that begins with '0x'.
 
@@ -121,7 +121,7 @@ Replacing a transaction means generating a `XX ETH` transaction to someone else'
 
 **Step 5.** For the 'Gas Price' field, use a high gas price as referenced from [EthGasStation.info](https://ethgasstation.info/).
 
--   Keep in mind, the higher the gas price, the higher the transaction fee (Gas Limit \* Gas Price).
+-   Имейте в виду, что чем выше цена газа, тем выше комиссия за транзакцию (лимит газа \* цена газа).
 
 **Step 6.** Click the 'Generate Transaction' button, then copy the 'Signed transaction', which is a long string that begins with '0x'.
 
