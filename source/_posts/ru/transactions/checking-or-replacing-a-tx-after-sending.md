@@ -54,7 +54,7 @@ alias:
 
 **Шаг 2.** Скопируйте и вставьте хеш транзакции в поисковое поле.
 
-**Step 3.** Details will appear depending on the state of the transaction. It will say:
+**Шаг 3.** Вы увидите детали транзакции и ее статус. Это будет один из вариантов:
 
 -   **Success (Успех):** Ваша транзакция успешно замайнена и находится на блокчейне.
     -   Если вы не видите ошибок, то ваша транзакция была успешно отправлена. Your ETH or tokens are where you sent them. Если этот баланс не был зачислен на другой кошелек или же аккаунт биржи спустя 24 часа после отправки, пожалуйста, свяжитесь с тем сервисом. Send them the link to your transaction and ask them to look into your situation.
