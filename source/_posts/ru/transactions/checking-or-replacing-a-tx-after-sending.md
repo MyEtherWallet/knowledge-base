@@ -113,9 +113,9 @@ alias:
 
 **Шаг 1.** Повторитe шаги 1 - 4 из раздела 'Отмена транзакции' выше.
 
-**Step 2.** Fill the 'To Address' field with whatever address you wish to send to.
+**Шаг 2.** Заполните поле "Получатель", указав адрес, на который вы хотите отправить транзакцию.
 
-**Step 3.** Change the 'Amount' from `0` to the amount of ETH you wish to send, and change the nonce to the same nonce as the pending transaction.
+**Шаг 3.** Измените сумму с `0` на сумму ETH, которую вы хотите отправить, и измените значение nonce на то же самое, которое у транзакции 'В ожидании'.
 
 **Step 4.** If you are sending a standard ETH transaction, you can use `21000` for the gas limit. If sending tokens, raise it to around `100000`.
 
