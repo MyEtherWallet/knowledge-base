@@ -109,9 +109,9 @@ alias:
 
 ## **Замена транзакции<br> (только для опытных пользователей)**
 
-Replacing a transaction means generating a `XX ETH` transaction to someone else's address with the purpose of doing something (i.e. sending a transaction, revealing an ENS bid, etc.) while simultaneously not having a previous transaction go through. This can be the same transaction as the one that's pending or a completely different transaction.
+Замена транзакции означает создание транзакции на сумму `XX ETH` на чужой адрес с целью что-то сделать (например, отправить средства, открыть ставку ENS и т. д.) и одновременно предотвратить «прохождение» предыдущей транзакции. Это может быть та же транзакция которая находится в ожидании или совершенно другая транзакция.
 
-**Step 1.** Repeat steps 1 - 4 from the 'Canceling a Transaction' section above.
+**Шаг 1.** Повторитe шаги 1 - 4 из раздела 'Отмена транзакции' выше.
 
 **Step 2.** Fill the 'To Address' field with whatever address you wish to send to.
 
