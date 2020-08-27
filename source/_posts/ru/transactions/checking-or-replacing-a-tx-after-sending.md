@@ -57,18 +57,18 @@ alias:
 **Шаг 3.** Вы увидите детали транзакции и ее статус. Это будет один из вариантов:
 
 -   **Success (Успех):** Ваша транзакция успешно замайнена и находится на блокчейне.
-    -   Если вы не видите ошибок, то ваша транзакция была успешно отправлена. Your ETH or tokens are where you sent them. Если этот баланс не был зачислен на другой кошелек или же аккаунт биржи спустя 24 часа после отправки, пожалуйста, свяжитесь с тем сервисом. Send them the link to your transaction and ask them to look into your situation.
+    -   Если вы не видите ошибок, то ваша транзакция была успешно отправлена. Ваш ETH или токены попали на тот адрес, на который вы их отправили. Если этот баланс не был зачислен на другой кошелек или же аккаунт биржи спустя 24 часа после отправки, пожалуйста, свяжитесь с тем сервисом. Отправьте им ссылку на свою транзакцию и попросите их исследовать ситуацию.
 -   **Failed (Сбой):**
     -   Если вы видите красный символ ( ! ) или же сообщение об ошибке BAD INSTRUCTION или OUT OF GAS, то это означает, что транзакция не была успешно отправлена. Вы не можете отменить или заменить эту транзакцию. Вместо этого отправьте новую транзакцию. Если вы получили ошибку Out of Gas, вам нужно удвоить лимит газа, который вы указали изначально.
     -   Если вы видите 'Reverted' ("Возвращено"), то лучше перепроверить принятые вами действия. Эта ошибка связана с ошибкой смарт-контракта.
--   **Transaction not found (Транзакция не найдена):** Не удалось найти эту транзакцию. Возможно, она не была отправлена или же ее нельзя найти в проводнике блокчейна Ethereum, который вы используете. Try using the other one ([Etherscan.io](https://www.etherscan.io), [Ethplorer.io](https://www.ethplorer.io), or [EthVM](https://www.ethvm.com)). Если вы все еще не можете ее найти, то это значит, что она не прошла.
+-   **Transaction not found (Транзакция не найдена):** Не удалось найти эту транзакцию. Возможно, она не была отправлена или же ее нельзя найти в проводнике блокчейна Ethereum, который вы используете. Попробуйте использовать другой обозреватель ([Etherscan.io](https://www.etherscan.io), [Ethplorer.io](https://www.ethplorer.io), или [EthVM](https://www.ethvm.com)). Если вы все еще не можете ее найти, то это значит, что она не прошла.
 -   **Pending (В ожидании):** Ваша транзакция обнаружена в пуле транзакций используемого обозревателя. В настоящее время она находится в ожидании (ожидает, пока ее добудут майнеры). Есть шанс, что вы можете отменить или заменить эту транзакцию, но он очень мал.
 
-If your transaction says 'Pending', check the gas price you used for this transaction and compare it to the gas prices seen on [EthGasStation.info](https://ethgasstation.info/). If it's much lower than the 'Safe Low' price listed, then you have a good chance of replacing or canceling it.
+Если ваша транзакция 'В ожидании', проверьте цену газа, которую вы использовали для этой транзакции и сравните ее с ценами на газ указанными на [EthGasStation.info](https://ethgasstation.info/). Если цена намного меньше, чем цена 'Safe Low', то у вас есть хороший шанс заменить или отменить ее.
 
-## **"Replacing" vs "Canceling" Transactions**
+## **«Замена» и «Отмена» транзакций**
 
--   **Canceling:** This is when you want to 'undo' your transaction. You don't want it to go through, so you generate a `0 ETH` transaction to your own address with the purpose of preventing a previous transaction from "going through" / "being mined" / being included in the blockchain.
+-   **Отмена:** Это когда вы хотите 'отменить' транзакцию. Вы не хотите чтобы транзакция прошла, и создаете транзакцию на сумму `0 ETH` на ваш собственный адрес с целью предотвращения «прохождения» предыдущей транзакции (ее добычи / включения в блокчейн).
 -   **Replacing:** This is when you want your same transaction to go through faster, or you want to replace it with another transaction. You generate a `XX ETH` transaction to someone else's address with the purpose of doing something (i.e. sending funds, revealing an ENS bid, etc.) while simultaneously not having a previous transaction go through.
 
 The reason we recommend 'Canceling' over 'Replacing' is that it is not guaranteed your second transaction will actually replace your first one. Choosing to replace a transaction with a new one could lead to more confusion, headaches, and pending ETH, or ETH spent unnecessarily in the form of gas. This is especially true if your first transaction is mined anyways, which is possible.
