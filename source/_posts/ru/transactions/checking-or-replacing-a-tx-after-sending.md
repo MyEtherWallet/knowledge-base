@@ -69,9 +69,9 @@ alias:
 ## **«Замена» и «Отмена» транзакций**
 
 -   **Отмена:** Это когда вы хотите 'отменить' транзакцию. Вы не хотите чтобы транзакция прошла, и создаете транзакцию на сумму `0 ETH` на ваш собственный адрес с целью предотвращения «прохождения» предыдущей транзакции (ее добычи / включения в блокчейн).
--   **Replacing:** This is when you want your same transaction to go through faster, or you want to replace it with another transaction. You generate a `XX ETH` transaction to someone else's address with the purpose of doing something (i.e. sending funds, revealing an ENS bid, etc.) while simultaneously not having a previous transaction go through.
+-   **Замена:** Это когда вы хотите, чтобы ваша транзакция прошла быстрее, или вы хотите заменить ее другой транзакцией. Вы создаете транзакцию суммой `XX ETH` на адрес другого пользователя с целью сделать что-то (например, отправить средства, открыть ENS-ставку и т. п.), одновременно предотвратив прохождение предыдущей транзакции.
 
-The reason we recommend 'Canceling' over 'Replacing' is that it is not guaranteed your second transaction will actually replace your first one. Choosing to replace a transaction with a new one could lead to more confusion, headaches, and pending ETH, or ETH spent unnecessarily in the form of gas. This is especially true if your first transaction is mined anyways, which is possible.
+Причина, по которой мы рекомендуем 'Отмену' вместо 'Замены', заключается в том, что никто не может гарантировать, что ваша вторая транзакция все таки заменит первую. Попытка замены транзакции может привести к большей путанице и застрявшим ETH, или излишним расходам на газ. This is especially true if your first transaction is mined anyways, which is possible.
 
 * * *
 
