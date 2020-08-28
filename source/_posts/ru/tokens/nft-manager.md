@@ -54,16 +54,16 @@ NFTs (невзаимозаменяемые токены) — это токены
 
 **Шаг 1.** [Откройте ваш кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
-<img src="/images/posts/tokens/NFT0.png" width="85%" />
+<img src="/images/posts/tokens/NFT0.png" alt="Изображение главной страницы MEW" width="85%" />
 
-<img src="/images/posts/tokens/NFT1.png" width="85%" />
+<img src="/images/posts/tokens/NFT1.png" alt="Изображение экрана выбора кошелька для доступа в MEW" width="85%" />
 
 **Шаг 2.** Выберите NFT-менеджер на панели управления вашего кошелька.
 
-<img src="/images/posts/tokens/NFT2.png" width="100%" />
+<img src="/images/posts/tokens/NFT2.png" alt="Изображение MEW доступ к кошельку" width="100%" />
 
 **Шаг 3.** Выберите, какой NFT вы хотите использовать.
 
 -   Если вы пытаетесь отправить ваш NFT кому-то, убедитесь, что у вас есть не менее 0.01 ETH для оплаты газа!
 
-<img src="/images/posts/tokens/NFT4.png" width="100%" />
+<img src="/images/posts/tokens/NFT4.png" alt="Изображение менеджера NFT в MEW" width="100%" />

@@ -34,17 +34,17 @@ primary_category_display_name: "Dapps"
 
 **Шаг 2.** Зайдите в раздел 'Dapps' и выберите Менеджер ENS.
 
-<img src="/images/posts/diving-deeper/ENSmanagertiny.png" alt="Image of ENS Manager on Dapps page" width="40%" />
+<img src="/images/posts/diving-deeper/ENSmanagertiny.png" alt="Изображение менеджера ENS на странице Dapps" width="40%" />
 
 **Шаг 3.** Нажмите на вкладку «Управление», затем выберите домен ENS, который должен разместить ваш сайт.
 
-<img src="/images/posts/diving-deeper/ensmanage.png" alt="Image of ENS 'Manage Domain' page" width="80%" />
+<img src="/images/posts/diving-deeper/ensmanage.png" alt="Изображение страницы ENS 'Управление доменом'" width="80%" />
 
 **Шаг 4.** Нажмите кнопку 'Управление' снова на этом шаге, чтобы быть перенесены в раздел детали домена. Прокрутите вниз до раздела 'IPFS Hash'.
 
-<img src="/images/posts/diving-deeper/ensmanage2.png" alt="Image of user owned ENS domain" width="80%" />
+<img src="/images/posts/diving-deeper/ensmanage2.png" alt="Изображение собственного домена ENS" width="80%" />
 
-<img src="/images/posts/diving-deeper/ensmanageipfs.png" alt="Image of ENS IPFS hash section" width="80%" />
+<img src="/images/posts/diving-deeper/ensmanageipfs.png" alt="Изображения хэша IPFS в ENS" width="80%" />
 
 **Шаг 5.** Если у вас есть ZIP файл, нажмите 'Загрузить свой сайт' и выберите файл. В противном случае, вставьте ваш хеш IPFS прямо в поле.
 
@@ -57,7 +57,7 @@ primary_category_display_name: "Dapps"
 -   Загрузка вашего сайта может занять некоторое время.
 -   Вам может потребоваться обновить интерфейс MEW, чтобы увидеть что ваш IPFS установлен.
 
-<img src="/images/posts/diving-deeper/ensprocessing.png" alt="Image of ENS IPFS processing" width="80%" />
+<img src="/images/posts/diving-deeper/ensprocessing.png" alt="Изображение обработки транзакции IPFS в ENS" width="80%" />
 
 **Шаг 8.** Готово! Теперь ваш сайт .eth доступен для просмотра с помощью расширений MetaMask и Unstoppable Domains для Chrome, либо добавляя к нему .link в любом браузере (т.е. myfavoritewallet.eth.link).
 
@@ -71,15 +71,15 @@ primary_category_display_name: "Dapps"
 
 **Шаг 2.** Зайдите в раздел 'Dapps' и выберите Менеджер Unstoppable Domains.
 
-<img src="/images/posts/diving-deeper/UDdapp.png" alt="Image of UD Manager on Dapps page" width="80%" />
+<img src="/images/posts/diving-deeper/UDdapp.png" alt="Изображение UD Manager на странице Dapps" width="80%" />
 
 **Шаг 3.** Нажмите на вкладку «Управление», затем выберите домен Unstoppable Domains, который должен разместить ваш сайт.
 
-<img src="/images/posts/diving-deeper/UDmanage.png" alt="Image of UD 'Manage Domain' page" width="80%" />
+<img src="/images/posts/diving-deeper/UDmanage.png" alt="Изображение страницы UD 'Управление доменом'" width="80%" />
 
 **Шаг 4.** Прокрутите вниз до раздела 'IPFS Hash'.
 
-<img src="/images/posts/diving-deeper/UDmanagerfull.png" alt="Image of UD IPFS hash section" width="80%" />
+<img src="/images/posts/diving-deeper/UDmanagerfull.png" alt="Изображения хэша IPFS в UD" width="80%" />
 
 **Шаг 5.** Если у вас есть ZIP файл, нажмите 'Загрузить свой сайт' и выберите файл. В противном случае, вставьте ваш хеш IPFS прямо в поле.
 
@@ -92,7 +92,7 @@ primary_category_display_name: "Dapps"
 -   Загрузка вашего сайта может занять некоторое время.
 -   Вам может потребоваться обновить интерфейс MEW, чтобы увидеть что ваш IPFS установлен.
 
-<img src="/images/posts/diving-deeper/processing.png" alt="Image of US IPFS processing" width="80%" />
+<img src="/images/posts/diving-deeper/processing.png" alt="Изображение обработки транзакции IPFS в UD" width="80%" />
 
 **Шаг 8.** Готово! Ваш сайт теперь доступен для просмотра, набрав домен .crypto в браузере Unstoppable Domains, браузере Opera, или с расширением Unstoppable Domains для Chrome.
 

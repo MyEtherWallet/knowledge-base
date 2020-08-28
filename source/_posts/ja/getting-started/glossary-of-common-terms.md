@@ -24,7 +24,7 @@ alias:
 ## **Wallet**
 
 -   The interface / client that you use to manage your account(s).
--   Example: MyEtherWallet.com, MEWconnect, MetaMask, a hardware wallet (i.e. Ledger, Trezor, BitBox, Secalot, etc..), a Multisig Wallet Contract.
+-   Example: MyEtherWallet.com, the MEW wallet app, MetaMask, a hardware wallet (i.e. Ledger, Trezor, BitBox, Secalot, etc..), a Multisig Wallet Contract.
 
 ## **Account**
 
@@ -71,7 +71,7 @@ alias:
 -   Another fancy version of your private key, that is actually used to derive multiple private keys.
 -   Usually, a 12 or 24 word phrase that allows you to access an infinite number of accounts.
 -   Sometimes includes an extra 13th or 25th word chosen by the user, for added security.
--   Used by Ledger, Trezor, MEWconnect, MetaMask, Jaxx, and others.
+-   Used by Ledger, Trezor, the MEW wallet app, MetaMask, Jaxx, and others.
 -   Originates from BIP 39 Spec.
 -   The accounts you can access with this phrase are determined by the ["derivation path"](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2).
 -   Example 12-words: `brain surround have swap horror body response double fire dumb bring hazard`

@@ -31,7 +31,7 @@ First you’ll want to make sure your token isn’t already listed in our interf
 
 **Step 1.** [Access your wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
-<img src="/images/posts/tokens/Custom1.png" width="85%" />
+<img src="/images/posts/tokens/Custom1.png" alt="Image of accessed MEW wallet" width="85%" />
 
 **Step 2.** Search our default token list for the token you are looking for.
 
@@ -45,26 +45,26 @@ You will need three pieces of information to add a custom token with our interfa
 
 **Step 1.** Head to [Etherscan](https://etherscan.io).
 
-<img src="/images/posts/tokens/Custom2.png" width="85%" />
+<img src="/images/posts/tokens/Custom2.png" alt="Image of Etherscan" width="85%" />
 
 **Step 2.** If you have a balance of the token you are trying to add, search for your public address (0x...) in the search bar.
 
 -   If you do not have a balance and would like to add the token before receiving it, search for the token in the search bar. Make sure you find the correct token, or you will be adding another token to your list.
 -   There is no harm in sending your ERC20 token to your address before adding it as a custom token. In fact, this may make it easier to find via etherscan.
 
-<img src="/images/posts/tokens/Custom3.png" width="60%" />
+<img src="/images/posts/tokens/Custom3.png" alt="Image of Etherscan owned tokens" width="60%" />
 
 **Step 3.** Find your token in the token balances dropdown. Select the token to be taken to a token information screen.
 
-<img src="/images/posts/tokens/Custom4.png" width="85%" />
+<img src="/images/posts/tokens/Custom4.png" alt="Image of Etherscan token information" width="85%" />
 
 **Step 4.** Here, you will find the token’s contract address and decimal count to the right of the interface. Remember the decimal count, and click on the contract address to be taken to the token’s main screen.
 
-<img src="/images/posts/tokens/Custom5.png" width="70%" />
+<img src="/images/posts/tokens/Custom5.png" alt="Image of token Contract Address on Etherscan" width="70%" />
 
 **Step 5.** Copy this address to your clipboard, and head back to MEW. At the top of the token list, click ‘+ Custom Tokens’ to bring up the custom token addition screen.
 
-<img src="/images/posts/tokens/Custom6.png" width="50%" />
+<img src="/images/posts/tokens/Custom6.png" alt="Image of adding a custom token on MEW" width="50%" />
 
 **Step 6.** Paste the contract address into the top field, input the token’s symbol (abbreviation) into the second field, and enter the decimal count last. Then click ‘Save’. You’re done!
 
@@ -72,11 +72,11 @@ You will need three pieces of information to add a custom token with our interfa
 
 #### _“Token Already Exists!”_
 
-<img src="/images/posts/tokens/Custom7.png" width="50%" />
+<img src="/images/posts/tokens/Custom7.png" alt="Image of 'Token Already Exists' error on MEW" width="50%" />
 
 If you see this error, there is a simple fix for it. Re-enter your custom token information, but put a ‘2’ after the symbol. I.e. If the token’s symbol is ‘XYZ’, enter is as ‘XYZ2’.
 
-<img src="/images/posts/tokens/Custom8.png" width="50%" />
+<img src="/images/posts/tokens/Custom8.png" alt="Image of adding custom token on MEW with '2' added" width="50%" />
 
 If you still get this error after submitting it with the modified symbol, then your token is likely already a default token. Try searching the token list again for the symbol. If you see it with a balance of 0, but etherscan.io shows a balance, then you’ll likely need to change networks to another ETH node, in the upper right-hand corner.
 

@@ -29,15 +29,17 @@ primary_category_display_name: "MEWconnect"
 
 -   Нажмите ‘Забыли пароль?’ на главном экране или ‘Сброс кошелька >’ на вкладке ‘Информация’.
 
-<img src="/images/posts/mewconnect/ForgotPassMC.jpg" width="35%" />
+<img src="/images/posts/mewconnect/ForgotPassMC.jpg" alt="Изображение экрана входа в приложение MEWconnect" width="35%" />
+
+<img src="/images/posts/mewconnect/MainResetMC.jpg" alt="Изображение экрана MEWconnect 'Забытый пароль'" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" alt="Изображение страницы настроек MEWconnect" width="30%" />
 
 * * *
 
-**Шаг 2.** Введите вашу фразу восстановления из 24 слов. Убедитесь, что все слова расположены в правильном порядке и написаны правильно.
+**Шаг 2.** Введите вашу фразу восстановления из 24 слов. Убедитесь, что все слова расположены в правильном порядке и правильно написаны.
 
 -   Не вводите запятые между словами, используйте только один пробел.
 
-<img src="/images/posts/mewconnect/MainResetMC.jpg" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" width="30%" />
+<img src="/images/posts/mewconnect/RecoverMC.jpg" alt="Изображение экрана восстановления кошелька MEWconnect" width="30%" />
 
 * * *
 
@@ -45,8 +47,6 @@ primary_category_display_name: "MEWconnect"
 
 -   Обязательно запишите где-нибудь этот пароль, чтобы не забыть его!
 -   Мы не сможем восстановить или изменить ваш пароль.
-
-<img src="/images/posts/mewconnect/RecoverMC.jpg" width="30%" />
 
 * * *
 

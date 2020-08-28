@@ -42,4 +42,4 @@ This is why exchanges wait for you to have a certain number of confirmations bef
 
 ## **When using the Ethereum blockchain, the above is not possible.**
 
-In Ethereum, this method of "double-spending" is not possible because each transaction has a nonce included with it. Even if you attempt to do the above, it will not work as the second transaction (nonce of `3`) cannot be mined before the first transaction (nonce of `2`).
+P Even if you attempt to do the above, it will not work as the second transaction (nonce of `3`) cannot be mined before the first transaction (nonce of `2`).
