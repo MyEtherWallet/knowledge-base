@@ -117,7 +117,7 @@ alias:
 
 **Шаг 3.** Измените сумму с `0` на сумму ETH, которую вы хотите отправить, и измените значение nonce на то же самое, которое у транзакции 'В ожидании'.
 
-**Step 4.** If you are sending a standard ETH transaction, you can use `21000` for the gas limit. If sending tokens, raise it to around `100000`.
+**Шаг 4.** При отправке стандартной транзакции в ETH вы можете использовать лимит топлива `21000`. Если вы отправляете токены, увеличьте лимит примерно до `100000`.
 
 **Step 5.** For the 'Gas Price' field, use a high gas price as referenced from [EthGasStation.info](https://ethgasstation.info/).
 
