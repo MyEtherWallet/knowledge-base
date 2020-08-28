@@ -119,7 +119,7 @@ alias:
 
 **Шаг 4.** При отправке стандартной транзакции в ETH вы можете использовать лимит топлива `21000`. Если вы отправляете токены, увеличьте лимит примерно до `100000`.
 
-**Step 5.** For the 'Gas Price' field, use a high gas price as referenced from [EthGasStation.info](https://ethgasstation.info/).
+**Шаг 5.** Для поля "Цена газа" используйте высокую цену на газ проверив свежую информацию на [EthGasStation.info](https://ethgasstation.info/).
 
 -   Имейте в виду, что чем выше цена газа, тем выше комиссия за транзакцию (лимит газа \* цена газа).
 
@@ -133,7 +133,7 @@ alias:
 
 -   Если хеш не появится сразу, попробуйте обновить страницу через несколько минут.
 
-## **Final Notes**
+## **Заключительные заметки**
 
--   MEW does not receive any transaction fees. They are paid to the miners for including your transaction in a block. We are a free, open-source service.
--   The transaction pool varies from node to node. This means that a transaction may be pending in ETH (Infura.io)'s transaction pool, but not ETH (MyEtherWallet.com)'s transaction pool. For this reason, you should try all the ETH nodes we offer.
+-   MEW не получает комиссию газа за транзакции. Она выплачивается майнерам за включение вашей транзакции в блок. Мы — бесплатный сервис с открытым исходным кодом.
+-   Пул транзакций варьируется от узла к узлу. Это означает, что транзакция может находиться в состоянии ожидания в пуле транзакций узла ETH (Infura.io), но не в пуле транзакций узла ETH (MyEtherWallet.com). Поэтому советуем вам попробовать все предлагаемые нами ETH-узлы.
