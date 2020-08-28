@@ -36,8 +36,9 @@ primary_category_display_name: "MEWwallet"
 -   Мгновенно покупать ETH с помощью Apple Pay
 -   Автоматически видеть любой токен, без добавления кастомных настроек
 -   Отправлять транзакции прямo из приложения
--   Посетить наш Учебный Центр
--   Использовать несколько аккаунтов
--   И многое другое!
+-   Swap through our provider DEX.AG
+-   Visit our Education Center
+-   Manage multiple accounts
+-   And more!
 
 ## Чтобы узнать больше о MEW wallet, посмотрите нашу статью о том [как использовать MEW кошелек](/@@@@@@/mewwallet/mewwallet-user-guide/).
