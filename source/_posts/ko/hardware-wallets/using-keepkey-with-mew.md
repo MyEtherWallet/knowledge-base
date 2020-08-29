@@ -63,7 +63,7 @@ Without further ado, let’s begin!
 
 **Step 3.** Enter your pin to connect to your wallet.
 
-**Step 4.** You will see a bunch of addresses here. Make sure you're on the Ethereum network, using the standard Ethereum derivation path, and then choose your address.
+**Step 4.** You will see a bunch of addresses here. 0x47A170f539CAA65a5c160400F7269c3D6AD01102
 
 -   There's no right or wrong choice for choosing an address, it's up to you. But choosing the first one is usually the best practice, for convenience and memory's sake.
 
