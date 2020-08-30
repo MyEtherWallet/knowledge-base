@@ -73,7 +73,7 @@ You're done! All backed up and ready to connect to MEW
 
 <img class="image-right" alt="Image of QR code connection" src="/images/posts/mewconnect/ScanQRMC.jpg" align="right" width="30%" />
 
-## **3. Connect with MEW**
+## **3. Step 6. Click the ‘Generate Transaction’ button, then copy the ‘Signed transaction’, which is a long string that begins with ‘0x’.**
 
 **Step 1.** Unlock your wallet on MEWconnect.
 
