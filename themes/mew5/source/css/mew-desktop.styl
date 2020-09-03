@@ -578,8 +578,6 @@
     .block-right
       margin-left: auto
 
-
-
   //=========================================================================
   // .breadcrumbs-container
   //=========================================================================
@@ -990,4 +988,40 @@
       .post-title
         color: white
 
-
+.app-banner
+  position: fixed
+  width: calc(100% - 36px)
+  left: 16px
+  bottom: 16px
+  background-color: #ffffff
+  border-radius: 16px
+  box-shadow: 0 8px 26px 0 rgba(0, 0, 0, 0.12)
+  padding: 22px 32px
+  display: flex
+  justify-content: space-between
+  align-items: center
+  visibility: hidden
+  &.visible
+    visibility: visible
+  p
+    font-size: 20px
+    line-height: 30px
+    font-weight: 500
+    color: #000000
+    width: 452px
+.app-banner-get
+  display: none    
+.app-banner-links
+  display: flex
+  justify-content: flex-end
+  align-items: center
+  a
+    font-size: 0
+    margin-right: 16px
+    &:last-child
+      margin-right: 0
+.app-banner-close
+  position: absolute
+  right: 12px
+  top: 12px      
+  font-size: 0
