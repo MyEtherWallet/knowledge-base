@@ -1091,4 +1091,50 @@
       .post-title
         color: white
 
+@media screen and (max-width: 880px)
+  .app-banner-links 
+    a
+      &:first-child
+        display: none
+  .app-banner 
+    p    
+      font-size: 18px
+      width: auto
+      padding-right: 16px
 
+@media screen and (max-width: 720px)
+  .app-banner
+    width: 100%
+    left: 0
+    bottom: 0
+    border-radius: 16px 16px 0 0
+    padding: 24px
+    padding-top: 16px
+    display: block
+    p    
+      font-size: 16px
+      width: 100%
+      padding-right: 0
+      line-height: 23px
+      margin-bottom: 16px
+    .app-banner-get
+      display: block
+      width: 121px
+      height: 30px
+      border: 2px solid #05C0A5
+      border-radius: 16px
+      font-size: 14px
+      line-height: 26px
+      font-weight: 500
+      text-align: center
+      color: #000000
+    .app-banner-links
+      display: none
+      &.visible
+        display: block
+      a
+        margin-right: 0
+        &:first-child
+          display: inline-block
+          margin-bottom: 16px
+          margin-right: 16px
