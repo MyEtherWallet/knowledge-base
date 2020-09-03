@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Close</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.497650787">
+        <g id="Desktop---Banner" transform="translate(-987.000000, -1491.000000)" stroke="#000000" stroke-width="1.5">
+            <g id="banner" transform="translate(16.000000, 1480.000000)">
+                <g id="Close" transform="translate(960.000000, 0.000000)">
+                    <path d="M12.5,19.5 L19.5,12.5 M19.5,19.5 L12.5,12.5" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
