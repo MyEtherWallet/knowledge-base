@@ -21,11 +21,11 @@ primary_category_display_name: "Dapps"
 
 * * *
 
-###### This guide details how to connect to the Ren Protocol DApp website using the MEW wallet app. 
+###### This guide details how to connect to the Ren Protocol DApp website using the MEW wallet app.
 
 ###### You will need a [MEW wallet account][mwacnt] for this guide.
 
-## __Using Ren Protocol with the MEW wallet app__
+## **Using Ren Protocol with the MEW wallet app**
 
 **Step 1.** Head to the [Ren Protocol DApp website][renp].
 
@@ -49,5 +49,7 @@ primary_category_display_name: "Dapps"
 <img src="/images/posts/diving-deeper/renmc3.png" alt="Image of connected Ren Protocol Dashboard" width="100%">
 
 [renp]: https://bridge.renproject.io/
+
 [renmew]: /@@@@@@/dapps/renp/
+
 [mwacnt]: /@@@@@@/mewwallet/mewwallet-user-guide/

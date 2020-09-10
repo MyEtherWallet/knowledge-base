@@ -35,6 +35,6 @@ Other platforms can also integrate MEWconnect in order to allow MEW users to con
 
 To learn more about how to use MEWconnect, check out our guide on [how to connect your MEW wallet account to Aave][aave].
 
+[mc]: https://mewconnect.myetherwallet.com/
 
-[mc]: https://mewconnect.myetherwallet.com/ 
 [aave]: /@@@@@@/dapps/aave_mc/

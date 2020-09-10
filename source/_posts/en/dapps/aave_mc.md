@@ -20,11 +20,11 @@ primary_category_display_name: "Dapps"
 
 * * *
 
-###### This guide details how to connect to the Aave DApp website using the MEW wallet app. If you want to use Aave within the MEW interface, check out our guide on [how to use Aave with MEW web][aavemew]. 
+###### This guide details how to connect to the Aave DApp website using the MEW wallet app. If you want to use Aave within the MEW interface, check out our guide on [how to use Aave with MEW web][aavemew].
 
 ###### You will need a [MEW wallet account][mwacnt] for this guide.
 
-## __Using Aave with the MEW wallet app__
+## **Using Aave with the MEW wallet app**
 
 **Step 1.** Head to the [Aave DApp website][aave].
 
@@ -57,5 +57,7 @@ primary_category_display_name: "Dapps"
 </div>
 
 [aave]: https://app.aave.com/
+
 [aavemew]: /@@@@@@/dapps/aave/
+
 [mwacnt]: /@@@@@@/mewwallet/mewwallet-user-guide/
