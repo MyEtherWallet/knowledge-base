@@ -23,7 +23,7 @@ primary_category_display_name: "Dapps"
 
 Ambrpay has integrated with MEW to set up and manage recurring payments. This can be utilized in a variety of ways, like setting up subscriptions for services or managing frequent payments to friends, etc.
 
-###### If you’d like to set up a payment system with Ambrpay, you will need a wallet you can [access with our interface](/@@@@@@/getting-started/how-to-access-your-wallet/). If you do not have a wallet, [click here](/@@@@@@/getting-started/how-to-create-a-wallet/) to set one up.
+###### If you’d like to set up a payment system with Ambrpay, you will need a wallet you can [access with our interface](/@@@@@@/getting-started/how-to-access-your-wallet/). If you do not have a wallet, check out our guide on [how to create a wallet](/@@@@@@/getting-started/how-to-create-a-wallet/) to set one up.
 
 ## **Using Ambrpay with MEW**
 
