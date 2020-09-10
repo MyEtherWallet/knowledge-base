@@ -23,7 +23,7 @@ primary_category_display_name: "Dapps"
 
 Aave allows you to deposit and borrow 16 different types of cryptocurrencies while earning on your deposited collateral. Borrowed assets will accrue an annual interest that needs to be paid back when you’re done with the loan, but this accrual can be switched between a variable or stable rate.
 
-###### If you’d like to deposit or borrow assets with Aave, you will need a wallet you can [access with our interface][access]. If you do not have a wallet, [click here][create] to set one up.
+###### If you’d like to deposit or borrow assets with Aave, you will need a wallet you can [access with our interface][access]. If you do not have a wallet, check out out guide on [how to create a wallet][create] to set one up.
 
 ## **Using Aave to earn on deposited assets**
 
