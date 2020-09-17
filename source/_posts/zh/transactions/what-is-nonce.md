@@ -1,5 +1,5 @@
 ---
-title: "What is Nonce?"
+title: "What is a Nonce?"
 date: 2018-06-01 00:08:00
 tags:
   - nonce
@@ -12,9 +12,9 @@ alias:
   - en/transactions/what-is-nonce.html
 ---
 
-# **What is Nonce?**
+# **What is a Nonce?**
 
-###### {% read_time title "What is Nonce?" %} min read
+###### {% read_time title "What is a Nonce?" %} min read
 
 * * *
 
