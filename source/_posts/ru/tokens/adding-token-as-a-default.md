@@ -1,5 +1,5 @@
 ---
-title: "Добавление вашего токена в список токенов по умолчанию"
+title: "Adding Your Token as a Default Token on MEW"
 date: 2018-06-01 00:01:00
 tags:
   - токен
@@ -16,9 +16,9 @@ alias:
   - tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
-# **Добавление вашего токена в список токенов по умолчанию**
+# **Adding Your Token as a Default Token on MEW**
 
-###### Время прочтения: {% read_time title "Добавление вашего токена в качестве токена по умолчанию" %} мин.
+###### {% read_time title "Adding Your Token as a Default Token on MEW" %} min read
 
 * * *
 
