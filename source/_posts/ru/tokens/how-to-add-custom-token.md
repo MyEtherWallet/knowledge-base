@@ -1,5 +1,5 @@
 ---
-title: "Как добавить кастомный токен"
+title: "How to Add a Custom Token on MEW web"
 date: 2018-06-01 00:02:00
 tags:
   - кастомный
@@ -17,9 +17,9 @@ alias:
   - send/adding-new-token-and-sending-custom-tokens.html
 ---
 
-# **Как добавить кастомный токен**
+# **How to Add a Custom Token on MEW web**
 
-###### Время прочтения: {% read_time title "Как добавить свой токен" %} мин.
+###### {% read_time title "How to Add a Custom Token on MEW web" %} min read
 
 * * *
 

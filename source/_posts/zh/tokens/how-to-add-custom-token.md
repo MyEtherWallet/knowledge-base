@@ -1,5 +1,5 @@
 ---
-title: "How to Add a Custom Token"
+title: "How to Add a Custom Token on MEW web"
 date: 2018-06-01 00:02:00
 tags:
   - anyone there?
@@ -17,9 +17,9 @@ alias:
   - en/send/adding-new-token-and-sending-custom-tokens.html
 ---
 
-# **How to Add a Custom Token**
+# **How to Add a Custom Token on MEW web**
 
-###### {% read_time title "How to Add a Custom Token" %} min read
+###### {% read_time title "How to Add a Custom Token on MEW web" %} min read
 
 * * *
 

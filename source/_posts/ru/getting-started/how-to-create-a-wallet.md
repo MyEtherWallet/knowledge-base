@@ -1,5 +1,5 @@
 ---
-title: "Как создать кошелек"
+title: "How to Create an Ethereum Wallet with MEW"
 date: 2018-06-01 00:07:00
 tags:
   - ЧЗВ
@@ -14,11 +14,11 @@ alias:
   - getting-started/creating-a-new-wallet-on-myetherwallet.html
 ---
 
-# **Как создать кошелек**
+# **How to Create an Ethereum Wallet with MEW**
 
 ##### Если в настоящее время вы используете аппаратный кошелек (например, Ledger или Trezor) или другой кошелек (например, MetaMask), эта статья не для вас. Она только для новых пользователей, которые хотят начать с нуля.
 
-###### {% read_time title "How to Create a Wallet" %} минут на чтение
+###### {% read_time title "How to Create an Ethereum Wallet with MEW" %} min read
 
 * * *
 
