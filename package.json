@@ -37,7 +37,8 @@
     "hexo-util": "^0.6.3",
     "hexo-wordcount": "^6.0.1",
     "npm": "^6.11.2",
-    "package-json": "^6.5.0"
+    "package-json": "^6.5.0",
+    "yaml-front-matter": "^4.1.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",

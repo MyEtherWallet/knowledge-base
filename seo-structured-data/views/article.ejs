@@ -1,0 +1,51 @@
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "<%= url %>"
+    },
+    "headline": "<%= headline %>",
+    "datePublished": "<%= datePublished %>",
+    "dateModified": "<%= dateModified %>",
+    "author": {
+        "@type": "Person",
+        "name": "<%= author %>"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "MyEtherWallet ",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://kb.myetherwallet.com/images/mew-logo-dark.png"
+        }
+    }
+}
+</script>
+<meta property="og:site_name" content="MyEtherWallet Knowledgebase">
+<meta property="og:type" content="article">
+<meta property="og:title" content="<%= headline %>">
+<meta property="og:description" content="<%= headline %>">
+<meta property="og:url" content="<%= articleUrl %>">
+<meta property="article:published_time" content="<%= datePublished %>">
+<meta property="article:modified_time" content="<%= dateModified %>">
+<% tags.forEach(function(tag){ %>
+    <meta property="article:tag" content="<%= tag %>">
+<% }); %>
+<meta property="article:publisher" content="https://www.facebook.com/myetherwallet">
+<% languages.forEach(function(lang){ %>
+    <link rel="alternate" hreflang="<%= lang %>" href="<%= url + '/' + lang + articlePath %>">
+<% }); %>
+<% aliases.forEach(function(alias){ %>
+    <link rel="alternate" href="<%= url + '/' + alias %>">
+<% }); %>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="<%= headline %>">
+<meta name="twitter:description" content="<%= headline %>">
+<meta name="twitter:url" content="<%= articleUrl %>">
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="<%= author %>">
+<meta name="twitter:label2" content="Filed under">
+<meta name="twitter:data2" content="<%= tags.join(' ') %>">
+<meta name="twitter:site" content="@myetherwallet">

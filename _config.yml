@@ -111,6 +111,28 @@ deploy:
 sitemap:
   path: sitemap.xml
 
+#structured_data:
+#  label:
+#    archive: Archive
+#  sns:
+#    - https://twitter.com/test/
+#    - https://github.com/test/
+#  logo:
+#    path: logo.png
+#    width: 300
+#    height: 60
+#  article:
+#    eyecatch:
+#      key: image
+#      width: 1024
+#      height: 768
+
+seo_structured_data:
+  organization:
+    name: MyEtherWallet
+    url: https://www.myetherwallet.com
+    logoUrl: https://kb.myetherwallet.com/images/mew-logo-dark.png
+
 alias:
   # Removed
   /offline/is-the-send-page-offline.html: /
