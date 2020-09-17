@@ -1,5 +1,5 @@
 ---
-title: "Не удается подключиться к аппаратному кошельку"
+title: "Unable to Connect to Hardware Wallet with MEW"
 date: 2018-06-01 00:06:00
 tags:
   - ошибка
@@ -15,9 +15,9 @@ alias:
   - hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
 ---
 
-# **Не удается подключиться к аппаратному кошельку**
+# **Unable to Connect to Hardware Wallet with MEW**
 
-###### {% read_time title "Unable to Connect to Hardware Wallet" %} минут на чтение
+###### {% read_time title "Unable to Connect to Hardware Wallet with MEW" %} min read
 
 * * *
 
