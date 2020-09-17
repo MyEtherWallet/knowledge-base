@@ -1,9 +1,20 @@
 ---
 title: "Как получить доступ к кошельку"
-date: 2018-06-01 00:06:00
+date: 2020-09-17 00:06:00
 tags:
   - доступ
   - кошелек
+  - myetherwallet
+  - my ether wallet
+  - mew
+  - mew wallet
+  - mew web
+  - ethereum
+  - ether
+  - ledger
+  - trezor
+  - private key
+  - keystore
 categories:
   - 
     - get-started
@@ -11,7 +22,7 @@ primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
   - getting-started/accessing-your-new-eth-wallet.html
-author: person
+author: Stephen Wooldridge II
 ---
 
 # **Как получить доступ к кошельку**
