@@ -12,21 +12,19 @@ Injects Website and Organization structured data.
 
 ## Install
 
-``` bash
+```bash
 $ npm install hexo-helper-seo-structured-data --save
 ```
 
 ## Usage
 
-```
-<%- seoStructuredData(config) %>
-```
+    <%- seoStructuredData(config) %>
 
 ## Options
 
 You can configure this plugin in `_config.yml`.
 
-``` yaml
+```yaml
 seo_structured_data:
   organization:
     name: Fake organization
@@ -39,8 +37,13 @@ seo_structured_data:
 MIT © [Ludovic LEFEVRE](http://www.ludoviclefevre.fr)
 
 [coveralls-image]: https://coveralls.io/repos/ludoviclefevre/hexo-helper-seo-structured-data/badge.svg
+
 [coveralls-url]: https://coveralls.io/r/ludoviclefevre/hexo-helper-seo-structured-data?branch=master
+
 [travis-url]: https://travis-ci.org/ludoviclefevre/hexo-helper-seo-structured-data
+
 [travis-image]: https://travis-ci.org/ludoviclefevre/hexo-helper-seo-structured-data.svg?branch=master
+
 [daviddm-url]: https://david-dm.org/ludoviclefevre/hexo-helper-seo-structured-data.svg?theme=shields.io
+
 [daviddm-image]: https://david-dm.org/ludoviclefevre/hexo-helper-seo-structured-data
