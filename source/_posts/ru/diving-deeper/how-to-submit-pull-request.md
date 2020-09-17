@@ -1,5 +1,5 @@
 ---
-title: "Как отправить запрос на включение изменений"
+title: "How to Submit a Pull Request to MEW's GitHub"
 date: 2018-06-01 00:04:00
 tags:
   - отправить
@@ -14,9 +14,9 @@ alias:
   - diving-deeper/how-to-submit-pull-request.html
 ---
 
-# **Как отправить запрос на включение изменений**
+# **How to Submit a Pull Request to MEW's GitHub**
 
-###### {% read_time title "How to Submit a Pull Request" %} минут на чтение
+###### {% read_time title "How to Submit a Pull Request to MEW's GitHub" %} min read
 
 * * *
 
