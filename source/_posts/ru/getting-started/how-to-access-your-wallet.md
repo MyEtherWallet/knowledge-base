@@ -11,6 +11,7 @@ primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
   - getting-started/accessing-your-new-eth-wallet.html
+author: person
 ---
 
 # **Как получить доступ к кошельку**
