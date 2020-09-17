@@ -13,7 +13,7 @@ primary_category_display_name: "MEW wallet"
 
 # **How does the MEW wallet app protect my funds?**
 
-###### {% read_time title "How does the MEW wallet app protect my funds?" %} min read
+###### efefef
 
 * * *
 
