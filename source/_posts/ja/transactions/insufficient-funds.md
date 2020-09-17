@@ -1,5 +1,5 @@
 ---
-title: "Not Enough ETH to Send"
+title: "Error: Not Enough ETH to Send"
 date: 2018-06-01 00:01:00
 tags:
   - insufficient
@@ -16,7 +16,7 @@ alias:
 
 # **Error: Not Enough ETH to Send**
 
-###### {% read_time title "Not Enough ETH to Send" %} min read
+###### {% read_time title "Error: Not Enough ETH to Send" %} min read
 
 * * *
 
