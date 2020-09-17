@@ -45,7 +45,7 @@
                     <h3><%= _p('index.access_wallet') %></h3>
                     <ul>
                         <li>
-                            <a href="<%- url_for_lang(site.categories.findOne({name: 'mewwallet'}).posts.sort('date', 1).data[0].path) %>">
+                            <a href="<%- url_for_lang(site.categories.findOne({name: 'mewwallet'}).posts.filter(function(post){return post.lang == page.lang;}).sort('date', 1).data[0].path) %>">
                                 <div>
                                     <%- image_tag('images/mew-icons/mewconnect.svg', {alt: ''}) %>
                                     <p><%= _p('index.mewwallet') %></p>
@@ -66,7 +66,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="<%- url_for_lang(site.categories.findOne({name: 'mewconnect'}).posts.sort('date', 1).data[0].path) %>">
+                            <a href="<%- url_for_lang(site.categories.findOne({name: 'mewconnect'}).posts.filter(function(post){return post.lang == page.lang;}).sort('date', 1).data[0].path) %>">
                                 <div>
                                     <%- image_tag('images/mew-icons/mewconnect.svg', {alt: ''}) %>
                                     <p><%= _p('index.mewconnect') %></p>
