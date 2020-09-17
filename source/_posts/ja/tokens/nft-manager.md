@@ -1,5 +1,5 @@
 ---
-title: "Non-Fungible Tokens (NFTs)"
+title: "What are Non-Fungible Tokens (NFTs)?"
 date: 2018-06-01 00:01:00
 tags:
   - token
@@ -19,9 +19,9 @@ alias:
   - en/tokens/nft-manager.html
 ---
 
-# **Non-Fungible Tokens (NFTs)**
+# **What are Non-Fungible Tokens (NFTs)?**
 
-###### {% read_time title "Non-Fungible Tokens (NFTs)" %} min read
+###### {% read_time title "What are Non-Fungible Tokens (NFTs)?" %} min read
 
 * * *
 
