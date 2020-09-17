@@ -27,7 +27,7 @@ function getArticleStructuredData (config, page) {
   }
   if(page.alias){
     page.alias.forEach(alias => {
-      aliases.push(alias); // todo remove dev item
+      aliases.push(alias);
     });
   }
 
@@ -38,8 +38,8 @@ function getArticleStructuredData (config, page) {
     'url': config.url,
     articleUrl: `${config.url}/${page.slug}`,
     'author': page.author || 'MyEtherWallet',
-    'dateModified': page.updated.format(),
-    'datePublished': page.date.format(),
+    'dateModified': page.updated ? page.updated.format() : '',
+    'datePublished': page.date ? page.date.format() : '',
     articlePath: page.path.slice(2),
     languages: config.i18n.languages,
     tags: tags,
