@@ -1,5 +1,5 @@
 ---
-title: "Использование Geth / Mist с MEW"
+title: "Using Geth / Mist with MEW"
 date: 2018-06-01 00:03:00
 tags:
   - geth
