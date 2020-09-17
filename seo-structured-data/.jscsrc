@@ -1,0 +1,9 @@
+{
+  "preset": "crockford",
+  "requireVarDeclFirst": null,
+  "requireMultipleVarDecl": null,
+  "validateQuoteMarks": "'",
+  "validateLineBreaks": "LF",
+  "requireDotNotation": null,
+  "validateIndentation": 2
+}

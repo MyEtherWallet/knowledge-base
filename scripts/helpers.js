@@ -5,6 +5,7 @@
 function startsWith(str, start) {
   return str.substring(0, start.length) === start;
 }
+hexo.extend.helper.register('seoStructuredData', require('../seo-structured-data'));
 
 hexo.extend.filter.register('after_post_render', function(data){
   const langs = Object.keys(data.site.data.languages)
