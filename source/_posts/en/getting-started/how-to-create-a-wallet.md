@@ -1,5 +1,5 @@
 ---
-title: "How to Create a Wallet"
+title: "How to Create an Ethereum Wallet with MEW"
 
 date: 2018-06-01 00:07:00
 tags:
@@ -14,11 +14,11 @@ alias:
   - en/getting-started/creating-a-new-wallet-on-myetherwallet.html
 ---
 
-# **How to Create a Wallet**
+# **How to Create an Ethereum Wallet with MEW**
 
 ##### If you are currently using a Hardware wallet (such as Ledger or Trezor) or another wallet service (such as MetaMask), this article is not for you. This is only for new users, looking to begin from scratch.
 
-###### {% read_time title "How to Create a Wallet" %} min read
+###### {% read_time title "How to Create an Ethereum Wallet with MEW" %} min read
 
 * * *
 

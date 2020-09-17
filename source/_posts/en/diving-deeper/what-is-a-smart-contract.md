@@ -1,5 +1,5 @@
 ---
-title: "What is a Smart Contract?"
+title: "What is an Ethereum Smart Contract?"
 
 date: 2018-06-01 00:08:00
 tags:
@@ -11,9 +11,9 @@ primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 ---
 
-# **What is a Smart Contract?**
+# **What is an Ethereum Smart Contract?**
 
-###### {% read_time title "What is a Smart Contract?" %} min read
+###### {% read_time title "What is an Ethereum Smart Contract?" %} min read
 
 * * *
 
