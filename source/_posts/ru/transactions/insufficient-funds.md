@@ -1,5 +1,5 @@
 ---
-title: "Недостаточно ETH для отправки"
+title: "Ошибка: Недостаточно ETH для отправки"
 date: 2018-06-01 00:01:00
 tags:
   - недостаточно
@@ -16,7 +16,7 @@ alias:
 
 # **Ошибка: Недостаточно ETH для отправки**
 
-###### {% read_time title "Not Enough ETH to Send" %} минут на чтение
+###### {% read_time title "Error: Not Enough ETH to Send" %} min read
 
 * * *
 
