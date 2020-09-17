@@ -1,5 +1,5 @@
 ---
-title: "How to Access Your Wallet"
+title: "How to Access Your Wallet on MEW web"
 date: 2020-09-17 00:06:00
 tags:
   - access
@@ -25,11 +25,11 @@ alias:
 author: Stephen Wooldridge II
 ---
 
-# **How to Access Your Wallet**
+# **How to Access Your Wallet on MEW web**
 
 ##### <i>This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to this article on [how to create a wallet][createWallet].</i>
 
-###### {% read_time title "How to Access Your Wallet" %} min read
+###### {% read_time title "How to Access Your Wallet on MEW web" %} min read
 
 * * *
 
