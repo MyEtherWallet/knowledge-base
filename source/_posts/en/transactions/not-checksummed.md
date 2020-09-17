@@ -1,5 +1,5 @@
 ---
-title: "Error: Not Checksummed"
+title: "Error: Address is Not Checksummed"
 
 date: 2018-06-01 00:03:00
 tags:
@@ -14,9 +14,9 @@ alias:
   - en/addresses/what-does-checksummed-mean.html
 ---
 
-# **Error: Not Checksummed**
+# **Error: Address is Not Checksummed**
 
-###### {% read_time title "Error: Not Checksummed" %} min read
+###### {% read_time title "Error: Address is Not Checksummed" %} min read
 
 * * *
 
