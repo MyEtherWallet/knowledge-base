@@ -1,5 +1,5 @@
 ---
-title: "Что такое умный контракт (smart contract)?"
+title: "What is an Ethereum Smart Contract?"
 date: 2018-06-01 00:08:00
 tags:
   - умный
@@ -11,9 +11,9 @@ primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 ---
 
-# **Что такое умный контракт (smart contract)?**
+# **What is an Ethereum Smart Contract?**
 
-###### {% read_time title "What is a Smart Contract?" %} минут на чтение
+###### {% read_time title "What is an Ethereum Smart Contract?" %} min read
 
 * * *
 

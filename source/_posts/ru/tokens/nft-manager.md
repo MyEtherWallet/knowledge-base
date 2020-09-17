@@ -1,5 +1,5 @@
 ---
-title: "Невзаимозаменяемые токены (NFTs)"
+title: "What are Non-Fungible Tokens (NFTs)?"
 date: 2018-06-01 00:01:00
 tags:
   - токен
@@ -19,9 +19,9 @@ alias:
   - tokens/nft-manager.html
 ---
 
-# **Невзаимозаменяемые токены (NFTs)**
+# **What are Non-Fungible Tokens (NFTs)?**
 
-###### {% read_time title "Невзаимозаменяемые токены (NFTs)" %} мин. чтения
+###### {% read_time title "What are Non-Fungible Tokens (NFTs)?" %} min read
 
 * * *
 

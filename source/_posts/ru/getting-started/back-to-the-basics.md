@@ -1,5 +1,5 @@
 ---
-title: "Вернемся к основам: 10 советов новичкам"
+title: "Back to the Basics: 10 MEW Tips for Ethereum Beginners"
 date: 2018-06-01 00:01:00
 tags:
   - основа
@@ -16,9 +16,9 @@ alias:
   - getting-started/getting-back-to-basics-tips-for-newbies.html
 ---
 
-# **Вернемся к основам: 10 советов новичкам**
+# **Back to the Basics: 10 MEW Tips for Ethereum Beginners**
 
-###### {% read_time title "Back to the Basics: 10 Tips for Beginners" %} минут на чтение
+###### {% read_time title "Back to the Basics: 10 MEW Tips for Ethereum Beginners" %} min read
 
 * * *
 
@@ -48,7 +48,7 @@ alias:
 
 ## **5. Ни с кем не делитесь своими личными данными.**
 
--   Включая нас! Мы никогда не попросим ваш закрытый ключ.
+-   Включая нас! We will never ask for your private key, keystore file, or recovery phrase.
 
 ## **6. Мы никогда не напишем вам первыми.**
 
@@ -56,18 +56,19 @@ alias:
 
 ## **7. Google может быть вашим лучшим другом или самым опасным врагом.**
 
--   Находите актуальную информацию и сохраняйте скептицизм!
+-   Do your research and remain skeptical!
 -   Прежде чем отправлять средства третьей стороне или пользоваться новым сервисом, введите в Google название сервиса + "мошенничество" или "отзывы".
 
-## **8. Очень внимательно вводите адрес.**
+## **8. Pay very close attention to the address you're sending to.**
 
 -   Отправка на неверный адрес может означать потерю ваших средств навсегда. Вы должны точно знать, кому отправляете средства.
 -   Проверяйте всё дважды или трижды. Даже один неверный символ имеет значение и приведет к потере средств.
 -   Никогда не вводите ничего вручную. Копирование и вставка — ваши лучшие друзья!
+-   Make sure you're not sending to a contract address! Funds sent directly to a contract address can not be recovered.
 
 ## **9. Купите аппаратный кошелек (hardware wallet).**
 
--   Аппаратные кошельки стоят около 100 долларов США и обеспечивают наилучшую защиту ваших криптоактивов. Так что с математической точки зрения если у вас больше 200 долларов в криптоактивах, нет никаких оправданий, чтобы его не купить!
+-   Hardware wallets are generally around ~100 USD and offer the best protection for your crypto assets.
 -   Мы очень рекомендуем два варианта: [Ledger](https://www.ledger.com/?r=fa4b) и [Trezor](https://trezor.io/?offer_id=12&aff_id=2029)!
 
 ## **10. Обращайтесь за помощью.**
