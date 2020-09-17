@@ -7,8 +7,14 @@
         "@id": "<%= url %>"
     },
     "headline": "<%= headline %>",
-    "datePublished": "<%= datePublished %>",
+
+<% if(datePublished !== ''){ %>
+        "datePublished": "<%= datePublished %>",
+<% }; %>
+<% if(dateModified !== ''){ %>
     "dateModified": "<%= dateModified %>",
+<% }; %>
+
     "author": {
         "@type": "Person",
         "name": "<%= author %>"
@@ -22,6 +28,7 @@
         }
     }
 }
+
 </script>
 <meta property="og:site_name" content="MyEtherWallet Knowledgebase">
 <meta property="og:type" content="article">
