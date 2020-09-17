@@ -1,5 +1,5 @@
 ---
-title: "Что такое Nonce-число?"
+title: "What is a Nonce?"
 date: 2018-06-01 00:08:00
 tags:
   - временный номер
@@ -12,9 +12,9 @@ alias:
   - transactions/what-is-nonce.html
 ---
 
-# **Что такое Nonce-число?**
+# **What is a Nonce?**
 
-###### {% read_time title "What is Nonce?" %} минимальное считывание
+###### {% read_time title "What is a Nonce?" %} min read
 
 * * *
 
