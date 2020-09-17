@@ -1,5 +1,5 @@
 ---
-title: "Как взаимодействовать с контрактом с мультиподписью?"
+title: "How to Interact with a Multisig Contract"
 date: 2018-06-01 00:03:00
 tags:
   - ЧЗВ
@@ -17,9 +17,9 @@ alias:
   - faq/interacting-with-ethereum-multisig-wallet.html
 ---
 
-# **Как взаимодействовать с контрактом с мультиподписью?**
+# **How to Interact with a Multisig Contract**
 
-###### {% read_time title "How to Interact with a Multisig Contract?" %} минут на чтение
+###### {% read_time title "How to Interact with a Multisig Contract" %} min read
 
 * * *
 
