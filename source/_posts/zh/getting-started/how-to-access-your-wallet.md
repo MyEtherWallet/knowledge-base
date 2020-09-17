@@ -11,6 +11,7 @@ primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
   - en/getting-started/accessing-your-new-eth-wallet.html
+author: person
 ---
 
 # **How to Access Your Wallet**
