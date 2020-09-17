@@ -61,9 +61,9 @@ import clo from '@/assets/images/networks/clo.svg';
 export default {
   name: 'CLO',
   name_long: 'Callisto',
-  homePage: '<https:>,
-  blockExplorerTX: '<https:>,
-  blockExplorerAddr: '<https:>,
+  homePage: '&lt;https&#x3A;>,
+  blockExplorerTX: '&lt;https&#x3A;>,
+  blockExplorerAddr: '&lt;https&#x3A;>,
   chainID: 820,
   tokens: tokens,
   contracts: contracts,
