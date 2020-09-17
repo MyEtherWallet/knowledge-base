@@ -1,5 +1,5 @@
 ---
-title: "How to Submit a Pull Request"
+title: "How to Submit a Pull Request to MEW's GitHub"
 
 date: 2018-06-01 00:04:00
 tags:
@@ -14,9 +14,9 @@ alias:
   - en/diving-deeper/how-to-submit-pull-request.html
 ---
 
-# **How to Submit a Pull Request**
+# **How to Submit a Pull Request to MEW's GitHub**
 
-###### {% read_time title "How to Submit a Pull Request" %} min read
+###### {% read_time title "How to Submit a Pull Request to MEW's GitHub" %} min read
 
 * * *
 

@@ -1,5 +1,5 @@
 ---
-title: "Back to the Basics: 10 Tips for Beginners"
+title: "Back to the Basics: 10 MEW Tips for Ethereum Beginners"
 
 date: 2018-06-01 00:01:00
 tags:
@@ -16,9 +16,9 @@ alias:
   - en/getting-started/getting-back-to-basics-tips-for-newbies.html
 ---
 
-# **Back to the Basics: 10 Tips for Beginners**
+# **Back to the Basics: 10 MEW Tips for Ethereum Beginners**
 
-###### {% read_time title "Back to the Basics: 10 Tips for Beginners" %} min read
+###### {% read_time title "Back to the Basics: 10 MEW Tips for Ethereum Beginners" %} min read
 
 * * *
 
@@ -48,7 +48,7 @@ alias:
 
 ## **5. Do not share your private information with anyone.**
 
--   Including us! We will never ask for your private key.
+-   Including us! We will never ask for your private key, keystore file, or recovery phrase.
 
 ## **6. We will never email you first.**
 
@@ -56,18 +56,19 @@ alias:
 
 ## **7. Google can be your best friend or your worst enemy.**
 
--   Do your research, and remain skeptical!
+-   Do your research and remain skeptical!
 -   Before sending to a third-party or using a new service, Google the service name + ‘scam’ or ‘reviews’.
 
-## **8. Pay very close attention to address entry.**
+## **8. Pay very close attention to the address you're sending to.**
 
 -   Sending to a wrong address can mean the permanent loss of your funds. Make sure you know who you’re sending to.
 -   Double and triple check everything. Even one wrong character will make a difference and lead to loss of funds.
 -   Never hand type anything. Copy & paste is your best friend!
+-   Make sure you're not sending to a contract address! Funds sent directly to a contract address can not be recovered.
 
 ## **9. Buy a hardware wallet.**
 
--   Hardware wallets are generally around ~100 USD and offer the best protection for your crypto assets. So mathematically, if you have more than 200 USD in crypto, there is no excuse not to get one!
+-   Hardware wallets are generally around ~100 USD and offer the best protection for your crypto assets.
 -   [Ledger][ledger] and [Trezor][trezor] are two great options we highly recommend!
 
 ## **10. Ask for help.**

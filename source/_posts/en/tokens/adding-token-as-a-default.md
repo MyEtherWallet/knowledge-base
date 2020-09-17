@@ -1,5 +1,5 @@
 ---
-title: "Adding Your Token as a Default Token"
+title: "Adding Your Token as a Default Token on MEW"
 
 date: 2018-06-01 00:01:00
 tags:
@@ -15,9 +15,9 @@ alias:
   - en/tokens/token-creators-add-your-token-to-myetherwallet.html
 ---
 
-# **Adding Your Token as a Default Token**
+# **Adding Your Token as a Default Token on MEW**
 
-###### {% read_time title "Adding Your Token as a Default Token" %} min read
+###### {% read_time title "Adding Your Token as a Default Token on MEW" %} min read
 
 * * *
 

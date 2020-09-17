@@ -1,5 +1,5 @@
 ---
-title: "How to Send a Transaction"
+title: "How to Send a Transaction with MEW web"
 
 date: 2018-06-01 00:03:00
 tags:
@@ -13,9 +13,9 @@ alias:
   - en/transactions/how-to-send-transaction.html
 ---
 
-# **How to Send a Transaction**
+# **How to Send a Transaction with MEW web**
 
-###### {% read_time title "How to Send a Transaction" %} min read
+###### {% read_time title "How to Send a Transaction with MEW web" %} min read
 
 * * *
 

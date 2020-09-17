@@ -1,5 +1,5 @@
 ---
-title: "How to Interact with a Multisig Contract?"
+title: "How to Interact with a Multisig Contract"
 
 date: 2018-06-01 00:03:00
 tags:
@@ -16,9 +16,9 @@ alias:
   - en/faq/interacting-with-ethereum-multisig-wallet.html
 ---
 
-# **How to Interact with a Multisig Contract?**
+# **How to Interact with a Multisig Contract**
 
-###### {% read_time title "How to Interact with a Multisig Contract?" %} min read
+###### {% read_time title "How to Interact with a Multisig Contract" %} min read
 
 * * *
 
