@@ -1,5 +1,5 @@
 ---
-title: "Unable to Connect to Hardware Wallet"
+title: "Unable to Connect to Hardware Wallet with MEW"
 
 date: 2018-06-01 00:06:00
 tags:
@@ -15,9 +15,9 @@ alias:
   - en/hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
 ---
 
-# **Unable to Connect to Hardware Wallet**
+# **Unable to Connect to Hardware Wallet with MEW**
 
-###### {% read_time title "Unable to Connect to Hardware Wallet" %} min read
+###### {% read_time title "Unable to Connect to Hardware Wallet with MEW" %} min read
 
 * * *
 

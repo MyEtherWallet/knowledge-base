@@ -1,24 +1,35 @@
 ---
-title: "How to Access Your Wallet"
+title: "How to Access Your Wallet on MEW web"
 
-date: 2018-06-01 00:06:00
+date: 2020-09-17 00:06:00
 tags:
 - access
 - wallet
+- myetherwallet
+- my ether wallet
+- mew
+- mew wallet
+- mew web
+- ethereum
+- ether
+- ledger
+- trezor
+- private key
+- keystore
 categories:
 - [get-started]
 primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
   - en/getting-started/accessing-your-new-eth-wallet.html
-author: person
+author: Stephen Wooldridge II
 ---
 
-# **How to Access Your Wallet**
+# **How to Access Your Wallet on MEW web**
 
 ##### <i>This article is meant for those that already have an ETH wallet. If you would like to create a wallet from scratch, please refer to this article on [how to create a wallet][createWallet].</i>
 
-###### {% read_time title "How to Access Your Wallet" %} min read
+###### {% read_time title "How to Access Your Wallet on MEW web" %} min read
 
 * * *
 
