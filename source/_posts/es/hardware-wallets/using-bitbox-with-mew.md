@@ -48,7 +48,7 @@ Without further ado, let’s begin!
 
 * * *
 
-## **Using Digital BitBox with MEW**
+## **Usando Digital BitBox con MEW**
 
 **Step 1.** Attach your Digital BitBox device and head to MyEtherWallet.com.
 
