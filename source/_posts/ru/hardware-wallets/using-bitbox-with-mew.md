@@ -10,6 +10,7 @@ categories:
     - аппаратные-кошельки
 primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
+author: MyEtherWallet (MEW)
 ---
 
 # **Использование аппаратного кошелька Digital BitBox с MEW**
