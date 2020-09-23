@@ -14,6 +14,7 @@ categories:
     - swap
 primary_category: swap
 primary_category_display_name: "Swap"
+author: MyEtherWallet (MEW)
 ---
 
 # **Swapping ETH & ERC20 Tokens via DEX.AG and Changelly**
