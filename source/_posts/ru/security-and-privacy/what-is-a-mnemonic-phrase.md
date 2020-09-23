@@ -9,6 +9,7 @@ categories:
     - security-and-privacy
 primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
+author: MyEtherWallet (MEW)
 ---
 
 # **Что такое мнемоническая фраза?**
