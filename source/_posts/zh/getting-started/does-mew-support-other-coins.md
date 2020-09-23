@@ -12,6 +12,7 @@ primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
   - en/faq/sending-bitcoin-btc-ltc-xmr-to-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Does MEW Support BTC or other Coins?**
