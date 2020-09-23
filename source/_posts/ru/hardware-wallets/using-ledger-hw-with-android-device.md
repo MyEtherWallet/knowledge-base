@@ -10,6 +10,7 @@ primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
   - faq/what-happens-if-myetherwallet-goes-down.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Использование аппаратного кошелька Ledger с устройствами Android**
