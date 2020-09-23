@@ -13,6 +13,7 @@ primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
   - en/security/keystore-file.html
+author: MyEtherWallet (MEW)
 ---
 
 # **What is a Keystore/JSON file?  Can I Change my Password?**
