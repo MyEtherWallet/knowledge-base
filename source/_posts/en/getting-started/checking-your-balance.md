@@ -13,6 +13,7 @@ primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
   - en/getting-started/checking-balance-of-my-account.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Checking Your Balance on the Ethereum Blockchain**

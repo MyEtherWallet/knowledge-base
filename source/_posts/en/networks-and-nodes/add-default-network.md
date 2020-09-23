@@ -12,6 +12,7 @@ categories:
 - [networks-and-nodes]
 primary_category: networks-and-nodes
 primary_category_display_name: "Networks And Nodes"
+author: MyEtherWallet (MEW)
 ---
 
 # **How to Add a Default Network to MEW web**

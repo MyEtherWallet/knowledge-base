@@ -11,6 +11,7 @@ primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
   - en/getting-started/ethereum-glossary.html
+author: MyEtherWallet (MEW)
 ---
 
 # **A Glossary of Common Terms in the Ethereum / Crypto Community**

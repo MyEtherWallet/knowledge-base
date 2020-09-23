@@ -9,6 +9,7 @@ categories:
 - [security-and-privacy]
 primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
+author: MyEtherWallet (MEW)
 ---
 
 # **What is a Mnemonic Phrase?**

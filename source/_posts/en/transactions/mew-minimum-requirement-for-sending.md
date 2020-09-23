@@ -14,6 +14,7 @@ primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
   - en/gas/I-cant-withdraw-them-from-your-site-less-than-minimum.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Does MEW Have a Minimum Requirement for Sending?**
