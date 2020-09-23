@@ -13,6 +13,7 @@ categories:
     - dapps
 primary_category: dapps
 primary_category_display_name: "Dapps"
+author: MyEtherWallet (MEW)
 ---
 
 # **Using Aave with the MEW wallet app**
