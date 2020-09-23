@@ -12,6 +12,7 @@ primary_category: hardware-wallets
 primary_category_display_name: "Hardware Wallets"
 alias:
   - en/migration/moving-from-private-key-to-trezor-hardware-wallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Using a Trezor Hardware Wallet with MEW**
