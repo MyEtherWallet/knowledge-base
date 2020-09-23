@@ -13,6 +13,7 @@ categories:
     - transactions
 primary_category: transactions
 primary_category_display_name: "Транзакции"
+author: MyEtherWallet (MEW)
 ---
 
 # **Внутренние транзакции: что это такое?**
