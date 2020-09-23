@@ -9,6 +9,7 @@ categories:
     - diving-deeper
 primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
+author: MyEtherWallet (MEW)
 ---
 
 # **What is an Ethereum Smart Contract?**
