@@ -14,6 +14,7 @@ categories:
     - swap
 primary_category: swap
 primary_category_display_name: "Обмен"
+author: MyEtherWallet (MEW)
 ---
 
 # **Покупка ETH через Simplex**
