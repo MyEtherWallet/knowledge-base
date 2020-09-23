@@ -11,6 +11,7 @@ primary_category: migration
 primary_category_display_name: "Переход с и на MEW"
 alias:
   - migration/moving-from-private-key-to-metamask.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Использование MetaMask с MEW**
