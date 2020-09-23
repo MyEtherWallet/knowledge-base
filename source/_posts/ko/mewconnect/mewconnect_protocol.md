@@ -15,6 +15,7 @@ primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
   - en/mewconnect/mewconnect-upgrade-mewwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **What is the MEWconnect Protocol?**
