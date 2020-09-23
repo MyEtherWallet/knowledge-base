@@ -12,6 +12,7 @@ primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
   - addresses/what-does-checksummed-mean.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Error: Address is Not Checksummed**
