@@ -12,6 +12,7 @@ primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
   - getting-started/creating-a-new-wallet-on-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **How to Create an Ethereum Wallet with MEW**
