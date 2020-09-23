@@ -13,6 +13,7 @@ categories:
     - работа оффлайн
 primary_category: работа оффлайн
 primary_category_display_name: "Работа оффлайн"
+author: MyEtherWallet (MEW)
 ---
 
 # **Совершение транзакций оффлайн**
