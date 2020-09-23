@@ -14,6 +14,7 @@ primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
   - en/transactions/transaction-fee-not-refunded.html
+author: MyEtherWallet (MEW)
 ---
 
 # **My Transaction Failed. Why Was I Charged?**
