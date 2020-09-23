@@ -11,6 +11,7 @@ categories:
     - offline
 primary_category: offline
 primary_category_display_name: "Offline"
+author: MyEtherWallet (MEW)
 ---
 
 # **Using MEW Offline (Cold Storage)**
