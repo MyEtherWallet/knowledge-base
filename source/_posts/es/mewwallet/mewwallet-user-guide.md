@@ -9,6 +9,7 @@ categories:
     - mewwallet
 primary_category: mewwallet
 primary_category_display_name: "MEW Wallet"
+author: MyEtherWallet (MEW)
 ---
 
 # **Guía de usuario de MEW Wallet**
