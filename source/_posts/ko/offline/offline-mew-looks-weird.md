@@ -11,6 +11,7 @@ primary_category: offline
 primary_category_display_name: "Offline"
 alias:
   - en/offline/local-offline-myetherwallet-does-not-work-properly.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Offline MEW Looks Weird**
