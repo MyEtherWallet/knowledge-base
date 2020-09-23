@@ -22,7 +22,7 @@ primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
   - getting-started/accessing-your-new-eth-wallet.html
-author: Stephen Wooldridge II
+author: MyEtherWallet (MEW)
 ---
 
 # **How to Access Your Wallet on MEW web**
