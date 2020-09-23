@@ -17,6 +17,7 @@ primary_category: token
 primary_category_display_name: "Tokens"
 alias:
   - en/tokens/nft-manager.html
+author: MyEtherWallet (MEW)
 ---
 
 # **What are Non-Fungible Tokens (NFTs)?**
