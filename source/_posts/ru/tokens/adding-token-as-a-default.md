@@ -14,6 +14,7 @@ primary_category: токен
 primary_category_display_name: "Токены"
 alias:
   - tokens/token-creators-add-your-token-to-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Adding Your Token as a Default Token on MEW**
@@ -53,11 +54,11 @@ alias:
 
     {
     "symbol": "",
-
+    
     "name": "",
-
+    
     "type": "ERC20",
-
+    
     "address": "",
     "ens_address": "",
     "decimals": ,
