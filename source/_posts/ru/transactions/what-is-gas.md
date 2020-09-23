@@ -10,6 +10,7 @@ primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
   - gas/what-is-gas-ethereum.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Что такое газ?**
