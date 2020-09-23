@@ -15,6 +15,7 @@ primary_category: diving-deeper
 primary_category_display_name: "Diving Deeper"
 alias:
   - en/faq/interacting-with-ethereum-multisig-wallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **How to Interact with a Multisig Contract**
