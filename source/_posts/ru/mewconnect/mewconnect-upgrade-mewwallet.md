@@ -12,6 +12,7 @@ primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
   - mewconnect/mewconnect-upgrade-mewwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Приложение MEWconnect удалено из магазинов приложений iOS и Android**
