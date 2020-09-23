@@ -16,6 +16,7 @@ primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
   - en/addresses/creating-new-accounts-for-eth-and-tokens.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Should I Keep My ETH and ERC20 Tokens on Multiple Addresses?**
