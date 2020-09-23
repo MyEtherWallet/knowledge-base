@@ -9,6 +9,7 @@ categories:
     - token
 primary_category: token
 primary_category_display_name: "Tokens"
+author: MyEtherWallet (MEW)
 ---
 
 # **Default or Custom Token Already Exists**
