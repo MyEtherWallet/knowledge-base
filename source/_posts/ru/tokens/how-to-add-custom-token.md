@@ -15,6 +15,7 @@ primary_category: токен
 primary_category_display_name: "Токены"
 alias:
   - send/adding-new-token-and-sending-custom-tokens.html
+author: MyEtherWallet (MEW)
 ---
 
 # **How to Add a Custom Token on MEW web**
