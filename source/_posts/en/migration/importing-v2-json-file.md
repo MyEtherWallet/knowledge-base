@@ -13,6 +13,7 @@ primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 alias:
   - en/migration/importing-v2-json-wallet-file-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Importing a V2 JSON File**

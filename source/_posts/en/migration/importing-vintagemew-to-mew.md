@@ -13,6 +13,7 @@ primary_category: migration
 primary_category_display_name: "Migrating To And From MEW"
 alias:
   - en/migration/importing-vintagemew-to-mew.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Migrating from Vintage MEW -> MEW**

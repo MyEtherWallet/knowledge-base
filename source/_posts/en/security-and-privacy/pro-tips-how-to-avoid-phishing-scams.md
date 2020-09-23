@@ -17,6 +17,7 @@ primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
   - en/security/myetherwallet-protips-how-not-to-get-scammed-during-ico.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Pro-Tips: How to Avoid Phishing/Scams**

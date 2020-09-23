@@ -13,6 +13,7 @@ primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
   - en/transactions/transactions-not-showing-or-pending.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Transactions are 'Not Found' or 'Pending' Forever**

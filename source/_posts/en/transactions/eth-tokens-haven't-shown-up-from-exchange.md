@@ -16,6 +16,7 @@ primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
   - en/faq/eth-or-tokens-not-showing-on-exchange.html
+author: MyEtherWallet (MEW)
 ---
 
 # **ETH or ERC20 Tokens Sent To/From an Exchange Haven’t Shown Up**

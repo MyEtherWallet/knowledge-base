@@ -12,6 +12,7 @@ primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
   - en/security/ethereum-two-people-same-private-key.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Ensuring MEW Doesn’t Give Different People the Same Public Address**

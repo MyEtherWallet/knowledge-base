@@ -11,6 +11,7 @@ primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
   - en/private-keys-passwords/private-key-not-working.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Private Key Not Working**

@@ -13,6 +13,7 @@ primary_category: token
 primary_category_display_name: "Tokens"
 alias:
   - en/tokens/token-creators-add-your-token-to-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Adding Your Token as a Default Token on MEW**

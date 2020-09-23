@@ -10,6 +10,7 @@ categories:
 - [hardware-wallets]
 primary_category: hardware-wallets
 primary_category_display_name: "Hardware Wallets"
+author: MyEtherWallet (MEW)
 ---
 
 # **Using a Secalot Hardware Wallet with MEW**

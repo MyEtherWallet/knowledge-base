@@ -13,6 +13,7 @@ primary_category: hardware-wallets
 primary_category_display_name: "Hardware Wallets"
 alias:
   - en/hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Unable to Connect to Hardware Wallet with MEW**

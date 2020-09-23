@@ -12,6 +12,7 @@ primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
   - en/private-keys-passwords/lost-eth-private-key.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Lost Private Key**
