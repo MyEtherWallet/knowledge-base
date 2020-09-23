@@ -13,6 +13,7 @@ primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
   - hardware-wallets/ledger-hardware-wallet-unable-to-connect-on-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Unable to Connect to Hardware Wallet with MEW**
