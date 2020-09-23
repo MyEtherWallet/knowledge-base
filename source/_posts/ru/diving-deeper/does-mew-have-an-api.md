@@ -10,6 +10,7 @@ primary_category: diving-deeper
 primary_category_display_name: "Более глубокое ознакомление"
 alias:
   - diving-deeper/does-myetherwallet-have-an-api.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Есть ли у MyEtherWallet API?**
