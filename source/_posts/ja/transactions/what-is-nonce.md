@@ -10,6 +10,7 @@ primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
   - en/transactions/what-is-nonce.html
+author: MyEtherWallet (MEW)
 ---
 
 # **What is a Nonce?**
