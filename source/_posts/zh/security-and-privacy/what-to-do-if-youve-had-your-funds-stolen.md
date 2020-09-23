@@ -12,6 +12,7 @@ primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
   - en/security/what-to-do-if-youve-had-your-funds-stolen.html
+author: MyEtherWallet (MEW)
 ---
 
 # **What to Do if You’ve Had Your Funds Stolen**
