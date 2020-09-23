@@ -11,6 +11,7 @@ primary_category: migration
 primary_category_display_name: "Переход с и на MEW"
 alias:
   - migration/moving-from-jaxx-to-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Использование Jaxx с MEW**
