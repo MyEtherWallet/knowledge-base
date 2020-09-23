@@ -11,6 +11,7 @@ primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
   - transactions/how-to-send-transaction.html
+author: MyEtherWallet (MEW)
 ---
 
 # **How to Send a Transaction with MEW web**
