@@ -28,6 +28,8 @@ author: MyEtherWallet (MEW)
 
 ## **Using Ren Protocol with the MEW wallet app**
 
+<img src="/images/posts/mewconnect/MCRenVM.gif" alt="Image of MEWconnect to RenBridge" style="max-width: 720px;" />
+
 **Step 1.** Head to the [Ren Protocol DApp website][renp].
 
 <img src="/images/posts/diving-deeper/renmc1.png" alt="Image of Ren Protocol access screen" width="100%">
