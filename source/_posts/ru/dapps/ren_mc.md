@@ -13,7 +13,7 @@ categories:
   - 
     - dapps
 primary_category: dapps
-primary_category_display_name: "Dapps"
+primary_category_display_name: "DApps"
 ---
 
 # **Using Ren Protocol with the MEW wallet app**
