@@ -27,6 +27,8 @@ author: MyEtherWallet (MEW)
 
 ## **Using Aave with the MEW wallet app**
 
+<img src="/images/posts/mewconnect/AaveMC.gif" alt="Image of MEWconnect to Aave" style="max-width: 720px;" />
+
 **Step 1.** Head to the [Aave DApp website][aave].
 
 <img src="/images/posts/diving-deeper/aavemc1.png" alt="Image of Aave access screen" width="100%">
