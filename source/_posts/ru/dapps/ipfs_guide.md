@@ -11,7 +11,7 @@ categories:
   - 
     - dapps
 primary_category: dapps
-primary_category_display_name: "Dapps"
+primary_category_display_name: "DApps"
 ---
 
 # **Загрузите ваш сайт на домен .eth или .crypto**

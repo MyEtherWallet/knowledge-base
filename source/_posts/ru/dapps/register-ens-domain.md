@@ -10,7 +10,7 @@ categories:
   - 
     - dapps
 primary_category: dapps
-primary_category_display_name: "Dapps"
+primary_category_display_name: "DApps"
 ---
 
 # **Регистрация и управление доменами .eth с помощью ENS**
