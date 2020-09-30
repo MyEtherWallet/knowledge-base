@@ -21,7 +21,7 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-Recovery phrases, also known as ‘seed words’ or 'mnemonic phrases', are ordered lists of 12 - 24 words which bring you to specific and unique wallet addresses. Each phrase leads to a near infinite amount of addresses, but most wallet interfaces pick the first one from the list to use as your public address. When you use a phrase on MEW web, you'll see the first five addresses with the option to view more. If you're using our MEW wallet app, each additional account you add is just the next address down the list of addresses that is generated from your phrase.
+Recovery phrases, also known as ‘seed words’ or 'mnemonic phrases', are ordered lists of 12 - 24 words which bring you to specific and unique wallet addresses. Each phrase leads to a near infinite amount of addresses, but most wallet interfaces pick the first one from the list to use as your public address. When you use a phrase on MEW web, you'll see the first five addresses with the option to view more. Ok
 
 These phrases are typically used for recovery, and they are not meant to be used as the main method of access for anyone’s wallet. These phrases offer permanent and direct access to one's wallet, so they should be treated carefully.
 
