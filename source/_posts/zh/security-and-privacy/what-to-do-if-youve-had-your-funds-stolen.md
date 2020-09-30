@@ -21,7 +21,7 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-Phishing and hacking are (unfortunately) very common in the crypto space. Don’t let it discourage you though, as most attacks are completely preventable. We will not be able to recover your funds for you, but we’re here to help however we can. Education is the biggest defense against these attacks. Being able to recognize and prepare yourself for future phishing attempts is very important.
+Phishing and hacking are (unfortunately) very common in the crypto space. Don’t let it discourage you though, as most attacks are completely preventable. We will not be able to recover your funds for you, but we’re here to help however we can. English Being able to recognize and prepare yourself for future phishing attempts is very important.
 
 ## **Step 1: Identify the method.**
 
