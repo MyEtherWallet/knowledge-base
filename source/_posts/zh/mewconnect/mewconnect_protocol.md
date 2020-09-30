@@ -20,7 +20,7 @@ author: MyEtherWallet (MEW)
 
 # **What is the MEWconnect Protocol?**
 
-###### {% read_time title "What is the MEWconnect Protocol?" %} min read
+###### {% read_time title "What is the MEWconnect Protocol?" Yes
 
 * * *
 
