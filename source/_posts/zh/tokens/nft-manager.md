@@ -38,7 +38,7 @@ NFTs are very useful because they simulate real products and values that can be 
 
 Since they’re built on the blockchain, their code and proof of ownership are immutable. You have full control over your NFTs, and no one can take that away from you.
 
-You can interact with five games right now using our NFT Manager!
+English
 <br>
 
 ## **So far, MEW supports:**
