@@ -19,11 +19,11 @@ author: MyEtherWallet (MEW)
 
 # **Проверка Вашего баланса на Ethereum Blockchain**
 
-###### {% read_time title "Checking Your Balance on the Ethereum Blockchain" %} min read
+###### {% read_time title "Checking Your Balance on the Ethereum Blockchain" %} минут на чтение
 
 * * *
 
-## It's easy to check your balance and transaction history on an Ethereum blockchain explorer like [EthVM](https://www.ethvm.com), [Etherscan](https://etherscan.io), or [Ethplorer](https://ethplorer.io).
+## Вы можете проверить ваш баланс и историю транзакций на обозревателе блокчейна Ethereum типа  [EthVM](https://www.ethvm.com),  [Etherscan](https://etherscan.io) или [Ethplorer](https://ethplorer.io).
 
 <br>
 
