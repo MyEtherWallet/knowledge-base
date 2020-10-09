@@ -1,5 +1,5 @@
 ---
-title: "How to Submit a Pull Request to MEW's GitHub"
+title: "Как оформить запрос на включение изменений в GitHub MEW"
 date: 2018-06-01 00:04:00
 tags:
   - отправить
@@ -15,9 +15,9 @@ alias:
 author: MyEtherWallet (MEW)
 ---
 
-# **How to Submit a Pull Request to MEW's GitHub**
+# **Как оформить запрос на включение изменений в GitHub MEW**
 
-###### {% read_time title "How to Submit a Pull Request to MEW's GitHub" %} min read
+###### {% read_time title "How to Submit a Pull Request to MEW's GitHub" %} минут на чтение
 
 * * *
 
