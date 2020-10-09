@@ -33,13 +33,13 @@ author: MyEtherWallet (MEW)
 
 ## **EthVM**
 
-**Step 1.** Head to [EthVM](https://www.ethvm.com).
+**Шаг 1.** Перейдите на [EthVM](https://www.ethvm.com).
 
 **Шаг 2.** В строке поиска введите свой публичный адрес Ethereum, (0x…..).
 
 **Шаг 3.** Вы будете направлены к обзору кошелька.
 
--   At the top, the checksummed version of your address will be displayed. Прочитайте нашу статью о [различиях между checksummed и non-checksummed адресами](/@@@@@@/common-issues/not-checksummed/).
+-   Вверху, будет показана checksummed версия вашего адреса. Прочитайте нашу статью о [различиях между checksummed и non-checksummed адресами](/@@@@@@/common-issues/not-checksummed/).
 -   Just below your address, you will see your total ETH balance, USD value equivalent, and the total number of different types of tokens you hold.
 -   In the first tab, 'Transaction History', you will find a list of all your recent transactions.
 -   In the 'ERC20 Tokens' tab, you can find your token balances. Если вы ищете информацию о кастомном токене, здесь вы можете выбрать конкретный токен, чтобы найти адрес его контракта, количество знаков после запятой и символ. Прочитайте нашу статью про [добавление кастомных токенов](/@@@@@@/tokens/how-to-add-custom-token/).
