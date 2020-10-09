@@ -33,40 +33,40 @@ author: MyEtherWallet (MEW)
 
 ## **EthVM**
 
-**Шаг 1.** Перейдите на [EthVM](https://www.ethvm.com).
+**Шаг 1.** Направляйтесь на [EthVM](https://www.ethvm.com).
 
 **Шаг 2.** В строке поиска введите свой публичный адрес Ethereum, (0x…..).
 
 **Шаг 3.** Вы будете направлены к обзору кошелька.
 
--   Вверху, будет показана checksummed версия вашего адреса. Прочитайте нашу статью о [различиях между checksummed и non-checksummed адресами](/@@@@@@/common-issues/not-checksummed/).
--   Just below your address, you will see your total ETH balance, USD value equivalent, and the total number of different types of tokens you hold.
--   In the first tab, 'Transaction History', you will find a list of all your recent transactions.
--   In the 'ERC20 Tokens' tab, you can find your token balances. Если вы ищете информацию о кастомном токене, здесь вы можете выбрать конкретный токен, чтобы найти адрес его контракта, количество знаков после запятой и символ. Прочитайте нашу статью про [добавление кастомных токенов](/@@@@@@/tokens/how-to-add-custom-token/).
--   The last tab, 'NFTs', shows all your Non-Fungible ERC721 tokens.
+-   Сверху вы увидите проверенную суммированием (checksummed) версию вашего адреса. Прочитайте нашу статью о [различиях между checksummed и non-checksummed адресами](/@@@@@@/common-issues/not-checksummed/).
+-   Под вашим адресом вы увидите ваш общий баланс ETH, эквивалент в USD и общее количество различных типов токенов.
+-   В первой вкладке «История транзакций» вы найдете список всех ваших недавних транзакций.
+-   Во вкладке 'ERC20 Токен' вы найдете балансы токенов. Если вы ищете информацию о кастомном токене, здесь вы можете выбрать конкретный токен, чтобы найти адрес его контракта, количество знаков после запятой и символ. Прочитайте нашу статью про [добавление кастомных токенов](/@@@@@@/tokens/how-to-add-custom-token/).
+-   Последняя вкладка, 'NFTs', показывает все ваши токены ERC721.
 
 ## **Etherscan**
 
-**Step 1.** Head to [Etherscan.io](https://etherscan.io).
+**Шаг 1.** Направляйтесь на [Etherscan](https://etherscan.io).
 
 **Шаг 2.** В строке поиска введите свой публичный адрес Ethereum, (0x…..).
 
 **Шаг 3.** Вы будете направлены к обзору кошелька.
 
--   At the top, you will see the checksummed version of your address. Прочитайте нашу статью о [различиях между checksummed и non-checksummed адресами](/@@@@@@/common-issues/not-checksummed/).
--   In the ‘Overview’ section, you will see your ETH balance and value.
--   Under 'Token', you can find your Token Balances. Если вы ищете информацию о кастомном токене, здесь вы можете выбрать конкретный токен, чтобы найти адрес его контракта, количество знаков после запятой и символ. Прочитайте нашу статью про [добавление кастомных токенов](/@@@@@@/tokens/how-to-add-custom-token/).
--   The tabs at the bottom of the screen show the history of ETH, ERC20 token, and ERC721 token transactions.
+-   Сверху вы увидите проверенную суммированием (checksummed) версию вашего адреса. Прочитайте нашу статью о [различиях между checksummed и non-checksummed адресами](/@@@@@@/common-issues/not-checksummed/).
+-   В разделе "Обзор" (Overview) вы увидите баланс и стоимость ETH.
+-   В разделе 'Токен' вы можете найти ваши балансы токенов. Если вы ищете информацию о кастомном токене, здесь вы можете выбрать конкретный токен, чтобы найти адрес его контракта, количество знаков после запятой и символ. Прочитайте нашу статью про [добавление кастомных токенов](/@@@@@@/tokens/how-to-add-custom-token/).
+-   Вкладки внизу экрана показывают историю операций с токенами ETH, ERC20 и ERC721.
 
 ## **Ethplorer**
 
-**Step 1.** Head to [Ethplorer.io](https://ethplorer.io).
+**Шаг 1.** Направляйтесь на [Ethplorer.io](https://ethplorer.io).
 
 **Шаг 2.** В строке поиска введите свой публичный адрес Ethereum, (0x…..).
 
 **Шаг 3.** Вы будете направлены к обзору кошелька.
 
--   To the left, you will see the checksummed version of your address. Прочитайте нашу статью о [различиях между checksummed и non-checksummed адресами](/@@@@@@/common-issues/not-checksummed/).
+-   Слева вы увидите проверенную суммированием (checksummed) версию вашего адреса. Прочитайте нашу статью о [различиях между checksummed и non-checksummed адресами](/@@@@@@/common-issues/not-checksummed/).
 -   You can also find your ETH balance to the left, under ‘Address Information’.
 -   To the right, you can find your Token Balances. Если вы ищете информацию о кастомном токене, здесь вы можете выбрать конкретный токен, чтобы найти адрес его контракта, количество знаков после запятой и символ. Прочитайте нашу статью про [добавление кастомных токенов](/@@@@@@/tokens/how-to-add-custom-token/).
 -   The bottom of the screen shows the history of ETH, ERC20 token, and ERC721 token transactions. You can apply filters if you want to see just ETH or tokens, using tick marks at the top.
