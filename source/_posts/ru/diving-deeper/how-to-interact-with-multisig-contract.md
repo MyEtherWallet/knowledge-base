@@ -1,5 +1,5 @@
 ---
-title: "How to Interact with a Multisig Contract"
+title: "Как мне взаимодействовать с контрактом с мультиподписью"
 date: 2018-06-01 00:03:00
 tags:
   - ЧЗВ
