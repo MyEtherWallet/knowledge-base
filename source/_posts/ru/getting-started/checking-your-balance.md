@@ -1,5 +1,5 @@
 ---
-title: "Checking Your Balance on the Ethereum Blockchain"
+title: "Проверка Вашего баланса на Ethereum Blockchain"
 date: 2018-06-01 00:02:00
 tags:
   - ЧЗВ
@@ -17,7 +17,7 @@ alias:
 author: MyEtherWallet (MEW)
 ---
 
-# **Checking Your Balance on the Ethereum Blockchain**
+# **Проверка Вашего баланса на Ethereum Blockchain**
 
 ###### {% read_time title "Checking Your Balance on the Ethereum Blockchain" %} min read
 
