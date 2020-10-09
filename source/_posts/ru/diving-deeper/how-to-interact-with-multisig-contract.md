@@ -18,9 +18,9 @@ alias:
 author: MyEtherWallet (MEW)
 ---
 
-# **How to Interact with a Multisig Contract**
+# **Как мне взаимодействовать с контрактом с мультиподписью**
 
-###### {% read_time title "How to Interact with a Multisig Contract" %} min read
+###### {% read_time title "How to Interact with a Multisig Contract" %} мин. чтения
 
 * * *
 
