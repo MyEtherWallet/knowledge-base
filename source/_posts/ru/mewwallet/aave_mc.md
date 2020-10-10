@@ -53,10 +53,10 @@ author: MyEtherWallet (MEW)
 
 **Шаг 6.** Когда вы будете делать какие-либо транзакции, приложение MEW wallet запросит подтверждение ваших действий.
 
-<img src="/images/posts/diving-deeper/aavemc7.png" alt="Image of connected Aave Dashboard asking for confirmation" width="100%" />
+<img src="/images/posts/diving-deeper/aavemc7.png" alt="Изображение подключенной панели Aave Dashboard запрос подтверждения" width="100%" />
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/diving-deeper/aavemw3.jpg" alt="Image of MEW wallet confirming a transaction" style="max-width: 250px;" />
+<img src="/images/posts/diving-deeper/aavemw3.jpg" alt="Изображение подтверждения транзакции в MEW wallet" style="max-width: 250px;" />
 <img src="/images/posts/diving-deeper/aavemw4.jpg" alt="Изображение успешной транзакции в MEW wallet" style="max-width: 250px;" />
 </div>
 [aave]: https://app.aave.com/
