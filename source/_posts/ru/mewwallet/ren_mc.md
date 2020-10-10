@@ -29,26 +29,26 @@ author: MyEtherWallet (MEW)
 
 ## **Использование Ren Protocol с приложением MEW wallet**
 
-<img src="/images/posts/mewconnect/MCRenVM.gif" alt="Image of MEWconnect to RenBridge" style="max-width: 720px;" />
+<img src="/images/posts/mewconnect/MCRenVM.gif" alt="Изображение MEWconnect к RenBridge" style="max-width: 720px;" />
 
 **Шаг 1.** Направляйтесь на [вебсайт Ren Protocol DApp][renp].
 
-<img src="/images/posts/diving-deeper/renmc1.png" alt="Image of Ren Protocol access screen" width="100%" />
+<img src="/images/posts/diving-deeper/renmc1.png" alt="Изображение экрана доступа к протоколу Ren" width="100%" />
 
 **Шаг 2.** Выберите MEW wallet app и вы увидите QR-код.
 
 <img src="/images/posts/diving-deeper/renmc2.png" alt="Изображение QR-кода MEWconnect" width="100%" />
 
-**Step 3.** In your MEW wallet app, click the small camera icon in the top-right corner. This will open your phone's camera.
+**Шаг 3.** В приложении MEW wallet нажмите значок маленькой камеры в правом верхнем углу. Это откроет камеру вашего телефона.
 
-**Step 4.** Scan the QR code with your MEW wallet app and choose an account to connect with.
+**Шаг 4.** Отсканируйте QR-код с помощью приложения MEW wallet и выберите аккаунт для подключения.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/diving-deeper/renmw1.jpg" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
+<img src="/images/posts/diving-deeper/renmw1.jpg" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
 <img src="/images/posts/diving-deeper/renmw2.jpg" alt="Image of MEW wallet connected successfully" style="max-width: 250px;" />
 </div>
 
-**Step 5.** Once you're connected, you can use the Ren Protocol DApp as normal.
+**Шаг 5.** Как только вы подключитесь, вы можете использовать Ren Protocol DApp.
 
 <img src="/images/posts/diving-deeper/renmc3.png" alt="Image of connected Ren Protocol Dashboard" width="100%" />
 
