@@ -12,7 +12,7 @@ categories:
   - 
     - dapps
 primary_category: dapps
-primary_category_display_name: "DApps"
+primary_category_display_name: "DАpps"
 author: MyEtherWallet (MEW)
 ---
 
