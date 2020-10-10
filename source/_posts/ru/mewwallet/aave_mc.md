@@ -34,7 +34,7 @@ author: MyEtherWallet (MEW)
 
 <img src="/images/posts/diving-deeper/aavemc1.png" alt="Image of Aave access screen" width="100%" />
 
-**Step 2.** Select the MEW wallet app and a QR code will appear.
+**Шаг 2.** Выберите MEW wallet app и вы увидите QR-код.
 
 <img src="/images/posts/diving-deeper/aavemc2.png" alt="Изображение QR-кода MEWconnect" width="100%" />
 
