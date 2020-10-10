@@ -1,5 +1,5 @@
 ---
-title: "Using Ren Protocol with the MEW wallet app"
+title: "Использование Ren Protocol с приложением MEW wallet"
 date: 2018-06-01 00:02:00
 tags:
   - ren
@@ -17,25 +17,25 @@ primary_category_display_name: "MEWwallet"
 author: MyEtherWallet (MEW)
 ---
 
-# **Using Ren Protocol with the MEW wallet app**
+# **Использование Ren Protocol с приложением MEW wallet**
 
-###### {% read_time title "Using Ren Protocol with the MEW wallet app" %} min read
+###### {% read_time title "Using Ren Protocol with the MEW wallet app" %} минут на чтение
 
 * * *
 
-###### This guide details how to connect to the Ren Protocol DApp website using the MEW wallet app.
+###### В этом руководстве подробно описано, как подключиться к сайту Ren Protocol DApp с помощью MEW wallet.
 
-###### You will need a [MEW wallet account][mwacnt] for this guide.
+###### Вам понадобится [аккаунт MEW wallet][mwacnt] для использования этого руководства.
 
-## **Using Ren Protocol with the MEW wallet app**
+## **Использование Ren Protocol с приложением MEW wallet**
 
 <img src="/images/posts/mewconnect/MCRenVM.gif" alt="Image of MEWconnect to RenBridge" style="max-width: 720px;" />
 
-**Step 1.** Head to the [Ren Protocol DApp website][renp].
+**Шаг 1.** Направляйтесь на [вебсайт Ren Protocol DApp][renp].
 
 <img src="/images/posts/diving-deeper/renmc1.png" alt="Image of Ren Protocol access screen" width="100%" />
 
-**Step 2.** Select the MEW wallet app and a QR code will appear.
+**Шаг 2.** Выберите MEW wallet app и вы увидите QR-код.
 
 <img src="/images/posts/diving-deeper/renmc2.png" alt="Изображение QR-кода MEWconnect" width="100%" />
 
