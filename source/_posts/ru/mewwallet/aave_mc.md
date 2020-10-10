@@ -1,5 +1,5 @@
 ---
-title: "Using Aave with the MEW wallet app"
+title: "Использование Aave с приложением MEW wallet"
 date: 2018-06-01 00:02:00
 tags:
   - aave
@@ -16,23 +16,23 @@ primary_category_display_name: "MEWwallet"
 author: MyEtherWallet (MEW)
 ---
 
-# **Using Aave with the MEW wallet app**
+# **Использование Aave с приложением MEW wallet**
 
-###### {% read_time title "Using Aave with the MEW wallet app" %} min read
+###### {% read_time title "Using Aave with the MEW wallet app" %} минут на чтение
 
 * * *
 
-###### This guide details how to connect to the Aave DApp website using the MEW wallet app. If you want to use Aave within the MEW interface, check out our guide on [how to use Aave with MEW web][aavemew].
+###### В этом руководстве подробно описано, как подключиться к сайту Aave DApp с помощью приложения MEW wallet. Если вы хотите использовать Aave в интерфейсе MEW web, ознакомьтесь с нашим руководством [как использовать Aave с MEW][aavemew].
 
-###### You will need a [MEW wallet account][mwacnt] for this guide.
+###### Вам понадобится [аккаунт MEW wallet][mwacnt] для использования этого руководства.
 
-## **Using Aave with the MEW wallet app**
+## **Использование Aave с приложением MEW wallet**
 
-<img src="/images/posts/mewconnect/AaveMC.gif" alt="Image of MEWconnect to Aave" style="max-width: 720px;" />
+<img src="/images/posts/mewconnect/AaveMC.gif" alt="Изображение MEWconnect к Aave" style="max-width: 720px;" />
 
-**Step 1.** Head to the [Aave DApp website][aave].
+**Шаг 1.** Направляйтесь на [вебсайт Aave DApp][aave].
 
-<img src="/images/posts/diving-deeper/aavemc1.png" alt="Image of Aave access screen" width="100%" />
+<img src="/images/posts/diving-deeper/aavemc1.png" alt="Изображение экрана доступа к Aave" width="100%" />
 
 **Шаг 2.** Выберите MEW wallet app и вы увидите QR-код.
 
@@ -43,15 +43,15 @@ author: MyEtherWallet (MEW)
 **Шаг 4.** Отсканируйте QR-код с помощью приложения MEW wallet и выберите аккаунт для подключения.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/diving-deeper/aavemw1.jpg" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
-<img src="/images/posts/diving-deeper/aavemw2.jpg" alt="Image of MEW wallet connected successfully" style="max-width: 250px;" />
+<img src="/images/posts/diving-deeper/aavemw1.jpg" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
+<img src="/images/posts/diving-deeper/aavemw2.jpg" alt="Изображение успешного подключения MEW wallet" style="max-width: 250px;" />
 </div>
 
-**Step 5.** Once you're connected, you can use the Aave DApp as normal.
+**Шаг 5.** Как только вы подключитесь, вы можете использовать Aave DApp.
 
-<img src="/images/posts/diving-deeper/aavemc3.png" alt="Image of connected Aave Dashboard" width="100%" />
+<img src="/images/posts/diving-deeper/aavemc3.png" alt="Изображение подключенной панели Aave" width="100%" />
 
-**Step 6.** When you make any deposits or withdrawals, the MEW wallet app will ask you to confirm your actions.
+**Шаг 6.** Когда вы будете делать какие-либо транзакции, приложение MEW wallet запросит подтверждение ваших действий.
 
 <img src="/images/posts/diving-deeper/aavemc7.png" alt="Image of connected Aave Dashboard asking for confirmation" width="100%" />
 
