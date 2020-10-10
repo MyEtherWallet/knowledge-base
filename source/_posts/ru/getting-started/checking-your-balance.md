@@ -67,6 +67,6 @@ author: MyEtherWallet (MEW)
 **Шаг 3.** Вы будете направлены к обзору кошелька.
 
 -   Слева вы увидите проверенную суммированием (checksummed) версию вашего адреса. Прочитайте нашу статью о [различиях между checksummed и non-checksummed адресами](/@@@@@@/common-issues/not-checksummed/).
--   You can also find your ETH balance to the left, under ‘Address Information’.
--   To the right, you can find your Token Balances. Если вы ищете информацию о кастомном токене, здесь вы можете выбрать конкретный токен, чтобы найти адрес его контракта, количество знаков после запятой и символ. Прочитайте нашу статью про [добавление кастомных токенов](/@@@@@@/tokens/how-to-add-custom-token/).
--   The bottom of the screen shows the history of ETH, ERC20 token, and ERC721 token transactions. You can apply filters if you want to see just ETH or tokens, using tick marks at the top.
+-   Также вы можете увидеть свой баланс ETH слева, в разделе "Информация об адресе" (Address Information).
+-   Справа вы найдете баланс ваших токенов. Если вы ищете информацию о кастомном токене, здесь вы можете выбрать конкретный токен, чтобы найти адрес его контракта, количество знаков после запятой и символ. Прочитайте нашу статью про [добавление кастомных токенов](/@@@@@@/tokens/how-to-add-custom-token/).
+-   Внизу экрана отображается история операций с токенами ETH, ERC20 и ERC721. Если вы хотите увидеть только ETH или токены, можете применить фильтры, используя отметки сверху.
