@@ -32,9 +32,9 @@ MEW создал этот протокол, чтобы упростить вза
 
 Приложение MEW wallet - это отличный инструмент, который вы можете использовать чтобы увидеть MEWconnect в действии. Нажав на иконку маленькой камеры в приложении, MEW wallet открывает камеру для сканирования QR-кода в MEW web. Этот QR-код генерируется MEWconnect для привязки аккаунта в вашем приложении к веб-интерфейсу.
 
-Other platforms can also integrate MEWconnect in order to allow MEW users to connect directly from the MEW wallet app to their preferred platform, such as Aave and Ren - our first integrations.
+Другие платформы также могут интегрировать MEWconnect для того, чтобы пользователи приложения MEW wallet могли подключаться непосредственно к их интерфейсу. Aave и Ren - наши первые интеграции.
 
-To learn more about how to use MEWconnect, check out our guide on [how to connect your MEW wallet account to Aave][aave].
+Чтобы узнать больше о том, как использовать MEWconnect, ознакомьтесь с нашим руководством [как подключить ваш MEW wallet к Aave][aave].
 
 [mc]: https://mewconnect.myetherwallet.com/
 
