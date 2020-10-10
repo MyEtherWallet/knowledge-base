@@ -1,5 +1,5 @@
 ---
-title: "How to Send a Transaction with MEW web"
+title: "Как отправить транзакцию с MEW web"
 date: 2018-06-01 00:03:00
 tags:
   - отправить
@@ -14,9 +14,9 @@ alias:
 author: MyEtherWallet (MEW)
 ---
 
-# **How to Send a Transaction with MEW web**
+# **Как отправить транзакцию с MEW web**
 
-###### {% read_time title "How to Send a Transaction with MEW web" %} min read
+###### {% read_time title "How to Send a Transaction with MEW web" %} минут на чтение
 
 * * *
 
