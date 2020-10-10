@@ -1,5 +1,5 @@
 ---
-title: "Unable to Connect to Hardware Wallet with MEW"
+title: "Не удается подключиться к аппаратному кошельку"
 date: 2018-06-01 00:06:00
 tags:
   - ошибка
@@ -16,9 +16,9 @@ alias:
 author: MyEtherWallet (MEW)
 ---
 
-# **Unable to Connect to Hardware Wallet with MEW**
+# **Не удается подключиться к аппаратному кошельку**
 
-###### {% read_time title "Unable to Connect to Hardware Wallet with MEW" %} min read
+###### {% read_time title "Unable to Connect to Hardware Wallet with MEW" %} минут на чтение
 
 * * *
 
