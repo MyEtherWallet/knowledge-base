@@ -1,5 +1,5 @@
 ---
-title: "Error: Address is Not Checksummed"
+title: "Ошибка: Адрес не проверен суммированием"
 date: 2018-06-01 00:03:00
 tags:
   - ошибка
@@ -15,9 +15,9 @@ alias:
 author: MyEtherWallet (MEW)
 ---
 
-# **Error: Address is Not Checksummed**
+# **Ошибка: Адрес не проверен суммированием**
 
-###### {% read_time title "Error: Address is Not Checksummed" %} min read
+###### {% read_time title "Error: Address is Not Checksummed" %} минут на чтение
 
 * * *
 
