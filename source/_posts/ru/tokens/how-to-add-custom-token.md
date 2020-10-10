@@ -1,5 +1,5 @@
 ---
-title: "How to Add a Custom Token on MEW web"
+title: "Как добавить кастомный токен в MEW web"
 date: 2018-06-01 00:02:00
 tags:
   - кастомный
@@ -18,9 +18,9 @@ alias:
 author: MyEtherWallet (MEW)
 ---
 
-# **How to Add a Custom Token on MEW web**
+# **Как добавить кастомный токен в MEW web**
 
-###### {% read_time title "How to Add a Custom Token on MEW web" %} min read
+###### {% read_time title "How to Add a Custom Token on MEW web" %} минут на чтение
 
 * * *
 
