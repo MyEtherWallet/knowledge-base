@@ -38,9 +38,9 @@ author: MyEtherWallet (MEW)
 
 <img src="/images/posts/diving-deeper/aavemc2.png" alt="Изображение QR-кода MEWconnect" width="100%" />
 
-**Step 3.** In your MEW wallet app, click the small camera icon in the top-right corner. This will open your phone's camera.
+**Шаг 3.** В приложении MEW wallet нажмите значок маленькой камеры в правом верхнем углу. Это откроет камеру вашего телефона.
 
-**Step 4.** Scan the QR code with your MEW wallet app and choose an account to connect with.
+**Шаг 4.** Отсканируйте QR-код с помощью приложения MEW wallet и выберите аккаунт для подключения.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <img src="/images/posts/diving-deeper/aavemw1.jpg" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
