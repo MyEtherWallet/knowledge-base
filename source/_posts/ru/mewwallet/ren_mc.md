@@ -45,12 +45,12 @@ author: MyEtherWallet (MEW)
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <img src="/images/posts/diving-deeper/renmw1.jpg" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/diving-deeper/renmw2.jpg" alt="Image of MEW wallet connected successfully" style="max-width: 250px;" />
+<img src="/images/posts/diving-deeper/renmw2.jpg" alt="Изображение успешного подключения MEW wallet" style="max-width: 250px;" />
 </div>
 
 **Шаг 5.** Как только вы подключитесь, вы можете использовать Ren Protocol DApp.
 
-<img src="/images/posts/diving-deeper/renmc3.png" alt="Image of connected Ren Protocol Dashboard" width="100%" />
+<img src="/images/posts/diving-deeper/renmc3.png" alt="Изображение подключенной панели Ren Protocol" width="100%" />
 
 [renp]: https://bridge.renproject.io/
 
