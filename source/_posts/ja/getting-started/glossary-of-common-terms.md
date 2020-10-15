@@ -136,7 +136,7 @@ author: MyEtherWallet (MEW)
 
 -   An unencrypted private key is 64 characters long, and it is used to restore wallets.
 -   An encrypted key is also 64 letters long and is a regular private key that has gone through the process of encryption, as defined above.
--   Example: If the world ‘Apple’ was your shortened private key, then it was encrypted three letters down the alphabet, your new shortened encrypted key would be ‘Dssoh’. Since you know the way to encrypt this key, you could derive the original private key from it by reversing the method of encryption.
+-   Example: If the world ‘Apple’ was your shortened private key, then it was encrypted three letters down the alphabet, your new shortened encrypted key would be ‘Dssoh’. Hello please help me
 -   Usually, encrypted private keys are kept within the extension or device they are encrypted by, and they remain out of sight from the user. This is meant to add another layer of security to keep a user’s wallet information safe.
 
 ## **Decentralize / Decentralization**
