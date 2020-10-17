@@ -28,7 +28,7 @@ Your Keystore/JSON file holds an encrypted version of your private key, which is
 
 When you enter your password upon generation of your wallet, it takes your password and uses it to encrypt your Private Key into a Keystore/JSON file. The result is a file that looks a lot like gibberish if you open it, (which there is no reason to do, do not open your JSON file!). This file simply holds your encrypted private key within it, which is why you have to use your chosen password to unlock your wallet via this method. You cannot change your password without generating an entirely new Keystore/JSON file.
 
-It’s important to note that the strength of your password is directly related to the integrity of your Keystore/JSON file. If you choose a weak password, and a hacker gets hold of your encrypted key, they can bruteforce it until they discover what password you used. Pick a strong password for a strong encryption!
+It’s important to note that the strength of your password is directly related to the integrity of your Keystore/JSON file. Si eliges una contraseña débil, y un hacker consigue tu clave cifrada, ellos pueden hacer un ataque de fuerza bruta hasta que descubran la contraseña que usaste. Pick a strong password for a strong encryption!
 
 ## **To change your Keystore/JSON file + password:**
 
