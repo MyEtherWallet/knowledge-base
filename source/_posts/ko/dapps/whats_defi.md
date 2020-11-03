@@ -14,6 +14,7 @@ author: MyEtherWallet (MEW)
 ---
 
 # **What's DeFi?**
+
 ### **Uses, Benefits, and Risks**
 
 ###### {% read_time title "What's DeFi? Uses, Benefits, and Risks" %} min read
