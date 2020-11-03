@@ -27,9 +27,9 @@ author: MyEtherWallet (MEW)
 
 <br>
 
-While there are a multitude of DeFi protocols and combinations (in fact, they are called 'DeFi legos' because of their endless combinability), the varied uses of DeFi can be simplified down to two categories: lending and borrowing.
+Хотя существует множество DeFi протоколов и комбинаций (они даже называются 'DeFi лего' из-за множества вариантов комбинирования), использование DeFi можно разместить в две категории: кредитование и заимствование.
 
-When you **lend** crypto, whether by putting it into a savings-account-like smart contract or into a pool to provide liquidity, you can earn interest on your crypto, with the returns often exceeding those provided by traditional finance instruments. You can also gather rewards in the form of the protocol's governance tokens. These tokens will allow you to vote on proposals about changes to the DeFi protocol, so that you, as an investor, have some control over the project's direction. Of course, governance tokens can also be sold for profit like any other crypto asset.
+Когда вы **предоставляете** криптовалюту помещая ее в смарт-контракт похожий на счет сбережений или в пул для обеспечения ликвидности, вы можете зарабатывать проценты на своей криптовалюте, причем доходы часто превышают те которые предоставляются традиционными финансовыми инструментами. Вы также можете получать вознаграждения в виде токенов управления протоколом (governance tokens). Эти токены позволят вам голосовать за предложения об изменениях протокола DeFi, давая вам, как инвестору, некоторый контроль над направлением проекта. Конечно, токены управления также могут продаваться для прибыли, как и любой другой криптовалютный актив.
 
 When you **borrow** crypto, you can take advantage of immediate loans without the need for approval from any third parties – BUT, most of the time, you must provide collateral. This means that you would deposit some ETH, for example, and take out a loan of the stablecoin DAI, to be used in any way you see fit.
 
