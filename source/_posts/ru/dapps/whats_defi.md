@@ -1,5 +1,5 @@
 ---
-title: "What's DeFi? Uses, Benefits, and Risks"
+title: "Что такое DeFi? Использование, выгода и риск"
 date: 2018-06-01 00:02:00
 tags:
   - defi
@@ -13,17 +13,17 @@ primary_category_display_name: "DАpps"
 author: MyEtherWallet (MEW)
 ---
 
-# **What's DeFi?**
+# **Что такое DeFi?**
 
-### **Uses, Benefits, and Risks**
+### **Использование, выгода и риск**
 
-###### {% read_time title "What's DeFi? Uses, Benefits, and Risks" %} min read
+###### {% read_time title "Что такое DeFi? Использования, выгода и риск" %} мин читать
 
 * * *
 
-**DeFi** is an abbreviation of the phrase **Decentralized Finance**, and it encompasses all financial tools and applications built on decentralized cryptocurrency networks. Recently, it’s most frequently used specifically to describe lending, borrowing, and yield farming (also called liquidity mining) on the Ethereum blockchain.
+**DeFi** - это аббревиатура фразы **децентрализованные финансы**, и включает в себя все финансовые инструменты и приложения, построенные на децентрализованных криптовалютных сетях. В последнее время, аббревиатура DeFi наиболее часто используется специально для описания кредитования, займов и доходного фермерства (yield farming, также называемого майнинг ликвидности) на блокчейне Эфириум.
 
-### **What can I do with DeFi?**
+### **Что я могу сделать с DeFi?**
 
 <br>
 
