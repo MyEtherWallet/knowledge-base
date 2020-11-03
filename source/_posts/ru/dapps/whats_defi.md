@@ -56,4 +56,4 @@ An advanced user might leverage the borrowing and lending capabilities to combin
 -   Market volatility can devalue your collateral, raising the risk of liquidation and making it more difficult to repay a loan
 -   Because of volatility and interest accrual over time, it's essential to monitor the loan closely to avoid liquidation
 -   Many scams and projects that haven't had their code properly audited, leading to loss of funds for most participants
--   Full control over funds also means full responsibility for their security - you alone are responsible for your wallet keys, and for paying back your loans on time
+-   Полный контроль над средствами также предполагает полную ответственность за их безопасность - вы сами несете ответственность за ключи вашего кошелька и за своевременный возврат займа.
