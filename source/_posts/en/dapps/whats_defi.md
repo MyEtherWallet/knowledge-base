@@ -12,7 +12,8 @@ primary_category_display_name: "DApps"
 author: MyEtherWallet (MEW)
 ---
 
-# **What's DeFi?** 
+# **What's DeFi?**
+
 ### **Uses, Benefits, and Risks**
 
 ###### {% read_time title "What's DeFi? Uses, Benefits, and Risks" %} min read
