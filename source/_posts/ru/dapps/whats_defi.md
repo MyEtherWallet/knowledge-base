@@ -43,17 +43,17 @@ author: MyEtherWallet (MEW)
 
 <br>
 
--   Near-instant execution without reliance on third parties
--   Virtually no geographic limitations
--   Full control over your funds and information
--   Unlimited combinability of protocols
--   Returns on investment that may be unavailable in traditional finance
+-   Практически немедленное исполнение транзакций без зависимости от третьих сторон
+-   Практически нет географических ограничений
+-   Полный контроль над своими средствами и данными
+-   Неограниченная комбинация протоколов
+-   Возврат от инвестиций, которые могут быть недоступны в традиционных финансах
 
-## **DeFi Risks**
+## **Риски DeFi**
 
 <br>
 
--   Market volatility can devalue your collateral, raising the risk of liquidation and making it more difficult to repay a loan
--   Because of volatility and interest accrual over time, it's essential to monitor the loan closely to avoid liquidation
--   Many scams and projects that haven't had their code properly audited, leading to loss of funds for most participants
+-   Неустойчивость рынка может обесценивать ваш залог, повышать риск ликвидации и затруднять погашение займа
+-   Из-за неустойчивости рынка и начисления процентов, важно внимательно следить за займом во избежание ликвидации
+-   Многие мошенников и проектов не прошедших проверку кода, что приводит к потере средств для большинства участников
 -   Полный контроль над средствами также предполагает полную ответственность за их безопасность - вы сами несете ответственность за ключи вашего кошелька и за своевременный возврат займа.
