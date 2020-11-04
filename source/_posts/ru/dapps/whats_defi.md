@@ -31,7 +31,7 @@ author: MyEtherWallet (MEW)
 
 Когда вы **предоставляете** криптовалюту помещая ее в смарт-контракт похожий на счет сбережений или в пул для обеспечения ликвидности, вы можете зарабатывать проценты на своей криптовалюте, причем доходы часто превышают те которые предоставляются традиционными финансовыми инструментами. Вы также можете получать вознаграждения в виде токенов управления протоколом (governance tokens). Эти токены позволят вам голосовать за предложения об изменениях протокола DeFi, давая вам, как инвестору, некоторый контроль над направлением проекта. Конечно, токены управления также могут продаваться для прибыли, как и любой другой криптовалютный актив.
 
-When you **borrow** crypto, you can take advantage of immediate loans without the need for approval from any third parties – BUT, most of the time, you must provide collateral. This means that you would deposit some ETH, for example, and take out a loan of the stablecoin DAI, to be used in any way you see fit.
+Когда вы **занимаете** криптовалюту, вы можете получить займ без задержки и без необходимости разрешения каких либо третьих лиц – однако, в большинстве случаев, вы должны предоставить залог. This means that you would deposit some ETH, for example, and take out a loan of the stablecoin DAI, to be used in any way you see fit.
 
 The loan amount should always be significantly lower than the collateral, but your deposit could also be earning interest and growing in value in the meantime. Therefore, in the best case scenario, you are taking advantage of both the loan and the growing value of the collateral. On the other hand, if market volatility leads to a drop in your collateral's price and you don't repay the loan in time, your collateral could be liquidated.
 
