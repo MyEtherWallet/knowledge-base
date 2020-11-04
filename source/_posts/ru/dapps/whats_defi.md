@@ -35,9 +35,9 @@ author: MyEtherWallet (MEW)
 
 Сумма займа всегда должна быть значительно ниже, чем сумма залога, но в это время ваш депозит также может зарабатывать проценты и расти в стоимости. Таким образом, в наилучшем случае, вы пользуетесь как займом так и растущей стоимостью залога. С другой стороны, если волатильность рынка приводит к падению цены залога и вы не погасите кредит вовремя, ваш залог может быть ликвидирован.
 
-An advanced user might leverage the borrowing and lending capabilities to combine DeFi legos, taking out loans on one platform to provide liquidity on another, earning governance tokens on multiple platforms, and maximizing returns. However, this strategy should only be used by experts who are able to navigate the complexities of the market and have a high risk tolerance.
+Продвинутый пользователь может оптимизировать возможности заимствования и кредитования для комбинирования инструментов DeFi, получения займов на одной платформе для обеспечения ликвидности на другой, получения токенов управления на нескольких платформах и максимизации прибыли. Однако эта стратегия должна использоваться только экспертами, способными ориентироваться в сложностях рынка и имеющими высокую толерантность к риску.
 
-### **To summarize, let's look at the main benefits and risks of DeFi:**
+### **Подводя итоги, давайте рассмотрим главные возможности и риски DeFi:**
 
 ## **DeFi Benefits**
 
