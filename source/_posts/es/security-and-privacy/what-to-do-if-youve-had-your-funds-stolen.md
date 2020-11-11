@@ -12,6 +12,7 @@ primary_category: security-and-privacy
 primary_category_display_name: "Security And Privacy"
 alias:
   - en/security/what-to-do-if-youve-had-your-funds-stolen.html
+author: MyEtherWallet (MEW)
 ---
 
 # **What to Do if You’ve Had Your Funds Stolen**
@@ -37,7 +38,7 @@ The first step is identifying how it happened. Phishers make their living by bei
 Since your old wallet was compromised, you will need to discontinue its use and set up a new wallet. There are multiple safer options to choose from besides keystore/JSON files, mnemonic phrases, or private keys.
 
 -   The best thing you can do for your security is purchase a hardware wallet, such as the [Ledger Nano S](https://www.ledger.com/?r=fa4b) or [Trezor](https://shop.trezor.io/?a=myetherwallet.com). These are generally around ~$100, but can save you thousands in the long run.
--   [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/) is our fully fledged mobile app, which allows users to buy, hold, and send Ether and tokens right from their smartphone. It's simple, fast, and secure.
+-   [MEW wallet](/@@@@@@/mewwallet/mewwallet-user-guide/) is our fully fledged mobile app, which allows users to buy, hold, and send Ether and tokens right from their smartphone. Es simple, rápido y seguro.
 -   [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) is a free Google Chrome Extension that allows you to set up an Ethereum wallet, which can be used with MEW. MetaMask also warns you when visiting known phishing sites.
 
 ## **Step 3: Educate yourself.**

@@ -11,6 +11,7 @@ primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
   - en/getting-started/ethereum-glossary.html
+author: MyEtherWallet (MEW)
 ---
 
 # **A Glossary of Common Terms in the Ethereum / Crypto Community**
@@ -80,7 +81,7 @@ alias:
 ## **Hardware Wallet**
 
 -   Typically, a device that "holds" your private key(s), ensuring these keys are safe.
--   They generally use a 24-word phrase. This phrase you should write down on paper (not on your computer) and store separately from your hardware wallet, in multiple locations.
+-   They generally use a 24-word phrase. Deberás escribir esta frase en papel (no en tu computador) y almacenarlo aparte de tu billetera física, en diferentes lugares.
 -   If you lose your hardware wallet, you can still gain access to your accounts & funds via the mnemonic phrase you wrote down.
 -   **Never type the recovery phrase on your computer.** It defeats the purpose of your hardware wallet.
 -   Check out our [Hardware Wallet category](/@@@@@@/hardware-wallets/using-ledger-with-mew/) for more information about Hardware Wallets.

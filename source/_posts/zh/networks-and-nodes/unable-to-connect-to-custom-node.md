@@ -13,6 +13,7 @@ primary_category: networks-and-nodes
 primary_category_display_name: "Networks And Nodes"
 alias:
   - en/networks/cant-connect-to-custom-node-on-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Unable to Connect to Custom Node**

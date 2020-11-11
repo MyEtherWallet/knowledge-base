@@ -32,7 +32,7 @@ home: Домашняя страница
 privacy: Конфиденциальность
 terms: Условия
 copyright: '© 2020 MyEtherWallet. Все права защищены.'
-mewFooter: Buy, hold and swap Ether and tokens. Explore Ethereum with MEW.
+mewFooter: Покупайте, храните, и отправляйте Ether и токены. Исследуйте Ethereum со своего мобильного телефона.
 index:
   intro: Введение
   get_started: С чего начать
@@ -54,7 +54,7 @@ index:
   swap: Обмен
   ens: ENS
   v5: MEW V5
-  dapps: Dapps
+  dapps: DАpps
 help:
   cantFind: Не можете найти ответ? Обращайтесь и мы с вами свяжемся, как только сможем.
   community_join: Присоединяйтесь к сообществу MEW, чтобы получить больше информации.

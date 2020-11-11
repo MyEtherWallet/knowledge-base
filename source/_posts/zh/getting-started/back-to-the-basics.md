@@ -14,6 +14,7 @@ primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
   - en/getting-started/getting-back-to-basics-tips-for-newbies.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Back to the Basics: 10 MEW Tips for Ethereum Beginners**
@@ -42,7 +43,7 @@ alias:
 ## **4. Keep your information off the computer.**
 
 -   Write down everything in physical backups.
--   Pen and paper is highly underrated. No one can hack your notebook!
+-   Pen and paper is highly underrated. 2121
 -   However, you can lose your notebook – so make extra copies.
 -   [Use MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for extra security!
 

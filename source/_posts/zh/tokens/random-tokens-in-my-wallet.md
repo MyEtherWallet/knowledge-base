@@ -16,6 +16,7 @@ primary_category: token
 primary_category_display_name: "Tokens"
 alias:
   - en/tokens/airdropped-tokens.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Why are Random Tokens Appearing in my Wallet?**

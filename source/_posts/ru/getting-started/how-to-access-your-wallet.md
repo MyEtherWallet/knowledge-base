@@ -1,5 +1,5 @@
 ---
-title: "How to Access Your Wallet on MEW web"
+title: "Как получить доступ к вашему кошельку на MEW web"
 date: 2020-09-17 00:06:00
 tags:
   - доступ
@@ -22,14 +22,14 @@ primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
   - getting-started/accessing-your-new-eth-wallet.html
-author: Stephen Wooldridge II
+author: MyEtherWallet (MEW)
 ---
 
-# **How to Access Your Wallet on MEW web**
+# **Как получить доступ к вашему кошельку на MEW web**
 
 ##### <i>Эта статья предназначена для тех, у кого уже есть ETH-кошелек. Если вы хотите создать кошелек с нуля, обратитесь к статье [как создать кошелек][createWallet].</i>
 
-###### {% read_time title "How to Access Your Wallet on MEW web" %} min read
+###### {% read_time title "How to Access Your Wallet on MEW web" %} минут на чтение
 
 * * *
 

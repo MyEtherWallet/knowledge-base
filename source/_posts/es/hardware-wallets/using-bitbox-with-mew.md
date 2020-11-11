@@ -10,6 +10,7 @@ categories:
     - hardware-wallets
 primary_category: hardware-wallets
 primary_category_display_name: "Hardware Wallets"
+author: MyEtherWallet (MEW)
 ---
 
 # **Using a Digital BitBox Hardware Wallet with MEW**
@@ -48,7 +49,7 @@ Without further ado, let’s begin!
 
 * * *
 
-## **Using Digital BitBox with MEW**
+## **Usando Digital BitBox con MEW**
 
 **Step 1.** Attach your Digital BitBox device and head to MyEtherWallet.com.
 

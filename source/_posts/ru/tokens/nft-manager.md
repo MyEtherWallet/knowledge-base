@@ -1,5 +1,5 @@
 ---
-title: "What are Non-Fungible Tokens (NFTs)?"
+title: "Что такое не взаимозаменяемые токены (NFT)?"
 date: 2018-06-01 00:01:00
 tags:
   - токен
@@ -17,11 +17,12 @@ primary_category: токен
 primary_category_display_name: "Токены"
 alias:
   - tokens/nft-manager.html
+author: MyEtherWallet (MEW)
 ---
 
-# **What are Non-Fungible Tokens (NFTs)?**
+# **Что такое не взаимозаменяемые токены (NFT)?**
 
-###### {% read_time title "What are Non-Fungible Tokens (NFTs)?" %} min read
+###### {% read_time title "Невзаимозаменяемые токены (NFTs)" %} мин. чтения
 
 * * *
 

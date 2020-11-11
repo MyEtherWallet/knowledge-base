@@ -11,6 +11,7 @@ categories:
     - dapps
 primary_category: dapps
 primary_category_display_name: "DApps"
+author: MyEtherWallet (MEW)
 ---
 
 # **Register and Manage .eth Domains with ENS**

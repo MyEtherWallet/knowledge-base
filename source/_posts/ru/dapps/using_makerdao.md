@@ -12,7 +12,8 @@ categories:
   - 
     - dapps
 primary_category: dapps
-primary_category_display_name: "DApps"
+primary_category_display_name: "DАpps"
+author: MyEtherWallet (MEW)
 ---
 
 # **Создать Multi-Collateral Vault с MakerDAO**
@@ -103,3 +104,4 @@ primary_category_display_name: "DApps"
 <div class="youtube-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xNK_px6vPEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+

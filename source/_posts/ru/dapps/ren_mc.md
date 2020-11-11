@@ -13,7 +13,8 @@ categories:
   - 
     - dapps
 primary_category: dapps
-primary_category_display_name: "DApps"
+primary_category_display_name: "Dapps"
+author: MyEtherWallet (MEW)
 ---
 
 # **Using Ren Protocol with the MEW wallet app**
@@ -27,6 +28,8 @@ primary_category_display_name: "DApps"
 ###### You will need a [MEW wallet account][mwacnt] for this guide.
 
 ## **Using Ren Protocol with the MEW wallet app**
+
+<img src="/images/posts/mewconnect/MCRenVM.gif" alt="Image of MEWconnect to RenBridge" style="max-width: 720px;" />
 
 **Step 1.** Head to the [Ren Protocol DApp website][renp].
 

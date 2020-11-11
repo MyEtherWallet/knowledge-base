@@ -12,6 +12,7 @@ primary_category: swap
 primary_category_display_name: "Обмен"
 alias:
   - swap/swap-wasnt-completed-or-was-canceled.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Обмен был отменен или не был завершен**

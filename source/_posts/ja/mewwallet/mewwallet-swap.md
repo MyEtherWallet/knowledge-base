@@ -11,6 +11,7 @@ categories:
     - mewwallet
 primary_category: mewwallet
 primary_category_display_name: "MEW wallet"
+author: MyEtherWallet (MEW)
 ---
 
 # **Swap your crypto using MEW wallet**

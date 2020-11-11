@@ -11,6 +11,7 @@ primary_category: mewconnect
 primary_category_display_name: "MEWconnect"
 alias:
   - en/mewconnect/mew-connect-user-guide.html
+author: MyEtherWallet (MEW)
 ---
 
 # **MEWconnect app User Guide**

@@ -13,6 +13,7 @@ primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
   - security/keystore-file.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?**

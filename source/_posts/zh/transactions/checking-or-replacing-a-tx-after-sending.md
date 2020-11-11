@@ -14,6 +14,7 @@ primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
   - en/transactions/check-status-of-ethereum-transaction.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Canceling or Replacing a Transaction After it's Been Sent**

@@ -9,6 +9,7 @@ categories:
     - токен
 primary_category: токен
 primary_category_display_name: "Токены"
+author: MyEtherWallet (MEW)
 ---
 
 # **Токен уже существует**

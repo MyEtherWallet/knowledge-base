@@ -17,6 +17,7 @@ primary_category: migration
 primary_category_display_name: "Переход с и на MEW"
 alias:
   - migration/moving-from-coinbase-to-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW**

@@ -12,7 +12,8 @@ categories:
   - 
     - dapps
 primary_category: dapps
-primary_category_display_name: "DApps"
+primary_category_display_name: "Dapps"
+author: MyEtherWallet (MEW)
 ---
 
 # **Using Aave with the MEW wallet app**
@@ -26,6 +27,8 @@ primary_category_display_name: "DApps"
 ###### You will need a [MEW wallet account][mwacnt] for this guide.
 
 ## **Using Aave with the MEW wallet app**
+
+<img src="/images/posts/mewconnect/AaveMC.gif" alt="Image of MEWconnect to Aave" style="max-width: 720px;" />
 
 **Step 1.** Head to the [Aave DApp website][aave].
 
