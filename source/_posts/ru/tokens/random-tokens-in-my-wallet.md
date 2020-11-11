@@ -16,6 +16,7 @@ primary_category: токен
 primary_category_display_name: "Токены"
 alias:
   - tokens/airdropped-tokens.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Почему в моем кошельке появляются случайные токены?**

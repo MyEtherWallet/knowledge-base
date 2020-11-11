@@ -13,6 +13,7 @@ primary_category: транзакции
 primary_category_display_name: "Транзакции"
 alias:
   - transactions/transactions-not-showing-or-pending.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Транзакции застряли в статусе «Не найдено» или «В ожидании»**

@@ -1,5 +1,5 @@
 ---
-title: "Back to the Basics: 10 MEW Tips for Ethereum Beginners"
+title: "Вернемся к основам: 10 советов новичкам"
 date: 2018-06-01 00:01:00
 tags:
   - основа
@@ -14,11 +14,12 @@ primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
   - getting-started/getting-back-to-basics-tips-for-newbies.html
+author: MyEtherWallet (MEW)
 ---
 
-# **Back to the Basics: 10 MEW Tips for Ethereum Beginners**
+# **Вернемся к основам: 10 советов новичкам**
 
-###### {% read_time title "Back to the Basics: 10 MEW Tips for Ethereum Beginners" %} min read
+###### {% read_time title "Back to the Basics: 10 MEW Tips for Ethereum Beginners" %} минут на чтение
 
 * * *
 
@@ -48,7 +49,7 @@ alias:
 
 ## **5. Ни с кем не делитесь своими личными данными.**
 
--   Включая нас! We will never ask for your private key, keystore file, or recovery phrase.
+-   Включая нас! Мы никогда не попросим вас послать нам закрытый ключ, файл хранилища ключа, или фразу восстановления.
 
 ## **6. Мы никогда не напишем вам первыми.**
 
@@ -56,19 +57,19 @@ alias:
 
 ## **7. Google может быть вашим лучшим другом или самым опасным врагом.**
 
--   Do your research and remain skeptical!
+-   Находите актуальную информацию и сохраняйте скептицизм!
 -   Прежде чем отправлять средства третьей стороне или пользоваться новым сервисом, введите в Google название сервиса + "мошенничество" или "отзывы".
 
-## **8. Pay very close attention to the address you're sending to.**
+## **8. Тщательно проверьте адрес, на который вы отправляете.**
 
 -   Отправка на неверный адрес может означать потерю ваших средств навсегда. Вы должны точно знать, кому отправляете средства.
 -   Проверяйте всё дважды или трижды. Даже один неверный символ имеет значение и приведет к потере средств.
 -   Никогда не вводите ничего вручную. Копирование и вставка — ваши лучшие друзья!
--   Make sure you're not sending to a contract address! Funds sent directly to a contract address can not be recovered.
+-   Убедитесь, что вы не отправляете на контрактный адрес! Средства, отправленные непосредственно на адрес контракта, не могут быть возвращены.
 
 ## **9. Купите аппаратный кошелек (hardware wallet).**
 
--   Hardware wallets are generally around ~100 USD and offer the best protection for your crypto assets.
+-   Аппаратные кошельки стоят около 100 долларов США и обеспечивают наилучшую защиту ваших криптоактивов.
 -   Мы очень рекомендуем два варианта: [Ledger](https://www.ledger.com/?r=fa4b) и [Trezor](https://trezor.io/?offer_id=12&aff_id=2029)!
 
 ## **10. Обращайтесь за помощью.**

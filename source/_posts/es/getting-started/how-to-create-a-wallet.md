@@ -12,6 +12,7 @@ primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
   - en/getting-started/creating-a-new-wallet-on-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **How to Create an Ethereum Wallet with MEW**
@@ -55,7 +56,7 @@ Read our guide to learn more about [creating your wallet with MEW CX](/@@@@@@/ge
 ## **Before we continue, a few words of caution:**
 
 -   Never share this information with anyone. This information gives complete and permanent access to your wallet.
--   Do not keep this information on a device connected to the internet. Hackers can and will find it in your hard drive.
+-   No guardes esta información en un dispositivo conectado a Internet. Hackers can and will find it in your hard drive.
 -   Choose strong passwords and write everything down, in multiple locations.
 -   We cannot recover this information for you.
 

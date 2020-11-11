@@ -1,5 +1,5 @@
 ---
-title: "What is a Nonce?"
+title: "Что такое Nonce-число?"
 date: 2018-06-01 00:08:00
 tags:
   - временный номер
@@ -10,11 +10,12 @@ primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
   - transactions/what-is-nonce.html
+author: MyEtherWallet (MEW)
 ---
 
-# **What is a Nonce?**
+# **Что такое Nonce-число?**
 
-###### {% read_time title "What is a Nonce?" %} min read
+###### {% read_time title "What is Nonce?" %} минут на чтение
 
 * * *
 

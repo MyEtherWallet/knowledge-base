@@ -10,6 +10,7 @@ categories:
     - mewwallet
 primary_category: mewwallet
 primary_category_display_name: "MEWwallet"
+author: MyEtherWallet (MEW)
 ---
 
 # **Как приложение MEW wallet обращается с закрытыми ключами?**

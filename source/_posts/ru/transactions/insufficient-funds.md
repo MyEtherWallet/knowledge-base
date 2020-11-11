@@ -12,11 +12,12 @@ primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
   - gas/error-insufficient-funds-message.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Ошибка: Недостаточно ETH для отправки**
 
-###### {% read_time title "Error: Not Enough ETH to Send" %} min read
+###### {% read_time title "Error: Not Enough ETH to Send" %} минут на чтение
 
 * * *
 

@@ -12,6 +12,7 @@ primary_category: аппаратные-кошельки
 primary_category_display_name: "Аппаратные кошельки"
 alias:
   - migration/moving-from-private-key-to-ledger-hardware-wallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Использование аппаратного кошелька Ledger с MEW**

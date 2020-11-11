@@ -13,6 +13,7 @@ primary_category: transactions
 primary_category_display_name: "Transactions"
 alias:
   - en/transactions/transactions-not-showing-or-pending.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Transactions are 'Not Found' or 'Pending' Forever**
@@ -23,7 +24,7 @@ alias:
 
 Often times, a combination of new users, increased interest in Ethereum, games like CryptoKitties, and random ICOs can create quite a mess of the transaction pool, causing a lot of transactions to remain pending longer than usual. This is a network issue that affects all exchanges and ETH users.
 
-There is simply not enough space in the blocks for the miners to mine all the transactions, and many systems are not currently set up to monitor the massive quantity of transaction requests. This is affecting all people's ability to send transactions.
+There is simply not enough space in the blocks for the miners to mine all the transactions, and many systems are not currently set up to monitor the massive quantity of transaction requests. 一括送金はどうやって行えばいいですか？
 
 ## **Helpful Tools and Resources to Get Your Transaction to Send**
 

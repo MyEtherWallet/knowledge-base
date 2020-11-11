@@ -14,6 +14,7 @@ primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
   - transactions/transaction-fee-not-refunded.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Моя транзакция не «прошла». Почему с меня списали средства?**

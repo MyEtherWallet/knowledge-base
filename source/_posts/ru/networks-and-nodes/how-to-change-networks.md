@@ -14,6 +14,7 @@ primary_category: networks-and-nodes
 primary_category_display_name: "Сети и узлы"
 alias:
   - networks/sent-etc-to-eth-address.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Как изменить сеть (получение доступа к Ropsten, ETC и многим другим сетям).**

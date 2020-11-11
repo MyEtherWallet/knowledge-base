@@ -18,6 +18,7 @@ primary_category: get-started
 primary_category_display_name: "С чего начать"
 alias:
   - getting-started/using-mewcx.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Руководство пользования MEW CX**

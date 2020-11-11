@@ -1,5 +1,5 @@
 ---
-title: "Using Geth / Mist with MEW"
+title: "Использование Geth / Mist с MEW"
 date: 2018-06-01 00:03:00
 tags:
   - geth
@@ -12,6 +12,7 @@ primary_category: migration
 primary_category_display_name: "Переход с и на MEW"
 alias:
   - migration/location-of-mist-geth-wallet-files.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Использование Geth / Mist с MEW**

@@ -14,6 +14,7 @@ primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
   - gas/-cant-withdraw-them-from-your-site-less-than-minimum.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Есть ли у MEW минимальные требования для отправки?**

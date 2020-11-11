@@ -14,6 +14,7 @@ primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
   - en/getting-started/getting-started-new.html
+author: MyEtherWallet (MEW)
 ---
 
 # **MyEtherWallet: An Introduction**
@@ -70,7 +71,7 @@ alias:
 ## **How do I remain secure?**
 
 -   The most secure way to access your funds is through a hardware wallet, like a [Ledger Nano S](https://www.ledger.com/?r=fa4b) or [Trezor](https://trezor.io/?offer_id=12&aff_id=2029). If you have over $200 in crypto, there is little excuse not to get one.
--   Download our fully-fledged mobile app [MEW wallet](https://www.mewwallet.com/). It's simple, fast, and secure.
+-   Download our fully-fledged mobile app [MEW wallet](https://www.mewwallet.com/). Es simple, rápido y seguro.
 -   Follow our educational blog [MEWtopia](https://www.mewtopia.com/) for the latest on MEW and Ethereum.
 -   When using a private key, keystore/JSON file, or mnemonic phrase, make sure to keep them solely on physical paper and offline computers. This information is extremely sensitive. And make backups! If you lose this information, it’s gone forever.
 -   Always check the URL you are using to make sure it says [www.myetherwallet.com.](http://www.myetherwallet.com.) And bookmark us for future use!

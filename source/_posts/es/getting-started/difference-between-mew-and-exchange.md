@@ -15,6 +15,7 @@ primary_category: get-started
 primary_category_display_name: "Get Started"
 alias:
   - en/getting-started/whats-the-difference-between-an-exchange-and-myetherwallet.html
+author: MyEtherWallet (MEW)
 ---
 
 # **What's the Difference Between an Exchange (i.e. Coinbase, Kraken, Gemini, Binance, etc.) and MyEtherWallet?**
@@ -29,7 +30,7 @@ Your ETH & tokens are on the Ethereum blockchain, regardless of what service you
 
 The upside is that you, and only you, control your keys. An exchange getting hacked won't affect you. The downside is that you, **and only you,** control your keys. No one else has them, nor can they recover them, should they be lost.
 
-If you do lose your private key or wallet file and password, you cannot prove ownership of an account, and you permanently lose access to your funds.
+Si pierdes tu clave privada o el archivo y contraseña de tu billetera, no podrás probar tu propiedad sobre tu cuenta, y perderás permanentemente acceso a tus fondos.
 
 **If you use an exchange like Coinbase, Gemini, Kraken, Polonix, Bittrex,** then you have an account with that company, and they hold your ETH and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, on their servers, and they keep track of how much ETH they "owe" you.
 
@@ -41,7 +42,7 @@ This allows you to have the more traditional username / password account dynamic
 
 -   Don't enter it on random websites.
 -   Always ensure you are on the correct site or downloading from the legitimate repo / website.
--   Don't email your key, send it to anyone, or post it online.
+-   No envíes tu clave por correo electrónico, ni se lo envíes a nadie, ni lo publiques en Internet.
 -   Don't save it to cloud storage.
 -   Don't have Team Viewer or other remote access software on your computer.
 -   And last but not least, [use MEW offline](/@@@@@@/offline/using-mew-offline/)!!

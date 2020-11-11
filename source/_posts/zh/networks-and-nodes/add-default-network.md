@@ -12,6 +12,7 @@ categories:
     - networks-and-nodes
 primary_category: networks-and-nodes
 primary_category_display_name: "Networks And Nodes"
+author: MyEtherWallet (MEW)
 ---
 
 # **How to Add a Default Network to MEW web**
@@ -61,9 +62,9 @@ import clo from '@/assets/images/networks/clo.svg';
 export default {
   name: 'CLO',
   name_long: 'Callisto',
-  homePage: '&lt;https&#x3A;>,
-  blockExplorerTX: '&lt;https&#x3A;>,
-  blockExplorerAddr: '&lt;https&#x3A;>,
+  homePage: '<https:>,
+  blockExplorerTX: '<https:>,
+  blockExplorerAddr: '<https:>,
   chainID: 820,
   tokens: tokens,
   contracts: contracts,

@@ -16,6 +16,7 @@ primary_category: security-and-privacy
 primary_category_display_name: "Безопасность и Приватность"
 alias:
   - addresses/creating-new-accounts-for-eth-and-tokens.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?**

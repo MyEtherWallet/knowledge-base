@@ -14,6 +14,7 @@ primary_category: transactions
 primary_category_display_name: "Транзакции"
 alias:
   - transactions/check-status-of-ethereum-transaction.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Отмена или замена транзакции после её отправки**

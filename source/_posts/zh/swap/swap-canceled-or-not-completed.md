@@ -12,6 +12,7 @@ primary_category: swap
 primary_category_display_name: "Swap"
 alias:
   - en/swap/swap-wasnt-completed-or-was-canceled.html
+author: MyEtherWallet (MEW)
 ---
 
 # **Swap Was Canceled or Wasn’t Completed**

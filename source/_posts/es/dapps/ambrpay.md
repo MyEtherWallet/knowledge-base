@@ -13,6 +13,7 @@ categories:
     - dapps
 primary_category: dapps
 primary_category_display_name: "DApps"
+author: MyEtherWallet (MEW)
 ---
 
 # **Set up Recurring Payments with Ambrpay**
