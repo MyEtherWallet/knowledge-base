@@ -44,16 +44,16 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 
 ## **Risks Involved:**
 
-* When you begin this process, you’ll have a time window of 24 hours in total to complete the Bitcoin transfer. If you do not complete the transfer and 6 confirmations within the 24 hour time-frame, your BTC will be burned.
-* This transferral process is built by RenVM, so it’s important to do your research into the risks associated with their platform and product. Also, all value for renBTC is protected by RenVM, but if something happens to RenVM, we cannot guarantee the BTC peg for renBTC.
-* It is recommended that you use a substantial Bitcoin gas fee when making this transfer, because if anything goes wrong or the process fails, your BTC will be burned during the transferral process.
-* If you send an amount of BTC that is too small, it will all be used up in the fees for this process, so make sure you send a substantial amount. 
+-   When you begin this process, you’ll have a time window of 24 hours in total to complete the Bitcoin transfer. If you do not complete the transfer and 6 confirmations within the 24 hour time-frame, your BTC will be burned.
+-   This transferral process is built by RenVM, so it’s important to do your research into the risks associated with their platform and product. Also, all value for renBTC is protected by RenVM, but if something happens to RenVM, we cannot guarantee the BTC peg for renBTC.
+-   It is recommended that you use a substantial Bitcoin gas fee when making this transfer, because if anything goes wrong or the process fails, your BTC will be burned during the transferral process.
+-   If you send an amount of BTC that is too small, it will all be used up in the fees for this process, so make sure you send a substantial amount. 
 
 <br>
 
 #### **Here is a breakdown of the fees involved, which are also displayed during the transferral process:**
 
-* 1% MEW service fee
-* 0.1% RenVM network fee
-* 0.000007 BTC as a flat gas fee by RenVM (which can increase during times of high volume)
-* Ethereum gas fee, determined by network congestion
+-   1% MEW service fee
+-   0.1% RenVM network fee
+-   0.000007 BTC as a flat gas fee by RenVM (which can increase during times of high volume)
+-   Ethereum gas fee, determined by network congestion
