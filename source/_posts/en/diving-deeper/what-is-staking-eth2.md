@@ -43,6 +43,9 @@ Staking ETH means depositing it into an Eth2 staking contract through a speciali
 To stay informed about the progress of Eth2, please follow MEW on official social media channels, such as [Twitter][mewt] or [Facebook][mewf], as well as our [Medium][mewme] and [MEWtopia][mewb] blogs.
 
 [mewt]: https://twitter.com/myetherwallet
+
 [mewf]: https://www.facebook.com/MyEtherWallet/
+
 [mewme]: https://medium.com/@myetherwallet
+
 [mewb]: https://www.mewtopia.com/
