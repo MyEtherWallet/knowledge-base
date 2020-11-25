@@ -69,7 +69,6 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 
 **Step 4.** Enter the amount of renBTC you'd like to send back, then continue.
 
-
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <img src="/images/posts/mewconnect/mw6.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
 <img src="/images/posts/mewconnect/mw7.PNG" alt="Image of MEW wallet connected successfully" style="max-width: 250px;" />
