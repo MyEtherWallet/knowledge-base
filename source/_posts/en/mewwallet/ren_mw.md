@@ -80,8 +80,8 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 
 ## **Risks Involved:**
 
-- When you begin this process, make sure you send your Bitcoin within the 12 hour time limit and use a high gas fee. If the Bitcoin transaction and 6 confirmations don’t go through in 24 hours, the Bitcoin can get stuck. Most of the time, Ren will be able to recover it for you, but in rare edge-cases, this Bitcoin could be permanently lost.
-- Don't send your Bitcoin directly from a centralized exchange. Most centralized exchanges pool many different users together under a few addresses. If something goes wrong with the process, and your BTC is sent back to you, an exchange may have trouble knowing this BTC is meant for you. 
+-   When you begin this process, make sure you send your Bitcoin within the 12 hour time limit and use a high gas fee. If the Bitcoin transaction and 6 confirmations don’t go through in 24 hours, the Bitcoin can get stuck. Most of the time, Ren will be able to recover it for you, but in rare edge-cases, this Bitcoin could be permanently lost.
+-   Don't send your Bitcoin directly from a centralized exchange. Most centralized exchanges pool many different users together under a few addresses. If something goes wrong with the process, and your BTC is sent back to you, an exchange may have trouble knowing this BTC is meant for you. 
 -   If you send an amount of BTC that is too small, it will all be used up in the fees for this process, so make sure you send a substantial amount. 
 -   This transferral process is built by RenVM, so it’s important to do your research into the risks associated with their platform and product. Also, all value for renBTC is protected by RenVM, but if something happens to RenVM, we cannot guarantee the BTC peg for renBTC.
 
