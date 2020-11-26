@@ -44,7 +44,12 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 <img src="/images/posts/mewconnect/mw3.PNG" alt="Изображение успешного подключения MEW wallet" style="max-width: 250px;" />
 </div>
 
-<img src="/images/posts/mewconnect/mw4.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<img src="/images/posts/mewconnect/mw8.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mw9.PNG" alt="Изображение успешного подключения MEW wallet" style="max-width: 250px;" />
+</div>
+
+<img src="/images/posts/mewconnect/mw10.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
 
 **Step 4.** Once the deposit has been detected, there will be a process of 6 confirmations to confirm the deposit. This process will take a while.
 
