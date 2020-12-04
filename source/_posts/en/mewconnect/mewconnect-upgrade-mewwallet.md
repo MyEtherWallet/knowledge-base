@@ -54,8 +54,12 @@ The MEW wallet app is available now for both iOS and Android mobile devices.
 **Step 3.** Open the MEW wallet app and click ‘Create a free wallet’. Since you have MEWconnect installed, it will ask if you wish to import your existing account over. Click ‘Import’.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mwmigrate3.PNG" alt="Image of MEW wallet create page" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mwmigrate5.PNG" alt="Image of MEW wallet- MEWconnect import" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mwmigrate3.PNG" alt="Image of MEW wallet create page" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mwmigrate5.PNG" alt="Image of MEW wallet- MEWconnect import" />
+  </div>
 </div>
 
 **Step 4.** Enter the password you use for MEWconnect, then select ‘Import’ again. You’ll be asked to create a PIN. This is similar to the password used for MEWconnect, but you won’t need to use it often if you enable biometric authentication (such as a Fingerprint or FaceID). 
@@ -71,8 +75,12 @@ The MEW wallet app is available now for both iOS and Android mobile devices.
 **Step 6.** You’re done! Check out our [MEW wallet User Guide][mwguide] to see some of the cool new things you can do with the MEW wallet app.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mwmigrate7.PNG" alt="Image of MEW wallet account generating" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mwmigrate8.PNG" alt="Image of MEW wallet migrated account" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mwmigrate7.PNG" alt="Image of MEW wallet account generating" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mwmigrate8.PNG" alt="Image of MEW wallet migrated account" />
+  </div>
 </div>
 
 * * *
