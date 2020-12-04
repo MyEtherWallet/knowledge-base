@@ -69,26 +69,28 @@ _Пожалуйста, приобретайте аппаратные кошел�
 
 **Шаг 7.** Вы увидите список адресов. Это новые адреса, доступные для выбора в качестве вашего основного кошелька! Выберите один из пяти, который вам нравится. (Большинство людей выбирают первый, но это не обязательно.)
 
-<img src="/images/posts/hardware-wallet/ledger/Ledger2.png" alt="Изображение выбора сети Ledger" width="41.3%" /> <img src="/images/posts/hardware-wallet/ledger/Ledger3.png" alt="Выбор пути деривации для Ledger" width="50%" />
+<img src="/images/posts/hardware-wallet/ledger/Ledger2.png" alt="Изображение выбора сети Ledger" width="41.3%" />
+
+<img src="/images/posts/hardware-wallet/ledger/Ledger3.png" alt="Image of Ledger derivation path choice" width="50%" />
 
 * * *
 
-**Шаг 8.** Теперь вас должны перенаправить в окно, очень похожее на окно доступа к вашему старому кошельку. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Ledger!
+**Step 8.** You should now be taken to a screen that looks very similar to your old wallet’s access screen. Отличная работа! You’re officially using your new Ledger hardware wallet!
 
-<img src="/images/posts/hardware-wallet/ledger/LEdger4.png" alt="Изображение выбора адреса Ledger" width="50%" />
+<img src="/images/posts/hardware-wallet/ledger/LEdger4.png" alt="Image of Ledger address choice" width="50%" />
 
 ## **А что насчет моего старого кошелька???**
 
-Если вы переходите со старого кошелька и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе Ledger, вам нужно будет перевести средства на новый адрес через обычную транзакцию. Это можно сделать, войдя в ваш старый кошелек с помощью MEW wallet, MetaMask, файла хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Ledger). Переведите свои ETH и токены на новый адрес Ledger с более безопасным доступом.
+If you are coming from an old wallet and want your ETH and tokens on your new, secure Ledger address, you will need to send your funds to your new address through regular transactions. This can be achieved by accessing your old wallet through MEW wallet, MetaMask, Keystore file, or private key (however you usually did it before the Ledger). From here, send your ETH and tokens to your new Ledger address, ready to be accessed in a more secure fashion.
 
 Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 
 ## **Как мне восстановить доступ к Ledger на новом устройстве?**
 
-У Ledger есть [понятное и простое руководство](https://support.ledger.com/hc/en-us/articles/360005434914-Restore-from-recovery-phrase) о том, как восстановить ваше устройство.
+Ledger made a [clear and easy to follow guide](https://support.ledger.com/hc/en-us/articles/360005434914-Restore-from-recovery-phrase) on how to restore your Ledger device.
 
 ## **Решение проблем**
 
-Большинство проблем с Ledger можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), установки опции "Данные о контракте" на ‘Yes’, использования последней версии прошивки, а также нового кабеля для подключения.
+Most issues with the Ledger can be fixed by performing a hard refresh (using CTRL+F5), making sure Contract Data is turned to ‘Yes’, confirming that all the firmware is updated to its latest release, and trying a new connecting cable.
 
 Как всегда, не стесняйтесь связаться с нами по адресу [support@myetherwallet.com.](mailto:support@myetherwallet.com.) Мы всегда рады помочь!
