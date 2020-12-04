@@ -153,7 +153,14 @@ If you do not remember your password and do not have your 24-word recovery phras
 
 <img src="/images/posts/mewconnect/ForgotPassMC.jpg" alt="Image of MEWconnect log-in screen" width="35%" />
 
-<img src="/images/posts/mewconnect/MainResetMC.jpg" alt="Image of MEWconnect 'Forgot Password' screen" width="30%" /> <img src="/images/posts/mewconnect/InfoResetMC.jpg" alt="Image of MEWconnect settings page" width="30%" />
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/MainResetMC.jpg" alt="Image of MEWconnect 'Forgot Password' screen" width="30%">
+</div> 
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/InfoResetMC.jpg" alt="Image of MEWconnect settings page" width="30%">
+</div>
+</div>
 
 **Step 2.** Enter your 24-word recovery phrase. Make sure each word is in the correct order and spelled accurately.
 
