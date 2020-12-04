@@ -50,23 +50,35 @@ author: MyEtherWallet (MEW)
 <br>
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate2.jpg" alt="Image of MEW wallet safety tips part 1" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate3.jpg" alt="Image of MEW wallet safety tips part 2" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate2.jpg" alt="Image of MEW wallet safety tips part 1" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate3.jpg" alt="Image of MEW wallet safety tips part 2" />
+  </div>
 </div>
  
 **Step 4.** Choose a strong pin code. 
 * You can also enable additional biometric access, such as a fingerprint or facial recognition.
  
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate4.jpg" alt="Image of MEW wallet create a pin" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate5.jpg" alt="Image of MEW wallet enable fingerprint or facial recognition" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate4.jpg" alt="Image of MEW wallet create a pin" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate5.jpg" alt="Image of MEW wallet enable fingerprint or facial recognition" />
+  </div>
 </div>
  
 **Step 5.** Wait for your account to generate, then select ‘Start using MEW wallet’.
  
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate6.jpg" alt="Image of MEW wallet generating a new wallet" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate7.jpg" alt="Image of newly created MEW wallet account" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate6.jpg" alt="Image of MEW wallet generating a new wallet" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate7.jpg" alt="Image of newly created MEW wallet account" />
+  </div>
 </div>
 
 ##### \_\_
@@ -125,8 +137,12 @@ author: MyEtherWallet (MEW)
 * If you're using an iOS device in the US, Apply Pay makes buying ETH as easy as clicking a button!
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mewwallet1.png" alt="Image of MEW wallet buy ETH selection" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mewwallet2.png" alt="Image of MEW wallet Apple Pay" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mewwallet1.png" alt="Image of MEW wallet buy ETH selection" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mewwallet2.png" alt="Image of MEW wallet Apple Pay"/>
+  </div>
 </div>
 
 <img src="/images/posts/mewconnect/mbuyeth2.jpg" alt="Image of MEW wallet Android payment" style="max-width: 250px;" />
@@ -191,15 +207,23 @@ author: MyEtherWallet (MEW)
 -   Select a fast gas price for a smoother transaction. Gas is always paid in ETH.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mwethamount.png" alt="Image of MEW wallet transaction" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwgasfees.png" alt="Image of MEW wallet gas fees" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwethamount.png" alt="Image of MEW wallet transaction" />
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwgasfees.png" alt="Image of MEW wallet gas fees" />
+</div>
 </div>
 
 **Step 4.** Confirm your transaction and wait a moment for it to process.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Image of MEW wallet processing transaction" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Image of MEW wallet successful transaction" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Image of MEW wallet processing transaction" />
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Image of MEW wallet successful transaction" />
+</div>
 </div>
 
 **Step 5.** You're done! Your transaction will appear in 'Recent transactions' under your account card.
@@ -233,8 +257,12 @@ author: MyEtherWallet (MEW)
 -   You may need to double-check your camera permissions in the settings on your phone.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mwcard.jpg" alt="Image of MEW wallet main page" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Image of MEW wallet scanning QR code" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwcard.jpg" alt="Image of MEW wallet main page" />
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Image of MEW wallet scanning QR code" />
+</div>
 </div>
 
 **Step 4.** Congratulations, you've connected your MEW wallet mobile account to MEW web!

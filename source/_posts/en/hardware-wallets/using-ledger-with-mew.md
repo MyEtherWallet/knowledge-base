@@ -69,7 +69,9 @@ Without further ado, let’s begin!
 
 **Step 7.** You will see a list of addresses. These are your new addresses to choose from for your main wallet! Choose one out of the five that you like. (Most people choose the first one, but you don’t have to.)
 
-<img src="/images/posts/hardware-wallet/ledger/Ledger2.png" alt="Image of Ledger network choice" width="41.3%"> <img src="/images/posts/hardware-wallet/ledger/Ledger3.png" alt="Image of Ledger derivation path choice" width="50%">
+<img src="/images/posts/hardware-wallet/ledger/Ledger2.png" alt="Image of Ledger network choice" width="41.3%">
+
+<img src="/images/posts/hardware-wallet/ledger/Ledger3.png" alt="Image of Ledger derivation path choice" width="50%">
 
 * * *
 
