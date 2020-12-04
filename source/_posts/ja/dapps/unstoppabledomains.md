@@ -65,11 +65,13 @@ Both of these addresses lead to the same wallet destination, but the Unstoppable
 -   Unstoppable Domains allows you to purchase the domain with fiat through a Credit Card, if you want to. This process is handled by a third party service called Stripe.
 
 <img src="/images/posts/diving-deeper/ud3.png" alt="Image of UD credit card payment" width="100%" />
+
 <img src="/images/posts/diving-deeper/ud4.png" alt="Image of UD crypto payment" width="100%" />
 
 **Step 6.** After confirming the transaction, your domain request will process for a moment. When it's done, you will be redirected to a page that tells you to wait around 5 - 10 minutes.
 
 <img src="/images/posts/diving-deeper/ud5.png" alt="Image of payment confirmation" width="100%" />
+
 <img src="/images/posts/diving-deeper/ud7.png" alt="Image of UD payment processing" width="100%" />
 
 **Step 7.** After the processing is completed, you're done! Your new domain will be transferred to the wallet you used to purchase it.
