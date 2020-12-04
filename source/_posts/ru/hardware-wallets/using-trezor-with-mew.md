@@ -97,34 +97,36 @@ _Пожалуйста, приобретайте аппаратные кошел�
 
 **Шаг 4.** MEW вернет вас на страницу с разными сетями и путями деривации. Выберите сеть, к которой хотите подключиться, и путь деривации. Для использования обычного ETH вы должны быть в сети ETH с путем деривации Ethereum. Вы также можете получить доступ к другим сетям, таким как Ethereum Classic (ETC), выбрав соответствующую опцию.
 
-<img src="/images/posts/hardware-wallet/trezor/Trezor16.png" alt="Изображение разрешений Trezor" width="40%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor12.png" alt="Изображение экрана экспорта ключей Trezor" width="40%" />
+<img src="/images/posts/hardware-wallet/trezor/Trezor16.png" alt="Изображение разрешений Trezor" width="40%" />
 
-<img src="/images/posts/hardware-wallet/trezor/Trezor17.png" alt="Изображение подтверждения пин кода Trezor" width="40%" />
+<img src="/images/posts/hardware-wallet/trezor/Trezor12.png" alt="Image of Trezor export keys screen" width="40%" />
 
-* * *
-
-**Шаг 5.** Вы увидите список адресов. Это новые адреса, доступные для выбора в качестве вашего основного кошелька! Выберите один из пяти, который вам нравится. (Большинство людей выбирают первый, но это не обязательно.)
-
-<img src="/images/posts/hardware-wallet/trezor/Trezor13.png" alt="Изображение выбора сети Trezor" width="42.5%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor14.png" alt="Изображение выбора пути деривации для Trezor" width="50%" />
+<img src="/images/posts/hardware-wallet/trezor/Trezor17.png" alt="Image of Trezor access pin confirmation" width="40%" />
 
 * * *
 
-**Шаг 6.** Теперь вас должны перенаправить в окно, очень похожее на окно доступа к вашему старому кошельку. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Trezor!
+**Step 5.** You will see a list of addresses. Это новые адреса, доступные для выбора в качестве вашего основного кошелька! Выберите один из пяти, который вам нравится. (Большинство людей выбирают первый, но это не обязательно.)
 
-<img src="/images/posts/hardware-wallet/trezor/Trezor15.png" alt="Изображение выбора адреса Trezor" width="50%" />
+<img src="/images/posts/hardware-wallet/trezor/Trezor13.png" alt="Image of Trezor network choice" width="42.5%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor14.png" alt="Image of Trezor derivation path choice" width="50%" />
+
+* * *
+
+**Step 6.** You should now be taken to a screen that looks very similar to your old wallet’s access screen. Отличная работа! You’re officially using your new Trezor hardware wallet!
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor15.png" alt="Image of Trezor address choice" width="50%" />
 
 ## **А что насчет моего старого кошелька???**
 
-Если вы переходите со старого кошелька и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе Trezor, вам нужно будет перевести средства на новый адрес через обычную транзакцию. Это можно сделать, войдя в ваш старый кошелек с помощью MEW wallet, MetaMask, файла хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Trezor). Переведите свои ETH и токены на новый адрес Trezor с более безопасным доступом.
+If you are coming from an old wallet and want your ETH and tokens on your new, secure Trezor address, you will need to send your funds to your new address through regular transactions. This can be achieved by accessing your old wallet through MEW wallet, MetaMask, Keystore file, or private key (however you usually did it before the Trezor). From here, send your ETH and tokens to your new Trezor address, ready to be accessed in a more secure fashion.
 
 Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 
 ## **Как мне восстановить доступ к Trezor на новом устройстве?**
 
-У Trezor есть [понятное и простое руководство](https://wiki.trezor.io/User_manual:Recovery) о том, как восстановить ваше устройство.
+Trezor made a [clear and easy to follow guide](https://wiki.trezor.io/User_manual:Recovery) on how to restore your Trezor device.
 
 ## **Решение проблем**
 
-Большинство проблем с Trezor можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также нового кабеля для подключения.
+Most issues with the Trezor can be fixed by performing a hard refresh (using CTRL+F5), making sure all the firmware is updated to its latest release, and trying a new connecting cable.
 
 Как всегда, не стесняйтесь связаться с нами по адресу [support@myetherwallet.com.](mailto:support@myetherwallet.com.) Мы всегда рады помочь!
