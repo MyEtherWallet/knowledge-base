@@ -41,21 +41,33 @@ author: MyEtherWallet (MEW)
 **Шаг 4.** DEX.AG покажет несколько децентрализованных бирж, предлагающих конкурентоспособные цены. Выберите тариф, который подходит для вас, затем выберите 'Продолжить обмен'. Пожалуйста ознакомьтесь с деталями вашего обмена прежде чем продолжить.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mws4.jpg" alt="Изображение MEW wallet выбрать курс" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mws5.jpg" alt="Изображение MEW wallet продолжить обмен" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mws4.jpg" alt="Image of MEW wallet select best rate" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mws5.jpg" alt="Image of MEW wallet proceed with swap" />
+  </div>
 </div>
 
 **Шаг 5.** Ваш обмен будет инициирован, и вы можете посмотреть статус обмена в режиме реального времени в секции Exchange MEW кошелька.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mws7.jpg" alt="Изображение MEW wallet ожидание обмена" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mws8.jpg" alt="Изображение MEW wallet обмен завершен" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mws7.jpg" alt="Image of MEW wallet swap pending" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mws8.jpg" alt="Image of MEW wallet swap completed" />
+  </div>
 </div>
 
 **Шаг 6.** После завершения обмена вы увидите что ваш баланс обновлен. Для получения подробной информации обо всех активах, которые вы храните, нажмите на красочную карту аккаунта на главной странице.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mws9.jpg" alt="Изображение MEW wallet обновленный баланс" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mws10.jpg" alt="Изображение деталей аккаунта MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mws9.jpg" alt="Image of MEW wallet updated balance" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mws10.jpg" alt="Image of MEW wallet full account details" />
+  </div>
 </div>
 [Mwcreate]: /@@@@@@/mewwallet/mewwallet-user-guide
