@@ -50,24 +50,35 @@ author: MyEtherWallet (MEW)
 <br>
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate2.jpg" alt="Изображение советов безопасности MEW wallet, часть 1" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate3.jpg" alt="Изображение советов безопасности MEW wallet, часть 2" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate2.jpg" alt="Image of MEW wallet safety tips part 1" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate3.jpg" alt="Image of MEW wallet safety tips part 2" />
+  </div>
 </div>
 
 **Шаг 4.** Выберите надежный Pin-код.
-
--   Вы также можете включить биометрический доступ, например, по отпечатку пальца или с помощью распознавания лица.
+* Вы также можете включить биометрический доступ, например, по отпечатку пальца или с помощью распознавания лица.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate4.jpg" alt="Изображение MEW wallet создайте пин код" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate5.jpg" alt="Изображение MEW wallet активировать сканер или распознавание лица" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate4.jpg" alt="Image of MEW wallet create a pin" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate5.jpg" alt="Image of MEW wallet enable fingerprint or facial recognition" />
+  </div>
 </div>
 
 **Шаг 5.** Подождите, пока будет сгенерирован ваш аккаунт, а затем выберите "Начать пользоваться MEW wallet".
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mcreate6.jpg" alt="Изображение MEW wallet создание нового кошелька" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mcreate7.jpg" alt="Изображение новой учетной записи MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate6.jpg" alt="Image of MEW wallet generating a new wallet" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mcreate7.jpg" alt="Image of newly created MEW wallet account" />
+  </div>
 </div>
 
 ##### \_\_
@@ -93,10 +104,9 @@ author: MyEtherWallet (MEW)
 <img src="/images/posts/mewconnect/mbackup2.jpg" alt="Изображение деталей резервного копирования MEW wallet" style="max-width: 250px; width: 100%;" />
 
 **Шаг 2.** Возьмите ручку и лист бумаги, и запишите появившиеся 24 слова.
-
--   Сохраняйте порядок слов, которые вы видите, и тщательно проверьте, правильно ли они записаны.
--   Лучше всего записать эту фразу 2-3 раза на разных листах бумаги и хранить их в разных безопасных местах.
--   Мы не сможем восстановить эту фразу для вас, но любой человек, у которого есть доступ к ней, получит постоянный доступ к вашим средствам.
+* Сохраняйте порядок слов, которые вы видите, и тщательно проверьте, правильно ли они записаны.
+* Лучше всего записать эту фразу 2-3 раза на разных листах бумаги и хранить их в разных безопасных местах.
+* Мы не сможем восстановить эту фразу для вас, но любой человек, у которого есть доступ к ней, получит постоянный доступ к вашим средствам.
 
 <img src="/images/posts/mewconnect/mbackup3.jpg" alt="Изображение подготовки резервного копирования MEW wallet" style="max-width: 250px;" />
 
@@ -124,12 +134,15 @@ author: MyEtherWallet (MEW)
 <img src="/images/posts/mewconnect/mcreate7.jpg" alt="Изображение главной страницы MEW wallet" style="max-width: 250px;" />
 
 **Шаг 2.** Выберите сумму, которую вы хотите приобрести, или введите свою сумму (до 250 долларов США в эквиваленте).
-
--   Если вы используете iOS в США, Apply Pay позволяет покупать ETH одним нажатием кнопки!
+* Если вы используете iOS в США, Apply Pay позволяет покупать ETH одним нажатием кнопки!
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mewwallet1.png" alt="Изображение покупки ETH в MEW wallet" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mewwallet2.png" alt="Изображение Apple Pay в MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mewwallet1.png" alt="Image of MEW wallet buy ETH selection" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mewwallet2.png" alt="Image of MEW wallet Apple Pay"/>
+  </div>
 </div>
 
 <img src="/images/posts/mewconnect/mbuyeth2.jpg" alt="Изображение платежа в MEW wallet на Андроиде" style="max-width: 250px;" />
@@ -140,7 +153,7 @@ author: MyEtherWallet (MEW)
 
 **Шаг 4.** Ваш новый баланс отобразится в аккаунте в ближайшее время!
 
-##### \_\_
+##### __
 
 ## **Добавьте Аккаунты**
 
@@ -157,9 +170,8 @@ author: MyEtherWallet (MEW)
 <img src="/images/posts/mewconnect/madd2.jpg" alt="Изображение названия дополнительных учетных записей MEW wallet" style="max-width: 250px;" />
 
 **Шаг 3.** Вы должны увидеть генерирование нового аккаунта.
-
--   Этот аккаунт также связан с фразой для восстановления из раздела "Резервное копирование вашего аккаунта".
--   При восстановлении основной учетной записи, все последующие учетные записи также будут восстановлены. Вам просто нужно добавить их снова как обычные 'дополнительные' аккаунты.
+* Этот аккаунт также связан с фразой для восстановления из раздела "Резервное копирование вашего аккаунта".
+* При восстановлении основной учетной записи, все последующие учетные записи также будут восстановлены. Вам просто нужно добавить их снова как обычные 'дополнительные' аккаунты.
 
 <img src="/images/posts/mewconnect/madd3.jpg" alt="Изображение созданной дополнительной учетной записи в MEW wallet" style="max-width: 250px;" />
 
@@ -195,15 +207,23 @@ author: MyEtherWallet (MEW)
 -   Выберите быструю цену газа для гарантии успешной транзакции. Газ всегда оплачивается в ETH.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mwethamount.png" alt="Изображение транзакции MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwgasfees.png" alt="Изображение комиссии за газ в MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwethamount.png" alt="Image of MEW wallet transaction" />
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwgasfees.png" alt="Image of MEW wallet gas fees" />
+</div>
 </div>
 
 **Шаг 4.** Подтвердите транзакцию и подождите, пока она будет обработана.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Изображение обработки транзакции v MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Изображение успешной транзакции в MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Image of MEW wallet processing transaction" />
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Изображение успешной транзакции в MEW wallet" />
+</div>
 </div>
 
 **Шаг 5.** Готово! Ваша транзакция появится в разделе «Последние транзакции» под картой вашего аккаунта.
@@ -237,8 +257,12 @@ author: MyEtherWallet (MEW)
 -   Возможно, вам потребуется проверить права доступа к камере в настройках телефона.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mwcard.jpg" alt="Изображение главной страницы MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwcard.jpg" alt="Изображение главной страницы MEW wallet" />
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Image of MEW wallet scanning QR code" />
+</div>
 </div>
 
 **Шаг 4.** Поздравляем, вы подключили свое приложение MEW wallet к MEW web!
