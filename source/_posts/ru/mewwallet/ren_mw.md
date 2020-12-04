@@ -35,16 +35,32 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 
 **Step 2.** Tap the double-sided arrow in the bottom row to go to the ‘Swap’ section, then select ‘Move Bitcoin to Ethereum’.
 
-<img src="/images/posts/mewconnect/mw1.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
-
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mw1.PNG" alt="Изображение сканирования QR-кода в MEW wallet" />
+</div>
 **Step 3.** You will be given a temporary ‘Deposit Address’ for BTC that will last for 12 hours. Send the designated amount of BTC to this temporary address in order to begin the process of moving it to your MEW wallet account. 
 
-<div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mw2.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mw3.PNG" alt="Изображение успешного подключения MEW wallet" style="max-width: 250px;" />
+<div class="d-flex justify-content-space-around flex-wrap margin-0">
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw2.PNG" alt="Изображение сканирования QR-кода в MEW wallet" />
+  </div>
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw3.PNG" alt="Изображение успешного подключения MEW wallet" />
+  </div>
 </div>
 
-<img src="/images/posts/mewconnect/mw4.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
+<div class="d-flex justify-content-space-around flex-wrap margin-0">
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw8.PNG" alt="Изображение сканирования QR-кода в MEW wallet" />
+  </div>
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw9.PNG" alt="Изображение успешного подключения MEW wallet" />
+  </div>
+</div>
+
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mw10.PNG" alt="Изображение сканирования QR-кода в MEW wallet" />
+</div>
 
 **Step 4.** Once the deposit has been detected, there will be a process of 6 confirmations to confirm the deposit. This process will take a while.
 
@@ -52,7 +68,9 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 
 **Шаг 6.** Готово! Once you’ve received your renBTC, you can begin swapping it for other tokens, using it in DeFi apps, or you can just hold onto it.
 
-<img src="/images/posts/mewconnect/mw5.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mw5.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
+</div>
 
 ### **Moving Back to Bitcoin**
 
@@ -65,14 +83,19 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 <img src="/images/posts/mewconnect/mw1.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
 
 **Step 3.** From here, select 'Move back to BTC'.
-
-<img src="/images/posts/mewconnect/mw2.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mw2.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;"/>
+</div>
 
 **Step 4.** Enter the amount of renBTC you'd like to send back, then continue.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mw6.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mw7.PNG" alt="Изображение успешного подключения MEW wallet" style="max-width: 250px;" />
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw6.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
+  </div>
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw7.PNG" alt="Изображение успешного подключения MEW wallet" style="max-width: 250px;" />
+  </div>
 </div>
 
 **Step 5.** Set your BTC deposit address, select 'Proceed with move', and your transfer back to BTC will begin.
@@ -81,10 +104,10 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 
 ## **Risks Involved:**
 
--   When you begin this process, you’ll have a time window of 24 hours in total to complete the Bitcoin transfer. **If you do not complete the transfer and 6 confirmations within the 24 hour time-frame, your BTC will be burned.**
--   This transferral process is built by RenVM, so it’s important to do your research into the risks associated with their platform and product. Also, all value for renBTC is protected by RenVM, but if something happens to RenVM, we cannot guarantee the BTC peg for renBTC.
--   It is recommended that you use a substantial Bitcoin gas fee when making this transfer, because if anything goes wrong or the process fails, your BTC will be burned during the transferral process.
+-   When you begin this process, make sure you send your Bitcoin within the 12 hour time limit and use a high gas fee. If the Bitcoin transaction and 6 confirmations don’t go through in 24 hours, the Bitcoin can get stuck. Most of the time, Ren will be able to recover it for you, but in rare edge-cases, this Bitcoin could be permanently lost.
+-   Don't send your Bitcoin directly from a centralized exchange. Most centralized exchanges pool many different users together under a few addresses. If something goes wrong with the process, and your BTC is sent back to you, an exchange may have trouble knowing this BTC is meant for you.
 -   If you send an amount of BTC that is too small, it will all be used up in the fees for this process, so make sure you send a substantial amount.
+-   This transferral process is built by RenVM, so it’s important to do your research into the risks associated with their platform and product. Also, all value for renBTC is protected by RenVM, but if something happens to RenVM, we cannot guarantee the BTC peg for renBTC.
 
 <br>
 
