@@ -54,8 +54,12 @@ MEW wallet app доступен для мобильных устройств iOS
 **Шаг 3.** Откройте приложение MEW wallet и нажмите кнопку «Создать бесплатный кошелек». Поскольку у вас установлен MEWconnect, приложение предложит вам импортировать ваш существующий аккаунт. Нажмите «Импортировать».
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mwmigrate3.PNG" alt="Изображение страницы MEW wallet 'Создать кошелек'" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mwmigrate5.PNG" alt="Изображение MEW wallet - импорт MEWconnect" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mwmigrate3.PNG" alt="Image of MEW wallet create page" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mwmigrate5.PNG" alt="Image of MEW wallet- MEWconnect import" />
+  </div>
 </div>
 
 **Шаг 4.** Введите пароль, который вы используете для MEWconnect, затем выберите «Import» снова. Вам будет предложено создать PIN-код. Это похоже на пароль, используемый для MEWconnect, но вам не нужно будет использовать его часто, если вы включите биометрическую аутентификацию (например, отпечаток пальца или FaceID).
@@ -71,8 +75,12 @@ MEW wallet app доступен для мобильных устройств iOS
 **Шаг 6.** Готово! Ознакомьтесь с нашим [руководством пользователя MEW wallet app](/@@@@@@/mewwallet/mewwallet-user-guide/) , чтобы узнать что вы можете делать с новым приложением.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-  <img src="/images/posts/mewconnect/mwmigrate7.PNG" alt="Изображение генерации аккаунта MEW wallet" style="max-width: 250px;" />
-  <img src="/images/posts/mewconnect/mwmigrate8.PNG" alt="Изображение мигрированного MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mwmigrate7.PNG" alt="Image of MEW wallet account generating" />
+  </div>
+  <div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mwmigrate8.PNG" alt="Image of MEW wallet migrated account" />
+  </div>
 </div>
 
 * * *
@@ -88,3 +96,4 @@ MEW wallet app доступен для мобильных устройств iOS
 <div class="youtube-video">
 <iframe width="678" height="400" src="https://www.youtube.com/embed/oN54-tVl4z8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
