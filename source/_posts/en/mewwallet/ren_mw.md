@@ -61,7 +61,6 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
   <img src="/images/posts/mewconnect/mw10.PNG" alt="Image of MEW wallet scanning the QR code" />
 </div>
 
-
 **Step 4.** Once the deposit has been detected, there will be a process of 6 confirmations to confirm the deposit. This process will take a while. 
 
 **Step 5.** After the 6 confirmations are completed, your renBTC will be minted and sent directly to your MEW wallet account address.
@@ -83,6 +82,7 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 <img src="/images/posts/mewconnect/mw1.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
 
 **Step 3.** From here, select 'Move back to BTC'.
+
 <div class="wrap-mobile-phone">
   <img src="/images/posts/mewconnect/mw2.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;"/>
 </div>
