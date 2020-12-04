@@ -97,7 +97,9 @@ Without further ado, let’s begin!
 
 **Step 4.** MEW will bring you back to a page showing different networks and derivation paths. Choose which network you’d like to connect to, and which path you’d like to use. For regular ETH usage, you should be on an ETH network, under the Ethereum derivation path. You can also access other networks, such as Ethereum Classic (ETC), by choosing the related network path.
 
-<img src="/images/posts/hardware-wallet/trezor/Trezor16.png" alt="Image of Trezor permissions" width="40%" /> <img src="/images/posts/hardware-wallet/trezor/Trezor12.png" alt="Image of Trezor export keys screen" width="40%" />
+<img src="/images/posts/hardware-wallet/trezor/Trezor16.png" alt="Image of Trezor permissions" width="40%" />
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor12.png" alt="Image of Trezor export keys screen" width="40%" />
 
 <img src="/images/posts/hardware-wallet/trezor/Trezor17.png" alt="Image of Trezor access pin confirmation" width="40%" />
 
