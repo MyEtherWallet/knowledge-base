@@ -35,21 +35,32 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 
 **Step 2.** Tap the double-sided arrow in the bottom row to go to the ‘Swap’ section, then select ‘Move Bitcoin to Ethereum’.
 
-<img src="/images/posts/mewconnect/mw1.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
-
+<div class="wrap-mobile-phone">
+<img src="/images/posts/mewconnect/mw1.PNG" alt="Image of MEW wallet scanning the QR code" />
+</div>
 **Step 3.** You will be given a temporary ‘Deposit Address’ for BTC that will last for 12 hours. Send the designated amount of BTC to this temporary address in order to begin the process of moving it to your MEW wallet account. 
 
-<div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mw2.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mw3.PNG" alt="Image of MEW wallet connected successfully" style="max-width: 250px;" />
+<div class="d-flex justify-content-space-around flex-wrap margin-0">
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw2.PNG" alt="Image of MEW wallet scanning the QR code" />
+  </div>
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw3.PNG" alt="Image of MEW wallet connected successfully" />
+  </div>
 </div>
 
-<div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mw8.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mw9.PNG" alt="Image of MEW wallet connected successfully" style="max-width: 250px;" />
+<div class="d-flex justify-content-space-around flex-wrap margin-0">
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw8.PNG" alt="Image of MEW wallet scanning the QR code" />
+  </div>
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw9.PNG" alt="Image of MEW wallet connected successfully" />
+  </div>
 </div>
 
-<img src="/images/posts/mewconnect/mw10.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mw10.PNG" alt="Image of MEW wallet scanning the QR code" />
+</div>
 
 **Step 4.** Once the deposit has been detected, there will be a process of 6 confirmations to confirm the deposit. This process will take a while.
 
@@ -57,7 +68,9 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 
 **Step 6.** You’re done! Once you’ve received your renBTC, you can begin swapping it for other tokens, using it in DeFi apps, or you can just hold onto it.
 
-<img src="/images/posts/mewconnect/mw5.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mw5.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
+</div>
 
 ### **Moving Back to Bitcoin**
 
@@ -70,14 +83,19 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 <img src="/images/posts/mewconnect/mw1.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
 
 **Step 3.** From here, select 'Move back to BTC'.
-
-<img src="/images/posts/mewconnect/mw2.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+  <img src="/images/posts/mewconnect/mw2.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;"/>
+</div>
 
 **Step 4.** Enter the amount of renBTC you'd like to send back, then continue.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/mewconnect/mw6.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
-<img src="/images/posts/mewconnect/mw7.PNG" alt="Image of MEW wallet connected successfully" style="max-width: 250px;" />
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw6.PNG" alt="Image of MEW wallet scanning the QR code" style="max-width: 250px;" />
+  </div>
+  <div class="wrap-mobile-phone">
+    <img src="/images/posts/mewconnect/mw7.PNG" alt="Image of MEW wallet connected successfully" style="max-width: 250px;" />
+  </div>
 </div>
 
 **Step 5.** Set your BTC deposit address, select 'Proceed with move', and your transfer back to BTC will begin.
