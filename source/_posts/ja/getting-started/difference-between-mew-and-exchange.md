@@ -34,7 +34,7 @@ If you do lose your private key or wallet file and password, you cannot prove ow
 
 **If you use an exchange like Coinbase, Gemini, Kraken, Polonix, Bittrex,** then you have an account with that company, and they hold your ETH and your keys for you. They have their own account on the blockchain with all their and their customers' funds in it. Then you have a username / password with them, on their servers, and they keep track of how much ETH they "owe" you.
 
-This allows you to have the more traditional username / password account dynamic and do things like reset your password if you forget it, change your password if your password is compromised, and turn on 2FA. However, it also means that if the exchange loses ETH, it's your ETH that is lost.
+This allows you to have the more traditional username / password account dynamic and do things like reset your password if you forget it, change your password if your password is compromised, and turn on 2FA. ただし、取引所がETHを失った場合、失われるのはあなたのETHであることも意味します。
 
 **If you choose to move from an exchange to a wallet where you control your keys,** you need to make sure that you have multiple backups, stored in separate locations, of your private key / keystore file / recovery phrase. This will prevent loss in case your computer crashes or your house burns down or anything else.
 
