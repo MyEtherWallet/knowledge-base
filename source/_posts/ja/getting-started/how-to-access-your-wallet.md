@@ -109,7 +109,7 @@ This is a Chrome Extension that allows the creation of an ethereum-based wallet 
 
 ## **To connect MEW with MetaMask:**
 
-#### **This assumes you already have a MetaMask wallet.**
+#### **これはあなたが既にMetaMaskウォレットを持っていることを前提としています。**
 
 **Step 1.** Login to your MetaMask wallet via their Chrome Extension.
 
