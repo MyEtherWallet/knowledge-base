@@ -21,7 +21,8 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-## **MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards.** 
+## **MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards.**
+
 To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].
 
 Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.
@@ -34,7 +35,7 @@ It’s suggested that you verify your Eth2 withdrawal address with your keystore
 
 <br>
 
-**Step 1.** Head to www.myetherwallet.com and scroll down to the footer. Here you’ll find a ‘Generate Eth2 address’ tool at the bottom of the 'Discover' section.
+**Step 1.** Head to [www.myetherwallet.com](http://www.myetherwallet.com) and scroll down to the footer. Here you’ll find a ‘Generate Eth2 address’ tool at the bottom of the 'Discover' section.
 
 <img src="/images/posts/diving-deeper/eth21.png" width="85%">
 
@@ -66,11 +67,11 @@ For extra security and ease of mind, it’s recommended that you double-check yo
 
 **Step 3.** Hold shift and right-click in the empty space of this folder, then select ‘Open PowerShell’. 
 
-**Step 4.** Enter this command for Windows: “.\deposit verify-keystore”
+**Step 4.** Enter this command for Windows: “.\\deposit verify-keystore”
 
 <img src="/images/posts/diving-deeper/ethv5.png" width="100%">
 
-**Step 5.** Enter the path of your Eth2 keystore file. To find your path, you can right-click on the keystore and click ‘Properties’. It will look something like: “C:\Users\since\OneDrive\Desktop” (if you have it on your desktop). Once you find this, make sure you add the keystore file’s name to the end. So it should look like: “C:\Users\since\OneDrive\Desktop\keystore-m_12381_3600_0_01607022974412.json”
+**Step 5.** Enter the path of your Eth2 keystore file. To find your path, you can right-click on the keystore and click ‘Properties’. It will look something like: “C:\\Users\\since\\OneDrive\\Desktop” (if you have it on your desktop). Once you find this, make sure you add the keystore file’s name to the end. So it should look like: “C:\\Users\\since\\OneDrive\\Desktop\\keystore-m_12381_3600_0_01607022974412.json”
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
