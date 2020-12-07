@@ -82,4 +82,3 @@ You can also create a 'burner account' for temporary access to Dapps, like brows
 <div class="wrap-mobile-phone">
 <img src="/images/posts/diving-deeper/MEWCX7.png" alt="Image of MEW CX connecting to a Dapp, Web3" width="80%">
 </div>
-
