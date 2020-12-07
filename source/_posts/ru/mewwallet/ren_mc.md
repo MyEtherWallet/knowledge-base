@@ -44,8 +44,12 @@ author: MyEtherWallet (MEW)
 **Шаг 4.** Отсканируйте QR-код с помощью приложения MEW wallet и выберите аккаунт для подключения.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/diving-deeper/renmw1.jpg" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/diving-deeper/renmw2.jpg" alt="Изображение успешного подключения MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/renmw1.jpg" alt="Изображение сканирования QR-кода в MEW wallet" />
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/renmw2.jpg" alt="Изображение успешного подключения MEW wallet" />
+</div>
 </div>
 
 **Шаг 5.** Как только вы подключитесь, вы можете использовать Ren Protocol DApp.

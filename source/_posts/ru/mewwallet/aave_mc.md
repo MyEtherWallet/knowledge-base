@@ -43,8 +43,12 @@ author: MyEtherWallet (MEW)
 **Шаг 4.** Отсканируйте QR-код с помощью приложения MEW wallet и выберите аккаунт для подключения.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/diving-deeper/aavemw1.jpg" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/diving-deeper/aavemw2.jpg" alt="Изображение успешного подключения MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/aavemw1.jpg" alt="Изображение сканирования QR-кода в MEW wallet" />
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/aavemw2.jpg" alt="Изображение успешного подключения MEW wallet" />
+</div>
 </div>
 
 **Шаг 5.** Как только вы подключитесь, вы можете использовать Aave DApp.
@@ -56,8 +60,12 @@ author: MyEtherWallet (MEW)
 <img src="/images/posts/diving-deeper/aavemc7.png" alt="Изображение подключенной панели Aave Dashboard запрос подтверждения" width="100%" />
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
-<img src="/images/posts/diving-deeper/aavemw3.jpg" alt="Изображение подтверждения транзакции в MEW wallet" style="max-width: 250px;" />
-<img src="/images/posts/diving-deeper/aavemw4.jpg" alt="Изображение успешной транзакции в MEW wallet" style="max-width: 250px;" />
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/aavemw3.jpg" alt="Image of MEW wallet confirming a transaction" />
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/aavemw4.jpg" alt="Изображение успешной транзакции в MEW wallet" />
+</div>
 </div>
 [aave]: https://app.aave.com/
 
