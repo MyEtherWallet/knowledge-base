@@ -120,7 +120,6 @@ For extra security and ease of mind, it’s recommended that you double-check yo
 
 <img src="/images/posts/diving-deeper/ethmac6.png" width="80%">
 
-
 [eth2web]: /@@@@@@/dapps/stake-eth2-web/
 
 [eth2app]: /@@@@@@/mewwallet/stake-eth2-mw/
