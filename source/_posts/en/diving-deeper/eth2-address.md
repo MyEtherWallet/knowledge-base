@@ -57,7 +57,7 @@ It’s suggested that you verify your Eth2 withdrawal address with your keystore
 
 For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.
 
-**Step 1.** Head to our Eth2 keystore verification tool on Github. Download the Windows ZIP file for your system. 
+**Step 1.** Head to our [Eth2 keystore verification tool][eth2github] on Github. Download the Windows ZIP file for your system. 
 
 <img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
 
@@ -92,7 +92,7 @@ For extra security and ease of mind, it’s recommended that you double-check yo
 
 For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.
 
-**Step 1.** Head to our Eth2 keystore verification tool on Github. Download the Mac (darwin) ZIP file for your system. 
+**Step 1.** Head to our [Eth2 keystore verification tool][eth2github] on Github. Download the Mac (darwin) TAR.ZG file for your system. 
 
 <img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
 
@@ -102,13 +102,13 @@ For extra security and ease of mind, it’s recommended that you double-check yo
 
 <img src="/images/posts/diving-deeper/ethmac3.png" width="80%">
 
-**Step 3.** Hold Cmd + space and type in the word 'Terminal' to open the terminal for your Mac. Here, type "cd " and paste the Pathname you copied from the previous step.
+**Step 3.** Hold Cmd + space and type in the word 'Terminal' to open the terminal for your Mac. Here, type "cd " and paste the Pathname you copied from the previous step, then press 'Enter'.
 
 <img src="/images/posts/diving-deeper/ethmac2.png" width="80%">
 
 <img src="/images/posts/diving-deeper/ethmac7.png" width="80%">
 
-**Step 4.** Enter this command for Mac: “./deposit verify-keystore”
+**Step 4.** Enter this command for Mac: “./deposit verify-keystore” and press 'Enter'.
 
 <img src="/images/posts/diving-deeper/ethmac5.png" width="80%">
 
@@ -119,3 +119,10 @@ For extra security and ease of mind, it’s recommended that you double-check yo
 **Step 7.** You’re done! Your terminal should say, “Success! Your keystore is valid.” Underneath of this message, you will see your Eth2 withdrawal address, or ‘public key’. Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.
 
 <img src="/images/posts/diving-deeper/ethmac6.png" width="80%">
+
+
+[eth2web]: /@@@@@@/dapps/stake-eth2-web/
+
+[eth2app]: /@@@@@@/mewwallet/stake-eth2-mw/
+
+[eth2github]: https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1
