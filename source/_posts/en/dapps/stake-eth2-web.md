@@ -65,7 +65,7 @@ In addition, all staked ETH and rewards from your validator will be unable to be
 
 <img src="/images/posts/diving-deeper/stake5.png" width="85%">
 
-**Step 6.** You will need to wait 10-20 seconds for Staked to create your validator(s). After that, you can click ‘Stake on Eth2’ to confirm the transaction and finish the staking process.
+**Step 6.** You will need to wait a few seconds to a few minutes for Staked to create your validator(s). After that, you can click ‘Stake on Eth2’ to confirm the transaction and finish the staking process.
 
 <img src="/images/posts/diving-deeper/stake6.png" width="85%">
 
