@@ -1,5 +1,5 @@
 ---
-title: "Stake on Eth2 using MEW web"
+title: "Стейкинг в Eth2 на MEW web"
 date: 2018-06-01 00:02:00
 tags:
   - staked.us
@@ -14,13 +14,13 @@ primary_category_display_name: "DАpps"
 author: MyEtherWallet (MEW)
 ---
 
-# **Stake on Eth2 using MEW web**
+# **Стейкинг в Eth2 на MEW web**
 
-###### {% read_time title "Stake on Eth2 using MEW web" %} min read
+###### {% read_time title "Stake on Eth2 using MEW web" %} мин. чтения
 
 * * *
 
-## **MEW has integrated Staked.us to make it easier than ever to create a validator on Eth2 and earn rewards.**
+## **MEW интегрировал Staked.us для упрощения создания валидатора на Eth2 и получения процентного дохода.**
 
 Once you stake on Eth2 to create a validator, no further action is required. Staked.us will maintain and update your validator for you.
 
