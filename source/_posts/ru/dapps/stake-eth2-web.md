@@ -22,7 +22,7 @@ author: MyEtherWallet (MEW)
 
 ## **MEW интегрировал Staked.us для упрощения создания валидатора на Eth2 и получения процентного дохода.**
 
-Once you stake on Eth2 to create a validator, no further action is required. Staked.us will maintain and update your validator for you.
+Как только вы сделаете ставку на Eth2 для создания валидатора, никаких дальнейших действий не требуется. Staked.us will maintain and update your validator for you.
 
 In order to create a validator, you’ll need at least 32 ETH to stake. Your stake will live on the Beacon Chain, which is the foundation for Eth2. For more information on Eth2, the Beacon Chain, and creating a validator, read our write-up on [Phase 0 of Eth2][eth2].
 
