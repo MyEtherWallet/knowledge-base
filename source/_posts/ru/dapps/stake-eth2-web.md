@@ -24,7 +24,7 @@ author: MyEtherWallet (MEW)
 
 Как только вы сделаете ставку на Eth2 для создания валидатора, никаких дальнейших действий не требуется. Staked.us будет поддерживать и обновлять ваш валидатор для вас.
 
-Чтобы создать валидатор, необходимо сделать ставку минимум 32 ETH. Your stake will live on the Beacon Chain, which is the foundation for Eth2. For more information on Eth2, the Beacon Chain, and creating a validator, read our write-up on [Phase 0 of Eth2][eth2].
+Чтобы создать валидатор, необходимо сделать ставку минимум 32 ETH. Ваша ставка будет находиться на Beacon Chain, которая лежит в основе Eth2. For more information on Eth2, the Beacon Chain, and creating a validator, read our write-up on [Phase 0 of Eth2][eth2].
 
 **You will also need an Eth2 withdrawal address.** Eth2 withdrawal addresses are used to withdraw your staked ETH and rewards. Each user will receive an Eth2 withdrawal address, a keystore file, and a recovery phrase for their Eth2 stake. If you stake more than 32 ETH, additional validators will all be tied to this same address. You can [generate your very own Eth2 withdrawal address][geneth2] on the MEW web interface.
 
