@@ -30,7 +30,7 @@ Each stake of 32 ETH will create a validator. Как только вы сдел�
 
 Чтобы создать валидатор, необходимо сделать ставку минимум 32 ETH. Ваша ставка будет находиться на Beacon Chain, которая лежит в основе Eth2. Для дополнительной информации об Eth2, Beacon Chain и создании валидатора, ознакомьтесь с нашей статьей о [0 Фазе Eth2][eth2].
 
-**You will also need an Eth2 withdrawal address.** Eth2 withdrawal addresses are used to withdraw your staked ETH and rewards. With the MEW wallet app, your 24 word recovery phrase will be the same phrase used for your Eth2 withdrawal address.
+**Вам также понадобится адрес для снятия Eth2.** Адреса снятия Eth2 используются для вывода вашей ставки ETH и накопленных процентов. With the MEW wallet app, your 24 word recovery phrase will be the same phrase used for your Eth2 withdrawal address.
 
 **Don't lose your recovery phrase!** This phrase holds the keys to both your MEW wallet account and your Eth2 stake, and it is necessary for future access. No one can recover your phrase for you, so it's very important you take care of it.
 
