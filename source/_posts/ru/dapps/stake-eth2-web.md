@@ -28,7 +28,7 @@ author: MyEtherWallet (MEW)
 
 **Вам также понадобится адрес для снятия Eth2.** Адреса снятия Eth2 используются для вывода вашей ставки ETH и накопленных процентов. Каждый пользователь получит адрес для снятия Eth2, файл-хранилище ключа и фразу восстановления для своей ставки на Eth2. Если вы сделаете ставку более 32 ETH, дополнительные валидаторы будут привязаны к одному и тому же адресу. Вы можете [генерировать свой собственный адрес для снятия Eth2][geneth2] в интерфейсе MEW web.
 
-When you generate your Eth2 withdrawal address, you will enter a password. This password is tied to your keystore file. You will also receive a recovery phrase, which in this case is a list of 24 words. Make sure you write these words down and keep them safe.
+Когда вы генерируете адрес для снятия Eth2, вы введете пароль. Этот пароль привязан к файлу-хранилища ключа. You will also receive a recovery phrase, which in this case is a list of 24 words. Make sure you write these words down and keep them safe.
 
 You can also [verify your Eth2 withdrawal address][geneth2] with your keystore file to make sure everything is working properly.
 
