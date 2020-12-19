@@ -45,13 +45,13 @@ author: MyEtherWallet (MEW)
 <img src="/images/posts/diving-deeper/MEWCX1.png" alt="Image of the MEW CX install page" width="80%">
 </div>
 
-**Step 2.** After you’ve installed MEW CX, click the MEW icon in your toolbar. A pop-up will appear asking you to add a wallet. Click there.
+**Шаг 2.** После установки MEW CX нажмите на значок MEW на панели инструментов. Появится всплывающее окно с предложением добавить кошелек. Нажмите на эту кнопку.
 
 <div class="wrap-mobile-phone">
 <img src="/images/posts/diving-deeper/MEWCX2.png" alt="Image of MEW CX 'add wallet'" width="80%">
 </div>
 
-**Step 3.** Choose how you’d like to access your wallet, or generate a new one. And you’re done!
+**Шаг 3.** Выберите, каким образом вы хотите получить доступ к кошельку, или сгенерируйте новый кошелек. Готово!
 
 -   Посмотрите наше руководство по [методам доступа](/@@@@@@/getting-started/how-to-access-your-wallet/) для получения дополнительной информации.
 
