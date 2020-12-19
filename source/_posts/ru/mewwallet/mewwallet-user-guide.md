@@ -51,10 +51,10 @@ author: MyEtherWallet (MEW)
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mcreate2.jpg" alt="Image of MEW wallet safety tips part 1" />
+  <img src="/images/posts/mewconnect/mcreate2.jpg" alt="Изображение советов безопасности MEW wallet, часть 1" />
   </div>
   <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mcreate3.jpg" alt="Image of MEW wallet safety tips part 2" />
+  <img src="/images/posts/mewconnect/mcreate3.jpg" alt="Изображение советов безопасности MEW wallet, часть 2" />
   </div>
 </div>
 
@@ -63,10 +63,10 @@ author: MyEtherWallet (MEW)
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mcreate4.jpg" alt="Image of MEW wallet create a pin" />
+  <img src="/images/posts/mewconnect/mcreate4.jpg" alt="Изображение MEW wallet создайте пин код" />
   </div>
   <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mcreate5.jpg" alt="Image of MEW wallet enable fingerprint or facial recognition" />
+  <img src="/images/posts/mewconnect/mcreate5.jpg" alt="Изображение MEW wallet активировать отпечаток или распознавание лица" />
   </div>
 </div>
 
@@ -74,10 +74,10 @@ author: MyEtherWallet (MEW)
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mcreate6.jpg" alt="Image of MEW wallet generating a new wallet" />
+  <img src="/images/posts/mewconnect/mcreate6.jpg" alt="Изображение MEW wallet создание нового кошелька" />
   </div>
   <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mcreate7.jpg" alt="Image of newly created MEW wallet account" />
+  <img src="/images/posts/mewconnect/mcreate7.jpg" alt="Изображение нового аккаунта MEW wallet" />
   </div>
 </div>
 
@@ -138,10 +138,10 @@ author: MyEtherWallet (MEW)
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mewwallet1.png" alt="Image of MEW wallet buy ETH selection" />
+  <img src="/images/posts/mewconnect/mewwallet1.png" alt="Изображение покупки ETH в MEW wallet" />
   </div>
   <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mewwallet2.png" alt="Image of MEW wallet Apple Pay"/>
+  <img src="/images/posts/mewconnect/mewwallet2.png" alt="Изображение Apple Pay в MEW wallet"/>
   </div>
 </div>
 
@@ -208,10 +208,10 @@ author: MyEtherWallet (MEW)
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-<img src="/images/posts/mewconnect/mwethamount.png" alt="Image of MEW wallet transaction" />
+<img src="/images/posts/mewconnect/mwethamount.png" alt="Изображение транзакции MEW wallet" />
 </div>
 <div class="wrap-mobile-phone">
-<img src="/images/posts/mewconnect/mwgasfees.png" alt="Image of MEW wallet gas fees" />
+<img src="/images/posts/mewconnect/mwgasfees.png" alt="Изображение комиссии за газ в MEW wallet" />
 </div>
 </div>
 
@@ -219,7 +219,7 @@ author: MyEtherWallet (MEW)
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-<img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Image of MEW wallet processing transaction" />
+<img src="/images/posts/mewconnect/mwconfirmtx.png" alt="Изображение обработки транзакции v MEW wallet" />
 </div>
 <div class="wrap-mobile-phone">
 <img src="/images/posts/mewconnect/mwtxsuccess.png" alt="Изображение успешной транзакции в MEW wallet" />
@@ -261,7 +261,7 @@ author: MyEtherWallet (MEW)
 <img src="/images/posts/mewconnect/mwcard.jpg" alt="Изображение главной страницы MEW wallet" />
 </div>
 <div class="wrap-mobile-phone">
-<img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Image of MEW wallet scanning QR code" />
+<img src="/images/posts/mewconnect/mwscanqr.jpg" alt="Изображение сканирования QR-кода в MEW wallet" />
 </div>
 </div>
 
