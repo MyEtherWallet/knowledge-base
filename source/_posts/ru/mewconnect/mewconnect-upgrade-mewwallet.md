@@ -55,10 +55,10 @@ MEW wallet app доступен для мобильных устройств iOS
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mwmigrate3.PNG" alt="Image of MEW wallet create page" />
+  <img src="/images/posts/mewconnect/mwmigrate3.PNG" alt="Изображение страницы MEW wallet 'Создать кошелек'" />
   </div>
   <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mwmigrate5.PNG" alt="Image of MEW wallet- MEWconnect import" />
+  <img src="/images/posts/mewconnect/mwmigrate5.PNG" alt="Изображение MEW wallet - импорт MEWconnect" />
   </div>
 </div>
 
@@ -76,10 +76,10 @@ MEW wallet app доступен для мобильных устройств iOS
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mwmigrate7.PNG" alt="Image of MEW wallet account generating" />
+  <img src="/images/posts/mewconnect/mwmigrate7.PNG" alt="Изображение генерации аккаунта MEW wallet" />
   </div>
   <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mwmigrate8.PNG" alt="Image of MEW wallet migrated account" />
+  <img src="/images/posts/mewconnect/mwmigrate8.PNG" alt="Изображение мигрированного аккаунта MEW wallet" />
   </div>
 </div>
 
