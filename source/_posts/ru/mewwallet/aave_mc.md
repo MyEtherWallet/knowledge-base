@@ -61,7 +61,7 @@ author: MyEtherWallet (MEW)
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-<img src="/images/posts/diving-deeper/aavemw3.jpg" alt="Image of MEW wallet confirming a transaction" />
+<img src="/images/posts/diving-deeper/aavemw3.jpg" alt="Изображение подтверждения транзакции в MEW wallet" />
 </div>
 <div class="wrap-mobile-phone">
 <img src="/images/posts/diving-deeper/aavemw4.jpg" alt="Изображение успешной транзакции в MEW wallet" />
