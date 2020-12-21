@@ -196,7 +196,7 @@ author: MyEtherWallet (MEW)
 
 **Step 1.** On the account card that you want to send from, click the up 'sending' arrow.
 
-<img src="/images/posts/mewconnect/mwmainacct.png" alt="Image of MEW wallet account" style="max-width: 250px;" />
+<img src="/images/posts/mewconnect/mwmainacct.png" alt="MEW 钱包账户的图像" style="max-width: 250px;" />
 
 **Step 2.** Paste the address you're sending to, then continue.
 
