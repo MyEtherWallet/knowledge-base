@@ -32,7 +32,7 @@ author: MyEtherWallet (MEW)
 
 Вы также можете [проверить ваш адрес снятия Eth2 ][geneth2] с помощью файла-хранилища ключа, чтобы убедиться, что все работает правильно.
 
-**Don't lose your Eth2 keystore file + password and recovery phrase!** They hold your keys and are necessary for future access. No one can recover these for you, so it's very important you take care of them.
+**Не теряйте свой файл хранилище ключа Eth2 + пароль и фразу восстановления!** Они шифруют ваши ключи и необходимы для будущего доступа. No one can recover these for you, so it's very important you take care of them.
 
 ## **Staking and the Risks Involved**
 
