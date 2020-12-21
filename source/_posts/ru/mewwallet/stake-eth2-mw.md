@@ -32,7 +32,7 @@ Each stake of 32 ETH will create a validator. Как только вы сдел�
 
 **Don't lose your recovery phrase!** This phrase holds the keys to both your MEW wallet account and your Eth2 stake, and it is necessary for future access. No one can recover your phrase for you, so it's very important you take care of it.
 
-## **Staking and the Risks Involved**
+## **Риски стейкинга на Eth2**
 
 <br>
 
