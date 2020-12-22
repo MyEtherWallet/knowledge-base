@@ -21,9 +21,9 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-## **MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards.**
+## **Интеграция Staked в MEW позволяет пользователям делать ставки кратные 32 ETH в Eth2 для накопления годовых процентов.**
 
-To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].
+Чтобы узнать больше о стейкинг в Eth2, ознакомьтесь с нашей статьей [о том, как делать ставки в Eth2 с помощью MEW web][eth2web].
 
 Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.
 
