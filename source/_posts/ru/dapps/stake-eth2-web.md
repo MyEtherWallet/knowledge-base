@@ -72,7 +72,7 @@ Staked.us является провайдером интеграции стей�
 
 <img src="/images/posts/diving-deeper/stake7.png" width="85%" />
 
-**Step 7.** Your validator is now ready to go on Eth2, although it may take up to 48 hours for it to be finalized. You can view your transaction on Etherscan. Staked.us will maintain and update your validator(s) for you, so all you have to do is reap the rewards.
+**Шаг 7.** Ваш валидатор теперь готов к работе в Eth2, но для его внедрения может потребоваться 48 часов. Вы можете просмотреть вашу транзакцию на Etherscan. Staked.us будет поддерживать и обновлять ваш валидатор(ы), так что вам остается только получать годовые проценты.
 
 <img src="/images/posts/diving-deeper/stake9.png" width="85%" />
 
