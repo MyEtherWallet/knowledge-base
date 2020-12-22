@@ -38,7 +38,7 @@ author: MyEtherWallet (MEW)
 
 <br>
 
-Staked.us является провайдером интеграции стейкинг в MEW. Staked.us will not have access to your stake or rewards, but they will be responsible for maintaining your validator. If a validator is down for a prolonged period of time, **there are risks of having your staked ETH slashed**. Therefore, your stake is in the hands of Staked.us.
+Staked.us является провайдером интеграции стейкинг в MEW. Staked.us не будет иметь доступа к вашей ставке или заработанным процентам, но будет нести ответственность за поддержку вашего валидатора. Если валидатор не выполняет свою работу в течении длительного периода времени, **существует риск того, что ваша ставка ETH будет оштрафована**. Таким образом, ваша ставка находится в руках Staked.us.
 
 In addition, all staked ETH and rewards from your validator will be unable to be withdrawn until a later phase of Eth2 released on an unknown date in the future. It's very important that you understand all ETH staked during Phase 0 will be unavailable for withdrawal until Eth2 transfers are enabled in a later phase.
 
