@@ -75,7 +75,7 @@ _Пожалуйста, приобретайте аппаратные кошел�
 
 * * *
 
-**Step 8.** You should now be taken to a screen that looks very similar to your old wallet’s access screen. Отличная работа! You’re officially using your new Ledger hardware wallet!
+**Step 8.** You should now be taken to a screen that looks very similar to your old wallet’s access screen. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Ledger!
 
 <img src="/images/posts/hardware-wallet/ledger/LEdger4.png" alt="Image of Ledger address choice" width="50%" />
 
