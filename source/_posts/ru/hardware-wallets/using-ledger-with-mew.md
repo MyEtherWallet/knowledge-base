@@ -71,17 +71,17 @@ _Пожалуйста, приобретайте аппаратные кошел�
 
 <img src="/images/posts/hardware-wallet/ledger/Ledger2.png" alt="Изображение выбора сети Ledger" width="41.3%" />
 
-<img src="/images/posts/hardware-wallet/ledger/Ledger3.png" alt="Image of Ledger derivation path choice" width="50%" />
+<img src="/images/posts/hardware-wallet/ledger/Ledger3.png" alt="Изображение выбора пути деривации для Ledger" width="50%" />
 
 * * *
 
-**Step 8.** You should now be taken to a screen that looks very similar to your old wallet’s access screen. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Ledger!
+**Шаг 8.** После этого вы должны попасть на страницу, которая очень похожа на страницу вашего старого кошелька. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Ledger!
 
-<img src="/images/posts/hardware-wallet/ledger/LEdger4.png" alt="Image of Ledger address choice" width="50%" />
+<img src="/images/posts/hardware-wallet/ledger/LEdger4.png" alt="Изображение выбора адреса Ledger" width="50%" />
 
 ## **А что насчет моего старого кошелька???**
 
-If you are coming from an old wallet and want your ETH and tokens on your new, secure Ledger address, you will need to send your funds to your new address through regular transactions. This can be achieved by accessing your old wallet through MEW wallet, MetaMask, Keystore file, or private key (however you usually did it before the Ledger). From here, send your ETH and tokens to your new Ledger address, ready to be accessed in a more secure fashion.
+Если вы переходите со старого кошелька и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресе Ledger, вам нужно будет перевести средства на новый адрес путем обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEW wallet, MetaMask, файла хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Ledger). Отправьте ETH и токены на ваш новый Ledger адрес, и пользуйтесь своими средствами с большей безопасностью.
 
 Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.
 
