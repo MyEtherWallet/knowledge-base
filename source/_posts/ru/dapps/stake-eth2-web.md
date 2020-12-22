@@ -58,15 +58,15 @@ Staked.us является провайдером интеграции стей�
 
 <img src="/images/posts/diving-deeper/stake3.png" width="85%" />
 
-**Step 4.** Upload your Eth2 keystore file from when you generated your Eth2 withdrawal address.
+**Шаг 4.** Загрузите файл хранилище ключа Eth2 который вы получили при создании адреса снятия Eth2.
 
 <img src="/images/posts/diving-deeper/stake4.png" width="85%" />
 
-**Step 5.** Review your staking information and double-check your Eth2 withdrawal address for accuracy. Then select ‘Enable Staking’.
+**Шаг 5.** Просмотрите информацию о вашей ставке и проверьте адрес снятия Eth2. Затем выберите Активировать Стейкинг ('Enable Staking').
 
 <img src="/images/posts/diving-deeper/stake5.png" width="85%" />
 
-**Step 6.** You will need to wait a few seconds to a few minutes for Staked to create your validator(s). After that, you can click ‘Stake on Eth2’ to confirm the transaction and finish the staking process.
+**Шаг 6.** Создание валидаторов займет от нескольких секунд до нескольких минут. After that, you can click ‘Stake on Eth2’ to confirm the transaction and finish the staking process.
 
 <img src="/images/posts/diving-deeper/stake6.png" width="85%" />
 
