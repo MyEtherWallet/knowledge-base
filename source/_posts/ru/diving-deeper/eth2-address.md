@@ -1,5 +1,5 @@
 ---
-title: "Generate an Eth2 Withdrawal Address for Staking on Eth2"
+title: "Генерировать адрес снятия Eth2 для стейкинга в Eth2"
 date: 2018-06-01 00:02:00
 tags:
   - eth2
@@ -15,9 +15,9 @@ primary_category_display_name: "Более глубокое ознакомлен
 author: MyEtherWallet (MEW)
 ---
 
-# **Generate an Eth2 Withdrawal Address for Staking on Eth2**
+# **Генерировать адрес снятия Eth2 для стейкинга в Eth2**
 
-###### {% read_time title "Generate an Eth2 Withdrawal Address for Staking on Eth2" %} min read
+###### {% read_time title "Generate an Eth2 Withdrawal Address for Staking on Eth2" %} мин. чтения
 
 * * *
 
