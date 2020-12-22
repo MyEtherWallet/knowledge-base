@@ -40,21 +40,21 @@ author: MyEtherWallet (MEW)
 
 Staked.us является провайдером интеграции стейкинг в MEW. Staked.us не будет иметь доступа к вашей ставке или заработанным процентам, но будет нести ответственность за поддержку вашего валидатора. Если валидатор не выполняет свою работу в течении длительного периода времени, **существует риск того, что ваша ставка ETH будет оштрафована**. Таким образом, ваша ставка находится в руках Staked.us.
 
-In addition, all staked ETH and rewards from your validator will be unable to be withdrawn until a later phase of Eth2 released on an unknown date in the future. It's very important that you understand all ETH staked during Phase 0 will be unavailable for withdrawal until Eth2 transfers are enabled in a later phase.
+Кроме того, вся ставка ETH и годовые проценты от вашего валидатора не смогут быть сняты до более поздней фазы Eth2. Точная дата когда эта фаза войдет в силу пока неизвестна. Очень важно, чтобы вы понимали: все ставки ETH сделанные на стадии 0 будут недоступны для вывода до тех пор, пока транзакции Eth2 не станут возможны на более позднем этапе.
 
-### **Stake your ETH on Eth2 with MEW web**
+### **Стейкинг на Eth2 с помощью MEW web**
 
 <br>
 
-**Step 1.** Access [MEW web][mew] through your preferred access method. If you use the MEW wallet app, you can [stake on Eth2 directly from the MEW wallet app][mwstake].
+**Шаг 1.** Откройте кошелек в [MEW веб][mew] через ваш обычный метод доступа. Если вы используете приложение MEW wallet, вы можете [делать стейкинг на Eth2 непосредственно из приложения][mwstake].
 
 <img src="/images/posts/diving-deeper/stake1.png" width="85%" />
 
-**Step 2.** Head to the DApps section, and select ‘Staked’.
+**Шаг 2.** Зайдите в раздел 'DАpps' и выберите 'Staked’.
 
 <img src="/images/posts/diving-deeper/stake2.png" width="50%" />
 
-**Step 3.** Enter or select a multiple of 32 ETH. For each stake of 32 ETH, Staked.us will create a validator on your behalf.
+**Шаг 3.** Введите или выберите количество ETH кратное 32. Для каждой ставки 32 ETH, Staked.us создаст для вас один валидатор.
 
 <img src="/images/posts/diving-deeper/stake3.png" width="85%" />
 
