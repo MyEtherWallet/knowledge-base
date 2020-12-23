@@ -65,13 +65,13 @@ author: MyEtherWallet (MEW)
 
 <img src="/images/posts/diving-deeper/ethv2.png" width="80%" />
 
-**Step 3.** Hold shift and right-click in the empty space of this folder, then select ‘Open PowerShell’.
+**Шаг 3.** Удерживайте Shift и щелкните правой кнопкой мыши на пустом месте этой папки, затем выберите ‘Open PowerShell’.
 
-**Step 4.** Enter this command for Windows: “.\\deposit verify-keystore”
+**Шаг 4.** Введите эту команду для Windows: “.\\deposit verify-keystore”
 
 <img src="/images/posts/diving-deeper/ethv5.png" width="100%" />
 
-**Step 5.** Enter the path of your Eth2 keystore file. To find your path, you can right-click on the keystore and click ‘Properties’. It will look something like: “C:\\Users\\since\\OneDrive\\Desktop” (if you have it on your desktop). Once you find this, make sure you add the keystore file’s name to the end. So it should look like: “C:\\Users\\since\\OneDrive\\Desktop\\keystore-m_12381_3600_0_01607022974412.json”
+**Шаг 5.** Введите путь к вашему файлу хранилища ключа Eth2. Чтобы найти этот путь, щелкните правой кнопкой мыши на файл и нажмите "Свойства". Он выглядит примерно так: “C:\\Users\\since\\OneDrive\\Desktop” (в том случае если он у вас на десктопе). После того, как вы найдете путь, убедитесь, что вы добавили имя файла хранилища в конце. So it should look like: “C:\\Users\\since\\OneDrive\\Desktop\\keystore-m_12381_3600_0_01607022974412.json”
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
@@ -112,7 +112,7 @@ author: MyEtherWallet (MEW)
 
 <img src="/images/posts/diving-deeper/ethmac5.png" width="80%" />
 
-**Step 5.** Enter the path of your Eth2 keystore file. To find your path, you can hold Option + right-click on the keystore file and click "Copy 'keystore-m....json' as Pathname". After that, head back to the terminal and paste it in. It will look something like: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (if you have it on your desktop).
+**Шаг 5.** Введите путь к вашему файлу хранилища ключа Eth2. To find your path, you can hold Option + right-click on the keystore file and click "Copy 'keystore-m....json' as Pathname". After that, head back to the terminal and paste it in. It will look something like: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (if you have it on your desktop).
 
 **Step 6.** Once you enter this into the terminal and click ‘Enter’, it should ask you for your keystore file’s password. Enter it, then enter it again to confirm it.
 
