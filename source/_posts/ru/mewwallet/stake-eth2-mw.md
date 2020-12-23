@@ -1,5 +1,5 @@
 ---
-title: "Stake on Eth2 using the MEW wallet app"
+title: "Стейкинг в Eth2 с помощью приложения MEW wallet"
 date: 2018-06-01 00:02:00
 tags:
   - stake
@@ -16,7 +16,7 @@ primary_category_display_name: "MEWwallet"
 author: MyEtherWallet (MEW)
 ---
 
-# **Stake on Eth2 using the MEW wallet app**
+# **Стейкинг в Eth2 с помощью приложения MEW wallet**
 
 ###### {% read_time title "Stake on Eth2 using the MEW wallet app" %} min read
 
