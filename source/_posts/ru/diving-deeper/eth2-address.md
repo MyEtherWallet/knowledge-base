@@ -43,13 +43,13 @@ author: MyEtherWallet (MEW)
 
 <img src="/images/posts/diving-deeper/eth22.png" width="70%" />
 
-**Шаг 3.** Вы будете перенаправлена на экран на котором будет показана ваша фраза восстановления из 24 слов. Write down your 24 word phrase with pen and paper and store it somewhere physically secure. Taking a screenshot won’t protect you from your computer failing, and it makes your phrase vulnerable to hackers.
+**Шаг 3.** Вы будете перенаправлена на экран на котором будет показана ваша фраза восстановления из 24 слов. Запишите эти 24 слова на бумаге и храните ее в безопасном месте. Скриншот не защитит вас от сбоя вашего компьютера, и сделает вашу фразу более уязвимой для хакеров.
 
 <img src="/images/posts/diving-deeper/eth23.png" width="70%" />
 
-**Step 4.** Download your keystore file from this same screen. Keep it somewhere secure and offline, such as a USB. It’s advisable to download multiple copies and keep them on separate USBs, so if one fails, you’ll have backups.
+**Шаг 4.** Загрузите файл хранилища ключа с этого же экрана. Храните его в безопасном месте оффлайн, например на USB. Рекомендуется загрузить несколько копий и хранить их на отдельных USB, так что в случае сбоя у вас есть резервные копии.
 
-**Step 5.** You’re done! You will see your new Eth2 withdrawal address on the success screen. It is suggested that you write this down and keep track of it. This address is not necessary for future access, but it’s a good idea to know your own withdrawal address.
+**Шаг 5.** Готово! Вы увидите свой новый адрес снятия Eth2 на экране. Стоит записать и сохранить его. This address is not necessary for future access, but it’s a good idea to know your own withdrawal address.
 
 <img src="/images/posts/diving-deeper/eth24.png" width="70%" />
 
