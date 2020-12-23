@@ -108,11 +108,11 @@ author: MyEtherWallet (MEW)
 
 <img src="/images/posts/diving-deeper/ethmac7.png" width="80%" />
 
-**Step 4.** Enter this command for Mac: “./deposit verify-keystore” and press 'Enter'.
+**Шаг 4.** Введите эту команду для Mac: “./deposit verify-keystore” и нажмите 'Enter'.
 
 <img src="/images/posts/diving-deeper/ethmac5.png" width="80%" />
 
-**Шаг 5.** Введите путь к вашему файлу хранилища ключа Eth2. To find your path, you can hold Option + right-click on the keystore file and click "Copy 'keystore-m....json' as Pathname". After that, head back to the terminal and paste it in. It will look something like: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (if you have it on your desktop).
+**Шаг 5.** Введите путь к вашему файлу хранилища ключа Eth2. Чтобы найти путь, держите кнопку Option + нажмите правой кнопкой мыши на файл хранилища ключа и выберите "Copy 'keystore-m....json' as Pathname". После этого вернитесь к терминалу и вставьте его. It will look something like: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (if you have it on your desktop).
 
 **Шаг 6.** Когда вы введете команду в терминал и нажмете 'Ввод', терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.
 
