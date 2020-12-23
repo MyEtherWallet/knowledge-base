@@ -53,11 +53,11 @@ author: MyEtherWallet (MEW)
 
 <img src="/images/posts/diving-deeper/eth24.png" width="70%" />
 
-## **Verify your Eth2 Withdrawal Address using Windows**
+## **Верификация адреса снятия Eth2 используя Windows**
 
-For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.
+Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.
 
-**Step 1.** Head to our [Eth2 keystore verification tool][eth2github] on Github. Download the Windows ZIP file for your system.
+**Шаг 1.** Перейдите на наш [инструмент верификации Eth2 keystore][eth2github] на Github. Download the Windows ZIP file for your system.
 
 <img src="/images/posts/diving-deeper/eth2v1.png" width="80%" />
 
@@ -90,9 +90,9 @@ For extra security and ease of mind, it’s recommended that you double-check yo
 
 ## **Verify your Eth2 Withdrawal Address using Mac**
 
-For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.
+Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.
 
-**Step 1.** Head to our [Eth2 keystore verification tool][eth2github] on Github. Download the Mac (darwin) TAR.ZG file for your system.
+**Шаг 1.** Перейдите на наш [инструмент верификации Eth2 keystore][eth2github] на Github. Download the Mac (darwin) TAR.ZG file for your system.
 
 <img src="/images/posts/diving-deeper/eth2v1.png" width="80%" />
 
