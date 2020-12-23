@@ -29,13 +29,13 @@ author: MyEtherWallet (MEW)
 
 Ваш адрес снятия Eth2 генерированный на MEW web будет иметь файл хранилище ключа + пароль, и фразу из 24 слов. **Очень важно хранить файл, пароль, и фразу восстановления в безопасности, потому что мы не можем восстановить их для вас.** Эта информация необходима для снятия вашей ставки и годовых процентов в будущем. Без нее, ваш ETH может стать недоступен навсегда.
 
-It’s suggested that you verify your Eth2 withdrawal address with your keystore file to make sure everything is working properly. You can find the verification process halfway through this article.
+Рекомендуется верифицировать ваш адрес снятия Eth2 с помощью вашего файла хранилища ключа чтобы убедиться, что все работает правильно. Вы найдете информацию о процессе верификации далее в этой статье.
 
-### **Generate an Eth2 Withdrawal Address on MEW web**
+### **Генерировать адрес снятия Eth2 на MEW web**
 
 <br>
 
-**Step 1.** Head to [www.myetherwallet.com](http://www.myetherwallet.com) and scroll down to the footer. Here you’ll find a ‘Generate Eth2 address’ tool at the bottom of the 'Discover' section.
+**Шаг 1.** Перейдите на [www.myetherwallet.com.](http://www.myetherwallet.com) и прокрутите к низу страницы. Здесь вы найдете инструмент «Generate Eth2 address» внизу раздела «Discover».
 
 <img src="/images/posts/diving-deeper/eth21.png" width="85%" />
 
