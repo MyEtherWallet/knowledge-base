@@ -61,7 +61,7 @@ author: MyEtherWallet (MEW)
 
 <img src="/images/posts/diving-deeper/eth2v1.png" width="80%" />
 
-**Step 2.** Extract the ZIP file to your computer, and head into the new ‘eth2deposit’ folders until you see ‘deposit.exe’.
+**Шаг 2.** Распакуйте ZIP-файл и найдите в папке 'deposit.exe'.
 
 <img src="/images/posts/diving-deeper/ethv2.png" width="80%" />
 
