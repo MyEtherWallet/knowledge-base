@@ -39,11 +39,11 @@ author: MyEtherWallet (MEW)
 
 <img src="/images/posts/diving-deeper/eth21.png" width="85%" />
 
-**Step 2.** Enter a strong password for your Eth2 keystore file, then enter it again to confirm. This password will be the key to unlock your keystore file. It’s very important that you keep track of it.
+**Шаг 2.** Введите надежный пароль для вашего файла хранилища ключа Eth2, затем введите его еще раз, чтобы подтвердить. Этот пароль будет ключом для разблокировки вашего файла ключа. Очень важно не потерять его.
 
 <img src="/images/posts/diving-deeper/eth22.png" width="70%" />
 
-**Step 3.** You will be taken to a screen that shows a 24 word recovery phrase. Write down your 24 word phrase with pen and paper and store it somewhere physically secure. Taking a screenshot won’t protect you from your computer failing, and it makes your phrase vulnerable to hackers.
+**Шаг 3.** Вы будете перенаправлена на экран на котором будет показана ваша фраза восстановления из 24 слов. Write down your 24 word phrase with pen and paper and store it somewhere physically secure. Taking a screenshot won’t protect you from your computer failing, and it makes your phrase vulnerable to hackers.
 
 <img src="/images/posts/diving-deeper/eth23.png" width="70%" />
 
