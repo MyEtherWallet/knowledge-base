@@ -82,9 +82,9 @@ author: MyEtherWallet (MEW)
 </div>
 </div>
 
-**Step 6.** Once you enter this into the terminal and click ‘Enter’, it should ask you for your keystore file’s password. Enter it, then enter it again to confirm it.
+**Шаг 6.** Когда вы введете команду в терминал и нажмете 'Ввод', терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.
 
-**Step 7.** You’re done! Your terminal should say, “Success! Your keystore is valid.” Underneath of this message, you will see your Eth2 withdrawal address, or ‘public key’. Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.
+**Шаг 7.** Готово! В терминале вы должны увидеть: "Успех! Ваш файл хранилища ключа верифицирован." Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.
 
 <img src="/images/posts/diving-deeper/ethv6.png" width="100%" />
 
@@ -114,9 +114,9 @@ author: MyEtherWallet (MEW)
 
 **Шаг 5.** Введите путь к вашему файлу хранилища ключа Eth2. To find your path, you can hold Option + right-click on the keystore file and click "Copy 'keystore-m....json' as Pathname". After that, head back to the terminal and paste it in. It will look something like: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (if you have it on your desktop).
 
-**Step 6.** Once you enter this into the terminal and click ‘Enter’, it should ask you for your keystore file’s password. Enter it, then enter it again to confirm it.
+**Шаг 6.** Когда вы введете команду в терминал и нажмете 'Ввод', терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.
 
-**Step 7.** You’re done! Your terminal should say, “Success! Your keystore is valid.” Underneath of this message, you will see your Eth2 withdrawal address, or ‘public key’. Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.
+**Шаг 7.** Готово! В терминале вы должны увидеть: "Успех! Ваш файл хранилища ключа верифицирован." Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.
 
 <img src="/images/posts/diving-deeper/ethmac6.png" width="80%" />
 
