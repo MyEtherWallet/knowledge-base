@@ -57,7 +57,7 @@ author: MyEtherWallet (MEW)
 
 Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.
 
-**Шаг 1.** Перейдите на наш [инструмент верификации Eth2 keystore][eth2github] на Github. Download the Windows ZIP file for your system.
+**Шаг 1.** Перейдите на наш [инструмент верификации Eth2 keystore][eth2github] на Github. Загрузите ZIP файл Windows для вашей системы.
 
 <img src="/images/posts/diving-deeper/eth2v1.png" width="80%" />
 
