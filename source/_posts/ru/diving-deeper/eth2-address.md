@@ -61,7 +61,7 @@ author: MyEtherWallet (MEW)
 
 <img src="/images/posts/diving-deeper/eth2v1.png" width="80%" />
 
-**Шаг 2.** Распакуйте ZIP-файл и найдите в папке 'deposit.exe'.
+**Шаг 2.** Распакуйте ZIP-файл и найдите в папке программу 'deposit.exe'.
 
 <img src="/images/posts/diving-deeper/ethv2.png" width="80%" />
 
@@ -84,25 +84,25 @@ author: MyEtherWallet (MEW)
 
 **Шаг 6.** Когда вы введете команду в терминал и нажмете 'Ввод', терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.
 
-**Шаг 7.** Готово! В терминале вы должны увидеть: "Успех! Ваш файл хранилища ключа верифицирован." Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.
+**Шаг 7.** Готово! В терминале вы должны увидеть: "Успех! Ваш файл хранилища ключа верифицирован." Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Сравните его с адресом, который вы увидели, когда вы впервые создали свой файл хранилища ключа Eth2, и убедитесь что он совпадает.
 
 <img src="/images/posts/diving-deeper/ethv6.png" width="100%" />
 
-## **Verify your Eth2 Withdrawal Address using Mac**
+## **Верификация адреса снятия Eth2 используя Mac**
 
 Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.
 
-**Шаг 1.** Перейдите на наш [инструмент верификации Eth2 keystore][eth2github] на Github. Download the Mac (darwin) TAR.ZG file for your system.
+**Шаг 1.** Перейдите на наш [инструмент верификации Eth2 keystore][eth2github] на Github. Загрузите ZIP файл Mac (darwin) TAR.ZG для вашей системы.
 
 <img src="/images/posts/diving-deeper/eth2v1.png" width="80%" />
 
-**Step 2.** Extract the ZIP file to your computer, and head into the new ‘eth2deposit’ folders until you see ‘deposit’. Click the gear icon and select the option that says "Copy 'eth2deposit....' as Pathname".
+**Шаг 2.** Распакуйте ZIP-файл и найдите в папке программу 'deposit'. Нажмите на значок шестеренки и выберите опцию "Копировать 'eth2deposit....' как Pathname".
 
 <img src="/images/posts/diving-deeper/ethmac1.png" width="80%" />
 
 <img src="/images/posts/diving-deeper/ethmac3.png" width="80%" />
 
-**Step 3.** Hold Cmd + space and type in the word 'Terminal' to open the terminal for your Mac. Here, type "cd " and paste the Pathname you copied from the previous step, then press 'Enter'.
+**Шаг 3.** Удерживайте Cmd + пробел и введите слово «Terminal», чтобы открыть терминал для вашего Mac. Здесь введите "cd " и вставьте путь, скопированный с предыдущего шага, а затем нажмите 'Enter'.
 
 <img src="/images/posts/diving-deeper/ethmac2.png" width="80%" />
 
@@ -116,7 +116,7 @@ author: MyEtherWallet (MEW)
 
 **Шаг 6.** Когда вы введете команду в терминал и нажмете 'Ввод', терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.
 
-**Шаг 7.** Готово! В терминале вы должны увидеть: "Успех! Ваш файл хранилища ключа верифицирован." Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.
+**Шаг 7.** Готово! В терминале вы должны увидеть: "Успех! Ваш файл хранилища ключа верифицирован." Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Сравните его с адресом, который вы увидели, когда вы впервые создали свой файл хранилища ключа Eth2, и убедитесь что он совпадает.
 
 <img src="/images/posts/diving-deeper/ethmac6.png" width="80%" />
 
