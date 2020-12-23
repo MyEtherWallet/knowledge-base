@@ -27,7 +27,7 @@ author: MyEtherWallet (MEW)
 
 Прежде чем делать ставку в Eth2, необходимо иметь адрес для снятия Eth2. Когда вы [делаете стейкинг с помощью приложения MEW wallet][eth2app], ваш адрес снятия Eth2 привязан к вашей фразе восстановления из 24 слов. С другой стороны, пользуясь MEW web, необходимо создать новый адрес для снятия ставки Eth2.
 
-Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. **It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you.** This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely.
+Ваш адрес снятия Eth2 генерированный на MEW web будет иметь файл хранилище ключа + пароль, и фразу из 24 слов. **Очень важно хранить файл, пароль, и фразу восстановления в безопасности, потому что мы не можем восстановить их для вас.** Эта информация необходима для снятия вашей ставки и годовых процентов в будущем. Без нее, ваш ETH может стать недоступен навсегда.
 
 It’s suggested that you verify your Eth2 withdrawal address with your keystore file to make sure everything is working properly. You can find the verification process halfway through this article.
 
