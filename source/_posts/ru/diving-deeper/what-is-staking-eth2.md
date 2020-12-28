@@ -1,5 +1,5 @@
 ---
-title: "Eth2 and Staking"
+title: "Стейкинг и Eth2"
 date: 2018-06-01 00:08:00
 tags:
   - staking
@@ -12,9 +12,9 @@ primary_category_display_name: "Более глубокое ознакомлен
 author: MyEtherWallet (MEW)
 ---
 
-# **Eth2 and Staking**
+# **Стейкинг и Eth2**
 
-###### {% read_time title "Eth2 and Staking" %} min read
+###### {% read_time title "Eth2 and Staking" %} мин. чтения
 
 * * *
 
