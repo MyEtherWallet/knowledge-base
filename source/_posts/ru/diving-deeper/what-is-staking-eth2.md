@@ -18,7 +18,7 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-**Eth2** (also called **Ethereum v 2.0** or **ETH 2.0**) refers to the substantial upgrade that is coming to the Ethereum blockchain over the next couple of years. Phase 0 — the launch of staking and the Beacon Chain — is scheduled to take place in December 2020/January 2021, with other phases to follow as they become ready. **The full transition to Eth2 will not be complete until 2022, at the earliest.**
+**Eth2** (также известное как **Ethereum v 2.0** или **ETH 2.0**) это существенное улучшение, которое планируется для блокчейна Ethereum в течение следующих нескольких лет. Phase 0 — the launch of staking and the Beacon Chain — is scheduled to take place in December 2020/January 2021, with other phases to follow as they become ready. **The full transition to Eth2 will not be complete until 2022, at the earliest.**
 
 ## **What does this mean, and how is it going to affect current users of Ethereum and MEW specifically?**
 
