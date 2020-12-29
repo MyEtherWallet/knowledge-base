@@ -24,7 +24,7 @@ author: MyEtherWallet (MEW)
 
 <br>
 
-В настоящее время блокчейн Ethereum поддерживается с помощью модели Proof Work (PoW). Это оригинальная модель блокчейна, также используемая блокчейном Bitcoin. While effective, it is not the best option for scaling to a large amount of transactions and requires a lot of electrical power to run. As Ethereum grows, the Proof of Work model is becoming unsustainable.
+В настоящее время блокчейн Ethereum поддерживается с помощью модели Proof Work (PoW). Это оригинальная модель блокчейна, также используемая блокчейном Bitcoin. Несмотря на свою эффективность, этот метод требует большого количества электроэнергии и не лучший вариант для расширения сети до большого количества транзакций. По мере роста Ethereum, модель Proof of Work становится ограниченной.
 
 **Eth2 will employ the Proof of Stake model (PoS)**, which will significantly improve transaction throughput and reduce dependency on electricity. In this system, users who have staked 32 ETH in the new network become validators who maintain the blockchain. Being a validator means running specific software on a computer that must be connected to the internet 24/7. Validators will be rewarded with ETH for validating blocks, and penalized if they are not performing validation duties as required. This validation process replaces the Proof of Work process.
 
