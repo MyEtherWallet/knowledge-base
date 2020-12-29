@@ -18,13 +18,13 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-**Eth2** (также называемый как **Ethereum v 2.0** или **ETH 2.0**) это существенное улучшение, которое планируется для блокчейна Ethereum в течение следующих нескольких лет. Нулевой этап, или Phase 0 — запуск стейкинга и Beacon Chain — происходит в декабре 2020/январе 2021 года. Следующие фазы последуют по мере их готовности. **The full transition to Eth2 will not be complete until 2022, at the earliest.**
+**Eth2** (также называемый как **Ethereum v 2.0** или **ETH 2.0**) это существенное улучшение, которое планируется для блокчейна Ethereum в течение следующих нескольких лет. Нулевой этап, или Phase 0 — запуск стейкинга и Beacon Chain — происходит в декабре 2020/январе 2021 года. Следующие фазы последуют по мере их готовности. **Полный переход к Eth2 не будет завершен не ранее 2022го года. **
 
-## **What does this mean, and how is it going to affect current users of Ethereum and MEW specifically?**
+## **Что это значит и как это повлияет на нынешних пользователей Ethereum и MEW?**
 
 <br>
 
-Currently, the Ethereum blockchain is maintained through the Proof of Work (PoW) model. This is the original blockchain model, also used by the Bitcoin blockchain. While effective, it is not the best option for scaling to a large amount of transactions and requires a lot of electrical power to run. As Ethereum grows, the Proof of Work model is becoming unsustainable.
+В настоящее время блокчейн Ethereum поддерживается с помощью модели Proof Work (PoW). This is the original blockchain model, also used by the Bitcoin blockchain. While effective, it is not the best option for scaling to a large amount of transactions and requires a lot of electrical power to run. As Ethereum grows, the Proof of Work model is becoming unsustainable.
 
 **Eth2 will employ the Proof of Stake model (PoS)**, which will significantly improve transaction throughput and reduce dependency on electricity. In this system, users who have staked 32 ETH in the new network become validators who maintain the blockchain. Being a validator means running specific software on a computer that must be connected to the internet 24/7. Validators will be rewarded with ETH for validating blocks, and penalized if they are not performing validation duties as required. This validation process replaces the Proof of Work process.
 
