@@ -18,7 +18,7 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-**Eth2** (также известное как **Ethereum v 2.0** или **ETH 2.0**) это существенное улучшение, которое планируется для блокчейна Ethereum в течение следующих нескольких лет. Нулевой этап, или Phase 0 — запуск стейкинга и Beacon Chain — происходит в декабре 2020/январе 2021 года. Следующие фазы последуют по мере их готовности. **The full transition to Eth2 will not be complete until 2022, at the earliest.**
+**Eth2** (также называемый как **Ethereum v 2.0** или **ETH 2.0**) это существенное улучшение, которое планируется для блокчейна Ethereum в течение следующих нескольких лет. Нулевой этап, или Phase 0 — запуск стейкинга и Beacon Chain — происходит в декабре 2020/январе 2021 года. Следующие фазы последуют по мере их готовности. **The full transition to Eth2 will not be complete until 2022, at the earliest.**
 
 ## **What does this mean, and how is it going to affect current users of Ethereum and MEW specifically?**
 
