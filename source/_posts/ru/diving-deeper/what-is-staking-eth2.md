@@ -36,7 +36,7 @@ author: MyEtherWallet (MEW)
 
 Однако, в зависимости от количества свободных средств и вашей приверженности экосистеме Ethereum, вы можете сделать ставку в Eth2 и стать частью модели Proof of Stake.
 
-As mentioned above, to become a validator, a user needs to stake an exact amount of 32 ETH. Staking 32 ETH multiple times allows a user to run multiple validators, increasing chances of block rewards.
+Как упоминалось выше, чтобы стать валидатором, необходимо сделать ставку 32 ETH. Сделав несколько ставок по 32 ETH, пользователь может создать несколько валидаторов, что увеличивает шансы получения вознаграждений.
 
 Staking ETH means depositing it into an Eth2 staking contract through a specialized interface **(DO NOT send funds directly to the Eth2 deposit contract)**. This ETH gets locked in the contract for the foreseeable future as Eth2 phases of development move forward. To become a validator, in addition to staking 32 ETH, a user needs to run their own node software and make sure that it is kept well-maintained. Staking in a pool is also possible: this way, the user does not need to perform the validation duties, but the rewards are also reduced.
 
