@@ -28,13 +28,13 @@ author: MyEtherWallet (MEW)
 
 **Eth2 будет использовать Proof of Stake (PoS)**, что значительно улучшит производительность транзакций и уменьшит зависимость от электричества. В этой системе пользователи, которые сделали ставку 32 ETH в новой сети, становятся валидаторами, поддерживающими блокчейн. Быть валидатором означает использовать специальное программное обеспечение на компьютере который должен быть подключен к интернету круглосуточно. Валидаторы будут получать вознаграждения в ETH за подтверждение блоков и штрафованы, если они не выполняют обязанности по валидации. Этот процесс валидации блоков заменяет собой Proof of Work.
 
-Второе новшество Eth2 - это введение осколочных цепей. Первая и главная цепь - Beacon Chain. Shard chains are smaller chains which will run alongside the main Ethereum blockchain, increasing the amount of transactions that can be validated and improving efficiency. Block validations will happen on shard chains, and will be recorded and verified on the Beacon Chain.
+Второе новшество Eth2 - это введение осколочных цепей. Первая и главная цепь - Beacon Chain. Осколoчные цепи - это цепочки которые будут работать наряду с главным блокчейном Ethereum, увеличивая количество транзакций и повышая эффективность. Валидация блоков будет происходить на осколочных цепочках, и будет отмечаться и записываться на Beacon Chain.
 
-## **As these changes take place, current Ethereum users do not need to do anything for the upgrade. Eth2 will be fully compatible with the current Ethereum blockchain, ETH, ERC20 tokens, NFTs, DApps, and MEW.**
+## **По мере того как происходят эти изменения, текущие пользователи Ethereum не должны предпринимать никаких специальных действий. Eth2 будет полностью совместим с текущим блокчейном Ethereum, ETH, ERC20 токенами, NFTs, DApps и MEW.**
 
 <br>
 
-However, depending on the amount of funds you have available and your commitment to the Ethereum ecosystem, you may choose to stake your ETH and become part of the Proof of Stake model.
+Однако, в зависимости от количества свободных средств и вашей приверженности экосистеме Ethereum, вы можете сделать ставку в Eth2 и стать частью модели Proof of Stake.
 
 As mentioned above, to become a validator, a user needs to stake an exact amount of 32 ETH. Staking 32 ETH multiple times allows a user to run multiple validators, increasing chances of block rewards.
 
