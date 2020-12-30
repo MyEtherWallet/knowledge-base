@@ -28,7 +28,7 @@ author: MyEtherWallet (MEW)
 
 **Eth2 будет использовать Proof of Stake (PoS)**, что значительно улучшит производительность транзакций и уменьшит зависимость от электричества. В этой системе пользователи, которые сделали ставку 32 ETH в новой сети, становятся валидаторами, поддерживающими блокчейн. Быть валидатором означает использовать специальное программное обеспечение на компьютере который должен быть подключен к интернету круглосуточно. Валидаторы будут получать вознаграждения в ETH за подтверждение блоков и штрафованы, если они не выполняют обязанности по валидации. Этот процесс валидации блоков заменяет собой Proof of Work.
 
-The other big change for Eth2 is the introduction of shard chains, with Beacon Chain being the main one. Shard chains are smaller chains which will run alongside the main Ethereum blockchain, increasing the amount of transactions that can be validated and improving efficiency. Block validations will happen on shard chains, and will be recorded and verified on the Beacon Chain.
+Второе новшество Eth2 - это введение осколочных цепей. Первая и главная цепь - Beacon Chain. Shard chains are smaller chains which will run alongside the main Ethereum blockchain, increasing the amount of transactions that can be validated and improving efficiency. Block validations will happen on shard chains, and will be recorded and verified on the Beacon Chain.
 
 ## **As these changes take place, current Ethereum users do not need to do anything for the upgrade. Eth2 will be fully compatible with the current Ethereum blockchain, ETH, ERC20 tokens, NFTs, DApps, and MEW.**
 
