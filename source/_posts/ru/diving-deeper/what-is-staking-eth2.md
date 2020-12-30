@@ -12,7 +12,7 @@ primary_category_display_name: "Более глубокое ознакомлен
 author: MyEtherWallet (MEW)
 ---
 
-# **Стейкинг и Eth2**
+# **Eth2 и Стейкинг**
 
 ###### {% read_time title "Eth2 and Staking" %} мин. чтения
 
