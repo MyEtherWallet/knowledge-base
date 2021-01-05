@@ -44,6 +44,16 @@ Ren is working on making renBTC the first truly decentralized solution for movin
 
 Read up on [RenVM’s website][ren] for more information about the project and what else you can do with RenVM. You can also read a Medium post on [RenVM’s road to decentralization][renmap].
 
+## **PBTC**
+
+<br>
+
+pBTC is a token by [pNetwork][pn] and its flagship project pTokens, a cross-chain system that enables assets to move frictionlessly from one blockchain to another. 
+
+Each pBTC is backed 1:1 by real bitcoin secured within the [pTokens][pt] system, with which users can automatically and transparently peg-in their underlying BTC for Ethereum-compatible pBTC, or peg-out to redeem its underlying bitcoin, as needed. 
+
+pNetwork is the progressively decentralized governance layer operating the pTokens bridges among major blockchain protocols, including Bitcoin, Ethereum, EOS, and Litecoin. It is home to the pNetwork DAO and the ecosystem's governance token PNT. Read more at [p.Network.com/learn][pl], or by reviewing this Medium post on the project’s commitment to [security and progressive decentralization][pm].
+
 ## **WBTC**
 
 <br>
@@ -73,3 +83,11 @@ As always, it’s recommended that you read up on your investments before commit
 [pdao]: https://pools.piedao.org/
 
 [swap]: /@@@@@@/swap/swapping-via-kyber-bity-changelly/
+
+[pn]: https://p.network/
+
+[pt]: https://dapp.ptokens.io/
+
+[pl]: https://p.network/learn
+
+[pm]: https://medium.com/pnetwork/pnetwork-dawn-introducing-pnetwork-nodes-97fd502aceca
