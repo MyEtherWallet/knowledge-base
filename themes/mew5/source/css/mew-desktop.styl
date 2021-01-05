@@ -359,19 +359,6 @@
       font-size: 14px
 
 
-    #lang-select-label:hover
-      cursor: pointer;
-      color: white
-
-
-    #lang-select-label
-      color: white
-      font-size: 14px
-
-    #lang-select
-      -moz-appearance: none;
-      -webkit-appearance: none;
-
     .header-wrap
       padding: 20px 0;
 
@@ -995,6 +982,63 @@
         color: white 
       .post-title
         color: white
+    
+    
+  
+  //=========================================================================
+  // Language select
+  //=========================================================================
+  .lang-select-container
+    background-color: transparent
+    padding: 5px
+
+    &:hover
+      .lang-select-box
+        opacity: 1
+        pointer-events: all
+  
+  .lang-select-box
+    pointer-events: none
+    opacity: 0
+    transition: opacity 0.3s ease
+    overflow: hidden
+    background-color: transparent
+    position: absolute
+    padding: 10px 20px 20px 20px
+    top: 25px
+    right: -20px
+    
+    .arrow-up
+      position: absolute
+      top: 5px
+      right: 40px
+      width: 0; 
+      height: 0; 
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-bottom: 5px solid white;
+    
+    >div
+      font-size: 13px
+      background-color: transparent
+      border-radius: 5px
+      overflow: hidden
+      position: relative
+      
+    
+    >div>div
+      padding: 8px 12px
+      cursor: pointer
+      background-color: white
+      
+      &.selected
+        background-color: #dfdfdf
+      
+      &:hover
+        background-color: #05c0a5
+        color: white
+  
+    
 
 .app-banner
   position: fixed
@@ -1033,3 +1077,5 @@
   right: 12px
   top: 12px      
   font-size: 0
+  
+  
