@@ -37,3 +37,7 @@ This process may seem like overkill, but it’s necessary for the security of yo
 In fact, we don’t even allow our users to see their key. Instead, we offer a 24-word recovery phrase for backing up your accounts. This is generally viewed as the best method of recovery, which is used by most hardware wallets and wallet interfaces. 
 
 It’s recommended that you keep this phrase written down on paper, off of the internet, and stored in multiple physical locations. We cannot recover this information for you, which is a good thing. It means you have all the power and control over your accounts.
+
+For further reading, check out our article on [why MEW wallet uses a pin code for access][mwp] instead of a password.
+
+[mwp]: /@@@@@@/mewwallet/mewwallet-pin-password/
