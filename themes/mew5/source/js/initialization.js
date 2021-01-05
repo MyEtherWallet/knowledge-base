@@ -29,10 +29,17 @@ function selectMobileDesktop() {
 
   // Change path for selected language
   $('.lang-select').click(function(){
-    var lang = $(this).data('val');
+    var lang = $(this).data('lang');
+    var currentLang = $(this).data('current-lang');
+    var pagePath = $(this).data('path');
+
+    if(pagePath.startsWith(currentLang)){
+      pagePath = pagePath.slice(3);
+    }
+
     var path = '/';
-    path += lang + '/';
-    location.href = path;    
+    path += lang + '/' + pagePath;
+    location.href = path;
   });
 })(jQuery);
 

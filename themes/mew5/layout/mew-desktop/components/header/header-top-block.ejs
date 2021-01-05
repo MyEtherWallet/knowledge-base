@@ -1,6 +1,6 @@
 <div class="header-top-block">
     <div class="left">
-        <a href="<%- url_for_lang('') %>"><%- image_tag('images/mew-logo-white.png', {alt: ''}) %></a>
+        <a href="/<%= page.lang %>/"><%- image_tag('images/mew-logo-white.png', {alt: ''}) %></a>
         <p><%= _p('help_center') %></p>
     </div>
     <div class="right">
@@ -14,13 +14,11 @@
                     <span class="arrow-up"></span>
                     <div>
                         <% for (let lang in active_languages()){ %>
-                        <div class="lang-select <% if (page.lang === lang){ %> selected<% } %>" data-val="<%= lang %>"<% if (page.lang === lang){ %> selected<% } %>><%= lang_name(lang) %></div>
+                        <div class="lang-select <% if (page.lang === lang){ %> selected<% } %>" data-lang="<%= lang %>" data-current-lang="<%= page.lang %>" data-path="<%= page.path %>"><%= lang_name(lang) %></div>
                       <% } %>
                     </div>
                 </div>
             </li>
         </ul>
-
     </div>
-
 </div>
