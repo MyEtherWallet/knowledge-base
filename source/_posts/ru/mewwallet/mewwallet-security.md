@@ -38,4 +38,4 @@ author: MyEtherWallet (MEW)
 
 Рекомендуется хранить эту фразу записанной на бумаге, не в интернете, и сохраненную в нескольких физических местах. Мы не можем восстановить эту информацию для вас - и это хорошо. Это означает, что только у вас есть полный контроль над своими счетами.
 
-For further reading, check out our article on [why MEW wallet uses a pin code for access](/@@@@@@/mewwallet/mewwallet-pin-password/) instead of a password.
+В дополнение, почитайте [почему MEW кошелек использует PIN-код для доступа](/@@@@@@/mewwallet/mewwallet-pin-password/) вместо пароля.
