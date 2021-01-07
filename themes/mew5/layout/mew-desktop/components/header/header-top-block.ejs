@@ -9,7 +9,7 @@
                 <li><a class="main-nav-link" href="<%- url_for_lang(theme.menu[i]) %>"><%= _p(i) %></a></li>
             <% } %>
             <li class="relative lang-select-container">
-                <div class="no-line-height" id="lang-select-label" for="lang-select" class="lang-nav-link"><%- image_tag('images/flags/' + page.lang + '.svg', {width: 40, height: 20, alt: ''}) %></div>
+                <div class="flag no-line-height" id="lang-select-label" for="lang-select" class="lang-nav-link"><%- image_tag('images/flags/' + page.lang + '.svg', {width: 40, height: 20, alt: ''}) %></div>
                 <div class="lang-select-box hidden">
                     <span class="arrow-up"></span>
                     <div>
@@ -22,3 +22,4 @@
         </ul>
     </div>
 </div>
+
