@@ -1142,3 +1142,79 @@
           display: inline-block
           margin-bottom: 16px
           margin-right: 16px
+
+
+
+  
+  //=========================================================================
+  // Language select
+  //=========================================================================
+  .lang-select-container
+    position: fixed
+    top: 5px
+    right: 5px
+    background-color: transparent
+    padding: 5px
+
+    &:hover
+      .lang-select-box
+        opacity: 1
+        pointer-events: all
+  
+    .flag
+      display: flex
+      align-items: center
+      justify-content: center
+      overflow: hidden
+      border-radius: 4px
+      width: 26px
+      height: 16px
+      box-shadow: 0px 0px 4px rgba(0,0,0,0.3)
+
+      img
+        height: 30px
+        width: 30px
+
+
+  .lang-select-box
+    pointer-events: none
+    opacity: 0
+    transition: opacity 0.3s ease
+    overflow: hidden
+    background-color: transparent
+    position: absolute
+    padding: 10px 0 0 0
+    top: 20px
+    right: 0px
+    
+    .arrow-up
+      position: absolute
+      top: 5px
+      right: 40px
+      width: 0; 
+      height: 0; 
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-bottom: 5px solid white;
+    
+    >div
+      font-size: 13px
+      background-color: transparent
+      border-radius: 5px
+      overflow: hidden
+      position: relative
+      
+    
+    >div>div
+      padding: 8px 12px
+      cursor: pointer
+      background-color: white
+      
+      &.selected
+        background-color: #dfdfdf
+      
+      &:hover
+        background-color: #05c0a5
+        color: white
+  
+    
