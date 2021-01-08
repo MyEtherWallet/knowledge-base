@@ -33,7 +33,7 @@ author: MyEtherWallet (MEW)
 
 **Шаг 1.** Когда вы готовы, откройте приложение MEW wallet.
 
-**Step 2.** Tap the double-sided arrow in the bottom row to go to the ‘Swap’ section, then select ‘Move Bitcoin to Ethereum’.
+**Шаг 2.** Нажмите на изогнутую стрелку в нижней строке для перехода в раздел 'Swap', затем выберите Move your Bitcoin to Ethereum (Использовать Bitcoin на Ethereum).
 
 <div class="wrap-mobile-phone">
 <img src="/images/posts/mewconnect/mw1.PNG" alt="Изображение сканирования QR-кода в MEW wallet" />
@@ -78,7 +78,7 @@ author: MyEtherWallet (MEW)
 
 **Step 1.** When you’re ready to move back to Bitcoin, head to the MEW wallet app.
 
-**Step 2.** Tap the double-sided arrow in the bottom row to go to the ‘Swap’ section, then select ‘Move Bitcoin to Ethereum’.
+**Шаг 2.** Нажмите на изогнутую стрелку в нижней строке для перехода в раздел 'Swap', затем выберите Move your Bitcoin to Ethereum (Использовать Bitcoin на Ethereum).
 
 <img src="/images/posts/mewconnect/mw1.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
 
