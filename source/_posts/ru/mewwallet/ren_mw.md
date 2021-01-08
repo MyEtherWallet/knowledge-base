@@ -38,7 +38,7 @@ author: MyEtherWallet (MEW)
 <div class="wrap-mobile-phone">
 <img src="/images/posts/mewconnect/mw1.PNG" alt="Изображение сканирования QR-кода в MEW wallet" />
 </div>
-**Шаг 3.** Вам будет выдан временный ‘Адрес пополнения’ BTC, который будет действителен 12 часов. Send the designated amount of BTC to this temporary address in order to begin the process of moving it to your MEW wallet account. 
+**Шаг 3.** Вам будет выдан временный ‘Адрес пополнения’ BTC, который будет действителен 12 часов. Отправьте выбранное количество BTC на этот временный адрес, чтобы начать процесс перевода BTC для использования на вашем MEW wallet. 
 
 <div class="d-flex justify-content-space-around flex-wrap margin-0">
   <div class="wrap-mobile-phone">
@@ -62,9 +62,9 @@ author: MyEtherWallet (MEW)
   <img src="/images/posts/mewconnect/mw10.PNG" alt="Изображение сканирования QR-кода в MEW wallet" />
 </div>
 
-**Step 4.** Once the deposit has been detected, there will be a process of 6 confirmations to confirm the deposit. This process will take a while.
+**Шаг 4.** Для подтверждения депозита понадобится 6 подтверждений. Этот процесс займет некоторое время.
 
-**Step 5.** After the 6 confirmations are completed, your renBTC will be minted and sent directly to your MEW wallet account address.
+**Шаг 5.** После завершения 6 подтверждений, ваш renBTC будет создан и отправлен непосредственно на ваш кошелек MEW wallet.
 
 **Шаг 6.** Готово! Once you’ve received your renBTC, you can begin swapping it for other tokens, using it in DeFi apps, or you can just hold onto it.
 
