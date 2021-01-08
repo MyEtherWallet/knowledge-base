@@ -1,5 +1,5 @@
 ---
-title: "Move Your Bitcoin to Ethereum using the MEW wallet app"
+title: "Используйте свой Bitcoin на сети Ethereum с приложением MEW wallet"
 date: 2018-06-01 00:02:00
 tags:
   - ren
@@ -38,7 +38,7 @@ author: MyEtherWallet (MEW)
 <div class="wrap-mobile-phone">
 <img src="/images/posts/mewconnect/mw1.PNG" alt="Изображение сканирования QR-кода в MEW wallet" />
 </div>
-**Step 3.** You will be given a temporary ‘Deposit Address’ for BTC that will last for 12 hours. Send the designated amount of BTC to this temporary address in order to begin the process of moving it to your MEW wallet account. 
+**Шаг 3.** Вам будет выдан временный ‘Адрес пополнения’ BTC, который будет действителен 12 часов. Send the designated amount of BTC to this temporary address in order to begin the process of moving it to your MEW wallet account. 
 
 <div class="d-flex justify-content-space-around flex-wrap margin-0">
   <div class="wrap-mobile-phone">
