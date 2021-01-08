@@ -25,13 +25,13 @@ author: MyEtherWallet (MEW)
 
 Приложение MEW wallet предлагает мост Bitcoin-Ethereum прямо в вашем кошельке, с помощью услуг RenVM. Теперь пользователи могут держать свой BTC в виде renBTC в кошельке MEW. RenBTC – это токен который живет на блокчейне Ethereum и привязан к стоимости BTC. Этот токен можно обменивать на другие токены или перевести обратно в BTC в любое время.
 
-To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app account.
+Для начала вам понадобится активный кошелек Bitcoin и некоторое количество BTC, а также приложение MEW wallet.
 
-### **Moving Bitcoin to Ethereum**
+### **Использование Bitcoin на блокчейне Ethereum**
 
 <br>
 
-**Step 1.** When you’re ready, head to the MEW wallet app.
+**Шаг 1.** Когда вы готовы, откройте приложение MEW wallet.
 
 **Step 2.** Tap the double-sided arrow in the bottom row to go to the ‘Swap’ section, then select ‘Move Bitcoin to Ethereum’.
 
