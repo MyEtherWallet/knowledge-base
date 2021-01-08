@@ -99,11 +99,11 @@ author: MyEtherWallet (MEW)
   </div>
 </div>
 
-**Step 5.** Set your BTC deposit address, select 'Proceed with move', and your transfer back to BTC will begin.
+**Шаг 5.** Зaполните свой Bitcoin адрес, выберите 'Продолжить перемещение' ('Proceed with move'), и ваш перевод обратно на BTC будет запущен.
 
-**Step 6.** After a few confirmations, your BTC transfer will complete, and you'll be all set! This process may take a while.
+**Шаг 6.** После нескольких подтверждений ваш BTC перевод будет завершён, и все будет готово! Однако, этот процесс может занять некоторое время.
 
-## **Risks Involved:**
+## **Риски:**
 
 -   When you begin this process, make sure you send your Bitcoin within the 12 hour time limit and use a high gas fee. If the Bitcoin transaction and 6 confirmations don’t go through in 24 hours, the Bitcoin can get stuck. Most of the time, Ren will be able to recover it for you, but in rare edge-cases, this Bitcoin could be permanently lost.
 -   Don't send your Bitcoin directly from a centralized exchange. Most centralized exchanges pool many different users together under a few addresses. If something goes wrong with the process, and your BTC is sent back to you, an exchange may have trouble knowing this BTC is meant for you.
