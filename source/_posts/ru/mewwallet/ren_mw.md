@@ -17,13 +17,13 @@ primary_category_display_name: "MEWwallet"
 author: MyEtherWallet (MEW)
 ---
 
-# **Move Your Bitcoin to Ethereum using the MEW wallet app**
+# **Используйте свой Bitcoin на сети Ethereum с приложением MEW wallet**
 
-###### {% read_time title "Move Your Bitcoin to Ethereum using the MEW wallet app" %} min read
+###### {% read_time title "Move Your Bitcoin to Ethereum using the MEW wallet app" %} мин. чтения
 
 * * *
 
-MEW wallet has partnered with RenVM to offer a Bitcoin bridge to Ethereum right in the MEW wallet app. Now users can hold their BTC with MEW wallet in the form of renBTC, which is a token that lives on the Ethereum blockchain and is pegged to BTC’s value. This token can be swapped for other tokens or moved back to BTC at any time.
+Приложение MEW wallet предлагает мост Bitcoin-Ethereum прямо в вашем кошельке, с помощью услуг RenVM. Now users can hold their BTC with MEW wallet in the form of renBTC, which is a token that lives on the Ethereum blockchain and is pegged to BTC’s value. This token can be swapped for other tokens or moved back to BTC at any time.
 
 To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app account.
 
