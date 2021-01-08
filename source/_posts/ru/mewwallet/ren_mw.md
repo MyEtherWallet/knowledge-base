@@ -66,23 +66,23 @@ author: MyEtherWallet (MEW)
 
 **Шаг 5.** После завершения 6 подтверждений, ваш renBTC будет создан и отправлен непосредственно на ваш кошелек MEW wallet.
 
-**Шаг 6.** Готово! Once you’ve received your renBTC, you can begin swapping it for other tokens, using it in DeFi apps, or you can just hold onto it.
+**Шаг 6.** Готово! Как только вы получите renBTC, вы можете обменивать его на другие токены и использовать в DeFi приложениях.
 
 <div class="wrap-mobile-phone">
   <img src="/images/posts/mewconnect/mw5.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
 </div>
 
-### **Moving Back to Bitcoin**
+### **Возвращение в Bitcoin**
 
 <br>
 
-**Step 1.** When you’re ready to move back to Bitcoin, head to the MEW wallet app.
+**Шаг 1.** Когда вы готовы вернуться в Bitcoin, откройте приложение MEW wallet.
 
 **Шаг 2.** Нажмите на изогнутую стрелку в нижней строке для перехода в раздел 'Swap', затем выберите Move your Bitcoin to Ethereum (Использовать Bitcoin на Ethereum).
 
 <img src="/images/posts/mewconnect/mw1.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
 
-**Step 3.** From here, select 'Move back to BTC'.
+**Шаг 3.** Выберите 'Вернуться к BTC' ('Move back to BTC')
 
 <div class="wrap-mobile-phone">
   <img src="/images/posts/mewconnect/mw2.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;"/>
