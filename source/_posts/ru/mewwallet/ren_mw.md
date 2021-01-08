@@ -88,7 +88,7 @@ author: MyEtherWallet (MEW)
   <img src="/images/posts/mewconnect/mw2.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;"/>
 </div>
 
-**Step 4.** Enter the amount of renBTC you'd like to send back, then continue.
+**Шаг 4.** Введите количество renBTC, которое вы хотите перевести обратно, и продолжите.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
   <div class="wrap-mobile-phone">
