@@ -82,7 +82,7 @@ author: MyEtherWallet (MEW)
 
 <img src="/images/posts/mewconnect/mw1.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;" />
 
-**Шаг 3.** Выберите 'Вернуться к BTC' ('Move back to BTC')
+**Шаг 3.** Выберите 'Вернуться к BTC' ('Move back to BTC').
 
 <div class="wrap-mobile-phone">
   <img src="/images/posts/mewconnect/mw2.PNG" alt="Изображение сканирования QR-кода в MEW wallet" style="max-width: 250px;"/>
@@ -116,5 +116,5 @@ author: MyEtherWallet (MEW)
 
 -   комиссия MEW 1%
 -   комиссии сети RenVM 0.1%
--   0.000007 BTC as a flat gas fee by RenVM (which can increase during times of high volume)
--   Ethereum gas fee, determined by network congestion
+-   0.000007 BTC в качестве платы за газ RenVM (эта комиссия может увеличиваться во время большой загруженности сети)
+-   Комиссия газа сети Ethereum, зависит от загруженности сети
