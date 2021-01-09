@@ -106,8 +106,8 @@ author: MyEtherWallet (MEW)
 ## **Риски:**
 
 -   Когда вы начинаете этот процесс, важно отправить Bitcoin в течение 12-часового лимита и использовать высокую комиссию. Если транзакция Bitcoin и 6 подтверждений не пройдут в течение 24 часов, Bitcoin может застрять. В большинстве случаев Ren сможет восстановить его для вас, но в редких случаях Bitcoin может быть окончательно утерян.
--   Не отправляйте Bitcoin прямo с централизованной биржи. Большинство централизованных бирж объединяют множество различных пользователей на нескольких адресах. If something goes wrong with the process, and your BTC is sent back to you, an exchange may have trouble knowing this BTC is meant for you.
--   If you send an amount of BTC that is too small, it will all be used up in the fees for this process, so make sure you send a substantial amount.
+-   Не отправляйте Bitcoin прямo с централизованной биржи. Большинство централизованных бирж объединяют множество различных пользователей на нескольких адресах. Если что-то пойдет не так в процессе обмена, и ваш BTC отправлен вам обратно, биржа может иметь сложности в определении кому предназначен BTC.
+-   Если вы отправите слишком маленькое количество BTC, вся сумма может быть использована на комиссии за этот процесс, поэтому для данной цели лучше отправлять более существенную сумму.
 -   This transferral process is built by RenVM, so it’s important to do your research into the risks associated with their platform and product. Also, all value for renBTC is protected by RenVM, but if something happens to RenVM, we cannot guarantee the BTC peg for renBTC.
 
 <br>
