@@ -24,7 +24,7 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-## **MEW has integrated DEX.AG and Changelly to offer the ability to move your Bitcoin to the Ethereum blockchain through wrapped tokens.**
+## **Интеграция DEX.AG и Changelly в MEW дает возможность перенести ваш Bitcoin на блокчейн Ethereum с помощью обернутых токенов.**
 
 <br>
 
