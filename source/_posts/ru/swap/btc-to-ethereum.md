@@ -1,5 +1,5 @@
 ---
-title: "Move your BTC to the Ethereum Blockchain with MEW swap"
+title: "Переведите BTC на блокчейн Ethereum с помощью MEW Swap"
 date: 2018-06-01 00:03:00
 tags:
   - swap
@@ -18,9 +18,9 @@ primary_category_display_name: "Обмен"
 author: MyEtherWallet (MEW)
 ---
 
-# **Move your BTC to the Ethereum Blockchain with MEW swap**
+# **Переведите BTC на блокчейн Ethereum с помощью MEW Swap**
 
-###### {% read_time title "Move your BTC to the Ethereum Blockchain with MEW swap" %} min read
+###### {% read_time title "Move your BTC to the Ethereum Blockchain with MEW swap" %} мин. чтения
 
 * * *
 
