@@ -28,11 +28,11 @@ author: MyEtherWallet (MEW)
 
 **PIN/биометрия -> Защищенный ключ Enclave -> Master ключ -> Закрытый ключ**
 
-Since **your pin code is not actually used to encrypt your private key**, it is unnecessary to use a complex password for access. If a hacker managed to get ahold of your device and somehow managed to access your encrypted private key, they would have to bruteforce a proper **AES 128 bit SE encryption**, which would take longer than the age of our Universe to accomplish.
+Поскольку ваш PIN-код **не используется непосредственно для шифрования вашего закрытого ключа**, для доступа нет необходимости использовать сложный пароль. Если хакеру удалось-бы завладеть вашим устройством и как-то получить доступ к вашему зашифрованному закрытому ключу, ему пришлось бы взламывать шифрование **AES 128 bit SE**, что заняло бы дольше времени чем возраст нашей вселенной.
 
-The other scenario is that someone gains access to your phone and tries to use your MEW wallet app to send funds directly. First they would need to unlock your phone's main lockscreen, then they would need to unlock your MEW wallet app. (For stronger security, use different pins for your phone's lock screen and your MEW wallet app!)
+Другой сценарий: кто-то получает доступ к вашему телефону и пытается использовать MEW wallet для прямого перевода средств. Сначала они должны разблокировать главный экран блокировки вашего телефона, затем им нужно разблокировать MEW wallet. (Для максимальной безопасности используйте разные коды для блокировки экрана телефона и приложения MEW wallet!)
 
-Brute-forcing a pin code requires trial and error to try and determine the correct combination. However, **both your mobile device and the MEW wallet app have placed heavy restrictions on the number of attempts you can make to unlock them**. For this reason, the possibility of someone accessing your app with your phone is very small, even if they have prolonged access to it.
+Взламывание PIN-кода требует множества проб и ошибок для определения правильной комбинации. However, **both your mobile device and the MEW wallet app have placed heavy restrictions on the number of attempts you can make to unlock them**. For this reason, the possibility of someone accessing your app with your phone is very small, even if they have prolonged access to it.
 
 Therefore, using a password or a pin code are both viable options. However, we chose the pin code route for simplicity, efficiency, and the ability to place restrictions on the number of attempts to unlock.
 
