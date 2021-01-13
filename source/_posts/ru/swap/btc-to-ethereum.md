@@ -28,7 +28,7 @@ author: MyEtherWallet (MEW)
 
 <br>
 
-Обернутые токены имеют привязку к определенной криптовалюте, в данном случае к Bitcoin, так что они сохраняют цену валюты к которой они привязаны, несмотря на волатильность криптовалютного рынка. Some examples include the ERC20 tokens renBTC, wBTC, and BTC++, all of which are available through [MEW web’s swap portal][swap].
+Обернутые токены имеют привязку к определенной криптовалюте, в данном случае к Bitcoin, так что они сохраняют цену валюты к которой они привязаны, несмотря на волатильность криптовалютного рынка. Примеры обернутых токенов которые доступны через [портал обмена MEW web-][swap]: renBTC, wBTC и BTC++.
 
 **Moving your Bitcoin to Ethereum has many different applications.** The main benefit is bringing Bitcoin’s value, community, and liquidity to Ethereum. Although Ethereum boasts powerful smart contract technology, Bitcoin is by far the largest crypto in terms of total market cap. Bridging the gap between Bitcoin and Ethereum allows for more DeFi opportunities, more innovation, and less isolation between chains.
 
