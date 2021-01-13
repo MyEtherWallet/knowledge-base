@@ -20,11 +20,11 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-## First, it's important to understand the [underlying security and encryption methods used by MEW wallet][mws] to secure your private key.
+## Во-первых, важно понимать [методы безопасности и шифрования используемые MEW wallet][mws] для защиты вашего закрытого ключа.
 
 <br>
 
-Your pin code and biometric access, such as FaceID or Fingerprint, are the first step of accessing your private key information from the secure local storage on your mobile device. It follows this general path, with extra layers of security and encryption steps ommitted for simplicity:
+Пин-код и биометрический доступ, такие как FaceID или отпечаток пальца, являются первым шагом доступа к информации о вашем ключе, хранящейся в безопасном локальном хранилище на вашем мобильном устройстве. It follows this general path, with extra layers of security and encryption steps ommitted for simplicity:
 
 **PIN/biometry -> Secure Enclave Key -> Master Key -> Private Key**
 
