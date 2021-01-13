@@ -26,7 +26,7 @@ author: MyEtherWallet (MEW)
 
 Пин-код и биометрический доступ, такие как FaceID или отпечаток пальца, являются первым шагом доступа к информации о вашем ключе, хранящейся в безопасном локальном хранилище на вашем мобильном устройстве. Эта информация защищается следующим образом (некоторые уровни безопасности и шифрования здесь пропущены для простоты):
 
-**PIN/biometry -> Secure Enclave Key -> Master Key -> Private Key**
+**PIN/биометрия -> Защищенный ключ Enclave -> Master ключ -> Закрытый ключ**
 
 Since **your pin code is not actually used to encrypt your private key**, it is unnecessary to use a complex password for access. If a hacker managed to get ahold of your device and somehow managed to access your encrypted private key, they would have to bruteforce a proper **AES 128 bit SE encryption**, which would take longer than the age of our Universe to accomplish.
 
