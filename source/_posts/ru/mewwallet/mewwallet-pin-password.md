@@ -36,6 +36,6 @@ author: MyEtherWallet (MEW)
 
 Поэтому использование как пароля, так и PIN-кода являются подходящими опциями. Мы выбрали PIN-код по причинам простоты в использовании, эффективности и возможности установить ограничения на количество попыток разблокировки.
 
-The best way to keep your funds safe using the MEW wallet app is to make sure you write down your 24 word recovery phrase on paper with pen, double-check every word, and store it somewhere safe for the long-term. **Never enter your phrase on any websites online, and never share them with anyone.** They offer complete and permanent access to your wallet.
+Лучший способ обеспечить сохранность ваших средств с помощью MEW wallet - это записать вашу фразу восстановления из 24 слов ручкой на бумаге, перепроверить каждое слово и хранить ее в надежном месте. **Никогда не вводите свою фразу на сайтах в интернете и никогда не делитесь ею с кем-либо.** Фраза дает полный и постоянный доступ к вашему кошельку.
 
 [mws]: /@@@@@@/mewwallet/mewwallet-security/
