@@ -40,9 +40,9 @@ author: MyEtherWallet (MEW)
 
 Ren Project создал протокол RenVM для обмена BTC на обернутый ERC20 токен renBTC и обратно. Каждый renBTC привязан 1:1 к BTC, поэтому вы можете быть уверены в том, что сможете поменять свой renBTC обратно в BTC в любое время без каких-либо проблем с ликвидностью. Приложение [MEW wallet][mw] предлагает этот обмен прямо в мобильном интерфейсе.
 
-Ren is working on making renBTC the first truly decentralized solution for moving BTC to Ethereum. Because of this, sometimes it can take longer to reach all the confirmations necessary to move your BTC over. It’s always recommended to do your own research before fully committing to any crypto asset.
+Ren работает над тем, чтобы сделать renBTC первым действительно децентрализованным решением для переноса BTC в Ethereum. Из-за этого иногда требуется больше времени для получения всех подтверждений, необходимых для переноса вашего BTC. Всегда рекомендуется узнать как можно больше информации и сделать свои выводы прежде чем делать вклад в любой криптовалютный актив.
 
-Read up on [RenVM’s website][ren] for more information about the project and what else you can do with RenVM. You can also read a Medium post on [RenVM’s road to decentralization][renmap].
+Ознакомьтесь с сайтом [RenVM][ren] для получения дополнительной информации о проекте и о том, как еще можно пользоваться RenVM. Вы также можете прочитать статью описыващую [путь RenVM к полной децентрализации][renmap].
 
 ## **PBTC**
 
