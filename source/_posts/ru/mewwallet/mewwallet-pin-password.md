@@ -1,5 +1,5 @@
 ---
-title: "Why Does MEW wallet use a Pin Code instead of a Password?"
+title: "Почему MEW wallet использует PIN-код вместо пароля?"
 date: 2018-03-01 00:01:00
 tags:
   - mewwallet
@@ -14,9 +14,9 @@ primary_category_display_name: "MEWwallet"
 author: MyEtherWallet (MEW)
 ---
 
-# **Why Does MEW wallet use a Pin Code instead of a Password?**
+# **Почему MEW wallet использует PIN-код вместо пароля?**
 
-###### {% read_time title "Why Does MEW wallet use a Pin Code instead of a Password?" %} мин чтения
+###### {% Почему MEW wallet использует PIN-код вместо пароля?" %} мин чтения
 
 * * *
 
