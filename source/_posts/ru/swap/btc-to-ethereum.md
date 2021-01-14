@@ -52,13 +52,13 @@ pBTC - токен созданный [pNetwork][pn] в рамках проект
 
 Каждый pBTC подкрепляется один к одному резервом Bitcoin который защищен системой [pTokens][pt]. Пользователи могут вводить свои BTC и получать токены pBTC совместимые с Ethereum, или наоборот обменять pBTC обратно на Bitcoin, по необходимости.
 
-pNetwork is the progressively decentralized governance layer operating the pTokens bridges among major blockchain protocols, including Bitcoin, Ethereum, EOS, and Litecoin. It is home to the pNetwork DAO and the ecosystem's governance token PNT. Read more at [p.Network.com/learn][pl], or by reviewing this Medium post on the project’s commitment to [security and progressive decentralization][pm].
+pNetwork - это поэтапно децентрализующийся инструмент управления, руководящий мостами между основными блокчейн-протоколами, включая Bitcoin, Ethereum, EOS и Litecoin. На нем основаны децентрализованная организация pNetwork DAO и токен управления экосистемой PNT. Ознакомьтесь со страницей [p.Network.com/learn][pl], или посмотрите этот пост от том как проект подходит к [безопасности и постепенной децентрализации][pm].
 
 ## **WBTC**
 
 <br>
 
-The pegged token WBTC stands for ‘wrapped BTC’. It is a token initially developed through a partnership of BitGo, Ren, Dharma, Kyber, Compound, MakerDAO, and Set Protocol. Now it is managed through a Decentralized Autonomous Organization (DAO) called WBTC DAO. All Bitcoin used by WBTC is kept and maintained by BitGo as a custodial service.
+Название токена WBTC означает 'wrapped BTC' или 'обернутый BTC'. Это токен, первоначально разработанный через партнерство BitGo, Ren, Dharma, Kyber, Compound, MakerDAO и Set Protocol. Теперь он управляется через Децентрализованную Автономную Организацию (DAO) под названием WBTC DAO. All Bitcoin used by WBTC is kept and maintained by BitGo as a custodial service.
 
 It’s important to note that WBTC is a centralized solution for wrapped Bitcoin; it’s arguably the most popular as well. WBTC will never be as secure as the Bitcoin blockchain itself, since in the end it’s governed by people and not code itself, but it remains a good option for bringing BTC value to the Ethereum blockchain.
 
