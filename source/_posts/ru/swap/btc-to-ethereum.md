@@ -50,7 +50,7 @@ Ren работает над тем, чтобы сделать renBTC первы�
 
 pBTC - токен созданный [pNetwork][pn] в рамках проекта pTokens, системы кросс-чейн которая позволяет беспрепятственно перемещать активы с одного блокчейна на другой.
 
-Each pBTC is backed 1:1 by real bitcoin secured within the [pTokens][pt] system, with which users can automatically and transparently peg-in their underlying BTC for Ethereum-compatible pBTC, or peg-out to redeem its underlying bitcoin, as needed.
+Каждый pBTC подкрепляется один к одному резервом Bitcoin который защищен системой [pTokens][pt]. Пользователи могут вводить свои BTC и получать токены pBTC совместимые с Ethereum, или наоборот обменять pBTC обратно на Bitcoin, по необходимости.
 
 pNetwork is the progressively decentralized governance layer operating the pTokens bridges among major blockchain protocols, including Bitcoin, Ethereum, EOS, and Litecoin. It is home to the pNetwork DAO and the ecosystem's governance token PNT. Read more at [p.Network.com/learn][pl], or by reviewing this Medium post on the project’s commitment to [security and progressive decentralization][pm].
 
