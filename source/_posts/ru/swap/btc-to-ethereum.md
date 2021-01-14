@@ -60,9 +60,9 @@ pNetwork - это поэтапно децентрализующийся инст
 
 Название токена WBTC означает 'wrapped BTC' или 'обернутый BTC'. Это токен, первоначально разработанный через партнерство BitGo, Ren, Dharma, Kyber, Compound, MakerDAO и Set Protocol. Теперь он управляется через Децентрализованную Автономную Организацию (DAO) под названием WBTC DAO. Весь Bitcoin, используемый WBTC, хранится и поддерживается BitGo.
 
-It’s important to note that WBTC is a centralized solution for wrapped Bitcoin; it’s arguably the most popular as well. WBTC will never be as secure as the Bitcoin blockchain itself, since in the end it’s governed by people and not code itself, but it remains a good option for bringing BTC value to the Ethereum blockchain.
+Важно отметить, что WBTC - централизованный провайдер обернутого Bitcoin, однако, он также и наиболее популярный. WBTC will never be as secure as the Bitcoin blockchain itself, since in the end it’s governed by people and not code itself, but it remains a good option for bringing BTC value to the Ethereum blockchain.
 
-You can read more about WBTC on [the WBTC website][wbtc].
+Подробнее о WBTC можно прочитать на [сайте WBTC][wbtc].
 
 ## **BTC++**
 
