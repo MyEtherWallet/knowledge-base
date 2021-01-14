@@ -48,7 +48,7 @@ Ren работает над тем, чтобы сделать renBTC первы�
 
 <br>
 
-pBTC is a token by [pNetwork][pn] and its flagship project pTokens, a cross-chain system that enables assets to move frictionlessly from one blockchain to another.
+pBTC - токен созданный [pNetwork][pn] в рамках проекта pTokens, системы кросс-чейн которая позволяет беспрепятственно перемещать активы с одного блокчейна на другой.
 
 Each pBTC is backed 1:1 by real bitcoin secured within the [pTokens][pt] system, with which users can automatically and transparently peg-in their underlying BTC for Ethereum-compatible pBTC, or peg-out to redeem its underlying bitcoin, as needed.
 
