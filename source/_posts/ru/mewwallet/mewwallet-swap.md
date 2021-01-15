@@ -42,10 +42,10 @@ author: MyEtherWallet (MEW)
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mws4.jpg" alt="Image of MEW wallet select best rate" />
+  <img src="/images/posts/mewconnect/mws4.jpg" alt="Изображение MEW wallet выбрать курс" />
   </div>
   <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mws5.jpg" alt="Image of MEW wallet proceed with swap" />
+  <img src="/images/posts/mewconnect/mws5.jpg" alt="Изображение MEW wallet продолжить обмен" />
   </div>
 </div>
 
@@ -53,10 +53,10 @@ author: MyEtherWallet (MEW)
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mws7.jpg" alt="Image of MEW wallet swap pending" />
+  <img src="/images/posts/mewconnect/mws7.jpg" alt="Изображение MEW wallet ожидание обмена" />
   </div>
   <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mws8.jpg" alt="Image of MEW wallet swap completed" />
+  <img src="/images/posts/mewconnect/mws8.jpg" alt="Изображение MEW wallet обмен завершен" />
   </div>
 </div>
 
@@ -64,10 +64,10 @@ author: MyEtherWallet (MEW)
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mws9.jpg" alt="Image of MEW wallet updated balance" />
+  <img src="/images/posts/mewconnect/mws9.jpg" alt="Изображение MEW wallet обновленный баланс" />
   </div>
   <div class="wrap-mobile-phone">
-  <img src="/images/posts/mewconnect/mws10.jpg" alt="Image of MEW wallet full account details" />
+  <img src="/images/posts/mewconnect/mws10.jpg" alt="Изображение деталей аккаунта MEW wallet" />
   </div>
 </div>
 [Mwcreate]: /@@@@@@/mewwallet/mewwallet-user-guide

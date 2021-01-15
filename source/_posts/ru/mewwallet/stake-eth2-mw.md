@@ -1,5 +1,5 @@
 ---
-title: "Stake on Eth2 using the MEW wallet app"
+title: "Стейкинг в Eth2 в приложении MEW wallet"
 date: 2018-06-01 00:02:00
 tags:
   - stake
@@ -16,35 +16,35 @@ primary_category_display_name: "MEWwallet"
 author: MyEtherWallet (MEW)
 ---
 
-# **Stake on Eth2 using the MEW wallet app**
+# **Стейкинг в Eth2 в приложении MEW wallet**
 
-###### {% read_time title "Stake on Eth2 using the MEW wallet app" %} min read
+###### {% read_time title "Stake on Eth2 using the MEW wallet app" %} мин. чтения
 
 * * *
 
-## **The MEW wallet app has integrated Staked.us to make it easier than ever to stake on Eth2 to earn rewards.**
+## **Приложение MEW wallet предлагает интеграцию Staked.us для упрощения создания валидатора на Eth2 и получения процентного дохода.**
 
-Each stake of 32 ETH will create a validator. Once you stake on Eth2 to create a validator, no further action is required. Staked.us will maintain and update your validator for you.
+Каждая ставка 32 ETH создаст один валидатор. Как только вы сделаете ставку на Eth2 для создания валидатора, никаких дальнейших действий не требуется. Staked.us будет поддерживать и обновлять ваш валидатор для вас.
 
-In order to create a validator, you’ll need at least 32 ETH to stake. Your stake will live on the Beacon Chain, which is the foundation for Eth2. For more information on Eth2, the Beacon Chain, and creating a validator, read our write-up on [Phase 0 of Eth2][eth2].
+Чтобы создать валидатор, необходимо сделать ставку минимум 32 ETH. Ваша ставка будет находиться на Beacon Chain, которая лежит в основе Eth2. Для дополнительной информации об Eth2, Beacon Chain и создании валидатора, ознакомьтесь с нашей статьей о [0 Фазе Eth2][eth2].
 
-**You will also need an Eth2 withdrawal address.** Eth2 withdrawal addresses are used to withdraw your staked ETH and rewards. With the MEW wallet app, your 24 word recovery phrase will be the same phrase used for your Eth2 withdrawal address.
+**Вам также понадобится адрес для снятия Eth2.** Адреса снятия Eth2 используются для вывода вашей ставки ETH и накопленных процентов. В приложении MEW wallet, вы сможете получить доступ к адресу снятия Eth2 с помощью той-же фразы восстановления из 24 слов которую вы записали при создании резервной копии кошелька.
 
-**Don't lose your recovery phrase!** This phrase holds the keys to both your MEW wallet account and your Eth2 stake, and it is necessary for future access. No one can recover your phrase for you, so it's very important you take care of it.
+**Не теряйте свою фразу восстановления!** Эта фраза является ключом к вашему кошельку MEW wallet и к вашей ставке Eth2, и необходима для будущего доступа. Никто не может восстановить ее для вас, поэтому очень важно хранить ее в безопасности.
 
-## **Staking and the Risks Involved**
-
-<br>
-
-Staked.us is the provider for our Staking integration. Staked.us will not have access to your stake or rewards, but they will be responsible for maintaining your validator. If a validator is down for a prolonged period of time, **there are risks of having your staked ETH slashed**. Therefore, your stake is in the hands of Staked.us.
-
-In addition, all staked ETH and rewards from your validator will be unable to be withdrawn until a later phase of Eth2 released on an unknown date in the future. It's very important that you understand all ETH staked during Phase 0 will be unavailable for withdrawal until Eth2 transfers are enabled in a later phase.
-
-### **Stake your ETH on Eth2 using the MEW wallet app**
+## **Риски стейкинга на Eth2**
 
 <br>
 
-**Step 1.** Access the MEW wallet app and tap on the ‘Leaf’ symbol from the bottom row of icons. Read the disclaimers, and tap 'Start Staking'.
+Staked.us является провайдером интеграции стейкинг в MEW. Staked.us не будет иметь доступа к вашей ставке или заработанным процентам, но будет нести ответственность за поддержку вашего валидатора. Если валидатор не выполняет свою работу в течении длительного периода времени, **существует риск того, что ваша ставка ETH будет оштрафована**. Таким образом, ваша ставка находится в руках Staked.us.
+
+Кроме того, вся ставка ETH и годовые проценты от вашего валидатора не смогут быть сняты до более поздней фазы Eth2. Точная дата когда эта фаза войдет в силу пока неизвестна. Очень важно, чтобы вы понимали: все ставки ETH сделанные на стадии 0 будут недоступны для вывода до тех пор, пока транзакции Eth2 не станут возможны на более позднем этапе.
+
+### **Стейкинг в Eth2 в приложении MEW wallet**
+
+<br>
+
+**Шаг 1.** Откройте приложение MEW wallet и нажмите на символ «Leaf» из нижней строки значков. Прочитайте отказ от ответственности и нажмите 'Начать стейкинг'.
 
 <div class="d-flex justify-content-space-around flex-wrap margin-0">
   <div class="wrap-mobile-phone">
@@ -55,7 +55,7 @@ In addition, all staked ETH and rewards from your validator will be unable to be
 </div>
 </div>
 
-**Step 2.** Select a multiple of 32 ETH for your stake. For each multiple of 32 ETH, Staked.us will create and maintain a validator on the Eth2 Beacon Chain. 
+**Шаг 2.** Выберите для ставки 32 ETH или другое количество ETH кратное 32. Для каждой ставки 32 ETH, Staked.us создаст и будет поддерживать валидатор на Eth2 Beacon Chain. 
 
 <div class="d-flex justify-content-space-around flex-wrap margin-0">
   <div class="wrap-mobile-phone">
@@ -66,7 +66,7 @@ In addition, all staked ETH and rewards from your validator will be unable to be
 </div>
 </div>
 
-**Step 3.** Tap ‘Enable Staking’ and wait for Staked.us to provision your validator(s). You will need to wait 10-20 seconds. After that, you can tap ‘Stake \_\_ ETH’ to continue with the staking process.
+**Шаг 3.** Нажмите «Активировать стейкинг» и подождите пока Staked.us подготовит ваш валидатор(ы). Нужно будет подождать 10-20 секунд. После этого вы можете нажать «Отправить \_\_ ETH», чтобы продолжить процесс стейкинга.
 
 <div class="d-flex justify-content-space-around flex-wrap margin-0">
   <div class="wrap-mobile-phone">
@@ -77,7 +77,7 @@ In addition, all staked ETH and rewards from your validator will be unable to be
 </div>
 </div>
 
-**Step 4.** Read our disclaimer carefully, and confirm the details of your transaction.
+**Шаг 4.** внимательно прочтите наш отказ от ответственности и подтвердите детали вашей транзакции.
 
 <div class="d-flex justify-content-space-around flex-wrap margin-0">
   <div class="wrap-mobile-phone">
@@ -88,7 +88,7 @@ In addition, all staked ETH and rewards from your validator will be unable to be
 </div>
 </div>
 
-**Step 5.** Your validator is now ready to go on Eth2, although it may take up to 48 hours for it to be finalized. Staked.us will maintain and update your validator for you, so all you have to do is reap the rewards. You can always check on your stake by heading back to this section of the app.
+**Шаг 5.** Ваш валидатор теперь готов к работе в Eth2, но для его внедрения может потребоваться до 48 часов. Staked.us будет поддерживать и обновлять ваш валидатор(ы), так что вам остается только получать годовые проценты. Вы всегда можете проверить свою ставку вернувшись в этот раздел приложения.
 
 <div class="d-flex justify-content-space-around flex-wrap margin-0">
   <div class="wrap-mobile-phone">

@@ -42,43 +42,43 @@ author: MyEtherWallet (MEW)
 -   Google Chrome попросит вас предоставить разрешения. Прочтите нашу статью [для дополнительной информации о том, какие разрешения необходимы](https://www.howtogeek.com/291095/why-do-chrome-extensions-need-all-your-data-on-the-websites-you-visit/). Вы можете быть уверены в том, что MEW никогда не будет хранить ваши данные или делиться ими. Это разрешение необходимо для проверки URL-адресов на известные фишинговые сайты и для взаимодействия с Dapp-приложением на другом сайте.
 
 <div class="wrap-mobile-phone">
-<img src="/images/posts/diving-deeper/MEWCX1.png" alt="Image of the MEW CX install page" width="80%">
+<img src="/images/posts/diving-deeper/MEWCX1.png" alt="Изображение страницы установки MEW CX" width="80%">
 </div>
 
-**Step 2.** After you’ve installed MEW CX, click the MEW icon in your toolbar. A pop-up will appear asking you to add a wallet. Click there.
+**Шаг 2.** После установки MEW CX нажмите на значок MEW на панели инструментов. Появится всплывающее окно с предложением добавить кошелек. Нажмите на эту кнопку.
 
 <div class="wrap-mobile-phone">
-<img src="/images/posts/diving-deeper/MEWCX2.png" alt="Image of MEW CX 'add wallet'" width="80%">
+<img src="/images/posts/diving-deeper/MEWCX2.png" alt="Изображение MEW CX 'добавить кошелек'" width="80%">
 </div>
 
-**Step 3.** Choose how you’d like to access your wallet, or generate a new one. And you’re done!
+**Шаг 3.** Выберите, каким образом вы хотите получить доступ к кошельку, или сгенерируйте новый кошелек. Готово!
 
 -   Посмотрите наше руководство по [методам доступа](/@@@@@@/getting-started/how-to-access-your-wallet/) для получения дополнительной информации.
 
 <div class="wrap-mobile-phone">
-<img src="/images/posts/diving-deeper/MEWCX3.png" alt="Image of MEW CX 'generate a new wallet'" width="80%">
+<img src="/images/posts/diving-deeper/MEWCX3.png" alt="Изображение MEW CX 'создать новый кошелек'" width="80%">
 </div>
 
 <div class="wrap-mobile-phone">
-<img src="/images/posts/diving-deeper/MEWCX4.5.png" alt="Image of the MEW CX main page" width="80%">
+<img src="/images/posts/diving-deeper/MEWCX4.5.png" alt="Изображение главной страницы MEW CX" width="80%">
 </div>
 
-Your wallet will remain saved in the Chrome Extension until you remove the wallet or the extension. Remember, it’s always best to keep your wallet information on physical paper somewhere safe and easy to remember, in case anything happens to your device.
+Ваш кошелек будет сохранен в расширении для Chrome, пока вы не удалите кошелек или расширение. Помните о том, что лучше всегда хранить информацию о вашем кошельке на физической бумаге в безопасном месте, которое легко запомнить, на случай, если что-нибудь случится с вашим устройством.
 
 ##### \_\_
 
 ## **Использование MEW CX**
 
-MEW CX can be used to interact with various Dapps all across the cryptosphere. Check out our Dapps page a full record of Dapps that work with MEW CX!
+MEW CX можно использовать для взаимодействия с различными Dapp-приложениями криптосферы. Ознакомьтесь с нашей страницей Dapps, где размещен полный список Dapp-приложений, которые работают с MEW CX!
 
 <div class="wrap-mobile-phone">
-<img src="/images/posts/diving-deeper/MEWCX6.png" alt="Image of the MEW CX dapp store" width="80%">
+<img src="/images/posts/diving-deeper/MEWCX6.png" alt="Изображение магазина dapp в MEW CX" width="80%">
 </div>
 
-When you're ready to interact with a Dapp, you can choose which wallet you'd like to use for communicating with the Dapps interface.
+Когда вы готовы воспользоваться Dapp-приложением, вы можете выбрать, какой именно кошелек вы хотите использовать для взаимодействия с его интерфейсом.
 
-You can also create a 'burner account' for temporary access to Dapps, like browsing around the site. 
+Вы также можете создать "временный аккаунт" для временного доступа к Dapp-приложениям, например, просто для ознакомления с сайтом. 
 
 <div class="wrap-mobile-phone">
-<img src="/images/posts/diving-deeper/MEWCX7.png" alt="Image of MEW CX connecting to a Dapp, Web3" width="80%">
+<img src="/images/posts/diving-deeper/MEWCX7.png" alt="Изображение MEW CX, подключаемого к Dapp, Web3" width="80%">
 </div>

@@ -33,7 +33,7 @@ Without further ado, let’s begin!
 
 ## **Using Ledger with MEW**
 
-**Step 1.** Attach and unlock your Ledger device. You should see a few different sections to choose from, choose the Ethereum section as shown above. Click both buttons to open it.
+**Step 1.** Attach and unlock your Ledger device. 你应该能看到一些不同的可选区域，这里选择上方显示的以太坊区域 Click both buttons to open it.
 
 <img src="/images/posts/hardware-wallet/ledger/ethereum-app.jpg" alt="Image of Ledger device on Ethereum app" width="50%" />
 

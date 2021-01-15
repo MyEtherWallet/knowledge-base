@@ -1,5 +1,5 @@
 ---
-title: "Stake on Eth2 using MEW web"
+title: "Стейкинг в Eth2 на MEW web"
 date: 2018-06-01 00:02:00
 tags:
   - staked.us
@@ -14,65 +14,65 @@ primary_category_display_name: "DАpps"
 author: MyEtherWallet (MEW)
 ---
 
-# **Stake on Eth2 using MEW web**
+# **Стейкинг в Eth2 на MEW web**
 
-###### {% read_time title "Stake on Eth2 using MEW web" %} min read
+###### {% read_time title "Stake on Eth2 using MEW web" %} мин. чтения
 
 * * *
 
-## **MEW has integrated Staked.us to make it easier than ever to create a validator on Eth2 and earn rewards.**
+## **MEW интегрировал Staked.us для упрощения создания валидатора на Eth2 и получения процентного дохода.**
 
-Once you stake on Eth2 to create a validator, no further action is required. Staked.us will maintain and update your validator for you.
+Как только вы сделаете ставку на Eth2 для создания валидатора, никаких дальнейших действий не требуется. Staked.us будет поддерживать и обновлять ваш валидатор для вас.
 
-In order to create a validator, you’ll need at least 32 ETH to stake. Your stake will live on the Beacon Chain, which is the foundation for Eth2. For more information on Eth2, the Beacon Chain, and creating a validator, read our write-up on [Phase 0 of Eth2][eth2].
+Чтобы создать валидатор, необходимо сделать ставку минимум 32 ETH. Ваша ставка будет находиться на Beacon Chain, которая лежит в основе Eth2. Для дополнительной информации об Eth2, Beacon Chain и создании валидатора, ознакомьтесь с нашей статьей о [0 Фазе Eth2][eth2].
 
-**You will also need an Eth2 withdrawal address.** Eth2 withdrawal addresses are used to withdraw your staked ETH and rewards. Each user will receive an Eth2 withdrawal address, a keystore file, and a recovery phrase for their Eth2 stake. If you stake more than 32 ETH, additional validators will all be tied to this same address. You can [generate your very own Eth2 withdrawal address][geneth2] on the MEW web interface.
+**Вам также понадобится адрес для снятия Eth2.** Адреса снятия Eth2 используются для вывода вашей ставки ETH и накопленных процентов. Каждый пользователь получит адрес для снятия Eth2, файл-хранилище ключа и фразу восстановления для своей ставки на Eth2. Если вы сделаете ставку более 32 ETH, дополнительные валидаторы будут привязаны к одному и тому же адресу. Вы можете [генерировать свой собственный адрес для снятия Eth2][geneth2] в интерфейсе MEW web.
 
-When you generate your Eth2 withdrawal address, you will enter a password. This password is tied to your keystore file. You will also receive a recovery phrase, which in this case is a list of 24 words. Make sure you write these words down and keep them safe.
+Когда вы генерируете адрес для снятия Eth2, вы введете пароль. Этот пароль привязан к файлу-хранилища ключа. Вы также получите фразу восстановления, которая в данном случае - список из 24 слов. Убедитесь, что вы записали эти слова правильно и храните их в безопасности.
 
-You can also [verify your Eth2 withdrawal address][geneth2] with your keystore file to make sure everything is working properly.
+Вы также можете [проверить ваш адрес снятия Eth2 ][geneth2] с помощью файла-хранилища ключа, чтобы убедиться, что все работает правильно.
 
-**Don't lose your Eth2 keystore file + password and recovery phrase!** They hold your keys and are necessary for future access. No one can recover these for you, so it's very important you take care of them.
+**Не теряйте свой файл хранилище ключа Eth2 + пароль и фразу восстановления!** Они шифруют ваши ключи и необходимы для будущего доступа. Никто не может восстановить их для вас, поэтому очень важно хранить их в безопасности.
 
-## **Staking and the Risks Involved**
-
-<br>
-
-Staked.us is the provider for our Staking integration. Staked.us will not have access to your stake or rewards, but they will be responsible for maintaining your validator. If a validator is down for a prolonged period of time, **there are risks of having your staked ETH slashed**. Therefore, your stake is in the hands of Staked.us.
-
-In addition, all staked ETH and rewards from your validator will be unable to be withdrawn until a later phase of Eth2 released on an unknown date in the future. It's very important that you understand all ETH staked during Phase 0 will be unavailable for withdrawal until Eth2 transfers are enabled in a later phase.
-
-### **Stake your ETH on Eth2 with MEW web**
+## **Риски стейкинга на Eth2**
 
 <br>
 
-**Step 1.** Access [MEW web][mew] through your preferred access method. If you use the MEW wallet app, you can [stake on Eth2 directly from the MEW wallet app][mwstake].
+Staked.us является провайдером интеграции стейкинг в MEW. Staked.us не будет иметь доступа к вашей ставке или заработанным процентам, но будет нести ответственность за поддержку вашего валидатора. Если валидатор не выполняет свою работу в течении длительного периода времени, **существует риск того, что ваша ставка ETH будет оштрафована**. Таким образом, ваша ставка находится в руках Staked.us.
+
+Кроме того, вся ставка ETH и годовые проценты от вашего валидатора не смогут быть сняты до более поздней фазы Eth2. Точная дата когда эта фаза войдет в силу пока неизвестна. Очень важно, чтобы вы понимали: все ставки ETH сделанные на стадии 0 будут недоступны для вывода до тех пор, пока транзакции Eth2 не станут возможны на более позднем этапе.
+
+### **Стейкинг на Eth2 с помощью MEW web**
+
+<br>
+
+**Шаг 1.** Откройте кошелек в [MEW веб][mew] через ваш обычный метод доступа. Если вы используете приложение MEW wallet, вы можете [делать стейкинг на Eth2 непосредственно из приложения][mwstake].
 
 <img src="/images/posts/diving-deeper/stake1.png" width="85%" />
 
-**Step 2.** Head to the DApps section, and select ‘Staked’.
+**Шаг 2.** Зайдите в раздел 'DАpps' и выберите 'Staked’.
 
 <img src="/images/posts/diving-deeper/stake2.png" width="50%" />
 
-**Step 3.** Enter or select a multiple of 32 ETH. For each stake of 32 ETH, Staked.us will create a validator on your behalf.
+**Шаг 3.** Введите или выберите количество ETH кратное 32. Для каждой ставки 32 ETH, Staked.us создаст для вас один валидатор.
 
 <img src="/images/posts/diving-deeper/stake3.png" width="85%" />
 
-**Step 4.** Upload your Eth2 keystore file from when you generated your Eth2 withdrawal address.
+**Шаг 4.** Загрузите файл хранилище ключа Eth2 который вы получили при создании адреса снятия Eth2.
 
 <img src="/images/posts/diving-deeper/stake4.png" width="85%" />
 
-**Step 5.** Review your staking information and double-check your Eth2 withdrawal address for accuracy. Then select ‘Enable Staking’.
+**Шаг 5.** Просмотрите информацию о вашей ставке и проверьте адрес снятия Eth2. Затем выберите Активировать стейкинг.
 
 <img src="/images/posts/diving-deeper/stake5.png" width="85%" />
 
-**Step 6.** You will need to wait a few seconds to a few minutes for Staked to create your validator(s). After that, you can click ‘Stake on Eth2’ to confirm the transaction and finish the staking process.
+**Шаг 6.** Создание валидаторов займет от нескольких секунд до нескольких минут. После этого вы можете нажать на Стейкинг в Eth2 для подтверждения транзакции и завершения процесса стейкинга.
 
 <img src="/images/posts/diving-deeper/stake6.png" width="85%" />
 
 <img src="/images/posts/diving-deeper/stake7.png" width="85%" />
 
-**Step 7.** Your validator is now ready to go on Eth2, although it may take up to 48 hours for it to be finalized. You can view your transaction on Etherscan. Staked.us will maintain and update your validator(s) for you, so all you have to do is reap the rewards.
+**Шаг 7.** Ваш валидатор теперь готов к работе в Eth2, но для его внедрения может потребоваться 48 часов. Вы можете просмотреть вашу транзакцию на Etherscan. Staked.us будет поддерживать и обновлять ваш валидатор(ы), так что вам остается только получать годовые проценты.
 
 <img src="/images/posts/diving-deeper/stake9.png" width="85%" />
 
