@@ -21,7 +21,7 @@ author: MyEtherWallet (MEW)
 
 In Ethereum, every transaction has a nonce. The nonce is the number of transactions sent from a given address.
 
-In English, a nonce is a number that can only be used once. In cryptography, a nonce is a one-time code selected in a random or pseudo-random manner that is used to securely transmit a main password, preventing replay attacks.
+A In cryptography, a nonce is a one-time code selected in a random or pseudo-random manner that is used to securely transmit a main password, preventing replay attacks.
 
 Each time you send a transaction, the nonce value increases by `1`. There are rules about what transactions are considered valid transactions, and the nonce is used to enforce some of these rules. Specifically:
 

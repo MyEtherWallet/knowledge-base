@@ -29,7 +29,7 @@ The first step is identifying how it happened. Phishers make their living by bei
 
 -   Check your history. Have you recently visited any sketchy sites? Did you recently enter your information on a fake MEW after clicking a link?
     -   Look at the URLs. Do you see any tiny dots or accents over (or under) the letters?
--   Scan your computer for malware. It’s possible your files have been compromised.
+-   使用防病毒软件扫描电脑 It’s possible your files have been compromised.
 -   Do you have any remote-access software installed, i.e. Teamviewer? These can be hacked remotely to view the information right from your screen.
 -   What method do you use to access your wallet? Private keys, keystore/JSON files, and mnemonic phrases are not generally recommended because they allow easy access to one’s wallet.
 
