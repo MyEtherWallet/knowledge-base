@@ -60,7 +60,7 @@ pNetwork - это поэтапно децентрализующийся инст
 
 Название токена WBTC означает 'wrapped BTC' или 'обернутый BTC'. Это токен, первоначально разработанный через партнерство BitGo, Ren, Dharma, Kyber, Compound, MakerDAO и Set Protocol. Теперь он управляется через Децентрализованную Автономную Организацию (DAO) под названием WBTC DAO. Весь Bitcoin, используемый WBTC, хранится и поддерживается BitGo.
 
-Важно отметить, что WBTC - централизованный провайдер обернутого Bitcoin, однако, он также и наиболее популярный. WBTC will never be as secure as the Bitcoin blockchain itself, since in the end it’s governed by people and not code itself, but it remains a good option for bringing BTC value to the Ethereum blockchain.
+Важно отметить, что WBTC - централизованный провайдер обернутого Bitcoin, однако, он также и наиболее популярный. WBTC никогда не будет настолько же надежным, как и сам блокчейн Bitcoin, поскольку в конечном итоге он управляется людьми, а не программой, но он остается хорошим выбором для перевода BTC на блокчейн Ethereum.
 
 Подробнее о WBTC можно прочитать на [сайте WBTC][wbtc].
 
@@ -68,7 +68,7 @@ pNetwork - это поэтапно децентрализующийся инст
 
 <br>
 
-BTC++ is a relatively new Bitcoin token that was created by PieDAO, an open-source organization with the main goal of expanding DeFi. BTC++ is a “BTC” token on Ethereum, but it’s made up of several different wrapped Bitcoin tokens, including wBTC, pBTC, sBTC, and imBTC. PieDAO allocates these wrapped BTC tokens in order to create a general and more balanced approach at a BTC peg while minimizing the risk of any one single wrapped BTC token collapsing from liquidity issues or malicious activity.
+BTC++ это относительно новый токен Bitcoin, созданный PieDAO, организацией с открытым исходным кодом, главной целью которой является расширение рамок DeFi. BTC++ — это токен BTC на Ethereum, но он состоит из нескольких различных обернутых токенов Bitcoin, включая wBTC, pBTC, sBTC и imBTC. PieDAO allocates these wrapped BTC tokens in order to create a general and more balanced approach at a BTC peg while minimizing the risk of any one single wrapped BTC token collapsing from liquidity issues or malicious activity.
 
 As always, it’s recommended that you read up on your investments before committing. Take a look at [the PieDAO website][pdao] for more information.
 
