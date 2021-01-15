@@ -68,9 +68,9 @@ pNetwork - это поэтапно децентрализующийся инст
 
 <br>
 
-BTC++ это относительно новый токен Bitcoin, созданный PieDAO, организацией с открытым исходным кодом, главной целью которой является расширение рамок DeFi. BTC++ — это токен BTC на Ethereum, но он состоит из нескольких различных обернутых токенов Bitcoin, включая wBTC, pBTC, sBTC и imBTC. PieDAO allocates these wrapped BTC tokens in order to create a general and more balanced approach at a BTC peg while minimizing the risk of any one single wrapped BTC token collapsing from liquidity issues or malicious activity.
+BTC++ это относительно новый токен Bitcoin, созданный PieDAO, организацией с открытым исходным кодом, главной целью которой является расширение рамок DeFi. BTC++ — это токен BTC на Ethereum, но он состоит из нескольких различных обернутых токенов Bitcoin, включая wBTC, pBTC, sBTC и imBTC. PieDAO включает все эти токены BTC для создания общего и сбалансированного подхода к поддержке стоимости BTC. Это уменьшает риск связанный с крахом любого отдельного обернутого токена в результате проблем с ликвидностью или умышленной атаки.
 
-As always, it’s recommended that you read up on your investments before committing. Take a look at [the PieDAO website][pdao] for more information.
+Как всегда, прежде чем инвестировать, мы рекомендуем узнать как можно больше о проекте. Взгляните на [сайт PieDAO][pdao] для получения дополнительной информации.
 
 [mw]: /@@@@@@/mewwallet/ren_mw/
 
