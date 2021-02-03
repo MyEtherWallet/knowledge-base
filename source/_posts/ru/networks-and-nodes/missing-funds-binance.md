@@ -28,7 +28,7 @@ This might be because you sent them as BEP20 tokens on the **BSC network**, inst
 
 _Note that MEW does not support the BEP2 Binance chain (BNB), as this is separate from the Binance Smart Chain (BSC). The Binance chain uses addresses that begin with 'bnb..', and each transfer requires an additional memo field. It's impossible to send funds from the Binance chain to MEW._
 
-First, double-check to make sure that the BSC network is holding your funds.
+First, double-check that your funds are on the BSC network.
 
 In order to check this, head to [BscScan][bscscan] and enter the public address (0x..) used to receive your funds from Binance.
 
