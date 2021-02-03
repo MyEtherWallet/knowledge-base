@@ -26,7 +26,7 @@ author: MyEtherWallet (MEW)
 
 This might be because you sent them as BEP20 tokens on the **BSC network**, instead of the Ethereum network. Luckily, **MEW web supports the BSC network**, so it’s easy to switch over and start using your funds.
 
-*Note that MEW does not support the BEP2 Binance chain (BNB), as this is separate from the Binance Smart Chain (BSC). The Binance chain uses addresses that begin with 'bnb..', and each transfer requires an additional memo field. It's impossible to send funds from the Binance chain to MEW.*
+_Note that MEW does not support the BEP2 Binance chain (BNB), as this is separate from the Binance Smart Chain (BSC). The Binance chain uses addresses that begin with 'bnb..', and each transfer requires an additional memo field. It's impossible to send funds from the Binance chain to MEW._
 
 First, double-check to make sure that the BSC network is holding your funds.
 
@@ -42,7 +42,7 @@ Once you have confirmed that your funds are on the BSC network, you can move on 
 
 <br>
 
-*If you’re using MEW CX, MetaMask, or Dapper to connect, you won’t be able to change your network to access the BSC chain. In these scenarios, if you must gain access to your funds, it is recommended to [use MEW offline][offline] to achieve your transfers. This process is a bit complicated, but it’s worth it for the long-term security of your wallet.*
+_If you’re using MEW CX, MetaMask, or Dapper to connect, you won’t be able to change your network to access the BSC chain. In these scenarios, if you must gain access to your funds, it is recommended to [use MEW offline][offline] to achieve your transfers. This process is a bit complicated, but it’s worth it for the long-term security of your wallet._
 
 The first step to recover your funds is to access your wallet on the MEW web interface. 
 
@@ -91,5 +91,7 @@ Next time you send your funds back to MEW, make sure you choose the 'Ethereum' o
 <img src="/images/posts/transactions/bsc13.png" alt="Image of ETH back on Ethereum in MEW web" style="max-width: 110%;" />
 
 [bscscan]: https://www.bscscan.com/
+
 [offline]: /@@@@@@/offline/using-mew-offline/
+
 [custom]: /@@@@@@/tokens/how-to-add-custom-token/
