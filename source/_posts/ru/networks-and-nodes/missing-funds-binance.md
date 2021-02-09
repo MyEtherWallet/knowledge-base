@@ -48,15 +48,15 @@ _Если вы используете MEW CX, MetaMask или Dapper для по
 
 <img src="/images/posts/transactions/bsc3.png" alt="Изображение MEW web" style="max-width: 110%;" />
 
-Once you’ve accessed your wallet, change your network by clicking ‘Change’ in the ‘Network’ section, near the upper-right hand corner of the interface. Locate ‘BSC’ in the list of networks that appears, and select ‘bscscan.com’.
+После того как вы получили доступ к вашему кошельку, измените свою сеть, нажав кнопку «Изменить» в разделе «Сеть» рядом с правом верхнего угла интерфейса. Найдите «BSC» в списке появляющихся сетей и выберите «bscscan.com».
 
-<img src="/images/posts/transactions/bsc4.png" alt="Image of BscScan Network" style="max-width: 120%;" />
+<img src="/images/posts/transactions/bsc4.png" alt="Изображение сети BscScan" style="max-width: 120%;" />
 
-Now your interface should change to show ‘BNB’ under the ‘Balance’ section, instead of ETH.
+Теперь ваш интерфейс должен быть изменен, чтобы показывать "BNB" в разделе "Balance", а не ETH.
 
-<img src="/images/posts/transactions/bsc5.png" alt="Image of MEW web on BSC" style="max-width: 110%;" />
+<img src="/images/posts/transactions/bsc5.png" alt="Изображение MEW web на BSC" style="max-width: 110%;" />
 
-If you’re looking for ETH or another token, you’ll need to add it as a custom token in the Token list to the right. The same rules apply for adding tokens on the BSC network as in our article detailing [how to add custom tokens][custom] on Ethereum, however you’ll be using [BscScan][bscscan] instead of Etherscan.io.
+Если вы ищете ETH или другой токен, вам нужно добавить его справа в качестве кастомного токена в списке токенов. The same rules apply for adding tokens on the BSC network as in our article detailing [how to add custom tokens][custom] on Ethereum, however you’ll be using [BscScan][bscscan] instead of Etherscan.io.
 
 <img src="/images/posts/transactions/bsc6.png" alt="Image of adding ETH custom token" style="max-width: 120%;" />
 
