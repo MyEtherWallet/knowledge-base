@@ -24,9 +24,9 @@ author: MyEtherWallet (MEW)
 
 **Вы отправили ETH или токены с Binance на ваш MEW адрес, но не видите их на MEW?**
 
-Это может быть потому, что вы отправили их как токены BEP20 в **сети BSC**, а не в сети Ethereum. Luckily, **MEW web supports the BSC network**, so it’s easy to switch over and start using your funds.
+Это может быть потому, что вы отправили их как токены BEP20 в **сети BSC**, а не в сети Ethereum. К счастью, **MEW web поддерживает сеть BSC**, так что вы можете переключиться и начать использовать ваши средства.
 
-_Note that MEW does not support the BEP2 Binance chain (BNB), as this is separate from the Binance Smart Chain (BSC). The Binance chain uses addresses that begin with 'bnb..', and each transfer requires an additional memo field. It's impossible to send funds from the Binance chain to MEW._
+_Обратите внимание, что MEW не поддерживает сеть Binance (BNB), так как она отделена от Smart Chain (BSC). Сеть Binance использует адреса, которые начинаются с 'bnb..', и для каждого перевода требуется дополнительное поле memo. Невозможно отправить средства с сети Binance на MEW._
 
 First, double-check that your funds are on the BSC network.
 
