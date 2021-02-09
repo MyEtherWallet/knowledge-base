@@ -30,23 +30,23 @@ _Обратите внимание, что MEW не поддерживает с�
 
 First, double-check that your funds are on the BSC network.
 
-In order to check this, head to [BscScan][bscscan] and enter the public address (0x..) used to receive your funds from Binance.
+Чтобы проверить это, перейдите на [BscScan][bscscan] и введите публичный адрес (0x..) на который вы получали средства переведенные с Binance.
 
-If you sent ETH or another token, it will show your balance under the ‘Token’ drop-down towards the mid-left of the page.
+Если вы отправили ETH или другой токен, он покажет ваш баланс в раскрывающемся списке «Токен» в середине страницы.
 
-<img src="/images/posts/transactions/bsc2.png" alt="Image of BscScan" style="max-width: 110%;" />
+<img src="/images/posts/transactions/bsc2.png" alt="Изображение BscScan" style="max-width: 110%;" />
 
-Once you have confirmed that your funds are on the BSC network, you can move on to accessing these funds with MEW web.
+Когда вы убедитесь, что ваши средства находятся в сети BSC, вы можете получить доступ к ним с помощью MEW web.
 
-### **Accessing the BSC network on MEW web**
+### **Доступ к сети BSC на MEW**
 
 <br>
 
-_If you’re using MEW CX, MetaMask, or Dapper to connect, you won’t be able to change your network to access the BSC chain. In these scenarios, if you must gain access to your funds, it is recommended to [use MEW offline][offline] to achieve your transfers. This process is a bit complicated, but it’s worth it for the long-term security of your wallet._
+_Если вы используете MEW CX, MetaMask или Dapper для подключения, вы не сможете изменить сеть для доступа к сети BSC. В этих случаях, если вы должны получить доступ к вашим средствам, рекомендуется [использовать MEW оффлайн][offline] для осуществления переводов. Этот процесс немного сложен, но он необходим для долгосрочной безопасности вашего кошелька._
 
-The first step to recover your funds is to access your wallet on the MEW web interface.
+Первым шагом для восстановления ваших средств является доступ к вашему кошельку на MEW web-интерфейсе.
 
-<img src="/images/posts/transactions/bsc3.png" alt="Image of MEW web accessed" style="max-width: 110%;" />
+<img src="/images/posts/transactions/bsc3.png" alt="Изображение MEW web" style="max-width: 110%;" />
 
 Once you’ve accessed your wallet, change your network by clicking ‘Change’ in the ‘Network’ section, near the upper-right hand corner of the interface. Locate ‘BSC’ in the list of networks that appears, and select ‘bscscan.com’.
 
