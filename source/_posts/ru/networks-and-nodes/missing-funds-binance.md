@@ -1,5 +1,5 @@
 ---
-title: "Missing Funds Sent from Binance (BSC Network)"
+title: "Средства отправленные от Binance (сеть BSC) не видны в кошельке"
 date: 2018-06-01 00:01:00
 tags:
   - изменение
@@ -16,15 +16,15 @@ primary_category_display_name: "Сети и узлы"
 author: MyEtherWallet (MEW)
 ---
 
-# **Missing Funds Sent from Binance (BSC Network)**
+# **Средства отправленные от Binance (сеть BSC) не видны в кошельке**
 
-###### {% read_time title "Missing Funds Sent from Binance (BSC Network)" %} min read
+###### {% read_time title "Missing Funds Sent from Binance (BSC Network)" %} минут на чтение
 
 * * *
 
-**Did you send ETH or tokens from Binance to your MEW address, but don’t see them on MEW?**
+**Вы отправили ETH или токены с Binance на ваш MEW адрес, но не видите их на MEW?**
 
-This might be because you sent them as BEP20 tokens on the **BSC network**, instead of the Ethereum network. Luckily, **MEW web supports the BSC network**, so it’s easy to switch over and start using your funds.
+Это может быть потому, что вы отправили их как токены BEP20 в **сети BSC**, а не в сети Ethereum. Luckily, **MEW web supports the BSC network**, so it’s easy to switch over and start using your funds.
 
 _Note that MEW does not support the BEP2 Binance chain (BNB), as this is separate from the Binance Smart Chain (BSC). The Binance chain uses addresses that begin with 'bnb..', and each transfer requires an additional memo field. It's impossible to send funds from the Binance chain to MEW._
 
