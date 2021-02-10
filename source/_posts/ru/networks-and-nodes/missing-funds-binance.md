@@ -72,23 +72,23 @@ _Если вы используете MEW CX, MetaMask или Dapper для по
 
 Вам понадобится немного BNB в вашем кошельке для использования в качестве газа. Эта сумма может быть очень маленькой, например 0,1 BNB. После отправки BNB на адрес кошелька, может потребоваться вручную обновить баланс, чтобы увидеть его в интерфейсе MEW web.
 
-<img src="/images/posts/transactions/bsc8.png" alt="Image of BNB in MEW web" style="max-width: 110%;" />
+<img src="/images/posts/transactions/bsc8.png" alt="Изображение BNB в MEW web" style="max-width: 110%;" />
 
-Once you're ready, get a deposit address for Ethereum on the BSC chain on Binance. Make sure you've selected the BSC chain. Fill out your transaction, and send your funds through the BSC chain to Binance.
+Когда будете готовы, получите адрес депозита Ethereum в сети BSC на Binance. Убедитесь, что вы выбрали сеть BSC. Заполните транзакцию и отправьте средства через сеть BSC в Binance.
 
-<img src="/images/posts/transactions/bsc9.png" alt="Image of Binance deposit address" style="max-width: 120%;" />
+<img src="/images/posts/transactions/bsc9.png" alt="Изображение адреса депозита Binance" style="max-width: 120%;" />
 
-<img src="/images/posts/transactions/bsc10.png" alt="Image of transaction to Binance" style="max-width: 110%;" />
+<img src="/images/posts/transactions/bsc10.png" alt="Изображение транзакции на Binance" style="max-width: 110%;" />
 
-<img src="/images/posts/transactions/bsc11.png" alt="Image of successful transaction" style="max-width: 120%;" />
+<img src="/images/posts/transactions/bsc11.png" alt="Изображение успешной транзакции" style="max-width: 120%;" />
 
-Afterwards, you can also send any leftover BNB to Binance as well, if you want.
+После этого, вы также можете отправить остаток BNB на Binance, если хотите.
 
-<img src="/images/posts/transactions/bsc12.png" alt="Image of empty MEW web balance" style="max-width: 110%;" />
+<img src="/images/posts/transactions/bsc12.png" alt="Изображение пустого баланса MEW web" style="max-width: 110%;" />
 
-Next time you send your funds back to MEW, make sure you choose the 'Ethereum' option, to see your funds on the Ethereum blockchain.
+В следующий раз, когда вы посылаете свои средства в MEW, убедитесь, что вы выберете опцию 'Ethereum', чтобы увидеть ваши средства на блокчейне Ethereum.
 
-<img src="/images/posts/transactions/bsc13.png" alt="Image of ETH back on Ethereum in MEW web" style="max-width: 110%;" />
+<img src="/images/posts/transactions/bsc13.png" alt="Изображение ETH на Ethereum в MEW web" style="max-width: 110%;" />
 
 [bscscan]: https://www.bscscan.com/
 
