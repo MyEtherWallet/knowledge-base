@@ -68,9 +68,9 @@ _Если вы используете MEW CX, MetaMask или Dapper для по
 
 После того как вы найдете свои токены, выбор за вами, хотите ли вы оставить их в сети BSC или отправить их обратно в Ethereum.
 
-If you want to switch back to Ethereum, you'll need to send these funds back to Binance to swap them over.
+Если вы хотите вернуться на Ethereum, вам нужно отправить эти средства обратно на Binance, чтобы обменять их.
 
-You will need a bit of BNB in your wallet to use as gas. This amount can be very small, such as 0.1 BNB. After sending the BNB to your wallet address, you might need to manually refresh your balance to see it reflected in the MEW web interface.
+Вам понадобится немного BNB в вашем кошельке для использования в качестве газа. Эта сумма может быть очень маленькой, например 0,1 BNB. После отправки BNB на адрес кошелька, может потребоваться вручную обновить баланс, чтобы увидеть его в интерфейсе MEW web.
 
 <img src="/images/posts/transactions/bsc8.png" alt="Image of BNB in MEW web" style="max-width: 110%;" />
 
