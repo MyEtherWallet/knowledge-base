@@ -56,17 +56,17 @@ _Если вы используете MEW CX, MetaMask или Dapper для по
 
 <img src="/images/posts/transactions/bsc5.png" alt="Изображение MEW web на BSC" style="max-width: 110%;" />
 
-Если вы ищете ETH или другой токен, вам нужно добавить его справа в качестве кастомного токена в списке токенов. The same rules apply for adding tokens on the BSC network as in our article detailing [how to add custom tokens][custom] on Ethereum, however you’ll be using [BscScan][bscscan] instead of Etherscan.io.
+Если вы ищете ETH или другой токен, вам нужно добавить его справа в качестве кастомного токена в списке токенов. Те же правила применяются для добавления токенов в сеть BSC, что и в нашей статье, описывающей [кастомные токены][custom] на Ethereum, однако вы будете использовать [BscScan][bscscan] вместо Etherscan.io.
 
-<img src="/images/posts/transactions/bsc6.png" alt="Image of adding ETH custom token" style="max-width: 120%;" />
+<img src="/images/posts/transactions/bsc6.png" alt="Изображение добавления кастомного токена ETH" style="max-width: 120%;" />
 
-<img src="/images/posts/transactions/bsc7.png" alt="Image of ETH token in MEW web" style="max-width: 120%;" />
+<img src="/images/posts/transactions/bsc7.png" alt="Изображение токена ETH в MEW web" style="max-width: 120%;" />
 
-### **Transferring Back to Ethereum**
+### **Перевод обратно на Ethereum**
 
 <br>
 
-After your find your tokens, it's up to you whether or not you'd like to keep them on the BSC chain or send them back to Ethereum.
+После того как вы найдете свои токены, выбор за вами, хотите ли вы оставить их в сети BSC или отправить их обратно в Ethereum.
 
 If you want to switch back to Ethereum, you'll need to send these funds back to Binance to swap them over.
 
