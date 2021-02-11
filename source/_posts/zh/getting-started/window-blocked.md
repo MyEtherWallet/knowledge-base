@@ -1,6 +1,6 @@
 ---
 title: "Error: Window Blocked"
-date: 2018-06-01 00:08:00
+date: How can I see my wallet
 tags:
   - error
   - Window
