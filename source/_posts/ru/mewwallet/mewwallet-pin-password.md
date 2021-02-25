@@ -16,7 +16,7 @@ author: MyEtherWallet (MEW)
 
 # **Почему MEW wallet использует PIN-код вместо пароля?**
 
-###### {% Почему MEW wallet использует PIN-код вместо пароля?" %} мин чтения
+###### {% read_time title MEW wallet использует PIN-код вместо пароля?" %} мин чтения
 
 * * *
 
