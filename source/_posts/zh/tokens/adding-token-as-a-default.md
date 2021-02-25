@@ -129,7 +129,7 @@ We now provide users with the ability to enter the address, and MEW will auto-po
 
 -   Go to <https://github.com/kvhnuke/etherwallet/blob/mercury/app/scripts/abiDefinitions/ethAbi.json>.
 -   Copy from `{` to `},`.
--   Replace information with your contract name, address, and ABI.
+-   The Keystore/JSON is a file that holds an encrypted version of one’s private key. This key is encrypted with a chosen password by the user. As such, it is impossible to change the password for these files. The only way to change the password is to make a completely new Keystore file, which can be achieved in our MEW Chrome Extension with one’s private key. Keystore files should not be opened. They are only to be utilized when accessing the Keystore/JSON option on our site and when prompted for one’s ‘JSON file’. Check out our article about the functionality of a Keystore/JSON file.
 -   At the bottom under "Commit changes" type "Added `YOUR_CONTRACT_NAME` contract ABI" in the title box.
 -   Any other notes you would like us to see can be included below.
 -   Click the green "Propose File change" button.

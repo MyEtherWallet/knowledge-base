@@ -1,5 +1,5 @@
 ---
-title: "Move your BTC to the Ethereum Blockchain with MEW swap"
+title: "Переведите BTC на блокчейн Ethereum с помощью MEW Swap"
 date: 2018-06-01 00:03:00
 tags:
   - swap
@@ -18,49 +18,59 @@ primary_category_display_name: "Обмен"
 author: MyEtherWallet (MEW)
 ---
 
-# **Move your BTC to the Ethereum Blockchain with MEW swap**
+# **Переведите BTC на блокчейн Ethereum с помощью MEW Swap**
 
-###### {% read_time title "Move your BTC to the Ethereum Blockchain with MEW swap" %} min read
+###### {% read_time title "Move your BTC to the Ethereum Blockchain with MEW swap" %} мин. чтения
 
 * * *
 
-## **MEW has integrated DEX.AG and Changelly to offer the ability to move your Bitcoin to the Ethereum blockchain through wrapped tokens.**
+## **Интеграция DEX.AG и Changelly в MEW дает возможность перенести ваш Bitcoin на блокчейн Ethereum с помощью обернутых токенов.**
 
 <br>
 
-Wrapped tokens have their value pegged to a specific crypto, such as Bitcoin, so that they keep the same price despite the volatility of the crypto market. Some examples include the ERC20 tokens renBTC, wBTC, and BTC++, all of which are available through [MEW web’s swap portal][swap].
+Обернутые токены имеют привязку к определенной криптовалюте, в данном случае к Bitcoin, так что они сохраняют цену валюты к которой они привязаны, несмотря на волатильность криптовалютного рынка. Примеры обернутых токенов которые доступны через [портал обмена MEW web-][swap]: renBTC, wBTC и BTC++.
 
-**Moving your Bitcoin to Ethereum has many different applications.** The main benefit is bringing Bitcoin’s value, community, and liquidity to Ethereum. Although Ethereum boasts powerful smart contract technology, Bitcoin is by far the largest crypto in terms of total market cap. Bridging the gap between Bitcoin and Ethereum allows for more DeFi opportunities, more innovation, and less isolation between chains.
+**Перемещение Bitcoin на Ethereum имеет множество преимуществ** Основное — это приход сообщества, ценности и ликвидности Bitcoin на платформы основанные на блокчейне Ethereum. Несмотря на то, что Ethereum обладает мощной технологией смарт-контракта, Bitcoin является самой большой криптовалютой с точки зрения капитализации рынка. Преодоление дистанции между Bitcoin и Ethereum позволяет расширить возможности децентрализованных финансовых инструментов, продвинуть инновации и уменьшить ограничения между сетями.
 
-It’s important to remember the risks involved when swapping for any crypto assets. Do your own research to determine the authenticity of a project or team before jumping into any investments, and never invest more than you are prepared to lose.
+Важно помнить о рисках, связанных с обменом любых криптовалютных активов. Делайте свои выводы о подлинности проекта и о команде прежде чем делать инвестиции, и никогда не вкладывайте больше, чем вы готовы потерять.
 
 ## **renBTC**
 
 <br>
 
-Ren Project has built a RenVM protocol capable of exchanging BTC to ERC20 token renBTC and back again. Each renBTC is pegged 1:1 with a real BTC to back it up, so you can rest assured that you’ll be able to swap your renBTC back to BTC at any time without any liquidity issues. The [MEW wallet app][mw] has integrated this bridge right into the mobile interface.
+Ren Project создал протокол RenVM для обмена BTC на обернутый ERC20 токен renBTC и обратно. Каждый renBTC привязан 1:1 к BTC, поэтому вы можете быть уверены в том, что сможете поменять свой renBTC обратно в BTC в любое время без каких-либо проблем с ликвидностью. Приложение [MEW wallet][mw] предлагает этот обмен прямо в мобильном интерфейсе.
 
-Ren is working on making renBTC the first truly decentralized solution for moving BTC to Ethereum. Because of this, sometimes it can take longer to reach all the confirmations necessary to move your BTC over. It’s always recommended to do your own research before fully committing to any crypto asset.
+Ren работает над тем, чтобы сделать renBTC первым действительно децентрализованным решением для переноса BTC в Ethereum. Из-за этого иногда требуется больше времени для получения всех подтверждений, необходимых для переноса вашего BTC. Всегда рекомендуется узнать как можно больше информации и сделать свои выводы прежде чем делать вклад в любой криптовалютный актив.
 
-Read up on [RenVM’s website][ren] for more information about the project and what else you can do with RenVM. You can also read a Medium post on [RenVM’s road to decentralization][renmap].
+Ознакомьтесь с сайтом [RenVM][ren] для получения дополнительной информации о проекте и о том, как еще можно пользоваться RenVM. Вы также можете прочитать статью описыващую [путь RenVM к полной децентрализации][renmap].
+
+## **PBTC**
+
+<br>
+
+pBTC - токен созданный [pNetwork][pn] в рамках проекта pTokens, системы кросс-чейн которая позволяет беспрепятственно перемещать активы с одного блокчейна на другой.
+
+Каждый pBTC подкрепляется один к одному резервом Bitcoin который защищен системой [pTokens][pt]. Пользователи могут вводить свои BTC и получать токены pBTC совместимые с Ethereum, или наоборот обменять pBTC обратно на Bitcoin, по необходимости.
+
+pNetwork - это поэтапно децентрализующийся инструмент управления, руководящий мостами между основными блокчейн-протоколами, включая Bitcoin, Ethereum, EOS и Litecoin. На нем основаны децентрализованная организация pNetwork DAO и токен управления экосистемой PNT. Ознакомьтесь со страницей [p.Network.com/learn][pl], или посмотрите этот пост от том как проект подходит к [безопасности и постепенной децентрализации][pm].
 
 ## **WBTC**
 
 <br>
 
-The pegged token WBTC stands for ‘wrapped BTC’. It is a token initially developed through a partnership of BitGo, Ren, Dharma, Kyber, Compound, MakerDAO, and Set Protocol. Now it is managed through a Decentralized Autonomous Organization (DAO) called WBTC DAO. All Bitcoin used by WBTC is kept and maintained by BitGo as a custodial service.
+Название токена WBTC означает 'wrapped BTC' или 'обернутый BTC'. Это токен, первоначально разработанный через партнерство BitGo, Ren, Dharma, Kyber, Compound, MakerDAO и Set Protocol. Теперь он управляется через Децентрализованную Автономную Организацию (DAO) под названием WBTC DAO. Весь Bitcoin, используемый WBTC, хранится и поддерживается BitGo.
 
-It’s important to note that WBTC is a centralized solution for wrapped Bitcoin; it’s arguably the most popular as well. WBTC will never be as secure as the Bitcoin blockchain itself, since in the end it’s governed by people and not code itself, but it remains a good option for bringing BTC value to the Ethereum blockchain.
+Важно отметить, что WBTC - централизованный провайдер обернутого Bitcoin, однако, он также и наиболее популярный. WBTC никогда не будет настолько же надежным, как и сам блокчейн Bitcoin, поскольку в конечном итоге он управляется людьми, а не программой, но он остается хорошим выбором для перевода BTC на блокчейн Ethereum.
 
-You can read more about WBTC on [the WBTC website][wbtc].
+Подробнее о WBTC можно прочитать на [сайте WBTC][wbtc].
 
 ## **BTC++**
 
 <br>
 
-BTC++ is a relatively new Bitcoin token that was created by PieDAO, an open-source organization with the main goal of expanding DeFi. BTC++ is a “BTC” token on Ethereum, but it’s made up of several different wrapped Bitcoin tokens, including wBTC, pBTC, sBTC, and imBTC. PieDAO allocates these wrapped BTC tokens in order to create a general and more balanced approach at a BTC peg while minimizing the risk of any one single wrapped BTC token collapsing from liquidity issues or malicious activity.
+BTC++ это относительно новый токен Bitcoin, созданный PieDAO, организацией с открытым исходным кодом, главной целью которой является расширение рамок DeFi. BTC++ — это токен BTC на Ethereum, но он состоит из нескольких различных обернутых токенов Bitcoin, включая wBTC, pBTC, sBTC и imBTC. PieDAO включает все эти токены BTC для создания общего и сбалансированного подхода к поддержке стоимости BTC. Это уменьшает риск связанный с крахом любого отдельного обернутого токена в результате проблем с ликвидностью или умышленной атаки.
 
-As always, it’s recommended that you read up on your investments before committing. Take a look at [the PieDAO website][pdao] for more information.
+Как всегда, прежде чем инвестировать, мы рекомендуем узнать как можно больше о проекте. Взгляните на [сайт PieDAO][pdao] для получения дополнительной информации.
 
 [mw]: /@@@@@@/mewwallet/ren_mw/
 
@@ -73,3 +83,11 @@ As always, it’s recommended that you read up on your investments before commit
 [pdao]: https://pools.piedao.org/
 
 [swap]: /@@@@@@/swap/swapping-via-kyber-bity-changelly/
+
+[pn]: https://p.network/
+
+[pt]: https://dapp.ptokens.io/
+
+[pl]: https://p.network/learn
+
+[pm]: https://medium.com/pnetwork/pnetwork-dawn-introducing-pnetwork-nodes-97fd502aceca

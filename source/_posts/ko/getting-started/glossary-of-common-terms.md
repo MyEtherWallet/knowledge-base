@@ -51,7 +51,7 @@ author: MyEtherWallet (MEW)
 ## **Private Key**
 
 -   The secret half of your Address / public key pairing.
--   A string of 64 hexadecimal characters.
+-   MyEtherWallet does not manage accounts with information such as passwords, private keys, or emails. In order to ensure your security and privacy, no sensitive data is ever saved, stored, or transmitted when you use MyEtherWallet. We only have access to the information that is publicly available on the blockchain. We do not have servers and we do not hold your assets.
 -   (Almost) every string of 64 hexadecimal characters is a private key.
 -   If you hand-type a private key differently today than yesterday, you will access a different wallet.
 -   **Never hand-type your private key.**
