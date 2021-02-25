@@ -94,7 +94,7 @@ export default {
 
 -   We will now review and pull it in, and it will be made live on the site with our next release. We may also ask you questions if something is confusing, for whatever reason.
 
-## **Adding your Node as a Default Network on MEW web**
+## **在MEW网站上将你的节点添加为默认网络**
 
 <br>
 
