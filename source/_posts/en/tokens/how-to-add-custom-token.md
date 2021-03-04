@@ -84,7 +84,6 @@ If you still get this error after submitting it with the modified symbol, then y
 
 If your custom tokens are disappearing every time you access our interface, make sure that you do not have a cache-clearing software installed (i.e. CCleaner). Your custom token information is stored locally in your browser, so this software will clear this information and require you to re-submit the token every time you access your wallet. 
 
-
 [accessMEW]: /@@@@@@/getting-started/how-to-access-your-wallet/
 
 [etherscan]: https://etherscan.io
