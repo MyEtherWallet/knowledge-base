@@ -226,11 +226,9 @@ alias:
   # Tokens
   /posts/tokens/random-tokens-in-my-wallet/: /en/tokens/random-tokens-in-my-wallet/
   /posts/tokens/how-to-add-custom-token/: /en/tokens/how-to-add-custom-token/
-  /posts/tokens/adding-token-as-a-default/: /en/tokens/adding-token-as-a-default/
   /posts/tokens/what-is-an-ico/: /en/tokens/what-is-an-ico/
   /en/tokens/: /en/tokens/how-to-add-custom-token/
   #--- former aliases in en/ directory
-  /tokens/token-creators-add-your-token-to-myetherwallet.html: /en/tokens/adding-token-as-a-default/
   /tokens/nft-manager.html: /en/tokens/nft-manager/
   /tokens/airdropped-tokens.html: /en/tokens/random-tokens-in-my-wallet/
   /send/adding-new-token-and-sending-custom-tokens.html: /en/tokens/how-to-add-custom-token/
