@@ -24,7 +24,7 @@ To find the correct contract address, follow these instructions:
 
 ## **Using [Ethplorer.io](https://www.ethplorer.io/)**
 
-**Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
+**Paso 1.** Ingresa el nombre del token que quieres agregar a tu interfaz de MyEtherWallet.
 
 <img src="/images/posts/common-issues/Ethplorer1Error.jpg" alt="Image of Ethplorer token selection" width="60%" />
 
@@ -34,7 +34,7 @@ To find the correct contract address, follow these instructions:
 
 ## **Using [Etherscan.io](https://www.etherscan.io/)**
 
-**Step 1.** Enter the name of the token you want to add to your MyEtherWallet interface.
+**Paso 1.** Ingresa el nombre del token que quieres agregar a tu interfaz de MyEtherWallet.
 
 <img src="/images/posts/common-issues/Etherscan1Error.jpg" alt="Image of Etherscan token selection" style="width: 40%;" />
 
