@@ -4,7 +4,7 @@ date: 2018-03-01 00:01:00
 tags:
   - mewwallet
   - pin
-  - password
+  - contraseña
   - security
 categories:
   - 
