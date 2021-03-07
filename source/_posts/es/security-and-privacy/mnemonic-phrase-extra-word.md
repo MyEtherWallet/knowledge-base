@@ -5,7 +5,7 @@ tags:
   - mnemonic
   - recovery
   - phrase
-  - password
+  - contraseña
 categories:
   - 
     - security-and-privacy
