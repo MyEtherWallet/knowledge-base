@@ -137,4 +137,4 @@ Replacing a transaction means generating a `XX ETH` transaction to someone else'
 ## **Final Notes**
 
 -   MEW does not receive any transaction fees. They are paid to the miners for including your transaction in a block. We are a free, open-source service.
--   The transaction pool varies from node to node. This means that a transaction may be pending in ETH (Infura.io)'s transaction pool, but not ETH (MyEtherWallet.com)'s transaction pool. For this reason, you should try all the ETH nodes we offer.
+-   The transaction pool varies from node to node. Esto significa que una transacción puede estar pendiente en la pool de transacciones ETH (infura.io), pero no en la pool de transacciones ETH (MyEtherWallet.com). For this reason, you should try all the ETH nodes we offer.
