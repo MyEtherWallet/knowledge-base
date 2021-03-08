@@ -2,7 +2,7 @@
 title: "What is a Nonce?"
 date: How can I see my wallet
 tags:
-  - nonce
+  - 隨機數
 categories:
   - 
     - transactions
