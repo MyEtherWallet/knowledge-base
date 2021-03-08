@@ -38,7 +38,7 @@ Recovery phrases are just as sensitive as your private key, in terms of privacy.
 ## **Here are some tips for using Recovery phrases:**
 
 -   [Use MEW offline](/@@@@@@/offline/using-mew-offline/)!
--   Don’t keep the words on a computer, write them down on physical paper.
+-   請勿將單字保留在電腦上，而應將其寫下來。
 -   Write them down again. And one more time. Keep these lists in easy-to-remember, separate locations.
 -   Make sure your spelling is 100% correct. Always double-check your work.
 -   Order is important – the phrase will not work in the wrong sequence.
