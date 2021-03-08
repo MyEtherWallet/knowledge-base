@@ -28,7 +28,7 @@ author: MyEtherWallet (MEW)
 
 -   Verify that if you are connecting to an http&#x3A;// node you are running MyEtherWallet locally (NOT over https&#x3A;//).
 
--   Verify you are running with:
+-   驗證您是否正在運行：
 
     -   `geth --rpc --rpccorsdomain "null" --keystore "dont_put_secret_files_here_ever"`
 
