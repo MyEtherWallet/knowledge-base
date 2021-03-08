@@ -59,7 +59,7 @@ Without further ado, let’s begin!
 
 * * *
 
-**Step 6.** A screen showing different networks and derivation paths should appear. Choose which network you’d like to connect to, and which path you’d like to use. For regular ETH usage, you should be on an ETH network, under the Ethereum derivation path. You can also access other networks, such as Ethereum Classic (ETC), by choosing the related network path.
+**Step 6.** A screen showing different networks and derivation paths should appear. Choose which network you’d like to connect to, and which path you’d like to use. 對於常規的ETH使用，您應該在以太坊導出路徑下的ETH網絡上 You can also access other networks, such as Ethereum Classic (ETC), by choosing the related network path.
 
 <img src="/images/posts/hardware-wallet/ledger/MEW2.png" alt="Image of MEW access selection" width="70%" />
 
