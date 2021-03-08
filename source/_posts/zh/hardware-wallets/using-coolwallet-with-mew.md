@@ -1,5 +1,5 @@
 ---
-title: "Using a CoolWallet Hardware Wallet with MEW"
+title: "在MEW中使用冷錢包硬件"
 date: 2018-06-01 00:02:00
 tags:
   - CoolWallet
@@ -13,7 +13,7 @@ primary_category_display_name: "Hardware Wallets"
 author: MyEtherWallet (MEW)
 ---
 
-# **Using a CoolWallet Hardware Wallet with MEW**
+# **在MEW中使用冷錢包硬件**
 
 ###### {% read_time title "Using a CoolWallet Hardware Wallet with MEW" %} min read
 
