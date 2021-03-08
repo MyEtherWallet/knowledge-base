@@ -1,5 +1,5 @@
 ---
-title: "Error: Token Already Exists!"
+title: "錯誤：令牌已存在！"
 date: 2018-06-01 00:05:00
 tags:
   - error
