@@ -151,7 +151,7 @@ author: MyEtherWallet (MEW)
 
 ## **Blockchain**
 
--   A decentralized, publicly-owned ledger.
+-   一個去中心化，公眾擁有的帳本。
 -   Immutable, unable to be edited, permanent.
 -   Maintained by remote miners all over the world.
 
