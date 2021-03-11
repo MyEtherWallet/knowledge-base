@@ -23,16 +23,9 @@ author: MyEtherWallet (MEW)
 
 ## **MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards.**
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-To learn more about staking on Eth2, visit our article on \[how to stake on Eth2 using MEW web]\[eth2web].
-
-# Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you \[stake using the MEW wallet app]\[eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.
-
 To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].
 
 Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.
-
-> > > > > > > origin/l10n_master
 
 Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. **It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you.** This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely.
 
