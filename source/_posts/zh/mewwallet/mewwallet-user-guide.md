@@ -59,8 +59,7 @@ author: MyEtherWallet (MEW)
 </div>
 
 **Step 4.** Choose a strong pin code.
-
--   You can also enable additional biometric access, such as a fingerprint or facial recognition.
+* You can also enable additional biometric access, such as a fingerprint or facial recognition.
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
@@ -105,10 +104,9 @@ author: MyEtherWallet (MEW)
 <img src="/images/posts/mewconnect/mbackup2.jpg" alt="Image of MEW wallet back up details screen" style="max-width: 250px; width: 100%;" />
 
 **Step 2.** Get a pen and a piece of paper, then write down the 24 words that appear.
-
--   Keep these words in the same order as they appear, and double-check that it’s all spelled correctly.
--   Ideally, you should write this phrase down 2 - 3 times on separate sheets of paper, stored in multiple secure locations.
--   We cannot recover this phrase for you, and anyone that has access to it will have permanent access to your funds.
+* Keep these words in the same order as they appear, and double-check that it’s all spelled correctly.
+* Ideally, you should write this phrase down 2 - 3 times on separate sheets of paper, stored in multiple secure locations.
+* We cannot recover this phrase for you, and anyone that has access to it will have permanent access to your funds.
 
 <img src="/images/posts/mewconnect/mbackup3.jpg" alt="Image of MEW wallet back up preparation" style="max-width: 250px;" />
 
@@ -136,8 +134,7 @@ author: MyEtherWallet (MEW)
 <img src="/images/posts/mewconnect/mcreate7.jpg" alt="Image of MEW wallet main page" style="max-width: 250px;" />
 
 **Step 2.** Select the amount you’d like to buy, or enter a custom amount (up to $250 worth).
-
--   If you're using an iOS device in the US, Apply Pay makes buying ETH as easy as clicking a button!
+* If you're using an iOS device in the US, Apply Pay makes buying ETH as easy as clicking a button!
 
 <div class="d-flex justify-content-center flex-wrap margin-0">
 <div class="wrap-mobile-phone">
@@ -156,7 +153,7 @@ author: MyEtherWallet (MEW)
 
 **Step 4.** Your new balance will reflect in your account shortly!
 
-##### \_\_
+##### __
 
 ## **Add More Accounts**
 
@@ -173,9 +170,8 @@ author: MyEtherWallet (MEW)
 <img src="/images/posts/mewconnect/madd2.jpg" alt="Image of MEW wallet additional account naming" style="max-width: 250px;" />
 
 **Step 3.** Your new account should generate.
-
--   This account is also tied to the recovery phrase from the ‘Back up your account’ section.
--   When you restore your main account, all subsequent accounts will also be restored. You just need to add them again as regular 'additional' accounts.
+* 此帳號亦與"備份您的帳號"中的註記詞綁定。
+* When you restore your main account, all subsequent accounts will also be restored. You just need to add them again as regular 'additional' accounts.
 
 <img src="/images/posts/mewconnect/madd3.jpg" alt="Image of MEW wallet additional account created" style="max-width: 250px;" />
 
