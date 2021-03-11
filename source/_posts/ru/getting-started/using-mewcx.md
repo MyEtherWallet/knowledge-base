@@ -82,3 +82,4 @@ MEW CX можно использовать для взаимодействия �
 <div class="wrap-mobile-phone">
 <img src="/images/posts/diving-deeper/MEWCX7.png" alt="Изображение MEW CX, подключаемого к Dapp, Web3" width="80%">
 </div>
+
