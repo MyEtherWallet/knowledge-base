@@ -23,7 +23,7 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-## MyEtherWallet (MEW) offers four ways to create a new ETH wallet.
+## MyEtherWallet (MEW) 提供四種建立新以太錢包的方法。
 
 <br>
 
@@ -96,7 +96,7 @@ Read our guide to learn more about [creating your wallet with MEW CX](/@@@@@@/ge
 
 **Step 5.** There is an option for an extra word here, for added security. Choosing to include an extra word keeps your phrase more secure, but it limits the accessibility of your phrase with other wallets. Other wallets may not allow for an extra word, making your phrase incompatible.
 
--   We cannot recover or reset your phrase or extra word for you. Write it down!
+-   我們無法為您恢復或重置您的完整或部分註記詞。 Write it down!
 
 **Step 6.** Now pass a quick test, and you’re done! You’re ready to access your wallet.
 
