@@ -18,7 +18,7 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-First, let’s look at what a contract is. A contract generally outlines a relationship between two parties, bound by law. If one party violates that contract, actions can be taken against them for essentially breaking the law. Many beginning users confuse contracts and smart contracts, and while they can hold similar functionality, they are used for different purposes.
+First, let’s look at what a contract is. A contract generally outlines a relationship between two parties, bound by law. 如果其中一方違反合約，因其破壞規範而必須受到相對的處置。 Many beginning users confuse contracts and smart contracts, and while they can hold similar functionality, they are used for different purposes.
 
 A smart contract is a self-executing contract, written in code, the primary purpose of which is to achieve a goal without the interference of a middleman. Smart contracts can be used to exchange money, property, shares, data, or anything of real value, while remaining decentralized and transparent. The contract itself regulates what action is taken, based on its code. Smart contracts will always achieve the same end goal, based on what input is being used. While regular contracts are meant to be permanently (or temporarily) binding to the law, smart contracts actually are permanent. They make their own laws with their behavior. Using a smart contract for any other purpose than their primary one is impossible. They are immutable, bound to the Ethereum blockchain and unable to be edited. This may sound a bit complicated or confusing, so let’s view it in a different light.
 
