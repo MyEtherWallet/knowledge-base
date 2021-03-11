@@ -23,29 +23,11 @@ author: MyEtherWallet (MEW)
 
 ## **Интеграция Staked в MEW позволяет пользователям делать ставки кратные 32 ETH в Eth2 для накопления годовых процентов.**
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-To learn more about staking on Eth2, visit our article on \[how to stake on Eth2 using MEW web]\[eth2web].
-
-# Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you \[stake using the MEW wallet app]\[eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.
-
-# To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].
-
 Чтобы узнать больше о стейкинг в Eth2, ознакомьтесь с нашей статьей [о том, как делать ставки в Eth2 с помощью MEW web][eth2web].
-
-> > > > > > > origin/l10n_master
 
 Прежде чем делать ставку в Eth2, необходимо иметь адрес для снятия Eth2. Когда вы [делаете стейкинг с помощью приложения MEW wallet][eth2app], ваш адрес снятия Eth2 привязан к вашей фразе восстановления из 24 слов. С другой стороны, пользуясь MEW web, необходимо создать новый адрес для снятия ставки Eth2.
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-> > > > > > > origin/l10n_master
-
-# Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. **It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you.** This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely.
-
 Ваш адрес снятия Eth2 генерированный на MEW web будет иметь файл хранилище ключа + пароль, и фразу из 24 слов. **Очень важно хранить файл, пароль, и фразу восстановления в безопасности, потому что мы не можем восстановить их для вас.** Эта информация необходима для снятия вашей ставки и годовых процентов в будущем. Без нее, ваш ETH может стать недоступен навсегда.
-
-> > > > > > > origin/l10n_master
 
 Рекомендуется верифицировать ваш адрес снятия Eth2 с помощью вашего файла хранилища ключа чтобы убедиться, что все работает правильно. Вы найдете информацию о процессе верификации далее в этой статье.
 
