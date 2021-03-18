@@ -84,7 +84,3 @@ If you still get this error after submitting it with the modified symbol, then y
 ## **My custom tokens are disappearing!**
 
 If your custom tokens are disappearing every time you access our interface, make sure that you do not have a cache-clearing software installed (i.e. CCleaner). Your custom token information is stored locally in your browser, so this software will clear this information and require you to re-submit the token every time you access your wallet.
-
-## **I’d like it to be a default token!**
-
-We are always happy to support new tokens in our default list. To achieve this, simply submit a pull request to [our repo on GitHub](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens/eth). For more information on this process, visit our article on [how to add a default token](/@@@@@@/tokens/adding-token-as-a-default/).
