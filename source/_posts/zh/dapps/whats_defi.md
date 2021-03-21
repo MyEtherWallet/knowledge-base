@@ -31,7 +31,7 @@ While there are a multitude of DeFi protocols and combinations (in fact, they ar
 
 When you **lend** crypto, whether by putting it into a savings-account-like smart contract or into a pool to provide liquidity, you can earn interest on your crypto, with the returns often exceeding those provided by traditional finance instruments. You can also gather rewards in the form of the protocol's governance tokens. These tokens will allow you to vote on proposals about changes to the DeFi protocol, so that you, as an investor, have some control over the project's direction. Of course, governance tokens can also be sold for profit like any other crypto asset.
 
-When you **borrow** crypto, you can take advantage of immediate loans without the need for approval from any third parties – BUT, most of the time, you must provide collateral. This means that you would deposit some ETH, for example, and take out a loan of the stablecoin DAI, to be used in any way you see fit.
+When you **borrow** crypto, you can take advantage of immediate loans without the need for approval from any third parties – BUT, most of the time, you must provide collateral. P
 
 The loan amount should always be significantly lower than the collateral, but your deposit could also be earning interest and growing in value in the meantime. Therefore, in the best case scenario, you are taking advantage of both the loan and the growing value of the collateral. On the other hand, if market volatility leads to a drop in your collateral's price and you don't repay the loan in time, your collateral could be liquidated.
 
