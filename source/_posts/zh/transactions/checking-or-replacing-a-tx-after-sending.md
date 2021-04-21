@@ -61,7 +61,7 @@ There is no guarantee this will work, nor that it will work every time. You may 
     -   If you do not see any errors, your transaction was successfully sent. Your ETH or tokens are where you sent them. If this balance has not been credited to your hosted wallet or exchange account 24 hours after sending, please contact that service. Send them the link to your transaction and ask them to look into your situation.
 -   **Failed:**
     -   If you see a red ( ! ) symbol, or a "BAD INSTRUCTION" or "OUT OF GAS" error message, it means that the transaction was not successfully sent. You cannot cancel or replace this transaction. Instead, send a new transaction. If you received an "Out of Gas" error, you should double the gas limit you specified originally.
-    -   If you see 'Reverted', it's a good idea to double-check the actions you're taking. This is an error having to do with a smart contract user-error.
+    -   If you see 'Reverted', it's a good idea to double-check the actions you're taking. 这是一个与智能合约用户错误相关的错误。
 -   **Transaction Not Found:** This transaction cannot be found. It's possible that it did not go through, or that it cannot be found in the Ethereum blockchain explorer you are using. Try using the other one ([Etherscan.io](https://www.etherscan.io), [Ethplorer.io](https://www.ethplorer.io), or [EthVM](https://www.ethvm.com)). If you still can't find it, it never went through.
 -   **Pending:** Your transaction was located in the transaction pool of the explorer you are using. It is currently pending (waiting to be mined). There is a chance you can cancel or replace this transaction, but it's a very small chance.
 
