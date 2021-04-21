@@ -143,7 +143,7 @@ author: MyEtherWallet (MEW)
 
 -   The process of transferring authority from a single entity (ex. Government or large corporation) to multiple smaller entities.
 
-## **Smart Contracts**
+## **智能合约**
 
 -   A piece of code (or program) that is stored on the blockchain network.
 -   Conditions of the contract are predefined by the users, if all conditions are met, certain actions are executed by the contract (program).
