@@ -20,7 +20,7 @@ author: MyEtherWallet (MEW)
 
 * * *
 
-MyEtherWallet (MEW) makes it easy for you to send a transaction. All you need is a wallet, the Ethereum address you’d like to send funds to, and a little ETH for gas.
+MyEtherWallet (MEW) makes it easy for you to send a transaction. 도와주세요
 
 **All transactions require ETH for gas. We suggest having at least .01 ETH for 2 - 3 transactions. Check out our article to [learn more about gas](/@@@@@@/transactions/what-is-gas/).**
 
