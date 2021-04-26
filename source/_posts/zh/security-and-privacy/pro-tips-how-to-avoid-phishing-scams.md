@@ -47,7 +47,7 @@ author: MyEtherWallet (MEW)
 
 -   Do not give your private key, [mnemonic phrase](/@@@@@@/security-and-privacy/what-is-a-mnemonic-phrase/), or [keystore file](/@@@@@@/security-and-privacy/what-is-a-keystore-file/) to anyone! These are best used with [MEW offline](/@@@@@@/offline/offline-mew-looks-weird/).
 
-## **5. Check the URL very closely, to make sure it’s the one you are expecting.**
+## **wallet address Check the URL very closely, to make sure it’s the one you are expecting.**
 
 -   Phishers are very clever with their tiny dots and accents over and under the letters.
 -   Bookmark all the sites you frequent most!
