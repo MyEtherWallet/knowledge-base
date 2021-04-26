@@ -47,7 +47,7 @@ author: MyEtherWallet (MEW)
 -   However, you can lose your notebook – so make extra copies.
 -   [Use MEW offline](/@@@@@@/offline/offline-mew-looks-weird/) for extra security!
 
-## **5. Do not share your private information with anyone.**
+## **wallet address Do not share your private information with anyone.**
 
 -   Including us! We will never ask for your private key, keystore file, or recovery phrase.
 
