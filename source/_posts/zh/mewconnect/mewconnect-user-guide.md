@@ -112,7 +112,7 @@ You’re done! Your transaction is broadcasting to the network, and you’ll be 
 
 <img class="image-right" alt="Image of MEWconnect accessed wallet" src="/images/posts/mewconnect/OverviewMC.jpg" align="right" width="30%" />
 
-## **5. Overview of the Wallet**
+## **wallet address Overview of the Wallet**
 
 **Step 1.**  Where to see tokens.
 
