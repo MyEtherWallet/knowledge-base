@@ -1,5 +1,5 @@
 ---
-title: "Using a Hardware Wallet With a Custom Node"
+title: "カスタムノードでハードウェアウォレットを利用する"
 date: 2018-06-01 00:05:00
 tags:
   - hardware
@@ -16,7 +16,7 @@ alias:
 author: MyEtherWallet (MEW)
 ---
 
-# **Using a Hardware Wallet With a Custom Node**
+# **カスタムノードでハードウェアウォレットを利用する**
 
 ###### {% read_time title "Using a Hardware Wallet With a Custom Node" %} min read
 
