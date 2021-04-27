@@ -75,7 +75,7 @@ video_tab:
   labelMC: "Part %d of MEWconnect 101"
   title_one_mc: Create a wallet
   title_two_mc: Back up your wallet
-  title_three_mc: Connect to MEW
+  title_three_mc: MEWに接続する
   title_four_mc: Make a transaction
   title_five_mc: Wallet overview
 links:
