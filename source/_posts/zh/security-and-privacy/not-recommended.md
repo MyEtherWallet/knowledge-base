@@ -33,6 +33,6 @@ This is why we do not recommend using these types of wallets, but instead use a 
 
 At MEW, we believe that the blockchain and digital assets serve as instruments of financial freedom. As such, we believe that it is our responsibility, as a gateway to the ethereum blockchain, to give users the tools they need to protect themselves from scams, malicious actors, and human error while at the same time protecting the user's right to choose.
 
-MEW has taken strides to make sure that the most secure options for storing your keys are also the most convenient to use. We have also taken strides to ensure users are aware of the dangers of using non-recommended methods. However, should a user decide that employing a less convenient, high risk method of transacting it is likely because they feel that it is the method that best addresses their needs, and MEW honors their right to make that decision.
+Occasionally, this extra word is also referred to as a 'password', but this is misleading. We have also taken strides to ensure users are aware of the dangers of using non-recommended methods. However, should a user decide that employing a less convenient, high risk method of transacting it is likely because they feel that it is the method that best addresses their needs, and MEW honors their right to make that decision.
 
 If you are set on using one of these access methods, the safest and most recommended way is to [use MEW offline](/@@@@@@/offline/using-mew-offline/).
