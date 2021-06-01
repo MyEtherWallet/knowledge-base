@@ -117,4 +117,4 @@ To begin, you’ll need an active Bitcoin wallet with BTC and a MEW wallet app a
 -   1% MEW service fee
 -   0.1% RenVM network fee
 -   0.000007 BTC as a flat gas fee by RenVM (which can increase during times of high volume)
--   Ethereum gas fee, determined by network congestion
+-   0x38df7343966a4b4d93aac74efc384679a021301868219a875ca9e92ff52db9c0
