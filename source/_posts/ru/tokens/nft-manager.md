@@ -37,34 +37,22 @@ NFTs (невзаимозаменяемые токены) — это токены
 Токены NFT очень полезны, потому что они имитируют настоящие товары и ценности, которые могут быть произведены и переданы для доказательства права собственности. Они широко используются в блокчейн-играх, где ценится обладание уникальными предметами.
 
 Поскольку они разработаны на блокчейне, их код и доказательство права собственности невозможно изменить. У вас есть полный контроль над вашими NFT-токенами, и никто не может его отнять.
-
-Уже сейчас вы может взаимодействовать с пятью играми с помощью нашего NFT-менеджера!
-<br>
-
-## **На данный момент MEW поддерживает:**
-
--   CryptoKitties
--   Gods Unchained
--   Etheremon
--   Cryptant Crab
--   CryptoFlowers
-
 <br>
 
 ### **Чтобы воспользоваться NFT-менеджером:**
 
-**Шаг 1.** [Откройте ваш кошелек](/@@@@@@/getting-started/how-to-access-your-wallet/).
+**Step 1:** [Access Your Wallet](/@@@@@@/getting-started/how-to-access-your-wallet/).
 
 <img src="/images/posts/tokens/NFT0.png" alt="Изображение главной страницы MEW" width="85%" />
 
-<img src="/images/posts/tokens/NFT1.png" alt="Изображение экрана выбора кошелька для доступа в MEW" width="85%" />
+<img src="/images/posts/tokens/NFT1.png" alt="Image of MEW access wallet selection screen" width="85%" />
 
-**Шаг 2.** Выберите NFT-менеджер на панели управления вашего кошелька.
+**Step 2.** Select the NFT Manager on your Wallet Dashboard.
 
 <img src="/images/posts/tokens/NFT2.png" alt="Изображение MEW доступ к кошельку" width="100%" />
 
-**Шаг 3.** Выберите, какой NFT вы хотите использовать.
+**Step 3.** Choose which NFT you'd like to interact with.
 
--   Если вы пытаетесь отправить ваш NFT кому-то, убедитесь, что у вас есть не менее 0.01 ETH для оплаты газа!
+-   If you're trying to send your NFT to someone else, make sure you have at least 0.01 ETH to pay for gas!
 
-<img src="/images/posts/tokens/NFT4.png" alt="Изображение менеджера NFT в MEW" width="100%" />
+<img src="/images/posts/tokens/NFT4.png" alt="Image of MEW NFT manager" width="100%" />
