@@ -37,18 +37,6 @@ For instance, take a CryptoKitty. Each CryptoKitty is their own, separate NFT. N
 NFTs are very useful because they simulate real products and values that can be produced and transferred to prove ownership. They’re heavily used in blockchain gaming, where having unique items are treasured.
 
 Since they’re built on the blockchain, their code and proof of ownership are immutable. You have full control over your NFTs, and no one can take that away from you.
-
-You can interact with five games right now using our NFT Manager!
-<br>
-
-## **So far, MEW supports:**
-
--   CryptoKitties
--   Gods Unchained
--   Etheremon
--   Cryptant Crab
--   CryptoFlowers
-
 <br>
 
 ### **To use the NFT Manager:**
