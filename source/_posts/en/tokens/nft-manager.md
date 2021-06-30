@@ -23,7 +23,7 @@ author: MyEtherWallet (MEW)
 
 ###### {% read_time title "What are Non-Fungible Tokens (NFTs)?" %} min read
 
----
+* * *
 
 ### **MEW supports NFTs!**
 
@@ -52,7 +52,7 @@ Since they’re built on the blockchain, their code and proof of ownership are i
 
 **Step 3.** Choose which NFT you'd like to interact with.
 
-- If you're trying to send your NFT to someone else, make sure you have at least 0.01 ETH to pay for gas!
+-   If you're trying to send your NFT to someone else, make sure you have at least 0.01 ETH to pay for gas!
 
 <img src="/images/posts/tokens/NFT4.png" alt="Image of MEW NFT manager" width="100%">
 
