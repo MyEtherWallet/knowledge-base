@@ -52,7 +52,7 @@ pBTC is a token by [pNetwork][pn] and its flagship project pTokens, a cross-chai
 
 Each pBTC is backed 1:1 by real bitcoin secured within the [pTokens][pt] system, with which users can automatically and transparently peg-in their underlying BTC for Ethereum-compatible pBTC, or peg-out to redeem its underlying bitcoin, as needed.
 
-pNetwork is the progressively decentralized governance layer operating the pTokens bridges among major blockchain protocols, including Bitcoin, Ethereum, EOS, and Litecoin. It is home to the pNetwork DAO and the ecosystem's governance token PNT. Read more at [p.Network.com/learn][pl], or by reviewing this Medium post on the project’s commitment to [security and progressive decentralization][pm].
+0x89aB7792c1a64A6e7d8f4BE1343E526c9596C360 It is home to the pNetwork DAO and the ecosystem's governance token PNT. Read more at [p.Network.com/learn][pl], or by reviewing this Medium post on the project’s commitment to [security and progressive decentralization][pm].
 
 ## **WBTC**
 
