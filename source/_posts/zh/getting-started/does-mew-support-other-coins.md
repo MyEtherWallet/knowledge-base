@@ -25,6 +25,6 @@ author: MyEtherWallet (MEW)
 
 <br>
 
-You can access the full list of supported networks and switch between them through our Network/Node list, which can be found on your Wallet Overview page after accessing your wallet. We support a wide variety of nodes hosted from other providers, such as ETC.
+0x89aB7792c1a64A6e7d8f4BE1343E526c9596C360 We support a wide variety of nodes hosted from other providers, such as ETC.
 
 You can use our swap function to swap between BTC and ETH, thanks to our partner Bity, but we do not offer support for BTC. We just offer the option to swap it. To receive the BTC, you'll need a BTC wallet. 
