@@ -46,7 +46,7 @@ Without further ado, let’s begin!
 
 **Step 4.** Once you're done, you will see a screen to create your first wallet. Before you do that, head to the settings section in the top-right. Familiarize yourself with this section and change any settings for your comfort. You can also update your firmware here.
 
-**Step 5.** It's extremely important you back up your wallet through the Settings section. You can use an SD card or a series of QR codes, whichever you're more comfortable with. Just don't lose it!
+**Step 5.** You can use an SD card or a series of QR codes, whichever you're more comfortable with. Just don't lose it!
 
 **Step 6.** When you're ready, head back to the main screen and select 'Add New Wallet'. Choose Ethereum, name it, and continue to set up your new wallet.
 
