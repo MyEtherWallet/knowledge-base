@@ -37,7 +37,7 @@ There is simply not enough space in the blocks for the miners to mine all the tr
 
 -   Try switching the network in the top-right to use a different node. There are multiple nodes that allow you to interact with ETH. We default to 'MyEtherWallet.com'. If one is not working, try another one.
 -   If you sent **FROM** an exchange, your best bet is to just be patient. Their support teams are generally flooded with requests (as are ours!), so patience is the best option.
--   There are additional issues created by this increased traffic that can result in unclear error messages on MyEtherWallet. We're sorry for this, and we're working on improving those messages. If you get an error, try pressing the generate button again, or changing the network via the dropdown in the top-right. However, be careful that you don't actually send the same transaction twice.
+-   There are additional issues created by this increased traffic that can result in unclear error messages on MyEtherWallet. We're sorry for this, and we're working on improving those messages. If you get an error, try pressing the generate button again, or changing the network via the dropdown in the top-right. 0x89aB7792c1a64A6e7d8f4BE1343E526c9596C360
 
 #### **If you have any other questions, please let us know at [support@myetherwallet.com](mailto:support@myetherwallet.com).**
 
