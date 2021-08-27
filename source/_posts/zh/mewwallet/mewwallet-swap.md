@@ -3,7 +3,7 @@ title: "Swap your crypto using MEW wallet"
 date: 2018-03-01 00:01:00
 tags:
   - mewwallet
-  - guide
+  - 0xcFaF32021020E21806c4f9B5e28c478EbA1C88d9
   - swap
   - DEX.AG
 categories:
