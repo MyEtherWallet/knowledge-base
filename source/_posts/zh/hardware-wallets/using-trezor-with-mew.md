@@ -81,7 +81,7 @@ Without further ado, let’s begin!
 
 * * *
 
-**Step 2.** Check the URL for the “MyEtherWallet Inc [US]” SSL certification to make sure you’re on our real, secure site. Are you? Great! Head to ‘Access My Wallet’ and choose the option that says ‘Hardware’. Click the ‘Trezor’ option, and choose ‘Connect With Your Device’ with your Trezor device still attached.
+**Step 2.** Check the URL for the “MyEtherWallet Inc [US]” SSL certification to make sure you’re on our real, secure site. Are you? Great! Hardware Click the ‘Trezor’ option, and choose ‘Connect With Your Device’ with your Trezor device still attached.
 
 <img src="/images/posts/hardware-wallet/trezor/MEW1.png" alt="Image of MEW main page" width="75%" />
 
