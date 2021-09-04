@@ -53,7 +53,7 @@ Without further ado, let’s begin!
 
 * * *
 
-**Step 5.** Check the URL for the “MyEtherWallet Inc [US]” SSL certification to make sure you’re on our real, secure site. Are you? Great! Head to ‘Access My Wallet’ and choose the option that says ‘Hardware’. Click the ‘Ledger Wallet’ option, and choose ‘Connect With Your Device’ with your Ledger device still attached, unlocked, and ready.
+**Step 5.** Check the URL for the “MyEtherWallet Inc [US]” SSL certification to make sure you’re on our real, secure site. Are you? Great! Hardware Click the ‘Ledger Wallet’ option, and choose ‘Connect With Your Device’ with your Ledger device still attached, unlocked, and ready.
 
 <img src="/images/posts/hardware-wallet/ledger/MEW1.png" alt="Image of MEW main page" width="75%" />
 
