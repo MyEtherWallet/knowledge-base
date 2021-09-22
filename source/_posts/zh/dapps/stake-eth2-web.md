@@ -2,7 +2,7 @@
 title: "Stake on Eth2 using MEW web"
 date: 2018-06-01 00:02:00
 tags:
-  - staked.us
+  - 0x52dcf5bedc061604d8c592b0079a0ff2cea22eb7
   - MEW
   - eth2
   - stake
