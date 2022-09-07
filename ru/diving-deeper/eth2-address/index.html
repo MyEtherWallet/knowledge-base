@@ -1,0 +1,2534 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="generator" content="Hexo 3.9.0">
+    <meta charset="utf-8">
+    
+    <link rel="canonical" href="https://kb.myetherwallet.com/diving-deeper/eth2-address/">
+    <title>
+        Генерировать адрес снятия Eth2 для стейкинга в Eth2 |
+        
+        MyEtherWallet Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="../../../css/google-fonts.css">
+<link rel="stylesheet" href="../../../css/font-awesome.css">
+
+    <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "name" : "MyEtherWallet Knowledge Base",
+    "url" : "https://kb.myetherwallet.com"
+  }
+</script>
+
+<script type="application/ld+json">
+  { "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "MyEtherWallet",
+    "url" : "https://www.myetherwallet.com",
+    "logo": "https://kb.myetherwallet.com/images/mew-logo-dark.png",
+    "sameAs" : [ "" ]
+  }
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://kb.myetherwallet.com"
+    },
+    "headline": "Генерировать адрес снятия Eth2 для стейкинга в Eth2",
+
+
+        "datePublished": "2018-06-01T00:02:00-07:00",
+
+
+    "dateModified": "2022-09-06T16:54:04-07:00",
+
+
+    "author": {
+        "@type": "Person",
+        "name": "MyEtherWallet (MEW)"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "MyEtherWallet ",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://kb.myetherwallet.com/images/mew-logo-dark.png"
+        }
+    }
+}
+
+</script>
+<meta property="og:site_name" content="MyEtherWallet Knowledgebase">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Генерировать адрес снятия Eth2 для стейкинга в Eth2">
+<meta property="og:description" content="Генерировать адрес снятия Eth2 для стейкинга в Eth2">
+<meta property="og:url" content="https://kb.myetherwallet.com/ru/diving-deeper/eth2-address">
+<meta property="article:published_time" content="2018-06-01T00:02:00-07:00">
+<meta property="article:modified_time" content="2022-09-06T16:54:04-07:00">
+
+    <meta property="article:tag" content="eth2">
+
+    <meta property="article:tag" content="staking">
+
+    <meta property="article:tag" content="staked">
+
+    <meta property="article:tag" content="beacon">
+
+    <meta property="article:tag" content="withdrawal">
+
+<meta property="article:publisher" content="https://www.facebook.com/myetherwallet">
+
+    <link rel="alternate" hreflang="en" href="https://kb.myetherwallet.com/en/diving-deeper/eth2-address/">
+
+    <link rel="alternate" hreflang="ru" href="https://kb.myetherwallet.com/ru/diving-deeper/eth2-address/">
+
+    <link rel="alternate" hreflang="es" href="https://kb.myetherwallet.com/es/diving-deeper/eth2-address/">
+
+    <link rel="alternate" hreflang="ja" href="https://kb.myetherwallet.com/ja/diving-deeper/eth2-address/">
+
+    <link rel="alternate" hreflang="ko" href="https://kb.myetherwallet.com/ko/diving-deeper/eth2-address/">
+
+    <link rel="alternate" hreflang="zh" href="https://kb.myetherwallet.com/zh/diving-deeper/eth2-address/">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Генерировать адрес снятия Eth2 для стейкинга в Eth2">
+<meta name="twitter:description" content="Генерировать адрес снятия Eth2 для стейкинга в Eth2">
+<meta name="twitter:url" content="https://kb.myetherwallet.com/ru/diving-deeper/eth2-address">
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="MyEtherWallet (MEW)">
+<meta name="twitter:label2" content="Filed under">
+<meta name="twitter:data2" content="eth2 staking staked beacon withdrawal">
+<meta name="twitter:site" content="@myetherwallet">
+
+
+    
+        <link rel="icon" href="/favicon.png">
+    
+
+    <link rel="stylesheet" href="../../../css/style.css">
+</head>
+</html>
+<body>
+
+  <div class="site-container desktop-content">
+    <div class="site-wrap">
+      
+
+
+  <header>
+  <div class="page-container">
+    <div class="header-wrap">
+      <div class="header-top-block">
+    <div class="left">
+        <a href="/ru/../"><img src="../../../images/mew-logo-white.png"></a>
+        <p>Центр поддержки</p>
+    </div>
+    <div class="right">
+        <ul>
+            
+                <li><a class="main-nav-link" href="/ru/../index.html">Главная</a></li>
+            
+                <li><a class="main-nav-link" href="mailto:support@myetherwallet.com">Поддержка</a></li>
+            
+            <li>
+                <!-- 
+                    <span value="0">0 </span>
+                 -->
+                <label id="lang-select-label" for="lang-select" class="lang-nav-link"><img src="../../../images/flags/ru.svg" width="40" height="20"></label>
+                <select id="lang-select" class="hidden" data-canonical="diving-deeper/eth2-address/index.html">
+                    
+                    <option value="en">English</option>
+                    
+                    <option value="ru" selected>Русский</option>
+                    
+                </select>
+            </li>
+        </ul>
+    </div>
+</div>
+
+      <div class="page-title">
+        <div class="title">Более глубокое ознакомление</div>
+      </div>
+    </div>
+  </div>
+</header>
+  
+<div class="desktop-content">
+  <div class="breadcrumbs-container page-container">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Более глубокое ознакомление]</span> Генерировать адрес снятия Eth2 для стейкинга в Eth2</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="sidebar-primary-category">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/does-mew-api-limit-amount-of-requests/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Есть ли у API MEW лимит на количество возможных запросов?</p>
+                <p class="hidden">cl7ryxjdy01euc8zl5fciim5b</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/does-mew-have-an-api/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Есть ли у MyEtherWallet API?</p>
+                <p class="hidden">cl7ryxjdv01enc8zlrgpfw66f</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/eth2-address/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Генерировать адрес снятия Eth2 для стейкинга в Eth2</p>
+                <p class="hidden">cl7ryxjdw01eqc8zle4lza41l</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/how-to-interact-with-multisig-contract/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Как мне взаимодействовать с контрактом с мультиподписью</p>
+                <p class="hidden">cl7ryxje201f1c8zl6pt0m45v</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/how-to-submit-pull-request/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Как оформить запрос на включение изменений в GitHub MEW</p>
+                <p class="hidden">cl7ryxje301f4c8zlsmj67qh1</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/using-mew-as-a-pwa/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование MEW в качестве прогрессивного веб-приложения (PWA)</p>
+                <p class="hidden">cl7ryxje001exc8zlwlu3l84v</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-happens-if-mew-goes-down/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Что случится, если MEW выйдет из строя?</p>
+                <p class="hidden">cl7ryxje401f7c8zluhdab3yo</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-is-a-smart-contract/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Что такое умный контракт (smart contract) на Ethereum?</p>
+                <p class="hidden">cl7ryxje601fcc8zlz4iztq24</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-is-staking-eth2/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Стейкинг и Eth2</p>
+                <p class="hidden">cl7ryxje701ffc8zl6cw76vqs</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="customer">
+    
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+  </div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/diving-deeper/eth2-address" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Генерировать-адрес-снятия-Eth2-для-стейкинга-в-Eth2"><a href="#Генерировать-адрес-снятия-Eth2-для-стейкинга-в-Eth2" class="headerlink" title="Генерировать адрес снятия Eth2 для стейкинга в Eth2"></a><strong>Генерировать адрес снятия Eth2 для стейкинга в Eth2</strong></h1><h6 id="мин-чтения"><a href="#мин-чтения" class="headerlink" title=" мин. чтения"></a>6 мин. чтения</h6><hr>
+<h2 id="Интеграция-Staked-в-MEW-позволяет-пользователям-делать-ставки-кратные-32-ETH-в-Eth2-для-накопления-годовых-процентов"><a href="#Интеграция-Staked-в-MEW-позволяет-пользователям-делать-ставки-кратные-32-ETH-в-Eth2-для-накопления-годовых-процентов" class="headerlink" title="Интеграция Staked в MEW позволяет пользователям делать ставки кратные 32 ETH в Eth2 для накопления годовых процентов."></a><strong>Интеграция Staked в MEW позволяет пользователям делать ставки кратные 32 ETH в Eth2 для накопления годовых процентов.</strong></h2><p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].</p>
+<h1 id="Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake"><a href="#Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake" class="headerlink" title="Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake."></a>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</h1><h1 id="To-learn-more-about-staking-on-Eth2-visit-our-article-on-how-to-stake-on-Eth2-using-MEW-web"><a href="#To-learn-more-about-staking-on-Eth2-visit-our-article-on-how-to-stake-on-Eth2-using-MEW-web" class="headerlink" title="To learn more about staking on Eth2, visit our article on how to stake on Eth2 using MEW web."></a>To learn more about staking on Eth2, visit our article on <a href="/ru/dapps/stake-eth2-web/">how to stake on Eth2 using MEW web</a>.</h1><p>Чтобы узнать больше о стейкинг в Eth2, ознакомьтесь с нашей статьей <a href="/ru/dapps/stake-eth2-web/">о том, как делать ставки в Eth2 с помощью MEW web</a>.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Прежде чем делать ставку в Eth2, необходимо иметь адрес для снятия Eth2. Когда вы <a href="/ru/mewwallet/stake-eth2-mw/">делаете стейкинг с помощью приложения MEW wallet</a>, ваш адрес снятия Eth2 привязан к вашей фразе восстановления из 24 слов. С другой стороны, пользуясь MEW web, необходимо создать новый адрес для снятия ставки Eth2.</p>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<h1 id="Your-MEW-web-Eth2-withdrawal-address-will-have-a-keystore-file-password-and-a-24-word-recovery-phrase-tied-to-it-It’s-very-important-you-keep-both-your-keystore-file-password-and-recovery-phrase-safe-as-we-cannot-recover-these-for-you-This-information-is-necessary-to-withdraw-your-stake-and-rewards-in-the-future-Without-these-your-ETH-may-be-locked-up-indefinitely"><a href="#Your-MEW-web-Eth2-withdrawal-address-will-have-a-keystore-file-password-and-a-24-word-recovery-phrase-tied-to-it-It’s-very-important-you-keep-both-your-keystore-file-password-and-recovery-phrase-safe-as-we-cannot-recover-these-for-you-This-information-is-necessary-to-withdraw-your-stake-and-rewards-in-the-future-Without-these-your-ETH-may-be-locked-up-indefinitely" class="headerlink" title="Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you. This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely."></a>Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. <strong>It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you.</strong> This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely.</h1><p>Ваш адрес снятия Eth2 генерированный на MEW web будет иметь файл хранилище ключа + пароль, и фразу из 24 слов. <strong>Очень важно хранить файл, пароль, и фразу восстановления в безопасности, потому что мы не можем восстановить их для вас.</strong> Эта информация необходима для снятия вашей ставки и годовых процентов в будущем. Без нее, ваш ETH может стать недоступен навсегда.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Рекомендуется верифицировать ваш адрес снятия Eth2 с помощью вашего файла хранилища ключа чтобы убедиться, что все работает правильно. Вы найдете информацию о процессе верификации далее в этой статье.</p>
+<h3 id="Генерировать-адрес-снятия-Eth2-на-MEW-web"><a href="#Генерировать-адрес-снятия-Eth2-на-MEW-web" class="headerlink" title="Генерировать адрес снятия Eth2 на MEW web"></a><strong>Генерировать адрес снятия Eth2 на MEW web</strong></h3><br>
+
+<p><strong>Шаг 1.</strong> Перейдите на <a href="http://www.myetherwallet.com" target="_blank" rel="noopener">www.myetherwallet.com.</a> и прокрутите к низу страницы. Здесь вы найдете инструмент «Generate Eth2 address» внизу раздела «Discover».</p>
+<img src="/images/posts/diving-deeper/eth21.png" width="85%">
+
+<p><strong>Шаг 2.</strong> Введите надежный пароль для вашего файла хранилища ключа Eth2, затем введите его еще раз, чтобы подтвердить. Этот пароль будет ключом для разблокировки вашего файла ключа. Очень важно не потерять его.</p>
+<img src="/images/posts/diving-deeper/eth22.png" width="70%">
+
+<p><strong>Шаг 3.</strong> Вы будете перенаправлена на экран на котором будет показана ваша фраза восстановления из 24 слов. Запишите эти 24 слова на бумаге и храните ее в безопасном месте. Скриншот не защитит вас от сбоя вашего компьютера, и сделает вашу фразу более уязвимой для хакеров.</p>
+<img src="/images/posts/diving-deeper/eth23.png" width="70%">
+
+<p><strong>Шаг 4.</strong> Загрузите файл хранилища ключа с этого же экрана. Храните его в безопасном месте оффлайн, например на USB. Рекомендуется загрузить несколько копий и хранить их на отдельных USB, так что в случае сбоя у вас есть резервные копии.</p>
+<p><strong>Шаг 5.</strong> Готово! Вы увидите свой новый адрес снятия Eth2 на экране. Стоит записать и сохранить его. Этот адрес не является необходимым для дальнейшего доступа, но полезно знать свой собственный адрес снятия средств.</p>
+<img src="/images/posts/diving-deeper/eth24.png" width="70%">
+
+<h2 id="Верификация-адреса-снятия-Eth2-используя-Windows"><a href="#Верификация-адреса-снятия-Eth2-используя-Windows" class="headerlink" title="Верификация адреса снятия Eth2 используя Windows"></a><strong>Верификация адреса снятия Eth2 используя Windows</strong></h2><p>Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.</p>
+<p><strong>Шаг 1.</strong> Перейдите на наш <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">инструмент верификации Eth2 keystore</a> на Github. Загрузите ZIP файл Windows для вашей системы.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Шаг 2.</strong> Распакуйте ZIP-файл и найдите в папке программу ‘deposit.exe’.</p>
+<img src="/images/posts/diving-deeper/ethv2.png" width="80%">
+
+<p><strong>Шаг 3.</strong> Удерживайте Shift и щелкните правой кнопкой мыши на пустом месте этой папки, затем выберите ‘Open PowerShell’.</p>
+<p><strong>Шаг 4.</strong> Введите эту команду для Windows: “.\deposit verify-keystore”</p>
+<img src="/images/posts/diving-deeper/ethv5.png" width="100%">
+
+<p><strong>Шаг 5.</strong> Введите путь к вашему файлу хранилища ключа Eth2. Чтобы найти этот путь, щелкните правой кнопкой мыши на файл и нажмите “Свойства”. Он выглядит примерно так: “C:\Users\since\OneDrive\Desktop” (в том случае если он у вас на десктопе). После того, как вы найдете путь, убедитесь, что вы добавили имя файла хранилища в конце. Таким образом, путь будет выглядеть так: “C:\Users\since\OneDrive\Desktop\keystore-m_12381_3600_0_01607022974412.json”</p>
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv3.png" width="50%">
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv4.png" width="50%">
+</div>
+</div>
+
+<p><strong>Шаг 6.</strong> Когда вы введете команду в терминал и нажмете ‘Ввод’, терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.</p>
+<p><strong>Шаг 7.</strong> Готово! В терминале вы должны увидеть: “Успех! Ваш файл хранилища ключа верифицирован.” Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Сравните его с адресом, который вы увидели, когда вы впервые создали свой файл хранилища ключа Eth2, и убедитесь что он совпадает.</p>
+<img src="/images/posts/diving-deeper/ethv6.png" width="100%">
+
+<h2 id="Верификация-адреса-снятия-Eth2-используя-Mac"><a href="#Верификация-адреса-снятия-Eth2-используя-Mac" class="headerlink" title="Верификация адреса снятия Eth2 используя Mac"></a><strong>Верификация адреса снятия Eth2 используя Mac</strong></h2><p>Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.</p>
+<p><strong>Шаг 1.</strong> Перейдите на наш <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">инструмент верификации Eth2 keystore</a> на Github. Загрузите ZIP файл Mac (darwin) TAR.ZG для вашей системы.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Шаг 2.</strong> Распакуйте ZIP-файл и найдите в папке программу ‘deposit’. Нажмите на значок шестеренки и выберите опцию “Копировать ‘eth2deposit….’ как Pathname”.</p>
+<img src="/images/posts/diving-deeper/ethmac1.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac3.png" width="80%">
+
+<p><strong>Шаг 3.</strong> Удерживайте Cmd + пробел и введите слово «Terminal», чтобы открыть терминал для вашего Mac. Здесь введите “cd “ и вставьте путь, скопированный с предыдущего шага, а затем нажмите ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac2.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac7.png" width="80%">
+
+<p><strong>Шаг 4.</strong> Введите эту команду для Mac: “./deposit verify-keystore” и нажмите ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac5.png" width="80%">
+
+<p><strong>Шаг 5.</strong> Введите путь к вашему файлу хранилища ключа Eth2. Чтобы найти путь, держите кнопку Option + нажмите правой кнопкой мыши на файл хранилища ключа и выберите “Copy ‘keystore-m….json’ as Pathname”. После этого вернитесь к терминалу и вставьте его. Он должен выглядеть примерно так: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (если он у вас на рабочем столе).</p>
+<p><strong>Шаг 6.</strong> Когда вы введете команду в терминал и нажмете ‘Ввод’, терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.</p>
+<p><strong>Шаг 7.</strong> Готово! В терминале вы должны увидеть: “Успех! Ваш файл хранилища ключа верифицирован.” Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Сравните его с адресом, который вы увидели, когда вы впервые создали свой файл хранилища ключа Eth2, и убедитесь что он совпадает.</p>
+<img src="/images/posts/diving-deeper/ethmac6.png" width="80%">
+
+
+      </article>
+      <script
+              type="text/javascript"
+              src="https://crowdin.com/js/crowdjet/crowdjet.js">
+      </script>
+      <div
+              id="crowdjet-container"
+              data-project-id="361641"
+              style="bottom: 90px; right: 20px;">
+      </div>
+      <div
+              id="crowdjet-expand-container"
+              style="bottom: 10px; right: 20px;">
+      </div>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/diving-deeper/does-mew-have-an-api/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Есть ли у MyEtherWallet API?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/diving-deeper/how-to-interact-with-multisig-contract/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Как мне взаимодействовать с контрактом с мультиподписью</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mobile-content">
+  <div class="breadcrumbs-container page-container hidden">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Более глубокое ознакомление]</span> Генерировать адрес снятия Eth2 для стейкинга в Eth2</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search hidden">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="show-list-button">
+    <p>Show all posts</p>
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </div>
+  <div class="sidebar-primary-category mobile-post-list">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/does-mew-api-limit-amount-of-requests/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Есть ли у API MEW лимит на количество возможных запросов?</p>
+                <p class="hidden">cl7ryxjdy01euc8zl5fciim5b</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/does-mew-have-an-api/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Есть ли у MyEtherWallet API?</p>
+                <p class="hidden">cl7ryxjdv01enc8zlrgpfw66f</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/eth2-address/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Генерировать адрес снятия Eth2 для стейкинга в Eth2</p>
+                <p class="hidden">cl7ryxjdw01eqc8zle4lza41l</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/how-to-interact-with-multisig-contract/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Как мне взаимодействовать с контрактом с мультиподписью</p>
+                <p class="hidden">cl7ryxje201f1c8zl6pt0m45v</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/how-to-submit-pull-request/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Как оформить запрос на включение изменений в GitHub MEW</p>
+                <p class="hidden">cl7ryxje301f4c8zlsmj67qh1</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/using-mew-as-a-pwa/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование MEW в качестве прогрессивного веб-приложения (PWA)</p>
+                <p class="hidden">cl7ryxje001exc8zlwlu3l84v</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-happens-if-mew-goes-down/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Что случится, если MEW выйдет из строя?</p>
+                <p class="hidden">cl7ryxje401f7c8zluhdab3yo</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-is-a-smart-contract/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Что такое умный контракт (smart contract) на Ethereum?</p>
+                <p class="hidden">cl7ryxje601fcc8zlz4iztq24</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-is-staking-eth2/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Стейкинг и Eth2</p>
+                <p class="hidden">cl7ryxje701ffc8zl6cw76vqs</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="sidebar-close-button">Close</div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/diving-deeper/eth2-address" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Генерировать-адрес-снятия-Eth2-для-стейкинга-в-Eth2"><a href="#Генерировать-адрес-снятия-Eth2-для-стейкинга-в-Eth2" class="headerlink" title="Генерировать адрес снятия Eth2 для стейкинга в Eth2"></a><strong>Генерировать адрес снятия Eth2 для стейкинга в Eth2</strong></h1><h6 id="мин-чтения"><a href="#мин-чтения" class="headerlink" title=" мин. чтения"></a>6 мин. чтения</h6><hr>
+<h2 id="Интеграция-Staked-в-MEW-позволяет-пользователям-делать-ставки-кратные-32-ETH-в-Eth2-для-накопления-годовых-процентов"><a href="#Интеграция-Staked-в-MEW-позволяет-пользователям-делать-ставки-кратные-32-ETH-в-Eth2-для-накопления-годовых-процентов" class="headerlink" title="Интеграция Staked в MEW позволяет пользователям делать ставки кратные 32 ETH в Eth2 для накопления годовых процентов."></a><strong>Интеграция Staked в MEW позволяет пользователям делать ставки кратные 32 ETH в Eth2 для накопления годовых процентов.</strong></h2><p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].</p>
+<h1 id="Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake"><a href="#Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake" class="headerlink" title="Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake."></a>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</h1><h1 id="To-learn-more-about-staking-on-Eth2-visit-our-article-on-how-to-stake-on-Eth2-using-MEW-web"><a href="#To-learn-more-about-staking-on-Eth2-visit-our-article-on-how-to-stake-on-Eth2-using-MEW-web" class="headerlink" title="To learn more about staking on Eth2, visit our article on how to stake on Eth2 using MEW web."></a>To learn more about staking on Eth2, visit our article on <a href="/ru/dapps/stake-eth2-web/">how to stake on Eth2 using MEW web</a>.</h1><p>Чтобы узнать больше о стейкинг в Eth2, ознакомьтесь с нашей статьей <a href="/ru/dapps/stake-eth2-web/">о том, как делать ставки в Eth2 с помощью MEW web</a>.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Прежде чем делать ставку в Eth2, необходимо иметь адрес для снятия Eth2. Когда вы <a href="/ru/mewwallet/stake-eth2-mw/">делаете стейкинг с помощью приложения MEW wallet</a>, ваш адрес снятия Eth2 привязан к вашей фразе восстановления из 24 слов. С другой стороны, пользуясь MEW web, необходимо создать новый адрес для снятия ставки Eth2.</p>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<h1 id="Your-MEW-web-Eth2-withdrawal-address-will-have-a-keystore-file-password-and-a-24-word-recovery-phrase-tied-to-it-It’s-very-important-you-keep-both-your-keystore-file-password-and-recovery-phrase-safe-as-we-cannot-recover-these-for-you-This-information-is-necessary-to-withdraw-your-stake-and-rewards-in-the-future-Without-these-your-ETH-may-be-locked-up-indefinitely"><a href="#Your-MEW-web-Eth2-withdrawal-address-will-have-a-keystore-file-password-and-a-24-word-recovery-phrase-tied-to-it-It’s-very-important-you-keep-both-your-keystore-file-password-and-recovery-phrase-safe-as-we-cannot-recover-these-for-you-This-information-is-necessary-to-withdraw-your-stake-and-rewards-in-the-future-Without-these-your-ETH-may-be-locked-up-indefinitely" class="headerlink" title="Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you. This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely."></a>Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. <strong>It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you.</strong> This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely.</h1><p>Ваш адрес снятия Eth2 генерированный на MEW web будет иметь файл хранилище ключа + пароль, и фразу из 24 слов. <strong>Очень важно хранить файл, пароль, и фразу восстановления в безопасности, потому что мы не можем восстановить их для вас.</strong> Эта информация необходима для снятия вашей ставки и годовых процентов в будущем. Без нее, ваш ETH может стать недоступен навсегда.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Рекомендуется верифицировать ваш адрес снятия Eth2 с помощью вашего файла хранилища ключа чтобы убедиться, что все работает правильно. Вы найдете информацию о процессе верификации далее в этой статье.</p>
+<h3 id="Генерировать-адрес-снятия-Eth2-на-MEW-web"><a href="#Генерировать-адрес-снятия-Eth2-на-MEW-web" class="headerlink" title="Генерировать адрес снятия Eth2 на MEW web"></a><strong>Генерировать адрес снятия Eth2 на MEW web</strong></h3><br>
+
+<p><strong>Шаг 1.</strong> Перейдите на <a href="http://www.myetherwallet.com" target="_blank" rel="noopener">www.myetherwallet.com.</a> и прокрутите к низу страницы. Здесь вы найдете инструмент «Generate Eth2 address» внизу раздела «Discover».</p>
+<img src="/images/posts/diving-deeper/eth21.png" width="85%">
+
+<p><strong>Шаг 2.</strong> Введите надежный пароль для вашего файла хранилища ключа Eth2, затем введите его еще раз, чтобы подтвердить. Этот пароль будет ключом для разблокировки вашего файла ключа. Очень важно не потерять его.</p>
+<img src="/images/posts/diving-deeper/eth22.png" width="70%">
+
+<p><strong>Шаг 3.</strong> Вы будете перенаправлена на экран на котором будет показана ваша фраза восстановления из 24 слов. Запишите эти 24 слова на бумаге и храните ее в безопасном месте. Скриншот не защитит вас от сбоя вашего компьютера, и сделает вашу фразу более уязвимой для хакеров.</p>
+<img src="/images/posts/diving-deeper/eth23.png" width="70%">
+
+<p><strong>Шаг 4.</strong> Загрузите файл хранилища ключа с этого же экрана. Храните его в безопасном месте оффлайн, например на USB. Рекомендуется загрузить несколько копий и хранить их на отдельных USB, так что в случае сбоя у вас есть резервные копии.</p>
+<p><strong>Шаг 5.</strong> Готово! Вы увидите свой новый адрес снятия Eth2 на экране. Стоит записать и сохранить его. Этот адрес не является необходимым для дальнейшего доступа, но полезно знать свой собственный адрес снятия средств.</p>
+<img src="/images/posts/diving-deeper/eth24.png" width="70%">
+
+<h2 id="Верификация-адреса-снятия-Eth2-используя-Windows"><a href="#Верификация-адреса-снятия-Eth2-используя-Windows" class="headerlink" title="Верификация адреса снятия Eth2 используя Windows"></a><strong>Верификация адреса снятия Eth2 используя Windows</strong></h2><p>Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.</p>
+<p><strong>Шаг 1.</strong> Перейдите на наш <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">инструмент верификации Eth2 keystore</a> на Github. Загрузите ZIP файл Windows для вашей системы.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Шаг 2.</strong> Распакуйте ZIP-файл и найдите в папке программу ‘deposit.exe’.</p>
+<img src="/images/posts/diving-deeper/ethv2.png" width="80%">
+
+<p><strong>Шаг 3.</strong> Удерживайте Shift и щелкните правой кнопкой мыши на пустом месте этой папки, затем выберите ‘Open PowerShell’.</p>
+<p><strong>Шаг 4.</strong> Введите эту команду для Windows: “.\deposit verify-keystore”</p>
+<img src="/images/posts/diving-deeper/ethv5.png" width="100%">
+
+<p><strong>Шаг 5.</strong> Введите путь к вашему файлу хранилища ключа Eth2. Чтобы найти этот путь, щелкните правой кнопкой мыши на файл и нажмите “Свойства”. Он выглядит примерно так: “C:\Users\since\OneDrive\Desktop” (в том случае если он у вас на десктопе). После того, как вы найдете путь, убедитесь, что вы добавили имя файла хранилища в конце. Таким образом, путь будет выглядеть так: “C:\Users\since\OneDrive\Desktop\keystore-m_12381_3600_0_01607022974412.json”</p>
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv3.png" width="50%">
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv4.png" width="50%">
+</div>
+</div>
+
+<p><strong>Шаг 6.</strong> Когда вы введете команду в терминал и нажмете ‘Ввод’, терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.</p>
+<p><strong>Шаг 7.</strong> Готово! В терминале вы должны увидеть: “Успех! Ваш файл хранилища ключа верифицирован.” Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Сравните его с адресом, который вы увидели, когда вы впервые создали свой файл хранилища ключа Eth2, и убедитесь что он совпадает.</p>
+<img src="/images/posts/diving-deeper/ethv6.png" width="100%">
+
+<h2 id="Верификация-адреса-снятия-Eth2-используя-Mac"><a href="#Верификация-адреса-снятия-Eth2-используя-Mac" class="headerlink" title="Верификация адреса снятия Eth2 используя Mac"></a><strong>Верификация адреса снятия Eth2 используя Mac</strong></h2><p>Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.</p>
+<p><strong>Шаг 1.</strong> Перейдите на наш <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">инструмент верификации Eth2 keystore</a> на Github. Загрузите ZIP файл Mac (darwin) TAR.ZG для вашей системы.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Шаг 2.</strong> Распакуйте ZIP-файл и найдите в папке программу ‘deposit’. Нажмите на значок шестеренки и выберите опцию “Копировать ‘eth2deposit….’ как Pathname”.</p>
+<img src="/images/posts/diving-deeper/ethmac1.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac3.png" width="80%">
+
+<p><strong>Шаг 3.</strong> Удерживайте Cmd + пробел и введите слово «Terminal», чтобы открыть терминал для вашего Mac. Здесь введите “cd “ и вставьте путь, скопированный с предыдущего шага, а затем нажмите ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac2.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac7.png" width="80%">
+
+<p><strong>Шаг 4.</strong> Введите эту команду для Mac: “./deposit verify-keystore” и нажмите ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac5.png" width="80%">
+
+<p><strong>Шаг 5.</strong> Введите путь к вашему файлу хранилища ключа Eth2. Чтобы найти путь, держите кнопку Option + нажмите правой кнопкой мыши на файл хранилища ключа и выберите “Copy ‘keystore-m….json’ as Pathname”. После этого вернитесь к терминалу и вставьте его. Он должен выглядеть примерно так: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (если он у вас на рабочем столе).</p>
+<p><strong>Шаг 6.</strong> Когда вы введете команду в терминал и нажмете ‘Ввод’, терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.</p>
+<p><strong>Шаг 7.</strong> Готово! В терминале вы должны увидеть: “Успех! Ваш файл хранилища ключа верифицирован.” Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Сравните его с адресом, который вы увидели, когда вы впервые создали свой файл хранилища ключа Eth2, и убедитесь что он совпадает.</p>
+<img src="/images/posts/diving-deeper/ethmac6.png" width="80%">
+
+
+      </article>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/diving-deeper/does-mew-have-an-api/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Есть ли у MyEtherWallet API?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/diving-deeper/how-to-interact-with-multisig-contract/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Как мне взаимодействовать с контрактом с мультиподписью</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+    <div class="padded-wrap">
+      
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+    </div>
+  </div>
+</div>
+
+
+
+
+      <footer>
+  <div class="page-container">
+    <div class="wrap">
+      <div class="block-left">
+        <p><a href="/ru/../index.html">Домашняя страница</a></p>
+        <p><a href="https://myetherwallet.com" target="_blank">MyEtherWallet.com</a></p>
+        <p><a href="https://www.myetherwallet.com/privacy-policy" target="_blank">Конфиденциальность</a></p>
+        <p><a href="https://www.myetherwallet.com/terms-and-conditions" target="_blank">Условия</a></p>
+      </div>
+      <div class="block-right">
+        <p>© 2021 MyEtherWallet. Все права защищены.</p>
+      </div>
+    </div>
+  </div>
+  <div class="app-banner js-app-banner">
+    <p> Покупайте, храните, и отправляйте Ether и токены. Исследуйте Ethereum со своего мобильного телефона.</p>
+    <div class="app-banner-links">
+      <a href="https://www.myetherwallet.com/"><img src="../../../images/mew-icons/mew_badge.svg"></a>
+      <a href="https://apps.apple.com/app/apple-store/id1464614025?pt=118781877&ct=KB&mt=8"><img src="../../../images/mew-icons/app_store_badge.svg"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet"><img src="../../../images/mew-icons/google_play_bage.svg"></a>
+    </div>
+    <a href="javascript:void(0);" class="app-banner-close js-close-app-banner"><img src="../../../images/mew-icons/close.svg"></a>
+  </div>
+</footer>
+    </div>
+  </div>
+  <div class="site-container mobile-content">
+    <div class="site-wrap">
+      
+
+  <header>
+  <div class="header-wrap">
+    <div class="header-top-block">
+  <div class="upper-menu">
+    <label id="lang-select-label" for="lang-select" class="lang-nav-link lang-choices lang-flag"><img src="../../../images/flags/ru.svg" width="20" height="10"></label>
+    <select id="lang-select" class="hidden lang-choices" data-canonical="diving-deeper/eth2-address/index.html">
+      <option value="en">Select Language</option>
+      
+        <option value="en">English</option>
+      
+        <option value="ru" selected>Русский</option>
+      
+        <option value="es">Español</option>
+      
+        <option value="ja">日本語</option>
+      
+        <option value="ko">한국어</option>
+      
+        <option value="zh">简体中文</option>
+      
+    </select>
+  </div>
+  <div class="left">
+    <a href="/ru/../"><img src="../../../images/mew-logo-dark.png"></a>
+  </div>
+  <div class="menu">
+    <p>Центр поддержки</p>
+  </div>
+  <div class="right hidden">
+    <ul>
+      
+        <li><a class="main-nav-link" href="/ru/../index.html">Главная</a></li>
+      
+        <li><a class="main-nav-link" href="mailto:support@myetherwallet.com">Поддержка</a></li>
+      
+        <li>
+          <label id="lang-select-label" for="lang-select" class="lang-nav-link"><img src="../../../images/flags/ru.svg" width="40" height="20"></label>
+          <select id="lang-select" class="hidden" data-canonical="diving-deeper/eth2-address/index.html">
+            
+              <option value="en">English</option>
+            
+              <option value="ru" selected>Русский</option>
+            
+              <option value="es">Español</option>
+            
+              <option value="ja">日本語</option>
+            
+              <option value="ko">한국어</option>
+            
+              <option value="zh">简体中文</option>
+            
+          </select>
+        </li>
+    </ul>
+  </div>
+</div>
+
+    <div class="page-title">
+      <div class="title">Более глубокое ознакомление</div>
+    </div>
+  </div>
+</header>
+  
+<div class="desktop-content">
+  <div class="breadcrumbs-container page-container">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Более глубокое ознакомление]</span> Генерировать адрес снятия Eth2 для стейкинга в Eth2</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="sidebar-primary-category">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/does-mew-api-limit-amount-of-requests/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Есть ли у API MEW лимит на количество возможных запросов?</p>
+                <p class="hidden">cl7ryxjdy01euc8zl5fciim5b</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/does-mew-have-an-api/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Есть ли у MyEtherWallet API?</p>
+                <p class="hidden">cl7ryxjdv01enc8zlrgpfw66f</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/eth2-address/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Генерировать адрес снятия Eth2 для стейкинга в Eth2</p>
+                <p class="hidden">cl7ryxjdw01eqc8zle4lza41l</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/how-to-interact-with-multisig-contract/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Как мне взаимодействовать с контрактом с мультиподписью</p>
+                <p class="hidden">cl7ryxje201f1c8zl6pt0m45v</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/how-to-submit-pull-request/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Как оформить запрос на включение изменений в GitHub MEW</p>
+                <p class="hidden">cl7ryxje301f4c8zlsmj67qh1</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/using-mew-as-a-pwa/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование MEW в качестве прогрессивного веб-приложения (PWA)</p>
+                <p class="hidden">cl7ryxje001exc8zlwlu3l84v</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-happens-if-mew-goes-down/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Что случится, если MEW выйдет из строя?</p>
+                <p class="hidden">cl7ryxje401f7c8zluhdab3yo</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-is-a-smart-contract/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Что такое умный контракт (smart contract) на Ethereum?</p>
+                <p class="hidden">cl7ryxje601fcc8zlz4iztq24</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-is-staking-eth2/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Стейкинг и Eth2</p>
+                <p class="hidden">cl7ryxje701ffc8zl6cw76vqs</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="customer">
+    
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+  </div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/diving-deeper/eth2-address" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Генерировать-адрес-снятия-Eth2-для-стейкинга-в-Eth2"><a href="#Генерировать-адрес-снятия-Eth2-для-стейкинга-в-Eth2" class="headerlink" title="Генерировать адрес снятия Eth2 для стейкинга в Eth2"></a><strong>Генерировать адрес снятия Eth2 для стейкинга в Eth2</strong></h1><h6 id="мин-чтения"><a href="#мин-чтения" class="headerlink" title=" мин. чтения"></a>6 мин. чтения</h6><hr>
+<h2 id="Интеграция-Staked-в-MEW-позволяет-пользователям-делать-ставки-кратные-32-ETH-в-Eth2-для-накопления-годовых-процентов"><a href="#Интеграция-Staked-в-MEW-позволяет-пользователям-делать-ставки-кратные-32-ETH-в-Eth2-для-накопления-годовых-процентов" class="headerlink" title="Интеграция Staked в MEW позволяет пользователям делать ставки кратные 32 ETH в Eth2 для накопления годовых процентов."></a><strong>Интеграция Staked в MEW позволяет пользователям делать ставки кратные 32 ETH в Eth2 для накопления годовых процентов.</strong></h2><p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].</p>
+<h1 id="Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake"><a href="#Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake" class="headerlink" title="Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake."></a>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</h1><h1 id="To-learn-more-about-staking-on-Eth2-visit-our-article-on-how-to-stake-on-Eth2-using-MEW-web"><a href="#To-learn-more-about-staking-on-Eth2-visit-our-article-on-how-to-stake-on-Eth2-using-MEW-web" class="headerlink" title="To learn more about staking on Eth2, visit our article on how to stake on Eth2 using MEW web."></a>To learn more about staking on Eth2, visit our article on <a href="/ru/dapps/stake-eth2-web/">how to stake on Eth2 using MEW web</a>.</h1><p>Чтобы узнать больше о стейкинг в Eth2, ознакомьтесь с нашей статьей <a href="/ru/dapps/stake-eth2-web/">о том, как делать ставки в Eth2 с помощью MEW web</a>.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Прежде чем делать ставку в Eth2, необходимо иметь адрес для снятия Eth2. Когда вы <a href="/ru/mewwallet/stake-eth2-mw/">делаете стейкинг с помощью приложения MEW wallet</a>, ваш адрес снятия Eth2 привязан к вашей фразе восстановления из 24 слов. С другой стороны, пользуясь MEW web, необходимо создать новый адрес для снятия ставки Eth2.</p>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<h1 id="Your-MEW-web-Eth2-withdrawal-address-will-have-a-keystore-file-password-and-a-24-word-recovery-phrase-tied-to-it-It’s-very-important-you-keep-both-your-keystore-file-password-and-recovery-phrase-safe-as-we-cannot-recover-these-for-you-This-information-is-necessary-to-withdraw-your-stake-and-rewards-in-the-future-Without-these-your-ETH-may-be-locked-up-indefinitely"><a href="#Your-MEW-web-Eth2-withdrawal-address-will-have-a-keystore-file-password-and-a-24-word-recovery-phrase-tied-to-it-It’s-very-important-you-keep-both-your-keystore-file-password-and-recovery-phrase-safe-as-we-cannot-recover-these-for-you-This-information-is-necessary-to-withdraw-your-stake-and-rewards-in-the-future-Without-these-your-ETH-may-be-locked-up-indefinitely" class="headerlink" title="Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you. This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely."></a>Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. <strong>It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you.</strong> This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely.</h1><p>Ваш адрес снятия Eth2 генерированный на MEW web будет иметь файл хранилище ключа + пароль, и фразу из 24 слов. <strong>Очень важно хранить файл, пароль, и фразу восстановления в безопасности, потому что мы не можем восстановить их для вас.</strong> Эта информация необходима для снятия вашей ставки и годовых процентов в будущем. Без нее, ваш ETH может стать недоступен навсегда.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Рекомендуется верифицировать ваш адрес снятия Eth2 с помощью вашего файла хранилища ключа чтобы убедиться, что все работает правильно. Вы найдете информацию о процессе верификации далее в этой статье.</p>
+<h3 id="Генерировать-адрес-снятия-Eth2-на-MEW-web"><a href="#Генерировать-адрес-снятия-Eth2-на-MEW-web" class="headerlink" title="Генерировать адрес снятия Eth2 на MEW web"></a><strong>Генерировать адрес снятия Eth2 на MEW web</strong></h3><br>
+
+<p><strong>Шаг 1.</strong> Перейдите на <a href="http://www.myetherwallet.com" target="_blank" rel="noopener">www.myetherwallet.com.</a> и прокрутите к низу страницы. Здесь вы найдете инструмент «Generate Eth2 address» внизу раздела «Discover».</p>
+<img src="/images/posts/diving-deeper/eth21.png" width="85%">
+
+<p><strong>Шаг 2.</strong> Введите надежный пароль для вашего файла хранилища ключа Eth2, затем введите его еще раз, чтобы подтвердить. Этот пароль будет ключом для разблокировки вашего файла ключа. Очень важно не потерять его.</p>
+<img src="/images/posts/diving-deeper/eth22.png" width="70%">
+
+<p><strong>Шаг 3.</strong> Вы будете перенаправлена на экран на котором будет показана ваша фраза восстановления из 24 слов. Запишите эти 24 слова на бумаге и храните ее в безопасном месте. Скриншот не защитит вас от сбоя вашего компьютера, и сделает вашу фразу более уязвимой для хакеров.</p>
+<img src="/images/posts/diving-deeper/eth23.png" width="70%">
+
+<p><strong>Шаг 4.</strong> Загрузите файл хранилища ключа с этого же экрана. Храните его в безопасном месте оффлайн, например на USB. Рекомендуется загрузить несколько копий и хранить их на отдельных USB, так что в случае сбоя у вас есть резервные копии.</p>
+<p><strong>Шаг 5.</strong> Готово! Вы увидите свой новый адрес снятия Eth2 на экране. Стоит записать и сохранить его. Этот адрес не является необходимым для дальнейшего доступа, но полезно знать свой собственный адрес снятия средств.</p>
+<img src="/images/posts/diving-deeper/eth24.png" width="70%">
+
+<h2 id="Верификация-адреса-снятия-Eth2-используя-Windows"><a href="#Верификация-адреса-снятия-Eth2-используя-Windows" class="headerlink" title="Верификация адреса снятия Eth2 используя Windows"></a><strong>Верификация адреса снятия Eth2 используя Windows</strong></h2><p>Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.</p>
+<p><strong>Шаг 1.</strong> Перейдите на наш <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">инструмент верификации Eth2 keystore</a> на Github. Загрузите ZIP файл Windows для вашей системы.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Шаг 2.</strong> Распакуйте ZIP-файл и найдите в папке программу ‘deposit.exe’.</p>
+<img src="/images/posts/diving-deeper/ethv2.png" width="80%">
+
+<p><strong>Шаг 3.</strong> Удерживайте Shift и щелкните правой кнопкой мыши на пустом месте этой папки, затем выберите ‘Open PowerShell’.</p>
+<p><strong>Шаг 4.</strong> Введите эту команду для Windows: “.\deposit verify-keystore”</p>
+<img src="/images/posts/diving-deeper/ethv5.png" width="100%">
+
+<p><strong>Шаг 5.</strong> Введите путь к вашему файлу хранилища ключа Eth2. Чтобы найти этот путь, щелкните правой кнопкой мыши на файл и нажмите “Свойства”. Он выглядит примерно так: “C:\Users\since\OneDrive\Desktop” (в том случае если он у вас на десктопе). После того, как вы найдете путь, убедитесь, что вы добавили имя файла хранилища в конце. Таким образом, путь будет выглядеть так: “C:\Users\since\OneDrive\Desktop\keystore-m_12381_3600_0_01607022974412.json”</p>
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv3.png" width="50%">
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv4.png" width="50%">
+</div>
+</div>
+
+<p><strong>Шаг 6.</strong> Когда вы введете команду в терминал и нажмете ‘Ввод’, терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.</p>
+<p><strong>Шаг 7.</strong> Готово! В терминале вы должны увидеть: “Успех! Ваш файл хранилища ключа верифицирован.” Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Сравните его с адресом, который вы увидели, когда вы впервые создали свой файл хранилища ключа Eth2, и убедитесь что он совпадает.</p>
+<img src="/images/posts/diving-deeper/ethv6.png" width="100%">
+
+<h2 id="Верификация-адреса-снятия-Eth2-используя-Mac"><a href="#Верификация-адреса-снятия-Eth2-используя-Mac" class="headerlink" title="Верификация адреса снятия Eth2 используя Mac"></a><strong>Верификация адреса снятия Eth2 используя Mac</strong></h2><p>Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.</p>
+<p><strong>Шаг 1.</strong> Перейдите на наш <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">инструмент верификации Eth2 keystore</a> на Github. Загрузите ZIP файл Mac (darwin) TAR.ZG для вашей системы.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Шаг 2.</strong> Распакуйте ZIP-файл и найдите в папке программу ‘deposit’. Нажмите на значок шестеренки и выберите опцию “Копировать ‘eth2deposit….’ как Pathname”.</p>
+<img src="/images/posts/diving-deeper/ethmac1.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac3.png" width="80%">
+
+<p><strong>Шаг 3.</strong> Удерживайте Cmd + пробел и введите слово «Terminal», чтобы открыть терминал для вашего Mac. Здесь введите “cd “ и вставьте путь, скопированный с предыдущего шага, а затем нажмите ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac2.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac7.png" width="80%">
+
+<p><strong>Шаг 4.</strong> Введите эту команду для Mac: “./deposit verify-keystore” и нажмите ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac5.png" width="80%">
+
+<p><strong>Шаг 5.</strong> Введите путь к вашему файлу хранилища ключа Eth2. Чтобы найти путь, держите кнопку Option + нажмите правой кнопкой мыши на файл хранилища ключа и выберите “Copy ‘keystore-m….json’ as Pathname”. После этого вернитесь к терминалу и вставьте его. Он должен выглядеть примерно так: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (если он у вас на рабочем столе).</p>
+<p><strong>Шаг 6.</strong> Когда вы введете команду в терминал и нажмете ‘Ввод’, терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.</p>
+<p><strong>Шаг 7.</strong> Готово! В терминале вы должны увидеть: “Успех! Ваш файл хранилища ключа верифицирован.” Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Сравните его с адресом, который вы увидели, когда вы впервые создали свой файл хранилища ключа Eth2, и убедитесь что он совпадает.</p>
+<img src="/images/posts/diving-deeper/ethmac6.png" width="80%">
+
+
+      </article>
+      <script
+              type="text/javascript"
+              src="https://crowdin.com/js/crowdjet/crowdjet.js">
+      </script>
+      <div
+              id="crowdjet-container"
+              data-project-id="361641"
+              style="bottom: 90px; right: 20px;">
+      </div>
+      <div
+              id="crowdjet-expand-container"
+              style="bottom: 10px; right: 20px;">
+      </div>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/diving-deeper/does-mew-have-an-api/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Есть ли у MyEtherWallet API?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/diving-deeper/how-to-interact-with-multisig-contract/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Как мне взаимодействовать с контрактом с мультиподписью</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mobile-content">
+  <div class="breadcrumbs-container page-container hidden">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Более глубокое ознакомление]</span> Генерировать адрес снятия Eth2 для стейкинга в Eth2</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search hidden">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="show-list-button">
+    <p>Show all posts</p>
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </div>
+  <div class="sidebar-primary-category mobile-post-list">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/does-mew-api-limit-amount-of-requests/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Есть ли у API MEW лимит на количество возможных запросов?</p>
+                <p class="hidden">cl7ryxjdy01euc8zl5fciim5b</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/does-mew-have-an-api/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Есть ли у MyEtherWallet API?</p>
+                <p class="hidden">cl7ryxjdv01enc8zlrgpfw66f</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/eth2-address/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Генерировать адрес снятия Eth2 для стейкинга в Eth2</p>
+                <p class="hidden">cl7ryxjdw01eqc8zle4lza41l</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/how-to-interact-with-multisig-contract/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Как мне взаимодействовать с контрактом с мультиподписью</p>
+                <p class="hidden">cl7ryxje201f1c8zl6pt0m45v</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/how-to-submit-pull-request/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Как оформить запрос на включение изменений в GitHub MEW</p>
+                <p class="hidden">cl7ryxje301f4c8zlsmj67qh1</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/using-mew-as-a-pwa/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование MEW в качестве прогрессивного веб-приложения (PWA)</p>
+                <p class="hidden">cl7ryxje001exc8zlwlu3l84v</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-happens-if-mew-goes-down/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Что случится, если MEW выйдет из строя?</p>
+                <p class="hidden">cl7ryxje401f7c8zluhdab3yo</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-is-a-smart-contract/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Что такое умный контракт (smart contract) на Ethereum?</p>
+                <p class="hidden">cl7ryxje601fcc8zlz4iztq24</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/diving-deeper/what-is-staking-eth2/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Стейкинг и Eth2</p>
+                <p class="hidden">cl7ryxje701ffc8zl6cw76vqs</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="sidebar-close-button">Close</div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/diving-deeper/eth2-address" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Генерировать-адрес-снятия-Eth2-для-стейкинга-в-Eth2"><a href="#Генерировать-адрес-снятия-Eth2-для-стейкинга-в-Eth2" class="headerlink" title="Генерировать адрес снятия Eth2 для стейкинга в Eth2"></a><strong>Генерировать адрес снятия Eth2 для стейкинга в Eth2</strong></h1><h6 id="мин-чтения"><a href="#мин-чтения" class="headerlink" title=" мин. чтения"></a>6 мин. чтения</h6><hr>
+<h2 id="Интеграция-Staked-в-MEW-позволяет-пользователям-делать-ставки-кратные-32-ETH-в-Eth2-для-накопления-годовых-процентов"><a href="#Интеграция-Staked-в-MEW-позволяет-пользователям-делать-ставки-кратные-32-ETH-в-Eth2-для-накопления-годовых-процентов" class="headerlink" title="Интеграция Staked в MEW позволяет пользователям делать ставки кратные 32 ETH в Eth2 для накопления годовых процентов."></a><strong>Интеграция Staked в MEW позволяет пользователям делать ставки кратные 32 ETH в Eth2 для накопления годовых процентов.</strong></h2><p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].</p>
+<h1 id="Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake"><a href="#Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake" class="headerlink" title="Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake."></a>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</h1><h1 id="To-learn-more-about-staking-on-Eth2-visit-our-article-on-how-to-stake-on-Eth2-using-MEW-web"><a href="#To-learn-more-about-staking-on-Eth2-visit-our-article-on-how-to-stake-on-Eth2-using-MEW-web" class="headerlink" title="To learn more about staking on Eth2, visit our article on how to stake on Eth2 using MEW web."></a>To learn more about staking on Eth2, visit our article on <a href="/ru/dapps/stake-eth2-web/">how to stake on Eth2 using MEW web</a>.</h1><p>Чтобы узнать больше о стейкинг в Eth2, ознакомьтесь с нашей статьей <a href="/ru/dapps/stake-eth2-web/">о том, как делать ставки в Eth2 с помощью MEW web</a>.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Прежде чем делать ставку в Eth2, необходимо иметь адрес для снятия Eth2. Когда вы <a href="/ru/mewwallet/stake-eth2-mw/">делаете стейкинг с помощью приложения MEW wallet</a>, ваш адрес снятия Eth2 привязан к вашей фразе восстановления из 24 слов. С другой стороны, пользуясь MEW web, необходимо создать новый адрес для снятия ставки Eth2.</p>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<h1 id="Your-MEW-web-Eth2-withdrawal-address-will-have-a-keystore-file-password-and-a-24-word-recovery-phrase-tied-to-it-It’s-very-important-you-keep-both-your-keystore-file-password-and-recovery-phrase-safe-as-we-cannot-recover-these-for-you-This-information-is-necessary-to-withdraw-your-stake-and-rewards-in-the-future-Without-these-your-ETH-may-be-locked-up-indefinitely"><a href="#Your-MEW-web-Eth2-withdrawal-address-will-have-a-keystore-file-password-and-a-24-word-recovery-phrase-tied-to-it-It’s-very-important-you-keep-both-your-keystore-file-password-and-recovery-phrase-safe-as-we-cannot-recover-these-for-you-This-information-is-necessary-to-withdraw-your-stake-and-rewards-in-the-future-Without-these-your-ETH-may-be-locked-up-indefinitely" class="headerlink" title="Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you. This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely."></a>Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. <strong>It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you.</strong> This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely.</h1><p>Ваш адрес снятия Eth2 генерированный на MEW web будет иметь файл хранилище ключа + пароль, и фразу из 24 слов. <strong>Очень важно хранить файл, пароль, и фразу восстановления в безопасности, потому что мы не можем восстановить их для вас.</strong> Эта информация необходима для снятия вашей ставки и годовых процентов в будущем. Без нее, ваш ETH может стать недоступен навсегда.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Рекомендуется верифицировать ваш адрес снятия Eth2 с помощью вашего файла хранилища ключа чтобы убедиться, что все работает правильно. Вы найдете информацию о процессе верификации далее в этой статье.</p>
+<h3 id="Генерировать-адрес-снятия-Eth2-на-MEW-web"><a href="#Генерировать-адрес-снятия-Eth2-на-MEW-web" class="headerlink" title="Генерировать адрес снятия Eth2 на MEW web"></a><strong>Генерировать адрес снятия Eth2 на MEW web</strong></h3><br>
+
+<p><strong>Шаг 1.</strong> Перейдите на <a href="http://www.myetherwallet.com" target="_blank" rel="noopener">www.myetherwallet.com.</a> и прокрутите к низу страницы. Здесь вы найдете инструмент «Generate Eth2 address» внизу раздела «Discover».</p>
+<img src="/images/posts/diving-deeper/eth21.png" width="85%">
+
+<p><strong>Шаг 2.</strong> Введите надежный пароль для вашего файла хранилища ключа Eth2, затем введите его еще раз, чтобы подтвердить. Этот пароль будет ключом для разблокировки вашего файла ключа. Очень важно не потерять его.</p>
+<img src="/images/posts/diving-deeper/eth22.png" width="70%">
+
+<p><strong>Шаг 3.</strong> Вы будете перенаправлена на экран на котором будет показана ваша фраза восстановления из 24 слов. Запишите эти 24 слова на бумаге и храните ее в безопасном месте. Скриншот не защитит вас от сбоя вашего компьютера, и сделает вашу фразу более уязвимой для хакеров.</p>
+<img src="/images/posts/diving-deeper/eth23.png" width="70%">
+
+<p><strong>Шаг 4.</strong> Загрузите файл хранилища ключа с этого же экрана. Храните его в безопасном месте оффлайн, например на USB. Рекомендуется загрузить несколько копий и хранить их на отдельных USB, так что в случае сбоя у вас есть резервные копии.</p>
+<p><strong>Шаг 5.</strong> Готово! Вы увидите свой новый адрес снятия Eth2 на экране. Стоит записать и сохранить его. Этот адрес не является необходимым для дальнейшего доступа, но полезно знать свой собственный адрес снятия средств.</p>
+<img src="/images/posts/diving-deeper/eth24.png" width="70%">
+
+<h2 id="Верификация-адреса-снятия-Eth2-используя-Windows"><a href="#Верификация-адреса-снятия-Eth2-используя-Windows" class="headerlink" title="Верификация адреса снятия Eth2 используя Windows"></a><strong>Верификация адреса снятия Eth2 используя Windows</strong></h2><p>Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.</p>
+<p><strong>Шаг 1.</strong> Перейдите на наш <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">инструмент верификации Eth2 keystore</a> на Github. Загрузите ZIP файл Windows для вашей системы.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Шаг 2.</strong> Распакуйте ZIP-файл и найдите в папке программу ‘deposit.exe’.</p>
+<img src="/images/posts/diving-deeper/ethv2.png" width="80%">
+
+<p><strong>Шаг 3.</strong> Удерживайте Shift и щелкните правой кнопкой мыши на пустом месте этой папки, затем выберите ‘Open PowerShell’.</p>
+<p><strong>Шаг 4.</strong> Введите эту команду для Windows: “.\deposit verify-keystore”</p>
+<img src="/images/posts/diving-deeper/ethv5.png" width="100%">
+
+<p><strong>Шаг 5.</strong> Введите путь к вашему файлу хранилища ключа Eth2. Чтобы найти этот путь, щелкните правой кнопкой мыши на файл и нажмите “Свойства”. Он выглядит примерно так: “C:\Users\since\OneDrive\Desktop” (в том случае если он у вас на десктопе). После того, как вы найдете путь, убедитесь, что вы добавили имя файла хранилища в конце. Таким образом, путь будет выглядеть так: “C:\Users\since\OneDrive\Desktop\keystore-m_12381_3600_0_01607022974412.json”</p>
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv3.png" width="50%">
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv4.png" width="50%">
+</div>
+</div>
+
+<p><strong>Шаг 6.</strong> Когда вы введете команду в терминал и нажмете ‘Ввод’, терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.</p>
+<p><strong>Шаг 7.</strong> Готово! В терминале вы должны увидеть: “Успех! Ваш файл хранилища ключа верифицирован.” Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Сравните его с адресом, который вы увидели, когда вы впервые создали свой файл хранилища ключа Eth2, и убедитесь что он совпадает.</p>
+<img src="/images/posts/diving-deeper/ethv6.png" width="100%">
+
+<h2 id="Верификация-адреса-снятия-Eth2-используя-Mac"><a href="#Верификация-адреса-снятия-Eth2-используя-Mac" class="headerlink" title="Верификация адреса снятия Eth2 используя Mac"></a><strong>Верификация адреса снятия Eth2 используя Mac</strong></h2><p>Для дополнительной безопасности и уверенности рекомендуется проверить адрес снятия. Этот процесс довольно сложен, но если вы точно выполните эти шаги, то у вас должно получиться.</p>
+<p><strong>Шаг 1.</strong> Перейдите на наш <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">инструмент верификации Eth2 keystore</a> на Github. Загрузите ZIP файл Mac (darwin) TAR.ZG для вашей системы.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Шаг 2.</strong> Распакуйте ZIP-файл и найдите в папке программу ‘deposit’. Нажмите на значок шестеренки и выберите опцию “Копировать ‘eth2deposit….’ как Pathname”.</p>
+<img src="/images/posts/diving-deeper/ethmac1.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac3.png" width="80%">
+
+<p><strong>Шаг 3.</strong> Удерживайте Cmd + пробел и введите слово «Terminal», чтобы открыть терминал для вашего Mac. Здесь введите “cd “ и вставьте путь, скопированный с предыдущего шага, а затем нажмите ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac2.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac7.png" width="80%">
+
+<p><strong>Шаг 4.</strong> Введите эту команду для Mac: “./deposit verify-keystore” и нажмите ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac5.png" width="80%">
+
+<p><strong>Шаг 5.</strong> Введите путь к вашему файлу хранилища ключа Eth2. Чтобы найти путь, держите кнопку Option + нажмите правой кнопкой мыши на файл хранилища ключа и выберите “Copy ‘keystore-m….json’ as Pathname”. После этого вернитесь к терминалу и вставьте его. Он должен выглядеть примерно так: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (если он у вас на рабочем столе).</p>
+<p><strong>Шаг 6.</strong> Когда вы введете команду в терминал и нажмете ‘Ввод’, терминал должен запросить пароль файла хранилища ключа. Введите его, затем введите его еще раз, для подтверждения.</p>
+<p><strong>Шаг 7.</strong> Готово! В терминале вы должны увидеть: “Успех! Ваш файл хранилища ключа верифицирован.” Под этим текстом вы увидите ваш адрес снятия Eth2, или «открытый ключ». Сравните его с адресом, который вы увидели, когда вы впервые создали свой файл хранилища ключа Eth2, и убедитесь что он совпадает.</p>
+<img src="/images/posts/diving-deeper/ethmac6.png" width="80%">
+
+
+      </article>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/diving-deeper/does-mew-have-an-api/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Есть ли у MyEtherWallet API?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/diving-deeper/how-to-interact-with-multisig-contract/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Как мне взаимодействовать с контрактом с мультиподписью</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+    <div class="padded-wrap">
+      
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+    </div>
+  </div>
+</div>
+
+
+      <footer>
+  <div class="page-container">
+    <div class="wrap">
+      <div class="block-left">
+        <p><a href="/ru/../index.html">Домашняя страница</a></p>
+        <p class="hidden"><a href="https://myetherwallet.com" target="_blank">MyEtherWallet.com</a></p>
+        <p><a href="https://www.myetherwallet.com/privacy-policy" target="_blank">Конфиденциальность</a></p>
+        <p><a href="https://www.myetherwallet.com/terms-and-conditions" target="_blank">Условия</a></p>
+      </div>
+      <div class="block-right">
+        <p>© 2021 MyEtherWallet. Все права защищены.</p>
+      </div>
+    </div>
+  </div>
+  <div class="app-banner js-app-banner">
+    <p><p> Покупайте, храните, и отправляйте Ether и токены. Исследуйте Ethereum со своего мобильного телефона.</p></p>
+    <a href="javascript:void(0);" class="app-banner-get js-get-app">
+      Get the app
+      <img src="../../../images/mew-icons/arrow.svg">
+    </a>
+    <div class="app-banner-links">
+      <a href="https://www.myetherwallet.com/"><img src="../../../images/mew-icons/mew_badge.svg"></a>
+      <a href="https://apps.apple.com/app/apple-store/id1464614025?pt=118781877&ct=KB&mt=8"><img src="../../../images/mew-icons/app_store_badge.svg"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet"><img src="../../../images/mew-icons/google_play_bage.svg"></a>
+    </div>
+    <a href="javascript:void(0);" class="app-banner-close js-close-app-banner"><img src="../../../images/mew-icons/close.svg"></a>
+  </div>
+</footer>
+    </div>
+  </div>
+
+  <script src="../../../js/jquery.min.js"></script>
+<script src="../../../js/initialization.js"></script>
+<script src="../../../js/mew/accordion.js"></script>
+<script src="../../../js/mew/youtube-popup.js"></script>
+<script src="../../../js/mew/sidebar.js"></script>
+<script src="../../../js/mew/sidebar-post-search.js"></script>
+<script src="../../../js/mew/header-post-search.js"></script>
+
+</body>
+</html>

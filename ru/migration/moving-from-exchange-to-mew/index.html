@@ -1,0 +1,2024 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="generator" content="Hexo 3.9.0">
+    <meta charset="utf-8">
+    
+    <link rel="canonical" href="https://kb.myetherwallet.com/migration/moving-from-exchange-to-mew/">
+    <title>
+        Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW |
+        
+        MyEtherWallet Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="../../../css/google-fonts.css">
+<link rel="stylesheet" href="../../../css/font-awesome.css">
+
+    <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "name" : "MyEtherWallet Knowledge Base",
+    "url" : "https://kb.myetherwallet.com"
+  }
+</script>
+
+<script type="application/ld+json">
+  { "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "MyEtherWallet",
+    "url" : "https://www.myetherwallet.com",
+    "logo": "https://kb.myetherwallet.com/images/mew-logo-dark.png",
+    "sameAs" : [ "" ]
+  }
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://kb.myetherwallet.com"
+    },
+    "headline": "Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW",
+
+
+        "datePublished": "2018-06-01T00:02:00-07:00",
+
+
+    "dateModified": "2022-09-06T16:54:04-07:00",
+
+
+    "author": {
+        "@type": "Person",
+        "name": "MyEtherWallet (MEW)"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "MyEtherWallet ",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://kb.myetherwallet.com/images/mew-logo-dark.png"
+        }
+    }
+}
+
+</script>
+<meta property="og:site_name" content="MyEtherWallet Knowledgebase">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW">
+<meta property="og:description" content="Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW">
+<meta property="og:url" content="https://kb.myetherwallet.com/ru/migration/moving-from-exchange-to-mew">
+<meta property="article:published_time" content="2018-06-01T00:02:00-07:00">
+<meta property="article:modified_time" content="2022-09-06T16:54:04-07:00">
+
+    <meta property="article:tag" content="mew">
+
+    <meta property="article:tag" content="coinbase">
+
+    <meta property="article:tag" content="kraken">
+
+    <meta property="article:tag" content="gemini">
+
+    <meta property="article:tag" content="binance">
+
+    <meta property="article:tag" content="биржа">
+
+    <meta property="article:tag" content="переход">
+
+<meta property="article:publisher" content="https://www.facebook.com/myetherwallet">
+
+    <link rel="alternate" hreflang="en" href="https://kb.myetherwallet.com/en/migration/moving-from-exchange-to-mew/">
+
+    <link rel="alternate" hreflang="ru" href="https://kb.myetherwallet.com/ru/migration/moving-from-exchange-to-mew/">
+
+    <link rel="alternate" hreflang="es" href="https://kb.myetherwallet.com/es/migration/moving-from-exchange-to-mew/">
+
+    <link rel="alternate" hreflang="ja" href="https://kb.myetherwallet.com/ja/migration/moving-from-exchange-to-mew/">
+
+    <link rel="alternate" hreflang="ko" href="https://kb.myetherwallet.com/ko/migration/moving-from-exchange-to-mew/">
+
+    <link rel="alternate" hreflang="zh" href="https://kb.myetherwallet.com/zh/migration/moving-from-exchange-to-mew/">
+
+
+    <link rel="alternate" href="https://kb.myetherwallet.com/migration/moving-from-coinbase-to-myetherwallet.html">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW">
+<meta name="twitter:description" content="Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW">
+<meta name="twitter:url" content="https://kb.myetherwallet.com/ru/migration/moving-from-exchange-to-mew">
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="MyEtherWallet (MEW)">
+<meta name="twitter:label2" content="Filed under">
+<meta name="twitter:data2" content="mew coinbase kraken gemini binance биржа переход">
+<meta name="twitter:site" content="@myetherwallet">
+
+
+    
+        <link rel="icon" href="/favicon.png">
+    
+
+    <link rel="stylesheet" href="../../../css/style.css">
+</head>
+</html>
+<body>
+
+  <div class="site-container desktop-content">
+    <div class="site-wrap">
+      
+
+
+  <header>
+  <div class="page-container">
+    <div class="header-wrap">
+      <div class="header-top-block">
+    <div class="left">
+        <a href="/ru/../"><img src="../../../images/mew-logo-white.png"></a>
+        <p>Центр поддержки</p>
+    </div>
+    <div class="right">
+        <ul>
+            
+                <li><a class="main-nav-link" href="/ru/../index.html">Главная</a></li>
+            
+                <li><a class="main-nav-link" href="mailto:support@myetherwallet.com">Поддержка</a></li>
+            
+            <li>
+                <!-- 
+                    <span value="0">0 </span>
+                 -->
+                <label id="lang-select-label" for="lang-select" class="lang-nav-link"><img src="../../../images/flags/ru.svg" width="40" height="20"></label>
+                <select id="lang-select" class="hidden" data-canonical="migration/moving-from-exchange-to-mew/index.html">
+                    
+                    <option value="en">English</option>
+                    
+                    <option value="ru" selected>Русский</option>
+                    
+                </select>
+            </li>
+        </ul>
+    </div>
+</div>
+
+      <div class="page-title">
+        <div class="title">Переход с и на MEW</div>
+      </div>
+    </div>
+  </div>
+</header>
+  
+<div class="desktop-content">
+  <div class="breadcrumbs-container page-container">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Переход с и на MEW]</span> Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="sidebar-primary-category">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/importing-v2-json-file/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Импорт файла V2 JSON</p>
+                <p class="hidden">cl7ryxjgf01jlc8zld061oqrn</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/importing-vintagemew-to-mew/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Миграция с Vintage MEW на MEW</p>
+                <p class="hidden">cl7ryxjgj01jsc8zljmcs9gsp</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/moving-from-exchange-to-mew/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</p>
+                <p class="hidden">cl7ryxjgq01k2c8zl4prm62li</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-geth-or-mist-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Использование Geth / Mist с MEW</p>
+                <p class="hidden">cl7ryxjgi01joc8zlyypwwerj</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-jaxx-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Использование Jaxx с MEW</p>
+                <p class="hidden">cl7ryxjgs01k5c8zlns41ai1p</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-metamask-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование MetaMask с MEW</p>
+                <p class="hidden">cl7ryxjgo01jzc8zlg4248y2a</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="customer">
+    
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+  </div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/migration/moving-from-exchange-to-mew" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Переход-с-бирж-Coinbase-Gemini-Binance-Kraken-и-пр-на-MEW"><a href="#Переход-с-бирж-Coinbase-Gemini-Binance-Kraken-и-пр-на-MEW" class="headerlink" title="Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW"></a><strong>Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</strong></h1><h6 id="мин-на-прочтение"><a href="#мин-на-прочтение" class="headerlink" title=" мин. на прочтение"></a>2 мин. на прочтение</h6><hr>
+<p>Во-первых, <a href="/ru/getting-started/difference-between-mew-and-exchange/">важно перечислить отличия между криптовалютными биржами и MyEtherWallet (MEW)</a>.</p>
+<h2 id="Давайте-рассмотрим-их"><a href="#Давайте-рассмотрим-их" class="headerlink" title="Давайте рассмотрим их:"></a><strong>Давайте рассмотрим их:</strong></h2><ul>
+<li>MyEtherWallet (MEW) не является биржей.</li>
+<li>MEW не хранит ваши данные или средства.</li>
+<li>Пользователь полностью контролирует собственную безопасность. Это значит:<ul>
+<li>Если вы потеряете свой закрытый ключ, мы не сможем его восстановить.</li>
+<li>Если вы забудете свой пароль, мы не сможем восстановить или сбросить его.</li>
+<li>Мы не сможем отменить или возместить какие либо транзакции.</li>
+<li>Если вы подверглись фишингу, злоумышленник может получить данные только от вас. У нас их никогда не было.</li>
+<li>Мы не можем узнать IP-адрес или другую информацию о злоумышленнике.</li>
+<li>У нас есть только общедоступная информация из блокчейна.</li>
+</ul>
+</li>
+</ul>
+<p>Мы децентрализованы, что означает отсутствие центральных серверов и полномочий полного контроля. MEW работает на стороне клиента и действует как дверь для взаимодействия с блокчейном Ethereum. Точно так же, как дверь не обладает информацией о том, кто ее использует, мы тоже не может восстановить доступ к счетам и не храним средств.</p>
+<p>То, что мы предлагаем — это свобода и чувство истинной безопасности. Вы получаете полный контроль над своими финансами и данными. Вы можете быть уверены, что даже если MEW закроется, вы все равно сможете получить доступ к своим средствам с помощью ряда других децентрализованных ETH-кошельков или даже непосредственно с помощью самого блокчейна. Только вы владеете своей информацией, если MEW будет взломан, это никак не повлияет на вас. Ваши средства и история не хранятся в MEW. Они находятся в блокчейне, и вы получаете к ним доступ анонимно.</p>
+<p>Когда вам станут понятны эти различия, вы будете готовы <a href="/ru/getting-started/how-to-create-a-wallet/">создать собственный кошелек MEW</a>. Прежде чем сделать это, мы рекомендуем ознакомиться с нашей категорией <a href="/ru/getting-started/how-to-create-a-wallet/">“С чего начать”</a>. В ней содержатся все знания, необходимые для уверенного начала вашего путешествия в мир криптовалют.</p>
+<h3 id="Счастливого-пути"><a href="#Счастливого-пути" class="headerlink" title="Счастливого пути!"></a>Счастливого пути!</h3>
+      </article>
+      <script
+              type="text/javascript"
+              src="https://crowdin.com/js/crowdjet/crowdjet.js">
+      </script>
+      <div
+              id="crowdjet-container"
+              data-project-id="361641"
+              style="bottom: 90px; right: 20px;">
+      </div>
+      <div
+              id="crowdjet-expand-container"
+              style="bottom: 10px; right: 20px;">
+      </div>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/migration/importing-vintagemew-to-mew/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Миграция с Vintage MEW на MEW</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/migration/using-geth-or-mist-with-mew/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Использование Geth / Mist с MEW</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mobile-content">
+  <div class="breadcrumbs-container page-container hidden">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Переход с и на MEW]</span> Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search hidden">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="show-list-button">
+    <p>Show all posts</p>
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </div>
+  <div class="sidebar-primary-category mobile-post-list">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/importing-v2-json-file/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Импорт файла V2 JSON</p>
+                <p class="hidden">cl7ryxjgf01jlc8zld061oqrn</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/importing-vintagemew-to-mew/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Миграция с Vintage MEW на MEW</p>
+                <p class="hidden">cl7ryxjgj01jsc8zljmcs9gsp</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/moving-from-exchange-to-mew/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</p>
+                <p class="hidden">cl7ryxjgq01k2c8zl4prm62li</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-geth-or-mist-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Использование Geth / Mist с MEW</p>
+                <p class="hidden">cl7ryxjgi01joc8zlyypwwerj</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-jaxx-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Использование Jaxx с MEW</p>
+                <p class="hidden">cl7ryxjgs01k5c8zlns41ai1p</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-metamask-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование MetaMask с MEW</p>
+                <p class="hidden">cl7ryxjgo01jzc8zlg4248y2a</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="sidebar-close-button">Close</div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/migration/moving-from-exchange-to-mew" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Переход-с-бирж-Coinbase-Gemini-Binance-Kraken-и-пр-на-MEW"><a href="#Переход-с-бирж-Coinbase-Gemini-Binance-Kraken-и-пр-на-MEW" class="headerlink" title="Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW"></a><strong>Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</strong></h1><h6 id="мин-на-прочтение"><a href="#мин-на-прочтение" class="headerlink" title=" мин. на прочтение"></a>2 мин. на прочтение</h6><hr>
+<p>Во-первых, <a href="/ru/getting-started/difference-between-mew-and-exchange/">важно перечислить отличия между криптовалютными биржами и MyEtherWallet (MEW)</a>.</p>
+<h2 id="Давайте-рассмотрим-их"><a href="#Давайте-рассмотрим-их" class="headerlink" title="Давайте рассмотрим их:"></a><strong>Давайте рассмотрим их:</strong></h2><ul>
+<li>MyEtherWallet (MEW) не является биржей.</li>
+<li>MEW не хранит ваши данные или средства.</li>
+<li>Пользователь полностью контролирует собственную безопасность. Это значит:<ul>
+<li>Если вы потеряете свой закрытый ключ, мы не сможем его восстановить.</li>
+<li>Если вы забудете свой пароль, мы не сможем восстановить или сбросить его.</li>
+<li>Мы не сможем отменить или возместить какие либо транзакции.</li>
+<li>Если вы подверглись фишингу, злоумышленник может получить данные только от вас. У нас их никогда не было.</li>
+<li>Мы не можем узнать IP-адрес или другую информацию о злоумышленнике.</li>
+<li>У нас есть только общедоступная информация из блокчейна.</li>
+</ul>
+</li>
+</ul>
+<p>Мы децентрализованы, что означает отсутствие центральных серверов и полномочий полного контроля. MEW работает на стороне клиента и действует как дверь для взаимодействия с блокчейном Ethereum. Точно так же, как дверь не обладает информацией о том, кто ее использует, мы тоже не может восстановить доступ к счетам и не храним средств.</p>
+<p>То, что мы предлагаем — это свобода и чувство истинной безопасности. Вы получаете полный контроль над своими финансами и данными. Вы можете быть уверены, что даже если MEW закроется, вы все равно сможете получить доступ к своим средствам с помощью ряда других децентрализованных ETH-кошельков или даже непосредственно с помощью самого блокчейна. Только вы владеете своей информацией, если MEW будет взломан, это никак не повлияет на вас. Ваши средства и история не хранятся в MEW. Они находятся в блокчейне, и вы получаете к ним доступ анонимно.</p>
+<p>Когда вам станут понятны эти различия, вы будете готовы <a href="/ru/getting-started/how-to-create-a-wallet/">создать собственный кошелек MEW</a>. Прежде чем сделать это, мы рекомендуем ознакомиться с нашей категорией <a href="/ru/getting-started/how-to-create-a-wallet/">“С чего начать”</a>. В ней содержатся все знания, необходимые для уверенного начала вашего путешествия в мир криптовалют.</p>
+<h3 id="Счастливого-пути"><a href="#Счастливого-пути" class="headerlink" title="Счастливого пути!"></a>Счастливого пути!</h3>
+      </article>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/migration/importing-vintagemew-to-mew/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Миграция с Vintage MEW на MEW</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/migration/using-geth-or-mist-with-mew/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Использование Geth / Mist с MEW</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+    <div class="padded-wrap">
+      
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+    </div>
+  </div>
+</div>
+
+
+
+
+      <footer>
+  <div class="page-container">
+    <div class="wrap">
+      <div class="block-left">
+        <p><a href="/ru/../index.html">Домашняя страница</a></p>
+        <p><a href="https://myetherwallet.com" target="_blank">MyEtherWallet.com</a></p>
+        <p><a href="https://www.myetherwallet.com/privacy-policy" target="_blank">Конфиденциальность</a></p>
+        <p><a href="https://www.myetherwallet.com/terms-and-conditions" target="_blank">Условия</a></p>
+      </div>
+      <div class="block-right">
+        <p>© 2021 MyEtherWallet. Все права защищены.</p>
+      </div>
+    </div>
+  </div>
+  <div class="app-banner js-app-banner">
+    <p> Покупайте, храните, и отправляйте Ether и токены. Исследуйте Ethereum со своего мобильного телефона.</p>
+    <div class="app-banner-links">
+      <a href="https://www.myetherwallet.com/"><img src="../../../images/mew-icons/mew_badge.svg"></a>
+      <a href="https://apps.apple.com/app/apple-store/id1464614025?pt=118781877&ct=KB&mt=8"><img src="../../../images/mew-icons/app_store_badge.svg"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet"><img src="../../../images/mew-icons/google_play_bage.svg"></a>
+    </div>
+    <a href="javascript:void(0);" class="app-banner-close js-close-app-banner"><img src="../../../images/mew-icons/close.svg"></a>
+  </div>
+</footer>
+    </div>
+  </div>
+  <div class="site-container mobile-content">
+    <div class="site-wrap">
+      
+
+  <header>
+  <div class="header-wrap">
+    <div class="header-top-block">
+  <div class="upper-menu">
+    <label id="lang-select-label" for="lang-select" class="lang-nav-link lang-choices lang-flag"><img src="../../../images/flags/ru.svg" width="20" height="10"></label>
+    <select id="lang-select" class="hidden lang-choices" data-canonical="migration/moving-from-exchange-to-mew/index.html">
+      <option value="en">Select Language</option>
+      
+        <option value="en">English</option>
+      
+        <option value="ru" selected>Русский</option>
+      
+        <option value="es">Español</option>
+      
+        <option value="ja">日本語</option>
+      
+        <option value="ko">한국어</option>
+      
+        <option value="zh">简体中文</option>
+      
+    </select>
+  </div>
+  <div class="left">
+    <a href="/ru/../"><img src="../../../images/mew-logo-dark.png"></a>
+  </div>
+  <div class="menu">
+    <p>Центр поддержки</p>
+  </div>
+  <div class="right hidden">
+    <ul>
+      
+        <li><a class="main-nav-link" href="/ru/../index.html">Главная</a></li>
+      
+        <li><a class="main-nav-link" href="mailto:support@myetherwallet.com">Поддержка</a></li>
+      
+        <li>
+          <label id="lang-select-label" for="lang-select" class="lang-nav-link"><img src="../../../images/flags/ru.svg" width="40" height="20"></label>
+          <select id="lang-select" class="hidden" data-canonical="migration/moving-from-exchange-to-mew/index.html">
+            
+              <option value="en">English</option>
+            
+              <option value="ru" selected>Русский</option>
+            
+              <option value="es">Español</option>
+            
+              <option value="ja">日本語</option>
+            
+              <option value="ko">한국어</option>
+            
+              <option value="zh">简体中文</option>
+            
+          </select>
+        </li>
+    </ul>
+  </div>
+</div>
+
+    <div class="page-title">
+      <div class="title">Переход с и на MEW</div>
+    </div>
+  </div>
+</header>
+  
+<div class="desktop-content">
+  <div class="breadcrumbs-container page-container">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Переход с и на MEW]</span> Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="sidebar-primary-category">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/importing-v2-json-file/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Импорт файла V2 JSON</p>
+                <p class="hidden">cl7ryxjgf01jlc8zld061oqrn</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/importing-vintagemew-to-mew/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Миграция с Vintage MEW на MEW</p>
+                <p class="hidden">cl7ryxjgj01jsc8zljmcs9gsp</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/moving-from-exchange-to-mew/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</p>
+                <p class="hidden">cl7ryxjgq01k2c8zl4prm62li</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-geth-or-mist-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Использование Geth / Mist с MEW</p>
+                <p class="hidden">cl7ryxjgi01joc8zlyypwwerj</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-jaxx-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Использование Jaxx с MEW</p>
+                <p class="hidden">cl7ryxjgs01k5c8zlns41ai1p</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-metamask-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование MetaMask с MEW</p>
+                <p class="hidden">cl7ryxjgo01jzc8zlg4248y2a</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="customer">
+    
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+  </div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/migration/moving-from-exchange-to-mew" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Переход-с-бирж-Coinbase-Gemini-Binance-Kraken-и-пр-на-MEW"><a href="#Переход-с-бирж-Coinbase-Gemini-Binance-Kraken-и-пр-на-MEW" class="headerlink" title="Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW"></a><strong>Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</strong></h1><h6 id="мин-на-прочтение"><a href="#мин-на-прочтение" class="headerlink" title=" мин. на прочтение"></a>2 мин. на прочтение</h6><hr>
+<p>Во-первых, <a href="/ru/getting-started/difference-between-mew-and-exchange/">важно перечислить отличия между криптовалютными биржами и MyEtherWallet (MEW)</a>.</p>
+<h2 id="Давайте-рассмотрим-их"><a href="#Давайте-рассмотрим-их" class="headerlink" title="Давайте рассмотрим их:"></a><strong>Давайте рассмотрим их:</strong></h2><ul>
+<li>MyEtherWallet (MEW) не является биржей.</li>
+<li>MEW не хранит ваши данные или средства.</li>
+<li>Пользователь полностью контролирует собственную безопасность. Это значит:<ul>
+<li>Если вы потеряете свой закрытый ключ, мы не сможем его восстановить.</li>
+<li>Если вы забудете свой пароль, мы не сможем восстановить или сбросить его.</li>
+<li>Мы не сможем отменить или возместить какие либо транзакции.</li>
+<li>Если вы подверглись фишингу, злоумышленник может получить данные только от вас. У нас их никогда не было.</li>
+<li>Мы не можем узнать IP-адрес или другую информацию о злоумышленнике.</li>
+<li>У нас есть только общедоступная информация из блокчейна.</li>
+</ul>
+</li>
+</ul>
+<p>Мы децентрализованы, что означает отсутствие центральных серверов и полномочий полного контроля. MEW работает на стороне клиента и действует как дверь для взаимодействия с блокчейном Ethereum. Точно так же, как дверь не обладает информацией о том, кто ее использует, мы тоже не может восстановить доступ к счетам и не храним средств.</p>
+<p>То, что мы предлагаем — это свобода и чувство истинной безопасности. Вы получаете полный контроль над своими финансами и данными. Вы можете быть уверены, что даже если MEW закроется, вы все равно сможете получить доступ к своим средствам с помощью ряда других децентрализованных ETH-кошельков или даже непосредственно с помощью самого блокчейна. Только вы владеете своей информацией, если MEW будет взломан, это никак не повлияет на вас. Ваши средства и история не хранятся в MEW. Они находятся в блокчейне, и вы получаете к ним доступ анонимно.</p>
+<p>Когда вам станут понятны эти различия, вы будете готовы <a href="/ru/getting-started/how-to-create-a-wallet/">создать собственный кошелек MEW</a>. Прежде чем сделать это, мы рекомендуем ознакомиться с нашей категорией <a href="/ru/getting-started/how-to-create-a-wallet/">“С чего начать”</a>. В ней содержатся все знания, необходимые для уверенного начала вашего путешествия в мир криптовалют.</p>
+<h3 id="Счастливого-пути"><a href="#Счастливого-пути" class="headerlink" title="Счастливого пути!"></a>Счастливого пути!</h3>
+      </article>
+      <script
+              type="text/javascript"
+              src="https://crowdin.com/js/crowdjet/crowdjet.js">
+      </script>
+      <div
+              id="crowdjet-container"
+              data-project-id="361641"
+              style="bottom: 90px; right: 20px;">
+      </div>
+      <div
+              id="crowdjet-expand-container"
+              style="bottom: 10px; right: 20px;">
+      </div>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/migration/importing-vintagemew-to-mew/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Миграция с Vintage MEW на MEW</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/migration/using-geth-or-mist-with-mew/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Использование Geth / Mist с MEW</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mobile-content">
+  <div class="breadcrumbs-container page-container hidden">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Переход с и на MEW]</span> Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search hidden">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="show-list-button">
+    <p>Show all posts</p>
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </div>
+  <div class="sidebar-primary-category mobile-post-list">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/importing-v2-json-file/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Импорт файла V2 JSON</p>
+                <p class="hidden">cl7ryxjgf01jlc8zld061oqrn</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/importing-vintagemew-to-mew/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Миграция с Vintage MEW на MEW</p>
+                <p class="hidden">cl7ryxjgj01jsc8zljmcs9gsp</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/moving-from-exchange-to-mew/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</p>
+                <p class="hidden">cl7ryxjgq01k2c8zl4prm62li</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-geth-or-mist-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Использование Geth / Mist с MEW</p>
+                <p class="hidden">cl7ryxjgi01joc8zlyypwwerj</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-jaxx-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Использование Jaxx с MEW</p>
+                <p class="hidden">cl7ryxjgs01k5c8zlns41ai1p</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/migration/using-metamask-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование MetaMask с MEW</p>
+                <p class="hidden">cl7ryxjgo01jzc8zlg4248y2a</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="sidebar-close-button">Close</div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/migration/moving-from-exchange-to-mew" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Переход-с-бирж-Coinbase-Gemini-Binance-Kraken-и-пр-на-MEW"><a href="#Переход-с-бирж-Coinbase-Gemini-Binance-Kraken-и-пр-на-MEW" class="headerlink" title="Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW"></a><strong>Переход с бирж (Coinbase/Gemini/Binance/Kraken и пр.) на MEW</strong></h1><h6 id="мин-на-прочтение"><a href="#мин-на-прочтение" class="headerlink" title=" мин. на прочтение"></a>2 мин. на прочтение</h6><hr>
+<p>Во-первых, <a href="/ru/getting-started/difference-between-mew-and-exchange/">важно перечислить отличия между криптовалютными биржами и MyEtherWallet (MEW)</a>.</p>
+<h2 id="Давайте-рассмотрим-их"><a href="#Давайте-рассмотрим-их" class="headerlink" title="Давайте рассмотрим их:"></a><strong>Давайте рассмотрим их:</strong></h2><ul>
+<li>MyEtherWallet (MEW) не является биржей.</li>
+<li>MEW не хранит ваши данные или средства.</li>
+<li>Пользователь полностью контролирует собственную безопасность. Это значит:<ul>
+<li>Если вы потеряете свой закрытый ключ, мы не сможем его восстановить.</li>
+<li>Если вы забудете свой пароль, мы не сможем восстановить или сбросить его.</li>
+<li>Мы не сможем отменить или возместить какие либо транзакции.</li>
+<li>Если вы подверглись фишингу, злоумышленник может получить данные только от вас. У нас их никогда не было.</li>
+<li>Мы не можем узнать IP-адрес или другую информацию о злоумышленнике.</li>
+<li>У нас есть только общедоступная информация из блокчейна.</li>
+</ul>
+</li>
+</ul>
+<p>Мы децентрализованы, что означает отсутствие центральных серверов и полномочий полного контроля. MEW работает на стороне клиента и действует как дверь для взаимодействия с блокчейном Ethereum. Точно так же, как дверь не обладает информацией о том, кто ее использует, мы тоже не может восстановить доступ к счетам и не храним средств.</p>
+<p>То, что мы предлагаем — это свобода и чувство истинной безопасности. Вы получаете полный контроль над своими финансами и данными. Вы можете быть уверены, что даже если MEW закроется, вы все равно сможете получить доступ к своим средствам с помощью ряда других децентрализованных ETH-кошельков или даже непосредственно с помощью самого блокчейна. Только вы владеете своей информацией, если MEW будет взломан, это никак не повлияет на вас. Ваши средства и история не хранятся в MEW. Они находятся в блокчейне, и вы получаете к ним доступ анонимно.</p>
+<p>Когда вам станут понятны эти различия, вы будете готовы <a href="/ru/getting-started/how-to-create-a-wallet/">создать собственный кошелек MEW</a>. Прежде чем сделать это, мы рекомендуем ознакомиться с нашей категорией <a href="/ru/getting-started/how-to-create-a-wallet/">“С чего начать”</a>. В ней содержатся все знания, необходимые для уверенного начала вашего путешествия в мир криптовалют.</p>
+<h3 id="Счастливого-пути"><a href="#Счастливого-пути" class="headerlink" title="Счастливого пути!"></a>Счастливого пути!</h3>
+      </article>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/migration/importing-vintagemew-to-mew/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Миграция с Vintage MEW на MEW</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/migration/using-geth-or-mist-with-mew/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Использование Geth / Mist с MEW</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+    <div class="padded-wrap">
+      
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+    </div>
+  </div>
+</div>
+
+
+      <footer>
+  <div class="page-container">
+    <div class="wrap">
+      <div class="block-left">
+        <p><a href="/ru/../index.html">Домашняя страница</a></p>
+        <p class="hidden"><a href="https://myetherwallet.com" target="_blank">MyEtherWallet.com</a></p>
+        <p><a href="https://www.myetherwallet.com/privacy-policy" target="_blank">Конфиденциальность</a></p>
+        <p><a href="https://www.myetherwallet.com/terms-and-conditions" target="_blank">Условия</a></p>
+      </div>
+      <div class="block-right">
+        <p>© 2021 MyEtherWallet. Все права защищены.</p>
+      </div>
+    </div>
+  </div>
+  <div class="app-banner js-app-banner">
+    <p><p> Покупайте, храните, и отправляйте Ether и токены. Исследуйте Ethereum со своего мобильного телефона.</p></p>
+    <a href="javascript:void(0);" class="app-banner-get js-get-app">
+      Get the app
+      <img src="../../../images/mew-icons/arrow.svg">
+    </a>
+    <div class="app-banner-links">
+      <a href="https://www.myetherwallet.com/"><img src="../../../images/mew-icons/mew_badge.svg"></a>
+      <a href="https://apps.apple.com/app/apple-store/id1464614025?pt=118781877&ct=KB&mt=8"><img src="../../../images/mew-icons/app_store_badge.svg"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet"><img src="../../../images/mew-icons/google_play_bage.svg"></a>
+    </div>
+    <a href="javascript:void(0);" class="app-banner-close js-close-app-banner"><img src="../../../images/mew-icons/close.svg"></a>
+  </div>
+</footer>
+    </div>
+  </div>
+
+  <script src="../../../js/jquery.min.js"></script>
+<script src="../../../js/initialization.js"></script>
+<script src="../../../js/mew/accordion.js"></script>
+<script src="../../../js/mew/youtube-popup.js"></script>
+<script src="../../../js/mew/sidebar.js"></script>
+<script src="../../../js/mew/sidebar-post-search.js"></script>
+<script src="../../../js/mew/header-post-search.js"></script>
+
+</body>
+</html>

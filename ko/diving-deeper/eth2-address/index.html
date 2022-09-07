@@ -1,0 +1,2314 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="generator" content="Hexo 3.9.0">
+    <meta charset="utf-8">
+    
+    <link rel="canonical" href="https://kb.myetherwallet.com/diving-deeper/eth2-address/">
+    <title>
+        Generate an Eth2 Withdrawal Address for Staking on Eth2 |
+        
+        MyEtherWallet Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="../../../css/google-fonts.css">
+<link rel="stylesheet" href="../../../css/font-awesome.css">
+
+    <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "name" : "MyEtherWallet Knowledge Base",
+    "url" : "https://kb.myetherwallet.com"
+  }
+</script>
+
+<script type="application/ld+json">
+  { "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "MyEtherWallet",
+    "url" : "https://www.myetherwallet.com",
+    "logo": "https://kb.myetherwallet.com/images/mew-logo-dark.png",
+    "sameAs" : [ "" ]
+  }
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://kb.myetherwallet.com"
+    },
+    "headline": "Generate an Eth2 Withdrawal Address for Staking on Eth2",
+
+
+        "datePublished": "2018-06-01T00:02:00-07:00",
+
+
+    "dateModified": "2022-09-06T16:54:04-07:00",
+
+
+    "author": {
+        "@type": "Person",
+        "name": "MyEtherWallet (MEW)"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "MyEtherWallet ",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://kb.myetherwallet.com/images/mew-logo-dark.png"
+        }
+    }
+}
+
+</script>
+<meta property="og:site_name" content="MyEtherWallet Knowledgebase">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Generate an Eth2 Withdrawal Address for Staking on Eth2">
+<meta property="og:description" content="Generate an Eth2 Withdrawal Address for Staking on Eth2">
+<meta property="og:url" content="https://kb.myetherwallet.com/ko/diving-deeper/eth2-address">
+<meta property="article:published_time" content="2018-06-01T00:02:00-07:00">
+<meta property="article:modified_time" content="2022-09-06T16:54:04-07:00">
+
+    <meta property="article:tag" content="eth2">
+
+    <meta property="article:tag" content="staking">
+
+    <meta property="article:tag" content="staked">
+
+    <meta property="article:tag" content="beacon">
+
+    <meta property="article:tag" content="withdrawal">
+
+<meta property="article:publisher" content="https://www.facebook.com/myetherwallet">
+
+    <link rel="alternate" hreflang="en" href="https://kb.myetherwallet.com/en/diving-deeper/eth2-address/">
+
+    <link rel="alternate" hreflang="ru" href="https://kb.myetherwallet.com/ru/diving-deeper/eth2-address/">
+
+    <link rel="alternate" hreflang="es" href="https://kb.myetherwallet.com/es/diving-deeper/eth2-address/">
+
+    <link rel="alternate" hreflang="ja" href="https://kb.myetherwallet.com/ja/diving-deeper/eth2-address/">
+
+    <link rel="alternate" hreflang="ko" href="https://kb.myetherwallet.com/ko/diving-deeper/eth2-address/">
+
+    <link rel="alternate" hreflang="zh" href="https://kb.myetherwallet.com/zh/diving-deeper/eth2-address/">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Generate an Eth2 Withdrawal Address for Staking on Eth2">
+<meta name="twitter:description" content="Generate an Eth2 Withdrawal Address for Staking on Eth2">
+<meta name="twitter:url" content="https://kb.myetherwallet.com/ko/diving-deeper/eth2-address">
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="MyEtherWallet (MEW)">
+<meta name="twitter:label2" content="Filed under">
+<meta name="twitter:data2" content="eth2 staking staked beacon withdrawal">
+<meta name="twitter:site" content="@myetherwallet">
+
+
+    
+        <link rel="icon" href="/favicon.png">
+    
+
+    <link rel="stylesheet" href="../../../css/style.css">
+</head>
+</html>
+<body>
+
+  <div class="site-container desktop-content">
+    <div class="site-wrap">
+      
+
+
+  <header>
+  <div class="page-container">
+    <div class="header-wrap">
+      <div class="header-top-block">
+    <div class="left">
+        <a href="/ko/../"><img src="../../../images/mew-logo-white.png"></a>
+        <p>Help Center</p>
+    </div>
+    <div class="right">
+        <ul>
+            
+                <li><a class="main-nav-link" href="/ko/../index.html">Home</a></li>
+            
+                <li><a class="main-nav-link" href="mailto:support@myetherwallet.com">Support</a></li>
+            
+            <li>
+                <!-- 
+                    <span value="0">0 </span>
+                 -->
+                <label id="lang-select-label" for="lang-select" class="lang-nav-link"><img src="../../../images/flags/ko.svg" width="40" height="20"></label>
+                <select id="lang-select" class="hidden" data-canonical="diving-deeper/eth2-address/index.html">
+                    
+                    <option value="en">English</option>
+                    
+                    <option value="ru">Русский</option>
+                    
+                </select>
+            </li>
+        </ul>
+    </div>
+</div>
+
+      <div class="page-title">
+        <div class="title">Diving Deeper</div>
+      </div>
+    </div>
+  </div>
+</header>
+  
+<div class="desktop-content">
+  <div class="breadcrumbs-container page-container">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Help Center</a> >&nbsp;</div>
+    <div><a href="/ko/categories">카테고리</a> >&nbsp;</div>
+    <div class="post-title"><span>[Diving Deeper]</span> Generate an Eth2 Withdrawal Address for Staking on Eth2</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="sidebar-primary-category">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/does-mew-api-limit-amount-of-requests/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Does MEW API Have a Limit on the Amount of Requests I Can Make?</p>
+                <p class="hidden">cl7ryxj2000tpc8zlfezupzyi</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/does-mew-have-an-api/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Does MyEtherWallet have an API?</p>
+                <p class="hidden">cl7ryxj2200ttc8zl927wcu6d</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/eth2-address/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Generate an Eth2 Withdrawal Address for Staking on Eth2</p>
+                <p class="hidden">cl7ryxj2600u0c8zl4jj02c0q</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/how-to-interact-with-multisig-contract/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">How to Interact with a Multisig Contract</p>
+                <p class="hidden">cl7ryxj2900u7c8zl823n4o2l</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/how-to-submit-pull-request/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">How to Submit a Pull Request to MEW&#39;s GitHub</p>
+                <p class="hidden">cl7ryxj2700u3c8zl8mjiun1r</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/using-mew-as-a-pwa/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Using MEW as a Progressive Web App (PWA)</p>
+                <p class="hidden">cl7ryxj2b00uec8zldyb603yf</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-happens-if-mew-goes-down/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">What Happens if MEW Goes Down?</p>
+                <p class="hidden">cl7ryxj2a00uac8zl53jle0nh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-is-staking-eth2/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Eth2 and Staking</p>
+                <p class="hidden">cl7ryxj2d00uhc8zl7yg7v1db</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-is-a-smart-contract/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">What is an Ethereum Smart Contract?</p>
+                <p class="hidden">cl7ryxj2e00ulc8zl08otge0x</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="customer">
+    
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Customer Support</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Email us&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+  </div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ko/diving-deeper/eth2-address" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Generate-an-Eth2-Withdrawal-Address-for-Staking-on-Eth2"><a href="#Generate-an-Eth2-Withdrawal-Address-for-Staking-on-Eth2" class="headerlink" title="Generate an Eth2 Withdrawal Address for Staking on Eth2"></a><strong>Generate an Eth2 Withdrawal Address for Staking on Eth2</strong></h1><h6 id="min-read"><a href="#min-read" class="headerlink" title=" min read"></a>6 min read</h6><hr>
+<h2 id="MEW’s-integration-of-Staked-lets-users-stake-multiples-of-32-ETH-on-Eth2-to-earn-rewards"><a href="#MEW’s-integration-of-Staked-lets-users-stake-multiples-of-32-ETH-on-Eth2-to-earn-rewards" class="headerlink" title="MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards."></a><strong>MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards.</strong></h2><p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].</p>
+<h1 id="Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake"><a href="#Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake" class="headerlink" title="Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake."></a>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</h1><p>To learn more about staking on Eth2, visit our article on <a href="/ko/dapps/stake-eth2-web/">how to stake on Eth2 using MEW web</a>.</p>
+<p>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you <a href="/ko/mewwallet/stake-eth2-mw/">stake using the MEW wallet app</a>, your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. <strong>It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you.</strong> This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely.</p>
+<p>It’s suggested that you verify your Eth2 withdrawal address with your keystore file to make sure everything is working properly. You can find the verification process halfway through this article.</p>
+<h3 id="Generate-an-Eth2-Withdrawal-Address-on-MEW-web"><a href="#Generate-an-Eth2-Withdrawal-Address-on-MEW-web" class="headerlink" title="Generate an Eth2 Withdrawal Address on MEW web"></a><strong>Generate an Eth2 Withdrawal Address on MEW web</strong></h3><br>
+
+<p><strong>Step 1.</strong> Head to <a href="http://www.myetherwallet.com" target="_blank" rel="noopener">www.myetherwallet.com</a> and scroll down to the footer. Here you’ll find a ‘Generate Eth2 address’ tool at the bottom of the ‘Discover’ section.</p>
+<img src="/images/posts/diving-deeper/eth21.png" width="85%">
+
+<p><strong>Step 2.</strong> Enter a strong password for your Eth2 keystore file, then enter it again to confirm. This password will be the key to unlock your keystore file. It’s very important that you keep track of it.</p>
+<img src="/images/posts/diving-deeper/eth22.png" width="70%">
+
+<p><strong>Step 3.</strong> You will be taken to a screen that shows a 24 word recovery phrase. Write down your 24 word phrase with pen and paper and store it somewhere physically secure. Taking a screenshot won’t protect you from your computer failing, and it makes your phrase vulnerable to hackers.</p>
+<img src="/images/posts/diving-deeper/eth23.png" width="70%">
+
+<p><strong>Step 4.</strong> Download your keystore file from this same screen. Keep it somewhere secure and offline, such as a USB. It’s advisable to download multiple copies and keep them on separate USBs, so if one fails, you’ll have backups.</p>
+<p><strong>Step 5.</strong> You’re done! You will see your new Eth2 withdrawal address on the success screen. It is suggested that you write this down and keep track of it. This address is not necessary for future access, but it’s a good idea to know your own withdrawal address.</p>
+<img src="/images/posts/diving-deeper/eth24.png" width="70%">
+
+<h2 id="Verify-your-Eth2-Withdrawal-Address-using-Windows"><a href="#Verify-your-Eth2-Withdrawal-Address-using-Windows" class="headerlink" title="Verify your Eth2 Withdrawal Address using Windows"></a><strong>Verify your Eth2 Withdrawal Address using Windows</strong></h2><p>For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.</p>
+<p><strong>Step 1.</strong> Head to our <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">Eth2 keystore verification tool</a> on Github. Download the Windows ZIP file for your system.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Step 2.</strong> Extract the ZIP file to your computer, and head into the new ‘eth2deposit’ folders until you see ‘deposit.exe’.</p>
+<img src="/images/posts/diving-deeper/ethv2.png" width="80%">
+
+<p><strong>Step 3.</strong> Hold shift and right-click in the empty space of this folder, then select ‘Open PowerShell’.</p>
+<p><strong>Step 4.</strong> Enter this command for Windows: “.\deposit verify-keystore”</p>
+<img src="/images/posts/diving-deeper/ethv5.png" width="100%">
+
+<p><strong>Step 5.</strong> Enter the path of your Eth2 keystore file. To find your path, you can right-click on the keystore and click ‘Properties’. It will look something like: “C:\Users\since\OneDrive\Desktop” (if you have it on your desktop). Once you find this, make sure you add the keystore file’s name to the end. So it should look like: “C:\Users\since\OneDrive\Desktop\keystore-m_12381_3600_0_01607022974412.json”</p>
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv3.png" width="50%">
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv4.png" width="50%">
+</div>
+</div>
+
+<p><strong>Step 6.</strong> Once you enter this into the terminal and click ‘Enter’, it should ask you for your keystore file’s password. Enter it, then enter it again to confirm it.</p>
+<p><strong>Step 7.</strong> You’re done! Your terminal should say, “Success! Your keystore is valid.” Underneath of this message, you will see your Eth2 withdrawal address, or ‘public key’. Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.</p>
+<img src="/images/posts/diving-deeper/ethv6.png" width="100%">
+
+<h2 id="Verify-your-Eth2-Withdrawal-Address-using-Mac"><a href="#Verify-your-Eth2-Withdrawal-Address-using-Mac" class="headerlink" title="Verify your Eth2 Withdrawal Address using Mac"></a><strong>Verify your Eth2 Withdrawal Address using Mac</strong></h2><p>For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.</p>
+<p><strong>Step 1.</strong> Head to our <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">Eth2 keystore verification tool</a> on Github. Download the Mac (darwin) TAR.ZG file for your system.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Step 2.</strong> Extract the ZIP file to your computer, and head into the new ‘eth2deposit’ folders until you see ‘deposit’. Click the gear icon and select the option that says “Copy ‘eth2deposit….’ as Pathname”.</p>
+<img src="/images/posts/diving-deeper/ethmac1.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac3.png" width="80%">
+
+<p><strong>Step 3.</strong> Hold Cmd + space and type in the word ‘Terminal’ to open the terminal for your Mac. Here, type “cd “ and paste the Pathname you copied from the previous step, then press ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac2.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac7.png" width="80%">
+
+<p><strong>Step 4.</strong> Enter this command for Mac: “./deposit verify-keystore” and press ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac5.png" width="80%">
+
+<p><strong>Step 5.</strong> Enter the path of your Eth2 keystore file. To find your path, you can hold Option + right-click on the keystore file and click “Copy ‘keystore-m….json’ as Pathname”. After that, head back to the terminal and paste it in. It will look something like: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (if you have it on your desktop).</p>
+<p><strong>Step 6.</strong> Once you enter this into the terminal and click ‘Enter’, it should ask you for your keystore file’s password. Enter it, then enter it again to confirm it.</p>
+<p><strong>Step 7.</strong> You’re done! Your terminal should say, “Success! Your keystore is valid.” Underneath of this message, you will see your Eth2 withdrawal address, or ‘public key’. Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.</p>
+<img src="/images/posts/diving-deeper/ethmac6.png" width="80%">
+
+
+      </article>
+      <script
+              type="text/javascript"
+              src="https://crowdin.com/js/crowdjet/crowdjet.js">
+      </script>
+      <div
+              id="crowdjet-container"
+              data-project-id="361641"
+              style="bottom: 90px; right: 20px;">
+      </div>
+      <div
+              id="crowdjet-expand-container"
+              style="bottom: 10px; right: 20px;">
+      </div>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Share to</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ko/diving-deeper/does-mew-have-an-api/">
+      <div class="pre-post valid">
+        <div class="button-title">< Previous</div>
+        <p class="post-title">Does MyEtherWallet have an API?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ko/diving-deeper/how-to-interact-with-multisig-contract/">
+      <div class="next-post valid">
+        <div class="button-title">다음 ></div>
+        <p class="post-title">How to Interact with a Multisig Contract</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mobile-content">
+  <div class="breadcrumbs-container page-container hidden">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Help Center</a> >&nbsp;</div>
+    <div><a href="/ko/categories">카테고리</a> >&nbsp;</div>
+    <div class="post-title"><span>[Diving Deeper]</span> Generate an Eth2 Withdrawal Address for Staking on Eth2</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search hidden">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="show-list-button">
+    <p>Show all posts</p>
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </div>
+  <div class="sidebar-primary-category mobile-post-list">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/does-mew-api-limit-amount-of-requests/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Does MEW API Have a Limit on the Amount of Requests I Can Make?</p>
+                <p class="hidden">cl7ryxj2000tpc8zlfezupzyi</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/does-mew-have-an-api/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Does MyEtherWallet have an API?</p>
+                <p class="hidden">cl7ryxj2200ttc8zl927wcu6d</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/eth2-address/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Generate an Eth2 Withdrawal Address for Staking on Eth2</p>
+                <p class="hidden">cl7ryxj2600u0c8zl4jj02c0q</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/how-to-interact-with-multisig-contract/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">How to Interact with a Multisig Contract</p>
+                <p class="hidden">cl7ryxj2900u7c8zl823n4o2l</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/how-to-submit-pull-request/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">How to Submit a Pull Request to MEW&#39;s GitHub</p>
+                <p class="hidden">cl7ryxj2700u3c8zl8mjiun1r</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/using-mew-as-a-pwa/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Using MEW as a Progressive Web App (PWA)</p>
+                <p class="hidden">cl7ryxj2b00uec8zldyb603yf</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-happens-if-mew-goes-down/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">What Happens if MEW Goes Down?</p>
+                <p class="hidden">cl7ryxj2a00uac8zl53jle0nh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-is-staking-eth2/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Eth2 and Staking</p>
+                <p class="hidden">cl7ryxj2d00uhc8zl7yg7v1db</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-is-a-smart-contract/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">What is an Ethereum Smart Contract?</p>
+                <p class="hidden">cl7ryxj2e00ulc8zl08otge0x</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="sidebar-close-button">Close</div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ko/diving-deeper/eth2-address" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Generate-an-Eth2-Withdrawal-Address-for-Staking-on-Eth2"><a href="#Generate-an-Eth2-Withdrawal-Address-for-Staking-on-Eth2" class="headerlink" title="Generate an Eth2 Withdrawal Address for Staking on Eth2"></a><strong>Generate an Eth2 Withdrawal Address for Staking on Eth2</strong></h1><h6 id="min-read"><a href="#min-read" class="headerlink" title=" min read"></a>6 min read</h6><hr>
+<h2 id="MEW’s-integration-of-Staked-lets-users-stake-multiples-of-32-ETH-on-Eth2-to-earn-rewards"><a href="#MEW’s-integration-of-Staked-lets-users-stake-multiples-of-32-ETH-on-Eth2-to-earn-rewards" class="headerlink" title="MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards."></a><strong>MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards.</strong></h2><p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].</p>
+<h1 id="Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake"><a href="#Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake" class="headerlink" title="Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake."></a>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</h1><p>To learn more about staking on Eth2, visit our article on <a href="/ko/dapps/stake-eth2-web/">how to stake on Eth2 using MEW web</a>.</p>
+<p>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you <a href="/ko/mewwallet/stake-eth2-mw/">stake using the MEW wallet app</a>, your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. <strong>It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you.</strong> This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely.</p>
+<p>It’s suggested that you verify your Eth2 withdrawal address with your keystore file to make sure everything is working properly. You can find the verification process halfway through this article.</p>
+<h3 id="Generate-an-Eth2-Withdrawal-Address-on-MEW-web"><a href="#Generate-an-Eth2-Withdrawal-Address-on-MEW-web" class="headerlink" title="Generate an Eth2 Withdrawal Address on MEW web"></a><strong>Generate an Eth2 Withdrawal Address on MEW web</strong></h3><br>
+
+<p><strong>Step 1.</strong> Head to <a href="http://www.myetherwallet.com" target="_blank" rel="noopener">www.myetherwallet.com</a> and scroll down to the footer. Here you’ll find a ‘Generate Eth2 address’ tool at the bottom of the ‘Discover’ section.</p>
+<img src="/images/posts/diving-deeper/eth21.png" width="85%">
+
+<p><strong>Step 2.</strong> Enter a strong password for your Eth2 keystore file, then enter it again to confirm. This password will be the key to unlock your keystore file. It’s very important that you keep track of it.</p>
+<img src="/images/posts/diving-deeper/eth22.png" width="70%">
+
+<p><strong>Step 3.</strong> You will be taken to a screen that shows a 24 word recovery phrase. Write down your 24 word phrase with pen and paper and store it somewhere physically secure. Taking a screenshot won’t protect you from your computer failing, and it makes your phrase vulnerable to hackers.</p>
+<img src="/images/posts/diving-deeper/eth23.png" width="70%">
+
+<p><strong>Step 4.</strong> Download your keystore file from this same screen. Keep it somewhere secure and offline, such as a USB. It’s advisable to download multiple copies and keep them on separate USBs, so if one fails, you’ll have backups.</p>
+<p><strong>Step 5.</strong> You’re done! You will see your new Eth2 withdrawal address on the success screen. It is suggested that you write this down and keep track of it. This address is not necessary for future access, but it’s a good idea to know your own withdrawal address.</p>
+<img src="/images/posts/diving-deeper/eth24.png" width="70%">
+
+<h2 id="Verify-your-Eth2-Withdrawal-Address-using-Windows"><a href="#Verify-your-Eth2-Withdrawal-Address-using-Windows" class="headerlink" title="Verify your Eth2 Withdrawal Address using Windows"></a><strong>Verify your Eth2 Withdrawal Address using Windows</strong></h2><p>For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.</p>
+<p><strong>Step 1.</strong> Head to our <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">Eth2 keystore verification tool</a> on Github. Download the Windows ZIP file for your system.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Step 2.</strong> Extract the ZIP file to your computer, and head into the new ‘eth2deposit’ folders until you see ‘deposit.exe’.</p>
+<img src="/images/posts/diving-deeper/ethv2.png" width="80%">
+
+<p><strong>Step 3.</strong> Hold shift and right-click in the empty space of this folder, then select ‘Open PowerShell’.</p>
+<p><strong>Step 4.</strong> Enter this command for Windows: “.\deposit verify-keystore”</p>
+<img src="/images/posts/diving-deeper/ethv5.png" width="100%">
+
+<p><strong>Step 5.</strong> Enter the path of your Eth2 keystore file. To find your path, you can right-click on the keystore and click ‘Properties’. It will look something like: “C:\Users\since\OneDrive\Desktop” (if you have it on your desktop). Once you find this, make sure you add the keystore file’s name to the end. So it should look like: “C:\Users\since\OneDrive\Desktop\keystore-m_12381_3600_0_01607022974412.json”</p>
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv3.png" width="50%">
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv4.png" width="50%">
+</div>
+</div>
+
+<p><strong>Step 6.</strong> Once you enter this into the terminal and click ‘Enter’, it should ask you for your keystore file’s password. Enter it, then enter it again to confirm it.</p>
+<p><strong>Step 7.</strong> You’re done! Your terminal should say, “Success! Your keystore is valid.” Underneath of this message, you will see your Eth2 withdrawal address, or ‘public key’. Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.</p>
+<img src="/images/posts/diving-deeper/ethv6.png" width="100%">
+
+<h2 id="Verify-your-Eth2-Withdrawal-Address-using-Mac"><a href="#Verify-your-Eth2-Withdrawal-Address-using-Mac" class="headerlink" title="Verify your Eth2 Withdrawal Address using Mac"></a><strong>Verify your Eth2 Withdrawal Address using Mac</strong></h2><p>For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.</p>
+<p><strong>Step 1.</strong> Head to our <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">Eth2 keystore verification tool</a> on Github. Download the Mac (darwin) TAR.ZG file for your system.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Step 2.</strong> Extract the ZIP file to your computer, and head into the new ‘eth2deposit’ folders until you see ‘deposit’. Click the gear icon and select the option that says “Copy ‘eth2deposit….’ as Pathname”.</p>
+<img src="/images/posts/diving-deeper/ethmac1.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac3.png" width="80%">
+
+<p><strong>Step 3.</strong> Hold Cmd + space and type in the word ‘Terminal’ to open the terminal for your Mac. Here, type “cd “ and paste the Pathname you copied from the previous step, then press ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac2.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac7.png" width="80%">
+
+<p><strong>Step 4.</strong> Enter this command for Mac: “./deposit verify-keystore” and press ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac5.png" width="80%">
+
+<p><strong>Step 5.</strong> Enter the path of your Eth2 keystore file. To find your path, you can hold Option + right-click on the keystore file and click “Copy ‘keystore-m….json’ as Pathname”. After that, head back to the terminal and paste it in. It will look something like: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (if you have it on your desktop).</p>
+<p><strong>Step 6.</strong> Once you enter this into the terminal and click ‘Enter’, it should ask you for your keystore file’s password. Enter it, then enter it again to confirm it.</p>
+<p><strong>Step 7.</strong> You’re done! Your terminal should say, “Success! Your keystore is valid.” Underneath of this message, you will see your Eth2 withdrawal address, or ‘public key’. Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.</p>
+<img src="/images/posts/diving-deeper/ethmac6.png" width="80%">
+
+
+      </article>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Share to</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ko/diving-deeper/does-mew-have-an-api/">
+      <div class="pre-post valid">
+        <div class="button-title">< Previous</div>
+        <p class="post-title">Does MyEtherWallet have an API?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ko/diving-deeper/how-to-interact-with-multisig-contract/">
+      <div class="next-post valid">
+        <div class="button-title">다음 ></div>
+        <p class="post-title">How to Interact with a Multisig Contract</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+    <div class="padded-wrap">
+      
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Customer Support</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Email us&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+    </div>
+  </div>
+</div>
+
+
+
+
+      <footer>
+  <div class="page-container">
+    <div class="wrap">
+      <div class="block-left">
+        <p><a href="/ko/../index.html">Home</a></p>
+        <p><a href="https://myetherwallet.com" target="_blank">MyEtherWallet.com</a></p>
+        <p><a href="https://www.myetherwallet.com/privacy-policy" target="_blank">Privacy</a></p>
+        <p><a href="https://www.myetherwallet.com/terms-and-conditions" target="_blank">Terms</a></p>
+      </div>
+      <div class="block-right">
+        <p>© 2021 MyEtherWallet Inc. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+  <div class="app-banner js-app-banner">
+    <p> Buy, hold and swap Ether and tokens. Explore Ethereum with MEW.</p>
+    <div class="app-banner-links">
+      <a href="https://www.myetherwallet.com/"><img src="../../../images/mew-icons/mew_badge.svg"></a>
+      <a href="https://apps.apple.com/app/apple-store/id1464614025?pt=118781877&ct=KB&mt=8"><img src="../../../images/mew-icons/app_store_badge.svg"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet"><img src="../../../images/mew-icons/google_play_bage.svg"></a>
+    </div>
+    <a href="javascript:void(0);" class="app-banner-close js-close-app-banner"><img src="../../../images/mew-icons/close.svg"></a>
+  </div>
+</footer>
+    </div>
+  </div>
+  <div class="site-container mobile-content">
+    <div class="site-wrap">
+      
+
+  <header>
+  <div class="header-wrap">
+    <div class="header-top-block">
+  <div class="upper-menu">
+    <label id="lang-select-label" for="lang-select" class="lang-nav-link lang-choices lang-flag"><img src="../../../images/flags/ko.svg" width="20" height="10"></label>
+    <select id="lang-select" class="hidden lang-choices" data-canonical="diving-deeper/eth2-address/index.html">
+      <option value="en">Select Language</option>
+      
+        <option value="en">English</option>
+      
+        <option value="ru">Русский</option>
+      
+        <option value="es">Español</option>
+      
+        <option value="ja">日本語</option>
+      
+        <option value="ko" selected>한국어</option>
+      
+        <option value="zh">简体中文</option>
+      
+    </select>
+  </div>
+  <div class="left">
+    <a href="/ko/../"><img src="../../../images/mew-logo-dark.png"></a>
+  </div>
+  <div class="menu">
+    <p>Help Center</p>
+  </div>
+  <div class="right hidden">
+    <ul>
+      
+        <li><a class="main-nav-link" href="/ko/../index.html">Home</a></li>
+      
+        <li><a class="main-nav-link" href="mailto:support@myetherwallet.com">Support</a></li>
+      
+        <li>
+          <label id="lang-select-label" for="lang-select" class="lang-nav-link"><img src="../../../images/flags/ko.svg" width="40" height="20"></label>
+          <select id="lang-select" class="hidden" data-canonical="diving-deeper/eth2-address/index.html">
+            
+              <option value="en">English</option>
+            
+              <option value="ru">Русский</option>
+            
+              <option value="es">Español</option>
+            
+              <option value="ja">日本語</option>
+            
+              <option value="ko" selected>한국어</option>
+            
+              <option value="zh">简体中文</option>
+            
+          </select>
+        </li>
+    </ul>
+  </div>
+</div>
+
+    <div class="page-title">
+      <div class="title">Diving Deeper</div>
+    </div>
+  </div>
+</header>
+  
+<div class="desktop-content">
+  <div class="breadcrumbs-container page-container">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Help Center</a> >&nbsp;</div>
+    <div><a href="/ko/categories">카테고리</a> >&nbsp;</div>
+    <div class="post-title"><span>[Diving Deeper]</span> Generate an Eth2 Withdrawal Address for Staking on Eth2</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="sidebar-primary-category">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/does-mew-api-limit-amount-of-requests/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Does MEW API Have a Limit on the Amount of Requests I Can Make?</p>
+                <p class="hidden">cl7ryxj2000tpc8zlfezupzyi</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/does-mew-have-an-api/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Does MyEtherWallet have an API?</p>
+                <p class="hidden">cl7ryxj2200ttc8zl927wcu6d</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/eth2-address/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Generate an Eth2 Withdrawal Address for Staking on Eth2</p>
+                <p class="hidden">cl7ryxj2600u0c8zl4jj02c0q</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/how-to-interact-with-multisig-contract/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">How to Interact with a Multisig Contract</p>
+                <p class="hidden">cl7ryxj2900u7c8zl823n4o2l</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/how-to-submit-pull-request/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">How to Submit a Pull Request to MEW&#39;s GitHub</p>
+                <p class="hidden">cl7ryxj2700u3c8zl8mjiun1r</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/using-mew-as-a-pwa/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Using MEW as a Progressive Web App (PWA)</p>
+                <p class="hidden">cl7ryxj2b00uec8zldyb603yf</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-happens-if-mew-goes-down/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">What Happens if MEW Goes Down?</p>
+                <p class="hidden">cl7ryxj2a00uac8zl53jle0nh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-is-staking-eth2/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Eth2 and Staking</p>
+                <p class="hidden">cl7ryxj2d00uhc8zl7yg7v1db</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-is-a-smart-contract/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">What is an Ethereum Smart Contract?</p>
+                <p class="hidden">cl7ryxj2e00ulc8zl08otge0x</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="customer">
+    
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Customer Support</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Email us&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+  </div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ko/diving-deeper/eth2-address" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Generate-an-Eth2-Withdrawal-Address-for-Staking-on-Eth2"><a href="#Generate-an-Eth2-Withdrawal-Address-for-Staking-on-Eth2" class="headerlink" title="Generate an Eth2 Withdrawal Address for Staking on Eth2"></a><strong>Generate an Eth2 Withdrawal Address for Staking on Eth2</strong></h1><h6 id="min-read"><a href="#min-read" class="headerlink" title=" min read"></a>6 min read</h6><hr>
+<h2 id="MEW’s-integration-of-Staked-lets-users-stake-multiples-of-32-ETH-on-Eth2-to-earn-rewards"><a href="#MEW’s-integration-of-Staked-lets-users-stake-multiples-of-32-ETH-on-Eth2-to-earn-rewards" class="headerlink" title="MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards."></a><strong>MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards.</strong></h2><p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].</p>
+<h1 id="Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake"><a href="#Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake" class="headerlink" title="Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake."></a>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</h1><p>To learn more about staking on Eth2, visit our article on <a href="/ko/dapps/stake-eth2-web/">how to stake on Eth2 using MEW web</a>.</p>
+<p>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you <a href="/ko/mewwallet/stake-eth2-mw/">stake using the MEW wallet app</a>, your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. <strong>It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you.</strong> This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely.</p>
+<p>It’s suggested that you verify your Eth2 withdrawal address with your keystore file to make sure everything is working properly. You can find the verification process halfway through this article.</p>
+<h3 id="Generate-an-Eth2-Withdrawal-Address-on-MEW-web"><a href="#Generate-an-Eth2-Withdrawal-Address-on-MEW-web" class="headerlink" title="Generate an Eth2 Withdrawal Address on MEW web"></a><strong>Generate an Eth2 Withdrawal Address on MEW web</strong></h3><br>
+
+<p><strong>Step 1.</strong> Head to <a href="http://www.myetherwallet.com" target="_blank" rel="noopener">www.myetherwallet.com</a> and scroll down to the footer. Here you’ll find a ‘Generate Eth2 address’ tool at the bottom of the ‘Discover’ section.</p>
+<img src="/images/posts/diving-deeper/eth21.png" width="85%">
+
+<p><strong>Step 2.</strong> Enter a strong password for your Eth2 keystore file, then enter it again to confirm. This password will be the key to unlock your keystore file. It’s very important that you keep track of it.</p>
+<img src="/images/posts/diving-deeper/eth22.png" width="70%">
+
+<p><strong>Step 3.</strong> You will be taken to a screen that shows a 24 word recovery phrase. Write down your 24 word phrase with pen and paper and store it somewhere physically secure. Taking a screenshot won’t protect you from your computer failing, and it makes your phrase vulnerable to hackers.</p>
+<img src="/images/posts/diving-deeper/eth23.png" width="70%">
+
+<p><strong>Step 4.</strong> Download your keystore file from this same screen. Keep it somewhere secure and offline, such as a USB. It’s advisable to download multiple copies and keep them on separate USBs, so if one fails, you’ll have backups.</p>
+<p><strong>Step 5.</strong> You’re done! You will see your new Eth2 withdrawal address on the success screen. It is suggested that you write this down and keep track of it. This address is not necessary for future access, but it’s a good idea to know your own withdrawal address.</p>
+<img src="/images/posts/diving-deeper/eth24.png" width="70%">
+
+<h2 id="Verify-your-Eth2-Withdrawal-Address-using-Windows"><a href="#Verify-your-Eth2-Withdrawal-Address-using-Windows" class="headerlink" title="Verify your Eth2 Withdrawal Address using Windows"></a><strong>Verify your Eth2 Withdrawal Address using Windows</strong></h2><p>For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.</p>
+<p><strong>Step 1.</strong> Head to our <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">Eth2 keystore verification tool</a> on Github. Download the Windows ZIP file for your system.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Step 2.</strong> Extract the ZIP file to your computer, and head into the new ‘eth2deposit’ folders until you see ‘deposit.exe’.</p>
+<img src="/images/posts/diving-deeper/ethv2.png" width="80%">
+
+<p><strong>Step 3.</strong> Hold shift and right-click in the empty space of this folder, then select ‘Open PowerShell’.</p>
+<p><strong>Step 4.</strong> Enter this command for Windows: “.\deposit verify-keystore”</p>
+<img src="/images/posts/diving-deeper/ethv5.png" width="100%">
+
+<p><strong>Step 5.</strong> Enter the path of your Eth2 keystore file. To find your path, you can right-click on the keystore and click ‘Properties’. It will look something like: “C:\Users\since\OneDrive\Desktop” (if you have it on your desktop). Once you find this, make sure you add the keystore file’s name to the end. So it should look like: “C:\Users\since\OneDrive\Desktop\keystore-m_12381_3600_0_01607022974412.json”</p>
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv3.png" width="50%">
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv4.png" width="50%">
+</div>
+</div>
+
+<p><strong>Step 6.</strong> Once you enter this into the terminal and click ‘Enter’, it should ask you for your keystore file’s password. Enter it, then enter it again to confirm it.</p>
+<p><strong>Step 7.</strong> You’re done! Your terminal should say, “Success! Your keystore is valid.” Underneath of this message, you will see your Eth2 withdrawal address, or ‘public key’. Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.</p>
+<img src="/images/posts/diving-deeper/ethv6.png" width="100%">
+
+<h2 id="Verify-your-Eth2-Withdrawal-Address-using-Mac"><a href="#Verify-your-Eth2-Withdrawal-Address-using-Mac" class="headerlink" title="Verify your Eth2 Withdrawal Address using Mac"></a><strong>Verify your Eth2 Withdrawal Address using Mac</strong></h2><p>For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.</p>
+<p><strong>Step 1.</strong> Head to our <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">Eth2 keystore verification tool</a> on Github. Download the Mac (darwin) TAR.ZG file for your system.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Step 2.</strong> Extract the ZIP file to your computer, and head into the new ‘eth2deposit’ folders until you see ‘deposit’. Click the gear icon and select the option that says “Copy ‘eth2deposit….’ as Pathname”.</p>
+<img src="/images/posts/diving-deeper/ethmac1.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac3.png" width="80%">
+
+<p><strong>Step 3.</strong> Hold Cmd + space and type in the word ‘Terminal’ to open the terminal for your Mac. Here, type “cd “ and paste the Pathname you copied from the previous step, then press ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac2.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac7.png" width="80%">
+
+<p><strong>Step 4.</strong> Enter this command for Mac: “./deposit verify-keystore” and press ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac5.png" width="80%">
+
+<p><strong>Step 5.</strong> Enter the path of your Eth2 keystore file. To find your path, you can hold Option + right-click on the keystore file and click “Copy ‘keystore-m….json’ as Pathname”. After that, head back to the terminal and paste it in. It will look something like: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (if you have it on your desktop).</p>
+<p><strong>Step 6.</strong> Once you enter this into the terminal and click ‘Enter’, it should ask you for your keystore file’s password. Enter it, then enter it again to confirm it.</p>
+<p><strong>Step 7.</strong> You’re done! Your terminal should say, “Success! Your keystore is valid.” Underneath of this message, you will see your Eth2 withdrawal address, or ‘public key’. Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.</p>
+<img src="/images/posts/diving-deeper/ethmac6.png" width="80%">
+
+
+      </article>
+      <script
+              type="text/javascript"
+              src="https://crowdin.com/js/crowdjet/crowdjet.js">
+      </script>
+      <div
+              id="crowdjet-container"
+              data-project-id="361641"
+              style="bottom: 90px; right: 20px;">
+      </div>
+      <div
+              id="crowdjet-expand-container"
+              style="bottom: 10px; right: 20px;">
+      </div>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Share to</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ko/diving-deeper/does-mew-have-an-api/">
+      <div class="pre-post valid">
+        <div class="button-title">< Previous</div>
+        <p class="post-title">Does MyEtherWallet have an API?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ko/diving-deeper/how-to-interact-with-multisig-contract/">
+      <div class="next-post valid">
+        <div class="button-title">다음 ></div>
+        <p class="post-title">How to Interact with a Multisig Contract</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mobile-content">
+  <div class="breadcrumbs-container page-container hidden">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Help Center</a> >&nbsp;</div>
+    <div><a href="/ko/categories">카테고리</a> >&nbsp;</div>
+    <div class="post-title"><span>[Diving Deeper]</span> Generate an Eth2 Withdrawal Address for Staking on Eth2</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search hidden">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="show-list-button">
+    <p>Show all posts</p>
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </div>
+  <div class="sidebar-primary-category mobile-post-list">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/does-mew-api-limit-amount-of-requests/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Does MEW API Have a Limit on the Amount of Requests I Can Make?</p>
+                <p class="hidden">cl7ryxj2000tpc8zlfezupzyi</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/does-mew-have-an-api/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Does MyEtherWallet have an API?</p>
+                <p class="hidden">cl7ryxj2200ttc8zl927wcu6d</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/eth2-address/">
+              <div class="active">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Generate an Eth2 Withdrawal Address for Staking on Eth2</p>
+                <p class="hidden">cl7ryxj2600u0c8zl4jj02c0q</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/how-to-interact-with-multisig-contract/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">How to Interact with a Multisig Contract</p>
+                <p class="hidden">cl7ryxj2900u7c8zl823n4o2l</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/how-to-submit-pull-request/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">How to Submit a Pull Request to MEW&#39;s GitHub</p>
+                <p class="hidden">cl7ryxj2700u3c8zl8mjiun1r</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/using-mew-as-a-pwa/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Using MEW as a Progressive Web App (PWA)</p>
+                <p class="hidden">cl7ryxj2b00uec8zldyb603yf</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-happens-if-mew-goes-down/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">What Happens if MEW Goes Down?</p>
+                <p class="hidden">cl7ryxj2a00uac8zl53jle0nh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-is-staking-eth2/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Eth2 and Staking</p>
+                <p class="hidden">cl7ryxj2d00uhc8zl7yg7v1db</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ko/diving-deeper/what-is-a-smart-contract/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">What is an Ethereum Smart Contract?</p>
+                <p class="hidden">cl7ryxj2e00ulc8zl08otge0x</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="sidebar-close-button">Close</div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ko/diving-deeper/eth2-address" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Generate-an-Eth2-Withdrawal-Address-for-Staking-on-Eth2"><a href="#Generate-an-Eth2-Withdrawal-Address-for-Staking-on-Eth2" class="headerlink" title="Generate an Eth2 Withdrawal Address for Staking on Eth2"></a><strong>Generate an Eth2 Withdrawal Address for Staking on Eth2</strong></h1><h6 id="min-read"><a href="#min-read" class="headerlink" title=" min read"></a>6 min read</h6><hr>
+<h2 id="MEW’s-integration-of-Staked-lets-users-stake-multiples-of-32-ETH-on-Eth2-to-earn-rewards"><a href="#MEW’s-integration-of-Staked-lets-users-stake-multiples-of-32-ETH-on-Eth2-to-earn-rewards" class="headerlink" title="MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards."></a><strong>MEW’s integration of Staked lets users stake multiples of 32 ETH on Eth2 to earn rewards.</strong></h2><p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>To learn more about staking on Eth2, visit our article on [how to stake on Eth2 using MEW web][eth2web].</p>
+<h1 id="Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake"><a href="#Before-you-stake-on-Eth2-it’s-necessary-to-have-an-Eth2-Withdrawal-Address-When-you-stake-using-the-MEW-wallet-app-eth2app-your-Eth2-withdrawal-address-is-tied-to-your-24-word-recovery-phrase-However-on-MEW-web-it’s-necessary-to-create-a-new-Eth2-withdrawal-address-for-your-stake" class="headerlink" title="Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake."></a>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you [stake using the MEW wallet app][eth2app], your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</h1><p>To learn more about staking on Eth2, visit our article on <a href="/ko/dapps/stake-eth2-web/">how to stake on Eth2 using MEW web</a>.</p>
+<p>Before you stake on Eth2, it’s necessary to have an Eth2 Withdrawal Address. When you <a href="/ko/mewwallet/stake-eth2-mw/">stake using the MEW wallet app</a>, your Eth2 withdrawal address is tied to your 24 word recovery phrase. However, on MEW web, it’s necessary to create a new Eth2 withdrawal address for your stake.</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>origin/l10n_master</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>Your MEW web Eth2 withdrawal address will have a keystore file + password and a 24 word recovery phrase tied to it. <strong>It’s very important you keep both your keystore file + password and recovery phrase safe, as we cannot recover these for you.</strong> This information is necessary to withdraw your stake and rewards in the future. Without these, your ETH may be locked up indefinitely.</p>
+<p>It’s suggested that you verify your Eth2 withdrawal address with your keystore file to make sure everything is working properly. You can find the verification process halfway through this article.</p>
+<h3 id="Generate-an-Eth2-Withdrawal-Address-on-MEW-web"><a href="#Generate-an-Eth2-Withdrawal-Address-on-MEW-web" class="headerlink" title="Generate an Eth2 Withdrawal Address on MEW web"></a><strong>Generate an Eth2 Withdrawal Address on MEW web</strong></h3><br>
+
+<p><strong>Step 1.</strong> Head to <a href="http://www.myetherwallet.com" target="_blank" rel="noopener">www.myetherwallet.com</a> and scroll down to the footer. Here you’ll find a ‘Generate Eth2 address’ tool at the bottom of the ‘Discover’ section.</p>
+<img src="/images/posts/diving-deeper/eth21.png" width="85%">
+
+<p><strong>Step 2.</strong> Enter a strong password for your Eth2 keystore file, then enter it again to confirm. This password will be the key to unlock your keystore file. It’s very important that you keep track of it.</p>
+<img src="/images/posts/diving-deeper/eth22.png" width="70%">
+
+<p><strong>Step 3.</strong> You will be taken to a screen that shows a 24 word recovery phrase. Write down your 24 word phrase with pen and paper and store it somewhere physically secure. Taking a screenshot won’t protect you from your computer failing, and it makes your phrase vulnerable to hackers.</p>
+<img src="/images/posts/diving-deeper/eth23.png" width="70%">
+
+<p><strong>Step 4.</strong> Download your keystore file from this same screen. Keep it somewhere secure and offline, such as a USB. It’s advisable to download multiple copies and keep them on separate USBs, so if one fails, you’ll have backups.</p>
+<p><strong>Step 5.</strong> You’re done! You will see your new Eth2 withdrawal address on the success screen. It is suggested that you write this down and keep track of it. This address is not necessary for future access, but it’s a good idea to know your own withdrawal address.</p>
+<img src="/images/posts/diving-deeper/eth24.png" width="70%">
+
+<h2 id="Verify-your-Eth2-Withdrawal-Address-using-Windows"><a href="#Verify-your-Eth2-Withdrawal-Address-using-Windows" class="headerlink" title="Verify your Eth2 Withdrawal Address using Windows"></a><strong>Verify your Eth2 Withdrawal Address using Windows</strong></h2><p>For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.</p>
+<p><strong>Step 1.</strong> Head to our <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">Eth2 keystore verification tool</a> on Github. Download the Windows ZIP file for your system.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Step 2.</strong> Extract the ZIP file to your computer, and head into the new ‘eth2deposit’ folders until you see ‘deposit.exe’.</p>
+<img src="/images/posts/diving-deeper/ethv2.png" width="80%">
+
+<p><strong>Step 3.</strong> Hold shift and right-click in the empty space of this folder, then select ‘Open PowerShell’.</p>
+<p><strong>Step 4.</strong> Enter this command for Windows: “.\deposit verify-keystore”</p>
+<img src="/images/posts/diving-deeper/ethv5.png" width="100%">
+
+<p><strong>Step 5.</strong> Enter the path of your Eth2 keystore file. To find your path, you can right-click on the keystore and click ‘Properties’. It will look something like: “C:\Users\since\OneDrive\Desktop” (if you have it on your desktop). Once you find this, make sure you add the keystore file’s name to the end. So it should look like: “C:\Users\since\OneDrive\Desktop\keystore-m_12381_3600_0_01607022974412.json”</p>
+<div class="d-flex justify-content-center flex-wrap margin-0">
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv3.png" width="50%">
+</div>
+<div class="wrap-mobile-phone">
+<img src="/images/posts/diving-deeper/ethv4.png" width="50%">
+</div>
+</div>
+
+<p><strong>Step 6.</strong> Once you enter this into the terminal and click ‘Enter’, it should ask you for your keystore file’s password. Enter it, then enter it again to confirm it.</p>
+<p><strong>Step 7.</strong> You’re done! Your terminal should say, “Success! Your keystore is valid.” Underneath of this message, you will see your Eth2 withdrawal address, or ‘public key’. Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.</p>
+<img src="/images/posts/diving-deeper/ethv6.png" width="100%">
+
+<h2 id="Verify-your-Eth2-Withdrawal-Address-using-Mac"><a href="#Verify-your-Eth2-Withdrawal-Address-using-Mac" class="headerlink" title="Verify your Eth2 Withdrawal Address using Mac"></a><strong>Verify your Eth2 Withdrawal Address using Mac</strong></h2><p>For extra security and ease of mind, it’s recommended that you double-check your withdrawal address. This process is a bit complicated, but if you follow these steps exactly, you should be able to follow through to the end.</p>
+<p><strong>Step 1.</strong> Head to our <a href="https://github.com/MyEtherWallet/eth2.0-deposit-cli/releases/tag/v1.1.0m1" target="_blank" rel="noopener">Eth2 keystore verification tool</a> on Github. Download the Mac (darwin) TAR.ZG file for your system.</p>
+<img src="/images/posts/diving-deeper/eth2v1.png" width="80%">
+
+<p><strong>Step 2.</strong> Extract the ZIP file to your computer, and head into the new ‘eth2deposit’ folders until you see ‘deposit’. Click the gear icon and select the option that says “Copy ‘eth2deposit….’ as Pathname”.</p>
+<img src="/images/posts/diving-deeper/ethmac1.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac3.png" width="80%">
+
+<p><strong>Step 3.</strong> Hold Cmd + space and type in the word ‘Terminal’ to open the terminal for your Mac. Here, type “cd “ and paste the Pathname you copied from the previous step, then press ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac2.png" width="80%">
+
+<img src="/images/posts/diving-deeper/ethmac7.png" width="80%">
+
+<p><strong>Step 4.</strong> Enter this command for Mac: “./deposit verify-keystore” and press ‘Enter’.</p>
+<img src="/images/posts/diving-deeper/ethmac5.png" width="80%">
+
+<p><strong>Step 5.</strong> Enter the path of your Eth2 keystore file. To find your path, you can hold Option + right-click on the keystore file and click “Copy ‘keystore-m….json’ as Pathname”. After that, head back to the terminal and paste it in. It will look something like: “/Users/stephen/Desktop/keystore-m_12381_3600_0_0-1607370800275.json” (if you have it on your desktop).</p>
+<p><strong>Step 6.</strong> Once you enter this into the terminal and click ‘Enter’, it should ask you for your keystore file’s password. Enter it, then enter it again to confirm it.</p>
+<p><strong>Step 7.</strong> You’re done! Your terminal should say, “Success! Your keystore is valid.” Underneath of this message, you will see your Eth2 withdrawal address, or ‘public key’. Compare it with the address you saw when you first generated your Eth2 keystore file for accuracy.</p>
+<img src="/images/posts/diving-deeper/ethmac6.png" width="80%">
+
+
+      </article>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Share to</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ko/diving-deeper/does-mew-have-an-api/">
+      <div class="pre-post valid">
+        <div class="button-title">< Previous</div>
+        <p class="post-title">Does MyEtherWallet have an API?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ko/diving-deeper/how-to-interact-with-multisig-contract/">
+      <div class="next-post valid">
+        <div class="button-title">다음 ></div>
+        <p class="post-title">How to Interact with a Multisig Contract</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+    <div class="padded-wrap">
+      
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Customer Support</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Email us&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+    </div>
+  </div>
+</div>
+
+
+      <footer>
+  <div class="page-container">
+    <div class="wrap">
+      <div class="block-left">
+        <p><a href="/ko/../index.html">Home</a></p>
+        <p class="hidden"><a href="https://myetherwallet.com" target="_blank">MyEtherWallet.com</a></p>
+        <p><a href="https://www.myetherwallet.com/privacy-policy" target="_blank">Privacy</a></p>
+        <p><a href="https://www.myetherwallet.com/terms-and-conditions" target="_blank">Terms</a></p>
+      </div>
+      <div class="block-right">
+        <p>© 2021 MyEtherWallet Inc. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+  <div class="app-banner js-app-banner">
+    <p><p> Buy, hold and swap Ether and tokens. Explore Ethereum with MEW.</p></p>
+    <a href="javascript:void(0);" class="app-banner-get js-get-app">
+      Get the app
+      <img src="../../../images/mew-icons/arrow.svg">
+    </a>
+    <div class="app-banner-links">
+      <a href="https://www.myetherwallet.com/"><img src="../../../images/mew-icons/mew_badge.svg"></a>
+      <a href="https://apps.apple.com/app/apple-store/id1464614025?pt=118781877&ct=KB&mt=8"><img src="../../../images/mew-icons/app_store_badge.svg"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet"><img src="../../../images/mew-icons/google_play_bage.svg"></a>
+    </div>
+    <a href="javascript:void(0);" class="app-banner-close js-close-app-banner"><img src="../../../images/mew-icons/close.svg"></a>
+  </div>
+</footer>
+    </div>
+  </div>
+
+  <script src="../../../js/jquery.min.js"></script>
+<script src="../../../js/initialization.js"></script>
+<script src="../../../js/mew/accordion.js"></script>
+<script src="../../../js/mew/youtube-popup.js"></script>
+<script src="../../../js/mew/sidebar.js"></script>
+<script src="../../../js/mew/sidebar-post-search.js"></script>
+<script src="../../../js/mew/header-post-search.js"></script>
+
+</body>
+</html>

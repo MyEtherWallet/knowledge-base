@@ -1,0 +1,2428 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="generator" content="Hexo 3.9.0">
+    <meta charset="utf-8">
+    
+    <link rel="canonical" href="https://kb.myetherwallet.com/hardware-wallets/using-trezor-with-mew/">
+    <title>
+        Использование аппаратного кошелька Trezor с MEW |
+        
+        MyEtherWallet Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="../../../css/google-fonts.css">
+<link rel="stylesheet" href="../../../css/font-awesome.css">
+
+    <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "name" : "MyEtherWallet Knowledge Base",
+    "url" : "https://kb.myetherwallet.com"
+  }
+</script>
+
+<script type="application/ld+json">
+  { "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "MyEtherWallet",
+    "url" : "https://www.myetherwallet.com",
+    "logo": "https://kb.myetherwallet.com/images/mew-logo-dark.png",
+    "sameAs" : [ "" ]
+  }
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://kb.myetherwallet.com"
+    },
+    "headline": "Использование аппаратного кошелька Trezor с MEW",
+
+
+        "datePublished": "2018-06-01T00:01:00-07:00",
+
+
+    "dateModified": "2022-09-06T16:54:04-07:00",
+
+
+    "author": {
+        "@type": "Person",
+        "name": "MyEtherWallet (MEW)"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "MyEtherWallet ",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://kb.myetherwallet.com/images/mew-logo-dark.png"
+        }
+    }
+}
+
+</script>
+<meta property="og:site_name" content="MyEtherWallet Knowledgebase">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Использование аппаратного кошелька Trezor с MEW">
+<meta property="og:description" content="Использование аппаратного кошелька Trezor с MEW">
+<meta property="og:url" content="https://kb.myetherwallet.com/ru/hardware-wallets/using-trezor-with-mew">
+<meta property="article:published_time" content="2018-06-01T00:01:00-07:00">
+<meta property="article:modified_time" content="2022-09-06T16:54:04-07:00">
+
+    <meta property="article:tag" content="trezor">
+
+    <meta property="article:tag" content="аппаратный">
+
+    <meta property="article:tag" content="кошелек">
+
+<meta property="article:publisher" content="https://www.facebook.com/myetherwallet">
+
+    <link rel="alternate" hreflang="en" href="https://kb.myetherwallet.com/en/hardware-wallets/using-trezor-with-mew/">
+
+    <link rel="alternate" hreflang="ru" href="https://kb.myetherwallet.com/ru/hardware-wallets/using-trezor-with-mew/">
+
+    <link rel="alternate" hreflang="es" href="https://kb.myetherwallet.com/es/hardware-wallets/using-trezor-with-mew/">
+
+    <link rel="alternate" hreflang="ja" href="https://kb.myetherwallet.com/ja/hardware-wallets/using-trezor-with-mew/">
+
+    <link rel="alternate" hreflang="ko" href="https://kb.myetherwallet.com/ko/hardware-wallets/using-trezor-with-mew/">
+
+    <link rel="alternate" hreflang="zh" href="https://kb.myetherwallet.com/zh/hardware-wallets/using-trezor-with-mew/">
+
+
+    <link rel="alternate" href="https://kb.myetherwallet.com/migration/moving-from-private-key-to-trezor-hardware-wallet.html">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Использование аппаратного кошелька Trezor с MEW">
+<meta name="twitter:description" content="Использование аппаратного кошелька Trezor с MEW">
+<meta name="twitter:url" content="https://kb.myetherwallet.com/ru/hardware-wallets/using-trezor-with-mew">
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="MyEtherWallet (MEW)">
+<meta name="twitter:label2" content="Filed under">
+<meta name="twitter:data2" content="trezor аппаратный кошелек">
+<meta name="twitter:site" content="@myetherwallet">
+
+
+    
+        <link rel="icon" href="/favicon.png">
+    
+
+    <link rel="stylesheet" href="../../../css/style.css">
+</head>
+</html>
+<body>
+
+  <div class="site-container desktop-content">
+    <div class="site-wrap">
+      
+
+
+  <header>
+  <div class="page-container">
+    <div class="header-wrap">
+      <div class="header-top-block">
+    <div class="left">
+        <a href="/ru/../"><img src="../../../images/mew-logo-white.png"></a>
+        <p>Центр поддержки</p>
+    </div>
+    <div class="right">
+        <ul>
+            
+                <li><a class="main-nav-link" href="/ru/../index.html">Главная</a></li>
+            
+                <li><a class="main-nav-link" href="mailto:support@myetherwallet.com">Поддержка</a></li>
+            
+            <li>
+                <!-- 
+                    <span value="0">0 </span>
+                 -->
+                <label id="lang-select-label" for="lang-select" class="lang-nav-link"><img src="../../../images/flags/ru.svg" width="40" height="20"></label>
+                <select id="lang-select" class="hidden" data-canonical="hardware-wallets/using-trezor-with-mew/index.html">
+                    
+                    <option value="en">English</option>
+                    
+                    <option value="ru" selected>Русский</option>
+                    
+                </select>
+            </li>
+        </ul>
+    </div>
+</div>
+
+      <div class="page-title">
+        <div class="title">Аппаратные кошельки</div>
+      </div>
+    </div>
+  </div>
+</header>
+  
+<div class="desktop-content">
+  <div class="breadcrumbs-container page-container">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Аппаратные кошельки]</span> Использование аппаратного кошелька Trezor с MEW</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="sidebar-primary-category">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-trezor-with-mew/">
+              <div class="active">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Использование аппаратного кошелька Trezor с MEW</p>
+                <p class="hidden">cl7ryxjfs01ijc8zlp0etb6ul</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-bitbox-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Использование аппаратного кошелька Digital BitBox с MEW</p>
+                <p class="hidden">cl7ryxjfd01hoc8zl04ad6uhw</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-bcvault-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Использование аппаратного кошелька BC Vault с MEW</p>
+                <p class="hidden">cl7ryxjff01hrc8zlsotbna5x</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-coolwallet-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Использование аппаратного кошелька CoolWallet с MEW</p>
+                <p class="hidden">cl7ryxjfj01hzc8zlqgt65te8</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-keepkey-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Использование аппаратного кошелька KeepKey с MEW</p>
+                <p class="hidden">cl7ryxjfo01icc8zl5c0nf41n</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-ledger-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование аппаратного кошелька Ledger с MEW</p>
+                <p class="hidden">cl7ryxjfq01ifc8zllbpshh33</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-secalot-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Использование аппаратного кошелька Secalot с MEW</p>
+                <p class="hidden">cl7ryxjfu01imc8zlylzbwqog</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-hardware-wallet-with-custom-node/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Использование аппаратного кошелька с кастомным узлом</p>
+                <p class="hidden">cl7ryxjfi01hwc8zlkr6mkhyw</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-hardware-with-custom-path/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Использование аппаратного кошелька с кастомным путем деривации</p>
+                <p class="hidden">cl7ryxjfl01i4c8zllt4tjxon</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/unable-to-connect-with-hardware-wallet/">
+              <div class="">
+                <div class="hidden post-index-number">10</div>
+                <p class="post-title">Не удается подключиться к аппаратному кошельку</p>
+                <p class="hidden">cl7ryxjfa01hkc8zlqpxre34o</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-ledger-hw-with-android-device/">
+              <div class="">
+                <div class="hidden post-index-number">11</div>
+                <p class="post-title">Использование аппаратного кошелька Ledger на Android-устройстве</p>
+                <p class="hidden">cl7ryxjfm01i7c8zlg94pqlcg</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="customer">
+    
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+  </div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/hardware-wallets/using-trezor-with-mew" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Использование-аппаратного-кошелька-Trezor-с-MEW"><a href="#Использование-аппаратного-кошелька-Trezor-с-MEW" class="headerlink" title="Использование аппаратного кошелька Trezor с MEW"></a><strong>Использование аппаратного кошелька Trezor с MEW</strong></h1><h6 id="мин-на-прочтение"><a href="#мин-на-прочтение" class="headerlink" title=" мин. на прочтение"></a>5 мин. на прочтение</h6><hr>
+<p>Аппаратные кошельки Trezor являются одними из самых безопасных и простых в использовании аппаратных кошельков для криптовалют. Если у вас нет такого кошелька, его можно приобрести <a href="https://trezor.io/?offer_id=12&aff_id=2029" target="_blank" rel="noopener">через веб-сайт Trezor</a>.</p>
+<p><em>Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.</em></p>
+<p>Данный аппаратный кошелек поддерживает широкий спектр криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).</p>
+<p><strong>Этот пункт очень важен.</strong> Ваше устройство Trezor является ОТДЕЛЬНЫМ кошельком. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.</p>
+<p>Ну что ж, давайте начнем!</p>
+<h2 id="Начальная-настройка"><a href="#Начальная-настройка" class="headerlink" title="Начальная настройка"></a><strong>Начальная настройка</strong></h2><p><strong>Шаг 1.</strong> Распакуйте ваш Trezor! Вы увидите несколько карт и инструкций для настройки. Внимательно следуйте этим инструкциям! Подключите Trezor к своему компьютеру и начните работу с ним. Перейдите на <a href="https://trezor.io/start" target="_blank" rel="noopener">trezor.io/start</a>, чтобы начать процесс настройки.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor1.jpg" alt="Изображение нового устройства Trezor" width="35%">
+
+<hr>
+<p><strong>Шаг 2.</strong> Выберите “Создать новый” на этой странице и выполните все необходимые действия для настройки вашего нового устройства. Первое, что стоит сделать, — “Создать резервную копию за 3 минуты”.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor2.png" alt="Изображение процесса настройки Trezor" width="80%">
+
+<hr>
+<p><strong>Шаг 3.</strong> <em>Это один из самых важных шагов.</em> Не записывайте эту фразу на вашем компьютере, не делайте фото фразы. Запишите свои 24 seed-слова в нескольких местах. НЕ ПОТЕРЯЙТЕ ИХ. Если вы потеряете эти слова, вы потеряете также и доступ ко всей своей криптовалюте. В комплекте с Ledger поставляются карточки для записи, но я предлагаю записать их еще где-нибудь. И еще раз, не сохраняйте эту фразу на своем компьютере. Используйте ручку и бумагу. Когда вы закончите, то увидите экран приведенный ниже.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor3.png" alt="Изображение процесса резервного копирования Trezor" width="80%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor4.png" alt="Изображение создания фразы Trezor" width="75%">
+
+<hr>
+<p><strong>Шаг 4.</strong> Теперь вам предложат выбрать имя для вашего устройства Trezor. Его вы будете видеть на своем устройстве при каждом подключении. Выберите что-нибудь знакомое и лично ваше!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor5.png" alt="Изображение успешного резервного копирования Trezor" width="70%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor6.png" alt="Изображение процесса названия Trezor" width="75%">
+
+<hr>
+<p><strong>Шаг 5.</strong> Теперь необходимо выбрать PIN-код. Он станет единственным способом получения доступа к вашему устройству (помимо фразы восстановления, которую вы уже записали несколько раз), поэтому очень важно выбрать безопасный, но легко запоминающийся пин-код. Не используйте комбинации <code>1111</code> или <code>1234</code>, выберите что-то более случайное и безопасное. <em>Не допускайте эту ошибку! Если вы получите сообщение, что код может быть безопаснее, сделайте его длиннее!</em></p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor7.png" alt="Изображение процесса создания пин кода" width="75%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor8.png" alt="Изображение окончательного создания пин кода" width="70%">
+
+<hr>
+<p><strong>Шаг 6.</strong> Все готово!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor9.png" alt="Изображение экрана успешной настройки" width="50%">
+
+<h2 id="Использование-Trezor-с-MEW"><a href="#Использование-Trezor-с-MEW" class="headerlink" title="Использование Trezor с MEW"></a><strong>Использование Trezor с MEW</strong></h2><p><strong>Шаг 1.</strong> Подключите ваше устройство Trezor и направляйтесь на сайт MEW.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor10.jpg" alt="Изображение подключенного и настроенного Trezor" width="35%">
+
+<hr>
+<p><strong>Шаг 2.</strong> Проверьте URL-адрес SSL сертификата MyEtherWallet Inc [US], чтобы убедиться, что вы на нашем настоящем и безопасном сайте. Вы уверены? Отлично! Перейдите на ‘Доступ к кошельку’ и выберите пункт ‘Аппаратные кошельки’. Выберите ‘Trezor’ и ‘Продолжить’. В это время Trezor все еще должен быть подключен.</p>
+<img src="/images/posts/hardware-wallet/trezor/MEW1.png" alt="Изображение главной страницы MEW" width="75%">
+
+<hr>
+<p><strong>Шаг 3.</strong> Появится всплывающее окно с запросом на предоставление разрешений MEW на чтение публичных ключей с вашего устройства Trezor. Нажмите ‘Allow once for this session’ и выберите опцию ‘Don’t ask me again’, чтобы пропускать этот шаг в будущем. Нажмите ‘Export’ на следующем экране и введите свой пин-код, после чего вас перенаправит обратно на MEW.</p>
+<img src="/images/posts/hardware-wallet/trezor/MEW2.png" alt="Изображение выбора кошелька для доступа к MEW" width="70%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor11.png" alt="Изображение категории аппаратных кошельков с выбранным Trezor" width="70%">
+
+<hr>
+<p><strong>Шаг 4.</strong> MEW вернет вас на страницу с разными сетями и путями деривации. Выберите сеть, к которой хотите подключиться, и путь деривации. Для использования обычного ETH вы должны быть в сети ETH с путем деривации Ethereum. Вы также можете получить доступ к другим сетям, таким как Ethereum Classic (ETC), выбрав соответствующую опцию.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor16.png" alt="Изображение разрешений Trezor" width="40%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor12.png" alt="Изображение экрана экспорта ключей Trezor" width="40%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor17.png" alt="Изображение подтверждения пин кода Trezor" width="40%">
+
+<hr>
+<p><strong>Шаг 5.</strong> Вы увидите список адресов. Это новые адреса, доступные для выбора в качестве вашего основного кошелька! Выберите один из пяти, который вам нравится. (Большинство людей выбирают первый, но это не обязательно.)</p>
+<p><img src="/images/posts/hardware-wallet/trezor/Trezor13.png" alt="Изображение выбора сети Trezor" width="42.5%"> <img src="/images/posts/hardware-wallet/trezor/Trezor14.png" alt="Изображение выбора пути деривации для Trezor" width="50%"></p>
+<hr>
+<p><strong>Шаг 6.</strong> После этого вы должны попасть на страницу, которая очень похожа на страницу вашего старого кошелька. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Trezor!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor15.png" alt="Изображение выбора адреса Trezor" width="50%">
+
+<h2 id="А-что-насчет-моего-старого-кошелька"><a href="#А-что-насчет-моего-старого-кошелька" class="headerlink" title="А что насчет моего старого кошелька???"></a><strong>А что насчет моего старого кошелька???</strong></h2><p>Если вы переходите со старого кошелька и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресe Trezor, вам нужно будет перевести средства на новый адрес путем обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEW wallet, MetaMask, файла хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Trezor). Отправьте ETH и токены на ваш новый адрес Trezor, и пользуйтесь своими средствами с большей безопасностью.</p>
+<p>Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.</p>
+<h2 id="Как-мне-восстановить-доступ-к-Trezor-на-новом-устройстве"><a href="#Как-мне-восстановить-доступ-к-Trezor-на-новом-устройстве" class="headerlink" title="Как мне восстановить доступ к Trezor на новом устройстве?"></a><strong>Как мне восстановить доступ к Trezor на новом устройстве?</strong></h2><p>У Trezor есть <a href="https://wiki.trezor.io/User_manual:Recovery" target="_blank" rel="noopener">понятное и простое руководство</a> о том, как восстановить ваше устройство.</p>
+<h2 id="Решение-проблем"><a href="#Решение-проблем" class="headerlink" title="Решение проблем"></a><strong>Решение проблем</strong></h2><p>Большинство проблем с Trezor можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также нового кабеля для подключения.</p>
+<p>Как всегда, не стесняйтесь связаться с нами по адресу <a href="mailto:support@myetherwallet.com." target="_blank" rel="noopener">support@myetherwallet.com.</a> Мы всегда рады помочь!</p>
+
+      </article>
+      <script
+              type="text/javascript"
+              src="https://crowdin.com/js/crowdjet/crowdjet.js">
+      </script>
+      <div
+              id="crowdjet-container"
+              data-project-id="361641"
+              style="bottom: 90px; right: 20px;">
+      </div>
+      <div
+              id="crowdjet-expand-container"
+              style="bottom: 10px; right: 20px;">
+      </div>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <div class="pre-post">
+      <div class="button-title">< Предыдущий</div>
+      <p class="post-title">Нет</p>
+    </div>
+  
+
+  
+    <a href="/ru/hardware-wallets/using-bitbox-with-mew/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Использование аппаратного кошелька Digital BitBox с MEW</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mobile-content">
+  <div class="breadcrumbs-container page-container hidden">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Аппаратные кошельки]</span> Использование аппаратного кошелька Trezor с MEW</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search hidden">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="show-list-button">
+    <p>Show all posts</p>
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </div>
+  <div class="sidebar-primary-category mobile-post-list">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-trezor-with-mew/">
+              <div class="active">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Использование аппаратного кошелька Trezor с MEW</p>
+                <p class="hidden">cl7ryxjfs01ijc8zlp0etb6ul</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-bitbox-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Использование аппаратного кошелька Digital BitBox с MEW</p>
+                <p class="hidden">cl7ryxjfd01hoc8zl04ad6uhw</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-bcvault-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Использование аппаратного кошелька BC Vault с MEW</p>
+                <p class="hidden">cl7ryxjff01hrc8zlsotbna5x</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-coolwallet-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Использование аппаратного кошелька CoolWallet с MEW</p>
+                <p class="hidden">cl7ryxjfj01hzc8zlqgt65te8</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-keepkey-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Использование аппаратного кошелька KeepKey с MEW</p>
+                <p class="hidden">cl7ryxjfo01icc8zl5c0nf41n</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-ledger-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование аппаратного кошелька Ledger с MEW</p>
+                <p class="hidden">cl7ryxjfq01ifc8zllbpshh33</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-secalot-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Использование аппаратного кошелька Secalot с MEW</p>
+                <p class="hidden">cl7ryxjfu01imc8zlylzbwqog</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-hardware-wallet-with-custom-node/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Использование аппаратного кошелька с кастомным узлом</p>
+                <p class="hidden">cl7ryxjfi01hwc8zlkr6mkhyw</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-hardware-with-custom-path/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Использование аппаратного кошелька с кастомным путем деривации</p>
+                <p class="hidden">cl7ryxjfl01i4c8zllt4tjxon</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/unable-to-connect-with-hardware-wallet/">
+              <div class="">
+                <div class="hidden post-index-number">10</div>
+                <p class="post-title">Не удается подключиться к аппаратному кошельку</p>
+                <p class="hidden">cl7ryxjfa01hkc8zlqpxre34o</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-ledger-hw-with-android-device/">
+              <div class="">
+                <div class="hidden post-index-number">11</div>
+                <p class="post-title">Использование аппаратного кошелька Ledger на Android-устройстве</p>
+                <p class="hidden">cl7ryxjfm01i7c8zlg94pqlcg</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="sidebar-close-button">Close</div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/hardware-wallets/using-trezor-with-mew" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Использование-аппаратного-кошелька-Trezor-с-MEW"><a href="#Использование-аппаратного-кошелька-Trezor-с-MEW" class="headerlink" title="Использование аппаратного кошелька Trezor с MEW"></a><strong>Использование аппаратного кошелька Trezor с MEW</strong></h1><h6 id="мин-на-прочтение"><a href="#мин-на-прочтение" class="headerlink" title=" мин. на прочтение"></a>5 мин. на прочтение</h6><hr>
+<p>Аппаратные кошельки Trezor являются одними из самых безопасных и простых в использовании аппаратных кошельков для криптовалют. Если у вас нет такого кошелька, его можно приобрести <a href="https://trezor.io/?offer_id=12&aff_id=2029" target="_blank" rel="noopener">через веб-сайт Trezor</a>.</p>
+<p><em>Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.</em></p>
+<p>Данный аппаратный кошелек поддерживает широкий спектр криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).</p>
+<p><strong>Этот пункт очень важен.</strong> Ваше устройство Trezor является ОТДЕЛЬНЫМ кошельком. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.</p>
+<p>Ну что ж, давайте начнем!</p>
+<h2 id="Начальная-настройка"><a href="#Начальная-настройка" class="headerlink" title="Начальная настройка"></a><strong>Начальная настройка</strong></h2><p><strong>Шаг 1.</strong> Распакуйте ваш Trezor! Вы увидите несколько карт и инструкций для настройки. Внимательно следуйте этим инструкциям! Подключите Trezor к своему компьютеру и начните работу с ним. Перейдите на <a href="https://trezor.io/start" target="_blank" rel="noopener">trezor.io/start</a>, чтобы начать процесс настройки.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor1.jpg" alt="Изображение нового устройства Trezor" width="35%">
+
+<hr>
+<p><strong>Шаг 2.</strong> Выберите “Создать новый” на этой странице и выполните все необходимые действия для настройки вашего нового устройства. Первое, что стоит сделать, — “Создать резервную копию за 3 минуты”.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor2.png" alt="Изображение процесса настройки Trezor" width="80%">
+
+<hr>
+<p><strong>Шаг 3.</strong> <em>Это один из самых важных шагов.</em> Не записывайте эту фразу на вашем компьютере, не делайте фото фразы. Запишите свои 24 seed-слова в нескольких местах. НЕ ПОТЕРЯЙТЕ ИХ. Если вы потеряете эти слова, вы потеряете также и доступ ко всей своей криптовалюте. В комплекте с Ledger поставляются карточки для записи, но я предлагаю записать их еще где-нибудь. И еще раз, не сохраняйте эту фразу на своем компьютере. Используйте ручку и бумагу. Когда вы закончите, то увидите экран приведенный ниже.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor3.png" alt="Изображение процесса резервного копирования Trezor" width="80%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor4.png" alt="Изображение создания фразы Trezor" width="75%">
+
+<hr>
+<p><strong>Шаг 4.</strong> Теперь вам предложат выбрать имя для вашего устройства Trezor. Его вы будете видеть на своем устройстве при каждом подключении. Выберите что-нибудь знакомое и лично ваше!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor5.png" alt="Изображение успешного резервного копирования Trezor" width="70%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor6.png" alt="Изображение процесса названия Trezor" width="75%">
+
+<hr>
+<p><strong>Шаг 5.</strong> Теперь необходимо выбрать PIN-код. Он станет единственным способом получения доступа к вашему устройству (помимо фразы восстановления, которую вы уже записали несколько раз), поэтому очень важно выбрать безопасный, но легко запоминающийся пин-код. Не используйте комбинации <code>1111</code> или <code>1234</code>, выберите что-то более случайное и безопасное. <em>Не допускайте эту ошибку! Если вы получите сообщение, что код может быть безопаснее, сделайте его длиннее!</em></p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor7.png" alt="Изображение процесса создания пин кода" width="75%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor8.png" alt="Изображение окончательного создания пин кода" width="70%">
+
+<hr>
+<p><strong>Шаг 6.</strong> Все готово!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor9.png" alt="Изображение экрана успешной настройки" width="50%">
+
+<h2 id="Использование-Trezor-с-MEW"><a href="#Использование-Trezor-с-MEW" class="headerlink" title="Использование Trezor с MEW"></a><strong>Использование Trezor с MEW</strong></h2><p><strong>Шаг 1.</strong> Подключите ваше устройство Trezor и направляйтесь на сайт MEW.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor10.jpg" alt="Изображение подключенного и настроенного Trezor" width="35%">
+
+<hr>
+<p><strong>Шаг 2.</strong> Проверьте URL-адрес SSL сертификата MyEtherWallet Inc [US], чтобы убедиться, что вы на нашем настоящем и безопасном сайте. Вы уверены? Отлично! Перейдите на ‘Доступ к кошельку’ и выберите пункт ‘Аппаратные кошельки’. Выберите ‘Trezor’ и ‘Продолжить’. В это время Trezor все еще должен быть подключен.</p>
+<img src="/images/posts/hardware-wallet/trezor/MEW1.png" alt="Изображение главной страницы MEW" width="75%">
+
+<hr>
+<p><strong>Шаг 3.</strong> Появится всплывающее окно с запросом на предоставление разрешений MEW на чтение публичных ключей с вашего устройства Trezor. Нажмите ‘Allow once for this session’ и выберите опцию ‘Don’t ask me again’, чтобы пропускать этот шаг в будущем. Нажмите ‘Export’ на следующем экране и введите свой пин-код, после чего вас перенаправит обратно на MEW.</p>
+<img src="/images/posts/hardware-wallet/trezor/MEW2.png" alt="Изображение выбора кошелька для доступа к MEW" width="70%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor11.png" alt="Изображение категории аппаратных кошельков с выбранным Trezor" width="70%">
+
+<hr>
+<p><strong>Шаг 4.</strong> MEW вернет вас на страницу с разными сетями и путями деривации. Выберите сеть, к которой хотите подключиться, и путь деривации. Для использования обычного ETH вы должны быть в сети ETH с путем деривации Ethereum. Вы также можете получить доступ к другим сетям, таким как Ethereum Classic (ETC), выбрав соответствующую опцию.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor16.png" alt="Изображение разрешений Trezor" width="40%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor12.png" alt="Изображение экрана экспорта ключей Trezor" width="40%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor17.png" alt="Изображение подтверждения пин кода Trezor" width="40%">
+
+<hr>
+<p><strong>Шаг 5.</strong> Вы увидите список адресов. Это новые адреса, доступные для выбора в качестве вашего основного кошелька! Выберите один из пяти, который вам нравится. (Большинство людей выбирают первый, но это не обязательно.)</p>
+<p><img src="/images/posts/hardware-wallet/trezor/Trezor13.png" alt="Изображение выбора сети Trezor" width="42.5%"> <img src="/images/posts/hardware-wallet/trezor/Trezor14.png" alt="Изображение выбора пути деривации для Trezor" width="50%"></p>
+<hr>
+<p><strong>Шаг 6.</strong> После этого вы должны попасть на страницу, которая очень похожа на страницу вашего старого кошелька. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Trezor!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor15.png" alt="Изображение выбора адреса Trezor" width="50%">
+
+<h2 id="А-что-насчет-моего-старого-кошелька"><a href="#А-что-насчет-моего-старого-кошелька" class="headerlink" title="А что насчет моего старого кошелька???"></a><strong>А что насчет моего старого кошелька???</strong></h2><p>Если вы переходите со старого кошелька и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресe Trezor, вам нужно будет перевести средства на новый адрес путем обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEW wallet, MetaMask, файла хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Trezor). Отправьте ETH и токены на ваш новый адрес Trezor, и пользуйтесь своими средствами с большей безопасностью.</p>
+<p>Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.</p>
+<h2 id="Как-мне-восстановить-доступ-к-Trezor-на-новом-устройстве"><a href="#Как-мне-восстановить-доступ-к-Trezor-на-новом-устройстве" class="headerlink" title="Как мне восстановить доступ к Trezor на новом устройстве?"></a><strong>Как мне восстановить доступ к Trezor на новом устройстве?</strong></h2><p>У Trezor есть <a href="https://wiki.trezor.io/User_manual:Recovery" target="_blank" rel="noopener">понятное и простое руководство</a> о том, как восстановить ваше устройство.</p>
+<h2 id="Решение-проблем"><a href="#Решение-проблем" class="headerlink" title="Решение проблем"></a><strong>Решение проблем</strong></h2><p>Большинство проблем с Trezor можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также нового кабеля для подключения.</p>
+<p>Как всегда, не стесняйтесь связаться с нами по адресу <a href="mailto:support@myetherwallet.com." target="_blank" rel="noopener">support@myetherwallet.com.</a> Мы всегда рады помочь!</p>
+
+      </article>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <div class="pre-post">
+      <div class="button-title">< Предыдущий</div>
+      <p class="post-title">Нет</p>
+    </div>
+  
+
+  
+    <a href="/ru/hardware-wallets/using-bitbox-with-mew/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Использование аппаратного кошелька Digital BitBox с MEW</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+    <div class="padded-wrap">
+      
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+    </div>
+  </div>
+</div>
+
+
+
+
+      <footer>
+  <div class="page-container">
+    <div class="wrap">
+      <div class="block-left">
+        <p><a href="/ru/../index.html">Домашняя страница</a></p>
+        <p><a href="https://myetherwallet.com" target="_blank">MyEtherWallet.com</a></p>
+        <p><a href="https://www.myetherwallet.com/privacy-policy" target="_blank">Конфиденциальность</a></p>
+        <p><a href="https://www.myetherwallet.com/terms-and-conditions" target="_blank">Условия</a></p>
+      </div>
+      <div class="block-right">
+        <p>© 2021 MyEtherWallet. Все права защищены.</p>
+      </div>
+    </div>
+  </div>
+  <div class="app-banner js-app-banner">
+    <p> Покупайте, храните, и отправляйте Ether и токены. Исследуйте Ethereum со своего мобильного телефона.</p>
+    <div class="app-banner-links">
+      <a href="https://www.myetherwallet.com/"><img src="../../../images/mew-icons/mew_badge.svg"></a>
+      <a href="https://apps.apple.com/app/apple-store/id1464614025?pt=118781877&ct=KB&mt=8"><img src="../../../images/mew-icons/app_store_badge.svg"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet"><img src="../../../images/mew-icons/google_play_bage.svg"></a>
+    </div>
+    <a href="javascript:void(0);" class="app-banner-close js-close-app-banner"><img src="../../../images/mew-icons/close.svg"></a>
+  </div>
+</footer>
+    </div>
+  </div>
+  <div class="site-container mobile-content">
+    <div class="site-wrap">
+      
+
+  <header>
+  <div class="header-wrap">
+    <div class="header-top-block">
+  <div class="upper-menu">
+    <label id="lang-select-label" for="lang-select" class="lang-nav-link lang-choices lang-flag"><img src="../../../images/flags/ru.svg" width="20" height="10"></label>
+    <select id="lang-select" class="hidden lang-choices" data-canonical="hardware-wallets/using-trezor-with-mew/index.html">
+      <option value="en">Select Language</option>
+      
+        <option value="en">English</option>
+      
+        <option value="ru" selected>Русский</option>
+      
+        <option value="es">Español</option>
+      
+        <option value="ja">日本語</option>
+      
+        <option value="ko">한국어</option>
+      
+        <option value="zh">简体中文</option>
+      
+    </select>
+  </div>
+  <div class="left">
+    <a href="/ru/../"><img src="../../../images/mew-logo-dark.png"></a>
+  </div>
+  <div class="menu">
+    <p>Центр поддержки</p>
+  </div>
+  <div class="right hidden">
+    <ul>
+      
+        <li><a class="main-nav-link" href="/ru/../index.html">Главная</a></li>
+      
+        <li><a class="main-nav-link" href="mailto:support@myetherwallet.com">Поддержка</a></li>
+      
+        <li>
+          <label id="lang-select-label" for="lang-select" class="lang-nav-link"><img src="../../../images/flags/ru.svg" width="40" height="20"></label>
+          <select id="lang-select" class="hidden" data-canonical="hardware-wallets/using-trezor-with-mew/index.html">
+            
+              <option value="en">English</option>
+            
+              <option value="ru" selected>Русский</option>
+            
+              <option value="es">Español</option>
+            
+              <option value="ja">日本語</option>
+            
+              <option value="ko">한국어</option>
+            
+              <option value="zh">简体中文</option>
+            
+          </select>
+        </li>
+    </ul>
+  </div>
+</div>
+
+    <div class="page-title">
+      <div class="title">Аппаратные кошельки</div>
+    </div>
+  </div>
+</header>
+  
+<div class="desktop-content">
+  <div class="breadcrumbs-container page-container">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Аппаратные кошельки]</span> Использование аппаратного кошелька Trezor с MEW</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="sidebar-primary-category">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-trezor-with-mew/">
+              <div class="active">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Использование аппаратного кошелька Trezor с MEW</p>
+                <p class="hidden">cl7ryxjfs01ijc8zlp0etb6ul</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-bitbox-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Использование аппаратного кошелька Digital BitBox с MEW</p>
+                <p class="hidden">cl7ryxjfd01hoc8zl04ad6uhw</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-bcvault-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Использование аппаратного кошелька BC Vault с MEW</p>
+                <p class="hidden">cl7ryxjff01hrc8zlsotbna5x</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-coolwallet-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Использование аппаратного кошелька CoolWallet с MEW</p>
+                <p class="hidden">cl7ryxjfj01hzc8zlqgt65te8</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-keepkey-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Использование аппаратного кошелька KeepKey с MEW</p>
+                <p class="hidden">cl7ryxjfo01icc8zl5c0nf41n</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-ledger-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование аппаратного кошелька Ledger с MEW</p>
+                <p class="hidden">cl7ryxjfq01ifc8zllbpshh33</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-secalot-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Использование аппаратного кошелька Secalot с MEW</p>
+                <p class="hidden">cl7ryxjfu01imc8zlylzbwqog</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-hardware-wallet-with-custom-node/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Использование аппаратного кошелька с кастомным узлом</p>
+                <p class="hidden">cl7ryxjfi01hwc8zlkr6mkhyw</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-hardware-with-custom-path/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Использование аппаратного кошелька с кастомным путем деривации</p>
+                <p class="hidden">cl7ryxjfl01i4c8zllt4tjxon</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/unable-to-connect-with-hardware-wallet/">
+              <div class="">
+                <div class="hidden post-index-number">10</div>
+                <p class="post-title">Не удается подключиться к аппаратному кошельку</p>
+                <p class="hidden">cl7ryxjfa01hkc8zlqpxre34o</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-ledger-hw-with-android-device/">
+              <div class="">
+                <div class="hidden post-index-number">11</div>
+                <p class="post-title">Использование аппаратного кошелька Ledger на Android-устройстве</p>
+                <p class="hidden">cl7ryxjfm01i7c8zlg94pqlcg</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="customer">
+    
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+  </div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/hardware-wallets/using-trezor-with-mew" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Использование-аппаратного-кошелька-Trezor-с-MEW"><a href="#Использование-аппаратного-кошелька-Trezor-с-MEW" class="headerlink" title="Использование аппаратного кошелька Trezor с MEW"></a><strong>Использование аппаратного кошелька Trezor с MEW</strong></h1><h6 id="мин-на-прочтение"><a href="#мин-на-прочтение" class="headerlink" title=" мин. на прочтение"></a>5 мин. на прочтение</h6><hr>
+<p>Аппаратные кошельки Trezor являются одними из самых безопасных и простых в использовании аппаратных кошельков для криптовалют. Если у вас нет такого кошелька, его можно приобрести <a href="https://trezor.io/?offer_id=12&aff_id=2029" target="_blank" rel="noopener">через веб-сайт Trezor</a>.</p>
+<p><em>Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.</em></p>
+<p>Данный аппаратный кошелек поддерживает широкий спектр криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).</p>
+<p><strong>Этот пункт очень важен.</strong> Ваше устройство Trezor является ОТДЕЛЬНЫМ кошельком. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.</p>
+<p>Ну что ж, давайте начнем!</p>
+<h2 id="Начальная-настройка"><a href="#Начальная-настройка" class="headerlink" title="Начальная настройка"></a><strong>Начальная настройка</strong></h2><p><strong>Шаг 1.</strong> Распакуйте ваш Trezor! Вы увидите несколько карт и инструкций для настройки. Внимательно следуйте этим инструкциям! Подключите Trezor к своему компьютеру и начните работу с ним. Перейдите на <a href="https://trezor.io/start" target="_blank" rel="noopener">trezor.io/start</a>, чтобы начать процесс настройки.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor1.jpg" alt="Изображение нового устройства Trezor" width="35%">
+
+<hr>
+<p><strong>Шаг 2.</strong> Выберите “Создать новый” на этой странице и выполните все необходимые действия для настройки вашего нового устройства. Первое, что стоит сделать, — “Создать резервную копию за 3 минуты”.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor2.png" alt="Изображение процесса настройки Trezor" width="80%">
+
+<hr>
+<p><strong>Шаг 3.</strong> <em>Это один из самых важных шагов.</em> Не записывайте эту фразу на вашем компьютере, не делайте фото фразы. Запишите свои 24 seed-слова в нескольких местах. НЕ ПОТЕРЯЙТЕ ИХ. Если вы потеряете эти слова, вы потеряете также и доступ ко всей своей криптовалюте. В комплекте с Ledger поставляются карточки для записи, но я предлагаю записать их еще где-нибудь. И еще раз, не сохраняйте эту фразу на своем компьютере. Используйте ручку и бумагу. Когда вы закончите, то увидите экран приведенный ниже.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor3.png" alt="Изображение процесса резервного копирования Trezor" width="80%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor4.png" alt="Изображение создания фразы Trezor" width="75%">
+
+<hr>
+<p><strong>Шаг 4.</strong> Теперь вам предложат выбрать имя для вашего устройства Trezor. Его вы будете видеть на своем устройстве при каждом подключении. Выберите что-нибудь знакомое и лично ваше!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor5.png" alt="Изображение успешного резервного копирования Trezor" width="70%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor6.png" alt="Изображение процесса названия Trezor" width="75%">
+
+<hr>
+<p><strong>Шаг 5.</strong> Теперь необходимо выбрать PIN-код. Он станет единственным способом получения доступа к вашему устройству (помимо фразы восстановления, которую вы уже записали несколько раз), поэтому очень важно выбрать безопасный, но легко запоминающийся пин-код. Не используйте комбинации <code>1111</code> или <code>1234</code>, выберите что-то более случайное и безопасное. <em>Не допускайте эту ошибку! Если вы получите сообщение, что код может быть безопаснее, сделайте его длиннее!</em></p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor7.png" alt="Изображение процесса создания пин кода" width="75%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor8.png" alt="Изображение окончательного создания пин кода" width="70%">
+
+<hr>
+<p><strong>Шаг 6.</strong> Все готово!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor9.png" alt="Изображение экрана успешной настройки" width="50%">
+
+<h2 id="Использование-Trezor-с-MEW"><a href="#Использование-Trezor-с-MEW" class="headerlink" title="Использование Trezor с MEW"></a><strong>Использование Trezor с MEW</strong></h2><p><strong>Шаг 1.</strong> Подключите ваше устройство Trezor и направляйтесь на сайт MEW.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor10.jpg" alt="Изображение подключенного и настроенного Trezor" width="35%">
+
+<hr>
+<p><strong>Шаг 2.</strong> Проверьте URL-адрес SSL сертификата MyEtherWallet Inc [US], чтобы убедиться, что вы на нашем настоящем и безопасном сайте. Вы уверены? Отлично! Перейдите на ‘Доступ к кошельку’ и выберите пункт ‘Аппаратные кошельки’. Выберите ‘Trezor’ и ‘Продолжить’. В это время Trezor все еще должен быть подключен.</p>
+<img src="/images/posts/hardware-wallet/trezor/MEW1.png" alt="Изображение главной страницы MEW" width="75%">
+
+<hr>
+<p><strong>Шаг 3.</strong> Появится всплывающее окно с запросом на предоставление разрешений MEW на чтение публичных ключей с вашего устройства Trezor. Нажмите ‘Allow once for this session’ и выберите опцию ‘Don’t ask me again’, чтобы пропускать этот шаг в будущем. Нажмите ‘Export’ на следующем экране и введите свой пин-код, после чего вас перенаправит обратно на MEW.</p>
+<img src="/images/posts/hardware-wallet/trezor/MEW2.png" alt="Изображение выбора кошелька для доступа к MEW" width="70%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor11.png" alt="Изображение категории аппаратных кошельков с выбранным Trezor" width="70%">
+
+<hr>
+<p><strong>Шаг 4.</strong> MEW вернет вас на страницу с разными сетями и путями деривации. Выберите сеть, к которой хотите подключиться, и путь деривации. Для использования обычного ETH вы должны быть в сети ETH с путем деривации Ethereum. Вы также можете получить доступ к другим сетям, таким как Ethereum Classic (ETC), выбрав соответствующую опцию.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor16.png" alt="Изображение разрешений Trezor" width="40%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor12.png" alt="Изображение экрана экспорта ключей Trezor" width="40%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor17.png" alt="Изображение подтверждения пин кода Trezor" width="40%">
+
+<hr>
+<p><strong>Шаг 5.</strong> Вы увидите список адресов. Это новые адреса, доступные для выбора в качестве вашего основного кошелька! Выберите один из пяти, который вам нравится. (Большинство людей выбирают первый, но это не обязательно.)</p>
+<p><img src="/images/posts/hardware-wallet/trezor/Trezor13.png" alt="Изображение выбора сети Trezor" width="42.5%"> <img src="/images/posts/hardware-wallet/trezor/Trezor14.png" alt="Изображение выбора пути деривации для Trezor" width="50%"></p>
+<hr>
+<p><strong>Шаг 6.</strong> После этого вы должны попасть на страницу, которая очень похожа на страницу вашего старого кошелька. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Trezor!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor15.png" alt="Изображение выбора адреса Trezor" width="50%">
+
+<h2 id="А-что-насчет-моего-старого-кошелька"><a href="#А-что-насчет-моего-старого-кошелька" class="headerlink" title="А что насчет моего старого кошелька???"></a><strong>А что насчет моего старого кошелька???</strong></h2><p>Если вы переходите со старого кошелька и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресe Trezor, вам нужно будет перевести средства на новый адрес путем обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEW wallet, MetaMask, файла хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Trezor). Отправьте ETH и токены на ваш новый адрес Trezor, и пользуйтесь своими средствами с большей безопасностью.</p>
+<p>Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.</p>
+<h2 id="Как-мне-восстановить-доступ-к-Trezor-на-новом-устройстве"><a href="#Как-мне-восстановить-доступ-к-Trezor-на-новом-устройстве" class="headerlink" title="Как мне восстановить доступ к Trezor на новом устройстве?"></a><strong>Как мне восстановить доступ к Trezor на новом устройстве?</strong></h2><p>У Trezor есть <a href="https://wiki.trezor.io/User_manual:Recovery" target="_blank" rel="noopener">понятное и простое руководство</a> о том, как восстановить ваше устройство.</p>
+<h2 id="Решение-проблем"><a href="#Решение-проблем" class="headerlink" title="Решение проблем"></a><strong>Решение проблем</strong></h2><p>Большинство проблем с Trezor можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также нового кабеля для подключения.</p>
+<p>Как всегда, не стесняйтесь связаться с нами по адресу <a href="mailto:support@myetherwallet.com." target="_blank" rel="noopener">support@myetherwallet.com.</a> Мы всегда рады помочь!</p>
+
+      </article>
+      <script
+              type="text/javascript"
+              src="https://crowdin.com/js/crowdjet/crowdjet.js">
+      </script>
+      <div
+              id="crowdjet-container"
+              data-project-id="361641"
+              style="bottom: 90px; right: 20px;">
+      </div>
+      <div
+              id="crowdjet-expand-container"
+              style="bottom: 10px; right: 20px;">
+      </div>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <div class="pre-post">
+      <div class="button-title">< Предыдущий</div>
+      <p class="post-title">Нет</p>
+    </div>
+  
+
+  
+    <a href="/ru/hardware-wallets/using-bitbox-with-mew/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Использование аппаратного кошелька Digital BitBox с MEW</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mobile-content">
+  <div class="breadcrumbs-container page-container hidden">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Аппаратные кошельки]</span> Использование аппаратного кошелька Trezor с MEW</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search hidden">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="show-list-button">
+    <p>Show all posts</p>
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </div>
+  <div class="sidebar-primary-category mobile-post-list">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-trezor-with-mew/">
+              <div class="active">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Использование аппаратного кошелька Trezor с MEW</p>
+                <p class="hidden">cl7ryxjfs01ijc8zlp0etb6ul</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-bitbox-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Использование аппаратного кошелька Digital BitBox с MEW</p>
+                <p class="hidden">cl7ryxjfd01hoc8zl04ad6uhw</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-bcvault-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Использование аппаратного кошелька BC Vault с MEW</p>
+                <p class="hidden">cl7ryxjff01hrc8zlsotbna5x</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-coolwallet-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">Использование аппаратного кошелька CoolWallet с MEW</p>
+                <p class="hidden">cl7ryxjfj01hzc8zlqgt65te8</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-keepkey-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Использование аппаратного кошелька KeepKey с MEW</p>
+                <p class="hidden">cl7ryxjfo01icc8zl5c0nf41n</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-ledger-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Использование аппаратного кошелька Ledger с MEW</p>
+                <p class="hidden">cl7ryxjfq01ifc8zllbpshh33</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-secalot-with-mew/">
+              <div class="">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Использование аппаратного кошелька Secalot с MEW</p>
+                <p class="hidden">cl7ryxjfu01imc8zlylzbwqog</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-hardware-wallet-with-custom-node/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Использование аппаратного кошелька с кастомным узлом</p>
+                <p class="hidden">cl7ryxjfi01hwc8zlkr6mkhyw</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-hardware-with-custom-path/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Использование аппаратного кошелька с кастомным путем деривации</p>
+                <p class="hidden">cl7ryxjfl01i4c8zllt4tjxon</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/unable-to-connect-with-hardware-wallet/">
+              <div class="">
+                <div class="hidden post-index-number">10</div>
+                <p class="post-title">Не удается подключиться к аппаратному кошельку</p>
+                <p class="hidden">cl7ryxjfa01hkc8zlqpxre34o</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/hardware-wallets/using-ledger-hw-with-android-device/">
+              <div class="">
+                <div class="hidden post-index-number">11</div>
+                <p class="post-title">Использование аппаратного кошелька Ledger на Android-устройстве</p>
+                <p class="hidden">cl7ryxjfm01i7c8zlg94pqlcg</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="sidebar-close-button">Close</div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/hardware-wallets/using-trezor-with-mew" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Использование-аппаратного-кошелька-Trezor-с-MEW"><a href="#Использование-аппаратного-кошелька-Trezor-с-MEW" class="headerlink" title="Использование аппаратного кошелька Trezor с MEW"></a><strong>Использование аппаратного кошелька Trezor с MEW</strong></h1><h6 id="мин-на-прочтение"><a href="#мин-на-прочтение" class="headerlink" title=" мин. на прочтение"></a>5 мин. на прочтение</h6><hr>
+<p>Аппаратные кошельки Trezor являются одними из самых безопасных и простых в использовании аппаратных кошельков для криптовалют. Если у вас нет такого кошелька, его можно приобрести <a href="https://trezor.io/?offer_id=12&aff_id=2029" target="_blank" rel="noopener">через веб-сайт Trezor</a>.</p>
+<p><em>Пожалуйста, приобретайте аппаратные кошельки в официальном магазине. На аппаратные кошельки, купленные на Ebay или у других поставщиков, не распространяются гарантии безопасности.</em></p>
+<p>Данный аппаратный кошелек поддерживает широкий спектр криптовалют, но это руководство было специально разработано для описания работы с токенам Ethereum и ERC-20 с использованием MyEtherWallet (MEW).</p>
+<p><strong>Этот пункт очень важен.</strong> Ваше устройство Trezor является ОТДЕЛЬНЫМ кошельком. Вы не сможете импортировать свой старый адрес MEW или использовать старый кошелек с устройством. Кошелек обладает собственным закрытым ключом, зашифрованным в самом устройстве. Вам нужно будет выбрать новый адрес ethereum для использования с устройством и пользоваться им как новым основным кошельком.</p>
+<p>Ну что ж, давайте начнем!</p>
+<h2 id="Начальная-настройка"><a href="#Начальная-настройка" class="headerlink" title="Начальная настройка"></a><strong>Начальная настройка</strong></h2><p><strong>Шаг 1.</strong> Распакуйте ваш Trezor! Вы увидите несколько карт и инструкций для настройки. Внимательно следуйте этим инструкциям! Подключите Trezor к своему компьютеру и начните работу с ним. Перейдите на <a href="https://trezor.io/start" target="_blank" rel="noopener">trezor.io/start</a>, чтобы начать процесс настройки.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor1.jpg" alt="Изображение нового устройства Trezor" width="35%">
+
+<hr>
+<p><strong>Шаг 2.</strong> Выберите “Создать новый” на этой странице и выполните все необходимые действия для настройки вашего нового устройства. Первое, что стоит сделать, — “Создать резервную копию за 3 минуты”.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor2.png" alt="Изображение процесса настройки Trezor" width="80%">
+
+<hr>
+<p><strong>Шаг 3.</strong> <em>Это один из самых важных шагов.</em> Не записывайте эту фразу на вашем компьютере, не делайте фото фразы. Запишите свои 24 seed-слова в нескольких местах. НЕ ПОТЕРЯЙТЕ ИХ. Если вы потеряете эти слова, вы потеряете также и доступ ко всей своей криптовалюте. В комплекте с Ledger поставляются карточки для записи, но я предлагаю записать их еще где-нибудь. И еще раз, не сохраняйте эту фразу на своем компьютере. Используйте ручку и бумагу. Когда вы закончите, то увидите экран приведенный ниже.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor3.png" alt="Изображение процесса резервного копирования Trezor" width="80%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor4.png" alt="Изображение создания фразы Trezor" width="75%">
+
+<hr>
+<p><strong>Шаг 4.</strong> Теперь вам предложат выбрать имя для вашего устройства Trezor. Его вы будете видеть на своем устройстве при каждом подключении. Выберите что-нибудь знакомое и лично ваше!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor5.png" alt="Изображение успешного резервного копирования Trezor" width="70%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor6.png" alt="Изображение процесса названия Trezor" width="75%">
+
+<hr>
+<p><strong>Шаг 5.</strong> Теперь необходимо выбрать PIN-код. Он станет единственным способом получения доступа к вашему устройству (помимо фразы восстановления, которую вы уже записали несколько раз), поэтому очень важно выбрать безопасный, но легко запоминающийся пин-код. Не используйте комбинации <code>1111</code> или <code>1234</code>, выберите что-то более случайное и безопасное. <em>Не допускайте эту ошибку! Если вы получите сообщение, что код может быть безопаснее, сделайте его длиннее!</em></p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor7.png" alt="Изображение процесса создания пин кода" width="75%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor8.png" alt="Изображение окончательного создания пин кода" width="70%">
+
+<hr>
+<p><strong>Шаг 6.</strong> Все готово!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor9.png" alt="Изображение экрана успешной настройки" width="50%">
+
+<h2 id="Использование-Trezor-с-MEW"><a href="#Использование-Trezor-с-MEW" class="headerlink" title="Использование Trezor с MEW"></a><strong>Использование Trezor с MEW</strong></h2><p><strong>Шаг 1.</strong> Подключите ваше устройство Trezor и направляйтесь на сайт MEW.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor10.jpg" alt="Изображение подключенного и настроенного Trezor" width="35%">
+
+<hr>
+<p><strong>Шаг 2.</strong> Проверьте URL-адрес SSL сертификата MyEtherWallet Inc [US], чтобы убедиться, что вы на нашем настоящем и безопасном сайте. Вы уверены? Отлично! Перейдите на ‘Доступ к кошельку’ и выберите пункт ‘Аппаратные кошельки’. Выберите ‘Trezor’ и ‘Продолжить’. В это время Trezor все еще должен быть подключен.</p>
+<img src="/images/posts/hardware-wallet/trezor/MEW1.png" alt="Изображение главной страницы MEW" width="75%">
+
+<hr>
+<p><strong>Шаг 3.</strong> Появится всплывающее окно с запросом на предоставление разрешений MEW на чтение публичных ключей с вашего устройства Trezor. Нажмите ‘Allow once for this session’ и выберите опцию ‘Don’t ask me again’, чтобы пропускать этот шаг в будущем. Нажмите ‘Export’ на следующем экране и введите свой пин-код, после чего вас перенаправит обратно на MEW.</p>
+<img src="/images/posts/hardware-wallet/trezor/MEW2.png" alt="Изображение выбора кошелька для доступа к MEW" width="70%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor11.png" alt="Изображение категории аппаратных кошельков с выбранным Trezor" width="70%">
+
+<hr>
+<p><strong>Шаг 4.</strong> MEW вернет вас на страницу с разными сетями и путями деривации. Выберите сеть, к которой хотите подключиться, и путь деривации. Для использования обычного ETH вы должны быть в сети ETH с путем деривации Ethereum. Вы также можете получить доступ к другим сетям, таким как Ethereum Classic (ETC), выбрав соответствующую опцию.</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor16.png" alt="Изображение разрешений Trezor" width="40%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor12.png" alt="Изображение экрана экспорта ключей Trezor" width="40%">
+
+<img src="/images/posts/hardware-wallet/trezor/Trezor17.png" alt="Изображение подтверждения пин кода Trezor" width="40%">
+
+<hr>
+<p><strong>Шаг 5.</strong> Вы увидите список адресов. Это новые адреса, доступные для выбора в качестве вашего основного кошелька! Выберите один из пяти, который вам нравится. (Большинство людей выбирают первый, но это не обязательно.)</p>
+<p><img src="/images/posts/hardware-wallet/trezor/Trezor13.png" alt="Изображение выбора сети Trezor" width="42.5%"> <img src="/images/posts/hardware-wallet/trezor/Trezor14.png" alt="Изображение выбора пути деривации для Trezor" width="50%"></p>
+<hr>
+<p><strong>Шаг 6.</strong> После этого вы должны попасть на страницу, которая очень похожа на страницу вашего старого кошелька. Отличная работа! Теперь вы официально используете свой новый аппаратный кошелек Trezor!</p>
+<img src="/images/posts/hardware-wallet/trezor/Trezor15.png" alt="Изображение выбора адреса Trezor" width="50%">
+
+<h2 id="А-что-насчет-моего-старого-кошелька"><a href="#А-что-насчет-моего-старого-кошелька" class="headerlink" title="А что насчет моего старого кошелька???"></a><strong>А что насчет моего старого кошелька???</strong></h2><p>Если вы переходите со старого кошелька и хотите, чтобы ваши ETH и токены были доступны на новом безопасном адресe Trezor, вам нужно будет перевести средства на новый адрес путем обычной транзакции. Это можно сделать, войдя в ваш старый кошелек с помощью MEW wallet, MetaMask, файла хранилища ключей или закрытого ключа (как вы обычно делали это до перехода на Trezor). Отправьте ETH и токены на ваш новый адрес Trezor, и пользуйтесь своими средствами с большей безопасностью.</p>
+<p>Обращаем ваше внимание, что для перевода токенов со старого кошелька потребуется оплата комиссии газа в ETH. Мы рекомендуем иметь 0.01 ETH, которых хватит для совершения 2—3 транзакций.</p>
+<h2 id="Как-мне-восстановить-доступ-к-Trezor-на-новом-устройстве"><a href="#Как-мне-восстановить-доступ-к-Trezor-на-новом-устройстве" class="headerlink" title="Как мне восстановить доступ к Trezor на новом устройстве?"></a><strong>Как мне восстановить доступ к Trezor на новом устройстве?</strong></h2><p>У Trezor есть <a href="https://wiki.trezor.io/User_manual:Recovery" target="_blank" rel="noopener">понятное и простое руководство</a> о том, как восстановить ваше устройство.</p>
+<h2 id="Решение-проблем"><a href="#Решение-проблем" class="headerlink" title="Решение проблем"></a><strong>Решение проблем</strong></h2><p>Большинство проблем с Trezor можно решить, выполнив принудительное обновление страницы (с помощью сочетания клавиш CTRL+F5), использования последней версии прошивки, а также нового кабеля для подключения.</p>
+<p>Как всегда, не стесняйтесь связаться с нами по адресу <a href="mailto:support@myetherwallet.com." target="_blank" rel="noopener">support@myetherwallet.com.</a> Мы всегда рады помочь!</p>
+
+      </article>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <div class="pre-post">
+      <div class="button-title">< Предыдущий</div>
+      <p class="post-title">Нет</p>
+    </div>
+  
+
+  
+    <a href="/ru/hardware-wallets/using-bitbox-with-mew/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Использование аппаратного кошелька Digital BitBox с MEW</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+    <div class="padded-wrap">
+      
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+    </div>
+  </div>
+</div>
+
+
+      <footer>
+  <div class="page-container">
+    <div class="wrap">
+      <div class="block-left">
+        <p><a href="/ru/../index.html">Домашняя страница</a></p>
+        <p class="hidden"><a href="https://myetherwallet.com" target="_blank">MyEtherWallet.com</a></p>
+        <p><a href="https://www.myetherwallet.com/privacy-policy" target="_blank">Конфиденциальность</a></p>
+        <p><a href="https://www.myetherwallet.com/terms-and-conditions" target="_blank">Условия</a></p>
+      </div>
+      <div class="block-right">
+        <p>© 2021 MyEtherWallet. Все права защищены.</p>
+      </div>
+    </div>
+  </div>
+  <div class="app-banner js-app-banner">
+    <p><p> Покупайте, храните, и отправляйте Ether и токены. Исследуйте Ethereum со своего мобильного телефона.</p></p>
+    <a href="javascript:void(0);" class="app-banner-get js-get-app">
+      Get the app
+      <img src="../../../images/mew-icons/arrow.svg">
+    </a>
+    <div class="app-banner-links">
+      <a href="https://www.myetherwallet.com/"><img src="../../../images/mew-icons/mew_badge.svg"></a>
+      <a href="https://apps.apple.com/app/apple-store/id1464614025?pt=118781877&ct=KB&mt=8"><img src="../../../images/mew-icons/app_store_badge.svg"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet"><img src="../../../images/mew-icons/google_play_bage.svg"></a>
+    </div>
+    <a href="javascript:void(0);" class="app-banner-close js-close-app-banner"><img src="../../../images/mew-icons/close.svg"></a>
+  </div>
+</footer>
+    </div>
+  </div>
+
+  <script src="../../../js/jquery.min.js"></script>
+<script src="../../../js/initialization.js"></script>
+<script src="../../../js/mew/accordion.js"></script>
+<script src="../../../js/mew/youtube-popup.js"></script>
+<script src="../../../js/mew/sidebar.js"></script>
+<script src="../../../js/mew/sidebar-post-search.js"></script>
+<script src="../../../js/mew/header-post-search.js"></script>
+
+</body>
+</html>

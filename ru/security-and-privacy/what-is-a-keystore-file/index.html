@@ -1,0 +1,2238 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="generator" content="Hexo 3.9.0">
+    <meta charset="utf-8">
+    
+    <link rel="canonical" href="https://kb.myetherwallet.com/security-and-privacy/what-is-a-keystore-file/">
+    <title>
+        Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль? |
+        
+        MyEtherWallet Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="../../../css/google-fonts.css">
+<link rel="stylesheet" href="../../../css/font-awesome.css">
+
+    <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "name" : "MyEtherWallet Knowledge Base",
+    "url" : "https://kb.myetherwallet.com"
+  }
+</script>
+
+<script type="application/ld+json">
+  { "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "MyEtherWallet",
+    "url" : "https://www.myetherwallet.com",
+    "logo": "https://kb.myetherwallet.com/images/mew-logo-dark.png",
+    "sameAs" : [ "" ]
+  }
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://kb.myetherwallet.com"
+    },
+    "headline": "Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?",
+
+
+        "datePublished": "2018-06-01T00:05:00-07:00",
+
+
+    "dateModified": "2022-09-06T16:54:04-07:00",
+
+
+    "author": {
+        "@type": "Person",
+        "name": "MyEtherWallet (MEW)"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "MyEtherWallet ",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://kb.myetherwallet.com/images/mew-logo-dark.png"
+        }
+    }
+}
+
+</script>
+<meta property="og:site_name" content="MyEtherWallet Knowledgebase">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?">
+<meta property="og:description" content="Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?">
+<meta property="og:url" content="https://kb.myetherwallet.com/ru/security-and-privacy/what-is-a-keystore-file">
+<meta property="article:published_time" content="2018-06-01T00:05:00-07:00">
+<meta property="article:modified_time" content="2022-09-06T16:54:04-07:00">
+
+    <meta property="article:tag" content="JSON">
+
+    <meta property="article:tag" content="Хранилище ключей">
+
+    <meta property="article:tag" content="Сменить">
+
+    <meta property="article:tag" content="Пароль">
+
+<meta property="article:publisher" content="https://www.facebook.com/myetherwallet">
+
+    <link rel="alternate" hreflang="en" href="https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/">
+
+    <link rel="alternate" hreflang="ru" href="https://kb.myetherwallet.com/ru/security-and-privacy/what-is-a-keystore-file/">
+
+    <link rel="alternate" hreflang="es" href="https://kb.myetherwallet.com/es/security-and-privacy/what-is-a-keystore-file/">
+
+    <link rel="alternate" hreflang="ja" href="https://kb.myetherwallet.com/ja/security-and-privacy/what-is-a-keystore-file/">
+
+    <link rel="alternate" hreflang="ko" href="https://kb.myetherwallet.com/ko/security-and-privacy/what-is-a-keystore-file/">
+
+    <link rel="alternate" hreflang="zh" href="https://kb.myetherwallet.com/zh/security-and-privacy/what-is-a-keystore-file/">
+
+
+    <link rel="alternate" href="https://kb.myetherwallet.com/security/keystore-file.html">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?">
+<meta name="twitter:description" content="Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?">
+<meta name="twitter:url" content="https://kb.myetherwallet.com/ru/security-and-privacy/what-is-a-keystore-file">
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="MyEtherWallet (MEW)">
+<meta name="twitter:label2" content="Filed under">
+<meta name="twitter:data2" content="JSON Хранилище ключей Сменить Пароль">
+<meta name="twitter:site" content="@myetherwallet">
+
+
+    
+        <link rel="icon" href="/favicon.png">
+    
+
+    <link rel="stylesheet" href="../../../css/style.css">
+</head>
+</html>
+<body>
+
+  <div class="site-container desktop-content">
+    <div class="site-wrap">
+      
+
+
+  <header>
+  <div class="page-container">
+    <div class="header-wrap">
+      <div class="header-top-block">
+    <div class="left">
+        <a href="/ru/../"><img src="../../../images/mew-logo-white.png"></a>
+        <p>Центр поддержки</p>
+    </div>
+    <div class="right">
+        <ul>
+            
+                <li><a class="main-nav-link" href="/ru/../index.html">Главная</a></li>
+            
+                <li><a class="main-nav-link" href="mailto:support@myetherwallet.com">Поддержка</a></li>
+            
+            <li>
+                <!-- 
+                    <span value="0">0 </span>
+                 -->
+                <label id="lang-select-label" for="lang-select" class="lang-nav-link"><img src="../../../images/flags/ru.svg" width="40" height="20"></label>
+                <select id="lang-select" class="hidden" data-canonical="security-and-privacy/what-is-a-keystore-file/index.html">
+                    
+                    <option value="en">English</option>
+                    
+                    <option value="ru" selected>Русский</option>
+                    
+                </select>
+            </li>
+        </ul>
+    </div>
+</div>
+
+      <div class="page-title">
+        <div class="title">Безопасность и Приватность</div>
+      </div>
+    </div>
+  </div>
+</header>
+  
+<div class="desktop-content">
+  <div class="breadcrumbs-container page-container">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Безопасность и Приватность]</span> Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="sidebar-primary-category">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/lost-private-key/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Утрата закрытого ключа</p>
+                <p class="hidden">cl7ryxjhd01l6c8zlkx81ppb8</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Невозможность выдачи одинаковых публичных адресов разным людям со стороны MEW</p>
+                <p class="hidden">cl7ryxjhj01lec8zlk6mvf7lc</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/private-key-not-working/">
+              <div class="">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Закрытый ключ не работает</p>
+                <p class="hidden">cl7ryxjho01lmc8zls6wgblbh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/not-recommended/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">При доступе к кошельку MEW показывает сообщение «Не рекомендуется»</p>
+                <p class="hidden">cl7ryxjhu01ltc8zld0b10207</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Советы: как избежать фишинга / мошенничества</p>
+                <p class="hidden">cl7ryxjhz01m3c8zlekpsy3py</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/should-i-keep-eth-on-multiple-addresses/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?</p>
+                <p class="hidden">cl7ryxjhr01lqc8zl8i7yo159</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-is-a-keystore-file/">
+              <div class="active">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</p>
+                <p class="hidden">cl7ryxjhv01lwc8zl091pbv10</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/mnemonic-phrase-password/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Mnemonic Phrase: Should I Include an Extra Word?</p>
+                <p class="hidden">cl7ryxjhg01lac8zln7dcq3et</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/mnemonic-phrase-extra-word/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Фраза восстановления: Стоит ли мне включить дополнительное слово?</p>
+                <p class="hidden">cl7ryxjhm01lic8zl5a7lanuh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-is-a-mnemonic-phrase/">
+              <div class="">
+                <div class="hidden post-index-number">10</div>
+                <p class="post-title">Что такое фраза для восстановления?</p>
+                <p class="hidden">cl7ryxjhx01m0c8zlg5qjhx2d</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/">
+              <div class="">
+                <div class="hidden post-index-number">11</div>
+                <p class="post-title">Что делать, если ваши средства украли</p>
+                <p class="hidden">cl7ryxji201m7c8zlksnc7mh1</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="customer">
+    
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+  </div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/security-and-privacy/what-is-a-keystore-file" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Что-такое-файл-JSON-или-же-файл-хранилища-ключей-Могу-ли-я-изменить-свой-пароль"><a href="#Что-такое-файл-JSON-или-же-файл-хранилища-ключей-Могу-ли-я-изменить-свой-пароль" class="headerlink" title="Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?"></a><strong>Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</strong></h1><h4 id="Файлы-хранилища-ключей-или-же-JSON-файлы-не-рекомендуется-использовать-для-получения-доступа-к-MyEtherWallet-MEW-Для-получения-дополнительной-информации-о-других-способах-доступа-ознакомьтесь-с-нашей-статьей-о-том-как-получить-доступ-к-кошельку"><a href="#Файлы-хранилища-ключей-или-же-JSON-файлы-не-рекомендуется-использовать-для-получения-доступа-к-MyEtherWallet-MEW-Для-получения-дополнительной-информации-о-других-способах-доступа-ознакомьтесь-с-нашей-статьей-о-том-как-получить-доступ-к-кошельку" class="headerlink" title="Файлы хранилища ключей, или же JSON-файлы не рекомендуется использовать для получения доступа к MyEtherWallet (MEW).  Для получения дополнительной информации о других способах доступа ознакомьтесь с нашей статьей о том,как получить доступ к кошельку."></a><strong>Файлы хранилища ключей, или же JSON-файлы не рекомендуется использовать для получения доступа к MyEtherWallet (MEW).  Для получения дополнительной информации о других способах доступа ознакомьтесь с нашей статьей о том,<a href="/ru/getting-started/how-to-access-your-wallet/">как получить доступ к кошельку</a>.</strong></h4><h6 id="Время-прочтения-мин"><a href="#Время-прочтения-мин" class="headerlink" title="Время прочтения:  мин."></a>Время прочтения:  мин.</h6><hr>
+<p>Ваш файл хранилища ключей, или же JSON-файл, содержит зашифрованную версию вашего закрытого ключа — это просто ваш закрытый ключ, закодированный в секретную строку символов. Взять, к примеру, слово apple. Если зашифровать это слово с разницей в 4 символа по алфавиту, оно будет выглядеть как dssoh. На первый взгляд совершенно непонятно, что означает dssoh. Однако если вы покажете кому-то это слово и расскажите, как вы его зашифровали, то этот человек сможет расшифровать его и получить слово apple! Это <strong>очень</strong> упрощенная версия того, как работает шифрование, но она дает представление о процессе.</p>
+<p>Когда вы указываете свой пароль при создании кошелька, то он используется для шифрования вашего закрытого ключа в файл хранилища ключей, или же JSON-файл. Если открыть этот файл, то вы увидите тарабарщину (лучше этого не делать — не открывайте свой JSON-файл!). Этот файл просто содержит ваш зашифрованный закрытый ключ, поэтому чтобы разблокировать свой кошелек с помощью этого метода, вам нужно использовать выбранный пароль. Вы не можете изменить свой пароль, не создав совершенно новый файл хранилища ключей, или же JSON-файл.</p>
+<p>Важно отметить, что надежность вашего пароля напрямую связана с целостностью файла хранилища ключей, или же JSON-файла. Если вы выберете слабый пароль, и хакер завладеет вашим зашифрованным ключом, он сможет подбирать его до тех пор, пока не обнаружит, какой пароль вы использовали. Выберите надежный пароль, чтобы шифрование было надежным!</p>
+<h2 id="Чтобы-изменить-файл-хранилища-ключей-и-пароль"><a href="#Чтобы-изменить-файл-хранилища-ключей-и-пароль" class="headerlink" title="Чтобы изменить файл хранилища ключей и пароль:"></a><strong>Чтобы изменить файл хранилища ключей и пароль:</strong></h2><p>Как указано выше, вы не можете изменить свой пароль, не создав совершенно новый файл JSON.</p>
+<p><strong>Шаг 1.</strong> Скачайте и установите наше <a href="https://chrome.google.com/webstore/detail/myetherwallet/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en" target="_blank" rel="noopener">расширение MEW для Chrome</a>.</p>
+<p><strong>Шаг 2.</strong> В расширении добавьте “Новый кошелек”, введя ваш закрытый ключ.</p>
+<ul>
+<li>Это не означает создание совершенно нового кошелька. Это означает, что вы добавите свой существующий кошелек в качестве нового кошелька в расширение.</li>
+</ul>
+<p><strong>Шаг 3.</strong> Введите надежный пароль и сохраните кошелек.</p>
+<ul>
+<li>Это будет новый пароль для вашего JSON-файла, поэтому выбирайте его хорошо подумав.</li>
+</ul>
+<p><strong>Шаг 4.</strong> Направляйтесь в раздел ‘Мои кошельки’ (Мy Wallets) в расширении и нажмите на три вертикальные точки в правом верхнем углу кошелька, затем нажмите ‘Обзор’ (View).</p>
+<p><strong>Шаг 5.</strong> Введите только что созданный пароль.</p>
+<p><strong>Шаг 6.</strong> Вы будете перенаправлены в раздел, где отображается информация о вашем кошельке. В этом разделе вы можете скачать новый файл хранилища ключей (JSON-файл) и использовать его для доступа в будущем.</p>
+<p>После загрузки нового файла хранилища ключей (JSON-файла) вы сможете продолжить использовать наше расширение для Chrome или же вернуться к использованию обычного MEW. Однако, поскольку вы используете файл хранилища ключей (JSON-файл), мы настоятельно рекомендуем научиться <a href="/ru/offline/offline-mew-looks-weird/">использовать MEW в оффлайн-режиме</a> для обеспечения безопасности вашей информации.</p>
+
+      </article>
+      <script
+              type="text/javascript"
+              src="https://crowdin.com/js/crowdjet/crowdjet.js">
+      </script>
+      <div
+              id="crowdjet-container"
+              data-project-id="361641"
+              style="bottom: 90px; right: 20px;">
+      </div>
+      <div
+              id="crowdjet-expand-container"
+              style="bottom: 10px; right: 20px;">
+      </div>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/security-and-privacy/should-i-keep-eth-on-multiple-addresses/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/security-and-privacy/mnemonic-phrase-password/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Mnemonic Phrase: Should I Include an Extra Word?</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mobile-content">
+  <div class="breadcrumbs-container page-container hidden">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Безопасность и Приватность]</span> Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search hidden">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="show-list-button">
+    <p>Show all posts</p>
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </div>
+  <div class="sidebar-primary-category mobile-post-list">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/lost-private-key/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Утрата закрытого ключа</p>
+                <p class="hidden">cl7ryxjhd01l6c8zlkx81ppb8</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Невозможность выдачи одинаковых публичных адресов разным людям со стороны MEW</p>
+                <p class="hidden">cl7ryxjhj01lec8zlk6mvf7lc</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/private-key-not-working/">
+              <div class="">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Закрытый ключ не работает</p>
+                <p class="hidden">cl7ryxjho01lmc8zls6wgblbh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/not-recommended/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">При доступе к кошельку MEW показывает сообщение «Не рекомендуется»</p>
+                <p class="hidden">cl7ryxjhu01ltc8zld0b10207</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Советы: как избежать фишинга / мошенничества</p>
+                <p class="hidden">cl7ryxjhz01m3c8zlekpsy3py</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/should-i-keep-eth-on-multiple-addresses/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?</p>
+                <p class="hidden">cl7ryxjhr01lqc8zl8i7yo159</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-is-a-keystore-file/">
+              <div class="active">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</p>
+                <p class="hidden">cl7ryxjhv01lwc8zl091pbv10</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/mnemonic-phrase-password/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Mnemonic Phrase: Should I Include an Extra Word?</p>
+                <p class="hidden">cl7ryxjhg01lac8zln7dcq3et</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/mnemonic-phrase-extra-word/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Фраза восстановления: Стоит ли мне включить дополнительное слово?</p>
+                <p class="hidden">cl7ryxjhm01lic8zl5a7lanuh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-is-a-mnemonic-phrase/">
+              <div class="">
+                <div class="hidden post-index-number">10</div>
+                <p class="post-title">Что такое фраза для восстановления?</p>
+                <p class="hidden">cl7ryxjhx01m0c8zlg5qjhx2d</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/">
+              <div class="">
+                <div class="hidden post-index-number">11</div>
+                <p class="post-title">Что делать, если ваши средства украли</p>
+                <p class="hidden">cl7ryxji201m7c8zlksnc7mh1</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="sidebar-close-button">Close</div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/security-and-privacy/what-is-a-keystore-file" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Что-такое-файл-JSON-или-же-файл-хранилища-ключей-Могу-ли-я-изменить-свой-пароль"><a href="#Что-такое-файл-JSON-или-же-файл-хранилища-ключей-Могу-ли-я-изменить-свой-пароль" class="headerlink" title="Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?"></a><strong>Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</strong></h1><h4 id="Файлы-хранилища-ключей-или-же-JSON-файлы-не-рекомендуется-использовать-для-получения-доступа-к-MyEtherWallet-MEW-Для-получения-дополнительной-информации-о-других-способах-доступа-ознакомьтесь-с-нашей-статьей-о-том-как-получить-доступ-к-кошельку"><a href="#Файлы-хранилища-ключей-или-же-JSON-файлы-не-рекомендуется-использовать-для-получения-доступа-к-MyEtherWallet-MEW-Для-получения-дополнительной-информации-о-других-способах-доступа-ознакомьтесь-с-нашей-статьей-о-том-как-получить-доступ-к-кошельку" class="headerlink" title="Файлы хранилища ключей, или же JSON-файлы не рекомендуется использовать для получения доступа к MyEtherWallet (MEW).  Для получения дополнительной информации о других способах доступа ознакомьтесь с нашей статьей о том,как получить доступ к кошельку."></a><strong>Файлы хранилища ключей, или же JSON-файлы не рекомендуется использовать для получения доступа к MyEtherWallet (MEW).  Для получения дополнительной информации о других способах доступа ознакомьтесь с нашей статьей о том,<a href="/ru/getting-started/how-to-access-your-wallet/">как получить доступ к кошельку</a>.</strong></h4><h6 id="Время-прочтения-мин"><a href="#Время-прочтения-мин" class="headerlink" title="Время прочтения:  мин."></a>Время прочтения:  мин.</h6><hr>
+<p>Ваш файл хранилища ключей, или же JSON-файл, содержит зашифрованную версию вашего закрытого ключа — это просто ваш закрытый ключ, закодированный в секретную строку символов. Взять, к примеру, слово apple. Если зашифровать это слово с разницей в 4 символа по алфавиту, оно будет выглядеть как dssoh. На первый взгляд совершенно непонятно, что означает dssoh. Однако если вы покажете кому-то это слово и расскажите, как вы его зашифровали, то этот человек сможет расшифровать его и получить слово apple! Это <strong>очень</strong> упрощенная версия того, как работает шифрование, но она дает представление о процессе.</p>
+<p>Когда вы указываете свой пароль при создании кошелька, то он используется для шифрования вашего закрытого ключа в файл хранилища ключей, или же JSON-файл. Если открыть этот файл, то вы увидите тарабарщину (лучше этого не делать — не открывайте свой JSON-файл!). Этот файл просто содержит ваш зашифрованный закрытый ключ, поэтому чтобы разблокировать свой кошелек с помощью этого метода, вам нужно использовать выбранный пароль. Вы не можете изменить свой пароль, не создав совершенно новый файл хранилища ключей, или же JSON-файл.</p>
+<p>Важно отметить, что надежность вашего пароля напрямую связана с целостностью файла хранилища ключей, или же JSON-файла. Если вы выберете слабый пароль, и хакер завладеет вашим зашифрованным ключом, он сможет подбирать его до тех пор, пока не обнаружит, какой пароль вы использовали. Выберите надежный пароль, чтобы шифрование было надежным!</p>
+<h2 id="Чтобы-изменить-файл-хранилища-ключей-и-пароль"><a href="#Чтобы-изменить-файл-хранилища-ключей-и-пароль" class="headerlink" title="Чтобы изменить файл хранилища ключей и пароль:"></a><strong>Чтобы изменить файл хранилища ключей и пароль:</strong></h2><p>Как указано выше, вы не можете изменить свой пароль, не создав совершенно новый файл JSON.</p>
+<p><strong>Шаг 1.</strong> Скачайте и установите наше <a href="https://chrome.google.com/webstore/detail/myetherwallet/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en" target="_blank" rel="noopener">расширение MEW для Chrome</a>.</p>
+<p><strong>Шаг 2.</strong> В расширении добавьте “Новый кошелек”, введя ваш закрытый ключ.</p>
+<ul>
+<li>Это не означает создание совершенно нового кошелька. Это означает, что вы добавите свой существующий кошелек в качестве нового кошелька в расширение.</li>
+</ul>
+<p><strong>Шаг 3.</strong> Введите надежный пароль и сохраните кошелек.</p>
+<ul>
+<li>Это будет новый пароль для вашего JSON-файла, поэтому выбирайте его хорошо подумав.</li>
+</ul>
+<p><strong>Шаг 4.</strong> Направляйтесь в раздел ‘Мои кошельки’ (Мy Wallets) в расширении и нажмите на три вертикальные точки в правом верхнем углу кошелька, затем нажмите ‘Обзор’ (View).</p>
+<p><strong>Шаг 5.</strong> Введите только что созданный пароль.</p>
+<p><strong>Шаг 6.</strong> Вы будете перенаправлены в раздел, где отображается информация о вашем кошельке. В этом разделе вы можете скачать новый файл хранилища ключей (JSON-файл) и использовать его для доступа в будущем.</p>
+<p>После загрузки нового файла хранилища ключей (JSON-файла) вы сможете продолжить использовать наше расширение для Chrome или же вернуться к использованию обычного MEW. Однако, поскольку вы используете файл хранилища ключей (JSON-файл), мы настоятельно рекомендуем научиться <a href="/ru/offline/offline-mew-looks-weird/">использовать MEW в оффлайн-режиме</a> для обеспечения безопасности вашей информации.</p>
+
+      </article>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/security-and-privacy/should-i-keep-eth-on-multiple-addresses/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/security-and-privacy/mnemonic-phrase-password/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Mnemonic Phrase: Should I Include an Extra Word?</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+    <div class="padded-wrap">
+      
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+    </div>
+  </div>
+</div>
+
+
+
+
+      <footer>
+  <div class="page-container">
+    <div class="wrap">
+      <div class="block-left">
+        <p><a href="/ru/../index.html">Домашняя страница</a></p>
+        <p><a href="https://myetherwallet.com" target="_blank">MyEtherWallet.com</a></p>
+        <p><a href="https://www.myetherwallet.com/privacy-policy" target="_blank">Конфиденциальность</a></p>
+        <p><a href="https://www.myetherwallet.com/terms-and-conditions" target="_blank">Условия</a></p>
+      </div>
+      <div class="block-right">
+        <p>© 2021 MyEtherWallet. Все права защищены.</p>
+      </div>
+    </div>
+  </div>
+  <div class="app-banner js-app-banner">
+    <p> Покупайте, храните, и отправляйте Ether и токены. Исследуйте Ethereum со своего мобильного телефона.</p>
+    <div class="app-banner-links">
+      <a href="https://www.myetherwallet.com/"><img src="../../../images/mew-icons/mew_badge.svg"></a>
+      <a href="https://apps.apple.com/app/apple-store/id1464614025?pt=118781877&ct=KB&mt=8"><img src="../../../images/mew-icons/app_store_badge.svg"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet"><img src="../../../images/mew-icons/google_play_bage.svg"></a>
+    </div>
+    <a href="javascript:void(0);" class="app-banner-close js-close-app-banner"><img src="../../../images/mew-icons/close.svg"></a>
+  </div>
+</footer>
+    </div>
+  </div>
+  <div class="site-container mobile-content">
+    <div class="site-wrap">
+      
+
+  <header>
+  <div class="header-wrap">
+    <div class="header-top-block">
+  <div class="upper-menu">
+    <label id="lang-select-label" for="lang-select" class="lang-nav-link lang-choices lang-flag"><img src="../../../images/flags/ru.svg" width="20" height="10"></label>
+    <select id="lang-select" class="hidden lang-choices" data-canonical="security-and-privacy/what-is-a-keystore-file/index.html">
+      <option value="en">Select Language</option>
+      
+        <option value="en">English</option>
+      
+        <option value="ru" selected>Русский</option>
+      
+        <option value="es">Español</option>
+      
+        <option value="ja">日本語</option>
+      
+        <option value="ko">한국어</option>
+      
+        <option value="zh">简体中文</option>
+      
+    </select>
+  </div>
+  <div class="left">
+    <a href="/ru/../"><img src="../../../images/mew-logo-dark.png"></a>
+  </div>
+  <div class="menu">
+    <p>Центр поддержки</p>
+  </div>
+  <div class="right hidden">
+    <ul>
+      
+        <li><a class="main-nav-link" href="/ru/../index.html">Главная</a></li>
+      
+        <li><a class="main-nav-link" href="mailto:support@myetherwallet.com">Поддержка</a></li>
+      
+        <li>
+          <label id="lang-select-label" for="lang-select" class="lang-nav-link"><img src="../../../images/flags/ru.svg" width="40" height="20"></label>
+          <select id="lang-select" class="hidden" data-canonical="security-and-privacy/what-is-a-keystore-file/index.html">
+            
+              <option value="en">English</option>
+            
+              <option value="ru" selected>Русский</option>
+            
+              <option value="es">Español</option>
+            
+              <option value="ja">日本語</option>
+            
+              <option value="ko">한국어</option>
+            
+              <option value="zh">简体中文</option>
+            
+          </select>
+        </li>
+    </ul>
+  </div>
+</div>
+
+    <div class="page-title">
+      <div class="title">Безопасность и Приватность</div>
+    </div>
+  </div>
+</header>
+  
+<div class="desktop-content">
+  <div class="breadcrumbs-container page-container">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Безопасность и Приватность]</span> Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="sidebar-primary-category">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/lost-private-key/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Утрата закрытого ключа</p>
+                <p class="hidden">cl7ryxjhd01l6c8zlkx81ppb8</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Невозможность выдачи одинаковых публичных адресов разным людям со стороны MEW</p>
+                <p class="hidden">cl7ryxjhj01lec8zlk6mvf7lc</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/private-key-not-working/">
+              <div class="">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Закрытый ключ не работает</p>
+                <p class="hidden">cl7ryxjho01lmc8zls6wgblbh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/not-recommended/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">При доступе к кошельку MEW показывает сообщение «Не рекомендуется»</p>
+                <p class="hidden">cl7ryxjhu01ltc8zld0b10207</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Советы: как избежать фишинга / мошенничества</p>
+                <p class="hidden">cl7ryxjhz01m3c8zlekpsy3py</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/should-i-keep-eth-on-multiple-addresses/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?</p>
+                <p class="hidden">cl7ryxjhr01lqc8zl8i7yo159</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-is-a-keystore-file/">
+              <div class="active">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</p>
+                <p class="hidden">cl7ryxjhv01lwc8zl091pbv10</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/mnemonic-phrase-password/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Mnemonic Phrase: Should I Include an Extra Word?</p>
+                <p class="hidden">cl7ryxjhg01lac8zln7dcq3et</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/mnemonic-phrase-extra-word/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Фраза восстановления: Стоит ли мне включить дополнительное слово?</p>
+                <p class="hidden">cl7ryxjhm01lic8zl5a7lanuh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-is-a-mnemonic-phrase/">
+              <div class="">
+                <div class="hidden post-index-number">10</div>
+                <p class="post-title">Что такое фраза для восстановления?</p>
+                <p class="hidden">cl7ryxjhx01m0c8zlg5qjhx2d</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/">
+              <div class="">
+                <div class="hidden post-index-number">11</div>
+                <p class="post-title">Что делать, если ваши средства украли</p>
+                <p class="hidden">cl7ryxji201m7c8zlksnc7mh1</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="customer">
+    
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+  </div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/security-and-privacy/what-is-a-keystore-file" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Что-такое-файл-JSON-или-же-файл-хранилища-ключей-Могу-ли-я-изменить-свой-пароль"><a href="#Что-такое-файл-JSON-или-же-файл-хранилища-ключей-Могу-ли-я-изменить-свой-пароль" class="headerlink" title="Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?"></a><strong>Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</strong></h1><h4 id="Файлы-хранилища-ключей-или-же-JSON-файлы-не-рекомендуется-использовать-для-получения-доступа-к-MyEtherWallet-MEW-Для-получения-дополнительной-информации-о-других-способах-доступа-ознакомьтесь-с-нашей-статьей-о-том-как-получить-доступ-к-кошельку"><a href="#Файлы-хранилища-ключей-или-же-JSON-файлы-не-рекомендуется-использовать-для-получения-доступа-к-MyEtherWallet-MEW-Для-получения-дополнительной-информации-о-других-способах-доступа-ознакомьтесь-с-нашей-статьей-о-том-как-получить-доступ-к-кошельку" class="headerlink" title="Файлы хранилища ключей, или же JSON-файлы не рекомендуется использовать для получения доступа к MyEtherWallet (MEW).  Для получения дополнительной информации о других способах доступа ознакомьтесь с нашей статьей о том,как получить доступ к кошельку."></a><strong>Файлы хранилища ключей, или же JSON-файлы не рекомендуется использовать для получения доступа к MyEtherWallet (MEW).  Для получения дополнительной информации о других способах доступа ознакомьтесь с нашей статьей о том,<a href="/ru/getting-started/how-to-access-your-wallet/">как получить доступ к кошельку</a>.</strong></h4><h6 id="Время-прочтения-мин"><a href="#Время-прочтения-мин" class="headerlink" title="Время прочтения:  мин."></a>Время прочтения:  мин.</h6><hr>
+<p>Ваш файл хранилища ключей, или же JSON-файл, содержит зашифрованную версию вашего закрытого ключа — это просто ваш закрытый ключ, закодированный в секретную строку символов. Взять, к примеру, слово apple. Если зашифровать это слово с разницей в 4 символа по алфавиту, оно будет выглядеть как dssoh. На первый взгляд совершенно непонятно, что означает dssoh. Однако если вы покажете кому-то это слово и расскажите, как вы его зашифровали, то этот человек сможет расшифровать его и получить слово apple! Это <strong>очень</strong> упрощенная версия того, как работает шифрование, но она дает представление о процессе.</p>
+<p>Когда вы указываете свой пароль при создании кошелька, то он используется для шифрования вашего закрытого ключа в файл хранилища ключей, или же JSON-файл. Если открыть этот файл, то вы увидите тарабарщину (лучше этого не делать — не открывайте свой JSON-файл!). Этот файл просто содержит ваш зашифрованный закрытый ключ, поэтому чтобы разблокировать свой кошелек с помощью этого метода, вам нужно использовать выбранный пароль. Вы не можете изменить свой пароль, не создав совершенно новый файл хранилища ключей, или же JSON-файл.</p>
+<p>Важно отметить, что надежность вашего пароля напрямую связана с целостностью файла хранилища ключей, или же JSON-файла. Если вы выберете слабый пароль, и хакер завладеет вашим зашифрованным ключом, он сможет подбирать его до тех пор, пока не обнаружит, какой пароль вы использовали. Выберите надежный пароль, чтобы шифрование было надежным!</p>
+<h2 id="Чтобы-изменить-файл-хранилища-ключей-и-пароль"><a href="#Чтобы-изменить-файл-хранилища-ключей-и-пароль" class="headerlink" title="Чтобы изменить файл хранилища ключей и пароль:"></a><strong>Чтобы изменить файл хранилища ключей и пароль:</strong></h2><p>Как указано выше, вы не можете изменить свой пароль, не создав совершенно новый файл JSON.</p>
+<p><strong>Шаг 1.</strong> Скачайте и установите наше <a href="https://chrome.google.com/webstore/detail/myetherwallet/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en" target="_blank" rel="noopener">расширение MEW для Chrome</a>.</p>
+<p><strong>Шаг 2.</strong> В расширении добавьте “Новый кошелек”, введя ваш закрытый ключ.</p>
+<ul>
+<li>Это не означает создание совершенно нового кошелька. Это означает, что вы добавите свой существующий кошелек в качестве нового кошелька в расширение.</li>
+</ul>
+<p><strong>Шаг 3.</strong> Введите надежный пароль и сохраните кошелек.</p>
+<ul>
+<li>Это будет новый пароль для вашего JSON-файла, поэтому выбирайте его хорошо подумав.</li>
+</ul>
+<p><strong>Шаг 4.</strong> Направляйтесь в раздел ‘Мои кошельки’ (Мy Wallets) в расширении и нажмите на три вертикальные точки в правом верхнем углу кошелька, затем нажмите ‘Обзор’ (View).</p>
+<p><strong>Шаг 5.</strong> Введите только что созданный пароль.</p>
+<p><strong>Шаг 6.</strong> Вы будете перенаправлены в раздел, где отображается информация о вашем кошельке. В этом разделе вы можете скачать новый файл хранилища ключей (JSON-файл) и использовать его для доступа в будущем.</p>
+<p>После загрузки нового файла хранилища ключей (JSON-файла) вы сможете продолжить использовать наше расширение для Chrome или же вернуться к использованию обычного MEW. Однако, поскольку вы используете файл хранилища ключей (JSON-файл), мы настоятельно рекомендуем научиться <a href="/ru/offline/offline-mew-looks-weird/">использовать MEW в оффлайн-режиме</a> для обеспечения безопасности вашей информации.</p>
+
+      </article>
+      <script
+              type="text/javascript"
+              src="https://crowdin.com/js/crowdjet/crowdjet.js">
+      </script>
+      <div
+              id="crowdjet-container"
+              data-project-id="361641"
+              style="bottom: 90px; right: 20px;">
+      </div>
+      <div
+              id="crowdjet-expand-container"
+              style="bottom: 10px; right: 20px;">
+      </div>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/security-and-privacy/should-i-keep-eth-on-multiple-addresses/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/security-and-privacy/mnemonic-phrase-password/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Mnemonic Phrase: Should I Include an Extra Word?</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mobile-content">
+  <div class="breadcrumbs-container page-container hidden">
+    <div class="mew___components_breadcrumbs">
+  <div class="wrap">
+    <div class="hidden"><a href="/"><i class="fa fa-home" aria-hidden="true"></i> Центр поддержки</a> >&nbsp;</div>
+    <div><a href="/ru/categories">Категории</a> >&nbsp;</div>
+    <div class="post-title"><span>[Безопасность и Приватность]</span> Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</div>
+  </div>  
+</div>
+
+  </div>
+  <div class="article-container page-container">
+    <div class="wrap-sidebar">
+      
+
+
+<aside>
+  <div class="search-form-container hidden">
+    <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://kb.myetherwallet.com"></form>
+  </div>
+  <div class="sidebar-search hidden">
+    <div class="mew___components_sidebar_sidebar-search-form">
+  <input id="sidebar-post-search-form" type="text" placeholder="Search">
+</div>
+
+  </div>
+  <div class="show-list-button">
+    <p>Show all posts</p>
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </div>
+  <div class="sidebar-primary-category mobile-post-list">
+    <ul>
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/lost-private-key/">
+              <div class="">
+                <div class="hidden post-index-number">1</div>
+                <p class="post-title">Утрата закрытого ключа</p>
+                <p class="hidden">cl7ryxjhd01l6c8zlkx81ppb8</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/">
+              <div class="">
+                <div class="hidden post-index-number">2</div>
+                <p class="post-title">Невозможность выдачи одинаковых публичных адресов разным людям со стороны MEW</p>
+                <p class="hidden">cl7ryxjhj01lec8zlk6mvf7lc</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/private-key-not-working/">
+              <div class="">
+                <div class="hidden post-index-number">3</div>
+                <p class="post-title">Закрытый ключ не работает</p>
+                <p class="hidden">cl7ryxjho01lmc8zls6wgblbh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/not-recommended/">
+              <div class="">
+                <div class="hidden post-index-number">4</div>
+                <p class="post-title">При доступе к кошельку MEW показывает сообщение «Не рекомендуется»</p>
+                <p class="hidden">cl7ryxjhu01ltc8zld0b10207</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/">
+              <div class="">
+                <div class="hidden post-index-number">5</div>
+                <p class="post-title">Советы: как избежать фишинга / мошенничества</p>
+                <p class="hidden">cl7ryxjhz01m3c8zlekpsy3py</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/should-i-keep-eth-on-multiple-addresses/">
+              <div class="">
+                <div class="hidden post-index-number">6</div>
+                <p class="post-title">Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?</p>
+                <p class="hidden">cl7ryxjhr01lqc8zl8i7yo159</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-is-a-keystore-file/">
+              <div class="active">
+                <div class="hidden post-index-number">7</div>
+                <p class="post-title">Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</p>
+                <p class="hidden">cl7ryxjhv01lwc8zl091pbv10</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/mnemonic-phrase-password/">
+              <div class="">
+                <div class="hidden post-index-number">8</div>
+                <p class="post-title">Mnemonic Phrase: Should I Include an Extra Word?</p>
+                <p class="hidden">cl7ryxjhg01lac8zln7dcq3et</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/mnemonic-phrase-extra-word/">
+              <div class="">
+                <div class="hidden post-index-number">9</div>
+                <p class="post-title">Фраза восстановления: Стоит ли мне включить дополнительное слово?</p>
+                <p class="hidden">cl7ryxjhm01lic8zl5a7lanuh</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-is-a-mnemonic-phrase/">
+              <div class="">
+                <div class="hidden post-index-number">10</div>
+                <p class="post-title">Что такое фраза для восстановления?</p>
+                <p class="hidden">cl7ryxjhx01m0c8zlg5qjhx2d</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          <li class="primary-category-post-title">
+            <a href="/ru/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/">
+              <div class="">
+                <div class="hidden post-index-number">11</div>
+                <p class="post-title">Что делать, если ваши средства украли</p>
+                <p class="hidden">cl7ryxji201m7c8zlksnc7mh1</p>
+              </div>
+            </a>
+          </li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+  <div class="sidebar-close-button">Close</div>
+</aside>
+    </div>
+    <div class="wrap-post-body">
+      <article id="post-ru/security-and-privacy/what-is-a-keystore-file" class="article article-type-post" itemscope itemprop="blogPost">
+        <h1 id="Что-такое-файл-JSON-или-же-файл-хранилища-ключей-Могу-ли-я-изменить-свой-пароль"><a href="#Что-такое-файл-JSON-или-же-файл-хранилища-ключей-Могу-ли-я-изменить-свой-пароль" class="headerlink" title="Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?"></a><strong>Что такое файл JSON, или же файл хранилища ключей?  Могу ли я изменить свой пароль?</strong></h1><h4 id="Файлы-хранилища-ключей-или-же-JSON-файлы-не-рекомендуется-использовать-для-получения-доступа-к-MyEtherWallet-MEW-Для-получения-дополнительной-информации-о-других-способах-доступа-ознакомьтесь-с-нашей-статьей-о-том-как-получить-доступ-к-кошельку"><a href="#Файлы-хранилища-ключей-или-же-JSON-файлы-не-рекомендуется-использовать-для-получения-доступа-к-MyEtherWallet-MEW-Для-получения-дополнительной-информации-о-других-способах-доступа-ознакомьтесь-с-нашей-статьей-о-том-как-получить-доступ-к-кошельку" class="headerlink" title="Файлы хранилища ключей, или же JSON-файлы не рекомендуется использовать для получения доступа к MyEtherWallet (MEW).  Для получения дополнительной информации о других способах доступа ознакомьтесь с нашей статьей о том,как получить доступ к кошельку."></a><strong>Файлы хранилища ключей, или же JSON-файлы не рекомендуется использовать для получения доступа к MyEtherWallet (MEW).  Для получения дополнительной информации о других способах доступа ознакомьтесь с нашей статьей о том,<a href="/ru/getting-started/how-to-access-your-wallet/">как получить доступ к кошельку</a>.</strong></h4><h6 id="Время-прочтения-мин"><a href="#Время-прочтения-мин" class="headerlink" title="Время прочтения:  мин."></a>Время прочтения:  мин.</h6><hr>
+<p>Ваш файл хранилища ключей, или же JSON-файл, содержит зашифрованную версию вашего закрытого ключа — это просто ваш закрытый ключ, закодированный в секретную строку символов. Взять, к примеру, слово apple. Если зашифровать это слово с разницей в 4 символа по алфавиту, оно будет выглядеть как dssoh. На первый взгляд совершенно непонятно, что означает dssoh. Однако если вы покажете кому-то это слово и расскажите, как вы его зашифровали, то этот человек сможет расшифровать его и получить слово apple! Это <strong>очень</strong> упрощенная версия того, как работает шифрование, но она дает представление о процессе.</p>
+<p>Когда вы указываете свой пароль при создании кошелька, то он используется для шифрования вашего закрытого ключа в файл хранилища ключей, или же JSON-файл. Если открыть этот файл, то вы увидите тарабарщину (лучше этого не делать — не открывайте свой JSON-файл!). Этот файл просто содержит ваш зашифрованный закрытый ключ, поэтому чтобы разблокировать свой кошелек с помощью этого метода, вам нужно использовать выбранный пароль. Вы не можете изменить свой пароль, не создав совершенно новый файл хранилища ключей, или же JSON-файл.</p>
+<p>Важно отметить, что надежность вашего пароля напрямую связана с целостностью файла хранилища ключей, или же JSON-файла. Если вы выберете слабый пароль, и хакер завладеет вашим зашифрованным ключом, он сможет подбирать его до тех пор, пока не обнаружит, какой пароль вы использовали. Выберите надежный пароль, чтобы шифрование было надежным!</p>
+<h2 id="Чтобы-изменить-файл-хранилища-ключей-и-пароль"><a href="#Чтобы-изменить-файл-хранилища-ключей-и-пароль" class="headerlink" title="Чтобы изменить файл хранилища ключей и пароль:"></a><strong>Чтобы изменить файл хранилища ключей и пароль:</strong></h2><p>Как указано выше, вы не можете изменить свой пароль, не создав совершенно новый файл JSON.</p>
+<p><strong>Шаг 1.</strong> Скачайте и установите наше <a href="https://chrome.google.com/webstore/detail/myetherwallet/nlbmnnijcnlegkjjpcfjclmcfggfefdm?hl=en" target="_blank" rel="noopener">расширение MEW для Chrome</a>.</p>
+<p><strong>Шаг 2.</strong> В расширении добавьте “Новый кошелек”, введя ваш закрытый ключ.</p>
+<ul>
+<li>Это не означает создание совершенно нового кошелька. Это означает, что вы добавите свой существующий кошелек в качестве нового кошелька в расширение.</li>
+</ul>
+<p><strong>Шаг 3.</strong> Введите надежный пароль и сохраните кошелек.</p>
+<ul>
+<li>Это будет новый пароль для вашего JSON-файла, поэтому выбирайте его хорошо подумав.</li>
+</ul>
+<p><strong>Шаг 4.</strong> Направляйтесь в раздел ‘Мои кошельки’ (Мy Wallets) в расширении и нажмите на три вертикальные точки в правом верхнем углу кошелька, затем нажмите ‘Обзор’ (View).</p>
+<p><strong>Шаг 5.</strong> Введите только что созданный пароль.</p>
+<p><strong>Шаг 6.</strong> Вы будете перенаправлены в раздел, где отображается информация о вашем кошельке. В этом разделе вы можете скачать новый файл хранилища ключей (JSON-файл) и использовать его для доступа в будущем.</p>
+<p>После загрузки нового файла хранилища ключей (JSON-файла) вы сможете продолжить использовать наше расширение для Chrome или же вернуться к использованию обычного MEW. Однако, поскольку вы используете файл хранилища ключей (JSON-файл), мы настоятельно рекомендуем научиться <a href="/ru/offline/offline-mew-looks-weird/">использовать MEW в оффлайн-режиме</a> для обеспечения безопасности вашей информации.</p>
+
+      </article>
+      <div class="thumbs-and-share-container">
+        <div class="share">
+          <div class="mew___components_share">
+  <div class="wrap">
+    <div class="title">Поделиться</div>
+    <div><a href="https://www.facebook.com/MyEtherWallet" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+    <div><a href="https://twitter.com/myetherwallet" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.linkedin.com/company/myetherwallet" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+    <div><a href="https://www.reddit.com/r/MyEtherWallet/" target="_blank"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a></div>
+    <div><a href="https://medium.com/@myetherwallet" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a></div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="pre-next-posts">
+        
+
+
+<div class="related-posts">
+
+  
+    <a href="/ru/security-and-privacy/should-i-keep-eth-on-multiple-addresses/">
+      <div class="pre-post valid">
+        <div class="button-title">< Предыдущий</div>
+        <p class="post-title">Нужно ли мне хранить свои токены ETH и ERC20 на нескольких адресах?</p>
+      </div>
+    </a>
+  
+
+  
+    <a href="/ru/security-and-privacy/mnemonic-phrase-password/">
+      <div class="next-post valid">
+        <div class="button-title">Далее ></div>
+        <p class="post-title">Mnemonic Phrase: Should I Include an Extra Word?</p>
+      </div>
+    </a>
+  
+
+</div>
+
+
+      </div>
+    </div>
+    <div class="padded-wrap">
+      
+<div class="mew___components_sidebar_customer-support-block">
+  <div class="wrap">
+    <div class="icon-image">
+      <img src="../../../images/mew-icons/customer-support.svg">
+    </div>
+    <div class="content">
+      <div class="title">Служба поддержки</div>
+      <div class="email-us">
+        <a href="mailto:support@myetherwallet.com" target="_blank">
+          Отправьте нам электронное сообщение&#x2192;
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- .bottom-helpers -->
+
+    </div>
+  </div>
+</div>
+
+
+      <footer>
+  <div class="page-container">
+    <div class="wrap">
+      <div class="block-left">
+        <p><a href="/ru/../index.html">Домашняя страница</a></p>
+        <p class="hidden"><a href="https://myetherwallet.com" target="_blank">MyEtherWallet.com</a></p>
+        <p><a href="https://www.myetherwallet.com/privacy-policy" target="_blank">Конфиденциальность</a></p>
+        <p><a href="https://www.myetherwallet.com/terms-and-conditions" target="_blank">Условия</a></p>
+      </div>
+      <div class="block-right">
+        <p>© 2021 MyEtherWallet. Все права защищены.</p>
+      </div>
+    </div>
+  </div>
+  <div class="app-banner js-app-banner">
+    <p><p> Покупайте, храните, и отправляйте Ether и токены. Исследуйте Ethereum со своего мобильного телефона.</p></p>
+    <a href="javascript:void(0);" class="app-banner-get js-get-app">
+      Get the app
+      <img src="../../../images/mew-icons/arrow.svg">
+    </a>
+    <div class="app-banner-links">
+      <a href="https://www.myetherwallet.com/"><img src="../../../images/mew-icons/mew_badge.svg"></a>
+      <a href="https://apps.apple.com/app/apple-store/id1464614025?pt=118781877&ct=KB&mt=8"><img src="../../../images/mew-icons/app_store_badge.svg"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet"><img src="../../../images/mew-icons/google_play_bage.svg"></a>
+    </div>
+    <a href="javascript:void(0);" class="app-banner-close js-close-app-banner"><img src="../../../images/mew-icons/close.svg"></a>
+  </div>
+</footer>
+    </div>
+  </div>
+
+  <script src="../../../js/jquery.min.js"></script>
+<script src="../../../js/initialization.js"></script>
+<script src="../../../js/mew/accordion.js"></script>
+<script src="../../../js/mew/youtube-popup.js"></script>
+<script src="../../../js/mew/sidebar.js"></script>
+<script src="../../../js/mew/sidebar-post-search.js"></script>
+<script src="../../../js/mew/header-post-search.js"></script>
+
+</body>
+</html>
