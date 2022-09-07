@@ -8,57 +8,57 @@
     </url>
     
     <url>
-        <loc>https://kb.myetherwallet.com/ru/</loc>
-        <lastmod>2022-09-06T23:54:05.096Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/faqs/</loc>
-        <lastmod>2022-09-06T23:54:05.096Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/videos/</loc>
-        <lastmod>2022-09-06T23:54:05.096Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/categories/</loc>
-        <lastmod>2022-09-06T23:54:05.092Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>https://kb.myetherwallet.com/en/</loc>
-        <lastmod>2022-09-06T23:54:04.716Z</lastmod>
+        <lastmod>2022-09-07T21:27:06.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/</loc>
+        <lastmod>2022-09-07T21:27:06.046Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://kb.myetherwallet.com/en/categories/</loc>
-        <lastmod>2022-09-06T23:54:04.716Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://kb.myetherwallet.com/en/videos/</loc>
-        <lastmod>2022-09-06T23:54:04.716Z</lastmod>
+        <lastmod>2022-09-07T21:27:06.046Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://kb.myetherwallet.com/en/faqs/</loc>
-        <lastmod>2022-09-06T23:54:04.716Z</lastmod>
+        <lastmod>2022-09-07T21:27:06.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://kb.myetherwallet.com/en/videos/</loc>
+        <lastmod>2022-09-07T21:27:06.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/categories/</loc>
+        <lastmod>2022-09-07T21:27:06.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/faqs/</loc>
+        <lastmod>2022-09-07T21:27:06.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/videos/</loc>
+        <lastmod>2022-09-07T21:27:06.046Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
