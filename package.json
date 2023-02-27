@@ -20,9 +20,9 @@
     "update:packages": "node package-test.js"
   },
   "dependencies": {
-    "hexo": "^3.9.0",
+    "hexo": "^6.3.0",
     "hexo-auto-canonical": "^0.1.1",
-    "hexo-deployer-git": "^1.0.0",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-fs": "^1.0.2",
     "hexo-generator-alias": "^0.1.3",
     "hexo-generator-archive": "^0.1.5",
@@ -36,7 +36,7 @@
     "hexo-server": "^0.3.3",
     "hexo-util": "^0.6.3",
     "hexo-wordcount": "^6.0.1",
-    "npm": "^6.11.2",
+    "npm": "^6.14.18",
     "package-json": "^6.5.0",
     "yaml-front-matter": "^4.1.0"
   },
